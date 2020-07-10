@@ -1,0 +1,19 @@
+VER 3 0100000000000004 "Dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip Детоксикация
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Детоксикация
+END
+VER 3 0100000000000003 "Egg" "INV_MISC_QUESTIONMARK"
+#showtooltip Раскрашенное яйцо
+/use Раскрашенное яйцо
+/cancelaura Зайчик Сада чудес
+END
+VER 3 0100000000000005 "Tiger" "INV_MISC_QUESTIONMARK"
+#showtooltip Тигриное рвение
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Тигриное рвение
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниа[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

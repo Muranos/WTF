@@ -1,0 +1,70 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Алоиза-Борейская тундра",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128868] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 72,
+					["Type"] = "Shadow",
+				}, -- [2]
+				{
+					["ItemLevel"] = 65,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Ярость Света",
+		},
+		[128827] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 81,
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 74,
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "Ксал'атат, клинок Темной Империи",
+		},
+		[128825] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 70,
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 59,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Т'ууре, Светоч наару",
+		},
+		[133755] = {
+			["Relics"] = {
+			},
+			["Name"] = "Удочка Темносвета",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PRIEST",
+	["LastAdded"] = 1,
+}

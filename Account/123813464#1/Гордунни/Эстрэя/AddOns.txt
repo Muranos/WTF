@@ -1,0 +1,15 @@
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+BigWigs_Core: enabled
+WeakAurasCompanion: enabled
+LittleWigs: enabled
+OPie_Classic: disabled
+FriendGroups: disabled
+BigWigs_Azeroth: enabled
+AllTheThings: enabled
+WeakAurasArchive: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
+BigWigs_Nyalotha: enabled
+MoveAnything: enabled
+Quartz: disabled

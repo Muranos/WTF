@@ -1,0 +1,38 @@
+
+RaiderIO_Config = {
+	["enableKeystoneTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
+	["disableScoreColors"] = false,
+	["showDropDownCopyURL"] = true,
+	["enableWhoTooltips"] = true,
+	["enableLFGTooltips"] = true,
+	["showSimpleScoreColors"] = false,
+	["showMainsScore"] = true,
+	["enableWhoMessages"] = true,
+	["showScoreInCombat"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+}
+RaiderIO_LastCharacter = "eu-Ниамэй-gordunni"
+RaiderIO_MissingCharacters = {
+	["eu-Прямовлоб-razuvious"] = true,
+	["eu-Кукурудзе-galakrond"] = true,
+	["eu-Винчунг-soulflayer"] = true,
+	["eu-Жонневич-ashenvale"] = true,
+	["eu-Исакара-howling-fjord"] = true,
+	["eu-Нарготронд-gordunni"] = true,
+	["eu-Икзо-howling-fjord"] = true,
+	["eu-Интаро-ashenvale"] = true,
+	["eu-Аннеля-booty-bay"] = true,
+	["eu-Стоквел-lich-king"] = true,
+	["eu-Гёндальф-borean-tundra"] = true,
+	["eu-Иёся-howling-fjord"] = true,
+	["eu-Неизвестно-gordunni"] = true,
+	["eu-Фрули-goldrinn"] = true,
+	["eu-Волнение-gordunni"] = true,
+	["eu-Рагнархант-soulflayer"] = true,
+	["eu-Томасбах-blackscar"] = true,
+	["eu-Халковник-deathweaver"] = true,
+}

@@ -1,0 +1,75 @@
+VER 3 0100000000000018 "Candy" "INV_MISC_QUESTIONMARK"
+#showtooltip Пригоршня конфет
+/use Пригоршня конфет
+END
+VER 3 0100000000000002 "Combo" "INV_Misc_QuestionMark"
+#showtooltip Вендетта
+/use Талисман Ми'даса
+/cast Вендетта
+/cast Теневое отражение
+END
+VER 3 0100000000000001 "Destruction" "INV_Misc_QuestionMark"
+#showtooltip Устранение
+/cast Кровь земли
+/cast Устранение
+END
+VER 3 010000000000000F "DispelMagic" "INV_Misc_QuestionMark"
+#showtooltip Очищение
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение
+END
+VER 3 010000000000001C "DualMount" "INV_Elemental_Primal_Fire"
+/cast [flyable,nomounted] Пепел Ал'ара
+/cast [noflyable,nomounted] Лазурный водный долгоног
+/dismount [mounted]
+END
+VER 3 0100000000000017 "Fishing" "INV_MISC_QUESTIONMARK"
+#showtooltip Маленькие хитрости
+/cast [@mouseover,help,nodead] Маленькие хитрости
+END
+VER 3 0100000000000013 "Heal" "INV_Misc_QuestionMark"
+#showtooltip Исцеление
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Исцеление
+END
+VER 3 0100000000000016 "HeartOfTheAspect" "Ability_Monk_ThunderFocusTea"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted] Пепел Ал'ара
+/cast [noflyable,noindoors] Золотистый древний дикорог
+/dismount [mounted]
+END
+VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
+#showtooltip Ослепление
+/target Сигрин
+/cast Ослепление
+/targetlasttarget
+END
+VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
+#showtooltip Отравление
+END
+VER 3 0100000000000007 "PrayerOfHealing" "INV_Misc_QuestionMark"
+#showtooltip Молитва исцеления
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва исцеления
+END
+VER 3 010000000000000D "Rasprava" "INV_Misc_QuestionMark"
+#showtooltip Расправа
+/cast Кровь земли
+/cast Расправа
+END
+VER 3 0100000000000006 "Steal" "INV_Misc_QuestionMark"
+#showtooltip Обшаривание карманов
+/cast [@mouseover, exists] Обшаривание карманов; [exists] Обшаривание карманов
+END
+VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted]Гнев Дракона, вечный покой Таресгосы
+/cast [noflyable,noindoors] Повелитель воронов
+/dismount [mounted]
+END
+VER 3 010000000000001F "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1RM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000020 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Алт[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

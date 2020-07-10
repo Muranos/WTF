@@ -1,0 +1,7 @@
+OPie_Classic: disabled
+FriendGroups: disabled
+AllTheThings: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled
+MoveAnything: enabled
+Quartz: disabled

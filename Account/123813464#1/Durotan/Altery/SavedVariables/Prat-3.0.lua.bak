@@ -1,0 +1,2179 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 2,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[05:18:16]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wadjet-ZirkeldesCenarius:165:INSTANCE_CHAT|h|cffd84e4e120|r:|cffa22fc8Wadjet|r-|cffb8c3fbZir|r|h|cffd8d8d8]|r: Guten morgen",
+					["serverTime"] = 1593829095,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919147.684,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[05:20:56]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wadjet-ZirkeldesCenarius:200:INSTANCE_CHAT|h|cffd84e4e120|r:|cffa22fc8Wadjet|r-|cffb8c3fbZir|r|h|cffd8d8d8]|r: dake bb",
+					["serverTime"] = 1593829255,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919308.382,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [2]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 65,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[05:26:52]|h Ihr erhaltet Beute: |cffffffff|Hitem:154898::::::::112:259::::::|h[Fleischige Keule]|h|rx6.",
+					["serverTime"] = 1593829611,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919663.593,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[05:26:52]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:155629::::::::112:259::::::|h[Zottige Mähne]|h|r.",
+					["serverTime"] = 1593829611,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919663.865,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[05:26:52]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:155593::::::::112:259::::::|h[Brustbeinkamm]|h|r.",
+					["serverTime"] = 1593829611,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919663.885,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[05:26:52]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158808::::::::112:259::::::|h[Dicke Sehne]|h|r.",
+					["serverTime"] = 1593829611,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919664.113,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[05:26:52]|h Ihr erhaltet Beute: |cff1eff00|Hitem:159571::::::::112:259:512::2:4796:1691:112:::|h[Tiefenwachtstab des Feuersturms]|h|r.",
+					["serverTime"] = 1593829611,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919664.241,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[05:26:57]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 21 erhöht.",
+					["serverTime"] = 1593829616,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919668.634,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[05:26:57]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|r.",
+					["serverTime"] = 1593829616,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919669.317,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[05:26:57]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829616,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919669.446,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[05:26:58]|h Ihr erhaltet Beute: |cffffffff|Hitem:154164::::::::112:259::::::|h[Blutbefleckter Knochen]|h|r.",
+					["serverTime"] = 1593829617,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919669.557,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[05:27:00]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 22 erhöht.",
+					["serverTime"] = 1593829619,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919671.639,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[05:27:00]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|rx3.",
+					["serverTime"] = 1593829619,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919672.3150000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[05:27:00]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829619,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919672.395,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[05:27:01]|h Ihr erhaltet Beute: |cffffffff|Hitem:154164::::::::112:259::::::|h[Blutbefleckter Knochen]|h|r.",
+					["serverTime"] = 1593829620,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919672.545,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[05:27:11]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829630,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919683.027,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[05:27:11]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 36 erhöht.",
+					["serverTime"] = 1593829630,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919683.027,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[05:27:12]|h Ihr erhaltet Beute: |cffffffff|Hitem:152508::::::::112:259::::::|h[Winterkuss]|h|rx2.",
+					["serverTime"] = 1593829631,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919683.681,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[05:27:44]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 37 erhöht.",
+					["serverTime"] = 1593829663,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919716.263,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[05:27:44]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829663,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919716.263,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[05:27:45]|h Ihr erhaltet Beute: |cffffffff|Hitem:152508::::::::112:259::::::|h[Winterkuss]|h|rx2.",
+					["serverTime"] = 1593829664,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919716.937,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[05:28:23]|h Monströser Grizzly stirbt, Ihr bekommt 2844 Erfahrung.",
+					["serverTime"] = 1593829702,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919754.866,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[05:28:24]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158808::::::::112:259::::::|h[Dicke Sehne]|h|r.",
+					["serverTime"] = 1593829703,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919756.161,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[05:28:26]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 23 erhöht.",
+					["serverTime"] = 1593829705,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919758.278,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[05:28:27]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|rx2.",
+					["serverTime"] = 1593829706,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919758.881,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[05:28:27]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829706,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919759.071,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[05:28:27]|h Ihr erhaltet Beute: |cff1eff00|Hitem:154165::::::::112:259::::::|h[Kalzifizierter Knochen]|h|r.",
+					["serverTime"] = 1593829706,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919759.071,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[05:29:55]|h Alte Frostklaue stirbt, Ihr bekommt 7109 Erfahrung.",
+					["serverTime"] = 1593829794,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919846.6190000001,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[05:29:57]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:155629::::::::112:259::::::|h[Zottige Mähne]|h|r.",
+					["serverTime"] = 1593829796,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919848.8420000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[05:29:57]|h Ihr erhaltet Beute: |cffffffff|Hitem:154898::::::::112:259::::::|h[Fleischige Keule]|h|rx2.",
+					["serverTime"] = 1593829796,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919848.935,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[05:29:59]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 24 erhöht.",
+					["serverTime"] = 1593829798,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919851.135,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[05:30:00]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|rx2.",
+					["serverTime"] = 1593829799,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919851.751,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[05:30:00]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829799,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919851.985,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[05:30:00]|h Ihr erhaltet Beute: |cff1eff00|Hitem:154165::::::::112:259::::::|h[Kalzifizierter Knochen]|h|rx2.",
+					["serverTime"] = 1593829799,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919852.055,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[05:30:12]|h Der Reinquellpass entdeckt: 1670 Erfahrung erhalten.",
+					["serverTime"] = 1593829811,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919864.134,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[05:30:17]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829816,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919869.317,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[05:30:17]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 38 erhöht.",
+					["serverTime"] = 1593829816,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919869.317,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[05:30:18]|h Ihr erhaltet Beute: |cff1eff00|Hitem:152510::::::::112:259::::::|h[Ankerkraut]|h|r.",
+					["serverTime"] = 1593829817,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919869.9400000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[05:30:28]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 39 erhöht.",
+					["serverTime"] = 1593829827,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919880.012,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[05:30:28]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829827,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919880.012,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[05:30:28]|h Ihr erhaltet Beute: |cffffffff|Hitem:152505::::::::112:259::::::|h[Flussknospe]|h|rx2.",
+					["serverTime"] = 1593829827,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919880.514,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[05:30:58]|h Monströser Grizzly stirbt, Ihr bekommt 2844 Erfahrung.",
+					["serverTime"] = 1593829857,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919910.34,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[05:31:00]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:155629::::::::112:259::::::|h[Zottige Mähne]|h|r.",
+					["serverTime"] = 1593829859,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919911.5750000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[05:31:00]|h Ihr erhaltet Beute: |cffffffff|Hitem:154898::::::::112:259::::::|h[Fleischige Keule]|h|r.",
+					["serverTime"] = 1593829859,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919911.666,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[05:31:02]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 25 erhöht.",
+					["serverTime"] = 1593829861,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919913.809,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[05:31:02]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|rx2.",
+					["serverTime"] = 1593829861,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919914.395,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[05:31:02]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829861,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919914.395,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[05:31:02]|h Ihr erhaltet Beute: |cffffffff|Hitem:154164::::::::112:259::::::|h[Blutbefleckter Knochen]|h|r.",
+					["serverTime"] = 1593829861,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919914.395,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[05:31:06]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 40 erhöht.",
+					["serverTime"] = 1593829865,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919917.562,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[05:31:06]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829865,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919917.562,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[05:31:06]|h Ihr erhaltet Beute: |cffffffff|Hitem:152508::::::::112:259::::::|h[Winterkuss]|h|rx2.",
+					["serverTime"] = 1593829865,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919918.171,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[05:31:31]|h Monströser Grizzly stirbt, Ihr bekommt 2844 Erfahrung.",
+					["serverTime"] = 1593829890,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919943.101,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[05:31:32]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158808::::::::112:259::::::|h[Dicke Sehne]|h|r.",
+					["serverTime"] = 1593829891,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919944.353,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[05:31:34]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 26 erhöht.",
+					["serverTime"] = 1593829893,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919946.512,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[05:31:35]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|rx3.",
+					["serverTime"] = 1593829894,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919947.175,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[05:31:35]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829894,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919947.275,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[05:31:35]|h Ihr erhaltet Beute: |cffffffff|Hitem:154164::::::::112:259::::::|h[Blutbefleckter Knochen]|h|rx2.",
+					["serverTime"] = 1593829894,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919947.425,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[05:31:59]|h Monströser Grizzly stirbt, Ihr bekommt 2844 Erfahrung.",
+					["serverTime"] = 1593829918,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919971.1950000001,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[05:32:01]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158808::::::::112:259::::::|h[Dicke Sehne]|h|r.",
+					["serverTime"] = 1593829920,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919972.552,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[05:32:03]|h Eure Fertigkeit 'Kürschnerei von Kul Tiras' hat sich auf 27 erhöht.",
+					["serverTime"] = 1593829922,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919974.829,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[05:32:03]|h Ihr erhaltet Beute: |cffffffff|Hitem:152541::::::::112:259::::::|h[Raues Leder]|h|r.",
+					["serverTime"] = 1593829922,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919975.503,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[05:32:04]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:158751::::::::112:259::::::|h[Matter Pelz]|h|r.",
+					["serverTime"] = 1593829923,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919975.6410000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [60]
+				{
+					["message"] = "|Hpratcopy|h[05:32:04]|h Ihr erhaltet Beute: |cff1eff00|Hitem:154165::::::::112:259::::::|h[Kalzifizierter Knochen]|h|rx2.",
+					["serverTime"] = 1593829923,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919975.751,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [61]
+				{
+					["message"] = "|Hpratcopy|h[05:36:06]|h Ihr wurdet aus der Warteschlange entfernt, da Ihr die Einladung abgelehnt habt.",
+					["serverTime"] = 1593830165,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 920218.037,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|Hpratcopy|h[05:38:15]|h Ihr seid jetzt nicht an der Tastatur: AFK",
+					["serverTime"] = 1593830294,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 920346.774,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|Hpratcopy|h[05:49:02]|h Ihr werdet nicht mehr mit 'Nicht an der Tastatur' angezeigt.",
+					["serverTime"] = 1593830942,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 920994.464,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[05:49:04]|h Ihr fühlt Euch erholt.",
+					["serverTime"] = 1593830944,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 920995.8250000001,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|Hpratcopy|h[05:20:52]|h Blackvelvet-Alleria erhält Beute: |cffffffff|Hitem:35557::::::::112:259::::::|h[Riesiger Schneeball]|h|rx2.",
+					["serverTime"] = 1593829251,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919304.226,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [66]
+				{
+					["message"] = "|Hpratcopy|h[05:20:52]|h Ihr erhaltet Beute: |cffffffff|Hitem:35723::::::::112:259::::::|h[Splitter von Ahune]|h|r.",
+					["serverTime"] = 1593829251,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919304.354,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[05:20:52]|h Quest angenommen: Splitter von Ahune",
+					["serverTime"] = 1593829251,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919304.448,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[05:20:53]|h Darkjulia-Nethersturm erhält Beute: |cffffffff|Hitem:35557::::::::112:259::::::|h[Riesiger Schneeball]|h|rx2.",
+					["serverTime"] = 1593829252,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919304.566,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[05:20:53]|h Darkjulia-Nethersturm bekommt Beute: |cffa335ee|Hitem:117374::::::::112:259:512::1:6423:120:::|h[Eingefrorener Umhang]|h|r.",
+					["serverTime"] = 1593829252,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919304.701,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[05:20:53]|h Ihr plündert 17 Gold, 80 Silber, 35 Kupfer",
+					["serverTime"] = 1593829252,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919305.011,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[05:20:55]|h Alyna-Rexxar erhält Beute: |cffffffff|Hitem:35557::::::::112:259::::::|h[Riesiger Schneeball]|h|rx2.",
+					["serverTime"] = 1593829254,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919307.4,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[05:20:56]|h Alyna-Rexxar bekommt Beute: |cffffffff|Hitem:35723::::::::112:259::::::|h[Splitter von Ahune]|h|r.",
+					["serverTime"] = 1593829255,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919307.552,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[05:20:56]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wadjet-ZirkeldesCenarius:200:INSTANCE_CHAT|h|cffd84e4e120|r:|cffa22fc8Wadjet|r-|cffb8c3fbZir|r|h|cffd8d8d8]|r: dake bb",
+					["serverTime"] = 1593829255,
+					["r"] = 1,
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919308.382,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[05:21:02]|h |cffa5a5a5Wadjet|r-ZirkeldesCenarius hat die Instanzgruppe verlassen.",
+					["serverTime"] = 1593829261,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919313.537,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[05:21:02]|h |cffa5a5a5Darkjulia|r-Nethersturm hat die Instanzgruppe verlassen.",
+					["serverTime"] = 1593829261,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919313.674,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[05:21:05]|h |cffa5a5a5Alyna|r-Rexxar hat die Instanzgruppe verlassen.",
+					["serverTime"] = 1593829264,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919316.846,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[05:21:10]|h Blackvelvet-Alleria bekommt Beute: |cff9d9d9d|Hitem:17057::::::::112:259::::::|h[Glänzende Fischschuppen]|h|r.",
+					["serverTime"] = 1593829269,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919322.339,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[05:21:12]|h Ihr bekommt 39362 Erfahrung.",
+					["serverTime"] = 1593829271,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919323.5920000001,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[05:21:12]|h Splitter von Ahune abgeschlossen.",
+					["serverTime"] = 1593829271,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919323.652,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[05:21:12]|h Erhaltene Erfahrung: 39362.",
+					["serverTime"] = 1593829271,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919323.652,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[05:21:12]|h Erhalten: 20 Gold, 20 Silber.",
+					["serverTime"] = 1593829271,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919323.652,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[05:21:12]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:23247::::::::112:259::::::|h[Brandblüte]|h|rx20.",
+					["serverTime"] = 1593829271,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919323.709,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[05:21:12]|h Ihr bekommt einen Gegenstand: |cff0070dd|Hitem:35279::::::::112:259::11::::|h[Sommerlicher Himmelswappenrock]|h|r.",
+					["serverTime"] = 1593829271,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919323.709,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[05:21:19]|h Blackvelvet-Alleria erhält Beute: |cffffffff|Hitem:23247::::::::112:259::::::|h[Brandblüte]|h|rx12.",
+					["serverTime"] = 1593829278,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919331.126,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[05:21:21]|h Ihr bekommt 35 Erfahrung.",
+					["serverTime"] = 1593829280,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919332.716,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[05:21:21]|h Ihr erhaltet Beute: |cffffffff|Hitem:22787::::::::112:259::::::|h[Zottelkappe]|h|r.",
+					["serverTime"] = 1593829280,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919333.328,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[05:21:25]|h Ihr verlasst die Gruppe.",
+					["serverTime"] = 1593829284,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919337.269,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[05:21:48]|h Animiertes Azerit stirbt, Ihr bekommt 1422 Erfahrung.",
+					["serverTime"] = 1593829307,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919359.755,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[05:21:49]|h Ihr erhaltet Beute: |cffffffff|Hitem:157778::::::::112:259::::::|h[Azeritstaub]|h|rx6.",
+					["serverTime"] = 1593829308,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919360.957,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [90]
+				{
+					["message"] = "|Hpratcopy|h[05:21:49]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:159756::::::::112:259::::::|h[Ausgelaugtes Azerit]|h|r.",
+					["serverTime"] = 1593829308,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919360.957,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [91]
+				{
+					["message"] = "|Hpratcopy|h[05:21:52]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829311,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919364.306,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [92]
+				{
+					["message"] = "|Hpratcopy|h[05:21:52]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 31 erhöht.",
+					["serverTime"] = 1593829311,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919364.306,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [93]
+				{
+					["message"] = "|Hpratcopy|h[05:21:53]|h Ihr erhaltet Beute: |cffffffff|Hitem:152509::::::::112:259::::::|h[Sirenenpollen]|h|rx2.",
+					["serverTime"] = 1593829312,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919364.991,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [94]
+				{
+					["message"] = "|Hpratcopy|h[05:21:57]|h Ihr befindet Euch nun in der Warteschlange des Dungeonbrowsers.",
+					["serverTime"] = 1593829316,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919368.778,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|Hpratcopy|h[05:22:05]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829324,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919376.973,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [96]
+				{
+					["message"] = "|Hpratcopy|h[05:22:05]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 32 erhöht.",
+					["serverTime"] = 1593829324,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919376.973,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [97]
+				{
+					["message"] = "|Hpratcopy|h[05:22:05]|h Ihr erhaltet Beute: |cffffffff|Hitem:152505::::::::112:259::::::|h[Flussknospe]|h|rx3.",
+					["serverTime"] = 1593829324,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919377.328,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [98]
+				{
+					["message"] = "|Hpratcopy|h[05:22:23]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 33 erhöht.",
+					["serverTime"] = 1593829342,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919394.84,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [99]
+				{
+					["message"] = "|Hpratcopy|h[05:22:23]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829342,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919394.84,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [100]
+				{
+					["message"] = "|Hpratcopy|h[05:22:23]|h Ihr erhaltet Beute: |cffffffff|Hitem:152505::::::::112:259::::::|h[Flussknospe]|h|rx2.",
+					["serverTime"] = 1593829342,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919395.513,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [101]
+				{
+					["message"] = "|Hpratcopy|h[05:22:38]|h Eine Prise Azerit abgeschlossen.",
+					["serverTime"] = 1593829357,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919410.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|Hpratcopy|h[05:22:38]|h Erhaltene Erfahrung: 39362.",
+					["serverTime"] = 1593829357,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919410.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|Hpratcopy|h[05:22:38]|h Erhalten: 20 Gold, 20 Silber.",
+					["serverTime"] = 1593829357,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919410.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|Hpratcopy|h[05:22:38]|h Ihr bekommt 39362 Erfahrung.",
+					["serverTime"] = 1593829357,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919410.226,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [105]
+				{
+					["message"] = "|Hpratcopy|h[05:22:38]|h Euer Ruf bei der Fraktion 'Prachtmeeradmiralität' hat sich um 83 verbessert.",
+					["serverTime"] = 1593829357,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919410.226,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [106]
+				{
+					["message"] = "|Hpratcopy|h[05:22:44]|h Quest angenommen: Stein trifft Dynamit",
+					["serverTime"] = 1593829363,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919416.106,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|Hpratcopy|h[05:22:59]|h Die Winterschlundmine entdeckt: 1670 Erfahrung erhalten.",
+					["serverTime"] = 1593829378,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919431.13,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|Hpratcopy|h[05:23:39]|h Erdformer Brugaw sagt: Mein schicker Stein! Nur für mich!",
+					["serverTime"] = 1593829418,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						14, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919471.127,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [109]
+				{
+					["message"] = "|Hpratcopy|h[05:23:50]|h Sprengstoffexpertin Prim sagt: Mehr Explosionen!",
+					["serverTime"] = 1593829429,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						14, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919482.067,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [110]
+				{
+					["message"] = "|Hpratcopy|h[05:23:52]|h Bautechnikerin Alena sagt: Ich könnte schwören, Ihr seid ein halber Goblin.",
+					["serverTime"] = 1593829431,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						14, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919484.501,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [111]
+				{
+					["message"] = "|Hpratcopy|h[05:24:14]|h Erdformer Brugaw stirbt, Ihr bekommt 7109 Erfahrung.",
+					["serverTime"] = 1593829453,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919505.67,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [112]
+				{
+					["message"] = "|Hpratcopy|h[05:24:14]|h Sprengstoffexpertin Prim sagt: Wir haben es geschafft!",
+					["serverTime"] = 1593829453,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						14, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919505.817,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [113]
+				{
+					["message"] = "|Hpratcopy|h[05:24:18]|h Bautechnikerin Alena sagt: Ihr solltet Euch bei Theock melden. Er wird sich freuen, dass die Mine wieder unter Kontrolle ist.",
+					["serverTime"] = 1593829457,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						14, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919510.032,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [114]
+				{
+					["message"] = "|Hpratcopy|h[05:24:21]|h Ihr erhaltet Beute: |cff1eff00|Hitem:159167::::::::112:259:512::2:4796:1713:112:::|h[Freihafenarmschienen des Harmonischen]|h|r.",
+					["serverTime"] = 1593829460,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919512.542,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [115]
+				{
+					["message"] = "|Hpratcopy|h[05:24:21]|h Ihr plündert 92 Silber, 93 Kupfer",
+					["serverTime"] = 1593829460,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919513.4550000001,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|Hpratcopy|h[05:25:21]|h Blubberndes Azerit stirbt, Ihr bekommt 1422 Erfahrung.",
+					["serverTime"] = 1593829520,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919573.014,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [117]
+				{
+					["message"] = "|Hpratcopy|h[05:25:22]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:157844::::::::112:259::::::|h[Schillerndes Partikel]|h|r.",
+					["serverTime"] = 1593829521,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919574.067,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [118]
+				{
+					["message"] = "|Hpratcopy|h[05:25:22]|h Ihr erhaltet Beute: |cff1eff00|Hitem:159230::::::::112:259:512::2:4796:1699:112:::|h[Umhang von Aschenwind & Co. des Hitzeschocks]|h|r.",
+					["serverTime"] = 1593829521,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919574.134,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [119]
+				{
+					["message"] = "|Hpratcopy|h[05:25:29]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 34 erhöht.",
+					["serverTime"] = 1593829528,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919581.362,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [120]
+				{
+					["message"] = "|Hpratcopy|h[05:25:29]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829528,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919581.362,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [121]
+				{
+					["message"] = "|Hpratcopy|h[05:25:30]|h Ihr erhaltet Beute: |cffffffff|Hitem:152506::::::::112:259::::::|h[Sternmoos]|h|r.",
+					["serverTime"] = 1593829529,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919582.0480000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [122]
+				{
+					["message"] = "|Hpratcopy|h[05:25:41]|h Ihr bekommt 3877 Erfahrung.",
+					["serverTime"] = 1593829540,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919592.806,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [123]
+				{
+					["message"] = "|Hpratcopy|h[05:25:41]|h Eure Fertigkeit 'Kräuterkunde von Kul Tiras' hat sich auf 35 erhöht.",
+					["serverTime"] = 1593829540,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919592.927,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [124]
+				{
+					["message"] = "|Hpratcopy|h[05:25:41]|h Ihr erhaltet Beute: |cff1eff00|Hitem:152510::::::::112:259::::::|h[Ankerkraut]|h|rx2.",
+					["serverTime"] = 1593829540,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919593.402,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [125]
+				{
+					["message"] = "|Hpratcopy|h[05:26:42]|h Monströser Grizzly stirbt, Ihr bekommt 2844 Erfahrung.",
+					["serverTime"] = 1593829601,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919653.775,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [126]
+				{
+					["message"] = "|Hpratcopy|h[05:26:46]|h Monströser Grizzly stirbt, Ihr bekommt 2844 Erfahrung.",
+					["serverTime"] = 1593829605,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919658.103,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [127]
+				{
+					["message"] = "|Hpratcopy|h[05:26:49]|h Himmelsjäger von Tiragarde stirbt, Ihr bekommt 1422 Erfahrung.",
+					["serverTime"] = 1593829608,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 919660.792,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

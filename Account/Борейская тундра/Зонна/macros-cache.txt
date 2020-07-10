@@ -1,0 +1,87 @@
+VER 3 010000000000000D "Antimagic" "INV_Misc_QuestionMark"
+/stopcasting
+/cast Антимагия
+END
+VER 3 0100000000000003 "Burst" "SPELL_HOLY_HOLYPROTECTION"
+/use 14
+/cast Кровь земли
+/cast Стылая кровь
+/cast Мощь тайной магии
+END
+VER 3 010000000000000F "DispelMagic" "INV_Misc_QuestionMark"
+#showtooltip Снятие проклятия
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Снятие проклятия
+END
+VER 3 0100000000000017 "Fishing" "INV_MISC_QUESTIONMARK"
+#showtooltip [equipped:Удочка] Рыбная ловля; [stance:0]Связующее исцеление;Пронзание разума
+/cast [equipped:Удочка] Рыбная ловля; [@mouseover, help,nodead,stance:0] Связующее исцеление; Пронзание разума
+END
+VER 3 0100000000000013 "Heal" "INV_Misc_QuestionMark"
+#showtooltip Оберегающий дух
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Оберегающий дух
+END
+VER 3 0100000000000016 "HeartOfTheAspect" "Ability_Monk_ThunderFocusTea"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted] Пепел Ал'ара
+/cast [noflyable,noindoors] Пламенное крыло Алисразор
+/dismount [mounted]
+END
+VER 3 0100000000000002 "HolyFire" "INV_Misc_QuestionMark"
+#showtooltip Священный огонь
+/cast [harm] [target=targettarget] Священный огонь
+END
+VER 3 010000000000001C "IceArrow" "INV_MISC_QUESTIONMARK"
+#showtooltip Ледяная стрела
+/script UIErrorsFrame:Hide();
+/cast Величие разума
+/use 14
+/cast Ледяная стрела
+/script UIErrorsFrame:Show();
+END
+VER 3 0100000000000018 "IceSpear" "INV_MISC_QUESTIONMARK"
+#showtooltip Ледяное копье
+/stopcasting
+/cast Ледяное копье
+END
+VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
+#showtooltip Левитация
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Левитация
+END
+VER 3 0100000000000006 "PainSupression" "INV_Misc_QuestionMark"
+#showtooltip Подавление боли
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Подавление боли
+END
+VER 3 0100000000000004 "Polymorph" "INV_Misc_QuestionMark"
+#showtooltip Превращение
+/target Сигрин
+/cast Превращение
+/targetlasttarget
+END
+VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
+#showtooltip Слово силы: Щит
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Слово силы: Щит
+END
+VER 3 010000000000000E "PrayerOfMending" "135742"
+/target Потусторонняя длань
+END
+VER 3 0100000000000001 "Slow" "INV_Misc_QuestionMark"
+#showtooltip Замедление
+/stopcasting
+/cast [@mouseover, harm] [ ] Замедление
+END
+VER 3 0100000000000014 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip Пылающий цвет
+END
+VER 3 0100000000000007 "TargetFocus" "236227"
+/target focus
+END
+VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted]Гнев Дракона, вечный покой Таресгосы
+/cast [noflyable,noindoors] Повелитель воронов
+/dismount [mounted]
+END

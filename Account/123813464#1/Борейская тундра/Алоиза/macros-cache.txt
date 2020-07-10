@@ -1,0 +1,76 @@
+VER 3 010000000000001C "DarkCovenant" "INV_MISC_QUESTIONMARK"
+#showtooltip Темный завет
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Темный завет
+END
+VER 3 0100000000000007 "Desiese" "INV_Misc_QuestionMark"
+#showtooltip Очищение от болезни
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение от болезни
+END
+VER 3 010000000000000F "DispelMagic" "INV_Misc_QuestionMark"
+#showtooltip Очищение
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение
+END
+VER 3 0100000000000013 "Dispersion" "INV_Misc_QuestionMark"
+#showtooltip Слияние с тьмой
+/stopcasting
+/use Слияние с тьмой
+END
+VER 3 010000000000000D "FlashHeal" "INV_Misc_QuestionMark"
+#showtooltip Темное восстановление
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Темное восстановление
+END
+VER 3 0100000000000003 "Heal" "INV_Misc_QuestionMark"
+#showtooltip Ясность воли
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Ясность воли
+END
+VER 3 0100000000000016 "HeartOfTheAspect" "INV_MISC_QUESTIONMARK"
+#showtooltip Духовное рвение
+/cast [nodead,help]Духовное рвение; [harm,nodead] Темная Бездна
+END
+VER 3 0100000000000002 "HolyFire" "INV_Misc_QuestionMark"
+#showtooltip Священный огонь
+/cast [harm] [target=targettarget] Священный огонь
+END
+VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
+#showtooltip Левитация
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Левитация
+END
+VER 3 0100000000000006 "PainSupression" "INV_Misc_QuestionMark"
+#showtooltip Подавление боли
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Подавление боли
+END
+VER 3 0100000000000004 "Penance" "INV_Misc_QuestionMark"
+#showtooltip Исповедь
+/cast [@mouseover, exists, nodead, help] Исповедь; [exists, nodead, help] Исповедь; [@mouseover, exists, nodead] Исповедь; [exists, nodead] Исповедь
+END
+VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
+#showtooltip Слово силы: Щит
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Слово силы: Щит
+END
+VER 3 010000000000000E "Silence" "INV_Misc_QuestionMark"
+#showtooltip Безмолвие
+/stopcasting
+/cast Безмолвие
+END
+VER 3 0100000000000014 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip Кара
+/use [modifier] 12
+/cast [harm] [target=targettarget] Кара
+END
+VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted]Гнев Дракона, вечный покой Таресгосы
+/cast [noflyable,noindoors] Повелитель воронов
+/dismount [mounted]
+END
+VER 3 010000000000001D "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000001E "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

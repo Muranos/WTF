@@ -1,0 +1,54 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1587365536,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"[09:52:15] |cffd8d8d8[|r|Hplayer:Эрника-Борейскаятундра:1670:LOOT|h|cffd8bc3f7|r:|cff3ec5e9Эрника|r|h|cffd8d8d8]|rВы получили предмет: |cff0070dd|Hitem:173402::::::::7:64::14::::|h[Кольчужные перчатки Темной Империи]|h|r.", -- [1]
+				0.9764706492424011, -- [2]
+				0.9254902601242065, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [1]
+			{
+				"[09:52:16] |cffd8d8d8[|r|Hplayer:Эрника-Борейскаятундра:1671:LOOT|h|cffd8bc3f7|r:|cff3ec5e9Эрника|r|h|cffd8d8d8]|rВы получили предмет: |cff00ccff|Hitem:122389::::::::7:64:::1:3592:::|h[Окровавленный разрубатель черепов]|h|r.", -- [1]
+				0.9764706492424011, -- [2]
+				0.9254902601242065, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [2]
+		},
+	},
+}

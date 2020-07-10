@@ -1,0 +1,7 @@
+
+BlizzardStopwatchOptions = {
+	["position"] = {
+		["y"] = 310.00048828125,
+		["x"] = 975.000244140625,
+	},
+}

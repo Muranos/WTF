@@ -1,0 +1,115 @@
+
+RSADB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["ID"] = "932209538625",
+		["revision"] = "514",
+		["version"] = 4,
+	},
+	["profileKeys"] = {
+		["Niamei - Silvermoon"] = "Niamei - Silvermoon",
+		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
+		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
+		["Мининевра - Азурегос"] = "Мининевра - Азурегос",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
+		["Altery - Bronzebeard"] = "ROGUE",
+		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+	},
+	["profiles"] = {
+		["Эстрея - Борейская тундра"] = {
+			["General"] = {
+				["Race"] = "NightElf",
+				["Class"] = "DRUID",
+			},
+			["Modules"] = {
+				["Druid"] = true,
+			},
+		},
+		["Алтери - Борейская тундра"] = {
+			["Rogue"] = {
+				["Spells"] = {
+					["Kick"] = {
+						["Messages"] = {
+							["Immune"] = "",
+							["End"] = "",
+						},
+					},
+				},
+			},
+			["General"] = {
+				["Race"] = "Human",
+				["Class"] = "ROGUE",
+			},
+			["Modules"] = {
+				["Rogue"] = true,
+			},
+		},
+		["Ниоши - Борейская тундра"] = {
+			["General"] = {
+				["Race"] = "Pandaren",
+				["Class"] = "MAGE",
+			},
+			["Modules"] = {
+				["Mage"] = true,
+			},
+		},
+		["ROGUE"] = {
+			["General"] = {
+				["Class"] = "ROGUE",
+			},
+			["Modules"] = {
+				["Racials"] = true,
+				["Rogue"] = true,
+				["Utilities"] = true,
+			},
+			["Fixed"] = true,
+		},
+		["Мининевра - Азурегос"] = {
+			["General"] = {
+				["Class"] = "WARRIOR",
+				["Race"] = "Gnome",
+			},
+			["Modules"] = {
+				["Warrior"] = true,
+			},
+		},
+		["Зонна - Борейская тундра"] = {
+			["General"] = {
+				["Class"] = "MAGE",
+				["Race"] = "Draenei",
+			},
+			["Modules"] = {
+				["Mage"] = true,
+			},
+		},
+		["Niamei - Silvermoon"] = {
+			["General"] = {
+				["Class"] = "HUNTER",
+				["Race"] = "Draenei",
+			},
+			["Modules"] = {
+				["Hunter"] = true,
+			},
+		},
+		["Алоиза - Борейская тундра"] = {
+			["General"] = {
+				["GlobalAnnouncements"] = {
+					["InScenario"] = false,
+					["InLFG"] = false,
+					["InDungeon"] = false,
+					["Arena"] = false,
+					["InRaid"] = false,
+				},
+				["Race"] = "Human",
+				["Class"] = "PRIEST",
+			},
+			["Modules"] = {
+				["Priest"] = true,
+			},
+		},
+	},
+}

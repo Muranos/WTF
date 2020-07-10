@@ -1,0 +1,17 @@
+
+TomCats_DarkshoreRares_Character = {
+	["windowSettings"] = {
+		["y"] = 0,
+		["x"] = 0,
+		["point"] = "CENTER",
+		["relativePoint"] = "CENTER",
+		["showing"] = false,
+		["height"] = 330.000030517578,
+		["width"] = 360.000122070313,
+	},
+	["preferences"] = {
+		["TomCats-DarkshoreRaresMinimapButton"] = {
+			["position"] = -0.989818686999233,
+		},
+	},
+}

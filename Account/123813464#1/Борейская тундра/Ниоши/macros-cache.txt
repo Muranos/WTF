@@ -1,0 +1,85 @@
+VER 3 010000000000001C "Desiese" "INV_MISC_QUESTIONMARK"
+#showtooltip Рассеивание заклинаний
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Рассеивание заклинаний
+END
+VER 3 010000000000000F "DispelMagic" "INV_Misc_QuestionMark"
+#showtooltip Снятие проклятия
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Снятие проклятия
+END
+VER 3 0100000000000018 "Dispersion" "INV_MISC_QUESTIONMARK"
+#showtooltip Круг исцеления
+/use 13
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Круг исцеления
+END
+VER 3 0100000000000017 "Fishing" "INV_MISC_QUESTIONMARK"
+#showtooltip [equipped:Удочка] Рыбная ловля; [stance:0]Связующее исцеление;Пронзание разума
+/cast [equipped:Удочка] Рыбная ловля; [@mouseover, help,nodead,stance:0] Связующее исцеление; Пронзание разума
+END
+VER 3 010000000000000D "FlashHeal" "INV_Misc_QuestionMark"
+#showtooltip Быстрое исцеление
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Быстрое исцеление
+END
+VER 3 0100000000000003 "GreaterHeal" "INV_Misc_QuestionMark"
+#showtooltip Великое исцеление
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Великое исцеление
+END
+VER 3 0100000000000013 "Heal" "INV_Misc_QuestionMark"
+#showtooltip Оберегающий дух
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Оберегающий дух
+END
+VER 3 0100000000000016 "HeartOfTheAspect" "Ability_Monk_ThunderFocusTea"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted] Пепел Ал'ара
+/cast [noflyable,noindoors] Золотистый древний дикорог
+/dismount [mounted]
+END
+VER 3 0100000000000002 "HolyFire" "INV_Misc_QuestionMark"
+#showtooltip Священный огонь
+/cast [harm] [target=targettarget] Священный огонь
+END
+VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
+#showtooltip Левитация
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Левитация
+END
+VER 3 0100000000000006 "PainSupression" "INV_Misc_QuestionMark"
+#showtooltip Подавление боли
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Подавление боли
+END
+VER 3 0100000000000004 "Penance" "INV_Misc_QuestionMark"
+#showtooltip Исповедь
+/use 13
+/cast [@mouseover, exists, nodead, help] Исповедь; [exists, nodead, help] Исповедь; [@mouseover, exists, nodead] Исповедь; [exists, nodead] Исповедь
+END
+VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
+#showtooltip Слово силы: Щит
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Слово силы: Щит
+END
+VER 3 0100000000000007 "PrayerOfHealing" "INV_Misc_QuestionMark"
+#showtooltip Молитва исцеления
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва исцеления
+END
+VER 3 010000000000000E "PrayerOfMending" "INV_Misc_QuestionMark"
+#showtooltip Молитва восстановления
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва восстановления
+END
+VER 3 0100000000000001 "Renew" "INV_Misc_QuestionMark"
+#showtooltip Обновление
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Обновление
+END
+VER 3 0100000000000014 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip Кара
+/cast [harm] [target=targettarget] Кара
+END
+VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
+/cast [mounted,flyable,stance:0] Облик Тьмы
+/cancelaura [nomounted,flyable,noindoors] Облик Тьмы
+/cast [flyable,noindoors,nomounted]Гнев Дракона, вечный покой Таресгосы
+/cast [noflyable,noindoors] Повелитель воронов
+/dismount [mounted]
+END

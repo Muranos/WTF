@@ -1,0 +1,45 @@
+
+DraenorTreasuresDB = {
+	["char"] = {
+		["Алоиза - Борейская тундра"] = {
+			["35900"] = true,
+			["34727"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Вейлзевулла - Борейская тундра"] = "Default",
+		["Алтери - Борейская тундра"] = "Default",
+		["Фламинника - Гордунни"] = "Default",
+		["Altery - Durotan"] = "Default",
+		["Эстрэя - Гордунни"] = "Default",
+		["Altery - Bronzebeard"] = "Default",
+		["Алоиза - Борейская тундра"] = "Default",
+		["Тиаз - Борейская тундра"] = "Default",
+		["Дэлери - Борейская тундра"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
+		["Elavi - Durotan"] = "Default",
+		["Flaminika - Durotan"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Эрника - Борейская тундра"] = "Default",
+		["Delery - Durotan"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
+		["Ниамэй - Гордунни"] = "Default",
+		["Ниоши - Борейская тундра"] = "Default",
+		["Алоиза - Гордунни"] = "Default",
+		["Хилопятьумер - Гордунни"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
+		["Фламиника - Борейская тундра"] = "Default",
+		["Нирейя - Борейская тундра"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["mount_po"] = false,
+			["rare_s_ng"] = false,
+			["mount_pr"] = false,
+			["mount_no"] = false,
+			["mount_go"] = false,
+			["mount_lu"] = false,
+		},
+	},
+}

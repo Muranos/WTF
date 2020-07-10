@@ -1,0 +1,7 @@
+
+AllTheThingsSettingsPerCharacter = {
+	["Filters"] = {
+	},
+}
+AllTheThingsPCD = {
+}

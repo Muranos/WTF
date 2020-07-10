@@ -1,0 +1,1007 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 94,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[04:11:29]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.113 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy.",
+					["r"] = 1,
+					["timestamp"] = 915134.049,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[04:11:33]|h |cff33ff99HandyNotes|r: The Midsummer Fire Festival has begun!  Locations of bonfires are now marked on your map.",
+					["timestamp"] = 915144.226,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[04:11:33]|h |cff33ff99TradeSkillMaster|r: TSM doesn't currently have any AuctionDB pricing data for your realm. We recommend you download the TSM Desktop Application from |cff99ffffhttp://tradeskillmaster.com|r to automatically update your AuctionDB data (and auto-backup your TSM settings).",
+					["timestamp"] = 915144.226,
+					["serverTime"] = 1593825093,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 915144.226,
+					["serverTime"] = 1593825094,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 915144.226,
+					["serverTime"] = 1593825094,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffd700Titan Panel|r|cff20ff20 5.18.7.80300|r|cffffd700|cffffd700 vom |cffff8c00Titan Panel Development Team|r|cff20ff20|r",
+					["timestamp"] = 915144.226,
+					["serverTime"] = 1593825094,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffd700<Titan> |r|cff20ff20Registriere Titan Panel Plugins...|r",
+					["timestamp"] = 915144.226,
+					["serverTime"] = 1593825094,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffd700<Titan> |r|cff20ff20Registrationsprozess abgeschlossen. 28|r",
+					["timestamp"] = 915144.226,
+					["serverTime"] = 1593825094,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffd8d8d8[|r|Hplayer:Delery-Durotan:1:ACHIEVEMENT|h|cffd8bc3f98|r:|cffa22fc8Delery|r|h|cffd8d8d8]|r hat den Erfolg |cffffff00|Hachievement:10256:Player-535-08E78119:1:7:4:20:4294967295:4294967295:4294967295:4294967295|h[Kurs halten]|h|r |cffffffff(|rAbgeschlossen 04.07.20|cffffffff)|r errungen!",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h Ihr habt einen neuen passiven Effekt erlernt: |cff71d5ff|Hspell:191645:0|h[Pfadfinder von Draenor]|h|r.",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h Ihr habt einen neuen passiven Effekt erlernt: |cff71d5ff|Hspell:226342:0|h[Pfadfinder der Verheerten Inseln]|h|r.",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h Ihr habt einen neuen passiven Effekt erlernt: |cff71d5ff|Hspell:233368:0|h[Pfadfinder der Verheerten Inseln]|h|r.",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h Ihr habt einen neuen passiven Effekt erlernt: |cff71d5ff|Hspell:281576:0|h[Pfadfinder von Battle for Azeroth]|h|r.",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h Ihr habt einen neuen passiven Effekt erlernt: |cff71d5ff|Hspell:278833:0|h[Pfadfinder von Battle for Azeroth]|h|r.",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825094,
+					["timestamp"] = 915144.226,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffd8d8d8[|r|Hplayer:Delery-Durotan:7:ACHIEVEMENT|h|cffd8bc3f98|r:|cffa22fc8Delery|r|h|cffd8d8d8]|r hat den Erfolg |cffffff00|Hachievement:504:Player-535-08E78119:1:7:4:20:4294967295:4294967295:4294967295:4294967295|h[100 Quests abgeschlossen]|h|r |cffffffff(|rAbgeschlossen 04.07.20|cffffffff)|r errungen!",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[04:11:34]|h |cffd8d8d8[|r|Hplayer:Delery-Durotan:8:ACHIEVEMENT|h|cffd8bc3f98|r:|cffa22fc8Delery|r|h|cffd8d8d8]|r hat den Erfolg |cffffff00|Hachievement:503:Player-535-08E78119:1:7:4:20:4294967295:4294967295:4294967295:4294967295|h[50 Quests abgeschlossen]|h|r |cffffffff(|rAbgeschlossen 04.07.20|cffffffff)|r errungen!",
+					["serverTime"] = 1593825094,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 915144.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[04:11:35]|h Gesamte Spielzeit: 0 |4Tag:Tage;, 0 |4Stunde:Stunden;, 0 |4Minute:Minuten;, 4 |4Sekunde:Sekunden;",
+					["serverTime"] = 1593825095,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 915147.105,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[04:11:35]|h Zeit auf dieser Stufe gespielt: 0 |4Tag:Tage;, 0 |4Stunde:Stunden;, 0 |4Minute:Minuten;, 4 |4Sekunde:Sekunden;",
+					["serverTime"] = 1593825095,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 915147.105,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[04:11:42]|h |cffffaeaeDetails!:|r A new version has been installed: /details news    ",
+					["timestamp"] = 915154.229,
+					["serverTime"] = 1593825102,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[04:12:50]|h |cff33ff99TellMeWhen|r: TMW is now locked. Type /tmw to enter config mode again.",
+					["timestamp"] = 915222.1070000001,
+					["serverTime"] = 1593825169,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[04:14:11]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825250,
+					["timestamp"] = 915302.7270000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[04:14:11]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825250,
+					["timestamp"] = 915302.7270000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[04:14:11]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825250,
+					["timestamp"] = 915302.7270000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[04:14:11]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825250,
+					["timestamp"] = 915302.7270000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[04:14:14]|h |cffffe566{VuhDo}|r Sie müssen zuerst etwas auswählen.",
+					["r"] = 1,
+					["serverTime"] = 1593825253,
+					["timestamp"] = 915305.527,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[04:14:14]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825253,
+					["timestamp"] = 915305.7980000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[04:14:14]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825253,
+					["timestamp"] = 915305.7980000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[04:14:14]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825253,
+					["timestamp"] = 915305.7980000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[04:14:14]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825253,
+					["timestamp"] = 915305.7980000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[04:14:18]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825257,
+					["timestamp"] = 915310.486,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[04:14:18]|h |cffffe566{VuhDo}|r \"Outer Border\" ist dem nicht existierenden Bouquet \"Rahmen: Multi + Aggro\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825257,
+					["timestamp"] = 915310.486,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[04:14:18]|h |cffffe566{VuhDo}|r \"Mana Bar\" ist dem nicht existierenden Bouquet \"Manabars: Nur Mana\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825257,
+					["timestamp"] = 915310.486,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[04:14:18]|h |cffffe566{VuhDo}|r \"Background Bar\" ist dem nicht existierenden Bouquet \"Hintergrund: Einfarbig\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825257,
+					["timestamp"] = 915310.486,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[04:14:21]|h |cffffe566{VuhDo}|r Profil geladen: Фламиника: Vuhdo'esque",
+					["r"] = 1,
+					["serverTime"] = 1593825260,
+					["timestamp"] = 915313.0310000001,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[04:14:21]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825260,
+					["timestamp"] = 915313.0310000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[04:14:21]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825260,
+					["timestamp"] = 915313.0310000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [60]
+				{
+					["message"] = "|Hpratcopy|h[04:14:27]|h |cffffe566{VuhDo}|r Profil gespeichert: \"Delery: Фламиника: Vuhdo'esque\".",
+					["r"] = 1,
+					["serverTime"] = 1593825266,
+					["timestamp"] = 915319.237,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [61]
+				{
+					["message"] = "|Hpratcopy|h[04:14:27]|h |cffffe566{VuhDo}|r Tastenzuweisung \"Delery: \" wurde gespeichert.",
+					["r"] = 1,
+					["serverTime"] = 1593825266,
+					["timestamp"] = 915319.237,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [62]
+				{
+					["message"] = "|Hpratcopy|h[04:14:28]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825267,
+					["timestamp"] = 915319.541,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [63]
+				{
+					["message"] = "|Hpratcopy|h[04:14:34]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825273,
+					["timestamp"] = 915326.386,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[04:14:35]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825274,
+					["timestamp"] = 915327.427,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [65]
+				{
+					["message"] = "|Hpratcopy|h[04:14:35]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825274,
+					["timestamp"] = 915327.427,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [66]
+				{
+					["message"] = "|Hpratcopy|h[04:14:35]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825274,
+					["timestamp"] = 915327.427,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[04:14:35]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825274,
+					["timestamp"] = 915327.427,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[04:14:35]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825274,
+					["timestamp"] = 915327.427,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[04:14:35]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825274,
+					["timestamp"] = 915327.427,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915327.7390000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.171,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.4010000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[04:14:36]|h |cffffe566{VuhDo}|r \"HoT 10\" ist dem nicht existierenden Bouquet \"Hinweis Gruppenheilung\" zugeordnet!",
+					["r"] = 1,
+					["serverTime"] = 1593825275,
+					["timestamp"] = 915328.4010000001,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[04:14:50]|h |cffffe566{VuhDo}|r Profil gespeichert: \"Delery: Фламиника: Vuhdo'esque\".",
+					["r"] = 1,
+					["serverTime"] = 1593825289,
+					["timestamp"] = 915341.9940000001,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[04:14:50]|h |cffffe566{VuhDo}|r Tastenzuweisung \"Delery: \" wurde gespeichert.",
+					["r"] = 1,
+					["serverTime"] = 1593825289,
+					["timestamp"] = 915341.9940000001,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[04:14:53]|h |cffffe566{VuhDo}|r Profil gespeichert: \"Delery: Фламиника: Vuhdo'esque\".",
+					["r"] = 1,
+					["serverTime"] = 1593825292,
+					["timestamp"] = 915344.935,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [90]
+				{
+					["message"] = "|Hpratcopy|h[04:14:53]|h |cffffe566{VuhDo}|r Tastenzuweisung \"Delery: \" wurde gespeichert.",
+					["r"] = 1,
+					["serverTime"] = 1593825292,
+					["timestamp"] = 915344.935,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [91]
+				{
+					["message"] = "|Hpratcopy|h[04:16:20]|h |cff33ff99TellMeWhen|r: Loaded profile: Delery_Duraton",
+					["timestamp"] = 915431.843,
+					["serverTime"] = 1593825379,
+				}, -- [92]
+				{
+					["message"] = "|Hpratcopy|h[04:16:52]|h |cff33ff99TellMeWhen|r: Cannot unlock TellMeWhen in combat if the \"Allow config in combat\" option isn't enabled (type '/tmw options' to access this option).",
+					["timestamp"] = 915464.012,
+					["serverTime"] = 1593825411,
+				}, -- [93]
+				{
+					["message"] = "|Hpratcopy|h[04:17:35]|h |cff33ff99TellMeWhen|r: TMW is now locked. Type /tmw to enter config mode again.",
+					["timestamp"] = 915506.992,
+					["serverTime"] = 1593825454,
+				}, -- [94]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

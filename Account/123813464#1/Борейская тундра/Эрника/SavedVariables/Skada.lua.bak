@@ -1,0 +1,408 @@
+
+SkadaPerCharDB = {
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ffdamagedone"] = 0,
+			["overhealing"] = 0,
+			["interrupts"] = 0,
+			["mobdone"] = 146,
+			["players"] = {
+				{
+					["last"] = 1522109887,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Кошмарное поганище"] = 827,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["time"] = 47,
+					["role"] = "NONE",
+					["damage"] = 827,
+					["damagespells"] = {
+						["Ледяная стрела"] = {
+							["damage"] = 727,
+							["hitmin"] = 55,
+							["criticalmin"] = 112,
+							["id"] = 228597,
+							["IMMUNE"] = 2,
+							["max"] = 112,
+							["totalhits"] = 14,
+							["min"] = 55,
+							["criticalmax"] = 112,
+							["critical"] = 1,
+							["hit"] = 11,
+							["school"] = 16,
+							["hitmax"] = 56,
+							["criticalamount"] = 112,
+							["hitamount"] = 615,
+						},
+						["Огненный взрыв"] = {
+							["hitmin"] = 50,
+							["id"] = 108853,
+							["min"] = 50,
+							["damage"] = 100,
+							["hitmax"] = 50,
+							["hit"] = 2,
+							["school"] = 4,
+							["totalhits"] = 2,
+							["max"] = 50,
+							["hitamount"] = 100,
+						},
+					},
+					["first"] = 1522109840,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1625-03627EE0",
+					["healing"] = 0,
+					["maxhp"] = 432,
+					["damagetakenspells"] = {
+						["Атака"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["damage"] = 146,
+							["max"] = 15,
+							["name"] = "Атака",
+							["min"] = 12,
+							["totalhits"] = 11,
+							["critical"] = 0,
+							["blocked"] = 0,
+							["school"] = 1,
+							["resisted"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+						},
+					},
+					["auras"] = {
+						["Окоченение"] = {
+							["name"] = "Окоченение",
+							["active"] = 0,
+							["school"] = 16,
+							["uptime"] = 47,
+							["auratype"] = "DEBUFF",
+							["id"] = 205708,
+						},
+					},
+					["name"] = "Эрника",
+					["ffdamagedonetargets"] = {
+					},
+					["power"] = {
+					},
+					["damagetaken"] = 146,
+					["ffdamagedone"] = 0,
+					["ffdamagedonespells"] = {
+					},
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["damage"] = 827,
+			["starttime"] = 1522109837,
+			["deaths"] = 0,
+			["mobs"] = {
+				["Кошмарное поганище"] = {
+					["players"] = {
+						["Эрника"] = {
+							["taken"] = 827,
+							["done"] = 146,
+							["class"] = "MAGE",
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 667,
+					["hdonespell"] = {
+						["Наложить швы"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 259,
+							["healing"] = 667,
+							["overhealing"] = 885,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 827,
+					["htakenspell"] = {
+						["Наложить швы"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 259,
+							["healing"] = 667,
+							["overhealing"] = 885,
+							["hits"] = 6,
+						},
+					},
+					["htaken"] = 667,
+					["done"] = 146,
+				},
+			},
+			["shielding"] = 0,
+			["ccbreaks"] = 0,
+			["healing"] = 0,
+			["time"] = 54,
+			["power"] = {
+			},
+			["auras"] = {
+			},
+			["mobtaken"] = 827,
+			["name"] = "Кошмарное поганище",
+			["mobname"] = "Кошмарное поганище",
+			["damagetaken"] = 146,
+			["mobhdone"] = 667,
+			["last_action"] = 1522109837,
+			["endtime"] = 1522109891,
+		}, -- [1]
+	},
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ffdamagedone"] = 0,
+		["overhealing"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 1135,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["time"] = 51,
+				["role"] = "NONE",
+				["damage"] = 1135,
+				["damagespells"] = {
+					["Ледяная стрела"] = {
+						["damage"] = 1035,
+						["hitmin"] = 55,
+						["criticalmin"] = 112,
+						["id"] = 228597,
+						["IMMUNE"] = 2,
+						["max"] = 112,
+						["totalhits"] = 18,
+						["min"] = 55,
+						["criticalmax"] = 112,
+						["critical"] = 1,
+						["hit"] = 15,
+						["school"] = 16,
+						["hitmax"] = 77,
+						["criticalamount"] = 112,
+						["hitamount"] = 923,
+					},
+					["Огненный взрыв"] = {
+						["hitmin"] = 50,
+						["id"] = 108853,
+						["min"] = 50,
+						["damage"] = 100,
+						["hitmax"] = 50,
+						["hit"] = 2,
+						["school"] = 4,
+						["totalhits"] = 2,
+						["max"] = 50,
+						["hitamount"] = 100,
+					},
+				},
+				["shielding"] = 0,
+				["healed"] = {
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1522109839.334,
+						["amount"] = -13,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 396,
+					}, -- [1]
+					{
+						["ts"] = 1522109841.326,
+						["amount"] = -14,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 383,
+					}, -- [2]
+					{
+						["ts"] = 1522109843.346,
+						["amount"] = -14,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 369,
+					}, -- [3]
+					{
+						["ts"] = 1522109845.356,
+						["amount"] = -12,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 355,
+					}, -- [4]
+					{
+						["ts"] = 1522109847.357,
+						["amount"] = -12,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 343,
+					}, -- [5]
+					{
+						["ts"] = 1522109849.377,
+						["amount"] = -12,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 331,
+					}, -- [6]
+					{
+						["ts"] = 1522109851.377,
+						["amount"] = -15,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 319,
+					}, -- [7]
+					{
+						["ts"] = 1522109853.358,
+						["amount"] = -15,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 304,
+					}, -- [8]
+					{
+						["ts"] = 1522109855.378,
+						["amount"] = -14,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 289,
+					}, -- [9]
+					{
+						["ts"] = 1522109857.448,
+						["amount"] = -12,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 275,
+					}, -- [10]
+					{
+						["ts"] = 1522109873.429,
+						["amount"] = -13,
+						["spellid"] = 88163,
+						["srcname"] = "Кошмарное поганище",
+						["hp"] = 263,
+					}, -- [11]
+					["pos"] = 12,
+				},
+				["id"] = "Player-1625-03627EE0",
+				["healing"] = 0,
+				["maxhp"] = 576,
+				["damagetakenspells"] = {
+					["Атака"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["damage"] = 146,
+						["max"] = 15,
+						["name"] = "Атака",
+						["min"] = 12,
+						["totalhits"] = 11,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["school"] = 1,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+					},
+				},
+				["auras"] = {
+					["Окоченение"] = {
+						["name"] = "Окоченение",
+						["active"] = 0,
+						["school"] = 16,
+						["uptime"] = 51,
+						["auratype"] = "DEBUFF",
+						["id"] = 205708,
+					},
+				},
+				["name"] = "Эрника",
+				["ffdamagedonetargets"] = {
+				},
+				["damagetaken"] = 146,
+				["ffdamagedone"] = 0,
+				["power"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ccbreaks"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Отрекшийся-захватчик"] = {
+				["players"] = {
+					["Эрника"] = {
+						["taken"] = 308,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 308,
+				["done"] = 0,
+				["htaken"] = 0,
+				["htakenspell"] = {
+				},
+			},
+			["Кошмарное поганище"] = {
+				["players"] = {
+					["Эрника"] = {
+						["taken"] = 827,
+						["done"] = 146,
+						["class"] = "MAGE",
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 667,
+				["hdonespell"] = {
+					["Наложить швы"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 259,
+						["healing"] = 667,
+						["overhealing"] = 885,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 827,
+				["htakenspell"] = {
+					["Наложить швы"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 259,
+						["healing"] = 667,
+						["overhealing"] = 885,
+						["hits"] = 6,
+					},
+				},
+				["htaken"] = 667,
+				["done"] = 146,
+			},
+		},
+		["shielding"] = 0,
+		["ccbreaks"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["damagetaken"] = 146,
+		["time"] = 54,
+		["starttime"] = 1509933852,
+		["name"] = "Всего",
+		["mobtaken"] = 1135,
+		["auras"] = {
+		},
+		["mobhdone"] = 667,
+		["last_action"] = 1509933852,
+		["mobdone"] = 146,
+	},
+}

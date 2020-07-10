@@ -1,0 +1,8 @@
+FriendGroups: disabled
+ElitismHelper: disabled
+MasterPlanA: enabled
+VuhDo: enabled
+VuhDoOptions: enabled
+OPie_Classic: disabled
+Castbars: enabled
+Quartz: disabled

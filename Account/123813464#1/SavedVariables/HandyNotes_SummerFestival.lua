@@ -1,0 +1,35 @@
+
+HandyNotes_SummerFestivalDB = {
+	["profileKeys"] = {
+		["Ниамэй - Гордунни"] = "Default",
+		["Алтери - Борейская тундра"] = "Default",
+		["Фламинника - Гордунни"] = "Default",
+		["Altery - Durotan"] = "Default",
+		["Эстрэя - Гордунни"] = "Default",
+		["Altery - Bronzebeard"] = "Default",
+		["Алоиза - Борейская тундра"] = "Default",
+		["Тиаз - Борейская тундра"] = "Default",
+		["Дэлери - Борейская тундра"] = "Default",
+		["Aloize - Chants éternels"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
+		["Niamei - Silvermoon"] = "Default",
+		["Elavi - Durotan"] = "Default",
+		["Delery - Durotan"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Эрника - Борейская тундра"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
+		["Мининевра - Азурегос"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
+		["Ниоши - Борейская тундра"] = "Default",
+		["Алоиза - Гордунни"] = "Default",
+		["Хилопятьумер - Гордунни"] = "Default",
+		["Flaminika - Durotan"] = "Default",
+		["Фламиника - Борейская тундра"] = "Default",
+		["Нирейя - Борейская тундра"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

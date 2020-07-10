@@ -1,0 +1,27 @@
+VER 3 0100000000000005 "Enemy" "INV_MISC_QUESTIONMARK"
+#showtooltip Заклятый враг
+/use Рог доблести
+/cast Заклятый враг
+END
+VER 3 0100000000000003 "Interrupt" "INV_MISC_QUESTIONMARK"
+#showtooltip Поглощение магии
+/stopcasting
+/cast Поглощение магии
+END
+VER 3 0100000000000006 "Trinkets" "INV_MISC_QUESTIONMARK"
+#showtooltip Голод левиафана
+/use Голод левиафана
+/use Флакон чистейшей Бездны
+/use Ледяная эгида Диимы
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Дэл[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "Удар Хаоса" "INV_MISC_QUESTIONMARK"
+#showtooltip Удар хаоса
+/use Призрак предательства
+/cast Удар хаоса
+END

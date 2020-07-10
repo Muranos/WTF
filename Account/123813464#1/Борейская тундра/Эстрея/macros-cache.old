@@ -1,0 +1,64 @@
+VER 3 0100000000000010 "Bop" "1392544"
+/cancelaura Благословение защиты
+END
+VER 3 0100000000000002 "Dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip Снятие порчи
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Снятие порчи
+END
+VER 3 010000000000000B "Fire" "132278"
+/click ExtraActionButton1
+END
+VER 3 0100000000000003 "GreaterHeal" "INV_MISC_QUESTIONMARK"
+#showtooltip Целительное прикосновение
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Целительное прикосновение
+END
+VER 3 010000000000000C "HealerDispel" "INV_MISC_QUESTIONMARK"
+#showtooltip Природный целитель
+/stopcasting
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Природный целитель
+END
+VER 3 010000000000000F "Lifebloom" "INV_MISC_QUESTIONMARK"
+#showtooltip Жизнецвет
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жизнецвет
+END
+VER 3 010000000000000D "Rejuvenation" "INV_MISC_QUESTIONMARK"
+#showtooltip Омоложение
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Омоложение
+END
+VER 3 0100000000000004 "Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip Восстановление
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Восстановление
+END
+VER 3 0100000000000006 "Spike" "INV_MISC_QUESTIONMARK"
+#showtooltip Железная кора
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Железная кора
+END
+VER 3 010000000000000A "Stun" "INV_MISC_QUESTIONMARK"
+#showtooltip Мощное оглушение
+/stopcasting
+/cast Мощное оглушение
+END
+VER 3 0100000000000005 "SunPillar" "INV_MISC_QUESTIONMARK"
+#showtooltip Столп солнечного света
+/stopcasting
+/cast Столп солнечного света
+END
+VER 3 0100000000000009 "TravelForm" "INV_MISC_QUESTIONMARK"
+#showtooltip Походный облик
+/cast [stance:0,indoors] Облик лунного совуха
+/cast [stance:0,combat] Облик лунного совуха
+/cast [stance:0,noindoors] Походный облик
+/cast [stance:3] Облик лунного совуха
+/cast [stance:4]Походный облик
+END
+VER 3 0100000000000007 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Эст[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000E "WildGrowth" "INV_MISC_QUESTIONMARK"
+#showtooltip Буйный рост
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Буйный рост
+END

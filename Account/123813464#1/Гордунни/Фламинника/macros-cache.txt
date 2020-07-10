@@ -1,0 +1,50 @@
+VER 3 0100000000000005 "Avatar" "INV_MISC_QUESTIONMARK"
+#showtooltip Аватара
+/cast Аватара
+END
+VER 3 0100000000000009 "CancelHots" "132221"
+/cancelaura Жизнецвет
+/cancelaura Восстановление
+/cancelaura Буйный рост
+/cancelaura Весенние цветы
+/cancelaura Щит Кенария
+/cancelaura Омоложение
+/cancelaura Уход за рощей
+END
+VER 3 0100000000000006 "Demoralize" "INV_MISC_QUESTIONMARK"
+#showtooltip Деморализующий крик
+/cast Деморализующий крик
+END
+VER 3 010000000000000B "Intercept" "INV_MISC_QUESTIONMARK"
+#showtooltip Перехват
+/cast [target=targettarget] Перехват
+END
+VER 3 0100000000000007 "Judgement" "INV_MISC_QUESTIONMARK"
+#showtooltip Правосудие Света
+/cast Правосудие Света
+END
+VER 3 0100000000000003 "NoStepBack" "INV_MISC_QUESTIONMARK"
+#showtooltip Ни шагу назад
+/use Касание бездны
+/cast Ни шагу назад
+END
+VER 3 0100000000000004 "Recklessness" "INV_MISC_QUESTIONMARK"
+#showtooltip Безрассудство
+/use Пузырек с оживленной кровью
+/cast Безрассудство
+END
+VER 3 010000000000000C "Speed" "236307"
+/cancelaura Зелье легкой поступи
+END
+VER 3 010000000000000A "Taunt" "132095"
+/w Xynn-Durotan Taunt
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Фла[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "XynnKick" "132279"
+/w Xynn-Durotan Your kick
+END
