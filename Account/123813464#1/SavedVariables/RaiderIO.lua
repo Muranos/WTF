@@ -1,29 +1,29 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
 	["disableScoreColors"] = false,
 	["showDropDownCopyURL"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Фламинника-gordunni"
+RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Коловратус-blackscar"] = true,
-	["eu-Мирбобби-borean-tundra"] = true,
-	["eu-Джесдана-gordunni"] = true,
-	["eu-Лулубэл-gordunni"] = true,
-	["eu-Негатиив-soulflayer"] = true,
-	["eu-Ризольт-gordunni"] = true,
-	["eu-Варломичка-gordunni"] = true,
-	["eu-Палкасправа-soulflayer"] = true,
-	["eu-Алларакс-soulflayer"] = true,
+	["eu-Тэнарион-eversong"] = true,
+	["eu-Орис-galakrond"] = true,
+	["eu-Тертиж-soulflayer"] = true,
+	["eu-Эгелла-soulflayer"] = true,
+	["eu-Эслайн-howling-fjord"] = true,
+	["eu-Физрук-azuregos"] = true,
+	["eu-Фухня-howling-fjord"] = true,
+	["eu-Абдалкадир-borean-tundra"] = true,
 }
+RaiderIO_CachedRuns = nil

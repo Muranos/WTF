@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0326,
+	["LastVersion"] = 2.0335,
 	["LastPlayerFullName"] = "Алоиза-Гордунни",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
@@ -37,9 +37,9 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122256::::::::20:256:::1:3592:::|h[Изодранные поножи Багрового Тумана]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 57523,
-			["Level"] = 11,
-			["Link"] = "|cff1eff00|Hitem:57523::::::::12:256:512:11:1:3671:11:::|h[Меховые сапоги из волчьей шкуры]|h|r",
+			["ID"] = 3065,
+			["Level"] = 19,
+			["Link"] = "|cff1eff00|Hitem:3065::::::::20:256:512:28:1:3831:21:::|h[Яркие сапоги]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 57395,

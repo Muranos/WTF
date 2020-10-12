@@ -206,3 +206,4 @@ OPie_Classic: disabled
 WeakAurasArchive: enabled
 Quartz: disabled
 BigWigs_Legion: enabled
+BigWigs_Nyalotha: enabled

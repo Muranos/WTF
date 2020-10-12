@@ -5,25 +5,25 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 133320,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:133320::::::::98:577::::::|h[Augenbinde der Illidari]|h|r",
+			["ID"] = 122249,
+			["Level"] = 142,
+			["Link"] = "|cff00ccff|Hitem:122249::::::::100:577:::1:5805:::|h[Geputzte Stammeskriegfedern]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 112461,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:112461::::::::98:577::::::|h[Halskette der Illidari]|h|r",
+			["ID"] = 153130,
+			["Level"] = 142,
+			["Link"] = "|cff00ccff|Hitem:153130::::::::100:577:::1:3592:::|h[Ausbildungsamulett der Man'ari]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 133318,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:133318::::::::98:577::::::|h[Schultern der Illidari]|h|r",
+			["ID"] = 122359,
+			["Level"] = 142,
+			["Link"] = "|cff00ccff|Hitem:122359::::::::100:577:::1:5805:::|h[Geputzte Eisenfederschultern]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 133322,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:133322::::::::98:577::::::|h[Robe der Illidari]|h|r",
+			["ID"] = 122382,
+			["Level"] = 142,
+			["Link"] = "|cff00ccff|Hitem:122382::::::::100:577:::1:5805:::|h[Geputzte Eisenfederbrustplatte]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 133325,
@@ -31,9 +31,9 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:133325::::::::98:577::::::|h[Gürtel der Illidari]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 133319,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:133319::::::::98:577::::::|h[Gamaschen der Illidari]|h|r",
+			["ID"] = 122255,
+			["Level"] = 142,
+			["Link"] = "|cff00ccff|Hitem:122255::::::::100:577:::1:5805:::|h[Geputzte Wildfedergamaschen]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 133324,
@@ -51,45 +51,45 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:133321::::::::98:577::::::|h[Handschuhe der Illidari]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 112459,
-			["Level"] = 138,
+			["ID"] = 128173,
+			["Level"] = 142,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:112459::::::::98:577::::::|h[Ring der Illidari]|h|r",
+			["Link"] = "|cff00ccff|Hitem:128173::::::::100:577:::1:5805:::|h[Admiral Taylors Treuering]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 112460,
-			["Level"] = 138,
+			["ID"] = 128173,
+			["Level"] = 139,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:112460::::::::98:577::::::|h[Band der Illidari]|h|r",
+			["Link"] = "|cff00ccff|Hitem:128173::::::::99:577:::1:5805:::|h[Admiral Taylors Treuering]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 123959,
-			["Level"] = 138,
+			["ID"] = 122361,
+			["Level"] = 142,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:123959::::::::98:577::::::|h[Dämonentrophäe]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::100:577:::1:3592:::|h[Schnelle Hand der Gerechtigkeit]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 123960,
-			["Level"] = 138,
+			["ID"] = 128318,
+			["Level"] = 142,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:123960::::::::98:577::::::|h[Glücksbringer des Dämonenfeuers]|h|r",
+			["Link"] = "|cff00ccff|Hitem:128318::::::::100:577::::::|h[Berührung der Leere]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 112462,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:112462::::::::98:577::::::|h[Tuch der Illidari]|h|r",
+			["ID"] = 122261,
+			["Level"] = 142,
+			["Link"] = "|cff00ccff|Hitem:122261::::::::100:577:::1:5805:::|h[Geerbtes Cape des Schwarzen Barons]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 112458,
-			["Level"] = 138,
+			["ID"] = 122351,
+			["Level"] = 142,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff1eff00|Hitem:112458::::::::98:577::::::|h[Kriegsgleve der Illidari]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122351::::::::100:577:::1:5805:::|h[Des ehrwürdigen Dal'Rends hochheilige Attacke]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 129181,
-			["Level"] = 138,
+			["ID"] = 122351,
+			["Level"] = 139,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff1eff00|Hitem:129181::::::::98:577::::::|h[Kriegsgleve der Illidari]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122351::::::::99:577:::1:5805:::|h[Des ehrwürdigen Dal'Rends hochheilige Attacke]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

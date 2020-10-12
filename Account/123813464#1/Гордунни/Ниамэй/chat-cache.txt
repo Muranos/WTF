@@ -3,8 +3,8 @@ VERSION 6
 ADDEDVERSION 21
 
 CHANNELS
-Общий 0 2 0
-ОборонаЛокальный 0 3 0
+Общий 0 1 0
+ОборонаЛокальный 0 2 0
 END
 
 ZONECHANNELS 0

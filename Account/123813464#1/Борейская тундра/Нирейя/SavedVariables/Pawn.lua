@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0324,
-	["LastPlayerFullName"] = "Нирейя-Борейская тундра",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0329,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122249,
@@ -65,6 +62,9 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122353::::::::30:102:::1:583:::|h[Величавая трость ректора]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Нирейя-Борейская тундра",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

@@ -1,95 +1,95 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0328,
+	["LastVersion"] = 2.0335,
 	["LastPlayerFullName"] = "Altery-Durotan",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 163656,
-			["Level"] = 280,
-			["Link"] = "|cff0070dd|Hitem:163656::::::::112:259::25:2:1472:4785:::|h[Maske der 7. Legion]|h|r",
+			["ID"] = 172570,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:172570::::::::120:259::25:6:6386:6389:1557:4786:6505:4775:::|h[Lederhelm des verderbten Gladiators]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 282,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::111:259::11:4:4932:4933:4935:1474:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 501,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 122359,
-			["Level"] = 242,
-			["Link"] = "|cff00ccff|Hitem:122359::::::::114:259:::1:5805:::|h[Geputzte Eisenfederschultern]|h|r",
+			["ID"] = 173841,
+			["Level"] = 420,
+			["Link"] = "|cff0070dd|Hitem:173841::::::::120:259::14:4:1472:4785:6259:4775:::|h[Mantel des unersättlichen Schlunds]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 159902,
-			["Level"] = 280,
-			["Link"] = "|cff0070dd|Hitem:159902::::::::112:259::11::::|h[Weste des Champions]|h|r",
+			["ID"] = 173843,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:173843::::::::120:259::9:4:1487:4786:6501:4775:::|h[Weste des unersättlichen Schlunds]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 153957,
-			["Level"] = 176,
-			["Link"] = "|cff1eff00|Hitem:153957::::::::110:259::::::|h[Lightdrinker Waistband]|h|r",
+			["ID"] = 163384,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:163384::::::::120:259::28:5:5125:6516:6513:1637:4786:::|h[Gürtelschnalle der 7. Legion]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 122255,
-			["Level"] = 242,
-			["Link"] = "|cff00ccff|Hitem:122255::::::::114:259:::1:5805:::|h[Geputzte Wildfedergamaschen]|h|r",
+			["ID"] = 174247,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:174247::::::::120:259::3:5:4822:6516:6515:1487:4786:::|h[Gamaschen des grotesken Verstümmlers]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 129871,
-			["Level"] = 227,
-			["Link"] = "|cff0070dd|Hitem:129871::::::::114:259:512:22:1:6428:114:::|h[Kapitän Ellis' Stiefel]|h|r",
+			["ID"] = 172563,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:172563::::::::120:259::56:8:6363:6388:6578:6579:6550:6515:1557:4786:::|h[Lederstiefel des verderbten Gladiators]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 127521,
-			["Level"] = 244,
-			["Link"] = "|cff0070dd|Hitem:127521::::::::114:259:512:22:2:6424:6652:114:::|h[Fortgeschrittene Präglederbänder]|h|r",
+			["ID"] = 173480,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:173480::168639::::::120:259::29:7:6412:4803:4802:6513:6516:1502:4786:::|h[Bindungen des unersättlichen Schlunds]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 129881,
-			["Level"] = 227,
-			["Link"] = "|cff0070dd|Hitem:129881::::::::114:259:512:22:1:6428:114:::|h[Handschutz des Fassadenkletterers]|h|r",
+			["ID"] = 173492,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:173492::::::::120:259::36:8:6412:4803:6513:6578:6579:6558:1487:4786:::|h[Handlappen des unersättlichen Schlunds]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 128173,
-			["Level"] = 242,
+			["ID"] = 172845,
+			["Level"] = 425,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff00ccff|Hitem:128173::::::::114:259:::1:5805:::|h[Admiral Taylors Treuering]|h|r",
+			["Link"] = "|cff0070dd|Hitem:172845::::::::120:259::47:5:41:6516:6513:1537:4785:::|h[Band des verderbten Aspiranten]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 128173,
-			["Level"] = 233,
+			["ID"] = 172844,
+			["Level"] = 425,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff00ccff|Hitem:128173::::::::113:259:::1:5805:::|h[Admiral Taylors Treuering]|h|r",
+			["Link"] = "|cff0070dd|Hitem:172844::::::::120:259::47:6:6578:6579:6541:6515:1537:4785:::|h[Ring des verderbten Aspiranten]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 153950,
-			["Level"] = 176,
+			["ID"] = 172846,
+			["Level"] = 425,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff1eff00|Hitem:153950::::::::110:259::::::|h[Lightdrinker Stone of Rage]|h|r",
+			["Link"] = "|cff0070dd|Hitem:172846::::::::120:259::47:4:40:6515:1537:4785:::|h[Medaillon des verderbten Aspiranten]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 153947,
-			["Level"] = 176,
+			["ID"] = 158163,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:153947::::::::110:259::::::|h[Lightdrinker Idol of Rage]|h|r",
+			["Link"] = "|cff0070dd|Hitem:158163::::::::120:259::26:4:4803:6515:1607:4785:::|h[Fernrohr des Ersten Maats]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 122261,
-			["Level"] = 242,
-			["Link"] = "|cff00ccff|Hitem:122261::::::::114:259:::1:5805:::|h[Geerbtes Cape des Schwarzen Barons]|h|r",
+			["ID"] = 169223,
+			["Level"] = 486,
+			["Link"] = "|cffff8000|Hitem:169223::::::::120:259::11:2:6280:1472:::|h[Ashjra'kamas, Tuch der Entschlossenheit]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 153959,
-			["Level"] = 185,
+			["ID"] = 172769,
+			["Level"] = 440,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff1eff00|Hitem:153959::::::::110:259::::::|h[Lightdrinker Dagger]|h|r",
+			["Link"] = "|cffa335ee|Hitem:172769::::::::120:259::25:7:6387:4802:6389:1552:4786:6516:6513:::|h[Stecher des verderbten Gladiators]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 153960,
-			["Level"] = 185,
+			["ID"] = 172769,
+			["Level"] = 440,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff1eff00|Hitem:153960::::::::110:259::::::|h[Lightdrinker Shiv]|h|r",
+			["Link"] = "|cffa335ee|Hitem:172769::168639::::::120:259::25:7:6387:4802:6389:1552:4786:6516:6513:::|h[Stecher des verderbten Gladiators]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

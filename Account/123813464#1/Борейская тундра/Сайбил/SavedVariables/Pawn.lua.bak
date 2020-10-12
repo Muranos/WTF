@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0324,
-	["LastPlayerFullName"] = "Сайбил-Борейская тундра",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0328,
 	["ItemLevels"] = {
 		{
 			["ID"] = 167322,
@@ -12,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 475,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:250::11:4:4932:4933:6316:1612:::|h[Сердце Азерот]|h|r",
+			["Level"] = 477,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:250::11:4:4932:4933:6316:1614:::|h[Сердце Азерот]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 157900,
@@ -92,6 +89,10 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:116499::::::::95:250:512:27:3:3874:62:550:95:::|h[Опутанная лозами палица с символом бесподобия]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Сайбил-Борейская тундра",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128402] = {
 			["Relics"] = {
@@ -110,7 +111,6 @@ PawnOptions = {
 			["Name"] = "Проклятый Пожиратель",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEATHKNIGHT",

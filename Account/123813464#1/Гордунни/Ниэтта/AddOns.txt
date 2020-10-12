@@ -1,0 +1,11 @@
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+BigWigs_Core: enabled
+OPie_Classic: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+LittleWigs: enabled
+BigWigs_Nyalotha: enabled
+BigWigs_Azeroth: enabled
+BigWigs_BattleOfDazaralor: enabled
+BigWigs_Legion: enabled

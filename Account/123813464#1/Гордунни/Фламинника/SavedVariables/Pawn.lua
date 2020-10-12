@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0329,
-	["LastPlayerFullName"] = "Фламинника-Гордунни",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0336,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159430,
@@ -12,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 523,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:72::11:4:6316:4932:4933:1660:::|h[Сердце Азерот]|h|r",
+			["Level"] = 525,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:72::11:4:6316:4932:4933:1662:::|h[Сердце Азерот]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 174165,
@@ -92,6 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:175010::::::::120:73::6:7:4824:6578:6579:6542:6513:1517:4786:::|h[Бастион обезумевшего приверженца]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Фламинника-Гордунни",
 	["Artifacts"] = {
 		[128289] = {
 			["Relics"] = {

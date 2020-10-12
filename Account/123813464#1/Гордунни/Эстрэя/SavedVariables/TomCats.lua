@@ -1,8 +1,8 @@
 
 TomCats_Character = {
-	["preferences"] = {
-	},
+	["preferQuestLog"] = true,
 	["cvars"] = {
 	},
-	["preferQuestLog"] = true,
+	["preferences"] = {
+	},
 }

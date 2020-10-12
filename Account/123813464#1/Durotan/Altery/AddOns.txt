@@ -5,3 +5,4 @@ OPie_Classic: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 LittleWigs: enabled
+BigWigs_Azeroth: enabled

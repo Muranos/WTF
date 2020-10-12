@@ -14,23 +14,23 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
 }
 Prat3HighCPUPerCharDB = {
-	["time"] = 1579536706,
+	["time"] = 1587365499,
 	["scrollback"] = {
 		["ChatFrame1"] = {
 			{
-				"[18:11:46] |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:1|h[1. Общий: Стальгорн]|h.", -- [1]
+				"[09:51:39] |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:1|h[1. Общий: Стальгорн]|h.", -- [1]
 				1, -- [2]
 				0.7529412508010864, -- [3]
 				0.7529412508010864, -- [4]
@@ -40,7 +40,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [1]
 			{
-				"[18:11:46] |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:2|h[2. Торговля: Город]|h.", -- [1]
+				"[09:51:39] |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:2|h[2. Торговля: Город]|h.", -- [1]
 				1, -- [2]
 				0.7529412508010864, -- [3]
 				0.7529412508010864, -- [4]
@@ -50,7 +50,7 @@ Prat3HighCPUPerCharDB = {
 				5, -- [8]
 			}, -- [2]
 			{
-				"[18:11:46] |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:3|h[3. Оборона: Стальгорн]|h.", -- [1]
+				"[09:51:39] |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:3|h[3. Оборона: Стальгорн]|h.", -- [1]
 				1, -- [2]
 				0.7529412508010864, -- [3]
 				0.7529412508010864, -- [4]

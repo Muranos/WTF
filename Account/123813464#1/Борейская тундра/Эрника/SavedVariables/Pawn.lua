@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0324,
-	["LastPlayerFullName"] = "Эрника-Борейская тундра",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0332,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122250,
@@ -20,6 +17,11 @@ PawnOptions = {
 			["Level"] = 11,
 			["Link"] = "|cff00ccff|Hitem:122262:4423:::::::7:64:::1:3592:::|h[Древний плащ Кровавой Луны]|h|r",
 		},
+		[8] = {
+			["ID"] = 49401,
+			["Level"] = 1,
+			["Link"] = "|cffffffff|Hitem:49401::::::::7:64::::::|h[Сапоги гилнеасского ученика]|h|r",
+		},
 		[16] = {
 			["ID"] = 66247,
 			["Level"] = 5,
@@ -30,12 +32,10 @@ PawnOptions = {
 			["Level"] = 11,
 			["Link"] = "|cff00ccff|Hitem:122384:4419:::::::7:64:::1:3592:::|h[Изорванное одеяние Багрового Тумана]|h|r",
 		},
-		[8] = {
-			["ID"] = 49401,
-			["Level"] = 1,
-			["Link"] = "|cffffffff|Hitem:49401::::::::7:64::::::|h[Сапоги гилнеасского ученика]|h|r",
-		},
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Эрника-Борейская тундра",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

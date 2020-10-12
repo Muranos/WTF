@@ -2210,7 +2210,7 @@ VUHDO_PANEL_SETUP = {
 			["orientation"] = "TOPLEFT",
 			["height"] = 56.99999618530273,
 			["growth"] = "TOPLEFT",
-			["width"] = 760.0000610351562,
+			["width"] = 200,
 		},
 		["RAID_ICON"] = {
 			["show"] = true,
@@ -2356,7 +2356,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["ID_TEXT"] = {
 			["showTags"] = true,
-			["_spacing"] = 18.00000762939453,
+			["_spacing"] = 18,
 			["showNickname"] = false,
 			["showClass"] = false,
 			["yAdjust"] = 0,
@@ -4653,7 +4653,7 @@ VUHDO_SPELL_ASSIGNMENTS = {
 VUHDO_HOSTILE_SPELL_ASSIGNMENTS = {
 }
 VUHDO_MM_SETTINGS = {
-	["minimapPos"] = 233.8204711905752,
+	["minimapPos"] = 202.9637727217264,
 }
 VUHDO_PLAYER_TARGETS = {
 }
@@ -4820,7 +4820,7 @@ VUHDO_BUFF_SETTINGS = {
 			["B"] = 1,
 		},
 		["enabled"] = false,
-		["name"] = "Alyna",
+		["name"] = "Maraada",
 		["filter"] = {
 			[999] = true,
 		},
@@ -5213,7 +5213,7 @@ VUHDO_RAID = {
 		["baseRange"] = true,
 		["class"] = "ROGUE",
 		["role"] = 61,
-		["sortMaxHp"] = 29580,
+		["sortMaxHp"] = 363580,
 		["map"] = "Boralus",
 		["threat"] = 0,
 		["powermax"] = 170,
@@ -5227,7 +5227,7 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 3,
-		["healthmax"] = 29580,
+		["healthmax"] = 363580,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "Altery",
@@ -5235,9 +5235,9 @@ VUHDO_RAID = {
 		["aggro"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 29580,
+		["health"] = 363580,
 		["className"] = "Schurkin",
-		["afk"] = false,
+		["afk"] = true,
 		["debuff"] = 0,
 		["connected"] = true,
 		["petUnit"] = "pet",

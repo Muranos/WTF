@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0328,
+	["LastVersion"] = 2.0336,
+	["LastPlayerFullName"] = "Сайбил-Борейская тундра",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 167322,
@@ -9,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 477,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:250::11:4:4932:4933:6316:1614:::|h[Сердце Азерот]|h|r",
+			["Level"] = 479,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:250::11:4:4932:4933:6316:1616:::|h[Сердце Азерот]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 157900,
@@ -19,9 +22,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 157958,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:157958::::::::120:250::28:4:1607:4786:6263:4775:::|h[Бригантина дюнного жука]|h|r",
+			["ID"] = 157926,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:157926::::::::120:250::28:4:1622:4786:6501:4775:::|h[Кираса мастера клинка Резана]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 159418,
@@ -89,10 +92,6 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:116499::::::::95:250:512:27:3:3874:62:550:95:::|h[Опутанная лозами палица с символом бесподобия]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Сайбил-Борейская тундра",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128402] = {
 			["Relics"] = {
@@ -111,6 +110,7 @@ PawnOptions = {
 			["Name"] = "Проклятый Пожиратель",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEATHKNIGHT",

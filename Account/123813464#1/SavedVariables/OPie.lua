@@ -3,24 +3,21 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "8.3.0",
-	["_OPieVersion"] = "Walnut 6 (3.101)",
+	["_GameVersion"] = "8.3.7",
+	["_OPieVersion"] = "Xe 1a (3.102)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSf",
-			},
-			["ShowCooldowns"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["SpecMenu"] = "F5",
 				["OPieTracking"] = false,
+				["OPieAutoQuest"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieAutoQuest"] = false,
+				["SpecMenu"] = "F5",
 			},
+			["ShowCooldowns"] = true,
 		},
 	},
 	["PersistentStorage"] = {
@@ -57,77 +54,87 @@ OneRing_Config = {
 			["SpecMenu"] = {
 				{
 					"specset", -- [1]
-					2, -- [2]
-					["sliceToken"] = "OPCTA2",
-				}, -- [1]
-				{
-					"specset", -- [1]
 					3, -- [2]
 					["sliceToken"] = "OPCTA3",
-				}, -- [2]
+				}, -- [1]
 				{
 					"specset", -- [1]
 					4, -- [2]
 					["sliceToken"] = "OPCTA4",
-				}, -- [3]
+				}, -- [2]
 				{
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 					["sliceToken"] = "OPCTAc",
-				}, -- [4]
+				}, -- [3]
 				{
 					"item", -- [1]
 					110560, -- [2]
 					["sliceToken"] = "OPCTAg",
-				}, -- [5]
+				}, -- [4]
 				{
 					"item", -- [1]
 					140192, -- [2]
 					["sliceToken"] = "OPCTAd",
-				}, -- [6]
+				}, -- [5]
 				{
 					["id"] = 556,
 					["sliceToken"] = "OPCTAa",
-				}, -- [7]
+				}, -- [6]
 				{
 					"item", -- [1]
 					141605, -- [2]
 					["sliceToken"] = "OPCTAw",
-				}, -- [8]
+				}, -- [7]
 				{
 					"item", -- [1]
 					63206, -- [2]
 					["sliceToken"] = "ABue4pYtWV1",
-				}, -- [9]
+				}, -- [8]
 				{
 					"toy", -- [1]
 					151016, -- [2]
 					["sliceToken"] = "ABue4pYtWVr",
-				}, -- [10]
+				}, -- [9]
 				{
 					"item", -- [1]
 					159825, -- [2]
 					["sliceToken"] = "ABue4pYtWVh",
-				}, -- [11]
+				}, -- [10]
 				{
 					"equipmentset", -- [1]
 					"Fury_Raid", -- [2]
 					["sliceToken"] = "ABue43sEX71",
-				}, -- [12]
+				}, -- [11]
 				{
 					"equipmentset", -- [1]
 					"Tank", -- [2]
 					["sliceToken"] = "ABue43sEX7r",
-				}, -- [13]
+				}, -- [12]
 				{
 					"item", -- [1]
 					65360, -- [2]
 					["sliceToken"] = "ABue43OVVje",
-				}, -- [14]
+				}, -- [13]
 				{
 					"toy", -- [1]
 					165802, -- [2]
 					["sliceToken"] = "ABue4VJN6dr",
+				}, -- [14]
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "ABuej7IMLNu",
 				}, -- [15]
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "ABuej7B7Bte",
+				}, -- [16]
+				{
+					"item", -- [1]
+					46874, -- [2]
+					["sliceToken"] = "ABueksMGpge",
+				}, -- [17]
 				["name"] = "Specializations and Travel",
 				["save"] = true,
 				["hotkey"] = "ALT-H",
@@ -183,3 +190,4 @@ OneRing_Config = {
 	},
 	["_GameLocale"] = "ruRU",
 }
+OPie_SavedData = nil

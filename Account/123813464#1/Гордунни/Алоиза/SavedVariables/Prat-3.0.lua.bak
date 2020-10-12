@@ -26,219 +26,431 @@ Prat3CharDB = {
 	},
 }
 Prat3HighCPUPerCharDB = {
-	["time"] = 1587409004,
+	["time"] = 1589856958,
 	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
 		["ChatFrame1"] = {
-			{
-				"[21:56:07] |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Котушастый-Гордунни:343:CHANNEL:2|h|cfffe7b09Котушастый|r|h|cffd8d8d8]|r: проведу вас в 16кей на викли, за голд, оч дешево", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [1]
-			{
-				"[21:56:13] |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Мистерсафа-Гордунни:344:CHANNEL:2|h|cffa22fc8Мистерсафа|r|h|cffd8d8d8]|r: |cffffd100|HclubFinder:ClubFinder-1-76446-1602-89574014|h[Гильдия: Чилл Афтер Ворк]|h|r  рады всем :)", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				4, -- [8]
-			}, -- [2]
-			{
-				"[21:56:13] |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Зиратсу-Гордунни:345:CHANNEL:4|h|cfffefefeЗиратсу|r|h|cffd8d8d8]|r: ЛОК / МАГ / РОГА / ВАР  в ком.статик на рейды, с руками и опытом. РТ с 19 до 1 (на освоении больше). Приятные плюшки! 4 года на рынке! /w", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				70, -- [5]
-				false, -- [6]
-				6, -- [7]
-				7, -- [8]
-			}, -- [3]
-			{
-				"[21:56:19] |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Помолх-Гордунни:346:CHANNEL:2|h|cffa22fc8Помолх|r|h|cffd8d8d8]|r: ►►►10 - 15 ключ в таймер◄◄◄ С сундука 455-465 вещь. Отдаём лут весь Вам.подбор брони. С недельного 465-475+. Мехагон ХМ+маунт.", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				9, -- [8]
-			}, -- [4]
-			{
-				"[21:56:22] |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Джонибонни-Гордунни:347:CHANNEL:2|h|cfff38bb9Джонибонни|r|h|cffd8d8d8]|r: Прокачаю в |cff66bbff|Hjournal:0:1001:23|h[Вольная Гавань]|h|r 110-120.Проход 5-7мин .Дешево", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				11, -- [8]
-			}, -- [5]
-			{
-				"[21:56:23] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:348:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff1eff00|Hitem:121273::::::::20:256:512::2:1812:1717:110:::|h[Сандалии обители Павшей Луны с меткой безмятежности]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [6]
-			{
-				"[21:56:24] |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Упрямушка-Гордунни:349:CHANNEL:4|h|cfffe7b09Упрямушка|r|h|cffd8d8d8]|r: В статик гильдии для освоения миф нужны дд/хил (хпал/ршам/дц)460+. РТ ср/чт/пн 20:00-23:00 мск. Прогресс 3/12 миф.", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				70, -- [5]
-				false, -- [6]
-				6, -- [7]
-				15, -- [8]
-			}, -- [7]
-			{
-				"[21:56:24] |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Упрямушка-Гордунни:350:CHANNEL:2|h|cfffe7b09Упрямушка|r|h|cffd8d8d8]|r: В статик гильдии для освоения миф нужны дд/хил (хпал/ршам/дц) 460+. РТ ср/чт/пн 20:00-23:00 мск. Прогресс 3/12 миф.", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				17, -- [8]
-			}, -- [8]
-			{
-				"[21:56:25] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:351:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff1eff00|Hitem:55753::::::::20:256:512:28:2:1694:4763:120:::|h[Поножи Светлой рощи с символом огненной вспышки]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [9]
-			{
-				"[21:56:27] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:352:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff0070dd|Hitem:173415::::::::20:256::14::::|h[Матерчатые сапоги Темной Империи]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [10]
-			{
-				"[21:56:27] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:353:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff0070dd|Hitem:173415::::::::20:256::14::::|h[Матерчатые сапоги Темной Империи]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [11]
-			{
-				"[21:56:27] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:354:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff0070dd|Hitem:173412::::::::20:256::14::::|h[Кожаные наплечи Темной Империи]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [12]
-			{
-				"[21:56:29] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:355:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff0070dd|Hitem:173420::::::::20:256::14::::|h[Матерчатый пояс Темной Империи]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [13]
-			{
-				"[21:56:30] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:356:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff1eff00|Hitem:24611::::::::20:256:512:28:2:1678:3840:120:::|h[Наплечные пластины Веселого Черепа со знаком быстрого клинка]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [14]
-			{
-				"[21:56:30] |cffd8d8d8[|r|Hplayer:Алоиза-Гордунни:357:LOOT|h|cffd8bc3f20|r:|cfffefefeАлоиза|r|h|cffd8d8d8]|rВы получили предмет: |cff1eff00|Hitem:24598::::::::20:256:512:28:2:1709:3840:120:::|h[Сандалии звездного огня со знаком рассвета]|h|r.", -- [1]
-				0.9372549653053284, -- [2]
-				0.8901961445808411, -- [3]
-				0.2980392277240753, -- [4]
-				28, -- [5]
-				false, -- [6]
-				13, -- [7]
-				14, -- [8]
-			}, -- [15]
-			{
-				"[21:56:30] |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Лансария-Гордунни:358:CHANNEL:4|h|cfff38bb9Лансария|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:175010::::::::120:65::5:7:4823:6578:6579:6538:6515:1502:4786:::|h[Бастион обезумевшего приверженца]|h|r продам", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				70, -- [5]
-				false, -- [6]
-				6, -- [7]
-				19, -- [8]
-			}, -- [16]
-			{
-				"[21:56:31] |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Котушастый-Гордунни:359:CHANNEL:2|h|cfffe7b09Котушастый|r|h|cffd8d8d8]|r: проведу вас в 16кей на викли, за голд, оч дешево", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [17]
-			{
-				"[21:56:37] |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Юрейко-Гордунни:360:CHANNEL:4|h|cfff38bb9Юрейко|r|h|cffd8d8d8]|r: нужен хил с талом или подгныльем за 40к", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				70, -- [5]
-				false, -- [6]
-				6, -- [7]
-				21, -- [8]
-			}, -- [18]
-			{
-				"[21:56:44] |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:1|h[1. Общий: Стальгорн]|h.", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				67, -- [5]
-				false, -- [6]
-				23, -- [7]
-				24, -- [8]
-			}, -- [19]
-			{
-				"[21:56:44] |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:2|h[2. Торговля: Город]|h.", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				68, -- [5]
-				false, -- [6]
-				1, -- [7]
-				26, -- [8]
-			}, -- [20]
-			{
-				"[21:56:44] |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:3|h[3. Оборона: Стальгорн]|h.", -- [1]
-				1, -- [2]
-				0.7529412508010864, -- [3]
-				0.7529412508010864, -- [4]
-				69, -- [5]
-				false, -- [6]
-				28, -- [7]
-				29, -- [8]
-			}, -- [21]
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 20,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[10:21:38]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.113 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy.",
+					["r"] = 1,
+					["timestamp"] = 730212.189,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[10:21:44]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 730223.158,
+					["serverTime"] = 1598253704,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[10:21:44]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 730223.158,
+					["serverTime"] = 1598253704,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[10:21:44]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff002|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
+					["timestamp"] = 730223.158,
+					["serverTime"] = 1598253704,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[10:21:44]|h |cffffd700Титан Панель|r|cff20ff20 5.18.7.80300|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
+					["timestamp"] = 730223.158,
+					["serverTime"] = 1598253704,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[10:21:44]|h |cffffd700<Титан> |r|cff20ff20Регистрация Titan плагинов...|r",
+					["timestamp"] = 730223.158,
+					["serverTime"] = 1598253704,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[10:21:44]|h |cffffd700<Титан> |r|cff20ff20Процесс регистрации завершен. 27|r",
+					["timestamp"] = 730223.158,
+					["serverTime"] = 1598253704,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[10:21:45]|h Общее время игры: 1 |4день:дня:дней;, 4 |4час:часа:часов;, 39 |4минута:минуты:минут;, 21 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1598253705,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 730225.714,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[10:21:45]|h Время игры на этом уровне: 0 |4день:дня:дней;, 0 |4час:часа:часов;, 29 |4минута:минуты:минут;, 39 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1598253705,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 730225.714,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[10:22:00]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Глотонерия-Гордунни:159:CHANNEL:2|h|cff8686ecГлотонерия|r|h|cffd8d8d8]|r: может варлок демонолог в лс написать, совет нужен по таланту",
+					["serverTime"] = 1598253720,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730240.764,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[10:22:03]|h Вы получили предмет: |cff1eff00|Hitem:82231::::::::20:256:512:29:2:1685:4313:87:::|h[Жезл с самоцветами с символом бесподобия]|h|r.",
+					["serverTime"] = 1598253723,
+					["r"] = 0.9372549653053284,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730243.483,
+					["g"] = 0.8901961445808411,
+					["b"] = 0.2980392277240753,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[10:22:03]|h Вы получили предмет: |cff1eff00|Hitem:25326::::::::20:256:512:27:2:1705:3868:66:::|h[Изначальный посох знаний со знаком рассвета]|h|r.",
+					["serverTime"] = 1598253723,
+					["r"] = 0.9372549653053284,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730243.738,
+					["g"] = 0.8901961445808411,
+					["b"] = 0.2980392277240753,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[10:22:04]|h Вы получили предмет: |cff1eff00|Hitem:24595::::::::20:256:512:29:2:1679:3849:77:::|h[Наплечные пластины Огненного Сердца со знаком быстрого клинка]|h|r.",
+					["serverTime"] = 1598253724,
+					["r"] = 0.9372549653053284,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730244.015,
+					["g"] = 0.8901961445808411,
+					["b"] = 0.2980392277240753,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[10:22:04]|h Вы получили предмет: |cff1eff00|Hitem:24699::::::::20:256:512:30:2:1709:3850:75:::|h[Наплечные щитки Костеглодов со знаком рассвета]|h|r.",
+					["serverTime"] = 1598253724,
+					["r"] = 0.9372549653053284,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730244.339,
+					["g"] = 0.8901961445808411,
+					["b"] = 0.2980392277240753,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[10:23:09]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Невим-Гордунни:164:CHANNEL:2|h|cff00fe95Невим|r|h|cffd8d8d8]|r: Сейчас 15 ключ в ТАЙМ за 80к Голд, все вещи отдадим вам :)",
+					["serverTime"] = 1598253789,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730309.057,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[10:23:09]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Невим-Гордунни:165:CHANNEL:4|h|cff00fe95Невим|r|h|cffd8d8d8]|r: Сейчас 15 ключ в ТАЙМ за 80к Голд, все вещи отдадим вам :)",
+					["serverTime"] = 1598253789,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730309.057,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[10:23:11]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Линэзия-Гордунни:166:CHANNEL:4|h|cfffe7b09Линэзия|r|h|cffd8d8d8]|r: В Сообщество для пуша 20 ключей нужны танки хилы и дд от 2.7к рио Ждём вас!",
+					["serverTime"] = 1598253791,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730311.157,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[10:23:51]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Стальгорн]|h.",
+					["serverTime"] = 1598253830,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730350.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[10:23:51]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
+					["serverTime"] = 1598253830,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730350.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[10:23:51]|h |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:CHANNEL:3|h[3. Оборона: Стальгорн]|h.",
+					["serverTime"] = 1598253830,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 730350.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [20]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 	},
 }

@@ -1,0 +1,38 @@
+VER 3 0100000000000008 "BoP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословение защиты
+END
+VER 3 010000000000000A "Cancel" "1723990"
+/cancelaura Благословение защиты
+END
+VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение от токсинов
+END
+VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословенная свобода
+END
+VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Вспышка Света
+END
+VER 3 0100000000000005 "LayOnHands" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Возложение рук
+END
+VER 3 0100000000000007 "Sacrifice" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жертвенное благословение
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip Гнев карателя
+/use Пузырек с оживленной кровью
+/cast Гнев карателя
+END

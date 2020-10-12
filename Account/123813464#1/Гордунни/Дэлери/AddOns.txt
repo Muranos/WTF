@@ -5,3 +5,11 @@ TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
 MoveAnything: enabled
 Quartz: disabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+BigWigs_Core: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+LittleWigs: enabled
+BigWigs_Azeroth: enabled
+BigWigs_Nyalotha: enabled

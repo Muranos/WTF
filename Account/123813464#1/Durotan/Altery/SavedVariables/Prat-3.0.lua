@@ -51,7 +51,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 7,
+			["headIndex"] = 0,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -63,89 +63,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|Hpratcopy|h[05:18:16]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wadjet-ZirkeldesCenarius:165:INSTANCE_CHAT|h|cffd84e4e120|r:|cffa22fc8Wadjet|r-|cffb8c3fbZir|r|h|cffd8d8d8]|r: Guten morgen",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 921016.9940000001,
-					["serverTime"] = 1593829095,
-					["extraData"] = {
-						63, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-				}, -- [1]
-				{
-					["message"] = "|Hpratcopy|h[05:20:56]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Wadjet-ZirkeldesCenarius:200:INSTANCE_CHAT|h|cffd84e4e120|r:|cffa22fc8Wadjet|r-|cffb8c3fbZir|r|h|cffd8d8d8]|r: dake bb",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 921016.9940000001,
-					["serverTime"] = 1593829255,
-					["extraData"] = {
-						63, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-				}, -- [2]
-				{
-					["message"] = "0 |4Tag:Tage;, 0 |4Stunde:Stunden;, 28 |4Minute:Minuten;, 30 |4Sekunde:Sekunden;",
-					["timestamp"] = 921016.9940000001,
-				}, -- [3]
-				{
-					["message"] = "========== Ende des Zurückblättern ==========",
-					["timestamp"] = 921016.9940000001,
-				}, -- [4]
-				{
-					["message"] = "|Hpratcopy|h[06:07:17]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Mareeha-DieAldor:510:INSTANCE_CHAT|h|cffd84e4e120|r:|cfff38bb9Mareeha|r-|cffd6f511Die|r|h|cffd8d8d8]|r: gepennt :D",
-					["serverTime"] = 1593832036,
-					["r"] = 1,
-					["extraData"] = {
-						63, -- [1]
-						false, -- [2]
-						23, -- [3]
-						24, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 922089.398,
-					["g"] = 0.4980392456054688,
-					["b"] = 0,
-				}, -- [5]
-				{
-					["message"] = "|Hpratcopy|h[06:07:41]|h |Hchannel:INSTANCE_CHAT|h[IL] |h|cffd8d8d8[|r|Hplayer:Binarberg-Rexxar:515:INSTANCE_CHAT|h|cffd84e4e120|r:|cffc59a6cBinarberg|r-|cff95ec8aRex|r|h|cffd8d8d8]|r: ichj auch^^",
-					["serverTime"] = 1593832060,
-					["r"] = 1,
-					["extraData"] = {
-						64, -- [1]
-						false, -- [2]
-						23, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 922112.604,
-					["g"] = 0.2823529541492462,
-					["b"] = 0.03529411926865578,
-				}, -- [6]
-				{
-					["message"] = "|Hpratcopy|h[06:11:03]|h |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Mareeha-DieAldor:545:INSTANCE_CHAT|h|cffd84e4e120|r:|cfff38bb9Mareeha|r-|cffd6f511Die|r|h|cffd8d8d8]|r: Erst nach links^^",
-					["serverTime"] = 1593832263,
-					["r"] = 1,
-					["extraData"] = {
-						63, -- [1]
-						false, -- [2]
-						23, -- [3]
-						24, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 922314.5970000001,
-					["g"] = 0.4980392456054688,
-					["b"] = 0,
-				}, -- [7]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -221,641 +138,625 @@ Prat3HighCPUPerCharDB = {
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame11"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 41,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
+			["maxElements"] = 128,
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[07:11:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T236473:14|tMechanischer Pandarendrachling ist jetzt das aktive Haustier von Euch.",
-					["serverTime"] = 1593835918,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T851119:14|tUngeborene Val'kyr ist jetzt das aktive Haustier von Euch.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925971.001,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242770,
+					["timestamp"] = 1801428.931,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[07:12:00]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T134065:14|tFeindschnitter 800 ist jetzt das aktive Haustier des Gegners.",
-					["serverTime"] = 1593835919,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T1500940:14|tBlotto ist jetzt das aktive Haustier des Gegners.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925971.761,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242771,
+					["timestamp"] = 1801429.691,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[07:12:03]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 1",
-					["serverTime"] = 1593835922,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 1",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925974.985,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242773,
+					["timestamp"] = 1801431.931,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[07:12:04]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1320:276:309|h[Atem]|h|r hat |T134065:14|tFeindschnitter 800 des Gegners 284 Schaden zugefügt.",
-					["serverTime"] = 1593835923,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T851119:14|tUngeborene Val'kyr von Euch 149 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925976.275,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242774,
+					["timestamp"] = 1801432.691,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[07:12:04]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T134065:14|tFeindschnitter 800 des Gegners ist gestorben.",
-					["serverTime"] = 1593835923,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T132914:14|tIkky von Euch 223 Schaden zugefügt (effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925976.275,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242774,
+					["timestamp"] = 1801432.691,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[07:12:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:49:29:26|h[Ausfallsicherung]|h|r hat |T134065:14|tFeindschnitter 800 des Gegners um 49 geheilt.",
-					["serverTime"] = 1593835926,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T134152:14|tAufziehgnom von Euch 98 Schaden zugefügt (weniger effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925978.805,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242774,
+					["timestamp"] = 1801432.691,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[07:12:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:49:29:26|h[Ausfallsicherung]|h|r hat |T134065:14|tFeindschnitter 800 des Gegners mit |T618979:14|t|cff4e96f7|HbattlePetAbil:244:49:29:26|h[Mechanisch]|h|r belegt.",
-					["serverTime"] = 1593835926,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136122:14|t|cff4e96f7|HbattlePetAbil:218:1657:276:227|h[Fluch der Verdammnis]|h|r hat |T1500940:14|tBlotto des Gegners mit |T136122:14|t|cff4e96f7|HbattlePetAbil:217:1657:276:227|h[Fluch der Verdammnis]|h|r belegt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925979.055,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242776,
+					["timestamp"] = 1801434.631,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[07:12:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T252187:14|t|cff4e96f7|HbattlePetAbil:390:49:29:26|h[Demolieren]|h|r hat |T236473:14|tMechanischer Pandarendrachling von Euch 98 Schaden zugefügt.",
-					["serverTime"] = 1593835929,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:58]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 2",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925982.326,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242778,
+					["timestamp"] = 1801436.961,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[07:12:13]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 2",
-					["serverTime"] = 1593835932,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:32:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136157:14|t|cff4e96f7|HbattlePetAbil:445:3246:278:375|h[Schleimberührung]|h|r hat |T851119:14|tUngeborene Val'kyr von Euch 298 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925985.0260000001,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242779,
+					["timestamp"] = 1801438.221,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[07:12:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1222:276:309|h[Atem]|h|r hat |T134065:14|tFeindschnitter 800 des Gegners 268 Schaden zugefügt.",
-					["serverTime"] = 1593835933,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T236295:14|t|cff4e96f7|HbattlePetAbil:321:1359:276:227|h[Unheiliger Aufstieg]|h|r hat |T1500940:14|tBlotto des Gegners mit |T236295:14|t|cff4e96f7|HbattlePetAbil:320:1359:276:227|h[Unheiliger Aufstieg]|h|r belegt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925986.416,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242782,
+					["timestamp"] = 1801441.251,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[07:12:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T134065:14|tFeindschnitter 800 des Gegners ist gestorben.",
-					["serverTime"] = 1593835933,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T236295:14|t|cff4e96f7|HbattlePetAbil:321:0:276:227|h[Unheiliger Aufstieg]|h|r hat |T851119:14|tUngeborene Val'kyr von Euch 1359 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925986.416,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242782,
+					["timestamp"] = 1801441.501,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[07:12:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 2",
-					["serverTime"] = 1593835936,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T851119:14|tUngeborene Val'kyr von Euch ist gestorben.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925988.936,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242782,
+					["timestamp"] = 1801441.501,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[07:12:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|tGacksi ist jetzt das aktive Haustier des Gegners.",
-					["serverTime"] = 1593835936,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 2",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925988.936,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242787,
+					["timestamp"] = 1801445.947,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[07:12:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 3",
-					["serverTime"] = 1593835939,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132914:14|tIkky ist jetzt das aktive Haustier von Euch.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925991.936,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242787,
+					["timestamp"] = 1801445.947,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[07:12:21]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1222:276:309|h[Atem]|h|r hat |T135996:14|tGacksi des Gegners 343 Schaden zugefügt.",
-					["serverTime"] = 1593835940,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 3",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925993.216,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242790,
+					["timestamp"] = 1801448.877,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[07:12:21]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|tGacksi des Gegners ist gestorben.",
-					["serverTime"] = 1593835940,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:11]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135664:14|t|cff4e96f7|HbattlePetAbil:919:1096:322:409|h[Schwarze Klaue]|h|r hat |T1500940:14|tBlotto des Gegners mit |T135664:14|t|cff4e96f7|HbattlePetAbil:918:1096:322:409|h[Schwarze Klaue]|h|r belegt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925993.216,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242791,
+					["timestamp"] = 1801449.657,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[07:12:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|tGacksi des Gegners ist nicht mehr von |T618976:14|t|cff4e96f7|HbattlePetAbil:239:0:29:44|h[Fliegend]|h|r betroffen.",
-					["serverTime"] = 1593835942,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136157:14|t|cff4e96f7|HbattlePetAbil:445:3246:278:375|h[Schleimberührung]|h|r hat |T132914:14|tIkky von Euch 447 Schaden zugefügt (effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925994.726,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242792,
+					["timestamp"] = 1801451.327,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[07:12:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 3",
-					["serverTime"] = 1593835943,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132914:14|tIkky von Euch ist nicht mehr von |T618976:14|t|cff4e96f7|HbattlePetAbil:239:649:322:409|h[Fliegend]|h|r betroffen.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925995.736,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242792,
+					["timestamp"] = 1801451.327,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[07:12:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T647701:14|tKlitze ist jetzt das aktive Haustier des Gegners.",
-					["serverTime"] = 1593835943,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:15]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 4",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925995.736,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242795,
+					["timestamp"] = 1801453.967,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [19]
 				{
-					["message"] = "|Hpratcopy|h[07:12:28]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 4",
-					["serverTime"] = 1593835947,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:16]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T132914:14|tIkky von Euch 335 Schaden zugefügt (effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925999.951,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242796,
+					["timestamp"] = 1801454.727,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [20]
 				{
-					["message"] = "|Hpratcopy|h[07:12:28]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T454772:14|tZwergkamel ist jetzt das aktive Haustier von Euch.",
-					["serverTime"] = 1593835947,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:16]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T134152:14|tAufziehgnom von Euch 147 Schaden zugefügt (weniger effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 925999.951,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242796,
+					["timestamp"] = 1801454.727,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [21]
 				{
-					["message"] = "|Hpratcopy|h[07:12:31]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T611425:14|t|cff4e96f7|HbattlePetAbil:119:240:28:28|h[Kratzen]|h|r hat |T454772:14|tZwergkamel von Euch 48 Schaden zugefügt.",
-					["serverTime"] = 1593835950,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 141 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926002.721,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242797,
+					["timestamp"] = 1801455.987,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [22]
 				{
-					["message"] = "|Hpratcopy|h[07:12:33]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 5",
-					["serverTime"] = 1593835952,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 141 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926004.961,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242798,
+					["timestamp"] = 1801456.737,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [23]
 				{
-					["message"] = "|Hpratcopy|h[07:12:34]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132368:14|t|cff4e96f7|HbattlePetAbil:493:262:31:28|h[Huf]|h|r hat |T647701:14|tKlitze des Gegners 63 Schaden zugefügt.",
-					["serverTime"] = 1593835953,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 141 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926006.201,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242798,
+					["timestamp"] = 1801457.087,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [24]
 				{
-					["message"] = "|Hpratcopy|h[07:12:36]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T611425:14|t|cff4e96f7|HbattlePetAbil:119:177:28:28|h[Kratzen]|h|r hat |T454772:14|tZwergkamel von Euch 48 Schaden zugefügt.",
-					["serverTime"] = 1593835955,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners mit |T132358:14|t|cff4e96f7|HbattlePetAbil:542:314:322:273|h[Zerschmetterte Verteidigung]|h|r belegt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926007.881,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242798,
+					["timestamp"] = 1801457.437,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [25]
 				{
-					["message"] = "|Hpratcopy|h[07:12:38]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 6",
-					["serverTime"] = 1593835957,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:21]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 5",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926009.971,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242801,
+					["timestamp"] = 1801459.717,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [26]
 				{
-					["message"] = "|Hpratcopy|h[07:12:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T309187:14|t|cff4e96f7|HbattlePetAbil:580:214:31:28|h[Essenskoma]|h|r hat |T647701:14|tKlitze des Gegners mit |T618973:14|t|cff4e96f7|HbattlePetAbil:236:214:31:28|h[Kleintier]|h|r belegt.",
-					["serverTime"] = 1593835958,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:22]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132131:14|t|cff4e96f7|HbattlePetAbil:538:2823:278:375|h[Verschlingen]|h|r hat |T132914:14|tIkky von Euch 147 Schaden zugefügt (weniger effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926010.731,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242802,
+					["timestamp"] = 1801460.627,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [27]
 				{
-					["message"] = "|Hpratcopy|h[07:12:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T309187:14|t|cff4e96f7|HbattlePetAbil:580:214:31:28|h[Essenskoma]|h|r |T647701:14|tKlitze war immun gegen des Gegners.",
-					["serverTime"] = 1593835958,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926010.731,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242803,
+					["timestamp"] = 1801461.737,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [28]
 				{
-					["message"] = "|Hpratcopy|h[07:12:40]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237525:14|t|cff4e96f7|HbattlePetAbil:283:177:28:28|h[Überleben]|h|r hat |T647701:14|tKlitze des Gegners mit |T237525:14|t|cff4e96f7|HbattlePetAbil:284:177:28:28|h[Überleben]|h|r belegt.",
-					["serverTime"] = 1593835959,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926012.241,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242803,
+					["timestamp"] = 1801462.437,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [29]
 				{
-					["message"] = "|Hpratcopy|h[07:12:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 7",
-					["serverTime"] = 1593835964,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926016.981,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242804,
+					["timestamp"] = 1801462.787,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [30]
 				{
-					["message"] = "|Hpratcopy|h[07:12:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T236473:14|tMechanischer Pandarendrachling ist jetzt das aktive Haustier von Euch.",
-					["serverTime"] = 1593835964,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners mit |T132358:14|t|cff4e96f7|HbattlePetAbil:542:167:322:273|h[Zerschmetterte Verteidigung]|h|r belegt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926016.981,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242804,
+					["timestamp"] = 1801463.137,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [31]
 				{
-					["message"] = "|Hpratcopy|h[07:12:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T134294:14|t|cff4e96f7|HbattlePetAbil:360:177:28:28|h[Schlaghagel]|h|r hat |T236473:14|tMechanischer Pandarendrachling von Euch 24 Schaden zugefügt.",
-					["serverTime"] = 1593835967,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136122:14|t|cff4e96f7|HbattlePetAbil:217:0:276:227|h[Fluch der Verdammnis]|h|r hat |T1500940:14|tBlotto des Gegners 1136 Schaden zugefügt (kritisch).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926019.931,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242806,
+					["timestamp"] = 1801464.617,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [32]
 				{
-					["message"] = "|Hpratcopy|h[07:12:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T647701:14|tKlitze des Gegners ist nicht mehr von |T618973:14|t|cff4e96f7|HbattlePetAbil:236:214:31:28|h[Kleintier]|h|r betroffen.",
-					["serverTime"] = 1593835968,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136122:14|t|cff4e96f7|HbattlePetAbil:217:0:276:227|h[Fluch der Verdammnis]|h|r hat |T1500940:14|tBlotto des Gegners mit |T618978:14|t|cff4e96f7|HbattlePetAbil:243:0:276:227|h[Magisch]|h|r belegt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926020.691,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242806,
+					["timestamp"] = 1801464.617,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [33]
 				{
-					["message"] = "|Hpratcopy|h[07:12:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T647701:14|tKlitze des Gegners ist nicht mehr von |T237525:14|t|cff4e96f7|HbattlePetAbil:284:177:28:28|h[Überleben]|h|r betroffen.",
-					["serverTime"] = 1593835968,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T1500940:14|tBlotto des Gegners ist nicht mehr von |T136122:14|t|cff4e96f7|HbattlePetAbil:217:0:276:227|h[Fluch der Verdammnis]|h|r betroffen.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926020.691,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242807,
+					["timestamp"] = 1801465.627,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [34]
 				{
-					["message"] = "|Hpratcopy|h[07:12:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 8",
-					["serverTime"] = 1593835969,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 6",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926021.991,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242807,
+					["timestamp"] = 1801466.487,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [35]
 				{
-					["message"] = "|Hpratcopy|h[07:12:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1198:276:309|h[Atem]|h|r hat |T647701:14|tKlitze des Gegners 251 Schaden zugefügt.",
-					["serverTime"] = 1593835970,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:28]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132131:14|t|cff4e96f7|HbattlePetAbil:538:700:278:375|h[Verschlingen]|h|r hat |T132914:14|tIkky von Euch 147 Schaden zugefügt (weniger effektiv).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926023.411,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242808,
+					["timestamp"] = 1801467.447,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [36]
 				{
-					["message"] = "|Hpratcopy|h[07:12:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T647701:14|tKlitze des Gegners ist gestorben.",
-					["serverTime"] = 1593835970,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:29]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:20:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926023.411,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242809,
+					["timestamp"] = 1801468.557,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [37]
 				{
-					["message"] = "|Hpratcopy|h[07:12:55]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:1259:276:309|h[Erholung von der Schlacht]|h|r hat |T236473:14|tMechanischer Pandarendrachling von Euch um 61 geheilt.",
-					["serverTime"] = 1593835974,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:32]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:20:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 494 Schaden zugefügt (kritisch).",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926026.831,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242812,
+					["timestamp"] = 1801470.607,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [38]
 				{
-					["message"] = "|Hpratcopy|h[07:12:56]|h |Hchannel:PET_BATTLE_INFO|h[Haustierkampf]|h: |T454772:14|tZwergkamel von Euch erhält 413 EP.",
-					["serverTime"] = 1593835975,
-					["r"] = 0.8823530077934265,
-					["extraData"] = {
-						62, -- [1]
-						false, -- [2]
-						43, -- [3]
-						44, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926028.351,
-					["g"] = 0.8705883026123047,
-					["b"] = 0.364705890417099,
-				}, -- [39]
-				{
-					["message"] = "|Hpratcopy|h[07:12:56]|h |Hchannel:PET_BATTLE_INFO|h[Haustierkampf]|h: |T454772:14|tZwergkamel von Euch hat Stufe 5 erreicht!",
-					["serverTime"] = 1593835975,
-					["r"] = 0.8823530077934265,
-					["extraData"] = {
-						62, -- [1]
-						false, -- [2]
-						43, -- [3]
-						44, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926028.351,
-					["g"] = 0.8705883026123047,
-					["b"] = 0.364705890417099,
-				}, -- [40]
-				{
-					["message"] = "|Hpratcopy|h[07:12:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:449:31:28|h[Erholung von der Schlacht]|h|r hat |T454772:14|tZwergkamel von Euch um 235 geheilt.",
-					["serverTime"] = 1593835975,
-					["r"] = 0.9058824181556702,
+					["message"] = "|Hpratcopy|h[17:33:32]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T1500940:14|tBlotto des Gegners ist gestorben.",
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
-						41, -- [3]
-						42, -- [4]
+						8, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926028.351,
-					["g"] = 0.8705883026123047,
 					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242812,
+					["timestamp"] = 1801470.607,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[17:33:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:670:322:273|h[Erholung von der Schlacht]|h|r hat |T132914:14|tIkky von Euch um 650 geheilt.",
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242815,
+					["timestamp"] = 1801474.277,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[17:33:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:1424:257:289|h[Erholung von der Schlacht]|h|r hat |T134152:14|tAufziehgnom von Euch um 123 geheilt.",
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6705882549285889,
+					["serverTime"] = 1597242815,
+					["timestamp"] = 1801474.277,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [41]
 			},
-			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 41,
 		},
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
@@ -925,7 +826,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 13,
+			["headIndex"] = 47,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -938,1925 +839,439 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[07:39:11]|h Erhalten: 10 Gold, 50 Silber.",
-					["serverTime"] = 1593837550,
+					["message"] = "|Hpratcopy|h[02:02:10]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.113 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy.",
 					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927603.194,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 807681.46,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[07:39:21]|h Die Fraktion 'Wächter des Hyjal' ist Euch gegenüber jetzt 'Neutral' eingestellt.",
-					["serverTime"] = 1593837560,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927612.78,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[02:02:18]|h |cff7f7f7f[02:02]|r [|cff00ffffNOP|r] |cFFFF0000New Openables |cFFFFFFFF09.16 16.12.2018 - benutze |cFFFF00FF/nop|cFFFFFFFF",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988539,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[07:43:59]|h Lord Magmathar schreit: Wie Motten vom Licht angezogen!",
-					["serverTime"] = 1593837838,
-					["r"] = 1,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						19, -- [3]
-						20, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927891.422,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
+					["message"] = "|Hpratcopy|h[02:02:19]|h |cffffd839TSM|r: TSM doesn't currently have any AuctionDB pricing data for your realm. We recommend you download the TSM Desktop Application from |cff79a2ffhttps://tradeskillmaster.com|r to automatically update your AuctionDB data (and auto-backup your TSM settings).",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988540,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[07:46:51]|h Aussicht von Thal'darah entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593838010,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 928063.282,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[02:02:19]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988540,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[07:46:51]|h Ihr seid jetzt nicht an der Tastatur: AFK",
-					["serverTime"] = 1593838010,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 928063.282,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[02:02:19]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988540,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[07:56:57]|h Ihr werdet nicht mehr mit 'Nicht an der Tastatur' angezeigt.",
-					["serverTime"] = 1593838616,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 928669.166,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[02:02:20]|h |cffffd700Titan Panel|r|cff20ff20 5.18.7.80300|r|cffffd700|cffffd700 vom |cffff8c00Titan Panel Development Team|r|cff20ff20|r",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988541,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[07:57:12]|h Der Steinkrallengipfel entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593838631,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 928684.4940000001,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[02:02:20]|h |cffffd700<Titan> |r|cff20ff20Registriere Titan Panel Plugins...|r",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988541,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[07:58:11]|h Der Zoramstrand entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593838690,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 928743.269,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[02:02:20]|h |cffffd700<Titan> |r|cff20ff20Registrationsprozess abgeschlossen. 28|r",
+					["timestamp"] = 807706.956,
+					["serverTime"] = 1600988541,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[07:58:39]|h Steinkrallengebirge entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593838718,
+					["message"] = "|Hpratcopy|h[02:02:20]|h |cffffe566{VuhDo}|r Profil geladen: Altery: Фламиника: Vuhdo'esque",
 					["r"] = 1,
+					["serverTime"] = 1600988541,
+					["timestamp"] = 807706.956,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[02:02:21]|h Gesamte Spielzeit: 2 |4Tag:Tage;, 13 |4Stunde:Stunden;, 21 |4Minute:Minuten;, 53 |4Sekunde:Sekunden;",
+					["serverTime"] = 1600988542,
+					["r"] = 0.9137255549430847,
 					["extraData"] = {
 						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 807710.422,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[02:02:21]|h Zeit auf dieser Stufe gespielt: 1 |4Tag:Tage;, 22 |4Stunde:Stunden;, 46 |4Minute:Minuten;, 25 |4Sekunde:Sekunden;",
+					["serverTime"] = 1600988542,
+					["r"] = 0.9137255549430847,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 807710.422,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[02:02:23]|h |cffffd839TSM|r: TSM is currently rebuilding its item cache which may cause FPS drops and result in TSM not being fully functional until this process is complete. This is normal and typically takes less than a minute.",
+					["timestamp"] = 807710.422,
+					["serverTime"] = 1600988544,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[02:02:25]|h |cffffd839TSM|r: Done rebuilding item cache.",
+					["timestamp"] = 807714.52,
+					["serverTime"] = 1600988546,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[02:02:50]|h |cff33ff99Postal|r: Bearbeite Nachricht 15: Auktion abgelaufen: Sternmoos (186)",
+					["timestamp"] = 807739.283,
+					["serverTime"] = 1600988571,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[02:02:50]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152506::::::::120:259::::::|h[Sternmoos]|h|rx186.",
+					["serverTime"] = 1600988571,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 928771.492,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [9]
-				{
-					["message"] = "|Hpratcopy|h[08:05:16]|h Ihr bekommt einen Gegenstand: |cff0070dd|Hbattlepet:1204:25:3:1546:257:289:0000000000000000:0|h[Pierre]|h|r.",
-					["serverTime"] = 1593839115,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929168.535,
+					["timestamp"] = 807739.48,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
-				}, -- [10]
-				{
-					["message"] = "|Hpratcopy|h[08:06:51]|h Miri Pfriemelfizz sagt: Vertraut niemals den gnomischen Erfindungen anderer Anbieter! Meine Konkurrenten sind alle Betrüger!",
-					["serverTime"] = 1593839210,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929263.387,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [11]
-				{
-					["message"] = "|Hpratcopy|h[08:07:00]|h Patrick Markson sagt: Begebt Ihr Euch auf die Jagd? Nirgendwo gibt es bessere Vorräte als hier!",
-					["serverTime"] = 1593839219,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929271.905,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [12]
-				{
-					["message"] = "|Hpratcopy|h[08:07:32]|h Sara Bartels sagt: Hochwertige Gewürze aus ganz Azeroth!",
-					["serverTime"] = 1593839251,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929304.014,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [13]
-				{
-					["message"] = "|Hpratcopy|h[07:14:54]|h Bandit der Flusspfoten sagt: Grrr... Frischfleisch!",
-					["serverTime"] = 1593836093,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926145.797,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [14]
-				{
-					["message"] = "|Hpratcopy|h[07:14:57]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836096,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926148.801,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[07:14:57]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 12 erhöht.",
-					["serverTime"] = 1593836096,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926148.801,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[02:02:51]|h |cff33ff99Postal|r: Bearbeite Nachricht 14: Auktion abgelaufen: Flussknospe (189)",
+					["timestamp"] = 807739.78,
+					["serverTime"] = 1600988572,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[07:14:57]|h Ihr erhaltet Beute: |cffffffff|Hitem:765::::::::114:259::::::|h[Silberblatt]|h|rx2.",
-					["serverTime"] = 1593836096,
+					["message"] = "|Hpratcopy|h[02:02:51]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx189.",
+					["serverTime"] = 1600988572,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926149.426,
+					["timestamp"] = 807739.926,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[07:14:59]|h Ihr erhaltet Beute: |cffffffff|Hitem:2589::::::::114:259::::::|h[Leinenstoff]|h|rx3.",
-					["serverTime"] = 1593836098,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926150.547,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:51]|h |cff33ff99Postal|r: Bearbeite Nachricht 13: Auktion abgelaufen: Ankerkraut (22)",
+					["timestamp"] = 807740.282,
+					["serverTime"] = 1600988572,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[07:14:59]|h Ihr plündert 12 Silber, 32 Kupfer",
-					["serverTime"] = 1593836098,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						3, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926151.443,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[07:15:09]|h Späherkuppe entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836108,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926160.74,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[07:15:30]|h Der Todesacker entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836129,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926181.7660000001,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[07:15:33]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836132,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926184.772,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[07:15:33]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 13 erhöht.",
-					["serverTime"] = 1593836132,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926184.772,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [23]
-				{
-					["message"] = "|Hpratcopy|h[07:15:33]|h Ihr erhaltet Beute: |cffffffff|Hitem:2447::::::::114:259::::::|h[Friedensblume]|h|r.",
-					["serverTime"] = 1593836132,
+					["message"] = "|Hpratcopy|h[02:02:51]|h Ihr erhaltet den Gegenstand: |cff1eff00|Hitem:152510::::::::120:259::::::|h[Ankerkraut]|h|rx22.",
+					["serverTime"] = 1600988572,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926185.388,
+					["timestamp"] = 807740.426,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
-				}, -- [24]
+				}, -- [19]
 				{
-					["message"] = "|Hpratcopy|h[07:15:40]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836139,
+					["message"] = "|Hpratcopy|h[02:02:52]|h |cff33ff99Postal|r: Bearbeite Nachricht 12: Auktion abgelaufen: Flussknospe (189)",
+					["timestamp"] = 807740.789,
+					["serverTime"] = 1600988573,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[02:02:52]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx189.",
+					["serverTime"] = 1600988573,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926191.768,
+					["timestamp"] = 807740.942,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[02:02:52]|h |cff33ff99Postal|r: Bearbeite Nachricht 11: Auktion abgelaufen: Sirenenpollen (198)",
+					["timestamp"] = 807741.289,
+					["serverTime"] = 1600988573,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[02:02:52]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx198.",
+					["serverTime"] = 1600988573,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 807741.4720000001,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[02:02:53]|h |cff33ff99Postal|r: Bearbeite Nachricht 10: Auktion abgelaufen: Winterkuss (173)",
+					["timestamp"] = 807741.794,
+					["serverTime"] = 1600988574,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[02:02:53]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx173.",
+					["serverTime"] = 1600988574,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 807741.947,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [25]
 				{
-					["message"] = "|Hpratcopy|h[07:15:40]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836139,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926191.924,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:53]|h |cff33ff99Postal|r: Bearbeite Nachricht 9: Auktion abgelaufen: Flussknospe (17)",
+					["timestamp"] = 807742.295,
+					["serverTime"] = 1600988574,
 				}, -- [26]
 				{
-					["message"] = "|Hpratcopy|h[07:15:47]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836146,
+					["message"] = "|Hpratcopy|h[02:02:53]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx17.",
+					["serverTime"] = 1600988574,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926198.693,
+					["timestamp"] = 807742.439,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [27]
 				{
-					["message"] = "|Hpratcopy|h[07:15:47]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836146,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926198.693,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:54]|h |cff33ff99Postal|r: Bearbeite Nachricht 8: Auktion abgelaufen: Winterkuss (173)",
+					["timestamp"] = 807742.797,
+					["serverTime"] = 1600988575,
 				}, -- [28]
 				{
-					["message"] = "|Hpratcopy|h[07:15:54]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836153,
+					["message"] = "|Hpratcopy|h[02:02:54]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx173.",
+					["serverTime"] = 1600988575,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926206.368,
+					["timestamp"] = 807742.93,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [29]
 				{
-					["message"] = "|Hpratcopy|h[07:16:05]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836164,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926217.091,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:54]|h |cff33ff99Postal|r: Bearbeite Nachricht 7: Auktion abgelaufen: Winterkuss (173)",
+					["timestamp"] = 807743.306,
+					["serverTime"] = 1600988575,
 				}, -- [30]
 				{
-					["message"] = "|Hpratcopy|h[07:16:05]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836164,
+					["message"] = "|Hpratcopy|h[02:02:54]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx173.",
+					["serverTime"] = 1600988575,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926217.091,
+					["timestamp"] = 807743.449,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [31]
 				{
-					["message"] = "|Hpratcopy|h[07:16:14]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836173,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926225.594,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:55]|h |cff33ff99Postal|r: Bearbeite Nachricht 6: Auktion abgelaufen: Sirenenpollen (164)",
+					["timestamp"] = 807743.809,
+					["serverTime"] = 1600988576,
 				}, -- [32]
 				{
-					["message"] = "|Hpratcopy|h[07:16:14]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836173,
+					["message"] = "|Hpratcopy|h[02:02:55]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx164.",
+					["serverTime"] = 1600988576,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926225.594,
+					["timestamp"] = 807743.982,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [33]
 				{
-					["message"] = "|Hpratcopy|h[07:16:25]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5115::::::::114:259::::::|h[Zerbrochenes Gabelbein]|h|r.",
-					["serverTime"] = 1593836184,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926237.263,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:55]|h |cff33ff99Postal|r: Bearbeite Nachricht 5: Auktion abgelaufen: Winterkuss (54)",
+					["timestamp"] = 807744.31,
+					["serverTime"] = 1600988576,
 				}, -- [34]
 				{
-					["message"] = "|Hpratcopy|h[07:16:25]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836184,
+					["message"] = "|Hpratcopy|h[02:02:55]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx54.",
+					["serverTime"] = 1600988576,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926237.4130000001,
+					["timestamp"] = 807744.443,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [35]
 				{
-					["message"] = "|Hpratcopy|h[07:16:33]|h Die Staubebenen entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836192,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[02:02:56]|h |cff33ff99Postal|r: Bearbeite Nachricht 4: Auktion abgelaufen: Sirenenpollen (105)",
+					["timestamp"] = 807744.819,
+					["serverTime"] = 1600988577,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[02:02:56]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx105.",
+					["serverTime"] = 1600988577,
+					["r"] = 0.960784375667572,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926245.013,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [36]
-				{
-					["message"] = "|Hpratcopy|h[07:16:38]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836197,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926250.032,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
+					["timestamp"] = 807744.952,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
 				}, -- [37]
 				{
-					["message"] = "|Hpratcopy|h[07:16:38]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 14 erhöht.",
-					["serverTime"] = 1593836197,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926250.032,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[02:02:56]|h |cff33ff99Postal|r: Bearbeite Nachricht 3: Auktion abgelaufen: Sternmoos (200)",
+					["timestamp"] = 807745.3200000001,
+					["serverTime"] = 1600988577,
 				}, -- [38]
 				{
-					["message"] = "|Hpratcopy|h[07:16:39]|h Ihr erhaltet Beute: |cffffffff|Hitem:2447::::::::114:259::::::|h[Friedensblume]|h|rx3.",
-					["serverTime"] = 1593836198,
+					["message"] = "|Hpratcopy|h[02:02:56]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152506::::::::120:259::::::|h[Sternmoos]|h|rx200.",
+					["serverTime"] = 1600988577,
 					["r"] = 0.960784375667572,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926250.658,
+					["timestamp"] = 807745.473,
 					["g"] = 0.9686275124549866,
 					["b"] = 0.9372549653053284,
 				}, -- [39]
 				{
-					["message"] = "|Hpratcopy|h[07:17:16]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836235,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926288.4060000001,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[02:02:57]|h |cff33ff99Postal|r: Bearbeite Nachricht 2: Auktion abgelaufen: Sternmoos (163)",
+					["timestamp"] = 807745.829,
+					["serverTime"] = 1600988578,
 				}, -- [40]
 				{
-					["message"] = "|Hpratcopy|h[07:17:16]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 15 erhöht.",
-					["serverTime"] = 1593836235,
-					["r"] = 0.3333333432674408,
+					["message"] = "|Hpratcopy|h[02:02:57]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152506::::::::120:259::::::|h[Sternmoos]|h|rx163.",
+					["serverTime"] = 1600988578,
+					["r"] = 0.960784375667572,
 					["extraData"] = {
-						27, -- [1]
+						28, -- [1]
 						false, -- [2]
-						39, -- [3]
-						40, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926288.4060000001,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["timestamp"] = 807746.044,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
 				}, -- [41]
 				{
-					["message"] = "|Hpratcopy|h[07:17:18]|h Ihr erhaltet Beute: |cffffffff|Hitem:2450::::::::114:259::::::|h[Wilddornrose]|h|rx3.",
-					["serverTime"] = 1593836237,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926289.583,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[02:02:57]|h |cff33ff99Postal|r: Bearbeite Nachricht 1: Auktion abgelaufen: Schwarzfelserz (36)",
+					["timestamp"] = 807746.329,
+					["serverTime"] = 1600988578,
 				}, -- [42]
 				{
-					["message"] = "|Hpratcopy|h[07:17:42]|h Mondbruch entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836261,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[02:02:57]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:109118::::::::120:259::::::|h[Schwarzfelserz]|h|rx36.",
+					["serverTime"] = 1600988578,
+					["r"] = 0.960784375667572,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926313.694,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 807746.478,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9372549653053284,
 				}, -- [43]
 				{
-					["message"] = "|Hpratcopy|h[07:17:50]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836269,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926321.59,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[02:02:58]|h |cff33ff99Postal|r: Gesammelt 1426|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 72|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 27|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["timestamp"] = 807747.372,
+					["serverTime"] = 1600988579,
 				}, -- [44]
 				{
-					["message"] = "|Hpratcopy|h[07:17:50]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 16 erhöht.",
-					["serverTime"] = 1593836269,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926321.59,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[07:17:50]|h Ihr erhaltet Beute: |cffffffff|Hitem:2450::::::::114:259::::::|h[Wilddornrose]|h|rx3.",
-					["serverTime"] = 1593836269,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926322.2050000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [46]
-				{
-					["message"] = "|Hpratcopy|h[07:17:50]|h Ihr erhaltet Beute: |cffffffff|Hitem:2452::::::::114:259::::::|h[Flitzdistel]|h|r.",
-					["serverTime"] = 1593836269,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926322.295,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [47]
-				{
-					["message"] = "|Hpratcopy|h[07:18:06]|h Ihr bekommt 23800 Erfahrung.",
-					["serverTime"] = 1593836285,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926338.503,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [48]
-				{
-					["message"] = "|Hpratcopy|h[07:18:06]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:23247::::::::114:259::::::|h[Brandblüte]|h|rx5.",
-					["serverTime"] = 1593836285,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926338.503,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [49]
-				{
-					["message"] = "|Hpratcopy|h[07:18:06]|h Ehrt die Flamme abgeschlossen.",
-					["serverTime"] = 1593836285,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926338.523,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [50]
-				{
-					["message"] = "|Hpratcopy|h[07:18:07]|h Erhaltene Erfahrung: 23800.",
-					["serverTime"] = 1593836286,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926338.523,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [51]
-				{
-					["message"] = "|Hpratcopy|h[07:18:07]|h Erhalten: 10 Gold, 50 Silber.",
-					["serverTime"] = 1593836286,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926338.523,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [52]
-				{
-					["message"] = "|Hpratcopy|h[07:18:10]|h Stendels Tümpel entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836289,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926342.073,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [53]
-				{
-					["message"] = "|Hpratcopy|h[07:18:15]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836294,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926346.846,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [54]
-				{
-					["message"] = "|Hpratcopy|h[07:18:15]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836294,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926346.846,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [55]
-				{
-					["message"] = "|Hpratcopy|h[07:18:24]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836303,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926355.73,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [56]
-				{
-					["message"] = "|Hpratcopy|h[07:18:24]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836303,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926355.73,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [57]
-				{
-					["message"] = "|Hpratcopy|h[07:18:29]|h Alexstons Bauernhof entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836308,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926360.666,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [58]
-				{
-					["message"] = "|Hpratcopy|h[07:18:31]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836310,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926362.875,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [59]
-				{
-					["message"] = "|Hpratcopy|h[07:18:31]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 17 erhöht.",
-					["serverTime"] = 1593836310,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926362.875,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [60]
-				{
-					["message"] = "|Hpratcopy|h[07:18:31]|h Ihr erhaltet Beute: |cffffffff|Hitem:785::::::::114:259::::::|h[Maguskönigskraut]|h|rx2.",
-					["serverTime"] = 1593836310,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926363.471,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [61]
-				{
-					["message"] = "|Hpratcopy|h[07:18:32]|h Ihr erhaltet Beute: |cffffffff|Hitem:2452::::::::114:259::::::|h[Flitzdistel]|h|rx2.",
-					["serverTime"] = 1593836311,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926363.621,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [62]
-				{
-					["message"] = "|Hpratcopy|h[07:18:40]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836319,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926371.802,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [63]
-				{
-					["message"] = "|Hpratcopy|h[07:18:40]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 18 erhöht.",
-					["serverTime"] = 1593836319,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926371.802,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [64]
-				{
-					["message"] = "|Hpratcopy|h[07:18:40]|h Ihr erhaltet Beute: |cffffffff|Hitem:2453::::::::114:259::::::|h[Beulengras]|h|rx2.",
-					["serverTime"] = 1593836319,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926372.407,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [65]
-				{
-					["message"] = "|Hpratcopy|h[07:18:46]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5115::::::::114:259::::::|h[Zerbrochenes Gabelbein]|h|r.",
-					["serverTime"] = 1593836325,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926378.081,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [66]
-				{
-					["message"] = "|Hpratcopy|h[07:18:56]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836335,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926388.268,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [67]
-				{
-					["message"] = "|Hpratcopy|h[07:19:10]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836349,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926402.452,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [68]
-				{
-					["message"] = "|Hpratcopy|h[07:19:18]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836357,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926409.868,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [69]
-				{
-					["message"] = "|Hpratcopy|h[07:19:28]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 19 erhöht.",
-					["serverTime"] = 1593836367,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926420.48,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [70]
-				{
-					["message"] = "|Hpratcopy|h[07:19:28]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836367,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926420.48,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [71]
-				{
-					["message"] = "|Hpratcopy|h[07:19:29]|h Ihr erhaltet Beute: |cffffffff|Hitem:765::::::::114:259::::::|h[Silberblatt]|h|rx2.",
-					["serverTime"] = 1593836368,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926421.1070000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [72]
-				{
-					["message"] = "|Hpratcopy|h[07:19:46]|h Demonts Heim entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836385,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926438.067,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [73]
-				{
-					["message"] = "|Hpratcopy|h[07:19:52]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836391,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926444.448,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [74]
-				{
-					["message"] = "|Hpratcopy|h[07:19:52]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 20 erhöht.",
-					["serverTime"] = 1593836391,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926444.448,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [75]
-				{
-					["message"] = "|Hpratcopy|h[07:19:53]|h Ihr erhaltet Beute: |cffffffff|Hitem:2453::::::::114:259::::::|h[Beulengras]|h|r.",
-					["serverTime"] = 1593836392,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926445.024,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [76]
-				{
-					["message"] = "|Hpratcopy|h[07:20:00]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:5114::::::::114:259::::::|h[Abgespaltene Kralle]|h|r.",
-					["serverTime"] = 1593836399,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926451.714,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [77]
-				{
-					["message"] = "|Hpratcopy|h[07:20:00]|h Ihr erhaltet Beute: |cffffffff|Hitem:6889::::::::114:259::::::|h[Kleines Ei]|h|r.",
-					["serverTime"] = 1593836399,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926451.734,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [78]
-				{
-					["message"] = "|Hpratcopy|h[07:20:07]|h Die Dolchhügel entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836406,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926459.158,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [79]
-				{
-					["message"] = "|Hpratcopy|h[07:20:12]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 21 erhöht.",
-					["serverTime"] = 1593836411,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926464.177,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [80]
-				{
-					["message"] = "|Hpratcopy|h[07:20:12]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836411,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926464.177,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [81]
-				{
-					["message"] = "|Hpratcopy|h[07:20:13]|h Ihr erhaltet Beute: |cffffffff|Hitem:765::::::::114:259::::::|h[Silberblatt]|h|r.",
-					["serverTime"] = 1593836412,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926464.791,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [82]
-				{
-					["message"] = "|Hpratcopy|h[07:20:29]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 22 erhöht.",
-					["serverTime"] = 1593836428,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926480.7880000001,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [83]
-				{
-					["message"] = "|Hpratcopy|h[07:20:29]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836428,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926480.7880000001,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [84]
-				{
-					["message"] = "|Hpratcopy|h[07:20:29]|h Ihr erhaltet Beute: |cffffffff|Hitem:765::::::::114:259::::::|h[Silberblatt]|h|rx2.",
-					["serverTime"] = 1593836428,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926481.394,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [85]
-				{
-					["message"] = "|Hpratcopy|h[07:20:57]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836456,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926508.697,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [86]
-				{
-					["message"] = "|Hpratcopy|h[07:20:57]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 23 erhöht.",
-					["serverTime"] = 1593836456,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926508.697,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [87]
-				{
-					["message"] = "|Hpratcopy|h[07:20:57]|h Ihr erhaltet Beute: |cffffffff|Hitem:765::::::::114:259::::::|h[Silberblatt]|h|rx2.",
-					["serverTime"] = 1593836456,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926509.322,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [88]
-				{
-					["message"] = "|Hpratcopy|h[07:21:10]|h Ihr bekommt 56 Erfahrung.",
-					["serverTime"] = 1593836469,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926521.605,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [89]
-				{
-					["message"] = "|Hpratcopy|h[07:21:10]|h Eure Fertigkeit 'Kräuterkunde' hat sich auf 24 erhöht.",
-					["serverTime"] = 1593836469,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926521.605,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [90]
-				{
-					["message"] = "|Hpratcopy|h[07:21:10]|h Ihr erhaltet Beute: |cffffffff|Hitem:765::::::::114:259::::::|h[Silberblatt]|h|rx3.",
-					["serverTime"] = 1593836469,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926522.34,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [91]
-				{
-					["message"] = "|Hpratcopy|h[07:22:02]|h Rabenflucht entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593836521,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926574.133,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [92]
-				{
-					["message"] = "|Hpratcopy|h[07:25:17]|h Edna Mullby sagt: Sagt mir Bescheid, wenn ich Euch auf der Suche nach etwas behilflich sein kann, Schurkin.",
-					["serverTime"] = 1593836716,
+					["message"] = "|Hpratcopy|h[02:03:11]|h Sara Bartels sagt: Die Farbe und der Geschmack, die alle Gerichte durch unsere Gewürze erhalten, werden Euch begeistern!",
+					["serverTime"] = 1600988592,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926769.189,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [93]
-				{
-					["message"] = "|Hpratcopy|h[07:27:50]|h Thomas Müller sagt: Frisches Brot zu verkaufen!",
-					["serverTime"] = 1593836869,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 926921.586,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [94]
-				{
-					["message"] = "|Hpratcopy|h[07:27:52]|h Du hast deinen Müll für 21|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 27|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t verkauft",
-					["serverTime"] = 1593836871,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
 						false, -- [2]
 						3, -- [3]
-						3, -- [4]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 926924.072,
+					["timestamp"] = 807759.963,
 					["g"] = 1,
-					["b"] = 0,
-				}, -- [95]
+					["b"] = 0.6235294342041016,
+				}, -- [45]
 				{
-					["message"] = "|Hpratcopy|h[07:29:58]|h Kyra Boucher sagt: Das Sonnenwendfest ist eine großartige Gelegenheit, um Abenteuer zu erleben, aber es ist auch eine großartige Gelegenheit zum Einkaufen!",
-					["serverTime"] = 1593836997,
+					["message"] = "|Hpratcopy|h[02:03:41]|h Es wurde ein Käufer für Eure Auktion gefunden: Gischtvernebeltes Leinen.",
+					["serverTime"] = 1600988622,
+					["r"] = 0.9137255549430847,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 807790.251,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[02:03:52]|h Patrick Markson sagt: Feuerwaffen, Munition und Sprengstoff... für jeden Jäger das Richtige!",
+					["serverTime"] = 1600988633,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						6, -- [3]
-						7, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 927050.005,
+					["timestamp"] = 807801.466,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
-				}, -- [96]
-				{
-					["message"] = "|Hpratcopy|h[07:30:37]|h Thomas Müller sagt: Frisches Brot zu verkaufen!",
-					["serverTime"] = 1593837036,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927089.194,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [97]
-				{
-					["message"] = "|Hpratcopy|h[07:31:44]|h Thomas Müller sagt: Frisch gebackenes Brot zu verkaufen!",
-					["serverTime"] = 1593837103,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927155.97,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [98]
-				{
-					["message"] = "|Hpratcopy|h[07:32:52]|h |cffd8d8d8[|r|Hplayer:Altery-Durotan:1551:ACHIEVEMENT|h|cffd8bc3f114|r:|cfffef367Altery|r|h|cffd8d8d8]|r hat den Erfolg |cffffff00|Hachievement:877:Player-535-08E6A978:1:7:4:20:4294967295:4294967295:4294967295:4294967295|h[Der Kuchen ist keine Lüge]|h|r |cffffffff(|rAbgeschlossen 04.07.20|cffffffff)|r errungen!",
-					["serverTime"] = 1593837171,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927224.143,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [99]
-				{
-					["message"] = "|Hpratcopy|h[07:32:52]|h Ihr stellt her: |cffffffff|Hitem:33924::::::::114:259::::::|h[Köstlicher Schokoladenkuchen]|h|r.",
-					["serverTime"] = 1593837171,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927224.1630000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [100]
-				{
-					["message"] = "|Hpratcopy|h[07:32:52]|h Eure Fertigkeit 'Kochkunst' hat sich auf 56 erhöht.",
-					["serverTime"] = 1593837171,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927224.341,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [101]
-				{
-					["message"] = "|Hpratcopy|h[07:35:50]|h Holzfällerlager des Osttals entdeckt: 94 Erfahrung erhalten.",
-					["serverTime"] = 1593837349,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927402.341,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [102]
-				{
-					["message"] = "|Hpratcopy|h[07:36:09]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837368,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927420.8960000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [103]
-				{
-					["message"] = "|Hpratcopy|h[07:36:10]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837369,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927421.669,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [104]
-				{
-					["message"] = "|Hpratcopy|h[07:36:10]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837369,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927422.287,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [105]
-				{
-					["message"] = "|Hpratcopy|h[07:36:11]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837370,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927423.164,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [106]
-				{
-					["message"] = "|Hpratcopy|h[07:36:12]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837371,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927423.681,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [107]
-				{
-					["message"] = "|Hpratcopy|h[07:36:12]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837371,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927423.959,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [108]
-				{
-					["message"] = "|Hpratcopy|h[07:36:12]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837371,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927424.407,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [109]
-				{
-					["message"] = "|Hpratcopy|h[07:36:13]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837372,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927424.9450000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [110]
-				{
-					["message"] = "|Hpratcopy|h[07:36:13]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837372,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927425.283,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [111]
-				{
-					["message"] = "|Hpratcopy|h[07:36:14]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837373,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927426,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [112]
-				{
-					["message"] = "|Hpratcopy|h[07:36:15]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837374,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927427.0580000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [113]
-				{
-					["message"] = "|Hpratcopy|h[07:36:15]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837374,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927427.145,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [114]
-				{
-					["message"] = "|Hpratcopy|h[07:36:16]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837375,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927427.8250000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [115]
-				{
-					["message"] = "|Hpratcopy|h[07:36:16]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837375,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927428.024,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [116]
-				{
-					["message"] = "|Hpratcopy|h[07:36:17]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837376,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927428.664,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [117]
-				{
-					["message"] = "|Hpratcopy|h[07:36:17]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837376,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927428.9230000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [118]
-				{
-					["message"] = "|Hpratcopy|h[07:36:17]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837376,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927429.143,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [119]
-				{
-					["message"] = "|Hpratcopy|h[07:36:17]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837376,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927429.47,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [120]
-				{
-					["message"] = "|Hpratcopy|h[07:36:18]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837377,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927430.527,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [121]
-				{
-					["message"] = "|Hpratcopy|h[07:36:20]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837379,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927431.676,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [122]
-				{
-					["message"] = "|Hpratcopy|h[07:36:22]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5042::::::::114:259::::::|h[Geschenkpapier mit rotem Band]|h|r.",
-					["serverTime"] = 1593837381,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927434.018,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [123]
-				{
-					["message"] = "|Hpratcopy|h[07:39:08]|h Quest angenommen: Ehrt die Flamme",
-					["serverTime"] = 1593837547,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927599.701,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [124]
-				{
-					["message"] = "|Hpratcopy|h[07:39:11]|h Ihr bekommt 23800 Erfahrung.",
-					["serverTime"] = 1593837550,
-					["r"] = 0.4352941513061523,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927603.194,
-					["g"] = 0.4352941513061523,
-					["b"] = 1,
-				}, -- [125]
-				{
-					["message"] = "|Hpratcopy|h[07:39:11]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:23247::::::::114:259::::::|h[Brandblüte]|h|rx15.",
-					["serverTime"] = 1593837550,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927603.194,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [126]
-				{
-					["message"] = "|Hpratcopy|h[07:39:11]|h Ehrt die Flamme abgeschlossen.",
-					["serverTime"] = 1593837550,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927603.194,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [127]
-				{
-					["message"] = "|Hpratcopy|h[07:39:11]|h Erhaltene Erfahrung: 23800.",
-					["serverTime"] = 1593837550,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 927603.194,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [128]
+				}, -- [47]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

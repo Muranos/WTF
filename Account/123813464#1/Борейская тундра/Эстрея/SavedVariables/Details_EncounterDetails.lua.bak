@@ -6278,12 +6278,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эфириальный маяк",
 		},
-		[255835] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[255579] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Жрица Алун'за",
 		},
@@ -6304,13 +6305,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Садана Кровавое Безумие",
 		},
-		[255579] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[255835] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Жрица Алун'за",
 		},
@@ -6653,12 +6653,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Мчимба Бальзамировщик",
 		},
-		[264378] = {
-			["school"] = 32,
+		[125206] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Прорицательница из ковена",
+			["source"] = "Нефритовый страж",
 		},
 		[265912] = {
 			["school"] = 1,
@@ -6679,14 +6681,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Связанная кровью чародейка Скверны",
 		},
-		[125206] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[264378] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Нефритовый страж",
+			["source"] = "Прорицательница из ковена",
 		},
 		[260702] = {
 			["school"] = 32,
@@ -6965,13 +6965,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вц",
 		},
-		[302769] = {
-			["school"] = 64,
-			["type"] = "BUFF",
+		[268278] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Нозердума-Гордунни",
+			["source"] = "Леди Уэйкрест",
 		},
 		[155030] = {
 			["school"] = 4,
@@ -7006,13 +7006,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Надзиратель Корги",
 		},
-		[268278] = {
-			["school"] = 32,
+		[302769] = {
+			["school"] = 64,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Леди Уэйкрест",
+			["source"] = "Нозердума-Гордунни",
 		},
 		[156310] = {
 			["school"] = 4,
@@ -7202,15 +7202,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Зелфан",
 		},
-		[260455] = {
-			["school"] = 1,
+		[154469] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Кровавый клещ",
 		},
 		[256616] = {
 			["school"] = 1,
@@ -7223,12 +7220,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Кишкодерка из банды Резчиков",
 		},
-		[285377] = {
+		[260455] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "\"Платиновый лупцеватор\"",
+			["source"] = "Кровавый клещ",
 		},
 		[262347] = {
 			["school"] = 8,
@@ -7260,12 +7260,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Аспидис",
 		},
-		[154469] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[48258] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Свала Вечноскорбящая",
 		},
 		[256105] = {
 			["school"] = 1,
@@ -7284,13 +7285,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Пшикс",
 		},
-		[280773] = {
+		[256198] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Тушеныйуголь-Гордунни",
+			["source"] = "Надзиратель Корги",
 		},
 		[258920] = {
 			["school"] = 4,
@@ -7308,15 +7311,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тушеныйуголь-Гордунни",
 		},
-		[256198] = {
+		[280773] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Надзиратель Корги",
+			["source"] = "Тушеныйуголь-Гордунни",
 		},
 		[257641] = {
 			["school"] = 4,
@@ -7794,14 +7795,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тотем воскрешения",
 		},
-		[48260] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Горток Бледное Копыто",
-		},
 		[116525] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -7809,6 +7802,14 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Ярость императора",
+		},
+		[48260] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Горток Бледное Копыто",
 		},
 		[48267] = {
 			["school"] = 32,
@@ -8271,13 +8272,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Хранитель Сердца",
 		},
-		[155818] = {
-			["school"] = 4,
+		[280404] = {
+			["school"] = 16,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+			["source"] = "Дейха",
 		},
 		[269031] = {
 			["school"] = 1,
@@ -8311,13 +8312,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Язма",
 		},
-		[280404] = {
-			["school"] = 16,
+		[155818] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Дейха",
 		},
 		[253562] = {
 			["school"] = 4,
@@ -8521,14 +8522,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Боец из братства Волнорезов",
 		},
-		[15496] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Кровавый страж Порунг",
-		},
 		[170687] = {
 			["school"] = 1,
 			["token"] = {
@@ -8536,13 +8529,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Карнор Свирепый",
 		},
-		[155565] = {
+		[163753] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Дармак Повелитель Зверей",
+			["source"] = "Гром'карский воитель",
+		},
+		[15496] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Кровавый страж Порунг",
 		},
 		[264608] = {
 			["school"] = 1,
@@ -8641,22 +8642,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Рабочий Железной Орды",
 		},
-		[59330] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[176133] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Скади Безжалостный",
+			["source"] = "Шлаковый элементаль",
 		},
-		[27626] = {
-			["school"] = 8,
+		[31991] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Апоко",
+			["source"] = "Менну Предатель",
 		},
 		[183969] = {
 			["school"] = 32,
@@ -8676,13 +8675,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Повелитель теней Искар",
 		},
-		[176133] = {
-			["school"] = 4,
+		[27626] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Шлаковый элементаль",
+			["source"] = "Апоко",
 		},
 		[250241] = {
 			["school"] = 32,
@@ -8716,12 +8714,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Нозердума-Гордунни",
 		},
-		[31991] = {
-			["school"] = 4,
+		[59330] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Менну Предатель",
+			["source"] = "Скади Безжалостный",
 		},
 		[290026] = {
 			["school"] = 1,
@@ -8934,14 +8935,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Проклинатель худу",
 		},
-		[59331] = {
+		[265393] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Скади Безжалостный",
+			["source"] = "Распорядитель банкета",
 		},
 		[30505] = {
 			["school"] = 32,
@@ -8966,12 +8965,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Меченный смертью поработитель",
 		},
-		[265393] = {
+		[59331] = {
 			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Распорядитель банкета",
+			["source"] = "Скади Безжалостный",
 		},
 		[30633] = {
 			["school"] = 8,
@@ -9350,13 +9351,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Сердце Горы",
 		},
-		[163753] = {
+		[155565] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Гром'карский воитель",
+			["source"] = "Дармак Повелитель Зверей",
 		},
 		[268086] = {
 			["school"] = 32,
@@ -10008,13 +10009,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Надзиратель Корги",
 		},
-		[48258] = {
+		[285377] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Свала Вечноскорбящая",
+			["source"] = "\"Платиновый лупцеватор\"",
 		},
 		[186292] = {
 			["school"] = 32,
@@ -11109,20 +11109,20 @@ EncounterDetailsDB = {
 	["emotes"] = {
 		{
 			{
-				0.8379999999888241, -- [1]
-				"Вы уничтожили горнило… Теперь оно уничтожит вас.", -- [2]
+				0.1920000000391156, -- [1]
+				"Я развешу ваши трупы на воротах литейной!", -- [2]
 				"Чернорук", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				9.602000000071712, -- [1]
-				"Литейную можно отстроить заново, а вот вас никто по кусочкам не соберет.", -- [2]
+				4.802000000141561, -- [1]
+				"Всем ЛЕЧЬ!", -- [2]
 				"Чернорук", -- [3]
 				7, -- [4]
 			}, -- [2]
 			{
-				20.78800000005867, -- [1]
-				"Вы утонете в огненном чреве литейной!", -- [2]
+				15.66300000017509, -- [1]
+				"Вы все СГОРИТЕ!!", -- [2]
 				"Чернорук", -- [3]
 				7, -- [4]
 			}, -- [3]
@@ -11130,50 +11130,32 @@ EncounterDetailsDB = {
 		}, -- [1]
 		{
 			{
-				0.2010000000009313, -- [1]
-				"Я сожгу вас живьем, пусть даже вместе со всей литейной…", -- [2]
+				0.2189999999245629, -- [1]
+				"Я развешу ваши трупы на воротах литейной!", -- [2]
 				"Чернорук", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				10.07900000002701, -- [1]
-				"Эстрея вызывает взрыв шлакобомбы.", -- [2]
-				"Шлакобомба", -- [3]
-				3, -- [4]
+				8.556999999913387, -- [1]
+				"Всем ЛЕЧЬ!", -- [2]
+				"Чернорук", -- [3]
+				7, -- [4]
 			}, -- [2]
-			{
-				11.18000000005122, -- [1]
-				"Литейную можно отстроить заново, а вот вас никто по кусочкам не соберет.", -- [2]
-				"Чернорук", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				20.4900000001071, -- [1]
-				"Вы утонете в огненном чреве литейной!", -- [2]
-				"Чернорук", -- [3]
-				7, -- [4]
-			}, -- [4]
 			["boss"] = "Чернорук",
 		}, -- [2]
 		{
 			{
-				0.8549999999813735, -- [1]
-				"Открыть заслонки! Залейте все шлаком!", -- [2]
+				0.1990000000223517, -- [1]
+				"Я развешу ваши трупы на воротах литейной!", -- [2]
 				"Чернорук", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				9.503000000026077, -- [1]
+				7.315000000002328, -- [1]
 				"Литейную можно отстроить заново, а вот вас никто по кусочкам не соберет.", -- [2]
 				"Чернорук", -- [3]
 				7, -- [4]
 			}, -- [2]
-			{
-				19.23399999993853, -- [1]
-				"Вы утонете в огненном чреве литейной!", -- [2]
-				"Чернорук", -- [3]
-				7, -- [4]
-			}, -- [3]
 			["boss"] = "Чернорук",
 		}, -- [3]
 	},
