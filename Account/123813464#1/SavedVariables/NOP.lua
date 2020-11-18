@@ -1,8 +1,8 @@
 
 NewOpenablesProfile = {
 	["char"] = {
-		["Эстрэя - Гордунни"] = {
-			["itemID"] = 173409,
+		["Алоиза - Борейская тундра"] = {
+			["itemID"] = 169850,
 		},
 		["Altery - Durotan"] = {
 			["itemID"] = 153960,
@@ -13,12 +13,9 @@ NewOpenablesProfile = {
 		["Зонна - Борейская тундра"] = {
 			["itemID"] = 17308,
 		},
-		["Алоиза - Борейская тундра"] = {
-			["itemID"] = 169850,
+		["Дэлери - Гордунни"] = {
+			["itemID"] = 173726,
 		},
-	},
-	["global"] = {
-		["version"] = "|cFFFFFFFF09.16 16.12.2018 use |cFFFF00FF/nop|cFFFFFFFF",
 	},
 	["profileKeys"] = {
 		["Ниамэй - Гордунни"] = "Default",
@@ -27,16 +24,35 @@ NewOpenablesProfile = {
 		["Altery - Durotan"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Алоиза - Борейская тундра"] = "Default",
-		["Сайбил - Борейская тундра"] = "Default",
-		["Эстрея - Борейская тундра"] = "Default",
+		["Дэлери - Гордунни"] = "Default",
+		["Эстрэя - Гордунни"] = "Default",
 		["Алоиза - Гордунни"] = "Default",
 		["Дэлери - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Эстрэя - Гордунни"] = "Default",
-		["Дэлери - Гордунни"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
+	},
+	["global"] = {
+		["version"] = "|cFFFFFFFF09.16 16.12.2018 use |cFFFF00FF/nop|cFFFFFFFF",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["T_BLACKLIST"] = {
+				[173422] = true,
+				[173398] = true,
+				[174458] = true,
+				[174460] = true,
+				[174462] = true,
+				[0] = true,
+				[174457] = true,
+				[164938] = true,
+				[132523] = true,
+			},
+			["qb"] = {
+				"TOPLEFT", -- [1]
+				"NOP_BUTTON", -- [2]
+				"TOPLEFT", -- [3]
+			},
 			["autoquest"] = true,
 			["button"] = {
 				nil, -- [1]
@@ -45,23 +61,7 @@ NewOpenablesProfile = {
 				475, -- [4]
 				-450, -- [5]
 			},
-			["T_BLACKLIST"] = {
-				[173422] = true,
-				[173398] = true,
-				[174458] = true,
-				[174460] = true,
-				[174462] = true,
-				[132523] = true,
-				[164938] = true,
-				[174457] = true,
-				[0] = true,
-			},
 			["Skip"] = true,
-			["qb"] = {
-				"TOPLEFT", -- [1]
-				"NOP_BUTTON", -- [2]
-				"TOPLEFT", -- [3]
-			},
 		},
 	},
 }

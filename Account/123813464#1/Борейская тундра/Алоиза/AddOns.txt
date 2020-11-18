@@ -174,7 +174,7 @@ Scrap: enabled
 SexyMap: enabled
 Simulationcraft: enabled
 TidyPlates_ThreatPlates: enabled
-TomCats: disabled
+TomCats: enabled
 DBM-Azeroth-BfA: disabled
 DBM-ZuldazarRaid: disabled
 DBM-Party-BfA: disabled
@@ -207,3 +207,12 @@ WeakAurasArchive: enabled
 Quartz: disabled
 BigWigs_Legion: enabled
 BigWigs_Nyalotha: enabled
+RaiderIO_DB_US_H: disabled
+RaiderIO_DB_US_A: disabled
+RaiderIO_DB_TW_H: disabled
+RaiderIO_DB_TW_A: disabled
+RaiderIO_DB_KR_H: disabled
+RaiderIO_DB_KR_A: disabled
+Gnosis: disabled
+UnitFramesImproved: disabled
+TwintopInsanityBar: disabled

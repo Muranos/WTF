@@ -15,15 +15,11 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
+RaiderIO_LastCharacter = "eu-Алоиза-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Тэнарион-eversong"] = true,
-	["eu-Орис-galakrond"] = true,
-	["eu-Тертиж-soulflayer"] = true,
-	["eu-Эгелла-soulflayer"] = true,
-	["eu-Эслайн-howling-fjord"] = true,
-	["eu-Физрук-azuregos"] = true,
-	["eu-Фухня-howling-fjord"] = true,
-	["eu-Абдалкадир-borean-tundra"] = true,
+	["eu-Снайперон-gordunni"] = true,
+	["eu-Мелиссиия-gordunni"] = true,
+	["eu-Думскван-gordunni"] = true,
+	["eu-party2-gordunni"] = true,
 }
 RaiderIO_CachedRuns = nil

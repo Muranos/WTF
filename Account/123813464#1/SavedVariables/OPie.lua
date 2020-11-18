@@ -3,7 +3,7 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "8.3.7",
+	["_GameVersion"] = "9.0.1",
 	["_OPieVersion"] = "Xe 1a (3.102)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -135,6 +135,11 @@ OneRing_Config = {
 					46874, -- [2]
 					["sliceToken"] = "ABueksMGpge",
 				}, -- [17]
+				{
+					"item", -- [1]
+					167075, -- [2]
+					["sliceToken"] = "ABuek5BLD7e",
+				}, -- [18]
 				["name"] = "Specializations and Travel",
 				["save"] = true,
 				["hotkey"] = "ALT-H",

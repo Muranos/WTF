@@ -2038,14 +2038,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ionar",
 		},
-		[304251] = {
-			["school"] = 32,
+		[263371] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Grummel",
+			["source"] = "Aspix",
 		},
 		[181827] = {
 			["school"] = 1,
@@ -2057,12 +2058,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Teufelsschattenwächter",
 		},
-		[164006] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[156852] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Kromog",
 		},
 		[260852] = {
 			["school"] = 1,
@@ -2073,14 +2076,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schwester Solena",
 		},
-		[155192] = {
+		[162346] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Schmelzofeningenieur",
+			["source"] = "Tectus",
 		},
 		[179986] = {
 			["school"] = 1,
@@ -2108,14 +2111,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Widerspenstiger Eisenhuf",
 		},
-		[162346] = {
+		[155192] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tectus",
+			["source"] = "Schmelzofeningenieur",
 		},
 		[155256] = {
 			["school"] = 1,
@@ -2151,14 +2154,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Verhüllte Schlange",
 		},
-		[170395] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Vollstreckerin Sorka",
-		},
 		[156598] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -2167,6 +2162,14 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Der Schlächter",
+		},
+		[170395] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Vollstreckerin Sorka",
 		},
 		[182212] = {
 			["school"] = 1,
@@ -2366,14 +2369,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Teufelsschattenwächter",
 		},
-		[155196] = {
+		[178191] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Tectus",
 		},
 		[33833] = {
 			["school"] = 64,
@@ -2430,13 +2433,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schattenfürst Iskar",
 		},
-		[65116] = {
+		[182280] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "General Bjarngrim",
+			["source"] = "Eiserner Häscher",
 		},
 		[297746] = {
 			["school"] = 1,
@@ -2631,13 +2634,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schlackeelementar",
 		},
-		[182280] = {
+		[65116] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Eiserner Häscher",
+			["source"] = "General Bjarngrim",
 		},
 		[156861] = {
 			["school"] = 1,
@@ -2657,14 +2660,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bulliger Berserker",
 		},
-		[178191] = {
+		[155196] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tectus",
+			["source"] = "Unbekannt",
 		},
 		[183023] = {
 			["school"] = 1,
@@ -2690,12 +2693,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal der Unersättliche",
 		},
-		[47743] = {
-			["school"] = 64,
+		[179218] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Anomalus",
+			["source"] = "Verderbter Krallenpriester",
 		},
 		[155265] = {
 			["school"] = 1,
@@ -2715,13 +2718,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volkhan",
 		},
-		[186883] = {
-			["school"] = 4,
+		[47743] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Teufelsflammenwerfer",
+			["source"] = "Anomalus",
 		},
 		[264923] = {
 			["school"] = 1,
@@ -2732,12 +2734,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal der Unersättliche",
 		},
-		[179218] = {
-			["school"] = 1,
+		[186883] = {
+			["school"] = 4,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Verderbter Krallenpriester",
+			["source"] = "Teufelsflammenwerfer",
 		},
 		[116778] = {
 			["school"] = 1,
@@ -2797,15 +2800,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Verhüllte Schlange",
 		},
-		[263371] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[304251] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aspix",
+			["source"] = "Grummel",
 		},
 		[170405] = {
 			["school"] = 1,
@@ -2822,14 +2824,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dunkle Verbindung",
 		},
-		[156852] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[164006] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kromog",
 		},
 		[184394] = {
 			["school"] = 8,

@@ -2,16 +2,16 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["Вейлзевулла - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["Алтери - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Фламинника - Гордунни"] = {
 			["spec"] = {
@@ -20,25 +20,25 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Altery - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Эстрэя - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Altery - Bronzebeard"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Алоиза - Борейская тундра"] = {
 			["welcome"] = true,
@@ -47,13 +47,13 @@ ThreatPlatesDB = {
 			},
 		},
 		["Нирейя - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Дэлери - Борейская тундра"] = {
 			["spec"] = {
@@ -63,76 +63,76 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Сайбил - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Тиаз - Борейская тундра"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Элави - Борейская тундра"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Зонна - Борейская тундра"] = {
 			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
 		},
+		["Flaminika - Durotan"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
 		["Flaminika - Silvermoon"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
-			["welcome"] = true,
 		},
 		["Elavi - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Эрника - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Delery - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
-		},
-		["Зонна - Борейская тундра"] = {
-			["spec"] = {
-				[3] = false,
-			},
 			["welcome"] = true,
-		},
-		["Flaminika - Durotan"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Элави - Борейская тундра"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
 		},
 		["Эстрея - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Ниамэй - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Ниоши - Борейская тундра"] = {
 			["welcome"] = true,
@@ -141,32 +141,32 @@ ThreatPlatesDB = {
 			},
 		},
 		["Алоиза - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Хилопятьумер - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
-			["welcome"] = true,
 		},
 		["Ниэтта - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
-			["welcome"] = true,
 		},
 		["Фламиника - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
-			["welcome"] = true,
 		},
 		["Дэлери - Гордунни"] = {
 			["welcome"] = true,
@@ -175,10 +175,6 @@ ThreatPlatesDB = {
 				[3] = false,
 			},
 		},
-	},
-	["global"] = {
-		["CheckNewLookAndFeel"] = true,
-		["version"] = "9.3.2",
 	},
 	["profileKeys"] = {
 		["Вейлзевулла - Борейская тундра"] = "Default",
@@ -192,13 +188,13 @@ ThreatPlatesDB = {
 		["Дэлери - Борейская тундра"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Тиаз - Борейская тундра"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Flaminika - Durotan"] = "Default",
 		["Flaminika - Silvermoon"] = "Default",
 		["Elavi - Durotan"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
 		["Delery - Durotan"] = "Default",
-		["Зонна - Борейская тундра"] = "Default",
-		["Flaminika - Durotan"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Ниамэй - Гордунни"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
@@ -207,6 +203,10 @@ ThreatPlatesDB = {
 		["Ниэтта - Гордунни"] = "Default",
 		["Фламиника - Борейская тундра"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
+	},
+	["global"] = {
+		["CheckNewLookAndFeel"] = true,
+		["version"] = "10.0.4",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -278,14 +278,18 @@ ThreatPlatesDB = {
 			["CVarsBackup"] = {
 				["showQuestTrackingTooltips"] = "0",
 			},
-			["BossModsWidget"] = {
-				["ShowInHeadlineView"] = false,
-				["ON"] = false,
+			["bHPbarColor"] = {
+				["g"] = 0.9058823529411765,
+				["b"] = 0.9725490196078431,
 			},
-			["text"] = {
-				["full"] = true,
-				["amount"] = true,
-				["percent"] = false,
+			["BossModsWidget"] = {
+				["ON"] = false,
+				["ShowInHeadlineView"] = false,
+			},
+			["aHPbarColor"] = {
+				["r"] = 0.6549019607843137,
+				["g"] = 0.6431372549019607,
+				["b"] = 0.6549019607843137,
 			},
 			["AuraWidget"] = {
 				["Buffs"] = {
@@ -311,6 +315,7 @@ ThreatPlatesDB = {
 			},
 			["settings"] = {
 				["eliteicon"] = {
+					["show"] = false,
 					["x"] = -52,
 					["y"] = -2,
 				},
@@ -318,15 +323,26 @@ ThreatPlatesDB = {
 					["align"] = "CENTER",
 				},
 				["skullicon"] = {
-					["scale"] = 18,
+					["x"] = -56,
+					["scale"] = 12,
+				},
+				["name"] = {
+					["y"] = 15,
 				},
 				["frame"] = {
 					["height"] = 52.875,
 					["width"] = 154,
 				},
 				["raidicon"] = {
+					["scale"] = 30,
 					["hpColor"] = false,
+					["x"] = 56,
 				},
+			},
+			["text"] = {
+				["full"] = true,
+				["amount"] = true,
+				["percent"] = false,
 			},
 		},
 	},

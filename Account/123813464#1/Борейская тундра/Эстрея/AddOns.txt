@@ -202,3 +202,11 @@ ElitismHelper: disabled
 OPie_Classic: disabled
 WeakAurasArchive: enabled
 Quartz: disabled
+RaiderIO_DB_US_H_R: disabled
+RaiderIO_DB_US_A_R: disabled
+RaiderIO_DB_TW_H_R: disabled
+RaiderIO_DB_TW_A_R: disabled
+RaiderIO_DB_KR_H_R: disabled
+RaiderIO_DB_KR_A_R: disabled
+Gnosis: disabled
+UnitFramesImproved: disabled

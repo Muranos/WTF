@@ -15,7 +15,7 @@ PremadeGroupsFilterState = {
 		["dps"] = {
 			["max"] = "2",
 			["min"] = "",
-			["act"] = true,
+			["act"] = false,
 		},
 		["noilvl"] = {
 			["act"] = false,
@@ -28,7 +28,7 @@ PremadeGroupsFilterState = {
 		["members"] = {
 			["max"] = "2",
 			["min"] = "",
-			["act"] = true,
+			["act"] = false,
 		},
 		["heals"] = {
 			["max"] = "0",

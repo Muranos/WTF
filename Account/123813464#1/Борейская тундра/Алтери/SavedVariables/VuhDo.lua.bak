@@ -7844,7 +7844,7 @@ VUHDO_CONFIG = {
 				["isMine"] = true,
 				["isOthers"] = true,
 			},
-			["Яркий свет"] = {
+			["В слизи"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["timer"] = true,
@@ -7862,7 +7862,7 @@ VUHDO_CONFIG = {
 				["isMine"] = true,
 				["isOthers"] = true,
 			},
-			["Луч солнца"] = {
+			["Ураганная бомба"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["timer"] = true,
@@ -7878,7 +7878,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["timer"] = true,
 			},
-			["В слизи"] = {
+			["Яркий свет"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["timer"] = true,
@@ -7887,7 +7887,7 @@ VUHDO_CONFIG = {
 				["isMine"] = true,
 				["isOthers"] = true,
 			},
-			["Ураганная бомба"] = {
+			["Луч солнца"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["timer"] = true,
@@ -9764,7 +9764,7 @@ VUHDO_CONFIG = {
 		["40"] = "Алтери: 25man",
 		["10"] = "Алтери: 25man",
 	},
-	["HIDE_PANELS_SOLO"] = false,
+	["HIDE_PANELS_SOLO"] = true,
 	["CURRENT_PROFILE"] = "Алтери: 5man",
 	["EMERGENCY_TRIGGER"] = 100,
 	["SHOW_INCOMING"] = true,
@@ -9837,9 +9837,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 332.443359375,
 			["x"] = 602.2542114257812,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 50.00001525878906,
 			["growth"] = "TOPLEFT",
 			["width"] = 148.9999847412109,
@@ -9853,6 +9853,8 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
+			["ordering"] = 0,
+			["sort"] = 5,
 			["groups"] = {
 				1, -- [1]
 				2, -- [2]
@@ -9863,8 +9865,6 @@ VUHDO_PANEL_SETUP = {
 				7, -- [7]
 				8, -- [8]
 			},
-			["ordering"] = 0,
-			["sort"] = 5,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -10008,9 +10008,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 910.0583,
 			["x"] = 103.1167,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 120.7499,
 			["growth"] = "TOPLEFT",
 			["width"] = 85,
@@ -10169,9 +10169,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 327.4024047851563,
 			["x"] = 473.555908203125,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 27.00000381469727,
 			["growth"] = "TOPLEFT",
 			["width"] = 118.0000305175781,
@@ -10185,11 +10185,11 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
-			["sort"] = 0,
 			["ordering"] = 0,
 			["groups"] = {
 				41, -- [1]
 			},
+			["sort"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -10333,9 +10333,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -10493,9 +10493,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -10653,9 +10653,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -10813,9 +10813,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -10973,9 +10973,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -11133,9 +11133,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -11293,9 +11293,9 @@ VUHDO_PANEL_SETUP = {
 		["POSITION"] = {
 			["y"] = 668,
 			["x"] = 100,
-			["orientation"] = "TOPLEFT",
-			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
+			["relativePoint"] = "BOTTOMLEFT",
+			["orientation"] = "TOPLEFT",
 			["height"] = 200,
 			["growth"] = "TOPLEFT",
 			["width"] = 200,
@@ -12614,9 +12614,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -12624,9 +12624,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -12679,9 +12679,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 	},
@@ -12708,9 +12708,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -12718,9 +12718,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -12773,9 +12773,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 	},
@@ -12816,14 +12816,14 @@ VUHDO_SPEC_LAYOUTS = {
 VUHDO_GROUP_SIZE = 1
 VUHDO_RAID = {
 	["player"] = {
-		["zone"] = "\"Искупление ветра\"",
+		["zone"] = "Гавань Боралуса",
 		["baseRange"] = true,
 		["class"] = "ROGUE",
 		["role"] = 61,
-		["sortMaxHp"] = 375920,
+		["sortMaxHp"] = 15820,
 		["map"] = "Боралус",
 		["threat"] = 0,
-		["powermax"] = 170,
+		["powermax"] = 120,
 		["threatPerc"] = 0,
 		["isPet"] = false,
 		["name"] = "Алтери",
@@ -12834,15 +12834,16 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 3,
-		["healthmax"] = 375920,
+		["healthmax"] = 15820,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "Алтери",
-		["power"] = 170,
+		["power"] = 120,
 		["aggro"] = false,
+		["isAltPower"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 375920,
+		["health"] = 15820,
 		["className"] = "Разбойница",
 		["afk"] = false,
 		["debuff"] = 0,
@@ -12856,16 +12857,16 @@ VUHDO_INDICATOR_CONFIG = {
 		["MOUSEOVER_HIGHLIGHT"] = "",
 		["AGGRO_BAR"] = "",
 		["BACKGROUND_BAR"] = "Фон: Фиксированный",
-		["DAMAGE_FLASH_BAR"] = "",
-		["SIDE_LEFT"] = "",
-		["INCOMING_BAR"] = "",
 		["CLUSTER_BORDER"] = "",
+		["SWIFTMEND_INDICATOR"] = "Иконка роли",
+		["INCOMING_BAR"] = "",
+		["DAMAGE_FLASH_BAR"] = "",
 		["THREAT_MARK"] = "",
-		["MANA_BAR"] = "Полоса маны: Мана",
 		["BAR_BORDER"] = "Границы: Комплексная + угроза",
 		["SIDE_RIGHT"] = "",
+		["MANA_BAR"] = "Полоса маны: Мана",
 		["HEALTH_BAR"] = "Здоровье (градиент)",
-		["SWIFTMEND_INDICATOR"] = "Иконка роли",
+		["SIDE_LEFT"] = "",
 		["HEALTH_BAR_PANEL"] = {
 			"", -- [1]
 			"", -- [2]

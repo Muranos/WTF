@@ -7239,7 +7239,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isOthers"] = true,
 			},
-			["Яркий свет"] = {
+			["В слизи"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
@@ -8409,7 +8409,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["timer"] = true,
 			},
-			["Ураганная бомба"] = {
+			["Луч солнца"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
@@ -8425,7 +8425,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["timer"] = true,
 			},
-			["В слизи"] = {
+			["Яркий свет"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
@@ -8434,7 +8434,7 @@ VUHDO_CONFIG = {
 				["isColor"] = false,
 				["isOthers"] = true,
 			},
-			["Луч солнца"] = {
+			["Ураганная бомба"] = {
 				["isStacks"] = false,
 				["animate"] = true,
 				["isIcon"] = true,
@@ -9754,7 +9754,7 @@ VUHDO_CONFIG = {
 	["UPDATE_HOTS_MS"] = 250,
 	["SHOW_OVERHEAL"] = true,
 	["IS_SHARE"] = true,
-	["HIDE_PANELS_SOLO"] = false,
+	["HIDE_PANELS_SOLO"] = true,
 	["CURRENT_PROFILE"] = "Алтери: 5man",
 	["AUTO_PROFILES"] = {
 		["1"] = "Алтери: 5man",
@@ -9842,7 +9842,7 @@ VUHDO_PANEL_SETUP = {
 			["orientation"] = "TOPLEFT",
 			["height"] = 50.00001525878906,
 			["growth"] = "TOPLEFT",
-			["width"] = 436.9999694824219,
+			["width"] = 148.9999847412109,
 		},
 		["RAID_ICON"] = {
 			["show"] = true,
@@ -9853,7 +9853,6 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
-			["ordering"] = 0,
 			["sort"] = 5,
 			["groups"] = {
 				1, -- [1]
@@ -9865,6 +9864,7 @@ VUHDO_PANEL_SETUP = {
 				7, -- [7]
 				8, -- [8]
 			},
+			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -10185,11 +10185,11 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
-			["ordering"] = 0,
 			["groups"] = {
 				41, -- [1]
 			},
 			["sort"] = 0,
+			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -12614,9 +12614,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -12624,9 +12624,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -12679,9 +12679,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -12711,9 +12711,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -12721,9 +12721,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -12776,9 +12776,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -12816,14 +12816,14 @@ VUHDO_SPEC_LAYOUTS = {
 VUHDO_GROUP_SIZE = 1
 VUHDO_RAID = {
 	["player"] = {
-		["zone"] = "Гавань Боралуса",
+		["zone"] = "\"Искупление ветра\"",
 		["baseRange"] = true,
 		["class"] = "ROGUE",
 		["role"] = 61,
-		["sortMaxHp"] = 376420,
+		["sortMaxHp"] = 15820,
 		["map"] = "Боралус",
 		["threat"] = 0,
-		["powermax"] = 170,
+		["powermax"] = 120,
 		["threatPerc"] = 0,
 		["isPet"] = false,
 		["name"] = "Алтери",
@@ -12834,15 +12834,16 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 3,
-		["healthmax"] = 376420,
+		["healthmax"] = 15820,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "Алтери",
-		["power"] = 170,
+		["power"] = 120,
 		["aggro"] = false,
+		["isAltPower"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 376420,
+		["health"] = 15820,
 		["className"] = "Разбойница",
 		["afk"] = false,
 		["debuff"] = 0,
@@ -12868,16 +12869,16 @@ VUHDO_INDICATOR_CONFIG = {
 			"", -- [9]
 			"", -- [10]
 		},
-		["SWIFTMEND_INDICATOR"] = "Иконка роли",
+		["SIDE_LEFT"] = "",
 		["INCOMING_BAR"] = "",
-		["DAMAGE_FLASH_BAR"] = "",
+		["CLUSTER_BORDER"] = "",
 		["THREAT_MARK"] = "",
-		["BAR_BORDER"] = "Границы: Комплексная + угроза",
 		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Полоса маны: Мана",
+		["BAR_BORDER"] = "Границы: Комплексная + угроза",
 		["HEALTH_BAR"] = "Здоровье (градиент)",
-		["CLUSTER_BORDER"] = "",
-		["SIDE_LEFT"] = "",
+		["DAMAGE_FLASH_BAR"] = "",
+		["SWIFTMEND_INDICATOR"] = "Иконка роли",
 	},
 	["CUSTOM"] = {
 		["THREAT_BAR"] = {

@@ -13,6 +13,10 @@ VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословенная свобода
 END
+VER 3 010000000000000B "Glory" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Торжество
+END
 VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Вспышка Света

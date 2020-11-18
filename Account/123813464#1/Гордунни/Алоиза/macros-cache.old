@@ -1,6 +1,32 @@
-MACRO 16777218 "FLExtended" "Ability_Druid_Eclipse"
+VER 3 0100000000000007 "CureDisease" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение от болезни
+END
+VER 3 0100000000000002 "FLExtended" "Ability_Druid_Eclipse"
 /4 ДЦ402/ШП403 ищу ОП на 6хм. Нужна 3-я фаза. Опыт 6хм http://eu.battle.net/wow/ru/character/%D0%B1%D0%BE%D1%80%D0%B5%D0%B8%D1%81%D0%BA%D0%B0%D1%8F-%D1%82%D1%83%D0%BD%D0%B4%D1%80%D0%B0/%D0%90%D0%BB%D0%BE%D0%B8%D0%B7%D0%B0/simple
 END
-MACRO 16777217 "LFG" "ability_deathwing_bloodcorruption_earth"
+VER 3 0100000000000006 "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Темное восстановление
+END
+VER 3 0100000000000008 "LeapOfFaith" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Духовное рвение
+END
+VER 3 0100000000000009 "Levitation" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Левитация
+END
+VER 3 0100000000000001 "LFG" "ability_deathwing_bloodcorruption_earth"
 /4 ДЦ 404-ШП 404 ищу ОП  с нуля. Опыт 6/7 хм + фулл СРОП. Нужна 3я фаза. Летать умею. Связь любая.
+END
+VER 3 0100000000000005 "Shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Слово силы: Щит
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

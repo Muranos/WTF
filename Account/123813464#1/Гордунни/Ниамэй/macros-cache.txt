@@ -1,3 +1,6 @@
+VER 3 0100000000000006 "CancelBoP" "INV_MISC_QUESTIONMARK"
+/cancelaura Благословение защиты
+END
 VER 3 0100000000000004 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip Детоксикация
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Детоксикация

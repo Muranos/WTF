@@ -2161,23 +2161,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wachsende Schatten",
 		},
-		[156852] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[164006] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kromog",
 		},
-		[155192] = {
+		[162346] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Schmelzofeningenieur",
+			["source"] = "Tectus",
 		},
 		[181827] = {
 			["school"] = 1,
@@ -2189,12 +2187,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Teufelsschattenwächter",
 		},
-		[164006] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[156852] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Kromog",
 		},
 		[170405] = {
 			["school"] = 1,
@@ -2204,15 +2204,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marak die Blutige",
 		},
-		[263371] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[304251] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aspix",
+			["source"] = "Grummel",
 		},
 		[271057] = {
 			["school"] = 1,
@@ -2239,14 +2238,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aspix",
 		},
-		[304251] = {
-			["school"] = 32,
+		[263371] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Grummel",
+			["source"] = "Aspix",
 		},
 		[155256] = {
 			["school"] = 1,
@@ -2291,13 +2291,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Loken",
 		},
-		[170395] = {
+		[156598] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vollstreckerin Sorka",
+			["source"] = "Der Schlächter",
 		},
 		[182212] = {
 			["school"] = 1,
@@ -2355,12 +2356,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mut des Kaisers",
 		},
-		[179218] = {
-			["school"] = 1,
+		[186883] = {
+			["school"] = 4,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Verderbter Krallenpriester",
+			["source"] = "Teufelsflammenwerfer",
 		},
 		[264923] = {
 			["school"] = 1,
@@ -2393,13 +2395,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dia Schattenflüsterer",
 		},
-		[186883] = {
-			["school"] = 4,
+		[47743] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Teufelsflammenwerfer",
+			["source"] = "Anomalus",
 		},
 		[304256] = {
 			["school"] = 1,
@@ -2432,12 +2433,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Urelementaristin",
 		},
-		[47743] = {
-			["school"] = 64,
+		[179218] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Anomalus",
+			["source"] = "Verderbter Krallenpriester",
 		},
 		[181831] = {
 			["school"] = 1,
@@ -2471,14 +2472,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Seelengebundenes Konstrukt",
 		},
-		[178191] = {
+		[155196] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tectus",
+			["source"] = "Unbekannt",
 		},
 		[156601] = {
 			["school"] = 1,
@@ -2497,14 +2498,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wahnsinniges Managespenst",
 		},
-		[155196] = {
+		[178191] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Tectus",
 		},
 		[181832] = {
 			["school"] = 8,
@@ -2521,13 +2522,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Auslöschungselementar",
 		},
-		[182280] = {
+		[65116] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Eiserner Häscher",
+			["source"] = "General Bjarngrim",
 		},
 		[297746] = {
 			["school"] = 1,
@@ -2560,13 +2561,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schattenfürst Iskar",
 		},
-		[65116] = {
+		[182280] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "General Bjarngrim",
+			["source"] = "Eiserner Häscher",
 		},
 		[115828] = {
 			["school"] = 1,
@@ -2885,14 +2886,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Archimonde",
 		},
-		[156598] = {
+		[170395] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Der Schlächter",
+			["source"] = "Vollstreckerin Sorka",
 		},
 		[155266] = {
 			["school"] = 1,
@@ -2929,14 +2929,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tyrannin Velhari",
 		},
-		[162346] = {
+		[155192] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tectus",
+			["source"] = "Schmelzofeningenieur",
 		},
 		[260852] = {
 			["school"] = 1,

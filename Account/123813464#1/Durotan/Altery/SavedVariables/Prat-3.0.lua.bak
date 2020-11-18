@@ -142,11 +142,10 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|Hpratcopy|h[17:32:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T851119:14|tUngeborene Val'kyr ist jetzt das aktive Haustier von Euch.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801428.931,
-					["serverTime"] = 1597242770,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -154,14 +153,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242770,
 				}, -- [1]
 				{
 					["message"] = "|Hpratcopy|h[17:32:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T1500940:14|tBlotto ist jetzt das aktive Haustier des Gegners.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801429.691,
-					["serverTime"] = 1597242771,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -169,14 +168,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242771,
 				}, -- [2]
 				{
 					["message"] = "|Hpratcopy|h[17:32:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 1",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801431.931,
-					["serverTime"] = 1597242773,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -184,14 +183,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242773,
 				}, -- [3]
 				{
 					["message"] = "|Hpratcopy|h[17:32:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T851119:14|tUngeborene Val'kyr von Euch 149 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801432.691,
-					["serverTime"] = 1597242774,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -199,14 +198,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242774,
 				}, -- [4]
 				{
 					["message"] = "|Hpratcopy|h[17:32:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T132914:14|tIkky von Euch 223 Schaden zugefügt (effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801432.691,
-					["serverTime"] = 1597242774,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -214,14 +213,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242774,
 				}, -- [5]
 				{
 					["message"] = "|Hpratcopy|h[17:32:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T134152:14|tAufziehgnom von Euch 98 Schaden zugefügt (weniger effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801432.691,
-					["serverTime"] = 1597242774,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -229,14 +228,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242774,
 				}, -- [6]
 				{
 					["message"] = "|Hpratcopy|h[17:32:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136122:14|t|cff4e96f7|HbattlePetAbil:218:1657:276:227|h[Fluch der Verdammnis]|h|r hat |T1500940:14|tBlotto des Gegners mit |T136122:14|t|cff4e96f7|HbattlePetAbil:217:1657:276:227|h[Fluch der Verdammnis]|h|r belegt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801434.631,
-					["serverTime"] = 1597242776,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -244,14 +243,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242776,
 				}, -- [7]
 				{
 					["message"] = "|Hpratcopy|h[17:32:58]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 2",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801436.961,
-					["serverTime"] = 1597242778,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -259,14 +258,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242778,
 				}, -- [8]
 				{
 					["message"] = "|Hpratcopy|h[17:32:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136157:14|t|cff4e96f7|HbattlePetAbil:445:3246:278:375|h[Schleimberührung]|h|r hat |T851119:14|tUngeborene Val'kyr von Euch 298 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801438.221,
-					["serverTime"] = 1597242779,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -274,14 +273,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242779,
 				}, -- [9]
 				{
 					["message"] = "|Hpratcopy|h[17:33:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T236295:14|t|cff4e96f7|HbattlePetAbil:321:1359:276:227|h[Unheiliger Aufstieg]|h|r hat |T1500940:14|tBlotto des Gegners mit |T236295:14|t|cff4e96f7|HbattlePetAbil:320:1359:276:227|h[Unheiliger Aufstieg]|h|r belegt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801441.251,
-					["serverTime"] = 1597242782,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -289,14 +288,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242782,
 				}, -- [10]
 				{
 					["message"] = "|Hpratcopy|h[17:33:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T236295:14|t|cff4e96f7|HbattlePetAbil:321:0:276:227|h[Unheiliger Aufstieg]|h|r hat |T851119:14|tUngeborene Val'kyr von Euch 1359 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801441.501,
-					["serverTime"] = 1597242782,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -304,14 +303,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242782,
 				}, -- [11]
 				{
 					["message"] = "|Hpratcopy|h[17:33:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T851119:14|tUngeborene Val'kyr von Euch ist gestorben.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801441.501,
-					["serverTime"] = 1597242782,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -319,14 +318,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242782,
 				}, -- [12]
 				{
 					["message"] = "|Hpratcopy|h[17:33:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 2",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801445.947,
-					["serverTime"] = 1597242787,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -334,14 +333,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242787,
 				}, -- [13]
 				{
 					["message"] = "|Hpratcopy|h[17:33:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132914:14|tIkky ist jetzt das aktive Haustier von Euch.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801445.947,
-					["serverTime"] = 1597242787,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -349,14 +348,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242787,
 				}, -- [14]
 				{
 					["message"] = "|Hpratcopy|h[17:33:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 3",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801448.877,
-					["serverTime"] = 1597242790,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -364,14 +363,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242790,
 				}, -- [15]
 				{
 					["message"] = "|Hpratcopy|h[17:33:11]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135664:14|t|cff4e96f7|HbattlePetAbil:919:1096:322:409|h[Schwarze Klaue]|h|r hat |T1500940:14|tBlotto des Gegners mit |T135664:14|t|cff4e96f7|HbattlePetAbil:918:1096:322:409|h[Schwarze Klaue]|h|r belegt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801449.657,
-					["serverTime"] = 1597242791,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -379,14 +378,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242791,
 				}, -- [16]
 				{
 					["message"] = "|Hpratcopy|h[17:33:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136157:14|t|cff4e96f7|HbattlePetAbil:445:3246:278:375|h[Schleimberührung]|h|r hat |T132914:14|tIkky von Euch 447 Schaden zugefügt (effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801451.327,
-					["serverTime"] = 1597242792,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -394,14 +393,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242792,
 				}, -- [17]
 				{
 					["message"] = "|Hpratcopy|h[17:33:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132914:14|tIkky von Euch ist nicht mehr von |T618976:14|t|cff4e96f7|HbattlePetAbil:239:649:322:409|h[Fliegend]|h|r betroffen.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801451.327,
-					["serverTime"] = 1597242792,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -409,14 +408,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242792,
 				}, -- [18]
 				{
 					["message"] = "|Hpratcopy|h[17:33:15]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 4",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801453.967,
-					["serverTime"] = 1597242795,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -424,14 +423,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242795,
 				}, -- [19]
 				{
 					["message"] = "|Hpratcopy|h[17:33:16]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T132914:14|tIkky von Euch 335 Schaden zugefügt (effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801454.727,
-					["serverTime"] = 1597242796,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -439,14 +438,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242796,
 				}, -- [20]
 				{
 					["message"] = "|Hpratcopy|h[17:33:16]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T237244:14|t|cff4e96f7|HbattlePetAbil:2361:3246:278:375|h[Leerenklatscher]|h|r hat |T134152:14|tAufziehgnom von Euch 147 Schaden zugefügt (weniger effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801454.727,
-					["serverTime"] = 1597242796,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -454,14 +453,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242796,
 				}, -- [21]
 				{
 					["message"] = "|Hpratcopy|h[17:33:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 141 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801455.987,
-					["serverTime"] = 1597242797,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -469,14 +468,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242797,
 				}, -- [22]
 				{
 					["message"] = "|Hpratcopy|h[17:33:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 141 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801456.737,
-					["serverTime"] = 1597242798,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -484,14 +483,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242798,
 				}, -- [23]
 				{
 					["message"] = "|Hpratcopy|h[17:33:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 141 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801457.087,
-					["serverTime"] = 1597242798,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -499,14 +498,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242798,
 				}, -- [24]
 				{
 					["message"] = "|Hpratcopy|h[17:33:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:314:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners mit |T132358:14|t|cff4e96f7|HbattlePetAbil:542:314:322:273|h[Zerschmetterte Verteidigung]|h|r belegt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801457.437,
-					["serverTime"] = 1597242798,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -514,14 +513,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242798,
 				}, -- [25]
 				{
 					["message"] = "|Hpratcopy|h[17:33:21]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 5",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801459.717,
-					["serverTime"] = 1597242801,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -529,14 +528,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242801,
 				}, -- [26]
 				{
 					["message"] = "|Hpratcopy|h[17:33:22]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132131:14|t|cff4e96f7|HbattlePetAbil:538:2823:278:375|h[Verschlingen]|h|r hat |T132914:14|tIkky von Euch 147 Schaden zugefügt (weniger effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801460.627,
-					["serverTime"] = 1597242802,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -544,14 +543,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242802,
 				}, -- [27]
 				{
 					["message"] = "|Hpratcopy|h[17:33:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801461.737,
-					["serverTime"] = 1597242803,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -559,14 +558,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242803,
 				}, -- [28]
 				{
 					["message"] = "|Hpratcopy|h[17:33:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801462.437,
-					["serverTime"] = 1597242803,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -574,14 +573,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242803,
 				}, -- [29]
 				{
 					["message"] = "|Hpratcopy|h[17:33:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801462.787,
-					["serverTime"] = 1597242804,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -589,14 +588,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242804,
 				}, -- [30]
 				{
 					["message"] = "|Hpratcopy|h[17:33:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:167:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners mit |T132358:14|t|cff4e96f7|HbattlePetAbil:542:167:322:273|h[Zerschmetterte Verteidigung]|h|r belegt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801463.137,
-					["serverTime"] = 1597242804,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -604,14 +603,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242804,
 				}, -- [31]
 				{
 					["message"] = "|Hpratcopy|h[17:33:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136122:14|t|cff4e96f7|HbattlePetAbil:217:0:276:227|h[Fluch der Verdammnis]|h|r hat |T1500940:14|tBlotto des Gegners 1136 Schaden zugefügt (kritisch).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801464.617,
-					["serverTime"] = 1597242806,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -619,14 +618,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242806,
 				}, -- [32]
 				{
 					["message"] = "|Hpratcopy|h[17:33:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T136122:14|t|cff4e96f7|HbattlePetAbil:217:0:276:227|h[Fluch der Verdammnis]|h|r hat |T1500940:14|tBlotto des Gegners mit |T618978:14|t|cff4e96f7|HbattlePetAbil:243:0:276:227|h[Magisch]|h|r belegt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801464.617,
-					["serverTime"] = 1597242806,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -634,14 +633,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242806,
 				}, -- [33]
 				{
 					["message"] = "|Hpratcopy|h[17:33:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T1500940:14|tBlotto des Gegners ist nicht mehr von |T136122:14|t|cff4e96f7|HbattlePetAbil:217:0:276:227|h[Fluch der Verdammnis]|h|r betroffen.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801465.627,
-					["serverTime"] = 1597242807,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -649,14 +648,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242807,
 				}, -- [34]
 				{
 					["message"] = "|Hpratcopy|h[17:33:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: Runde 6",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801466.487,
-					["serverTime"] = 1597242807,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -664,14 +663,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242807,
 				}, -- [35]
 				{
 					["message"] = "|Hpratcopy|h[17:33:28]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T132131:14|t|cff4e96f7|HbattlePetAbil:538:700:278:375|h[Verschlingen]|h|r hat |T132914:14|tIkky von Euch 147 Schaden zugefügt (weniger effektiv).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801467.447,
-					["serverTime"] = 1597242808,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -679,14 +678,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242808,
 				}, -- [36]
 				{
 					["message"] = "|Hpratcopy|h[17:33:29]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:20:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 329 Schaden zugefügt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801468.557,
-					["serverTime"] = 1597242809,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -694,14 +693,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242809,
 				}, -- [37]
 				{
 					["message"] = "|Hpratcopy|h[17:33:32]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T135996:14|t|cff4e96f7|HbattlePetAbil:581:20:322:273|h[Schar]|h|r hat |T1500940:14|tBlotto des Gegners 494 Schaden zugefügt (kritisch).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801470.607,
-					["serverTime"] = 1597242812,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -709,14 +708,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242812,
 				}, -- [38]
 				{
 					["message"] = "|Hpratcopy|h[17:33:32]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T1500940:14|tBlotto des Gegners ist gestorben.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801470.607,
-					["serverTime"] = 1597242812,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -724,14 +723,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242812,
 				}, -- [39]
 				{
 					["message"] = "|Hpratcopy|h[17:33:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:670:322:273|h[Erholung von der Schlacht]|h|r hat |T132914:14|tIkky von Euch um 650 geheilt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801474.277,
-					["serverTime"] = 1597242815,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -739,14 +738,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242815,
 				}, -- [40]
 				{
 					["message"] = "|Hpratcopy|h[17:33:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Haustierkampf]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:1424:257:289|h[Erholung von der Schlacht]|h|r hat |T134152:14|tAufziehgnom von Euch um 123 geheilt.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 1801474.277,
-					["serverTime"] = 1597242815,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -754,6 +753,7 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1597242815,
 				}, -- [41]
 			},
 			["headIndex"] = 41,
@@ -826,7 +826,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 39,
+			["headIndex"] = 21,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -839,1745 +839,141 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[09:45:18]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 11 verbessert.",
-					["serverTime"] = 1598769918,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67294.657,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
+					["message"] = "|cfffef367OmniCD|r:  Removing Invalid ID: |cffffd700130736",
+					["timestamp"] = 773477.0160000001,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[09:45:18]|h Euer Ruf bei der Fraktion 'Tortollanische Sucher' hat sich um 280 verbessert.",
-					["serverTime"] = 1598769918,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67294.657,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
+					["message"] = "|cfffef367OmniCD|r:  Removing Invalid ID: |cffffd700216890",
+					["timestamp"] = 773477.0160000001,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[09:45:18]|h Euer Ruf bei der Fraktion 'Die Sturmwacht' hat sich um 120 verbessert.",
-					["serverTime"] = 1598769918,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67294.657,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
+					["message"] = "|cfffef367OmniCD|r:  Removing Invalid ID: |cffffd700204150",
+					["timestamp"] = 773477.0160000001,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[09:45:21]|h Schriftrollengelehrte Nola sagt: In der Natur muss für alle Gleichgewicht herrschen. Ich kann jedoch nicht umhin, diese kleinen Schildkröten zu unterstützen.",
-					["serverTime"] = 1598769921,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67298.414,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|cfffef367OmniCD|r:  Removing Invalid ID: |cffffd700280711",
+					["timestamp"] = 773477.0160000001,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[09:45:40]|h Shandris Mondfeder sagt: Vertreibt dieses Monster. Tor ilisar'thera'nal!",
-					["serverTime"] = 1598769940,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67317.435,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|cfffef367OmniCD|r:  Removing Invalid ID: |cffffd700216113",
+					["timestamp"] = 773477.0160000001,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[09:45:45]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq25|k:36:214:BN_INLINE_TOAST_ALERT:0|h[|Kq25|k] (|TInterface\\ChatFrame\\UI-ChatIcon-WTCG:14:14:0:0|tTikkirei)|h ist jetzt online.",
-					["serverTime"] = 1598769945,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						10, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67321.675,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
+					["message"] = "|cfffef367OmniCD|r:  Removing Invalid ID: |cffffd700198664",
+					["timestamp"] = 773477.0160000001,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[09:45:59]|h Shandris Mondfeder sagt: Die Horde wird hier nicht siegen. Eliminiert ihre Kommandanten und zerstreut ihre Truppen!",
-					["serverTime"] = 1598769958,
+					["message"] = "|Hpratcopy|h[18:03:02]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.115 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy.",
 					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67336.272,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 773477.0160000001,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[09:46:20]|h Ihr bekommt einen Gegenstand: |cff0070dd|Hcurrency:1553:324|h[Leuchtendes Azerit]|h|r.",
-					["serverTime"] = 1598769979,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67356.62,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[18:03:08]|h UnitFramesImproved settings loaded!",
+					["timestamp"] = 773494.337,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[09:46:20]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 324 Artefaktmacht.",
-					["serverTime"] = 1598769979,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67356.62,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[18:03:08]|h |cff33ff99Gnosis|r: Gnosis v4.80 (r244) loaded (enabled)",
+					["timestamp"] = 773495.789,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[09:46:20]|h Ihr erhaltet Beute: |cff0070dd|Hitem:172843::::::::120:259::47:4:6516:6515:1537:4785:::|h[Lederbindungen des verderbten Aspiranten]|h|r.",
-					["serverTime"] = 1598769979,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67356.767,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[18:03:10]|h |cffffd839TSM|r: TSM doesn't currently have any AuctionDB pricing data for your realm. We recommend you download the TSM Desktop Application from |cff79a2ffhttps://tradeskillmaster.com|r to automatically update your AuctionDB data (and auto-backup your TSM settings).",
+					["timestamp"] = 773495.789,
+					["serverTime"] = 1603987391,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[09:46:20]|h Ihr plündert 11 Gold, 10 Silber, 23 Kupfer",
-					["serverTime"] = 1598769979,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						7, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67357.33,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[18:03:10]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 773495.789,
+					["serverTime"] = 1603987391,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[09:46:20]|h Ihr erhaltet: |cffffffff|Hcurrency:1602:0|h[Eroberung]|h|r x50.",
-					["serverTime"] = 1598769979,
-					["r"] = 0.2745098173618317,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67357.43000000001,
-					["g"] = 0.4666666984558106,
-					["b"] = 0.6666666865348816,
+					["message"] = "|Hpratcopy|h[18:03:10]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 773495.789,
+					["serverTime"] = 1603987391,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[09:46:32]|h |cffd8d8d8[|r|Hplayer:Kociupti-Silvermoon:222:ACHIEVEMENT|h|cff006fdcKociupti|r-|cffd04c7eSil|r|h|cffd8d8d8]|r hat den Erfolg |cffffff00|Hachievement:31:Player-3391-0B6E1DDB:1:8:30:20:4294967295:4294967295:4294967295:4294967295|h[Alltägliches]|h|r |cffffffff(|rAbgeschlossen 05.08.20|cffffffff)|r errungen!",
-					["serverTime"] = 1598769991,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						17, -- [3]
-						18, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67369.586,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[18:03:10]|h |cffffd700Titan Panel|r|cff20ff20 5.19.1.90001|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r|cff20ff20|r",
+					["timestamp"] = 773495.789,
+					["serverTime"] = 1603987391,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[09:46:32]|h |cffd8d8d8[|r|Hplayer:Kociupti-Silvermoon:223:ACHIEVEMENT|h|cff006fdcKociupti|r-|cffd04c7eSil|r|h|cffd8d8d8]|r hat den Erfolg |cffffff00|Hachievement:973:Player-3391-0B6E1DDB:1:8:30:20:4294967295:4294967295:4294967295:4294967295|h[5 tägliche Quests abgeschlossen]|h|r |cffffffff(|rAbgeschlossen 03.07.20|cffffffff)|r errungen!",
-					["serverTime"] = 1598769991,
+					["message"] = "|Hpratcopy|h[18:03:10]|h |cffffe566{VuhDo}|r Profile successfully loaded: Altery: Фламиника: Vuhdo'esque",
 					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						17, -- [3]
-						18, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67369.586,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1603987391,
+					["timestamp"] = 773495.789,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[09:47:15]|h Ihr erhaltet Beute: |cffffffff|Hitem:152511::::::::120:259::::::|h[Meeresstängel]|h|rx4.",
-					["serverTime"] = 1598770034,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67411.667,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
+					["message"] = "|Hpratcopy|h[18:03:12]|h 1",
+					["timestamp"] = 773500.264,
+					["serverTime"] = 1603987393,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[09:47:32]|h Ihr bekommt einen Gegenstand: |cffa335ee|Hcurrency:1553:600|h[Strahlendes Azeritfragment]|h|r.",
-					["serverTime"] = 1598770051,
+					["message"] = "|Hpratcopy|h[18:03:12]|h Total time played: 2 |4day:days;, 13 |4hour:hours;, 24 |4minute:minutes;, 23 |4second:seconds;",
+					["serverTime"] = 1603987393,
 					["r"] = 0.9137255549430847,
 					["extraData"] = {
 						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
+						["n"] = 1,
 					},
-					["timestamp"] = 67429.448,
+					["timestamp"] = 773500.3150000001,
 					["g"] = 1,
 					["b"] = 0.9843137860298157,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[09:47:32]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 600 Artefaktmacht.",
-					["serverTime"] = 1598770051,
+					["message"] = "|Hpratcopy|h[18:03:12]|h Time played this level: 1 |4day:days;, 22 |4hour:hours;, 48 |4minute:minutes;, 55 |4second:seconds;",
+					["serverTime"] = 1603987393,
 					["r"] = 0.9137255549430847,
 					["extraData"] = {
 						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
+						["n"] = 1,
 					},
-					["timestamp"] = 67429.448,
+					["timestamp"] = 773500.3150000001,
 					["g"] = 1,
 					["b"] = 0.9843137860298157,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[09:47:32]|h Euer Ruf bei der Fraktion 'Tortollanische Sucher' hat sich um 1650 verbessert.",
-					["serverTime"] = 1598770051,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67429.448,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[18:03:13]|h |cffffd839TSM|r: TSM is currently rebuilding its item cache which may cause FPS drops and result in TSM not being fully functional until this process is complete. This is normal and typically takes less than a minute.",
+					["timestamp"] = 773500.3150000001,
+					["serverTime"] = 1603987394,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[09:47:32]|h Tortollanische Sucher abgeschlossen.",
-					["serverTime"] = 1598770051,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67429.515,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[18:03:16]|h |cffffd839TSM|r: Done rebuilding item cache.",
+					["timestamp"] = 773504.179,
+					["serverTime"] = 1603987397,
 				}, -- [19]
 				{
-					["message"] = "|Hpratcopy|h[09:47:32]|h Erhalten: 2000 Gold.",
-					["serverTime"] = 1598770051,
-					["r"] = 0.9137255549430847,
+					["message"] = "|Hpratcopy|h[18:03:29]|h Sara Bartlett says: You'll love the color and flavor that our spices bring to any dish!",
+					["serverTime"] = 1603987410,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						8, -- [3]
-						9, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 67429.515,
+					["timestamp"] = 773517,
 					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["b"] = 0.6235294342041016,
 				}, -- [20]
 				{
-					["message"] = "|Hpratcopy|h[09:47:33]|h Ihr erhaltet: |cffe6cc80|Hcurrency:1803:0|h[Echos aus Ny'alotha]|h|r x250.",
-					["serverTime"] = 1598770052,
-					["r"] = 0.2745098173618317,
+					["message"] = "|Hpratcopy|h[18:03:31]|h Miri Fiddlewizz says: Don't trust gnomish inventions from any other source! My competitors are frauds!",
+					["serverTime"] = 1603987412,
+					["r"] = 1,
 					["extraData"] = {
-						59, -- [1]
+						13, -- [1]
 						false, -- [2]
-						12, -- [3]
-						13, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 67430.495,
-					["g"] = 0.4666666984558106,
-					["b"] = 0.6666666865348816,
+					["timestamp"] = 773518.6020000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[09:48:06]|h Schattenjägerin Mutumba sagt: Ich werd dem Kriegshäuptling Euren Kopf bring'n!",
-					["serverTime"] = 1598770085,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67463.194,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h Schattenjägerin Mutumba sagt: Die Geister... verlass'n... mich...",
-					["serverTime"] = 1598770109,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.158,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [23]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h Ihr bekommt einen Gegenstand: |cff0070dd|Hcurrency:1553:441|h[Leuchtende Azeritgeode]|h|r.",
-					["serverTime"] = 1598770109,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.291,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [24]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 441 Artefaktmacht.",
-					["serverTime"] = 1598770109,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.291,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [25]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 11 verbessert.",
-					["serverTime"] = 1598770109,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.291,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [26]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 120 verbessert.",
-					["serverTime"] = 1598770109,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.291,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [27]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h Euer Ruf bei der Fraktion 'Die Sturmwacht' hat sich um 120 verbessert.",
-					["serverTime"] = 1598770109,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.291,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [28]
-				{
-					["message"] = "|Hpratcopy|h[09:48:30]|h Shandris Mondfeder sagt: Ihr habt heute unzähligen Allianzkämpfern das Leben gerettet. Wir stehen tief in Eurer Schuld.",
-					["serverTime"] = 1598770109,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67487.543,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [29]
-				{
-					["message"] = "|Hpratcopy|h[09:48:31]|h Ihr erhaltet: |cffffffff|Hcurrency:1602:0|h[Eroberung]|h|r x15.",
-					["serverTime"] = 1598770110,
-					["r"] = 0.2745098173618317,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67488.345,
-					["g"] = 0.4666666984558106,
-					["b"] = 0.6666666865348816,
-				}, -- [30]
-				{
-					["message"] = "|Hpratcopy|h[09:48:35]|h Ihr plündert 55 Silber, 21 Kupfer",
-					["serverTime"] = 1598770114,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						7, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67491.704,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [31]
-				{
-					["message"] = "|Hpratcopy|h[09:49:42]|h Ihr bekommt einen Gegenstand: |cffa335ee|Hcurrency:1553:600|h[Strahlendes Azeritfragment]|h|r.",
-					["serverTime"] = 1598770181,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67559.38100000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [32]
-				{
-					["message"] = "|Hpratcopy|h[09:49:42]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 600 Artefaktmacht.",
-					["serverTime"] = 1598770181,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67559.38100000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [33]
-				{
-					["message"] = "|Hpratcopy|h[09:49:42]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 1650 verbessert.",
-					["serverTime"] = 1598770181,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67559.38100000001,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [34]
-				{
-					["message"] = "|Hpratcopy|h[09:49:42]|h Kriegsanstrengungen der Allianz abgeschlossen.",
-					["serverTime"] = 1598770181,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67559.45300000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [35]
-				{
-					["message"] = "|Hpratcopy|h[09:49:42]|h Erhalten: 2000 Gold.",
-					["serverTime"] = 1598770181,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67559.45300000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [36]
-				{
-					["message"] = "|Hpratcopy|h[09:49:43]|h Ihr erhaltet: |cffe6cc80|Hcurrency:1803:0|h[Echos aus Ny'alotha]|h|r x250.",
-					["serverTime"] = 1598770182,
-					["r"] = 0.2745098173618317,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67560.436,
-					["g"] = 0.4666666984558106,
-					["b"] = 0.6666666865348816,
-				}, -- [37]
-				{
-					["message"] = "|Hpratcopy|h[09:55:11]|h Ihr seid jetzt nicht an der Tastatur: AFK",
-					["serverTime"] = 1598770510,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67888.247,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [38]
-				{
-					["message"] = "|Hpratcopy|h[10:00:03]|h Die täglichen Quests wurden zurückgesetzt!",
-					["serverTime"] = 1598770802,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 68180.515,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [39]
-				{
-					["message"] = "|Hpratcopy|h[09:27:56]|h |cff33ff99Postal|r: Bearbeite Nachricht 17: Auktion abgelaufen: Flussknospe (196)",
-					["timestamp"] = 66253.243,
-					["serverTime"] = 1598768875,
-				}, -- [40]
-				{
-					["message"] = "|Hpratcopy|h[09:27:56]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx196.",
-					["serverTime"] = 1598768875,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66253.478,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [41]
-				{
-					["message"] = "|Hpratcopy|h[09:27:57]|h |cff33ff99Postal|r: Bearbeite Nachricht 16: Auktion abgelaufen: Sirenenpollen (194)",
-					["timestamp"] = 66253.778,
-					["serverTime"] = 1598768876,
-				}, -- [42]
-				{
-					["message"] = "|Hpratcopy|h[09:27:57]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx194.",
-					["serverTime"] = 1598768876,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66254.072,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [43]
-				{
-					["message"] = "|Hpratcopy|h[09:27:57]|h |cff33ff99Postal|r: Bearbeite Nachricht 15: Auktion abgelaufen: Sirenenpollen (194)",
-					["timestamp"] = 66254.284,
-					["serverTime"] = 1598768876,
-				}, -- [44]
-				{
-					["message"] = "|Hpratcopy|h[09:27:57]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx194.",
-					["serverTime"] = 1598768876,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66254.55,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[09:27:57]|h Sara Bartels sagt: Esst nie wieder ein fades Gericht! Seht Euch nur unsere Gewürze an!",
-					["serverTime"] = 1598768876,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66254.583,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [46]
-				{
-					["message"] = "|Hpratcopy|h[09:27:58]|h |cff33ff99Postal|r: Bearbeite Nachricht 14: Auktion abgelaufen: Sirenenpollen (123)",
-					["timestamp"] = 66254.791,
-					["serverTime"] = 1598768877,
-				}, -- [47]
-				{
-					["message"] = "|Hpratcopy|h[09:27:58]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx123.",
-					["serverTime"] = 1598768877,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66255.089,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [48]
-				{
-					["message"] = "|Hpratcopy|h[09:27:58]|h |cff33ff99Postal|r: Bearbeite Nachricht 13: Auktion abgelaufen: Flussknospe (183)",
-					["timestamp"] = 66255.292,
-					["serverTime"] = 1598768877,
-				}, -- [49]
-				{
-					["message"] = "|Hpratcopy|h[09:27:58]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx183.",
-					["serverTime"] = 1598768877,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66255.507,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [50]
-				{
-					["message"] = "|Hpratcopy|h[09:27:59]|h |cff33ff99Postal|r: Bearbeite Nachricht 12: Auktion abgelaufen: Winterkuss (173)",
-					["timestamp"] = 66255.799,
-					["serverTime"] = 1598768878,
-				}, -- [51]
-				{
-					["message"] = "|Hpratcopy|h[09:27:59]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx173.",
-					["serverTime"] = 1598768878,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66256.033,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [52]
-				{
-					["message"] = "|Hpratcopy|h[09:27:59]|h |cff33ff99Postal|r: Bearbeite Nachricht 11: Auktion abgelaufen: Meeresstängel (5)",
-					["timestamp"] = 66256.302,
-					["serverTime"] = 1598768878,
-				}, -- [53]
-				{
-					["message"] = "|Hpratcopy|h[09:27:59]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152511::::::::120:259::::::|h[Meeresstängel]|h|rx5.",
-					["serverTime"] = 1598768878,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66256.57800000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [54]
-				{
-					["message"] = "|Hpratcopy|h[09:28:00]|h |cff33ff99Postal|r: Bearbeite Nachricht 10: Auktion abgelaufen: Sternmoos (173)",
-					["timestamp"] = 66256.80500000001,
-					["serverTime"] = 1598768879,
-				}, -- [55]
-				{
-					["message"] = "|Hpratcopy|h[09:28:00]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152506::::::::120:259::::::|h[Sternmoos]|h|rx173.",
-					["serverTime"] = 1598768879,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66257.003,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [56]
-				{
-					["message"] = "|Hpratcopy|h[09:28:00]|h |cff33ff99Postal|r: Bearbeite Nachricht 9: Auktion abgelaufen: Sirenenpollen (164)",
-					["timestamp"] = 66257.311,
-					["serverTime"] = 1598768879,
-				}, -- [57]
-				{
-					["message"] = "|Hpratcopy|h[09:28:00]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx164.",
-					["serverTime"] = 1598768879,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66257.603,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [58]
-				{
-					["message"] = "|Hpratcopy|h[09:28:01]|h |cff33ff99Postal|r: Bearbeite Nachricht 8: Auktion abgelaufen: Sternmoos (200)",
-					["timestamp"] = 66257.841,
-					["serverTime"] = 1598768880,
-				}, -- [59]
-				{
-					["message"] = "|Hpratcopy|h[09:28:01]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152506::::::::120:259::::::|h[Sternmoos]|h|rx200.",
-					["serverTime"] = 1598768880,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66258.147,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [60]
-				{
-					["message"] = "|Hpratcopy|h[09:28:01]|h |cff33ff99Postal|r: Bearbeite Nachricht 7: Auktion abgelaufen: Sirenenpollen (178)",
-					["timestamp"] = 66258.348,
-					["serverTime"] = 1598768880,
-				}, -- [61]
-				{
-					["message"] = "|Hpratcopy|h[09:28:01]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152509::::::::120:259::::::|h[Sirenenpollen]|h|rx178.",
-					["serverTime"] = 1598768880,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66258.61200000001,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [62]
-				{
-					["message"] = "|Hpratcopy|h[09:28:02]|h |cff33ff99Postal|r: Bearbeite Nachricht 6: Auktion abgelaufen: Sternmoos (163)",
-					["timestamp"] = 66258.848,
-					["serverTime"] = 1598768881,
-				}, -- [63]
-				{
-					["message"] = "|Hpratcopy|h[09:28:02]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152506::::::::120:259::::::|h[Sternmoos]|h|rx163.",
-					["serverTime"] = 1598768881,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66259.095,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [64]
-				{
-					["message"] = "|Hpratcopy|h[09:28:02]|h |cff33ff99Postal|r: Bearbeite Nachricht 5: Auktion abgelaufen: Winterkuss (200)",
-					["timestamp"] = 66259.352,
-					["serverTime"] = 1598768881,
-				}, -- [65]
-				{
-					["message"] = "|Hpratcopy|h[09:28:02]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx200.",
-					["serverTime"] = 1598768881,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66259.609,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [66]
-				{
-					["message"] = "|Hpratcopy|h[09:28:03]|h |cff33ff99Postal|r: Bearbeite Nachricht 4: Auktion abgelaufen: Flussknospe (200)",
-					["timestamp"] = 66259.86,
-					["serverTime"] = 1598768882,
-				}, -- [67]
-				{
-					["message"] = "|Hpratcopy|h[09:28:03]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx200.",
-					["serverTime"] = 1598768882,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66260.094,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [68]
-				{
-					["message"] = "|Hpratcopy|h[09:28:03]|h |cff33ff99Postal|r: Bearbeite Nachricht 3: Auktion abgelaufen: Winterkuss (200)",
-					["timestamp"] = 66260.388,
-					["serverTime"] = 1598768882,
-				}, -- [69]
-				{
-					["message"] = "|Hpratcopy|h[09:28:04]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152508::::::::120:259::::::|h[Winterkuss]|h|rx200.",
-					["serverTime"] = 1598768883,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66260.672,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [70]
-				{
-					["message"] = "|Hpratcopy|h[09:28:04]|h |cff33ff99Postal|r: Bearbeite Nachricht 2: Auktion abgelaufen: Ankerkraut (16)",
-					["timestamp"] = 66260.888,
-					["serverTime"] = 1598768883,
-				}, -- [71]
-				{
-					["message"] = "|Hpratcopy|h[09:28:04]|h Ihr erhaltet den Gegenstand: |cff1eff00|Hitem:152510::::::::120:259::::::|h[Ankerkraut]|h|rx16.",
-					["serverTime"] = 1598768883,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66261.144,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [72]
-				{
-					["message"] = "|Hpratcopy|h[09:28:04]|h |cff33ff99Postal|r: Bearbeite Nachricht 1: Auktion abgelaufen: Flussknospe (91)",
-					["timestamp"] = 66261.391,
-					["serverTime"] = 1598768883,
-				}, -- [73]
-				{
-					["message"] = "|Hpratcopy|h[09:28:05]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:152505::::::::120:259::::::|h[Flussknospe]|h|rx91.",
-					["serverTime"] = 1598768884,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66261.634,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [74]
-				{
-					["message"] = "|Hpratcopy|h[09:28:06]|h |cff33ff99Postal|r: Gesammelt 655|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 3|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 80|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["timestamp"] = 66262.992,
-					["serverTime"] = 1598768885,
-				}, -- [75]
-				{
-					["message"] = "|Hpratcopy|h[09:28:50]|h Patrick Markson sagt: Professionelle Waffen für Jäger, vom Anfänger bis zum Meister!",
-					["serverTime"] = 1598768929,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66306.765,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [76]
-				{
-					["message"] = "|Hpratcopy|h[09:29:25]|h Du hast deinen Müll für 2|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 18|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 58|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t verkauft",
-					["serverTime"] = 1598768964,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						7, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66342.463,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [77]
-				{
-					["message"] = "|Hpratcopy|h[09:29:52]|h |cffffffff|Hgarrfollower:1067:1:120:1:1084:0:0:0:0:0:0:0:0|h[Stoßtruppsoldaten der 7. Legion]|h|r rekrutiert.",
-					["serverTime"] = 1598768991,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66369.37700000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [78]
-				{
-					["message"] = "|Hpratcopy|h[09:29:52]|h |cffffffff|Hgarrfollower:1066:1:120:1:1083:0:0:0:0:0:0:0:0|h[Darnassische Schildwachen]|h|r rekrutiert.",
-					["serverTime"] = 1598768991,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66369.37700000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [79]
-				{
-					["message"] = "|Hpratcopy|h[09:29:52]|h |cffffffff|Hgarrfollower:1070:1:120:1:1085:0:0:0:0:0:0:0:0|h[Friedensbewahrer der Exodar]|h|r rekrutiert.",
-					["serverTime"] = 1598768991,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66369.37700000001,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [80]
-				{
-					["message"] = "|Hpratcopy|h[09:30:12]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq1|k:14:102:BN_INLINE_TOAST_ALERT:0|h[|Kq1|k]|h ist jetzt offline.",
-					["serverTime"] = 1598769011,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						10, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66388.94,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [81]
-				{
-					["message"] = "|Hpratcopy|h[09:30:31]|h Ihr erhaltet Beute: |cffffffff|Hitem:152511::::::::120:259::::::|h[Meeresstängel]|h|rx4.",
-					["serverTime"] = 1598769030,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66407.819,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [82]
-				{
-					["message"] = "|Hpratcopy|h[09:31:23]|h Sammler Kojo sagt: Ich habe über die Jahre viele Dinge gesammelt. Findet Ihr die identischen?",
-					["serverTime"] = 1598769082,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66460.438,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [83]
-				{
-					["message"] = "|Hpratcopy|h[09:31:33]|h Sammler Kojo sagt: Ich habe über die Jahre viele Dinge gesammelt. Findet Ihr die identischen?",
-					["serverTime"] = 1598769092,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66470.338,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [84]
-				{
-					["message"] = "|Hpratcopy|h[09:32:35]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 11 verbessert.",
-					["serverTime"] = 1598769154,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66532.406,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [85]
-				{
-					["message"] = "|Hpratcopy|h[09:32:35]|h Euer Ruf bei der Fraktion 'Tortollanische Sucher' hat sich um 280 verbessert.",
-					["serverTime"] = 1598769154,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66532.406,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [86]
-				{
-					["message"] = "|Hpratcopy|h[09:32:35]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 120 verbessert.",
-					["serverTime"] = 1598769154,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66532.406,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [87]
-				{
-					["message"] = "|Hpratcopy|h[09:32:36]|h Sammler Kojo sagt: Gut gemacht, Altery!",
-					["serverTime"] = 1598769155,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66532.736,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [88]
-				{
-					["message"] = "|Hpratcopy|h[09:32:36]|h Ihr erhaltet: |cffffffff|Hcurrency:1560:0|h[Kriegsressourcen]|h|r x52.",
-					["serverTime"] = 1598769155,
-					["r"] = 0.2745098173618317,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66533.436,
-					["g"] = 0.4666666984558106,
-					["b"] = 0.6666666865348816,
-				}, -- [89]
-				{
-					["message"] = "|Hpratcopy|h[09:33:02]|h Ihr erhaltet Beute: |cffffffff|Hitem:152507::::::::120:259::::::|h[Akundas Biss]|h|rx5.",
-					["serverTime"] = 1598769181,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66559.23,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [90]
-				{
-					["message"] = "|Hpratcopy|h[09:33:35]|h Vorrik sagt: In der Nähe lauert eine gefährliche Bedrohung. Vernichtet sie, bevor ihr noch mehr Unschuldige zum Opfer fallen.",
-					["serverTime"] = 1598769214,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66592.485,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [91]
-				{
-					["message"] = "|Hpratcopy|h[09:33:49]|h Carsten sagt: Vorsicht... eine gefährliche Kreatur ist in der Nähe. Bewahrt Ruhe und streckt sie nieder, bevor sie entkommt!",
-					["serverTime"] = 1598769228,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66605.88100000001,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [92]
-				{
-					["message"] = "|Hpratcopy|h[09:33:58]|h Zunashi der Verbannte sagt: Aufsteh'n, meine Herzchen! Vernichtet den Eindringling!",
-					["serverTime"] = 1598769237,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66614.89600000001,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [93]
-				{
-					["message"] = "|Hpratcopy|h[09:34:19]|h Zunashi der Verbannte sagt: Meine Knochen werd'n sich wieder erheb'n.",
-					["serverTime"] = 1598769258,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66635.657,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [94]
-				{
-					["message"] = "|Hpratcopy|h[09:34:19]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 11 verbessert.",
-					["serverTime"] = 1598769258,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66635.761,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [95]
-				{
-					["message"] = "|Hpratcopy|h[09:34:19]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 120 verbessert.",
-					["serverTime"] = 1598769258,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66635.761,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [96]
-				{
-					["message"] = "|Hpratcopy|h[09:34:19]|h Ihr bekommt einen Gegenstand: |cff0070dd|Hitem:161119::::::::120:259::25:4:4802:4803:1602:4785:::|h[Ravasaurusschädelschmuckstück]|h|r.",
-					["serverTime"] = 1598769258,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66635.874,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [97]
-				{
-					["message"] = "|Hpratcopy|h[09:34:20]|h Carsten sagt: Im Dritten Krieg hätte ich jemanden wie Euch an meiner Seite gebrauchen können. Exzellente Arbeit.",
-					["serverTime"] = 1598769259,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66637.448,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [98]
-				{
-					["message"] = "|Hpratcopy|h[09:34:32]|h Ihr bekommt einen Gegenstand: |cff1eff00|Hcurrency:1553:48|h[Winziger Azeritspan]|h|r.",
-					["serverTime"] = 1598769271,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66649.556,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [99]
-				{
-					["message"] = "|Hpratcopy|h[09:34:32]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 48 Artefaktmacht.",
-					["serverTime"] = 1598769271,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66649.556,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [100]
-				{
-					["message"] = "|Hpratcopy|h[09:34:33]|h Ihr erhaltet Beute: |cffffffff|Hitem:152576::::::::120:259::::::|h[Gischtvernebeltes Leinen]|h|rx3.",
-					["serverTime"] = 1598769272,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66649.621,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [101]
-				{
-					["message"] = "|Hpratcopy|h[09:34:33]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:155608::::::::120:259::::::|h[Entweihter Knochen]|h|rx2.",
-					["serverTime"] = 1598769272,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66649.705,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [102]
-				{
-					["message"] = "|Hpratcopy|h[09:34:34]|h Ihr plündert 60 Silber, 17 Kupfer",
-					["serverTime"] = 1598769273,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						7, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66650.637,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [103]
-				{
-					["message"] = "|Hpratcopy|h[09:37:36]|h Carsten sagt: Ich habe Berichte über einen gefährlichen Gegner in Eurer Nähe erhalten. Schaltet ihn aus, aber macht Euch auf Überraschungen gefasst.",
-					["serverTime"] = 1598769455,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66832.735,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [104]
-				{
-					["message"] = "|Hpratcopy|h[09:38:13]|h Carsten sagt: Vorsicht... eine gefährliche Kreatur ist in der Nähe. Bewahrt Ruhe und streckt sie nieder, bevor sie entkommt!",
-					["serverTime"] = 1598769492,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66870.572,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [105]
-				{
-					["message"] = "|Hpratcopy|h[09:38:28]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 121 verbessert.",
-					["serverTime"] = 1598769507,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66884.857,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [106]
-				{
-					["message"] = "|Hpratcopy|h[09:38:28]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 120 verbessert.",
-					["serverTime"] = 1598769507,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66884.857,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [107]
-				{
-					["message"] = "|Hpratcopy|h[09:38:28]|h Carsten sagt: Der Feind wurde zur Strecke gebracht. Eine Schande, dass es so grausam enden musste, aber Ihr habt getan, was getan werden musste.",
-					["serverTime"] = 1598769507,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66885.23700000001,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [108]
-				{
-					["message"] = "|Hpratcopy|h[09:38:29]|h Ihr bekommt einen Gegenstand: |cff1eff00|Hcurrency:1553:45|h[Winziger Azeritspan]|h|r.",
-					["serverTime"] = 1598769508,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66886,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [109]
-				{
-					["message"] = "|Hpratcopy|h[09:38:29]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 45 Artefaktmacht.",
-					["serverTime"] = 1598769508,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66886,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [110]
-				{
-					["message"] = "|Hpratcopy|h[09:38:29]|h Ihr erhaltet Beute: |cff9d9d9d|Hitem:155598::::::::120:259::::::|h[Abgetrennte Mandibel]|h|r.",
-					["serverTime"] = 1598769508,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66886.173,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [111]
-				{
-					["message"] = "|Hpratcopy|h[09:41:06]|h Schriftrollengelehrte Nola sagt: Bevor junge Tortollaner ihre erste Schriftrolle aufsetzen können, müssen sie zunächst die Grundformen erlernen. Könnt Ihr es diesen Jungspunden beibringen?",
-					["serverTime"] = 1598769665,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67043.384,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [112]
-				{
-					["message"] = "|Hpratcopy|h[09:41:27]|h Euer Ruf bei der Fraktion '7. Legion' hat sich um 11 verbessert.",
-					["serverTime"] = 1598769686,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67064.344,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [113]
-				{
-					["message"] = "|Hpratcopy|h[09:41:27]|h Euer Ruf bei der Fraktion 'Tortollanische Sucher' hat sich um 280 verbessert.",
-					["serverTime"] = 1598769686,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67064.344,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [114]
-				{
-					["message"] = "|Hpratcopy|h[09:41:27]|h Euer Ruf bei der Fraktion 'Prachtmeeradmiralität' hat sich um 120 verbessert.",
-					["serverTime"] = 1598769686,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67064.344,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [115]
-				{
-					["message"] = "|Hpratcopy|h[09:41:27]|h Schriftrollengelehrte Nola sagt: Eure Linienführung beeindruckt die Kinder. Schaut Euch diese leuchtenden Augen an.",
-					["serverTime"] = 1598769686,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67064.525,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [116]
-				{
-					["message"] = "|Hpratcopy|h[09:41:28]|h Ihr erhaltet: |cffffffff|Hcurrency:1560:0|h[Kriegsressourcen]|h|r x78.",
-					["serverTime"] = 1598769687,
-					["r"] = 0.2745098173618317,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67065.347,
-					["g"] = 0.4666666984558106,
-					["b"] = 0.6666666865348816,
-				}, -- [117]
-				{
-					["message"] = "|Hpratcopy|h[09:43:11]|h Quest angenommen: Wut des Sturms",
-					["serverTime"] = 1598769790,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67168.425,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [118]
-				{
-					["message"] = "|Hpratcopy|h[09:43:12]|h Genn Graumähne sagt: Das Sturmsangtal hat lange genug unter dem Gestank der Horde gelitten. Setzt ihrer absurden Invasion ein Ende – egal wie.",
-					["serverTime"] = 1598769791,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67168.933,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [119]
-				{
-					["message"] = "|Hpratcopy|h[09:43:43]|h Schriftrollengelehrte Nola sagt: Diese kleinen Krabben benötigen Hilfe. Ich kann kein Lebewesen leiden sehen. Würdet Ihr ihnen zur Hand gehen?",
-					["serverTime"] = 1598769822,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67199.951,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [120]
-				{
-					["message"] = "|Hpratcopy|h[09:43:49]|h Ihr erhaltet Beute: |cffffffff|Hitem:152511::::::::120:259::::::|h[Meeresstängel]|h|rx5.",
-					["serverTime"] = 1598769828,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67206.461,
-					["g"] = 0.9686275124549866,
-					["b"] = 0.9372549653053284,
-				}, -- [121]
-				{
-					["message"] = "|Hpratcopy|h[09:44:05]|h Schriftrollengelehrte Nola sagt: Der Kreislauf des Lebens kann grausam sein.",
-					["serverTime"] = 1598769844,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67222.382,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [122]
-				{
-					["message"] = "|Hpratcopy|h[09:44:48]|h Schriftrollengelehrte Nola sagt: Noch eine Schildkröte hat es ins Wasser geschafft!",
-					["serverTime"] = 1598769888,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67265.189,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [123]
-				{
-					["message"] = "|Hpratcopy|h[09:45:06]|h Schriftrollengelehrte Nola sagt: Der Kreislauf des Lebens kann grausam sein.",
-					["serverTime"] = 1598769906,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67283.621,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [124]
-				{
-					["message"] = "|Hpratcopy|h[09:45:14]|h Schriftrollengelehrte Nola sagt: Noch eine Schildkröte hat es ins Wasser geschafft!",
-					["serverTime"] = 1598769914,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67290.882,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [125]
-				{
-					["message"] = "|Hpratcopy|h[09:45:17]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq8|k:21:205:BN_INLINE_TOAST_ALERT:0|h[|Kq8|k]|h ist jetzt offline.",
-					["serverTime"] = 1598769917,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						10, -- [3]
-						15, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67293.923,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [126]
-				{
-					["message"] = "|Hpratcopy|h[09:45:18]|h Ihr bekommt einen Gegenstand: |cff1eff00|Hcurrency:1553:196|h[Kleine Azeritformation]|h|r.",
-					["serverTime"] = 1598769918,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67294.657,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [127]
-				{
-					["message"] = "|Hpratcopy|h[09:45:18]|h |cffe6cc80|Hitem:158075::::::::120:259::11:4:4932:4933:6316:1638:::|h[Herz von Azeroth]|h|r erhält 196 Artefaktmacht.",
-					["serverTime"] = 1598769918,
-					["r"] = 0.9137255549430847,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 67294.657,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [128]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

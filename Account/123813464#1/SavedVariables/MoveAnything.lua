@@ -26,21 +26,21 @@ MADB = {
 						277.999755859375, -- [5]
 					},
 				},
-				["ZoneAbilityFrame"] = {
+				["TalkingHeadFrame"] = {
 					["orgPos"] = {
 						"BOTTOM", -- [1]
 						"UIParent", -- [2]
 						"BOTTOM", -- [3]
 						0, -- [4]
-						120, -- [5]
+						95.99999237060547, -- [5]
 					},
-					["name"] = "ZoneAbilityFrame",
+					["name"] = "TalkingHeadFrame",
 					["pos"] = {
 						"BOTTOM", -- [1]
 						"UIParent", -- [2]
 						"BOTTOM", -- [3]
-						-442.0003509521484, -- [4]
-						352.9999389648438, -- [5]
+						-669.000466585159, -- [4]
+						258.000061035156, -- [5]
 					},
 				},
 				["PlayerPowerBarAltMover"] = {
@@ -58,23 +58,6 @@ MADB = {
 						"BOTTOM", -- [3]
 						-716.000415802002, -- [4]
 						274.9996643066406, -- [5]
-					},
-				},
-				["TalkingHeadFrame"] = {
-					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						0, -- [4]
-						96, -- [5]
-					},
-					["name"] = "TalkingHeadFrame",
-					["pos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						-669.000466585159, -- [4]
-						258.000061035156, -- [5]
 					},
 				},
 				["CastingBarFrame"] = {
@@ -97,8 +80,8 @@ MADB = {
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
 }

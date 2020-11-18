@@ -11,6 +11,9 @@ END
 VER 3 0000000000000021 "BarrelMark" "132773"
 /run SetRaidTarget("mouseover",13)
 END
+VER 3 000000000000003F "BlueMark" "INV_MISC_QUESTIONMARK"
+#showtooltip Непроницаемо-черный камень Плети
+END
 VER 3 000000000000002B "Broom" "136103"
 #showtooltip Волшебная метла
 /dismount [mounted]
@@ -43,6 +46,9 @@ VER 3 000000000000002D "Fire" "1392549"
 /stopcasting
 /cast Пламя феникса
 END
+VER 3 000000000000003E "GreenMark" "INV_MISC_QUESTIONMARK"
+#showtooltip Омраченный камень Плети
+END
 VER 3 0000000000000016 "GroundMount" "Ability_Druid_TwilightsWrath"
 /cast [modifier] Большой як для путешествий
 /castrandom [nomod,nomounted] Большой кодо Хмельного фестиваля, Ископаемый ящер, Лазурный ездовой журавль, Повелитель воронов, Огненный боевой конь
@@ -54,6 +60,9 @@ VER 3 0000000000000026 "GuardianSpirit" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000032 "Hide" "132208"
 /ц Йети
+END
+VER 3 000000000000003D "HideCastBar" "INV_MISC_QUESTIONMARK"
+/run SetCVar("showTargetCastbar", 0) ReloadUI()
 END
 VER 3 000000000000003C "Kiss" "897141"
 /kiss
@@ -87,10 +96,10 @@ VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва восстановления
 END
-VER 3 0000000000000036 "Pull" "236307"
+VER 3 0000000000000031 "Pull" "136103"
 /pull 3
 END
-VER 3 0000000000000031 "Pull" "136103"
+VER 3 0000000000000036 "Pull" "236307"
 /pull 3
 END
 VER 3 0000000000000034 "Reload" "2115306"

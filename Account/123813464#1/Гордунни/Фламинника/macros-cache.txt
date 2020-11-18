@@ -17,8 +17,12 @@ VER 3 0100000000000006 "Demoralize" "INV_MISC_QUESTIONMARK"
 /cast Деморализующий крик
 END
 VER 3 010000000000000B "Intercept" "INV_MISC_QUESTIONMARK"
-#showtooltip Перехват
-/cast [target=targettarget] Перехват
+#showtooltip Вмешательство
+/cast [@mouseove,help] [target=targettarget] Вмешательство
+END
+VER 3 010000000000000D "Intercharge" "INV_MISC_QUESTIONMARK"
+#showtooltip Рывок
+/cast [@mouseover,help][help] Вмешательство;Рывок
 END
 VER 3 0100000000000007 "Judgement" "INV_MISC_QUESTIONMARK"
 #showtooltip Правосудие Света
@@ -41,10 +45,10 @@ VER 3 010000000000000A "Taunt" "132095"
 /w Xynn-Durotan Taunt
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Фла[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Фла[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000008 "XynnKick" "132279"
 /w Xynn-Durotan Your kick
