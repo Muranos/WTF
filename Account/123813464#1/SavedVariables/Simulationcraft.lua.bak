@@ -12,11 +12,11 @@ SimulationCraftDB = {
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
-		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Elavi - Durotan"] = "Elavi - Durotan",
+		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 		["Delery - Durotan"] = "Delery - Durotan",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
@@ -71,15 +71,6 @@ SimulationCraftDB = {
 		},
 		["Элави - Борейская тундра"] = {
 		},
-		["Elavi - Durotan"] = {
-		},
-		["Эрника - Борейская тундра"] = {
-		},
-		["Flaminika - Silvermoon"] = {
-			["minimap"] = {
-				["minimapPos"] = 108.9464399997288,
-			},
-		},
 		["Зонна - Борейская тундра"] = {
 			["minimap"] = {
 				["minimapPos"] = 115.4265923719718,
@@ -89,6 +80,15 @@ SimulationCraftDB = {
 			["minimap"] = {
 				["minimapPos"] = 153.4348647020085,
 			},
+		},
+		["Flaminika - Silvermoon"] = {
+			["minimap"] = {
+				["minimapPos"] = 108.9464399997288,
+			},
+		},
+		["Elavi - Durotan"] = {
+		},
+		["Эрника - Борейская тундра"] = {
 		},
 		["Delery - Durotan"] = {
 			["minimap"] = {

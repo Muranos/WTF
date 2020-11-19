@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0405,
+	["LastVersion"] = 2.0406,
+	["LastPlayerFullName"] = "Алтери-Борейская тундра",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 157977,
@@ -90,10 +93,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159132:5965:::::::120:259::16:4:5010:1602:5850:4783:::|h[Засапожный кинжал Джолли]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Алтери-Борейская тундра",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128870] = {
 			["Relics"] = {
@@ -113,6 +112,7 @@ PawnOptions = {
 			["Name"] = "Убийцы Королей",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "ROGUE",

@@ -2565,9 +2565,12 @@ EncounterDetailsDB = {
 		},
 		[306828] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Тралл",
 		},
@@ -4647,13 +4650,13 @@ EncounterDetailsDB = {
 	},
 	["emotes"] = {
 		{
-			["boss"] = "Аллерия Ветрокрылая",
+			["boss"] = "Тралл Падший",
 		}, -- [1]
 		{
-			["boss"] = "Магистр Умбрий",
+			["boss"] = "Рексар",
 		}, -- [2]
 		{
-			["boss"] = "Надсмотрщик Ул'рок",
+			["boss"] = "Инквизитор Гншал",
 		}, -- [3]
 	},
 }

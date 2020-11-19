@@ -7,7 +7,7 @@ VER 3 0100000000000002 "FLExtended" "Ability_Druid_Eclipse"
 END
 VER 3 010000000000000A "Fortitude" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@player] Слово силы: Стойкость
+/cast [@mouseover, help, nodead] Слово силы: Стойкость; [help, nodead] Слово силы: Стойкость; [@player] Слово силы: Стойкость
 END
 VER 3 0100000000000006 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip

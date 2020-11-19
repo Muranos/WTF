@@ -12,13 +12,13 @@ HandyNotesDB = {
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
@@ -54,19 +54,19 @@ HandyNotesDB = {
 		},
 		["Тиаз - Борейская тундра"] = {
 		},
-		["Элави - Борейская тундра"] = {
+		["Delery - Durotan"] = {
 		},
 		["Elavi - Durotan"] = {
 		},
 		["Эрника - Борейская тундра"] = {
 		},
-		["Flaminika - Silvermoon"] = {
+		["Элави - Борейская тундра"] = {
 		},
 		["Зонна - Борейская тундра"] = {
 		},
 		["Flaminika - Durotan"] = {
 		},
-		["Delery - Durotan"] = {
+		["Flaminika - Silvermoon"] = {
 		},
 		["Эстрея - Борейская тундра"] = {
 		},
@@ -102,13 +102,13 @@ HandyNotes_HandyNotesDB = {
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
@@ -121,371 +121,371 @@ HandyNotes_HandyNotesDB = {
 	["global"] = {
 		[885] = {
 			[60154548] = {
+				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Орикс",
-				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[1161] = {
 			[66846405] = {
+				["title"] = "Leeroy Jenkins",
 				["cont"] = false,
 				["icon"] = 1,
-				["title"] = "Leeroy Jenkins",
 				["desc"] = "66,64",
 			},
 		},
 		[680] = {
 			[41036936] = {
+				["title"] = "House",
 				["cont"] = false,
 				["icon"] = 28,
-				["title"] = "House",
 				["desc"] = "",
 			},
 			[46002800] = {
+				["title"] = "Blue",
 				["cont"] = false,
 				["icon"] = 6,
-				["title"] = "Blue",
 				["desc"] = "",
 			},
 			[43008100] = {
+				["title"] = "Yellow",
 				["cont"] = false,
 				["icon"] = 1,
-				["title"] = "Yellow",
 				["desc"] = "",
 			},
 			[19004600] = {
+				["title"] = "Green",
 				["cont"] = false,
 				["icon"] = 4,
-				["title"] = "Green",
 				["desc"] = "",
 			},
 			[71006200] = {
+				["title"] = "Red",
 				["cont"] = false,
 				["icon"] = 7,
-				["title"] = "Red",
 				["desc"] = "",
 			},
 		},
 		[1527] = {
 			[42007000] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[46004800] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[76006700] = {
+				["icon"] = 7,
 				["title"] = "Альпака",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[63001400] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[70003900] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = true,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[30002900] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[53001900] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[37000924] = {
+				["cont"] = false,
 				["icon"] = 7,
 				["title"] = "Alpaka",
-				["cont"] = false,
 				["desc"] = "",
 			},
 			[63005200] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[55007000] = {
+				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 		},
 		[863] = {
 			[25004000] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[44009200] = {
+				["icon"] = 1,
 				["title"] = "Kwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[24009100] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[52784285] = {
+				["title"] = "Ква",
 				["cont"] = false,
 				["icon"] = 4,
-				["title"] = "Ква",
 				["desc"] = "",
 			},
 			[33436151] = {
+				["title"] = "Ква",
 				["cont"] = false,
 				["icon"] = 4,
-				["title"] = "Ква",
 				["desc"] = "",
 			},
 			[70885645] = {
+				["icon"] = 10,
 				["title"] = "Frog vendor",
 				["cont"] = false,
-				["icon"] = 10,
 				["desc"] = "",
 			},
 			[28008300] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[21006900] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[56006500] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[69005800] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[65005000] = {
+				["icon"] = 1,
 				["title"] = "Cwa",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 		},
 		[204] = {
 			[45001800] = {
+				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Little Carp",
-				["cont"] = false,
 				["desc"] = "",
 			},
 			[63984184] = {
+				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Gloomy Bluefin.",
-				["cont"] = false,
 				["desc"] = "",
 			},
 			[16008200] = {
+				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "The Blackfish",
-				["cont"] = false,
 				["desc"] = "",
 			},
 			[38667533] = {
+				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Нестабильная лилиовая чешуя",
-				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[864] = {
 			[38007100] = {
+				["icon"] = 1,
 				["title"] = "Board",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[48006250] = {
+				["icon"] = 1,
 				["title"] = "Board",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[38027090] = {
+				["icon"] = 7,
 				["title"] = "Board",
 				["cont"] = false,
-				["icon"] = 7,
 				["desc"] = "",
 			},
 			[27706212] = {
+				["icon"] = 3,
 				["title"] = "Loa",
 				["cont"] = false,
-				["icon"] = 3,
 				["desc"] = "",
 			},
 			[32096910] = {
+				["title"] = "Board",
 				["cont"] = false,
 				["icon"] = 7,
-				["title"] = "Board",
 				["desc"] = "",
 			},
 			[46806360] = {
+				["icon"] = 1,
 				["title"] = "Board",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[42226211] = {
+				["icon"] = 3,
 				["title"] = "Loa",
 				["cont"] = false,
-				["icon"] = 3,
 				["desc"] = "",
 			},
 			[55002130] = {
+				["icon"] = 1,
 				["title"] = "Board",
 				["cont"] = false,
-				["icon"] = 1,
 				["desc"] = "",
 			},
 			[49572457] = {
+				["icon"] = 3,
 				["title"] = "Loa",
 				["cont"] = false,
-				["icon"] = 3,
 				["desc"] = "",
 			},
 		},
 		[1355] = {
 			[45712409] = {
+				["cont"] = false,
 				["icon"] = 4,
 				["title"] = "Sline",
-				["cont"] = false,
 				["desc"] = "",
 			},
 			[55134877] = {
+				["cont"] = false,
 				["icon"] = 4,
 				["title"] = "Slime",
-				["cont"] = false,
 				["desc"] = "Done",
 			},
 			[71712569] = {
+				["cont"] = false,
 				["icon"] = 4,
 				["title"] = "Slime",
-				["cont"] = false,
 				["desc"] = "Done",
 			},
 			[60663194] = {
+				["title"] = "Laboratory",
 				["cont"] = false,
 				["icon"] = 3,
-				["title"] = "Laboratory",
-				["desc"] = "",
-			},
-		},
-		[1165] = {
-			[54510934] = {
-				["icon"] = 8,
-				["title"] = "Терродактиль",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[49541503] = {
-				["icon"] = 4,
-				["title"] = "Терродактиль",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[379] = {
-			[57007500] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Хавак",
-				["desc"] = "",
-			},
-			[73007700] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Зей Изгой",
-				["desc"] = "",
-			},
-		},
-		[388] = {
-			[62553425] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Кахтир",
-				["desc"] = "",
-			},
-			[54006300] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Норлакс",
-				["desc"] = "",
-			},
-		},
-		[201] = {
-			[60145864] = {
-				["icon"] = 6,
-				["title"] = "Ol’ Fishbreath",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[205] = {
-			[53992390] = {
-				["icon"] = 6,
-				["title"] = "Manta Stargazer",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[45072044] = {
-				["icon"] = 6,
-				["title"] = "Sir Finley Mrrgglton",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[54008800] = {
-				["icon"] = 6,
-				["title"] = "Crimson Angerfish",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[69674678] = {
-				["icon"] = 6,
-				["title"] = "Lil’ Whalley",
-				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[1530] = {
 			[21176235] = {
+				["cont"] = false,
 				["icon"] = 3,
 				["title"] = "Amber chest",
+				["desc"] = "",
+			},
+		},
+		[388] = {
+			[62553425] = {
+				["title"] = "Кахтир",
 				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[54006300] = {
+				["title"] = "Норлакс",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+		},
+		[201] = {
+			[60145864] = {
+				["cont"] = false,
+				["icon"] = 6,
+				["title"] = "Ol’ Fishbreath",
+				["desc"] = "",
+			},
+		},
+		[205] = {
+			[54008800] = {
+				["cont"] = false,
+				["icon"] = 6,
+				["title"] = "Crimson Angerfish",
+				["desc"] = "",
+			},
+			[45072044] = {
+				["cont"] = false,
+				["icon"] = 6,
+				["title"] = "Sir Finley Mrrgglton",
+				["desc"] = "",
+			},
+			[69674678] = {
+				["cont"] = false,
+				["icon"] = 6,
+				["title"] = "Lil’ Whalley",
+				["desc"] = "",
+			},
+			[53992390] = {
+				["cont"] = false,
+				["icon"] = 6,
+				["title"] = "Manta Stargazer",
+				["desc"] = "",
+			},
+		},
+		[1165] = {
+			[54510934] = {
+				["cont"] = false,
+				["icon"] = 8,
+				["title"] = "Терродактиль",
+				["desc"] = "",
+			},
+			[49541503] = {
+				["cont"] = false,
+				["icon"] = 4,
+				["title"] = "Терродактиль",
+				["desc"] = "",
+			},
+		},
+		[379] = {
+			[57007500] = {
+				["title"] = "Хавак",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[73007700] = {
+				["title"] = "Зей Изгой",
+				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 		},
@@ -513,19 +513,19 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Тиаз - Борейская тундра"] = {
 		},
-		["Элави - Борейская тундра"] = {
+		["Delery - Durotan"] = {
 		},
 		["Elavi - Durotan"] = {
 		},
 		["Эрника - Борейская тундра"] = {
 		},
-		["Flaminika - Silvermoon"] = {
+		["Элави - Борейская тундра"] = {
 		},
 		["Зонна - Борейская тундра"] = {
 		},
 		["Flaminika - Durotan"] = {
 		},
-		["Delery - Durotan"] = {
+		["Flaminika - Silvermoon"] = {
 		},
 		["Эстрея - Борейская тундра"] = {
 		},

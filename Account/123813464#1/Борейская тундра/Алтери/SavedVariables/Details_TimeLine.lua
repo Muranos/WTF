@@ -7,8 +7,7 @@ DetailsTimeLineDB = {
 	["IndividualSpells"] = {
 	},
 	["useicons"] = true,
-	["cooldowns_timeline"] = {
-	},
+	["window_scale"] = 1,
 	["backdrop_color"] = {
 		0, -- [1]
 		0, -- [2]
@@ -19,7 +18,8 @@ DetailsTimeLineDB = {
 	},
 	["debuff_timeline"] = {
 	},
-	["window_scale"] = 1,
+	["cooldowns_timeline"] = {
+	},
 	["BossSpellCast"] = {
 	},
 }

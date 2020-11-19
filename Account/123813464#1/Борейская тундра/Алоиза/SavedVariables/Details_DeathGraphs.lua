@@ -5,7 +5,240 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Панцирь Н'Зота",
 		["id"] = 2366,
-		["diff"] = 15,
+		["player_db"] = {
+			["Bigbrem-Ravencrest"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Bigbrem-Ravencrest",
+				["overall"] = {
+				},
+			},
+			["Стрыган-ВечнаяПесня"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Стрыган-ВечнаяПесня",
+				["overall"] = {
+				},
+			},
+			["Tjennis-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Tjennis-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Chýra-Malygos"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Chýra-Malygos",
+				["overall"] = {
+				},
+			},
+			["Luxipher-AzjolNerub"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Luxipher-AzjolNerub",
+				["overall"] = {
+				},
+			},
+			["Tinderbolt-Malygos"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Tinderbolt-Malygos",
+				["overall"] = {
+				},
+			},
+			["Молфас-Гордунни"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Молфас-Гордунни",
+				["overall"] = {
+				},
+			},
+			["Kateoflight-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Kateoflight-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Сотворение-Гордунни"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Сотворение-Гордунни",
+				["overall"] = {
+				},
+			},
+			["Алоиза"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Алоиза",
+				["overall"] = {
+				},
+			},
+			["Adrélf-Anachronos"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Adrélf-Anachronos",
+				["overall"] = {
+				},
+			},
+			["Dæywalkerxd-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Dæywalkerxd-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Lennier-Arygos"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Lennier-Arygos",
+				["overall"] = {
+				},
+			},
+			["Demonling-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Demonling-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Tegnéll-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Tegnéll-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Thýra-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Thýra-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Adriheal-Hyjal"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Adriheal-Hyjal",
+				["overall"] = {
+				},
+			},
+			["Lemurian-Exodar"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Lemurian-Exodar",
+				["overall"] = {
+				},
+			},
+			["Granpablo-Exodar"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Granpablo-Exodar",
+				["overall"] = {
+				},
+			},
+			["Superchu-Antonidas"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Superchu-Antonidas",
+				["overall"] = {
+				},
+			},
+			["Antarè-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Antarè-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Kernelpanic-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Kernelpanic-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Esthon-Exodar"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Esthon-Exodar",
+				["overall"] = {
+				},
+			},
+			["Koozi-Ravencrest"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Koozi-Ravencrest",
+				["overall"] = {
+				},
+			},
+			["Kraattooss-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Kraattooss-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Kartofflhodn-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Kartofflhodn-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Stonedpandi-Antonidas"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Stonedpandi-Antonidas",
+				["overall"] = {
+				},
+			},
+			["Palamenneke-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Palamenneke-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Librask-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Librask-Silvermoon",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 11,
@@ -14,251 +247,235 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Панцирь Н'Зота",
-			["encounter"] = "Панцирь Н'Зота",
-			["ej_instance_id"] = 1180,
 			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Панцирь Н'Зота",
 		},
-		["player_db"] = {
-			["Bigbrem-Ravencrest"] = {
-				["name"] = "Bigbrem-Ravencrest",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Стрыган-ВечнаяПесня"] = {
-				["name"] = "Стрыган-ВечнаяПесня",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tegnéll-Silvermoon"] = {
-				["name"] = "Tegnéll-Silvermoon",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Dæywalkerxd-Aegwynn"] = {
-				["name"] = "Dæywalkerxd-Aegwynn",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Luxipher-AzjolNerub"] = {
-				["name"] = "Luxipher-AzjolNerub",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Lennier-Arygos"] = {
-				["name"] = "Lennier-Arygos",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Librask-Silvermoon"] = {
-				["name"] = "Librask-Silvermoon",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kraattooss-KhazModan"] = {
-				["name"] = "Kraattooss-KhazModan",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Сотворение-Гордунни"] = {
-				["name"] = "Сотворение-Гордунни",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Алоиза"] = {
-				["name"] = "Алоиза",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Lemurian-Exodar"] = {
-				["name"] = "Lemurian-Exodar",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Palamenneke-Silvermoon"] = {
-				["name"] = "Palamenneke-Silvermoon",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Stonedpandi-Antonidas"] = {
-				["name"] = "Stonedpandi-Antonidas",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Demonling-Silvermoon"] = {
-				["name"] = "Demonling-Silvermoon",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kartofflhodn-Aegwynn"] = {
-				["name"] = "Kartofflhodn-Aegwynn",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Thýra-Aegwynn"] = {
-				["name"] = "Thýra-Aegwynn",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Koozi-Ravencrest"] = {
-				["name"] = "Koozi-Ravencrest",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Adriheal-Hyjal"] = {
-				["name"] = "Adriheal-Hyjal",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Granpablo-Exodar"] = {
-				["name"] = "Granpablo-Exodar",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Superchu-Antonidas"] = {
-				["name"] = "Superchu-Antonidas",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Antarè-Aegwynn"] = {
-				["name"] = "Antarè-Aegwynn",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kernelpanic-Aegwynn"] = {
-				["name"] = "Kernelpanic-Aegwynn",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Esthon-Exodar"] = {
-				["name"] = "Esthon-Exodar",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Adrélf-Anachronos"] = {
-				["name"] = "Adrélf-Anachronos",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kateoflight-Silvermoon"] = {
-				["name"] = "Kateoflight-Silvermoon",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Молфас-Гордунни"] = {
-				["name"] = "Молфас-Гордунни",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tinderbolt-Malygos"] = {
-				["name"] = "Tinderbolt-Malygos",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Chýra-Malygos"] = {
-				["name"] = "Chýra-Malygos",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tjennis-Silvermoon"] = {
-				["name"] = "Tjennis-Silvermoon",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "deaths",
 		["name"] = "Н'Зот Заразитель",
 		["id"] = 2375,
-		["diff"] = 15,
+		["player_db"] = {
+			["Kouxii-Ravencrest"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Kouxii-Ravencrest",
+				["overall"] = {
+				},
+			},
+			["Tjennis-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Tjennis-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Стрыган-ВечнаяПесня"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Стрыган-ВечнаяПесня",
+				["overall"] = {
+				},
+			},
+			["Алоиза"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Алоиза",
+				["overall"] = {
+				},
+			},
+			["Dæywalkerxd-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Dæywalkerxd-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Gomachan-Doomhammer"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Gomachan-Doomhammer",
+				["overall"] = {
+				},
+			},
+			["Сотворение-Гордунни"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Сотворение-Гордунни",
+				["overall"] = {
+				},
+			},
+			["Tinderbolt-Malygos"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Tinderbolt-Malygos",
+				["overall"] = {
+				},
+			},
+			["Молфас-Гордунни"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Молфас-Гордунни",
+				["overall"] = {
+				},
+			},
+			["Palamenneke-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Palamenneke-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Stonedpandi-Antonidas"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Stonedpandi-Antonidas",
+				["overall"] = {
+				},
+			},
+			["Консултьмы-ЧерныйШрам"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Консултьмы-ЧерныйШрам",
+				["overall"] = {
+				},
+			},
+			["Tegnéll-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Tegnéll-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Thýra-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Thýra-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Poulpibear-Archimonde"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Poulpibear-Archimonde",
+				["overall"] = {
+				},
+			},
+			["Wearebetter-Norgannon"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Wearebetter-Norgannon",
+				["overall"] = {
+				},
+			},
+			["Granpablo-Exodar"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Granpablo-Exodar",
+				["overall"] = {
+				},
+			},
+			["Superchu-Antonidas"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Superchu-Antonidas",
+				["overall"] = {
+				},
+			},
+			["Míá-Dalaran"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Míá-Dalaran",
+				["overall"] = {
+				},
+			},
+			["Kraattooss-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Kraattooss-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Esthon-Exodar"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Esthon-Exodar",
+				["overall"] = {
+				},
+			},
+			["Adrélf-Anachronos"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Adrélf-Anachronos",
+				["overall"] = {
+				},
+			},
+			["Kateoflight-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Kateoflight-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Malthael-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Malthael-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Demonling-Silvermoon"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Demonling-Silvermoon",
+				["overall"] = {
+				},
+			},
+			["Kernelpanic-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Kernelpanic-Aegwynn",
+				["overall"] = {
+				},
+			},
+			["Bigbrem-Ravencrest"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Bigbrem-Ravencrest",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 12,
@@ -267,235 +484,27 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Н'Зот Заразитель",
-			["encounter"] = "Н'Зот Заразитель",
-			["ej_instance_id"] = 1180,
 			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Н'Зот Заразитель",
 		},
-		["player_db"] = {
-			["Kouxii-Ravencrest"] = {
-				["name"] = "Kouxii-Ravencrest",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tjennis-Silvermoon"] = {
-				["name"] = "Tjennis-Silvermoon",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Стрыган-ВечнаяПесня"] = {
-				["name"] = "Стрыган-ВечнаяПесня",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Консултьмы-ЧерныйШрам"] = {
-				["name"] = "Консултьмы-ЧерныйШрам",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Bigbrem-Ravencrest"] = {
-				["name"] = "Bigbrem-Ravencrest",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Gomachan-Doomhammer"] = {
-				["name"] = "Gomachan-Doomhammer",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Сотворение-Гордунни"] = {
-				["name"] = "Сотворение-Гордунни",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tinderbolt-Malygos"] = {
-				["name"] = "Tinderbolt-Malygos",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kernelpanic-Aegwynn"] = {
-				["name"] = "Kernelpanic-Aegwynn",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Palamenneke-Silvermoon"] = {
-				["name"] = "Palamenneke-Silvermoon",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Stonedpandi-Antonidas"] = {
-				["name"] = "Stonedpandi-Antonidas",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Demonling-Silvermoon"] = {
-				["name"] = "Demonling-Silvermoon",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tegnéll-Silvermoon"] = {
-				["name"] = "Tegnéll-Silvermoon",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Thýra-Aegwynn"] = {
-				["name"] = "Thýra-Aegwynn",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Poulpibear-Archimonde"] = {
-				["name"] = "Poulpibear-Archimonde",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Wearebetter-Norgannon"] = {
-				["name"] = "Wearebetter-Norgannon",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Granpablo-Exodar"] = {
-				["name"] = "Granpablo-Exodar",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Superchu-Antonidas"] = {
-				["name"] = "Superchu-Antonidas",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Esthon-Exodar"] = {
-				["name"] = "Esthon-Exodar",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kateoflight-Silvermoon"] = {
-				["name"] = "Kateoflight-Silvermoon",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Míá-Dalaran"] = {
-				["name"] = "Míá-Dalaran",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Adrélf-Anachronos"] = {
-				["name"] = "Adrélf-Anachronos",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kraattooss-KhazModan"] = {
-				["name"] = "Kraattooss-KhazModan",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Malthael-Silvermoon"] = {
-				["name"] = "Malthael-Silvermoon",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Молфас-Гордунни"] = {
-				["name"] = "Молфас-Гордунни",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Dæywalkerxd-Aegwynn"] = {
-				["name"] = "Dæywalkerxd-Aegwynn",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Алоиза"] = {
-				["name"] = "Алоиза",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 	["236815"] = {
 		["hash"] = "236815",
 		["type"] = "deaths",
 		["name"] = "Гневион",
 		["id"] = 2368,
-		["diff"] = 15,
+		["player_db"] = {
+			["Dæywalkerxd-Aegwynn"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Dæywalkerxd-Aegwynn",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 1,
@@ -505,20 +514,11 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Гневион",
 			["diff"] = 15,
-			["id"] = 2329,
 			["ej_instance_id"] = 1180,
+			["id"] = 2329,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Dæywalkerxd-Aegwynn"] = {
-				["name"] = "Dæywalkerxd-Aegwynn",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 }
 DeathGraphsDBEndurance = {
@@ -527,30 +527,18 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Панцирь Н'Зота",
 		["id"] = 2366,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 11,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["id"] = 2337,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Панцирь Н'Зота",
-			["encounter"] = "Панцирь Н'Зота",
-			["ej_instance_id"] = 1180,
-			["diff"] = 15,
-		},
 		["player_db"] = {
 			["Tjennis-Silvermoon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Chýra-Malygos"] = {
 				["encounters"] = 3,
 				["points"] = 280,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						6, -- [1]
@@ -563,32 +551,32 @@ DeathGraphsDBEndurance = {
 						"Порождение безумия |cFFFF33334,023|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "DRUID",
 			},
 			["Bunddy-Blackmoore"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Gomachan-Doomhammer"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Tinderbolt-Malygos"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Молфас-Гордунни"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						8, -- [1]
@@ -596,11 +584,11 @@ DeathGraphsDBEndurance = {
 						"Распад психики(ДоТ) |cFFFF3333897|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Kernelpanic-Aegwynn"] = {
 				["encounters"] = 5,
 				["points"] = 490,
+				["class"] = "ROGUE",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -608,25 +596,25 @@ DeathGraphsDBEndurance = {
 						"Порождение безумия |cFFFF33333,686|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "ROGUE",
 			},
 			["Librask-Silvermoon"] = {
 				["encounters"] = 5,
 				["points"] = 500,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Lemurian-Exodar"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Superchu-Antonidas"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						8, -- [1]
@@ -634,18 +622,18 @@ DeathGraphsDBEndurance = {
 						"Покрытое наростами щупальце |cFFFF333337,567|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Antarè-Aegwynn"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Kraattooss-KhazModan"] = {
 				["encounters"] = 5,
 				["points"] = 490,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -653,25 +641,25 @@ DeathGraphsDBEndurance = {
 						"Кровавая опухоль |cFFFF33335,326|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Malthael-Silvermoon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Kouxii-Ravencrest"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Luxipher-AzjolNerub"] = {
 				["encounters"] = 5,
 				["points"] = 480,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -684,242 +672,11 @@ DeathGraphsDBEndurance = {
 						"Кошмарное антитело |cFFFF33331,674|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "PALADIN",
-			},
-			["Kartofflhodn-Aegwynn"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						2, -- [1]
-						123.346000000136, -- [2]
-						"Кошмарное антитело |cFFFF33331,766|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MAGE",
-			},
-			["Demonling-Silvermoon"] = {
-				["encounters"] = 5,
-				["points"] = 480,
-				["deaths"] = {
-					{
-						1, -- [1]
-						68.93599999998696, -- [2]
-						"Кошмарное антитело |cFFFF33331,449|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						142.6650000000373, -- [2]
-						"Порождение безумия |cFFFF33333,035|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Wearebetter-Norgannon"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Сотворение-Гордунни"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Алоиза"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Раск-ЧерныйШрам"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Dæywalkerxd-Aegwynn"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						7, -- [1]
-						82.77199999988079, -- [2]
-						"Порождение безумия |cFFFF33332,722|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Драконожрец-Ясеневыйлес"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Консултьмы-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Tegnéll-Silvermoon"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Thýra-Aegwynn"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Koozi-Ravencrest"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						5, -- [1]
-						476.3019999999087, -- [2]
-						"Раздирающее щупальце |cFFFF333342,323|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MAGE",
-			},
-			["Adriheal-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Granpablo-Exodar"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Cöntractor-TwistingNether"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Stonedpandi-Antonidas"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["deaths"] = {
-					{
-						6, -- [1]
-						115.3170000000391, -- [2]
-						"Атака ближнего боя |cFFFF33332,740|r", -- [3]
-					}, -- [1]
-					{
-						7, -- [1]
-						66.05099999997765, -- [2]
-						"Кошмарное антитело |cFFFF33331,329|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "MONK",
-			},
-			["Míá-Dalaran"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Esthon-Exodar"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						5, -- [1]
-						352.091999999946, -- [2]
-						"Буйство |cFFFF3333535|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PRIEST",
-			},
-			["Стрыган-ВечнаяПесня"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["deaths"] = {
-					{
-						6, -- [1]
-						119.4579999998678, -- [2]
-						"Атака ближнего боя |cFFFF3333351|r", -- [3]
-					}, -- [1]
-					{
-						8, -- [1]
-						361.7719999998808, -- [2]
-						"Взрыв разума |cFFFF33332,996|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Kateoflight-Silvermoon"] = {
-				["encounters"] = 5,
-				["points"] = 480,
-				["deaths"] = {
-					{
-						1, -- [1]
-						70.97200000006706, -- [2]
-						"Атака ближнего боя |cFFFF3333283|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						120.7070000001695, -- [2]
-						"Черный шрам |cFFFF333317,562|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Adrélf-Anachronos"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						3, -- [1]
-						38.10400000005029, -- [2]
-						"Покрытое наростами щупальце |cFFFF333337,220|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "DRUID",
-			},
-			["Lennier-Arygos"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Palamenneke-Silvermoon"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						3, -- [1]
-						85.01399999996647, -- [2]
-						"Порождение безумия |cFFFF33333,268|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PALADIN",
 			},
 			["Bigbrem-Ravencrest"] = {
 				["encounters"] = 5,
 				["points"] = 480,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -932,32 +689,263 @@ DeathGraphsDBEndurance = {
 						"Раздирающее щупальце |cFFFF333335,508|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "WARRIOR",
+			},
+			["Palamenneke-Silvermoon"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						3, -- [1]
+						85.01399999996647, -- [2]
+						"Порождение безумия |cFFFF33333,268|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Lennier-Arygos"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Сотворение-Гордунни"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Алоиза"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Adrélf-Anachronos"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						3, -- [1]
+						38.10400000005029, -- [2]
+						"Покрытое наростами щупальце |cFFFF333337,220|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Dæywalkerxd-Aegwynn"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						7, -- [1]
+						82.77199999988079, -- [2]
+						"Порождение безумия |cFFFF33332,722|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Драконожрец-Ясеневыйлес"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Консултьмы-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Tegnéll-Silvermoon"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Thýra-Aegwynn"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Adriheal-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Wearebetter-Norgannon"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Granpablo-Exodar"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Cöntractor-TwistingNether"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Стрыган-ВечнаяПесня"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						6, -- [1]
+						119.4579999998678, -- [2]
+						"Атака ближнего боя |cFFFF3333351|r", -- [3]
+					}, -- [1]
+					{
+						8, -- [1]
+						361.7719999998808, -- [2]
+						"Взрыв разума |cFFFF33332,996|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Esthon-Exodar"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						5, -- [1]
+						352.091999999946, -- [2]
+						"Буйство |cFFFF3333535|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Míá-Dalaran"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Stonedpandi-Antonidas"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						6, -- [1]
+						115.3170000000391, -- [2]
+						"Атака ближнего боя |cFFFF33332,740|r", -- [3]
+					}, -- [1]
+					{
+						7, -- [1]
+						66.05099999997765, -- [2]
+						"Кошмарное антитело |cFFFF33331,329|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Kateoflight-Silvermoon"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						70.97200000006706, -- [2]
+						"Атака ближнего боя |cFFFF3333283|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						120.7070000001695, -- [2]
+						"Черный шрам |cFFFF333317,562|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Koozi-Ravencrest"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						5, -- [1]
+						476.3019999999087, -- [2]
+						"Раздирающее щупальце |cFFFF333342,323|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Раск-ЧерныйШрам"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Demonling-Silvermoon"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						68.93599999998696, -- [2]
+						"Кошмарное антитело |cFFFF33331,449|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						142.6650000000373, -- [2]
+						"Порождение безумия |cFFFF33333,035|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Kartofflhodn-Aegwynn"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						2, -- [1]
+						123.346000000136, -- [2]
+						"Кошмарное антитело |cFFFF33331,766|r", -- [3]
+					}, -- [1]
+				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 11,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["id"] = 2337,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Панцирь Н'Зота",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Панцирь Н'Зота",
+		},
+		["diff"] = 15,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "endurance",
 		["name"] = "Н'Зот Заразитель",
 		["id"] = 2375,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 12,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["id"] = 2344,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Н'Зот Заразитель",
-			["encounter"] = "Н'Зот Заразитель",
-			["ej_instance_id"] = 1180,
-			["diff"] = 15,
-		},
 		["player_db"] = {
 			["Tjennis-Silvermoon"] = {
 				["encounters"] = 3,
 				["points"] = 290,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -965,18 +953,18 @@ DeathGraphsDBEndurance = {
 						"Хлыст Бездны |cFFFF33331,746|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Chýra-Malygos"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Gomachan-Doomhammer"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -984,25 +972,25 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,693|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PRIEST",
 			},
 			["Tinderbolt-Malygos"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Молфас-Гордунни"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Demonling-Silvermoon"] = {
 				["encounters"] = 3,
 				["points"] = 280,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -1015,18 +1003,18 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,258|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Kartofflhodn-Aegwynn"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Poulpibear-Archimonde"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -1034,39 +1022,39 @@ DeathGraphsDBEndurance = {
 						"Исследование разума |cFFFF33332,413|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
 			["Superchu-Antonidas"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Antarè-Aegwynn"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Мидннайт-Гордунни"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Kraattooss-KhazModan"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Malthael-Silvermoon"] = {
 				["encounters"] = 3,
 				["points"] = 280,
+				["class"] = "ROGUE",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -1079,11 +1067,11 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,302|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "ROGUE",
 			},
 			["Kouxii-Ravencrest"] = {
 				["encounters"] = 3,
 				["points"] = 290,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -1091,18 +1079,18 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,314|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Luxipher-AzjolNerub"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Сотворение-Гордунни"] = {
 				["encounters"] = 5,
 				["points"] = 490,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -1110,32 +1098,32 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,455|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PRIEST",
 			},
 			["Galarielle-Silvermoon"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Palamenneke-Silvermoon"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Stonedpandi-Antonidas"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Adrélf-Anachronos"] = {
 				["encounters"] = 3,
 				["points"] = 290,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -1143,25 +1131,25 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,140|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DRUID",
 			},
 			["Tegnéll-Silvermoon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Thýra-Aegwynn"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Wearebetter-Norgannon"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -1169,11 +1157,11 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,684|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PRIEST",
 			},
 			["Granpablo-Exodar"] = {
 				["encounters"] = 3,
 				["points"] = 290,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -1181,72 +1169,18 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,448|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
-			["Librask-Silvermoon"] = {
+			["Bigbrem-Ravencrest"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
-			},
-			["Kernelpanic-Aegwynn"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Míá-Dalaran"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Esthon-Exodar"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Dæywalkerxd-Aegwynn"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Kateoflight-Silvermoon"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Консултьмы-ЧерныйШрам"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						4, -- [1]
-						59.2839999999851, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,869|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Алоиза"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
 			},
 			["Стрыган-ВечнаяПесня"] = {
 				["encounters"] = 2,
 				["points"] = 180,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -1259,23 +1193,172 @@ DeathGraphsDBEndurance = {
 						"Страдания(ДоТ) |cFFFF33336,830|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
-			["Bigbrem-Ravencrest"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Алоиза"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
+			},
+			["Míá-Dalaran"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Консултьмы-ЧерныйШрам"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						4, -- [1]
+						59.2839999999851, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,869|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Kateoflight-Silvermoon"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Dæywalkerxd-Aegwynn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Esthon-Exodar"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Kernelpanic-Aegwynn"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Librask-Silvermoon"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 12,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["id"] = 2344,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Н'Зот Заразитель",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Н'Зот Заразитель",
+		},
+		["diff"] = 15,
 	},
 	["236815"] = {
 		["hash"] = "236815",
 		["type"] = "endurance",
 		["name"] = "Гневион",
 		["id"] = 2368,
-		["diff"] = 15,
+		["player_db"] = {
+			["Thýra-Aegwynn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Chýra-Malygos"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Kîlling-Blackmoore"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Antarè-Aegwynn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Wearebetter-Norgannon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Алоиза"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Сотворение-Гордунни"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Tinderbolt-Malygos"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Стрыган-ВечнаяПесня"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Dæywalkerxd-Aegwynn"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						52.61699999985285, -- [2]
+						"Ураганный удар |cFFFF33336,345|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Stonedpandi-Antonidas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 1,
@@ -1285,94 +1368,11 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Гневион",
 			["diff"] = 15,
-			["id"] = 2329,
 			["ej_instance_id"] = 1180,
+			["id"] = 2329,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Thýra-Aegwynn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Chýra-Malygos"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Kîlling-Blackmoore"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Antarè-Aegwynn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Wearebetter-Norgannon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Tinderbolt-Malygos"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Сотворение-Гордунни"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Алоиза"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Стрыган-ВечнаяПесня"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Dæywalkerxd-Aegwynn"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						52.61699999985285, -- [2]
-						"Ураганный удар |cFFFF33336,345|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Stonedpandi-Antonidas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-		},
+		["diff"] = 15,
 	},
 }
 DeathGraphsDBCurrent = {
@@ -1382,9 +1382,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 21240,
 				["timeofdeath"] = 218.6439999998547,
 				["name"] = "Стрыган-ВечнаяПесня",
-				["time"] = 1605311092.905,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "3m 38s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -1777,14 +1774,14 @@ DeathGraphsDBCurrent = {
 						"Стрыган-ВечнаяПесня", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "3m 38s",
+				["time"] = 1605311092.905,
 			}, -- [1]
 			{
 				["maxhealth"] = 19780,
 				["timeofdeath"] = 487.905999999959,
 				["name"] = "Gomachan-Doomhammer",
-				["time"] = 1605311362.167,
-				["class"] = "PRIEST",
-				["timestring"] = "8m 7s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -2187,14 +2184,14 @@ DeathGraphsDBCurrent = {
 						"Gomachan-Doomhammer", -- [6]
 					}, -- [34]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "8m 7s",
+				["time"] = 1605311362.167,
 			}, -- [2]
 			{
 				["maxhealth"] = 19260,
 				["timeofdeath"] = 566.8990000002086,
 				["name"] = "Wearebetter-Norgannon",
-				["time"] = 1605311441.16,
-				["class"] = "PRIEST",
-				["timestring"] = "9m 26s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2589,14 +2586,14 @@ DeathGraphsDBCurrent = {
 						"Wearebetter-Norgannon", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "9m 26s",
+				["time"] = 1605311441.16,
 			}, -- [3]
 			{
 				["maxhealth"] = 21380,
 				["timeofdeath"] = 585.4619999998249,
 				["name"] = "Tinderbolt-Malygos",
-				["time"] = 1605311459.723,
-				["class"] = "WARLOCK",
-				["timestring"] = "9m 45s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2991,14 +2988,14 @@ DeathGraphsDBCurrent = {
 						"Tinderbolt-Malygos", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "9m 45s",
+				["time"] = 1605311459.723,
 			}, -- [4]
 			{
 				["maxhealth"] = 20060,
 				["timeofdeath"] = 596.6959999999963,
 				["name"] = "Консултьмы-ЧерныйШрам",
-				["time"] = 1605311470.957,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "9m 56s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3393,14 +3390,14 @@ DeathGraphsDBCurrent = {
 						"Консултьмы-ЧерныйШрам", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "9m 56s",
+				["time"] = 1605311470.957,
 			}, -- [5]
 			{
 				["maxhealth"] = 20059,
 				["timeofdeath"] = 596.8080000001937,
 				["name"] = "Dæywalkerxd-Aegwynn",
-				["time"] = 1605311471.069,
-				["class"] = "HUNTER",
-				["timestring"] = "9m 56s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3795,14 +3792,14 @@ DeathGraphsDBCurrent = {
 						"Dæywalkerxd-Aegwynn", -- [6]
 					}, -- [33]
 				},
+				["class"] = "HUNTER",
+				["timestring"] = "9m 56s",
+				["time"] = 1605311471.069,
 			}, -- [6]
 			{
 				["maxhealth"] = 20340,
 				["timeofdeath"] = 597.2160000000149,
 				["name"] = "Superchu-Antonidas",
-				["time"] = 1605311471.477,
-				["class"] = "WARLOCK",
-				["timestring"] = "9m 57s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4197,14 +4194,14 @@ DeathGraphsDBCurrent = {
 						"Superchu-Antonidas", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "9m 57s",
+				["time"] = 1605311471.477,
 			}, -- [7]
 			{
 				["maxhealth"] = 18300,
 				["timeofdeath"] = 598.8059999998659,
 				["name"] = "Сотворение-Гордунни",
-				["time"] = 1605311473.067,
-				["class"] = "PRIEST",
-				["timestring"] = "9m 58s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4599,6 +4596,9 @@ DeathGraphsDBCurrent = {
 						"Сотворение-Гордунни", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "9m 58s",
+				["time"] = 1605311473.067,
 			}, -- [8]
 		},
 		["bossname"] = "Н'Зот Заразитель",
@@ -4618,9 +4618,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 20060,
 				["timeofdeath"] = 59.2839999999851,
 				["name"] = "Консултьмы-ЧерныйШрам",
-				["time"] = 1605310495.87,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "0m 59s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4985,14 +4982,14 @@ DeathGraphsDBCurrent = {
 						"Консултьмы-ЧерныйШрам", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "0m 59s",
+				["time"] = 1605310495.87,
 			}, -- [1]
 			{
 				["maxhealth"] = 21240,
 				["timeofdeath"] = 185.3070000000298,
 				["name"] = "Стрыган-ВечнаяПесня",
-				["time"] = 1605310621.893,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "3m 5s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -5379,14 +5376,14 @@ DeathGraphsDBCurrent = {
 						"Стрыган-ВечнаяПесня", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "3m 5s",
+				["time"] = 1605310621.893,
 			}, -- [2]
 			{
 				["maxhealth"] = 18300,
 				["timeofdeath"] = 264.0360000000801,
 				["name"] = "Сотворение-Гордунни",
-				["time"] = 1605310700.622,
-				["class"] = "PRIEST",
-				["timestring"] = "4m 24s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -5777,14 +5774,14 @@ DeathGraphsDBCurrent = {
 						"Сотворение-Гордунни", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "4m 24s",
+				["time"] = 1605310700.622,
 			}, -- [3]
 			{
 				["maxhealth"] = 20340,
 				["timeofdeath"] = 264.0360000000801,
 				["name"] = "Superchu-Antonidas",
-				["time"] = 1605310700.622,
-				["class"] = "WARLOCK",
-				["timestring"] = "4m 24s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -6177,14 +6174,14 @@ DeathGraphsDBCurrent = {
 						"Superchu-Antonidas", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "4m 24s",
+				["time"] = 1605310700.622,
 			}, -- [4]
 			{
 				["maxhealth"] = 19700,
 				["timeofdeath"] = 264.1340000000782,
 				["name"] = "Алоиза",
-				["time"] = 1605310700.72,
-				["class"] = "PRIEST",
-				["timestring"] = "4m 24s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -6577,14 +6574,14 @@ DeathGraphsDBCurrent = {
 						"Алоиза", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "4m 24s",
+				["time"] = 1605310700.72,
 			}, -- [5]
 			{
 				["maxhealth"] = 20960,
 				["timeofdeath"] = 265.0790000001434,
 				["name"] = "Молфас-Гордунни",
-				["time"] = 1605310701.665,
-				["class"] = "WARLOCK",
-				["timestring"] = "4m 25s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -6975,14 +6972,14 @@ DeathGraphsDBCurrent = {
 						"Молфас-Гордунни", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "4m 25s",
+				["time"] = 1605310701.665,
 			}, -- [6]
 			{
 				["maxhealth"] = 19260,
 				["timeofdeath"] = 266.6660000002012,
 				["name"] = "Wearebetter-Norgannon",
-				["time"] = 1605310703.252,
-				["class"] = "PRIEST",
-				["timestring"] = "4m 26s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -7377,14 +7374,14 @@ DeathGraphsDBCurrent = {
 						"Wearebetter-Norgannon", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "4m 26s",
+				["time"] = 1605310703.252,
 			}, -- [7]
 			{
 				["maxhealth"] = 21380,
 				["timeofdeath"] = 266.9550000000745,
 				["name"] = "Tinderbolt-Malygos",
-				["time"] = 1605310703.541,
-				["class"] = "WARLOCK",
-				["timestring"] = "4m 26s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -7777,14 +7774,14 @@ DeathGraphsDBCurrent = {
 						"Tinderbolt-Malygos", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "4m 26s",
+				["time"] = 1605310703.541,
 			}, -- [8]
 			{
 				["maxhealth"] = 32800,
 				["timeofdeath"] = 267.1800000001676,
 				["name"] = "Thýra-Aegwynn",
-				["time"] = 1605310703.766,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "4m 27s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -8179,14 +8176,14 @@ DeathGraphsDBCurrent = {
 						"Thýra-Aegwynn", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "4m 27s",
+				["time"] = 1605310703.766,
 			}, -- [9]
 			{
 				["maxhealth"] = 24100,
 				["timeofdeath"] = 267.5770000000484,
 				["name"] = "Stonedpandi-Antonidas",
-				["time"] = 1605310704.163,
-				["class"] = "MONK",
-				["timestring"] = "4m 27s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -8581,6 +8578,9 @@ DeathGraphsDBCurrent = {
 						"Stonedpandi-Antonidas", -- [6]
 					}, -- [33]
 				},
+				["class"] = "MONK",
+				["timestring"] = "4m 27s",
+				["time"] = 1605310704.163,
 			}, -- [10]
 		},
 		["bossname"] = "Н'Зот Заразитель",
@@ -8671,9 +8671,8 @@ DeathGraphsDBGraph = {
 			[87] = {
 				1605303258, -- [1]
 			},
-			[144] = {
-				1605304114, -- [1]
-				1605310226, -- [2]
+			[37] = {
+				1605310226, -- [1]
 			},
 			[119] = {
 				1605308924, -- [1]
@@ -8690,11 +8689,15 @@ DeathGraphsDBGraph = {
 			[120] = {
 				1605302766, -- [1]
 			},
-			[73] = {
-				1605302404, -- [1]
+			[144] = {
+				1605304114, -- [1]
+				1605310226, -- [2]
 			},
 			[457] = {
 				1605304114, -- [1]
+			},
+			[136] = {
+				1605308924, -- [1]
 			},
 			[121] = {
 				1605308924, -- [1]
@@ -8702,14 +8705,11 @@ DeathGraphsDBGraph = {
 			[476] = {
 				1605304913, -- [1]
 			},
-			[136] = {
-				1605308924, -- [1]
-			},
 			[352] = {
 				1605304913, -- [1]
 			},
-			[37] = {
-				1605310226, -- [1]
+			[73] = {
+				1605302404, -- [1]
 			},
 		},
 		["spells"] = {
@@ -8743,14 +8743,9 @@ DeathGraphsDBGraph = {
 			[234] = {
 				1605306744, -- [1]
 			},
-			[199] = {
-				1605306744, -- [1]
-			},
-			[188] = {
-				1605305969, -- [1]
-			},
-			[196] = {
-				1605305969, -- [1]
+			[25] = {
+				1605305549, -- [1]
+				1605305549, -- [2]
 			},
 			[596] = {
 				1605311480, -- [1]
@@ -8758,8 +8753,14 @@ DeathGraphsDBGraph = {
 			[51] = {
 				1605305549, -- [1]
 			},
-			[566] = {
-				1605311480, -- [1]
+			[188] = {
+				1605305969, -- [1]
+			},
+			[26] = {
+				1605305549, -- [1]
+			},
+			[196] = {
+				1605305969, -- [1]
 			},
 			[71] = {
 				1605306744, -- [1]
@@ -8770,8 +8771,8 @@ DeathGraphsDBGraph = {
 			[208] = {
 				1605306744, -- [1]
 			},
-			[26] = {
-				1605305549, -- [1]
+			[566] = {
+				1605311480, -- [1]
 			},
 			[185] = {
 				1605305969, -- [1]
@@ -8780,9 +8781,8 @@ DeathGraphsDBGraph = {
 			[220] = {
 				1605305969, -- [1]
 			},
-			[25] = {
-				1605305549, -- [1]
-				1605305549, -- [2]
+			[199] = {
+				1605306744, -- [1]
 			},
 		},
 		["spells"] = {

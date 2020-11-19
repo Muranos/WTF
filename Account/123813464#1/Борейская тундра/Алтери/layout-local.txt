@@ -27,6 +27,13 @@ X: -409
 Y: -84
 W: 93
 H: 45
+Frame: CastingBarFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 8
+Y: 99
+W: 250
+H: 24
 Frame: PetCastingBarFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -132,13 +139,6 @@ X: 26
 Y: -126
 W: 300
 H: 518
-Frame: CastingBarFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: 8
-Y: 99
-W: 250
-H: 24
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: CENTER

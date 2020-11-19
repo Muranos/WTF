@@ -59,14 +59,14 @@ CastbarsDB = {
 					0.9607843137254902, -- [3]
 					1, -- [4]
 				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["ShowCooldownSpark"] = false,
 				["Position"] = {
 					["y"] = 98.99994659423828,
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["relpoint"] = "BOTTOM",
 				},
-				["ShowCooldownSpark"] = false,
-				["BorderWidthAdjustment"] = 1.600000000000001,
 			},
 			["MirrorTimer"] = {
 			},
@@ -119,14 +119,14 @@ CastbarsDB = {
 					0.9607843137254902, -- [3]
 					1, -- [4]
 				},
-				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
+				["ShowCooldownSpark"] = false,
 			},
 			["MirrorTimer"] = {
 			},
@@ -359,14 +359,14 @@ CastbarsDB = {
 				},
 			},
 			["CastingBarFrame"] = {
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["ShowCooldownSpark"] = false,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
@@ -897,14 +897,14 @@ CastbarsDB = {
 			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["ShowCooldownSpark"] = false,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
-				["ShowCooldownSpark"] = false,
-				["BorderWidthAdjustment"] = 1.600000000000001,
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
@@ -937,17 +937,17 @@ CastbarsDB = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
 				["Position"] = {
 					["relpoint"] = "RIGHT",
 					["x"] = -392.9995422363281,
 					["point"] = "RIGHT",
 					["y"] = -2.000244617462158,
+				},
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
 				},
 				["Height"] = 24,
 				["BorderWidthAdjustment"] = 1.300000000000001,
@@ -957,20 +957,20 @@ CastbarsDB = {
 			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
+				["ShowCooldownSpark"] = false,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
-				["ShowCooldownSpark"] = false,
 				["BorderWidthAdjustment"] = 1.600000000000001,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
 			},
 		},
 		["Дэлери - Гордунни"] = {
@@ -996,14 +996,14 @@ CastbarsDB = {
 				},
 			},
 			["CastingBarFrame"] = {
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["ShowCooldownSpark"] = false,
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]

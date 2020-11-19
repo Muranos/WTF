@@ -1012,6 +1012,18 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
+			["Earaal-Arathor"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["deaths"] = {
+					{
+						1, -- [1]
+						92.377000000095, -- [2]
+						"Свежевание души |cFFFF333311,761|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "SHAMAN",
+			},
 			["Фарагондасс-ВечнаяПесня"] = {
 				["encounters"] = 3,
 				["points"] = 290,
@@ -1023,13 +1035,6 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 				["class"] = "WARRIOR",
-			},
-			["Systrance-Shattrath"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
 			},
 			["Drjanitor-Blade'sEdge"] = {
 				["encounters"] = 4,
@@ -1050,17 +1055,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Earaal-Arathor"] = {
+			["Systrance-Shattrath"] = {
 				["encounters"] = 5,
-				["points"] = 490,
+				["points"] = 500,
 				["deaths"] = {
-					{
-						1, -- [1]
-						92.377000000095, -- [2]
-						"Свежевание души |cFFFF333311,761|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "ROGUE",
 			},
 			["Сострадание"] = {
 				["encounters"] = 5,
@@ -5628,10 +5628,10 @@ DeathGraphsDBGraph = {
 	},
 	["237515"] = {
 		["deaths"] = {
-			[503] = {
+			[461] = {
 				1605217620, -- [1]
 			},
-			[46] = {
+			[503] = {
 				1605217620, -- [1]
 			},
 			[219] = {
@@ -5643,7 +5643,7 @@ DeathGraphsDBGraph = {
 			[521] = {
 				1605218223, -- [1]
 			},
-			[461] = {
+			[46] = {
 				1605217620, -- [1]
 			},
 		},
