@@ -216,3 +216,4 @@ RaiderIO_DB_KR_A: disabled
 Gnosis: disabled
 UnitFramesImproved: disabled
 TwintopInsanityBar: disabled
+TomCats-Nzoth: disabled

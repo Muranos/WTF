@@ -10,6 +10,6 @@ N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][
 END
 VER 3 0100000000000003 "Weapon" "INV_MISC_QUESTIONMARK"
 #showtooltip Танцующее руническое оружие
-/use Мистер Манчи
+/use Пузырек с оживленной кровью
 /cast Танцующее руническое оружие
 END

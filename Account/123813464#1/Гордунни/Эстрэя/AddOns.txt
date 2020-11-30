@@ -46,3 +46,4 @@ Bartender4: enabled
 TwintopInsanityBar: disabled
 Gnosis: disabled
 MythicDungeonTools: enabled
+LittleWigs_Legion: enabled

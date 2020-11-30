@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0406,
-	["LastPlayerFullName"] = "Алоиза-Гордунни",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 174234,
@@ -91,6 +88,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159667::::::::50:258::16:5:6534:6516:6513:1533:4786:1:28:1256:::|h[Сосуд для погребальных ритуалов]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Алоиза-Гордунни",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

@@ -8,6 +8,10 @@ END
 VER 3 000000000000001F "AutoTurnIn" "Ability_Shaman_Ascendance"
 /script SelectGossipAvailableQuest(1); CompleteQuest(); GetQuestReward();
 END
+VER 3 0000000000000040 "Azerite" "611422"
+/run BuyMerchantItem(3);
+/use Выброшенный азеритовый нагрудник
+END
 VER 3 0000000000000021 "BarrelMark" "132773"
 /run SetRaidTarget("mouseover",13)
 END
@@ -59,7 +63,7 @@ VER 3 0000000000000026 "GuardianSpirit" "INV_MISC_QUESTIONMARK"
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Оберегающий дух
 END
 VER 3 0000000000000032 "Hide" "132208"
-/ц Йети
+/run GetMouseFocus():Enable()
 END
 VER 3 000000000000003D "HideCastBar" "INV_MISC_QUESTIONMARK"
 /run SetCVar("showTargetCastbar", 0) ReloadUI()
@@ -96,10 +100,10 @@ VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва восстановления
 END
-VER 3 0000000000000031 "Pull" "136103"
+VER 3 0000000000000036 "Pull" "236307"
 /pull 3
 END
-VER 3 0000000000000036 "Pull" "236307"
+VER 3 0000000000000031 "Pull" "136103"
 /pull 3
 END
 VER 3 0000000000000034 "Reload" "2115306"

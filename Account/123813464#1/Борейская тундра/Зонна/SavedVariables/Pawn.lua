@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0405,
-	["LastPlayerFullName"] = "Зонна-Борейская тундра",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0406,
 	["ItemLevels"] = {
 		{
 			["ID"] = 157969,
@@ -86,6 +83,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:170089:5949:::::::50:64::3:3:4798:1478:4786::::|h[Шпиль Лиары]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Зонна-Борейская тундра",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128862] = {
 			["Relics"] = {
@@ -104,23 +105,6 @@ PawnOptions = {
 			},
 			["Name"] = "Полярная Ночь, великий посох Алоди",
 		},
-		[127857] = {
-			["Relics"] = {
-				{
-					["ItemLevel"] = 17,
-					["Type"] = "Arcane",
-				}, -- [1]
-				{
-					["ItemLevel"] = 23,
-					["Type"] = "Frost",
-				}, -- [2]
-				{
-					["ItemLevel"] = 17,
-					["Type"] = "Arcane",
-				}, -- [3]
-			},
-			["Name"] = "Алунет, великий посох Магны",
-		},
 		[128820] = {
 			["Relics"] = {
 				{
@@ -138,8 +122,24 @@ PawnOptions = {
 			},
 			["Name"] = "Фело'мелорн",
 		},
+		[127857] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Arcane",
+				}, -- [1]
+				{
+					["ItemLevel"] = 23,
+					["Type"] = "Frost",
+				}, -- [2]
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "Алунет, великий посох Магны",
+		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MAGE",

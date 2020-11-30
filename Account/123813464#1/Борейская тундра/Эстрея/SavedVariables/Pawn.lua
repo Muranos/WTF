@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0405,
+	["LastVersion"] = 2.0406,
+	["LastPlayerFullName"] = "Эстрея-Борейская тундра",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159334,
@@ -83,9 +86,7 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159655:5962:::::::50:104::35:3:5010:1508:4783::::|h[Мерзкий кровопускатель]|h|r",
 		}, -- [16]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Эстрея-Борейская тундра",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128860] = {
 			["Relics"] = {
@@ -105,7 +106,6 @@ PawnOptions = {
 			["Name"] = "Клыки Пеплошкурой",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

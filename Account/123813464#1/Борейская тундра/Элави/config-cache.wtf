@@ -1,3 +1,4 @@
+SET latestSplashScreen "19"
 SET autoLootDefault "1"
 SET autoQuestPopUps "v##$"
 SET trackedQuests "v$X+"

@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.032,
-	["LastPlayerFullName"] = "Элави-Борейская тундра",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0324,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122250,
@@ -81,6 +78,9 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122353:4442:::::::31:265:::1:583:::|h[Величавая трость ректора]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Элави-Борейская тундра",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

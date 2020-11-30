@@ -41,3 +41,4 @@ UnitFramesImproved: disabled
 Castbars: enabled
 Gnosis: disabled
 TwintopInsanityBar: disabled
+TradeSkillMaster: disabled

@@ -136,6 +136,14 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
+			["Отсталыймаг"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Отсталыймаг",
+			},
 			["Eltric-ArgentDawn"] = {
 				["deaths"] = {
 				},
@@ -184,6 +192,22 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
+			["Халорич"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Халорич",
+			},
+			["Darkwah-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Darkwah-ArgentDawn",
+				["overall"] = {
+				},
+			},
 			["Grollash-ArgentDawn"] = {
 				["deaths"] = {
 				},
@@ -200,11 +224,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Darkwah-ArgentDawn"] = {
+			["Whitekitty-Dragonblight"] = {
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
-				["name"] = "Darkwah-ArgentDawn",
+				["class"] = "HUNTER",
+				["name"] = "Whitekitty-Dragonblight",
 				["overall"] = {
 				},
 			},
@@ -216,11 +240,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Whitekitty-Dragonblight"] = {
+			["Romberg-LesSentinelles"] = {
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
-				["name"] = "Whitekitty-Dragonblight",
+				["class"] = "WARLOCK",
+				["name"] = "Romberg-LesSentinelles",
 				["overall"] = {
 				},
 			},
@@ -232,13 +256,13 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Romberg-LesSentinelles"] = {
+			["Хелликс"] = {
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
-				["name"] = "Romberg-LesSentinelles",
 				["overall"] = {
 				},
+				["name"] = "Хелликс",
 			},
 			["Dynadj-Dalaran"] = {
 				["deaths"] = {
@@ -617,329 +641,6 @@ DeathGraphsDBDeaths = {
 			},
 		},
 	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "deaths",
-		["name"] = "Коллективный разум",
-		["id"] = 2372,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 5,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["encounter"] = "Коллективный разум",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Коллективный разум",
-			["diff"] = 15,
-			["id"] = 2333,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
-		},
-		["player_db"] = {
-			["Zharro-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Zharro-ArgentDawn",
-				["overall"] = {
-				},
-			},
-			["Ishialert-Tyrande"] = {
-				["name"] = "Ishialert-Tyrande",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Xxlegol-LosErrantes"] = {
-				["name"] = "Xxlegol-LosErrantes",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
-	},
-	["236615"] = {
-		["hash"] = "236615",
-		["type"] = "deaths",
-		["name"] = "Панцирь Н'Зота",
-		["id"] = 2366,
-		["player_db"] = {
-			["Chagnorris-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Chagnorris-ArgentDawn",
-				["overall"] = {
-				},
-			},
-			["Taic-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Taic-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Zörtha-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Zörtha-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Ramic-Runetotem"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Ramic-Runetotem",
-				["overall"] = {
-				},
-			},
-			["Æry-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Æry-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Eltric-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Eltric-ArgentDawn",
-				["overall"] = {
-				},
-			},
-			["Secaná-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Secaná-ArgentDawn",
-				["overall"] = {
-				},
-			},
-			["Bethone-Ravencrest"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Bethone-Ravencrest",
-				["overall"] = {
-				},
-			},
-			["Вивелиан"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Вивелиан",
-				["overall"] = {
-				},
-			},
-			["Хеимонос-ЧерныйШрам"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Хеимонос-ЧерныйШрам",
-				["overall"] = {
-				},
-			},
-			["Poppax-Sylvanas"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Poppax-Sylvanas",
-				["overall"] = {
-				},
-			},
-			["Okalani-DunMorogh"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Okalani-DunMorogh",
-				["overall"] = {
-				},
-			},
-			["Lüminette-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Lüminette-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Vyollet-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Vyollet-ArgentDawn",
-				["overall"] = {
-				},
-			},
-			["Rykahpo-Frostmane"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Rykahpo-Frostmane",
-				["overall"] = {
-				},
-			},
-			["Parázsló-Outland"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Parázsló-Outland",
-				["overall"] = {
-				},
-			},
-			["Indora-Chantséternels"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Indora-Chantséternels",
-				["overall"] = {
-				},
-			},
-			["Umbero-Ravencrest"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Umbero-Ravencrest",
-				["overall"] = {
-				},
-			},
-			["Grollash-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Grollash-ArgentDawn",
-				["overall"] = {
-				},
-			},
-			["Requïem-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Requïem-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Turbomunk-Sylvanas"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Turbomunk-Sylvanas",
-				["overall"] = {
-				},
-			},
-			["Kharium-DunModr"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Kharium-DunModr",
-				["overall"] = {
-				},
-			},
-			["Stormshadôw-DunModr"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Stormshadôw-DunModr",
-				["overall"] = {
-				},
-			},
-			["Lith-Frostmane"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Lith-Frostmane",
-				["overall"] = {
-				},
-			},
-			["Romberg-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Romberg-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Dynadj-Dalaran"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Dynadj-Dalaran",
-				["overall"] = {
-				},
-			},
-			["Seeyourdeath-Darksorrow"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Seeyourdeath-Darksorrow",
-				["overall"] = {
-				},
-			},
-			["Ниэтта"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Ниэтта",
-				["overall"] = {
-				},
-			},
-			["Nuâlâ-Dalaran"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Nuâlâ-Dalaran",
-				["overall"] = {
-				},
-			},
-			["Iraëlda-LesSentinelles"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Iraëlda-LesSentinelles",
-				["overall"] = {
-				},
-			},
-			["Миньминь-ВечнаяПесня"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Миньминь-ВечнаяПесня",
-				["overall"] = {
-				},
-			},
-			["Darkwah-ArgentDawn"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Darkwah-ArgentDawn",
-				["overall"] = {
-				},
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 11,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["id"] = 2337,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Панцирь Н'Зота",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "Панцирь Н'Зота",
-		},
-		["diff"] = 15,
-	},
 	["236415"] = {
 		["hash"] = "236415",
 		["type"] = "deaths",
@@ -1201,6 +902,323 @@ DeathGraphsDBDeaths = {
 			},
 		},
 	},
+	["236615"] = {
+		["hash"] = "236615",
+		["type"] = "deaths",
+		["name"] = "Панцирь Н'Зота",
+		["id"] = 2366,
+		["player_db"] = {
+			["Zörtha-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Zörtha-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Æry-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Æry-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Eltric-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Eltric-ArgentDawn",
+				["overall"] = {
+				},
+			},
+			["Сотворение"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Сотворение",
+			},
+			["Iraëlda-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Iraëlda-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Ниэтта"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Ниэтта",
+				["overall"] = {
+				},
+			},
+			["Parázsló-Outland"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Parázsló-Outland",
+				["overall"] = {
+				},
+			},
+			["Umbero-Ravencrest"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Umbero-Ravencrest",
+				["overall"] = {
+				},
+			},
+			["Grollash-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Grollash-ArgentDawn",
+				["overall"] = {
+				},
+			},
+			["Stormshadôw-DunModr"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Stormshadôw-DunModr",
+				["overall"] = {
+				},
+			},
+			["Seeyourdeath-Darksorrow"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Seeyourdeath-Darksorrow",
+				["overall"] = {
+				},
+			},
+			["Secaná-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Secaná-ArgentDawn",
+				["overall"] = {
+				},
+			},
+			["Taic-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Taic-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Ramic-Runetotem"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Ramic-Runetotem",
+				["overall"] = {
+				},
+			},
+			["Bethone-Ravencrest"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Bethone-Ravencrest",
+				["overall"] = {
+				},
+			},
+			["Вивелиан"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Вивелиан",
+				["overall"] = {
+				},
+			},
+			["Хеимонос-ЧерныйШрам"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Хеимонос-ЧерныйШрам",
+				["overall"] = {
+				},
+			},
+			["Okalani-DunMorogh"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Okalani-DunMorogh",
+				["overall"] = {
+				},
+			},
+			["Vyollet-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Vyollet-ArgentDawn",
+				["overall"] = {
+				},
+			},
+			["Rykahpo-Frostmane"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Rykahpo-Frostmane",
+				["overall"] = {
+				},
+			},
+			["Lüminette-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Lüminette-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Chagnorris-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Chagnorris-ArgentDawn",
+				["overall"] = {
+				},
+			},
+			["Indora-Chantséternels"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Indora-Chantséternels",
+				["overall"] = {
+				},
+			},
+			["Рыжумба"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Рыжумба",
+			},
+			["Romberg-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Romberg-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Gentlegiant-Sylvanas"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Gentlegiant-Sylvanas",
+			},
+			["Kharium-DunModr"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Kharium-DunModr",
+				["overall"] = {
+				},
+			},
+			["Рэйрити"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Рэйрити",
+			},
+			["Lith-Frostmane"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Lith-Frostmane",
+				["overall"] = {
+				},
+			},
+			["Хелликс"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Хелликс",
+			},
+			["Dynadj-Dalaran"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Dynadj-Dalaran",
+				["overall"] = {
+				},
+			},
+			["Requïem-LesSentinelles"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Requïem-LesSentinelles",
+				["overall"] = {
+				},
+			},
+			["Turbomunk-Sylvanas"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Turbomunk-Sylvanas",
+				["overall"] = {
+				},
+			},
+			["Nuâlâ-Dalaran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Nuâlâ-Dalaran",
+				["overall"] = {
+				},
+			},
+			["Poppax-Sylvanas"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Poppax-Sylvanas",
+				["overall"] = {
+				},
+			},
+			["Миньминь-ВечнаяПесня"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Миньминь-ВечнаяПесня",
+				["overall"] = {
+				},
+			},
+			["Darkwah-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Darkwah-ArgentDawn",
+				["overall"] = {
+				},
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 11,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["id"] = 2337,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Панцирь Н'Зота",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Панцирь Н'Зота",
+		},
+		["diff"] = 15,
+	},
 	["236915"] = {
 		["hash"] = "236915",
 		["type"] = "deaths",
@@ -1235,6 +1253,52 @@ DeathGraphsDBDeaths = {
 				["class"] = "PALADIN",
 				["name"] = "Ниэтта",
 				["overall"] = {
+				},
+			},
+		},
+	},
+	["237215"] = {
+		["hash"] = "237215",
+		["type"] = "deaths",
+		["name"] = "Коллективный разум",
+		["id"] = 2372,
+		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 5,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["encounter"] = "Коллективный разум",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Коллективный разум",
+			["diff"] = 15,
+			["id"] = 2333,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["Zharro-ArgentDawn"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Zharro-ArgentDawn",
+				["overall"] = {
+				},
+			},
+			["Ishialert-Tyrande"] = {
+				["name"] = "Ishialert-Tyrande",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Xxlegol-LosErrantes"] = {
+				["name"] = "Xxlegol-LosErrantes",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 		},
@@ -1555,6 +1619,20 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Букем"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Сотворение"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Убийцаогров-ЧерныйШрам"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -1583,10 +1661,71 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Вальтеон"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Darkwah-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Хиробе-ВечнаяПесня"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
 			["Ryukä-LesSentinelles"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Prankterz-Sylvanas"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						3, -- [1]
+						179.2339999999967, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,448|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Kery-Terokkar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Рыжумба"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Киркора"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Shween-Dragonblight"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
 			},
@@ -1604,22 +1743,36 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Prankterz-Sylvanas"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARRIOR",
+			["Dynadj-Dalaran"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
-						3, -- [1]
-						179.2339999999967, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,448|r", -- [3]
+						1, -- [1]
+						398.5309999999881, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,499|r", -- [3]
 					}, -- [1]
+				},
+			},
+			["Ласковая-Ясеневыйлес"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
 				},
 			},
 			["Taic-LesSentinelles"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Шелонник-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -1630,6 +1783,25 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Отсталыймаг"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						109.4960000000428, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,664|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Алифф"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Пуансеттия-ЧерныйШрам"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -1637,10 +1809,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Darkwah-ArgentDawn"] = {
+			["Lith-Frostmane"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PRIEST",
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 			},
@@ -1651,10 +1823,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Ласковая-Ясеневыйлес"] = {
+			["Асцил"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
 			},
@@ -1665,10 +1837,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Хиробе-ВечнаяПесня"] = {
+			["Куж"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "ROGUE",
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -1676,27 +1848,6 @@ DeathGraphsDBEndurance = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Shween-Dragonblight"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Whitekitty-Dragonblight"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Шелонник-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -1710,65 +1861,6 @@ DeathGraphsDBEndurance = {
 						216.75900000002, -- [2]
 						"Атака ближнего боя |cFFFF33331,946|r", -- [3]
 					}, -- [1]
-				},
-			},
-			["Lüminette-LesSentinelles"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Iraëlda-LesSentinelles"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Minkieburger-Dragonblight"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Dynadj-Dalaran"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						398.5309999999881, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,499|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Mantysaari-Silvermoon"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						245.2779999999912, -- [2]
-						"Пламя Катаклизма |cFFFF33331,058|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Lith-Frostmane"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Морхэна-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
 				},
 			},
 			["Rykahpo-Frostmane"] = {
@@ -1788,22 +1880,36 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Romberg-LesSentinelles"] = {
+			["Халорич"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "WARLOCK",
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
-						35.98000000001048, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,931|r", -- [3]
+						221.2960000000894, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,236|r", -- [3]
 					}, -- [1]
 				},
 			},
-			["Requïem-LesSentinelles"] = {
+			["Lüminette-LesSentinelles"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Minkieburger-Dragonblight"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Iraëlda-LesSentinelles"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -1817,6 +1923,77 @@ DeathGraphsDBEndurance = {
 						286.9720000000089, -- [2]
 						"Азеритовый шип |cFFFF3333792|r", -- [3]
 					}, -- [1]
+				},
+			},
+			["Gentlegiant-Sylvanas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Mantysaari-Silvermoon"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						3, -- [1]
+						245.2779999999912, -- [2]
+						"Пламя Катаклизма |cFFFF33331,058|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Рэйрити"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Морхэна-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Хелликс"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						53.06000000005588, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,796|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Romberg-LesSentinelles"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						35.98000000001048, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,931|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Whitekitty-Dragonblight"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Requïem-LesSentinelles"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
 				},
 			},
 			["Blubit-Silvermoon"] = {
@@ -1834,8 +2011,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Ниэтта"] = {
-				["encounters"] = 6,
-				["points"] = 590,
+				["encounters"] = 7,
+				["points"] = 690,
 				["class"] = "PALADIN",
 				["deaths"] = {
 					{
@@ -2539,6 +2716,13 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Сотворение"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Убийцаогров-ЧерныйШрам"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -2567,12 +2751,47 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Вальтеон"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
 			["Ishialert-Tyrande"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
+			},
+			["Eridiel-DunModr"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Deathícus-Draenor"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Апоч-ВечнаяПесня"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Киркора"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
 			},
 			["Ataraxia-Alleria"] = {
 				["encounters"] = 1,
@@ -2594,6 +2813,20 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 				["class"] = "WARRIOR",
+			},
+			["Ласковая-Ясеневыйлес"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Vanniaded-Blackmoore"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
 			},
 			["Kazogan-Silvermoon"] = {
 				["encounters"] = 1,
@@ -2621,26 +2854,26 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Notwarr-Silvermoon"] = {
+			["Алиаан-ЧерныйШрам"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
-			["Namisuan-Minahonda"] = {
+			["Отсталыймаг"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
-			["Vanniaded-Blackmoore"] = {
+			["Алифф"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Пуансеттия-ЧерныйШрам"] = {
 				["encounters"] = 1,
@@ -2677,12 +2910,19 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Sethecán-LosErrantes"] = {
+			["Хелликс"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+			},
+			["Stizzt-Elune"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 			["Pheeta-Silvermoon"] = {
 				["encounters"] = 1,
@@ -2691,17 +2931,38 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Апоч-ВечнаяПесня"] = {
+			["Sethecán-LosErrantes"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Халорич"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 			},
-			["Deathícus-Draenor"] = {
+			["Рыжумба"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Namisuan-Minahonda"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Gentlegiant-Sylvanas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
 			},
@@ -2726,10 +2987,10 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARRIOR",
 			},
-			["Ласковая-Ясеневыйлес"] = {
+			["Рэйрити"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
 			},
@@ -2754,13 +3015,6 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
-			["Алиаан-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
 			["Hariin-Silvermoon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -2768,16 +3022,23 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Eridiel-DunModr"] = {
+			["Notwarr-Silvermoon"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
+				["class"] = "WARRIOR",
+			},
+			["Kery-Terokkar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 			["Ниэтта"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "PALADIN",
@@ -2797,693 +3058,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "endurance",
-		["name"] = "Коллективный разум",
-		["id"] = 2372,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 5,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["encounter"] = "Коллективный разум",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Коллективный разум",
-			["diff"] = 15,
-			["id"] = 2333,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
-		},
-		["player_db"] = {
-			["Rumoxx-Doomhammer"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Xxlegol-LosErrantes"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						213.4040000000096, -- [2]
-						"Атака ближнего боя |cFFFF33338,712|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "DRUID",
-			},
-			["Namisuan-Minahonda"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Vanniaded-Blackmoore"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Adania-Malorne"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Hariin-Silvermoon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Mavïis-ColinasPardas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Ниэтта"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Vyollet-ArgentDawn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Denvii-Silvermoon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Kaddy-ColinasPardas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Grollash-ArgentDawn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Babayaega-Outland"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Alif-Sanguino"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Eridiel-DunModr"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Kazogan-Silvermoon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Zharro-ArgentDawn"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						1, -- [1]
-						126.5449999999837, -- [2]
-						"Кислотные брызги |cFFFF33337,956|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Eltric-ArgentDawn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Olivas-DunModr"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Yatekuro-ColinasPardas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Ataraxia-Alleria"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Txuma-ColinasPardas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Ishialert-Tyrande"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						219.5869999999995, -- [2]
-						"Атака ближнего боя |cFFFF33339,459|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MAGE",
-			},
-			["Darkwah-ArgentDawn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-		},
-	},
-	["236615"] = {
-		["hash"] = "236615",
-		["type"] = "endurance",
-		["name"] = "Панцирь Н'Зота",
-		["id"] = 2366,
-		["player_db"] = {
-			["Шугэринг"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Thunderpants-DefiasBrotherhood"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Kysmyass-Cho'gall"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Æry-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						37.0570000000007, -- [2]
-						"Покрытое наростами щупальце |cFFFF333336,199|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Eltric-ArgentDawn"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "ROGUE",
-				["deaths"] = {
-					{
-						4, -- [1]
-						394.1429999999818, -- [2]
-						"Божественная буря |cFFFF3333371|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Убийцаогров-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Okalani-DunMorogh"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						4, -- [1]
-						37.11999999999534, -- [2]
-						"Покрытое наростами щупальце |cFFFF333339,822|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ниэтта"] = {
-				["encounters"] = 7,
-				["points"] = 680,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						37.13299999997253, -- [2]
-						"Покрытое наростами щупальце |cFFFF333341,625|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						54.59200000000419, -- [2]
-						"Кошмарное антитело |cFFFF33331,384|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Наттара"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Parázsló-Outland"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Indora-Chantséternels"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Dralgsp-Dalaran"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Stormshadôw-DunModr"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Ryukä-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Nadaluxe-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Seeyourdeath-Darksorrow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Хиробе-ВечнаяПесня"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Shöwn-Dalaran"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Nuâlâ-Dalaran"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						37.15699999997742, -- [2]
-						"Покрытое наростами щупальце |cFFFF333333,237|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						425.2719999999972, -- [2]
-						"Раздирающее щупальце |cFFFF333338,736|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Secaná-ArgentDawn"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						3, -- [1]
-						67.76600000000326, -- [2]
-						"Кошмарное антитело |cFFFF33331,232|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						440.1109999999753, -- [2]
-						"Мощный удар жвалами |cFFFF33335,958|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Lüminette-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						2, -- [1]
-						391.3819999999832, -- [2]
-						"Бесконечная Бездна(ДоТ) |cFFFF33333,887|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ласковая-Ясеневыйлес"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Taic-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Zörtha-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Kubiak-LesSentinelles"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Romberg-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						2, -- [1]
-						391.5369999999821, -- [2]
-						"Бесконечная Бездна(ДоТ) |cFFFF33334,158|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Iraëlda-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Пуансеттия-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Bethone-Ravencrest"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Вивелиан"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Хеимонос-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Shukaz-Medivh"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Морхэна-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Билониклус-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Бондюэллька"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Rykahpo-Frostmane"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Шелонник-ЧерныйШрам"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Grollash-ArgentDawn"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						111.1929999999702, -- [2]
-						"Кошмарное антитело |cFFFF33331,401|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Ramic-Runetotem"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						2, -- [1]
-						120.7200000000303, -- [2]
-						"Кошмарное антитело |cFFFF33331,529|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Poppax-Sylvanas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Chagnorris-ArgentDawn"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Turbomunk-Sylvanas"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Kharium-DunModr"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						109.2630000000354, -- [2]
-						"Мощный удар жвалами |cFFFF33335,180|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Vyollet-ArgentDawn"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Lith-Frostmane"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						3, -- [1]
-						104.170999999973, -- [2]
-						"Кошмарное антитело |cFFFF33331,862|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Flâggér-Shattrath"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Requïem-LesSentinelles"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Dynadj-Dalaran"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						1, -- [1]
-						37.0109999999986, -- [2]
-						"Покрытое наростами щупальце |cFFFF333337,587|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Umbero-Ravencrest"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						187.1939999999595, -- [2]
-						"Кошмарное антитело |cFFFF33331,489|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Mcbänk-Rexxar"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Наркомотоз"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Миньминь-ВечнаяПесня"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MONK",
-				["deaths"] = {
-					{
-						1, -- [1]
-						157.1589999999851, -- [2]
-						"Покрытое наростами щупальце |cFFFF333335,226|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Darkwah-ArgentDawn"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 11,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["id"] = 2337,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Панцирь Н'Зота",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "Панцирь Н'Зота",
-		},
-		["diff"] = 15,
 	},
 	["236415"] = {
 		["hash"] = "236415",
@@ -3876,6 +3450,601 @@ DeathGraphsDBEndurance = {
 			},
 		},
 	},
+	["236615"] = {
+		["hash"] = "236615",
+		["type"] = "endurance",
+		["name"] = "Панцирь Н'Зота",
+		["id"] = 2366,
+		["player_db"] = {
+			["Шугэринг"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Thunderpants-DefiasBrotherhood"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Kysmyass-Cho'gall"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Æry-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						37.0570000000007, -- [2]
+						"Покрытое наростами щупальце |cFFFF333336,199|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Eltric-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						4, -- [1]
+						394.1429999999818, -- [2]
+						"Божественная буря |cFFFF3333371|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Сотворение"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Хиробе-ВечнаяПесня"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Iraëlda-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Lüminette-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						2, -- [1]
+						391.3819999999832, -- [2]
+						"Бесконечная Бездна(ДоТ) |cFFFF33333,887|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Наттара"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Parázsló-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Indora-Chantséternels"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Ryukä-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Seeyourdeath-Darksorrow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Киркора"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Secaná-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						3, -- [1]
+						67.76600000000326, -- [2]
+						"Кошмарное антитело |cFFFF33331,232|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						440.1109999999753, -- [2]
+						"Мощный удар жвалами |cFFFF33335,958|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Ласковая-Ясеневыйлес"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Ramic-Runetotem"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						2, -- [1]
+						120.7200000000303, -- [2]
+						"Кошмарное антитело |cFFFF33331,529|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Bethone-Ravencrest"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Chagnorris-ArgentDawn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Хеимонос-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Shukaz-Medivh"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Шелонник-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Куж"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Асцил"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Lith-Frostmane"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						3, -- [1]
+						104.170999999973, -- [2]
+						"Кошмарное антитело |cFFFF33331,862|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Flâggér-Shattrath"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Dynadj-Dalaran"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						37.0109999999986, -- [2]
+						"Покрытое наростами щупальце |cFFFF333337,587|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Mcbänk-Rexxar"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Наркомотоз"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Миньминь-ВечнаяПесня"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						157.1589999999851, -- [2]
+						"Покрытое наростами щупальце |cFFFF333335,226|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Darkwah-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Zörtha-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Букем"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Убийцаогров-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Okalani-DunMorogh"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						4, -- [1]
+						37.11999999999534, -- [2]
+						"Покрытое наростами щупальце |cFFFF333339,822|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Poppax-Sylvanas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Umbero-Ravencrest"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						1, -- [1]
+						187.1939999999595, -- [2]
+						"Кошмарное антитело |cFFFF33331,489|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Grollash-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						3, -- [1]
+						111.1929999999702, -- [2]
+						"Кошмарное антитело |cFFFF33331,401|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Вальтеон"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Shöwn-Dalaran"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Taic-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Отсталыймаг"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Алифф"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Пуансеттия-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Рыжумба"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Ниэтта"] = {
+				["encounters"] = 8,
+				["points"] = 780,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						37.13299999997253, -- [2]
+						"Покрытое наростами щупальце |cFFFF333341,625|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						54.59200000000419, -- [2]
+						"Кошмарное антитело |cFFFF33331,384|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Билониклус-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Бондюэллька"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Rykahpo-Frostmane"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Халорич"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Dralgsp-Dalaran"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Kery-Terokkar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Vyollet-ArgentDawn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Хелликс"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						137.1800000000512, -- [2]
+						"Бомба сумасшествия |cFFFF33335,269|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Turbomunk-Sylvanas"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Kharium-DunModr"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						2, -- [1]
+						109.2630000000354, -- [2]
+						"Мощный удар жвалами |cFFFF33335,180|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Рэйрити"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						412.5230000000447, -- [2]
+						"Раздирающее щупальце |cFFFF333337,320|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Requïem-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Gentlegiant-Sylvanas"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						66.66700000001583, -- [2]
+						"Атака ближнего боя |cFFFF33333,257|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Romberg-LesSentinelles"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						2, -- [1]
+						391.5369999999821, -- [2]
+						"Бесконечная Бездна(ДоТ) |cFFFF33334,158|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Stormshadôw-DunModr"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Nadaluxe-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Nuâlâ-Dalaran"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						37.15699999997742, -- [2]
+						"Покрытое наростами щупальце |cFFFF333333,237|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						425.2719999999972, -- [2]
+						"Раздирающее щупальце |cFFFF333338,736|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Kubiak-LesSentinelles"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Вивелиан"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Морхэна-ЧерныйШрам"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 11,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["id"] = 2337,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Панцирь Н'Зота",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Панцирь Н'Зота",
+		},
+		["diff"] = 15,
+	},
 	["236915"] = {
 		["hash"] = "236915",
 		["type"] = "endurance",
@@ -4178,6 +4347,211 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
+			},
+			["Darkwah-ArgentDawn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+		},
+	},
+	["237215"] = {
+		["hash"] = "237215",
+		["type"] = "endurance",
+		["name"] = "Коллективный разум",
+		["id"] = 2372,
+		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 5,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["encounter"] = "Коллективный разум",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Коллективный разум",
+			["diff"] = 15,
+			["id"] = 2333,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["Rumoxx-Doomhammer"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Xxlegol-LosErrantes"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						213.4040000000096, -- [2]
+						"Атака ближнего боя |cFFFF33338,712|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Namisuan-Minahonda"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Vanniaded-Blackmoore"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Adania-Malorne"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Hariin-Silvermoon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Mavïis-ColinasPardas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Ниэтта"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["Vyollet-ArgentDawn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Denvii-Silvermoon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Kaddy-ColinasPardas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Grollash-ArgentDawn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Babayaega-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Alif-Sanguino"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Eridiel-DunModr"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Kazogan-Silvermoon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Zharro-ArgentDawn"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						1, -- [1]
+						126.5449999999837, -- [2]
+						"Кислотные брызги |cFFFF33337,956|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Eltric-ArgentDawn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Olivas-DunModr"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Yatekuro-ColinasPardas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Ataraxia-Alleria"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Txuma-ColinasPardas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["Ishialert-Tyrande"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						219.5869999999995, -- [2]
+						"Атака ближнего боя |cFFFF33339,459|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "MAGE",
 			},
 			["Darkwah-ArgentDawn"] = {
 				["encounters"] = 1,
@@ -4513,2178 +4887,136 @@ DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 17080,
-				["timeofdeath"] = 107.1180000000168,
-				["name"] = "Morionx-Ravencrest",
-				["events"] = {
-					{
-						false, -- [1]
-						204883, -- [2]
-						1802, -- [3]
-						1603489561.688, -- [4]
-						17940, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						139, -- [2]
-						540, -- [3]
-						1603489561.688, -- [4]
-						17940, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						335467, -- [2]
-						461, -- [3]
-						1603489561.746, -- [4]
-						17940, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						335467, -- [2]
-						557, -- [3]
-						1603489562.885, -- [4]
-						17940, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						306934, -- [2]
-						380, -- [3]
-						1603489563.395, -- [4]
-						17560, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						81751, -- [2]
-						362, -- [3]
-						1603489563.766, -- [4]
-						17922, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						139, -- [2]
-						540, -- [3]
-						1603489564.046, -- [4]
-						17940, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						183811, -- [2]
-						78, -- [3]
-						1603489564.06, -- [4]
-						17940, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						77489, -- [2]
-						235, -- [3]
-						1603489564.714, -- [4]
-						17940, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						296003, -- [2]
-						99, -- [3]
-						1603489565.184, -- [4]
-						17940, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						307240, -- [2]
-						8772, -- [3]
-						1603489565.184, -- [4]
-						9267, -- [5]
-						"Живые миазмы", -- [6]
-						99, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						335467, -- [2]
-						558, -- [3]
-						1603489565.184, -- [4]
-						9825, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						306934, -- [2]
-						380, -- [3]
-						1603489565.354, -- [4]
-						9445, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						34914, -- [2]
-						265, -- [3]
-						1603489565.459, -- [4]
-						9710, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						81751, -- [2]
-						366, -- [3]
-						1603489565.901, -- [4]
-						10076, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						139, -- [2]
-						270, -- [3]
-						1603489566.428, -- [4]
-						10346, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						335467, -- [2]
-						694, -- [3]
-						1603489566.611, -- [4]
-						11040, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						306934, -- [2]
-						381, -- [3]
-						1603489567.37, -- [4]
-						10659, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						77489, -- [2]
-						236, -- [3]
-						1603489567.707, -- [4]
-						10895, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						34914, -- [2]
-						136, -- [3]
-						1603489567.878, -- [4]
-						11031, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						4, -- [1]
-						307358, -- [2]
-						1, -- [3]
-						1603489568.034, -- [4]
-						11031, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						81751, -- [2]
-						416, -- [3]
-						1603489568.063, -- [4]
-						11447, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						183811, -- [2]
-						83, -- [3]
-						1603489568.405, -- [4]
-						11530, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						306930, -- [2]
-						5051, -- [3]
-						1603489568.502, -- [4]
-						6479, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						306930, -- [2]
-						1, -- [3]
-						1603489568.502, -- [4]
-						6479, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						296212, -- [2]
-						192, -- [3]
-						1603489568.502, -- [4]
-						6671, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						139, -- [2]
-						270, -- [3]
-						1603489568.815, -- [4]
-						6941, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3109, -- [3]
-						1603489569.055, -- [4]
-						3832, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						306934, -- [2]
-						392, -- [3]
-						1603489569.359, -- [4]
-						3440, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3109, -- [3]
-						1603489570.033, -- [4]
-						331, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						34914, -- [2]
-						68, -- [3]
-						1603489570.252, -- [4]
-						3090, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3109, -- [3]
-						1603489571.076, -- [4]
-						1, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						19, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						47585, -- [2]
-						1, -- [3]
-						1603489495.489, -- [4]
-						0, -- [5]
-						"Morionx-Ravencrest", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "1m 47s",
-				["time"] = 1603489571.076,
-			}, -- [1]
-			{
-				["maxhealth"] = 17620,
-				["timeofdeath"] = 158.8919999999926,
-				["name"] = "Шупрек",
-				["events"] = {
-					{
-						false, -- [1]
-						81751, -- [2]
-						104, -- [3]
-						1603489617.481, -- [4]
-						5855, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2025, -- [3]
-						1603489617.811, -- [4]
-						3830, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						77489, -- [2]
-						149, -- [3]
-						1603489617.905, -- [4]
-						3979, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						143924, -- [2]
-						62, -- [3]
-						1603489618.569, -- [4]
-						4041, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						306934, -- [2]
-						842, -- [3]
-						1603489618.681, -- [4]
-						3199, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2024, -- [3]
-						1603489618.814, -- [4]
-						1175, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						297935, -- [2]
-						129, -- [3]
-						1603489618.834, -- [4]
-						1304, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						81751, -- [2]
-						103, -- [3]
-						1603489618.923, -- [4]
-						1407, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						297935, -- [2]
-						259, -- [3]
-						1603489619.306, -- [4]
-						1666, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						143924, -- [2]
-						61, -- [3]
-						1603489619.796, -- [4]
-						1727, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						297935, -- [2]
-						259, -- [3]
-						1603489619.796, -- [4]
-						1986, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						17, -- [2]
-						2024, -- [3]
-						1603489619.846, -- [4]
-						1986, -- [5]
-						"Шупрек", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2024, -- [3]
-						1603489619.846, -- [4]
-						1986, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						297935, -- [2]
-						258, -- [3]
-						1603489620.27, -- [4]
-						2244, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						81751, -- [2]
-						103, -- [3]
-						1603489620.324, -- [4]
-						2347, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						17, -- [2]
-						122, -- [3]
-						1603489620.388, -- [4]
-						2347, -- [5]
-						"Шупрек", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						306932, -- [2]
-						2025, -- [3]
-						1603489620.388, -- [4]
-						444, -- [5]
-						"[*] Токсичный покров", -- [6]
-						122, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1603489620.426, -- [4]
-						444, -- [5]
-						"Шупрек", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						81751, -- [2]
-						299, -- [3]
-						1603489620.618, -- [4]
-						743, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						183811, -- [2]
-						212, -- [3]
-						1603489620.618, -- [4]
-						955, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						306934, -- [2]
-						842, -- [3]
-						1603489620.676, -- [4]
-						113, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						297935, -- [2]
-						259, -- [3]
-						1603489620.734, -- [4]
-						372, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						77489, -- [2]
-						148, -- [3]
-						1603489620.89, -- [4]
-						520, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						143924, -- [2]
-						36, -- [3]
-						1603489621.001, -- [4]
-						556, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						297935, -- [2]
-						130, -- [3]
-						1603489621.188, -- [4]
-						686, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						81751, -- [2]
-						306, -- [3]
-						1603489621.327, -- [4]
-						992, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						94472, -- [2]
-						205, -- [3]
-						1603489621.783, -- [4]
-						1197, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						4, -- [1]
-						307358, -- [2]
-						1, -- [3]
-						1603489621.803, -- [4]
-						1197, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						81751, -- [2]
-						300, -- [3]
-						1603489621.99, -- [4]
-						1497, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						306934, -- [2]
-						595, -- [3]
-						1603489622.085, -- [4]
-						902, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						66, -- [3]
-						1603489622.197, -- [4]
-						968, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						307358, -- [2]
-						1012, -- [3]
-						1603489622.824, -- [4]
-						1, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						44, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Шупрек", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "2m 38s",
-				["time"] = 1603489622.85,
-			}, -- [2]
-			{
-				["maxhealth"] = 19460,
-				["timeofdeath"] = 159.6170000000275,
-				["name"] = "Chaoß-DieAldor",
-				["events"] = {
-					{
-						4, -- [1]
-						307358, -- [2]
-						1, -- [3]
-						1603489615.836, -- [4]
-						16430, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						97, -- [3]
-						1603489616.136, -- [4]
-						16527, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						306934, -- [2]
-						845, -- [3]
-						1603489616.381, -- [4]
-						15682, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2030, -- [3]
-						1603489616.816, -- [4]
-						13652, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						183811, -- [2]
-						92, -- [3]
-						1603489616.966, -- [4]
-						13744, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						57, -- [3]
-						1603489617.351, -- [4]
-						13801, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						306932, -- [2]
-						2030, -- [3]
-						1603489617.351, -- [4]
-						11771, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						183811, -- [2]
-						84, -- [3]
-						1603489617.504, -- [4]
-						11855, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2030, -- [3]
-						1603489617.811, -- [4]
-						9825, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						183811, -- [2]
-						84, -- [3]
-						1603489618.106, -- [4]
-						9909, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						306934, -- [2]
-						845, -- [3]
-						1603489618.365, -- [4]
-						9064, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						181, -- [3]
-						1603489618.569, -- [4]
-						9245, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2030, -- [3]
-						1603489618.814, -- [4]
-						7215, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						183811, -- [2]
-						206, -- [3]
-						1603489619.363, -- [4]
-						7421, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						183811, -- [2]
-						105, -- [3]
-						1603489619.752, -- [4]
-						7526, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						143924, -- [2]
-						159, -- [3]
-						1603489619.796, -- [4]
-						7685, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2030, -- [3]
-						1603489619.846, -- [4]
-						5655, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						53365, -- [2]
-						1225, -- [3]
-						1603489619.846, -- [4]
-						6880, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						183811, -- [2]
-						103, -- [3]
-						1603489619.873, -- [4]
-						6983, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						183811, -- [2]
-						104, -- [3]
-						1603489620.197, -- [4]
-						7087, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						306932, -- [2]
-						2030, -- [3]
-						1603489620.324, -- [4]
-						5057, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						270117, -- [2]
-						875, -- [3]
-						1603489620.345, -- [4]
-						5932, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						306934, -- [2]
-						844, -- [3]
-						1603489620.388, -- [4]
-						5088, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						307358, -- [2]
-						2030, -- [3]
-						1603489620.835, -- [4]
-						3058, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						143924, -- [2]
-						157, -- [3]
-						1603489621.001, -- [4]
-						3215, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						298318, -- [2]
-						871, -- [3]
-						1603489621.642, -- [4]
-						4086, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						143924, -- [2]
-						109, -- [3]
-						1603489622.197, -- [4]
-						4195, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						306934, -- [2]
-						766, -- [3]
-						1603489622.26, -- [4]
-						3429, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1977, -- [3]
-						1603489623.336, -- [4]
-						1452, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						90, -- [3]
-						1603489623.411, -- [4]
-						1542, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						314736, -- [2]
-						1, -- [3]
-						1603489623.54, -- [4]
-						1542, -- [5]
-						"[*] Бурлящее переполнение", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						314736, -- [2]
-						1906, -- [3]
-						1603489623.553, -- [4]
-						1, -- [5]
-						"[*] Бурлящее переполнение", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						364, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						48707, -- [2]
-						1, -- [3]
-						1603489582.208, -- [4]
-						0, -- [5]
-						"Chaoß-DieAldor", -- [6]
-					}, -- [33]
-				},
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "2m 39s",
-				["time"] = 1603489623.575,
-			}, -- [3]
-			{
-				["maxhealth"] = 19220,
-				["timeofdeath"] = 164.9370000000345,
-				["name"] = "Athnaizos-Silvermoon",
-				["events"] = {
-					{
-						false, -- [1]
-						81751, -- [2]
-						299, -- [3]
-						1603489620.618, -- [4]
-						8558, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						306934, -- [2]
-						848, -- [3]
-						1603489620.858, -- [4]
-						7710, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						335467, -- [2]
-						372, -- [3]
-						1603489621.278, -- [4]
-						8082, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						81751, -- [2]
-						306, -- [3]
-						1603489621.361, -- [4]
-						8388, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						94472, -- [2]
-						205, -- [3]
-						1603489621.783, -- [4]
-						8593, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						55, -- [3]
-						1603489621.783, -- [4]
-						8648, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						4, -- [1]
-						307358, -- [2]
-						1, -- [3]
-						1603489621.803, -- [4]
-						8648, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						81751, -- [2]
-						300, -- [3]
-						1603489622.023, -- [4]
-						8948, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						306934, -- [2]
-						721, -- [3]
-						1603489622.57, -- [4]
-						8227, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						34914, -- [2]
-						158, -- [3]
-						1603489622.63, -- [4]
-						8385, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						311201, -- [2]
-						472, -- [3]
-						1603489622.657, -- [4]
-						8857, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						307358, -- [2]
-						1018, -- [3]
-						1603489622.824, -- [4]
-						7839, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						143924, -- [2]
-						17, -- [3]
-						1603489623.032, -- [4]
-						7856, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						306932, -- [2]
-						2038, -- [3]
-						1603489623.411, -- [4]
-						5818, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						270117, -- [2]
-						470, -- [3]
-						1603489623.411, -- [4]
-						6288, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						335467, -- [2]
-						744, -- [3]
-						1603489623.51, -- [4]
-						7032, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						307358, -- [2]
-						1019, -- [3]
-						1603489623.815, -- [4]
-						6013, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						143924, -- [2]
-						35, -- [3]
-						1603489624.221, -- [4]
-						6048, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						307358, -- [2]
-						1019, -- [3]
-						1603489624.813, -- [4]
-						5029, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						34914, -- [2]
-						317, -- [3]
-						1603489624.857, -- [4]
-						5346, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						335467, -- [2]
-						247, -- [3]
-						1603489625.024, -- [4]
-						5593, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						20, -- [3]
-						1603489625.441, -- [4]
-						5613, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						17, -- [2]
-						1050, -- [3]
-						1603489625.839, -- [4]
-						5613, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						307358, -- [2]
-						1050, -- [3]
-						1603489625.839, -- [4]
-						5613, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						17, -- [2]
-						402, -- [3]
-						1603489626.397, -- [4]
-						5613, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						306932, -- [2]
-						2101, -- [3]
-						1603489626.397, -- [4]
-						3914, -- [5]
-						"[*] Токсичный покров", -- [6]
-						402, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1603489626.397, -- [4]
-						3914, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						143924, -- [2]
-						5, -- [3]
-						1603489626.643, -- [4]
-						3919, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						307358, -- [2]
-						1050, -- [3]
-						1603489626.815, -- [4]
-						2869, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						34914, -- [2]
-						144, -- [3]
-						1603489627.125, -- [4]
-						3013, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						10, -- [3]
-						1603489627.839, -- [4]
-						3023, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						307240, -- [2]
-						9809, -- [3]
-						1603489628.882, -- [4]
-						1, -- [5]
-						"Живые миазмы", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						6786, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Athnaizos-Silvermoon", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "2m 44s",
-				["time"] = 1603489628.895,
-			}, -- [4]
-			{
-				["maxhealth"] = 20960,
-				["timeofdeath"] = 189.6970000000438,
-				["name"] = "Gomachan-Doomhammer",
-				["events"] = {
-					{
-						false, -- [1]
-						596, -- [2]
-						727, -- [3]
-						1603489638.366, -- [4]
-						18973, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1999, -- [3]
-						1603489638.4, -- [4]
-						16974, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						596, -- [2]
-						1440, -- [3]
-						1603489639.93, -- [4]
-						18414, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						139, -- [2]
-						518, -- [3]
-						1603489640.066, -- [4]
-						18932, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						77489, -- [2]
-						615, -- [3]
-						1603489640.228, -- [4]
-						19547, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						296211, -- [2]
-						38, -- [3]
-						1603489640.72, -- [4]
-						19585, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1998, -- [3]
-						1603489641.419, -- [4]
-						17587, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						296212, -- [2]
-						383, -- [3]
-						1603489641.419, -- [4]
-						17970, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						139, -- [2]
-						259, -- [3]
-						1603489642.458, -- [4]
-						18229, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						77489, -- [2]
-						444, -- [3]
-						1603489643.22, -- [4]
-						18673, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						120692, -- [2]
-						1162, -- [3]
-						1603489643.685, -- [4]
-						19835, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						315763, -- [2]
-						1999, -- [3]
-						1603489644.422, -- [4]
-						19835, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1999, -- [3]
-						1603489644.422, -- [4]
-						19835, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						139, -- [2]
-						260, -- [3]
-						1603489644.86, -- [4]
-						20095, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						596, -- [2]
-						1443, -- [3]
-						1603489645.454, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						139, -- [2]
-						160, -- [3]
-						1603489645.578, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						77489, -- [2]
-						523, -- [3]
-						1603489646.22, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						596, -- [2]
-						1394, -- [3]
-						1603489647.056, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						296003, -- [2]
-						99, -- [3]
-						1603489647.405, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						315763, -- [2]
-						662, -- [3]
-						1603489647.405, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1994, -- [3]
-						1603489647.405, -- [4]
-						19727, -- [5]
-						"[*] Токсичный покров", -- [6]
-						761, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						296212, -- [2]
-						385, -- [3]
-						1603489647.427, -- [4]
-						20112, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						270117, -- [2]
-						1935, -- [3]
-						1603489647.437, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						4, -- [1]
-						307358, -- [2]
-						1, -- [3]
-						1603489648.636, -- [4]
-						20960, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77489, -- [2]
-						672, -- [3]
-						1603489649.218, -- [4]
-						20960, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3986, -- [3]
-						1603489649.654, -- [4]
-						16974, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1993, -- [3]
-						1603489650.41, -- [4]
-						14981, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3987, -- [3]
-						1603489650.637, -- [4]
-						10994, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3987, -- [3]
-						1603489651.646, -- [4]
-						7007, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						77489, -- [2]
-						673, -- [3]
-						1603489652.241, -- [4]
-						7680, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						307358, -- [2]
-						3987, -- [3]
-						1603489652.647, -- [4]
-						3693, -- [5]
-						"Шад'хар Ненасытный", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						306932, -- [2]
-						1994, -- [3]
-						1603489653.439, -- [4]
-						1699, -- [5]
-						"[*] Токсичный покров", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "3m 9s",
-				["time"] = 1603489653.655,
-			}, -- [5]
-		},
-		["bossname"] = "Шад'хар Ненасытный",
-		["bossicon"] = {
-			0.25, -- [1]
-			0.5, -- [2]
-			0.25, -- [3]
-			0.5, -- [4]
-			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
-		},
-		["date"] = 275791.844,
-		["timeelapsed"] = 219.5989999999874,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 27456,
-				["timeofdeath"] = 103.7779999999912,
-				["name"] = "Fakeavatar-Silvermoon",
+				["maxhealth"] = 17700,
+				["timeofdeath"] = 53.06000000005588,
+				["name"] = "Хелликс",
 				["events"] = {
 					{
 						2, -- [1]
-						61999, -- [2]
+						20484, -- [2]
 						1, -- [3]
-						1603488815.186, -- [4]
+						1606067016.51, -- [4]
 						0, -- [5]
-						"Chaoß-DieAldor", -- [6]
+						"Куж", -- [6]
 					}, -- [1]
 					{
 						false, -- [1]
-						81751, -- [2]
-						85, -- [3]
-						1603488792.199, -- [4]
-						24032, -- [5]
-						"Шупрек", -- [6]
+						48438, -- [2]
+						306, -- [3]
+						1606066964.106, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [2]
 					{
-						4, -- [1]
-						310224, -- [2]
-						8, -- [3]
-						1603488792.319, -- [4]
-						24032, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						48438, -- [2]
+						144, -- [3]
+						1606066964.848, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [3]
 					{
 						false, -- [1]
-						190456, -- [2]
-						890, -- [3]
-						1603488792.319, -- [4]
-						24032, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						true, -- [7]
+						303380, -- [2]
+						484, -- [3]
+						1606066965.374, -- [4]
+						17700, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [4]
 					{
-						true, -- [1]
-						307421, -- [2]
-						1781, -- [3]
-						1603488792.319, -- [4]
-						23141, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						890, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						false, -- [1]
+						48438, -- [2]
+						136, -- [3]
+						1606066965.585, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [5]
 					{
-						4, -- [1]
-						310224, -- [2]
-						9, -- [3]
-						1603488792.601, -- [4]
-						23141, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						774, -- [2]
+						310, -- [3]
+						1606066966.259, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [6]
 					{
 						false, -- [1]
-						190456, -- [2]
-						570, -- [3]
-						1603488792.601, -- [4]
-						23141, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						128, -- [3]
+						1606066966.338, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [7]
 					{
-						true, -- [1]
-						307421, -- [2]
-						1943, -- [3]
-						1603488792.601, -- [4]
-						21768, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						570, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						false, -- [1]
+						774, -- [2]
+						112, -- [3]
+						1606066966.666, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [8]
 					{
 						false, -- [1]
-						143924, -- [2]
-						51, -- [3]
-						1603488792.601, -- [4]
-						21819, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
+						48438, -- [2]
+						106, -- [3]
+						1606066967.109, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [9]
 					{
-						4, -- [1]
-						310224, -- [2]
-						10, -- [3]
-						1603488792.816, -- [4]
-						21819, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						296003, -- [2]
+						86, -- [3]
+						1606066967.253, -- [4]
+						17700, -- [5]
+						"Вальтеон", -- [6]
+						true, -- [7]
+						0, -- [8]
 					}, -- [10]
 					{
 						true, -- [1]
-						307421, -- [2]
-						2105, -- [3]
-						1603488792.816, -- [4]
-						19714, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
+						314889, -- [2]
+						2376, -- [3]
+						1606066967.253, -- [4]
+						15410, -- [5]
+						"Открытый синапс", -- [6]
+						86, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						81751, -- [2]
-						71, -- [3]
-						1603488792.982, -- [4]
-						19785, -- [5]
-						"Шупрек", -- [6]
+						270117, -- [2]
+						819, -- [3]
+						1606066967.291, -- [4]
+						16229, -- [5]
+						"Хелликс", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
-						183811, -- [2]
-						82, -- [3]
-						1603488793.066, -- [4]
-						19867, -- [5]
+						303380, -- [2]
+						484, -- [3]
+						1606066967.375, -- [4]
+						16713, -- [5]
 						"Ниэтта", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6692,1106 +5024,276 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [13]
 					{
-						4, -- [1]
-						310224, -- [2]
-						11, -- [3]
-						1603488793.066, -- [4]
-						19867, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						48438, -- [2]
+						46, -- [3]
+						1606066967.424, -- [4]
+						16759, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [14]
-					{
-						true, -- [1]
-						307421, -- [2]
-						2267, -- [3]
-						1603488793.066, -- [4]
-						17600, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						310224, -- [2]
-						12, -- [3]
-						1603488793.313, -- [4]
-						17600, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						307421, -- [2]
-						2429, -- [3]
-						1603488793.313, -- [4]
-						15171, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						4, -- [1]
-						310224, -- [2]
-						13, -- [3]
-						1603488793.585, -- [4]
-						15171, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						307421, -- [2]
-						2590, -- [3]
-						1603488793.585, -- [4]
-						12581, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
 					{
 						false, -- [1]
 						143924, -- [2]
 						36, -- [3]
-						1603488793.815, -- [4]
-						12617, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
+						1606066967.563, -- [4]
+						16795, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						85, -- [3]
+						1606066968.77, -- [4]
+						16880, -- [5]
+						"Хелликс", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [20]
-					{
-						4, -- [1]
-						310224, -- [2]
-						14, -- [3]
-						1603488793.826, -- [4]
-						12617, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						307421, -- [2]
-						2837, -- [3]
-						1603488793.826, -- [4]
-						9780, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						310224, -- [2]
-						15, -- [3]
-						1603488794.063, -- [4]
-						9780, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						307421, -- [2]
-						3005, -- [3]
-						1603488794.063, -- [4]
-						6775, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
+					}, -- [16]
 					{
 						false, -- [1]
-						270117, -- [2]
-						383, -- [3]
-						1603488794.085, -- [4]
-						7158, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						183811, -- [2]
-						82, -- [3]
-						1603488794.205, -- [4]
-						7240, -- [5]
+						303380, -- [2]
+						484, -- [3]
+						1606066969.363, -- [4]
+						17364, -- [5]
 						"Ниэтта", -- [6]
 						nil, -- [7]
 						0, -- [8]
+					}, -- [17]
+					{
+						false, -- [1]
+						145110, -- [2]
+						635, -- [3]
+						1606066969.818, -- [4]
+						17700, -- [5]
+						"Куж", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						303380, -- [2]
+						484, -- [3]
+						1606066971.363, -- [4]
+						17700, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						311201, -- [2]
+						1412, -- [3]
+						1606066973.384, -- [4]
+						17700, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						false, -- [1]
+						225311, -- [2]
+						1766, -- [3]
+						1606066974.515, -- [4]
+						17700, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1606066980.683, -- [4]
+						17700, -- [5]
+						"Эгос", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6796, -- [3]
+						1606066980.683, -- [4]
+						10904, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						270117, -- [2]
+						410, -- [3]
+						1606066980.709, -- [4]
+						11314, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						64, -- [3]
+						1606066980.973, -- [4]
+						11378, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [25]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6796, -- [3]
+						1606066981.692, -- [4]
+						4582, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						4, -- [1]
-						310224, -- [2]
-						16, -- [3]
-						1603488794.315, -- [4]
-						7240, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						183811, -- [2]
+						66, -- [3]
+						1606066981.749, -- [4]
+						4648, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [27]
-					{
-						true, -- [1]
-						307421, -- [2]
-						3172, -- [3]
-						1603488794.315, -- [4]
-						4068, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						310224, -- [2]
-						17, -- [3]
-						1603488794.57, -- [4]
-						4068, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						307421, -- [2]
-						3339, -- [3]
-						1603488794.57, -- [4]
-						729, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
 					{
 						false, -- [1]
 						183811, -- [2]
-						84, -- [3]
-						1603488794.666, -- [4]
-						813, -- [5]
+						125, -- [3]
+						1606066981.749, -- [4]
+						4773, -- [5]
 						"Ниэтта", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						4, -- [1]
-						310224, -- [2]
-						18, -- [3]
-						1603488794.85, -- [4]
-						813, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
+					}, -- [28]
 					{
 						true, -- [1]
-						307421, -- [2]
-						3505, -- [3]
-						1603488794.85, -- [4]
-						1, -- [5]
-						"Перерожденный служитель Бездны", -- [6]
+						310333, -- [2]
+						1358, -- [3]
+						1606066981.749, -- [4]
+						3415, -- [5]
+						"Глаз разума", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						2692, -- [10]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						311201, -- [2]
+						1412, -- [3]
+						1606066981.779, -- [4]
+						4827, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [30]
+					{
+						false, -- [1]
+						145109, -- [2]
+						531, -- [3]
+						1606066982.099, -- [4]
+						5358, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [31]
+					{
+						false, -- [1]
+						143924, -- [2]
+						222, -- [3]
+						1606066982.19, -- [4]
+						5580, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [32]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6796, -- [3]
+						1606066982.729, -- [4]
+						1, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						1216, -- [10]
 					}, -- [33]
 					{
 						3, -- [1]
-						12975, -- [2]
-						1, -- [3]
-						1603488786.598, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
+						"Хелликс", -- [6]
 					}, -- [34]
 				},
-				["class"] = "WARRIOR",
-				["timestring"] = "1m 43s",
-				["time"] = 1603488794.85,
+				["class"] = "DRUID",
+				["timestring"] = "0m 53s",
+				["time"] = 1606066982.744,
 			}, -- [1]
 			{
-				["maxhealth"] = 17080,
-				["timeofdeath"] = 226.088000000047,
-				["name"] = "Morionx-Ravencrest",
+				["maxhealth"] = 15640,
+				["timeofdeath"] = 109.4960000000428,
+				["name"] = "Отсталыймаг",
 				["events"] = {
 					{
 						false, -- [1]
-						139, -- [2]
-						375, -- [3]
-						1603488908.352, -- [4]
-						15895, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						183811, -- [2]
+						76, -- [3]
+						1606067010.27, -- [4]
+						16117, -- [5]
+						"Букем", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						265202, -- [2]
-						1310, -- [3]
-						1603488908.352, -- [4]
-						17205, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						183811, -- [2]
+						75, -- [3]
+						1606067010.27, -- [4]
+						16192, -- [5]
+						"Ниэтта", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [2]
 					{
-						true, -- [1]
-						313283, -- [2]
-						2610, -- [3]
-						1603488908.389, -- [4]
-						14595, -- [5]
-						"Вексиона", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						74, -- [3]
+						1606067010.763, -- [4]
+						16266, -- [5]
+						"Букем", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [3]
 					{
 						false, -- [1]
-						33110, -- [2]
-						1514, -- [3]
-						1603488908.419, -- [4]
-						16109, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						4, -- [1]
-						307284, -- [2]
-						1, -- [3]
-						1603488909.713, -- [4]
-						16108, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						34914, -- [2]
-						125, -- [3]
-						1603488909.795, -- [4]
-						16233, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						77489, -- [2]
-						327, -- [3]
-						1603488909.902, -- [4]
-						16560, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						335467, -- [2]
-						348, -- [3]
-						1603488910.247, -- [4]
-						16908, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						139, -- [2]
-						375, -- [3]
-						1603488910.635, -- [4]
-						17283, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [9]
-					{
-						4, -- [1]
-						307019, -- [2]
-						18, -- [3]
-						1603488911.252, -- [4]
-						17283, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						4, -- [1]
-						307645, -- [2]
-						1, -- [3]
-						1603488911.252, -- [4]
-						17283, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						17, -- [2]
-						1303, -- [3]
-						1603488911.252, -- [4]
-						17283, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						307639, -- [2]
-						4931, -- [3]
-						1603488911.252, -- [4]
-						13655, -- [5]
-						"Вексиона", -- [6]
-						1303, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1603488911.252, -- [4]
-						13655, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						33110, -- [2]
-						778, -- [3]
-						1603488911.324, -- [4]
-						14433, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						313283, -- [2]
-						2937, -- [3]
-						1603488911.358, -- [4]
-						11496, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						335467, -- [2]
-						170, -- [3]
-						1603488912.193, -- [4]
-						11666, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						77489, -- [2]
-						286, -- [3]
-						1603488912.912, -- [4]
-						11952, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						139, -- [2]
-						359, -- [3]
-						1603488912.944, -- [4]
-						12311, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						34914, -- [2]
-						116, -- [3]
-						1603488913.792, -- [4]
-						12427, -- [5]
-						"Morionx-Ravencrest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						4, -- [1]
-						307019, -- [2]
-						19, -- [3]
-						1603488914.067, -- [4]
-						12427, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						307317, -- [2]
-						2616, -- [3]
-						1603488914.067, -- [4]
-						9811, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						307343, -- [2]
-						1, -- [3]
-						1603488914.127, -- [4]
-						9811, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						313283, -- [2]
-						3100, -- [3]
-						1603488914.391, -- [4]
-						6711, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						307284, -- [2]
-						1, -- [3]
-						1603488914.935, -- [4]
-						6711, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						296003, -- [2]
-						98, -- [3]
-						1603488915.145, -- [4]
-						6711, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						307343, -- [2]
-						2616, -- [3]
-						1603488915.145, -- [4]
-						4193, -- [5]
-						"Вексиона", -- [6]
-						98, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						4, -- [1]
-						307019, -- [2]
-						20, -- [3]
-						1603488915.145, -- [4]
-						4193, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						77489, -- [2]
-						286, -- [3]
-						1603488915.923, -- [4]
-						4479, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						307343, -- [2]
-						2616, -- [3]
-						1603488916.158, -- [4]
-						1863, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						307019, -- [2]
-						21, -- [3]
-						1603488916.158, -- [4]
-						1863, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						307343, -- [2]
-						2616, -- [3]
-						1603488917.16, -- [4]
-						1, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						753, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						47585, -- [2]
-						1, -- [3]
-						1603488877.918, -- [4]
-						0, -- [5]
-						"Morionx-Ravencrest", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "3m 46s",
-				["time"] = 1603488917.16,
-			}, -- [2]
-			{
-				["maxhealth"] = 27456,
-				["timeofdeath"] = 241.1529999999912,
-				["name"] = "Fakeavatar-Silvermoon",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						11, -- [3]
-						1603488925.083, -- [4]
-						11179, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						186439, -- [2]
-						103, -- [3]
-						1603488925.083, -- [4]
-						11076, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						81751, -- [2]
-						84, -- [3]
-						1603488925.392, -- [4]
-						11160, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						316643, -- [2]
-						1326, -- [3]
-						1603488925.762, -- [4]
-						12486, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						1, -- [2]
-						1800, -- [3]
-						1603488925.97, -- [4]
-						12486, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						313283, -- [2]
-						2328, -- [3]
-						1603488926.268, -- [4]
-						8358, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						270117, -- [2]
-						382, -- [3]
-						1603488926.268, -- [4]
-						8740, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						143924, -- [2]
-						127, -- [3]
-						1603488926.268, -- [4]
-						8867, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						94472, -- [2]
-						647, -- [3]
-						1603488926.433, -- [4]
-						9514, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						4, -- [1]
-						310323, -- [2]
-						1, -- [3]
-						1603488926.736, -- [4]
-						9514, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						81751, -- [2]
-						85, -- [3]
-						1603488926.816, -- [4]
-						9599, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						316643, -- [2]
-						949, -- [3]
-						1603488927.379, -- [4]
-						10548, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						77489, -- [2]
-						101, -- [3]
-						1603488927.482, -- [4]
-						10649, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1603488927.482, -- [4]
-						10665, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
 						183811, -- [2]
-						94, -- [3]
-						1603488927.669, -- [4]
-						10759, -- [5]
+						76, -- [3]
+						1606067010.763, -- [4]
+						16342, -- [5]
 						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						81751, -- [2]
-						106, -- [3]
-						1603488928.245, -- [4]
-						10865, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						47, -- [3]
-						1603488928.728, -- [4]
-						10912, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						183811, -- [2]
-						97, -- [3]
-						1603488928.877, -- [4]
-						11009, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						81751, -- [2]
-						307, -- [3]
-						1603488928.877, -- [4]
-						11316, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						313283, -- [2]
-						2910, -- [3]
-						1603488929.239, -- [4]
-						8406, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						81751, -- [2]
-						313, -- [3]
-						1603488929.586, -- [4]
-						8719, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						81751, -- [2]
-						106, -- [3]
-						1603488929.698, -- [4]
-						8825, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						183811, -- [2]
-						96, -- [3]
-						1603488929.806, -- [4]
-						8921, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						143924, -- [2]
-						26, -- [3]
-						1603488929.953, -- [4]
-						8947, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77489, -- [2]
-						100, -- [3]
-						1603488930.46, -- [4]
-						9047, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						81751, -- [2]
-						402, -- [3]
-						1603488931.015, -- [4]
-						9449, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						81751, -- [2]
-						105, -- [3]
-						1603488931.081, -- [4]
-						9554, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						183811, -- [2]
-						214, -- [3]
-						1603488931.582, -- [4]
-						9768, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						307019, -- [2]
-						27, -- [3]
-						1603488931.699, -- [4]
-						9768, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						310325, -- [2]
-						7291, -- [3]
-						1603488931.699, -- [4]
-						2477, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						29, -- [3]
-						1603488931.969, -- [4]
-						2506, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						1, -- [2]
-						3757, -- [3]
-						1603488932.17, -- [4]
-						2506, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						1251, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						871, -- [2]
-						1, -- [3]
-						1603488916.505, -- [4]
-						0, -- [5]
-						"Fakeavatar-Silvermoon", -- [6]
-					}, -- [33]
-				},
-				["class"] = "WARRIOR",
-				["timestring"] = "4m 1s",
-				["time"] = 1603488932.225,
-			}, -- [3]
-			{
-				["maxhealth"] = 16960,
-				["timeofdeath"] = 241.2110000000102,
-				["name"] = "Icequen-Thunderhorn",
-				["events"] = {
-					{
-						false, -- [1]
-						303380, -- [2]
-						388, -- [3]
-						1603488924.093, -- [4]
-						7100, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						19, -- [3]
-						1603488924.251, -- [4]
-						9792, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						77489, -- [2]
-						141, -- [3]
-						1603488924.296, -- [4]
-						9933, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						143924, -- [2]
-						43, -- [3]
-						1603488925.502, -- [4]
-						9976, -- [5]
-						"Icequen-Thunderhorn", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -7799,507 +5301,101 @@ DeathGraphsDBCurrent = {
 					}, -- [4]
 					{
 						false, -- [1]
-						296211, -- [2]
-						19, -- [3]
-						1603488925.888, -- [4]
-						9995, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						183811, -- [2]
+						77, -- [3]
+						1606067011.275, -- [4]
+						16419, -- [5]
+						"Букем", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						303380, -- [2]
-						389, -- [3]
-						1603488926.063, -- [4]
-						10384, -- [5]
-						"Icequen-Thunderhorn", -- [6]
+						183811, -- [2]
+						154, -- [3]
+						1606067011.275, -- [4]
+						16420, -- [5]
+						"Ниэтта", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [6]
-					{
-						true, -- [1]
-						313283, -- [2]
-						2701, -- [3]
-						1603488926.268, -- [4]
-						7683, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						296212, -- [2]
-						383, -- [3]
-						1603488926.268, -- [4]
-						8066, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						183811, -- [2]
-						94, -- [3]
-						1603488926.56, -- [4]
-						8160, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18, -- [3]
-						1603488926.736, -- [4]
-						8178, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						298318, -- [2]
-						1738, -- [3]
-						1603488926.736, -- [4]
-						9916, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						183811, -- [2]
-						98, -- [3]
-						1603488927.06, -- [4]
-						10014, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						183811, -- [2]
-						97, -- [3]
-						1603488927.06, -- [4]
-						10111, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [13]
-					{
-						false, -- [1]
-						77489, -- [2]
-						127, -- [3]
-						1603488927.293, -- [4]
-						10238, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						183811, -- [2]
-						94, -- [3]
-						1603488927.482, -- [4]
-						10332, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						183811, -- [2]
-						97, -- [3]
-						1603488927.934, -- [4]
-						10429, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						127, -- [3]
-						1603488927.934, -- [4]
-						10556, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						183811, -- [2]
-						96, -- [3]
-						1603488928.005, -- [4]
-						10652, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						28, -- [3]
-						1603488929.141, -- [4]
-						10680, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
 					{
 						false, -- [1]
 						269279, -- [2]
-						1247, -- [3]
-						1603488929.239, -- [4]
-						10680, -- [5]
-						"Icequen-Thunderhorn", -- [6]
+						532, -- [3]
+						1606067012.964, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
 						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						313283, -- [2]
-						2631, -- [3]
-						1603488929.239, -- [4]
-						9296, -- [5]
-						"Вексиона", -- [6]
-						1247, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						77489, -- [2]
-						127, -- [3]
-						1603488930.318, -- [4]
-						9423, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						183811, -- [2]
-						93, -- [3]
-						1603488930.611, -- [4]
-						9516, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1603488930.755, -- [4]
-						9532, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						183811, -- [2]
-						104, -- [3]
-						1603488931.251, -- [4]
-						9636, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						183811, -- [2]
-						206, -- [3]
-						1603488931.482, -- [4]
-						9842, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						183811, -- [2]
-						103, -- [3]
-						1603488931.699, -- [4]
-						9945, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						4, -- [1]
-						307019, -- [2]
-						23, -- [3]
-						1603488931.699, -- [4]
-						9945, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						310325, -- [2]
-						7588, -- [3]
-						1603488931.699, -- [4]
-						2357, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						23, -- [3]
-						1603488931.969, -- [4]
-						2380, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						269238, -- [2]
-						642, -- [3]
-						1603488932.225, -- [4]
-						3022, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						313283, -- [2]
-						3870, -- [3]
-						1603488932.283, -- [4]
-						1, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						848, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						45438, -- [2]
-						1, -- [3]
-						1603488894.989, -- [4]
-						0, -- [5]
-						"Icequen-Thunderhorn", -- [6]
-					}, -- [33]
-				},
-				["class"] = "MAGE",
-				["timestring"] = "4m 1s",
-				["time"] = 1603488932.283,
-			}, -- [4]
-			{
-				["maxhealth"] = 19120,
-				["timeofdeath"] = 244.9729999999981,
-				["name"] = "Chaoß-DieAldor",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1603488930.755, -- [4]
-						5382, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						183811, -- [2]
-						195, -- [3]
-						1603488930.755, -- [4]
-						5577, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						81751, -- [2]
-						402, -- [3]
-						1603488931.015, -- [4]
-						5979, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						81751, -- [2]
-						105, -- [3]
-						1603488931.081, -- [4]
-						6084, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						77489, -- [2]
-						116, -- [3]
-						1603488931.34, -- [4]
-						6200, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						32, -- [3]
-						1603488931.969, -- [4]
-						6232, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						17, -- [2]
-						3214, -- [3]
-						1603488932.384, -- [4]
-						6232, -- [5]
-						"Шупрек", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
 					}, -- [7]
 					{
 						true, -- [1]
-						313283, -- [2]
-						4255, -- [3]
-						1603488932.384, -- [4]
-						5191, -- [5]
-						"Вексиона", -- [6]
-						3214, -- [7]
+						319346, -- [2]
+						532, -- [3]
+						1606067012.964, -- [4]
+						16420, -- [5]
+						"[*] Бремя бесконечности", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1603488932.384, -- [4]
-						5191, -- [5]
-						"Шупрек", -- [6]
-						true, -- [7]
+						325983, -- [2]
+						1718, -- [3]
+						1606067014.522, -- [4]
+						16420, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						81751, -- [2]
-						105, -- [3]
-						1603488932.518, -- [4]
-						5296, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
+						269279, -- [2]
+						489, -- [3]
+						1606067017.971, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1603488933.195, -- [4]
-						5312, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
+						235450, -- [2]
+						43, -- [3]
+						1606067017.971, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [11]
 					{
-						false, -- [1]
-						45470, -- [2]
-						3649, -- [3]
-						1603488933.195, -- [4]
-						8961, -- [5]
-						"Chaoß-DieAldor", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						532, -- [3]
+						1606067017.971, -- [4]
+						16420, -- [5]
+						"[*] Бремя бесконечности", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
-						53365, -- [2]
-						1386, -- [3]
-						1603488933.374, -- [4]
-						10347, -- [5]
-						"Chaoß-DieAldor", -- [6]
+						325983, -- [2]
+						870, -- [3]
+						1606067018.164, -- [4]
+						16420, -- [5]
+						"Букем", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -8307,633 +5403,219 @@ DeathGraphsDBCurrent = {
 					}, -- [13]
 					{
 						false, -- [1]
-						183811, -- [2]
-						105, -- [3]
-						1603488933.374, -- [4]
-						10452, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
+						235450, -- [2]
+						532, -- [3]
+						1606067022.976, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
+						true, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						false, -- [1]
-						183811, -- [2]
-						105, -- [3]
-						1603488933.519, -- [4]
-						10557, -- [5]
-						"Ниэтта", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						532, -- [3]
+						1606067022.976, -- [4]
+						16420, -- [5]
+						"[*] Бремя бесконечности", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						143924, -- [2]
-						33, -- [3]
-						1603488934.399, -- [4]
-						7578, -- [5]
-						"Chaoß-DieAldor", -- [6]
+						325983, -- [2]
+						1973, -- [3]
+						1606067023.046, -- [4]
+						16420, -- [5]
+						"Букем", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						183811, -- [2]
-						107, -- [3]
-						1603488934.432, -- [4]
-						7685, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
+						235450, -- [2]
+						532, -- [3]
+						1606067027.968, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [17]
 					{
-						4, -- [1]
-						307020, -- [2]
-						1, -- [3]
-						1603488934.789, -- [4]
-						7685, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						4, -- [1]
-						307019, -- [2]
-						27, -- [3]
-						1603488934.789, -- [4]
-						7685, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
 						true, -- [1]
-						307297, -- [2]
-						1613, -- [3]
-						1603488934.789, -- [4]
-						6072, -- [5]
-						"Вексиона", -- [6]
+						319346, -- [2]
+						532, -- [3]
+						1606067027.968, -- [4]
+						16420, -- [5]
+						"[*] Бремя бесконечности", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						325983, -- [2]
+						844, -- [3]
+						1606067032.076, -- [4]
+						16420, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [19]
+					{
+						false, -- [1]
+						225311, -- [2]
+						1270, -- [3]
+						1606067032.804, -- [4]
+						16420, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [20]
 					{
-						4, -- [1]
-						307019, -- [2]
-						28, -- [3]
-						1603488935.192, -- [4]
-						6072, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						235450, -- [2]
+						532, -- [3]
+						1606067032.974, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
+						true, -- [7]
+						0, -- [8]
 					}, -- [21]
 					{
 						true, -- [1]
-						307297, -- [2]
-						1584, -- [3]
-						1603488935.192, -- [4]
-						4488, -- [5]
-						"Вексиона", -- [6]
+						319346, -- [2]
+						532, -- [3]
+						1606067032.974, -- [4]
+						16420, -- [5]
+						"[*] Бремя бесконечности", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						81751, -- [2]
-						108, -- [3]
-						1603488935.357, -- [4]
-						4596, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						311392, -- [2]
+						1, -- [3]
+						1606067033.944, -- [4]
+						16420, -- [5]
+						"Mindgrasp Stalker", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [23]
 					{
-						true, -- [1]
-						313283, -- [2]
-						4582, -- [3]
-						1603488935.405, -- [4]
-						14, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1606067037.349, -- [4]
+						16420, -- [5]
+						"Зараженный нейрон", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						270117, -- [2]
-						812, -- [3]
-						1603488935.468, -- [4]
-						826, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						94472, -- [2]
-						850, -- [3]
-						1603488935.468, -- [4]
-						1676, -- [5]
-						"Шупрек", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						4, -- [1]
-						307019, -- [2]
-						29, -- [3]
-						1603488935.622, -- [4]
-						1676, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						307297, -- [2]
-						1542, -- [3]
-						1603488935.622, -- [4]
-						134, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						143924, -- [2]
-						102, -- [3]
-						1603488935.622, -- [4]
-						236, -- [5]
-						"Chaoß-DieAldor", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						183811, -- [2]
-						107, -- [3]
-						1603488935.778, -- [4]
-						343, -- [5]
-						"Ниэтта", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						307019, -- [2]
-						30, -- [3]
-						1603488935.997, -- [4]
-						343, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						307297, -- [2]
-						1551, -- [3]
-						1603488935.997, -- [4]
-						1, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						1208, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						48707, -- [2]
-						1, -- [3]
-						1603488910.874, -- [4]
-						0, -- [5]
-						"Chaoß-DieAldor", -- [6]
-					}, -- [33]
-				},
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "4m 4s",
-				["time"] = 1603488936.045,
-			}, -- [5]
-			{
-				["maxhealth"] = 19840,
-				["timeofdeath"] = 247.3400000000256,
-				["name"] = "Gomachan-Doomhammer",
-				["events"] = {
-					{
-						false, -- [1]
-						77489, -- [2]
-						374, -- [3]
-						1603488928.097, -- [4]
-						12884, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						313283, -- [2]
-						1494, -- [3]
-						1603488929.441, -- [4]
-						11390, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						270117, -- [2]
-						964, -- [3]
-						1603488929.441, -- [4]
-						12354, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						4, -- [1]
-						307019, -- [2]
-						10, -- [3]
-						1603488929.806, -- [4]
-						12354, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						307317, -- [2]
-						2662, -- [3]
-						1603488929.806, -- [4]
-						9692, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						296212, -- [2]
-						383, -- [3]
-						1603488929.891, -- [4]
-						10075, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						4, -- [1]
-						307343, -- [2]
-						1, -- [3]
-						1603488929.953, -- [4]
-						10075, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						307343, -- [2]
-						2663, -- [3]
-						1603488930.958, -- [4]
-						7412, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						4, -- [1]
-						307019, -- [2]
-						11, -- [3]
-						1603488930.958, -- [4]
-						7412, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						77489, -- [2]
-						242, -- [3]
-						1603488931.081, -- [4]
-						7654, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						139, -- [2]
-						286, -- [3]
-						1603488931.699, -- [4]
-						7940, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						269238, -- [2]
-						623, -- [3]
-						1603488932.225, -- [4]
-						8563, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						269238, -- [2]
-						623, -- [3]
-						1603488932.283, -- [4]
-						9186, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						313283, -- [2]
-						1826, -- [3]
-						1603488932.384, -- [4]
-						7360, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						204883, -- [2]
-						942, -- [3]
-						1603488933.195, -- [4]
-						8302, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						77489, -- [2]
-						352, -- [3]
-						1603488934.065, -- [4]
-						8654, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						269108, -- [2]
-						434, -- [3]
-						1603488934.065, -- [4]
-						9088, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						4, -- [1]
-						307019, -- [2]
-						12, -- [3]
-						1603488934.789, -- [4]
-						6112, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						296003, -- [2]
-						99, -- [3]
-						1603488934.789, -- [4]
-						6112, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						235450, -- [2]
+						1203, -- [3]
+						1606067037.363, -- [4]
+						16420, -- [5]
+						"Отсталыймаг", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						307297, -- [2]
-						1588, -- [3]
-						1603488934.789, -- [4]
-						4623, -- [5]
-						"Вексиона", -- [6]
-						99, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						4, -- [1]
-						307019, -- [2]
-						13, -- [3]
-						1603488935.192, -- [4]
-						4623, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						307297, -- [2]
-						1592, -- [3]
-						1603488935.192, -- [4]
-						3031, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						313283, -- [2]
-						2159, -- [3]
-						1603488935.468, -- [4]
-						872, -- [5]
-						"Вексиона", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						270117, -- [2]
-						964, -- [3]
-						1603488935.468, -- [4]
-						1836, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						269238, -- [2]
-						623, -- [3]
-						1603488936.045, -- [4]
-						2459, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						139, -- [2]
-						573, -- [3]
-						1603488936.35, -- [4]
-						3032, -- [5]
-						"Gomachan-Doomhammer", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						309991, -- [2]
+						5331, -- [3]
+						1606067037.363, -- [4]
+						12292, -- [5]
+						"Зараженный нейрон", -- [6]
+						1203, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						77489, -- [2]
-						411, -- [3]
-						1603488937.083, -- [4]
-						3443, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						145110, -- [2]
+						662, -- [3]
+						1606067037.417, -- [4]
+						12954, -- [5]
+						"Вальтеон", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						139, -- [2]
-						574, -- [3]
-						1603488937.123, -- [4]
-						4017, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						665, -- [3]
+						1606067037.977, -- [4]
+						12289, -- [5]
+						"[*] Бремя бесконечности", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
 						4, -- [1]
-						307314, -- [2]
+						309991, -- [2]
 						1, -- [3]
-						1603488937.64, -- [4]
-						4017, -- [5]
-						"Вексиона", -- [6]
+						1606067038.162, -- [4]
+						12289, -- [5]
+						"Н'Зот Заразитель", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [29]
 					{
-						4, -- [1]
-						307019, -- [2]
-						14, -- [3]
-						1603488937.64, -- [4]
-						4017, -- [5]
-						"Вексиона", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
 						true, -- [1]
-						307317, -- [2]
-						2657, -- [3]
-						1603488937.64, -- [4]
-						1360, -- [5]
-						"Вексиона", -- [6]
+						309991, -- [2]
+						6664, -- [3]
+						1606067038.174, -- [4]
+						5625, -- [5]
+						"Н'Зот Заразитель", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [31]
+					}, -- [30]
 					{
 						false, -- [1]
-						296212, -- [2]
-						384, -- [3]
-						1603488937.666, -- [4]
-						1744, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						280177, -- [2]
+						230, -- [3]
+						1606067039.054, -- [4]
+						5855, -- [5]
+						"Отсталыймаг", -- [6]
 						nil, -- [7]
 						0, -- [8]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6664, -- [3]
+						1606067039.18, -- [4]
+						1, -- [5]
+						"Н'Зот Заразитель", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						809, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -8941,24 +5623,2450 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Gomachan-Doomhammer", -- [6]
+						"Отсталыймаг", -- [6]
 					}, -- [33]
 				},
-				["class"] = "PRIEST",
-				["timestring"] = "4m 7s",
-				["time"] = 1603488938.412,
-			}, -- [6]
+				["class"] = "MAGE",
+				["timestring"] = "1m 49s",
+				["time"] = 1606067039.18,
+			}, -- [2]
+			{
+				["maxhealth"] = 20240,
+				["timeofdeath"] = 221.2960000000894,
+				["name"] = "Халорич",
+				["events"] = {
+					{
+						false, -- [1]
+						194509, -- [2]
+						2166, -- [3]
+						1606067144.436, -- [4]
+						19815, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						604, -- [3]
+						1606067144.763, -- [4]
+						20419, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						274436, -- [2]
+						23, -- [3]
+						1606067144.763, -- [4]
+						20442, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						false, -- [1]
+						183811, -- [2]
+						143, -- [3]
+						1606067145.194, -- [4]
+						20585, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						311201, -- [2]
+						1140, -- [3]
+						1606067145.205, -- [4]
+						21260, -- [5]
+						"Халорич", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						false, -- [1]
+						94472, -- [2]
+						473, -- [3]
+						1606067145.72, -- [4]
+						21260, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						81751, -- [2]
+						236, -- [3]
+						1606067146.552, -- [4]
+						21260, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1606067146.939, -- [4]
+						21260, -- [5]
+						"Эгос", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6414, -- [3]
+						1606067146.939, -- [4]
+						14846, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						270117, -- [2]
+						447, -- [3]
+						1606067147.007, -- [4]
+						15293, -- [5]
+						"Халорич", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [10]
+					{
+						false, -- [1]
+						774, -- [2]
+						241, -- [3]
+						1606067147.007, -- [4]
+						15534, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						274436, -- [2]
+						22, -- [3]
+						1606067147.007, -- [4]
+						15556, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [12]
+					{
+						false, -- [1]
+						298318, -- [2]
+						2001, -- [3]
+						1606067147.038, -- [4]
+						17557, -- [5]
+						"Халорич", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						183811, -- [2]
+						72, -- [3]
+						1606067147.087, -- [4]
+						17629, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						81751, -- [2]
+						886, -- [3]
+						1606067147.741, -- [4]
+						18515, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						296003, -- [2]
+						86, -- [3]
+						1606067147.94, -- [4]
+						18515, -- [5]
+						"Вальтеон", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6049, -- [3]
+						1606067147.94, -- [4]
+						12552, -- [5]
+						"Эгос", -- [6]
+						86, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						183811, -- [2]
+						79, -- [3]
+						1606067148.245, -- [4]
+						12631, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						311201, -- [2]
+						570, -- [3]
+						1606067148.245, -- [4]
+						13201, -- [5]
+						"Халорич", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6236, -- [3]
+						1606067148.942, -- [4]
+						6965, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						81751, -- [2]
+						629, -- [3]
+						1606067149.001, -- [4]
+						7594, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						269108, -- [2]
+						557, -- [3]
+						1606067149.022, -- [4]
+						8151, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						81751, -- [2]
+						114, -- [3]
+						1606067149.199, -- [4]
+						8265, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						241, -- [3]
+						1606067149.264, -- [4]
+						8506, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						274436, -- [2]
+						22, -- [3]
+						1606067149.264, -- [4]
+						8528, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606067149.287, -- [4]
+						8936, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606067149.287, -- [4]
+						9344, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						183811, -- [2]
+						161, -- [3]
+						1606067149.48, -- [4]
+						9505, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						311201, -- [2]
+						569, -- [3]
+						1606067149.492, -- [4]
+						10074, -- [5]
+						"Халорич", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						183811, -- [2]
+						80, -- [3]
+						1606067149.52, -- [4]
+						10154, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6236, -- [3]
+						1606067149.95, -- [4]
+						3918, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						6236, -- [3]
+						1606067150.98, -- [4]
+						1, -- [5]
+						"Эгос", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						2318, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						184662, -- [2]
+						1, -- [3]
+						1606067113.519, -- [4]
+						0, -- [5]
+						"Халорич", -- [6]
+					}, -- [33]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "3m 41s",
+				["time"] = 1606067150.98,
+			}, -- [3]
 		},
-		["bossname"] = "Вексиона",
+		["bossname"] = "Н'Зот Заразитель",
 		["bossicon"] = {
-			0, -- [1]
-			0.25, -- [2]
+			0.75, -- [1]
+			1, -- [2]
 			0.5, -- [3]
 			0.75, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
 		},
-		["date"] = 275047.828,
-		["timeelapsed"] = 248.2719999999972,
+		["date"] = 745259.253,
+		["timeelapsed"] = 558.4000000000233,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 23020,
+				["timeofdeath"] = 66.66700000001583,
+				["name"] = "Gentlegiant-Sylvanas",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1606066453.258, -- [4]
+						0, -- [5]
+						"Вальтеон", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						216521, -- [2]
+						265, -- [3]
+						1606066448.549, -- [4]
+						6221, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606066448.549, -- [4]
+						6629, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						216521, -- [2]
+						55, -- [3]
+						1606066448.549, -- [4]
+						6684, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						81751, -- [2]
+						85, -- [3]
+						1606066448.549, -- [4]
+						6769, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						259760, -- [2]
+						4, -- [3]
+						1606066448.549, -- [4]
+						6773, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						259760, -- [2]
+						4, -- [3]
+						1606066448.594, -- [4]
+						6604, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						269108, -- [2]
+						1075, -- [3]
+						1606066448.594, -- [4]
+						7679, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1353, -- [3]
+						1606066448.621, -- [4]
+						6326, -- [5]
+						"Кошмарный антиген", -- [6]
+						412, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						272260, -- [2]
+						35, -- [3]
+						1606066448.672, -- [4]
+						6361, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						124255, -- [2]
+						1730, -- [3]
+						1606066448.687, -- [4]
+						4631, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						94472, -- [2]
+						170, -- [3]
+						1606066448.875, -- [4]
+						4801, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						33763, -- [2]
+						146, -- [3]
+						1606066448.905, -- [4]
+						4947, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						259760, -- [2]
+						9, -- [3]
+						1606066448.922, -- [4]
+						4956, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606066448.922, -- [4]
+						5364, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						124255, -- [2]
+						1730, -- [3]
+						1606066449.194, -- [4]
+						3634, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						1, -- [2]
+						156, -- [3]
+						1606066449.209, -- [4]
+						3634, -- [5]
+						"Кошмарный антиген", -- [6]
+						311, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						1, -- [2]
+						185, -- [3]
+						1606066449.259, -- [4]
+						3478, -- [5]
+						"Кошмарный антиген", -- [6]
+						370, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						1, -- [2]
+						174, -- [3]
+						1606066449.259, -- [4]
+						3478, -- [5]
+						"Кошмарный антиген", -- [6]
+						348, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						81751, -- [2]
+						593, -- [3]
+						1606066449.284, -- [4]
+						3712, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						259760, -- [2]
+						29, -- [3]
+						1606066449.299, -- [4]
+						3741, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						1, -- [2]
+						158, -- [3]
+						1606066449.416, -- [4]
+						3741, -- [5]
+						"Кошмарный антиген", -- [6]
+						317, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						124255, -- [2]
+						1649, -- [3]
+						1606066449.691, -- [4]
+						1934, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						216521, -- [2]
+						99, -- [3]
+						1606066449.718, -- [4]
+						2033, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						33763, -- [2]
+						152, -- [3]
+						1606066449.718, -- [4]
+						2185, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						8936, -- [2]
+						245, -- [3]
+						1606066449.745, -- [4]
+						2430, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						207386, -- [2]
+						84, -- [3]
+						1606066449.745, -- [4]
+						2514, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606066449.745, -- [4]
+						2922, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606066449.761, -- [4]
+						3330, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						296184, -- [2]
+						408, -- [3]
+						1606066449.761, -- [4]
+						3738, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						1, -- [2]
+						158, -- [3]
+						1606066449.835, -- [4]
+						3738, -- [5]
+						"Кошмарный антиген", -- [6]
+						317, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1240, -- [3]
+						1606066449.892, -- [4]
+						2340, -- [5]
+						"Кошмарный антиген", -- [6]
+						378, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						1, -- [2]
+						3257, -- [3]
+						1606066449.908, -- [4]
+						2340, -- [5]
+						"Ярость Н'Зота", -- [6]
+						6536, -- [7]
+						1, -- [8]
+						false, -- [9]
+						917, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Gentlegiant-Sylvanas", -- [6]
+					}, -- [34]
+				},
+				["class"] = "MONK",
+				["timestring"] = "1m 6s",
+				["time"] = 1606066449.984,
+			}, -- [1]
+			{
+				["maxhealth"] = 17540,
+				["timeofdeath"] = 137.1800000000512,
+				["name"] = "Хелликс",
+				["events"] = {
+					{
+						false, -- [1]
+						8936, -- [2]
+						91, -- [3]
+						1606066511.9, -- [4]
+						4272, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						145109, -- [2]
+						552, -- [3]
+						1606066512.093, -- [4]
+						4824, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						1, -- [2]
+						456, -- [3]
+						1606066512.697, -- [4]
+						4824, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						270117, -- [2]
+						410, -- [3]
+						1606066512.723, -- [4]
+						4778, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1728, -- [3]
+						1606066512.749, -- [4]
+						3050, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						4, -- [1]
+						307044, -- [2]
+						8, -- [3]
+						1606066512.749, -- [4]
+						3050, -- [5]
+						"Кошмарный антиген", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						35, -- [3]
+						1606066512.827, -- [4]
+						3085, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						1, -- [2]
+						478, -- [3]
+						1606066512.974, -- [4]
+						3085, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						8936, -- [2]
+						114, -- [3]
+						1606066513.153, -- [4]
+						2721, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						8936, -- [2]
+						2234, -- [3]
+						1606066513.617, -- [4]
+						4955, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						18562, -- [2]
+						6205, -- [3]
+						1606066513.617, -- [4]
+						11160, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						43, -- [3]
+						1606066514.047, -- [4]
+						11203, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						1, -- [2]
+						615, -- [3]
+						1606066514.199, -- [4]
+						11203, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						1, -- [2]
+						461, -- [3]
+						1606066514.479, -- [4]
+						10588, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1457, -- [3]
+						1606066514.515, -- [4]
+						9131, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						307044, -- [2]
+						9, -- [3]
+						1606066514.515, -- [4]
+						9131, -- [5]
+						"Кошмарный антиген", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						774, -- [2]
+						457, -- [3]
+						1606066515.501, -- [4]
+						9127, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						22, -- [3]
+						1606066515.546, -- [4]
+						9149, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						1, -- [2]
+						576, -- [3]
+						1606066515.717, -- [4]
+						9149, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1893, -- [3]
+						1606066515.771, -- [4]
+						6680, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						4, -- [1]
+						307044, -- [2]
+						10, -- [3]
+						1606066515.771, -- [4]
+						6680, -- [5]
+						"Кошмарный антиген", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						1, -- [2]
+						520, -- [3]
+						1606066516.079, -- [4]
+						6680, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						1, -- [2]
+						493, -- [3]
+						1606066516.079, -- [4]
+						6680, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1604, -- [3]
+						1606066516.135, -- [4]
+						4063, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						307044, -- [2]
+						11, -- [3]
+						1606066516.135, -- [4]
+						4063, -- [5]
+						"Кошмарный антиген", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						307044, -- [2]
+						1696, -- [3]
+						1606066516.135, -- [4]
+						2367, -- [5]
+						"Кошмарный антиген", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						307044, -- [2]
+						12, -- [3]
+						1606066516.135, -- [4]
+						2367, -- [5]
+						"Кошмарный антиген", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						143924, -- [2]
+						17, -- [3]
+						1606066516.478, -- [4]
+						2384, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						145109, -- [2]
+						553, -- [3]
+						1606066517.109, -- [4]
+						2937, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						143924, -- [2]
+						14, -- [3]
+						1606066517.702, -- [4]
+						2951, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						774, -- [2]
+						461, -- [3]
+						1606066518.288, -- [4]
+						3412, -- [5]
+						"Хелликс", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						306978, -- [2]
+						5269, -- [3]
+						1606066520.497, -- [4]
+						1, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						1857, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1606066496.729, -- [4]
+						0, -- [5]
+						"Хелликс", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "2m 17s",
+				["time"] = 1606066520.497,
+			}, -- [2]
+			{
+				["maxhealth"] = 17780,
+				["timeofdeath"] = 412.5230000000447,
+				["name"] = "Рэйрити",
+				["events"] = {
+					{
+						true, -- [1]
+						317627, -- [2]
+						1123, -- [3]
+						1606066781.84, -- [4]
+						17324, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						280205, -- [2]
+						249, -- [3]
+						1606066782.21, -- [4]
+						17573, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3, -- [3]
+						1606066782.458, -- [4]
+						17576, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						4, -- [1]
+						317627, -- [2]
+						3, -- [3]
+						1606066782.839, -- [4]
+						17576, -- [5]
+						"Ярость Н'Зота", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						317627, -- [2]
+						1872, -- [3]
+						1606066782.839, -- [4]
+						15704, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						774, -- [2]
+						293, -- [3]
+						1606066783.005, -- [4]
+						15997, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						274436, -- [2]
+						23, -- [3]
+						1606066783.005, -- [4]
+						16020, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						23, -- [3]
+						1606066783.668, -- [4]
+						16043, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						65, -- [3]
+						1606066784.901, -- [4]
+						16108, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						311201, -- [2]
+						1041, -- [3]
+						1606066784.998, -- [4]
+						17149, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						774, -- [2]
+						585, -- [3]
+						1606066785.294, -- [4]
+						17734, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						274436, -- [2]
+						22, -- [3]
+						1606066785.306, -- [4]
+						17756, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						143924, -- [2]
+						38, -- [3]
+						1606066786.097, -- [4]
+						17794, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						183811, -- [2]
+						122, -- [3]
+						1606066786.355, -- [4]
+						17916, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						183811, -- [2]
+						252, -- [3]
+						1606066786.355, -- [4]
+						18168, -- [5]
+						"Букем", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						311201, -- [2]
+						520, -- [3]
+						1606066786.373, -- [4]
+						18680, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						774, -- [2]
+						293, -- [3]
+						1606066787.574, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						274436, -- [2]
+						22, -- [3]
+						1606066787.574, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						311201, -- [2]
+						520, -- [3]
+						1606066788.544, -- [4]
+						18680, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						293, -- [3]
+						1606066789.849, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						274436, -- [2]
+						45, -- [3]
+						1606066789.849, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						311201, -- [2]
+						521, -- [3]
+						1606066790.064, -- [4]
+						18680, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						311201, -- [2]
+						521, -- [3]
+						1606066790.618, -- [4]
+						18680, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						303, -- [3]
+						1606066792.132, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						274436, -- [2]
+						22, -- [3]
+						1606066792.132, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						33, -- [3]
+						1606066792.379, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						274436, -- [2]
+						23, -- [3]
+						1606066792.389, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						311201, -- [2]
+						974, -- [3]
+						1606066793.04, -- [4]
+						18680, -- [5]
+						"Рэйрити", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						81269, -- [2]
+						239, -- [3]
+						1606066793.454, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						207386, -- [2]
+						67, -- [3]
+						1606066795.471, -- [4]
+						18680, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						296003, -- [2]
+						99, -- [3]
+						1606066795.823, -- [4]
+						18680, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						315862, -- [2]
+						37320, -- [3]
+						1606066795.84, -- [4]
+						1, -- [5]
+						"Раздирающее щупальце", -- [6]
+						99, -- [7]
+						8, -- [8]
+						false, -- [9]
+						18541, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Рэйрити", -- [6]
+					}, -- [33]
+				},
+				["class"] = "SHAMAN",
+				["timestring"] = "6m 52s",
+				["time"] = 1606066795.84,
+			}, -- [3]
+			{
+				["maxhealth"] = 19460,
+				["timeofdeath"] = 412.5230000000447,
+				["name"] = "Сотворение",
+				["events"] = {
+					{
+						false, -- [1]
+						269279, -- [2]
+						796, -- [3]
+						1606066791.371, -- [4]
+						13573, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						313364, -- [2]
+						796, -- [3]
+						1606066791.371, -- [4]
+						13573, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						390, -- [3]
+						1606066791.386, -- [4]
+						13963, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						15290, -- [2]
+						1429, -- [3]
+						1606066791.541, -- [4]
+						15392, -- [5]
+						"Алифф", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						81751, -- [2]
+						80, -- [3]
+						1606066791.758, -- [4]
+						15472, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						81269, -- [2]
+						302, -- [3]
+						1606066791.86, -- [4]
+						15774, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						774, -- [2]
+						382, -- [3]
+						1606066792.115, -- [4]
+						16156, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						413, -- [3]
+						1606066792.189, -- [4]
+						16569, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						269279, -- [2]
+						818, -- [3]
+						1606066792.366, -- [4]
+						16569, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						313364, -- [2]
+						818, -- [3]
+						1606066792.366, -- [4]
+						16569, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						196, -- [3]
+						1606066792.964, -- [4]
+						16765, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						269279, -- [2]
+						719, -- [3]
+						1606066793.371, -- [4]
+						16765, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						17, -- [2]
+						98, -- [3]
+						1606066793.371, -- [4]
+						16765, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						313364, -- [2]
+						817, -- [3]
+						1606066793.371, -- [4]
+						16765, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						94472, -- [2]
+						162, -- [3]
+						1606066793.454, -- [4]
+						16927, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						48438, -- [2]
+						185, -- [3]
+						1606066793.743, -- [4]
+						17112, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						207386, -- [2]
+						105, -- [3]
+						1606066793.878, -- [4]
+						17217, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						15290, -- [2]
+						2113, -- [3]
+						1606066794.043, -- [4]
+						19330, -- [5]
+						"Алифф", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						17, -- [2]
+						814, -- [3]
+						1606066794.357, -- [4]
+						19330, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						313364, -- [2]
+						814, -- [3]
+						1606066794.357, -- [4]
+						19330, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						774, -- [2]
+						381, -- [3]
+						1606066794.494, -- [4]
+						19711, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						175, -- [3]
+						1606066794.536, -- [4]
+						19886, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						145110, -- [2]
+						636, -- [3]
+						1606066794.805, -- [4]
+						20420, -- [5]
+						"Куж", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						81751, -- [2]
+						82, -- [3]
+						1606066795.094, -- [4]
+						20420, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						81751, -- [2]
+						306, -- [3]
+						1606066795.122, -- [4]
+						20420, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						131, -- [3]
+						1606066795.32, -- [4]
+						20420, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						17, -- [2]
+						814, -- [3]
+						1606066795.366, -- [4]
+						20420, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						313364, -- [2]
+						814, -- [3]
+						1606066795.366, -- [4]
+						20420, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						17, -- [2]
+						4005, -- [3]
+						1606066795.809, -- [4]
+						20420, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						296003, -- [2]
+						99, -- [3]
+						1606066795.809, -- [4]
+						20420, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						17, -- [2]
+						0, -- [3]
+						1606066795.823, -- [4]
+						20420, -- [5]
+						"Сотворение", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						315862, -- [2]
+						36486, -- [3]
+						1606066795.823, -- [4]
+						1, -- [5]
+						"Раздирающее щупальце", -- [6]
+						4104, -- [7]
+						8, -- [8]
+						false, -- [9]
+						11962, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Сотворение", -- [6]
+					}, -- [33]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "6m 52s",
+				["time"] = 1606066795.84,
+			}, -- [4]
+			{
+				["maxhealth"] = 18120,
+				["timeofdeath"] = 412.5230000000447,
+				["name"] = "Рыжумба",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						180, -- [3]
+						1606066790.632, -- [4]
+						17390, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						313364, -- [2]
+						811, -- [3]
+						1606066790.699, -- [4]
+						16579, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						183811, -- [2]
+						98, -- [3]
+						1606066791.294, -- [4]
+						16677, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						34, -- [3]
+						1606066791.371, -- [4]
+						16711, -- [5]
+						"Рыжумба", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						172, -- [3]
+						1606066791.386, -- [4]
+						16883, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						313364, -- [2]
+						811, -- [3]
+						1606066791.708, -- [4]
+						16072, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						183811, -- [2]
+						100, -- [3]
+						1606066791.724, -- [4]
+						16172, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						81751, -- [2]
+						80, -- [3]
+						1606066791.758, -- [4]
+						16252, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						48438, -- [2]
+						165, -- [3]
+						1606066792.189, -- [4]
+						16417, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						143924, -- [2]
+						17, -- [3]
+						1606066792.57, -- [4]
+						16434, -- [5]
+						"Рыжумба", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						313364, -- [2]
+						811, -- [3]
+						1606066792.713, -- [4]
+						15623, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						156, -- [3]
+						1606066792.964, -- [4]
+						15779, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						183811, -- [2]
+						101, -- [3]
+						1606066793.022, -- [4]
+						15880, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						145110, -- [2]
+						846, -- [3]
+						1606066793.416, -- [4]
+						16726, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						81269, -- [2]
+						274, -- [3]
+						1606066793.454, -- [4]
+						17000, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						94472, -- [2]
+						162, -- [3]
+						1606066793.454, -- [4]
+						17162, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						774, -- [2]
+						381, -- [3]
+						1606066793.608, -- [4]
+						17543, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						269279, -- [2]
+						811, -- [3]
+						1606066793.695, -- [4]
+						17543, -- [5]
+						"Рыжумба", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						313364, -- [2]
+						811, -- [3]
+						1606066793.695, -- [4]
+						17543, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						371, -- [3]
+						1606066793.743, -- [4]
+						17914, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						143924, -- [2]
+						49, -- [3]
+						1606066793.776, -- [4]
+						17963, -- [5]
+						"Рыжумба", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						183811, -- [2]
+						200, -- [3]
+						1606066794.113, -- [4]
+						18163, -- [5]
+						"Ниэтта", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						175, -- [3]
+						1606066794.55, -- [4]
+						18338, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						269279, -- [2]
+						545, -- [3]
+						1606066794.695, -- [4]
+						18338, -- [5]
+						"Рыжумба", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						313364, -- [2]
+						811, -- [3]
+						1606066794.695, -- [4]
+						18072, -- [5]
+						"Ярость Н'Зота", -- [6]
+						545, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						18, -- [3]
+						1606066794.975, -- [4]
+						18090, -- [5]
+						"Рыжумба", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						81751, -- [2]
+						81, -- [3]
+						1606066795.109, -- [4]
+						18171, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						81751, -- [2]
+						306, -- [3]
+						1606066795.135, -- [4]
+						18477, -- [5]
+						"Сотворение", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48438, -- [2]
+						131, -- [3]
+						1606066795.32, -- [4]
+						18608, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						207386, -- [2]
+						169, -- [3]
+						1606066795.471, -- [4]
+						18777, -- [5]
+						"Вальтеон", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						313364, -- [2]
+						811, -- [3]
+						1606066795.707, -- [4]
+						17966, -- [5]
+						"Ярость Н'Зота", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						315862, -- [2]
+						38150, -- [3]
+						1606066795.809, -- [4]
+						1, -- [5]
+						"Раздирающее щупальце", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						20184, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						633, -- [2]
+						1, -- [3]
+						1606066784.023, -- [4]
+						0, -- [5]
+						"Рыжумба", -- [6]
+					}, -- [33]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "6m 52s",
+				["time"] = 1606066795.84,
+			}, -- [5]
+		},
+		["bossname"] = "Панцирь Н'Зота",
+		["bossicon"] = {
+			0.5, -- [1]
+			0.75, -- [2]
+			0.5, -- [3]
+			0.75, -- [4]
+			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
+		},
+		["date"] = 744586.883,
+		["timeelapsed"] = 431.5870000000577,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
@@ -9098,8 +8206,17 @@ DeathGraphsDBGraph = {
 			[430] = {
 				1603141923, -- [1]
 			},
+			[221] = {
+				1606067487, -- [1]
+			},
+			[109] = {
+				1606067487, -- [1]
+			},
 			[398] = {
 				1603407009, -- [1]
+			},
+			[53] = {
+				1606067487, -- [1]
 			},
 			[54] = {
 				1603142287, -- [1]
@@ -9222,6 +8339,9 @@ DeathGraphsDBGraph = {
 			[457] = {
 				1603141336, -- [1]
 			},
+			[66] = {
+				1606066815, -- [1]
+			},
 			[70] = {
 				1603405621, -- [1]
 			},
@@ -9232,6 +8352,11 @@ DeathGraphsDBGraph = {
 				1603405621, -- [4]
 				1603405621, -- [5]
 			},
+			[412] = {
+				1606066815, -- [1]
+				1606066815, -- [2]
+				1606066815, -- [3]
+			},
 			[109] = {
 				1603129625, -- [1]
 			},
@@ -9240,6 +8365,9 @@ DeathGraphsDBGraph = {
 			},
 			[129] = {
 				1603140082, -- [1]
+			},
+			[137] = {
+				1606066815, -- [1]
 			},
 			[425] = {
 				1603406239, -- [1]

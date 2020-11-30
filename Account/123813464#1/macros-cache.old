@@ -8,8 +8,15 @@ END
 VER 3 000000000000001F "AutoTurnIn" "Ability_Shaman_Ascendance"
 /script SelectGossipAvailableQuest(1); CompleteQuest(); GetQuestReward();
 END
+VER 3 0000000000000040 "Azerite" "611422"
+/run BuyMerchantItem(3);
+/use Выброшенный азеритовый нагрудник
+END
 VER 3 0000000000000021 "BarrelMark" "132773"
 /run SetRaidTarget("mouseover",13)
+END
+VER 3 000000000000003F "BlueMark" "INV_MISC_QUESTIONMARK"
+#showtooltip Непроницаемо-черный камень Плети
 END
 VER 3 000000000000002B "Broom" "136103"
 #showtooltip Волшебная метла
@@ -42,6 +49,9 @@ VER 3 000000000000002D "Fire" "1392549"
 #showtooltip  Пламя феникса
 /stopcasting
 /cast Пламя феникса
+END
+VER 3 000000000000003E "GreenMark" "INV_MISC_QUESTIONMARK"
+#showtooltip Омраченный камень Плети
 END
 VER 3 0000000000000016 "GroundMount" "Ability_Druid_TwilightsWrath"
 /cast [modifier] Большой як для путешествий
