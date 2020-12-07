@@ -1,99 +1,66 @@
 
 OmniCDDB = {
-	["version"] = 2,
+	["profileKeys"] = {
+		["Эстрэя - Гордунни"] = "Default",
+		["Ниэтта - Гордунни"] = "Default",
+		["Алоиза - Борейская тундра"] = "Default",
+	},
 	["global"] = {
 		["disableElvMsg"] = true,
-	},
-	["cooldowns"] = {
-	},
-	["profileKeys"] = {
-		["Ниамэй - Гордунни"] = "Default",
-		["Алтери - Борейская тундра"] = "Default",
-		["Фламинника - Гордунни"] = "Default",
-		["Altery - Durotan"] = "Default",
-		["Эстрэя - Гордунни"] = "Default",
-		["Алоиза - Борейская тундра"] = "Default",
-		["Нирейя - Борейская тундра"] = "Default",
-		["Дэлери - Борейская тундра"] = "Default",
-		["Эстрея - Борейская тундра"] = "Default",
-		["Зонна - Борейская тундра"] = "Default",
-		["Эрника - Борейская тундра"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
-		["Ниоши - Борейская тундра"] = "Default",
-		["Алоиза - Гордунни"] = "Default",
-		["Ниэтта - Гордунни"] = "Default",
-		["Сайбил - Борейская тундра"] = "Default",
-		["Дэлери - Гордунни"] = "Default",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.5,
+	["cooldowns"] = {
+	},
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
-				["general"] = {
-					["player"] = true,
-				},
-				["position"] = {
-					["party"] = {
-						["attachMore"] = "BOTTOMLEFT",
-						["attach"] = "BOTTOMLEFT",
-						["preset"] = "manual",
-						["offsetY"] = 5,
-						["anchorMore"] = "TOPLEFT",
+				["party"] = {
+					["extraBars"] = {
+						["raidCDBar"] = {
+							["enabled"] = false,
+						},
+						["interruptBar"] = {
+							["enabled"] = false,
+						},
 					},
-					["arena"] = {
-						["attachMore"] = "BOTTOMLEFT",
-						["noTheme"] = true,
-						["columns"] = 2,
-						["attach"] = "BOTTOMLEFT",
-						["preset"] = "manual",
-						["offsetY"] = 8,
-						["layout"] = "vertical",
-						["anchorMore"] = "TOPLEFT",
+					["manualPos"] = {
+						["interruptBar"] = {
+							["y"] = 683.0222821639654,
+							["x"] = 92.79926439985502,
+						},
+						["raidCDBar"] = {
+							["y"] = 598.4001881010045,
+							["x"] = 92.80023011168396,
+						},
 					},
-				},
-				["spells"] = {
-					["spell34477"] = true,
-					["spell73325"] = true,
-					["spell853"] = true,
-					["spell115750"] = true,
-					["spell221562"] = true,
-					["spell116841"] = true,
-					["spell107570"] = true,
-					["spell287081"] = false,
-					["spell116849"] = false,
-					["spell46968"] = true,
-					["spell1856"] = true,
-					["spell1044"] = true,
-					["spell2094"] = true,
-					["spell31661"] = true,
-					["spell207167"] = true,
-					["spell212182"] = false,
-					["spell195710"] = false,
-					["spell115078"] = true,
-					["spell113724"] = true,
-					["spell114018"] = true,
-					["spell31821"] = true,
-					["spell122783"] = false,
-					["spell108194"] = true,
-					["spell49576"] = true,
-					["spell32375"] = true,
-					["spell199804"] = true,
-					["spell6940"] = true,
-					["spell19577"] = true,
-					["spell204018"] = true,
-					["spell116844"] = true,
-					["spell110960"] = true,
-					["spell1022"] = true,
-					["spell51052"] = true,
-					["spell42650"] = true,
-					["spell119381"] = true,
-					["spell15286"] = true,
-				},
-				["visibility"] = {
-					["none"] = true,
+					["spells"] = {
+						["58984"] = true,
+						["47528"] = false,
+						["221562"] = true,
+						["49576"] = true,
+						["207167"] = true,
+						["47482"] = false,
+						["108194"] = true,
+						["108199"] = true,
+					},
+					["icons"] = {
+						["scale"] = 0.63,
+					},
+					["position"] = {
+						["columns"] = 4,
+						["attach"] = "LEFT",
+						["preset"] = "manual",
+						["anchor"] = "BOTTOMLEFT",
+						["offsetY"] = 87,
+						["anchorMore"] = "BOTTOMLEFT",
+					},
+					["general"] = {
+						["showPlayer"] = true,
+					},
 				},
 			},
 		},

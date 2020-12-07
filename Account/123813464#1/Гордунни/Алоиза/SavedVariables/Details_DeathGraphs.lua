@@ -6,24 +6,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Панцирь Н'Зота",
 		["id"] = 2366,
 		["diff"] = 15,
-		["player_db"] = {
-			["Fruget-Silvermoon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Fruget-Silvermoon",
-				["class"] = "SHAMAN",
-			},
-			["Efis-Archimonde"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Efis-Archimonde",
-				["class"] = "MAGE",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 11,
@@ -37,91 +19,23 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-	},
-	["237515"] = {
-		["hash"] = "237515",
-		["type"] = "deaths",
-		["name"] = "Н'Зот Заразитель",
-		["id"] = 2375,
-		["diff"] = 15,
 		["player_db"] = {
 			["Fruget-Silvermoon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
 				["name"] = "Fruget-Silvermoon",
 				["class"] = "SHAMAN",
-			},
-			["Plumêw-Hyjal"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Plumêw-Hyjal",
-				["class"] = "HUNTER",
-			},
-			["Kuraki-Hyjal"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Kuraki-Hyjal",
-				["class"] = "PRIEST",
 			},
 			["Efis-Archimonde"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
 				["name"] = "Efis-Archimonde",
 				["class"] = "MAGE",
-			},
-			["Cadalta-Hyjal"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Cadalta-Hyjal",
-				["class"] = "WARRIOR",
 			},
-			["Rexyies-Hyjal"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rexyies-Hyjal",
-				["class"] = "WARLOCK",
-			},
-			["Snîpz-Blackmoore"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Snîpz-Blackmoore",
-				["class"] = "MONK",
-			},
-			["Roguinsø-Hyjal"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Roguinsø-Hyjal",
-				["class"] = "ROGUE",
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 12,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["encounter"] = "Н'Зот Заразитель",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Н'Зот Заразитель",
-			["diff"] = 15,
-			["id"] = 2344,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
 		},
 	},
 	["236815"] = {
@@ -130,40 +44,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Гневион",
 		["id"] = 2368,
 		["diff"] = 15,
-		["player_db"] = {
-			["Ambáshduhn-Magtheridon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ambáshduhn-Magtheridon",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Rímuru-Aegwynn"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rímuru-Aegwynn",
-				["class"] = "PALADIN",
-			},
-			["Rhey-Aegwynn"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rhey-Aegwynn",
-				["class"] = "WARRIOR",
-			},
-			["Супермегадк"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Супермегадк",
-				["class"] = "DEATHKNIGHT",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 1,
@@ -177,6 +57,126 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Ambáshduhn-Magtheridon"] = {
+				["name"] = "Ambáshduhn-Magtheridon",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Rhey-Aegwynn"] = {
+				["name"] = "Rhey-Aegwynn",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Rímuru-Aegwynn"] = {
+				["name"] = "Rímuru-Aegwynn",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Супермегадк"] = {
+				["name"] = "Супермегадк",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
+	},
+	["237515"] = {
+		["hash"] = "237515",
+		["type"] = "deaths",
+		["name"] = "Н'Зот Заразитель",
+		["id"] = 2375,
+		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 12,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["encounter"] = "Н'Зот Заразитель",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Н'Зот Заразитель",
+			["diff"] = 15,
+			["id"] = 2344,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
+		["player_db"] = {
+			["Fruget-Silvermoon"] = {
+				["name"] = "Fruget-Silvermoon",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Plumêw-Hyjal"] = {
+				["name"] = "Plumêw-Hyjal",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Kuraki-Hyjal"] = {
+				["name"] = "Kuraki-Hyjal",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Efis-Archimonde"] = {
+				["name"] = "Efis-Archimonde",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Cadalta-Hyjal"] = {
+				["name"] = "Cadalta-Hyjal",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Rexyies-Hyjal"] = {
+				["name"] = "Rexyies-Hyjal",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Snîpz-Blackmoore"] = {
+				["name"] = "Snîpz-Blackmoore",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Roguinsø-Hyjal"] = {
+				["name"] = "Roguinsø-Hyjal",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 	["237715"] = {
 		["hash"] = "237715",
@@ -184,152 +184,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Темный инквизитор Занеш",
 		["id"] = 2377,
 		["diff"] = 15,
-		["player_db"] = {
-			["Claiir-Silvermoon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Claiir-Silvermoon",
-				["class"] = "ROGUE",
-			},
-			["Drakaras-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Drakaras-Arathor",
-				["class"] = "DEMONHUNTER",
-			},
-			["Maiiya-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Maiiya-Arathor",
-				["class"] = "PRIEST",
-			},
-			["Lexxf-KhazModan"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lexxf-KhazModan",
-				["class"] = "MAGE",
-			},
-			["Wernest-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Wernest-Arathor",
-				["class"] = "DRUID",
-			},
-			["Алоиза"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Алоиза",
-				["class"] = "PRIEST",
-			},
-			["Tuhden-Nordrassil"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Tuhden-Nordrassil",
-				["class"] = "PALADIN",
-			},
-			["Llsylish-Outland"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Llsylish-Outland",
-				["class"] = "ROGUE",
-			},
-			["Josepi-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Josepi-Arathor",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Drjanitor-Blade'sEdge"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Drjanitor-Blade'sEdge",
-				["class"] = "DRUID",
-			},
-			["Zorbaleturc-Drek'Thar"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Zorbaleturc-Drek'Thar",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Earaal-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Earaal-Arathor",
-				["class"] = "SHAMAN",
-			},
-			["Bloke-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bloke-Arathor",
-				["class"] = "PRIEST",
-			},
-			["Фарагондасс-ВечнаяПесня"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Фарагондасс-ВечнаяПесня",
-				["class"] = "WARRIOR",
-			},
-			["Ardepapi-Silvermoon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ardepapi-Silvermoon",
-				["class"] = "MAGE",
-			},
-			["Twinkiks-Arathor"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Twinkiks-Arathor",
-				["class"] = "ROGUE",
-			},
-			["Сострадание"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Сострадание",
-				["class"] = "DRUID",
-			},
-			["Berak-DunModr"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Berak-DunModr",
-				["class"] = "PRIEST",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 4,
@@ -342,6 +196,152 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["diff"] = 15,
 		},
+		["player_db"] = {
+			["Claiir-Silvermoon"] = {
+				["name"] = "Claiir-Silvermoon",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Drakaras-Arathor"] = {
+				["name"] = "Drakaras-Arathor",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Maiiya-Arathor"] = {
+				["name"] = "Maiiya-Arathor",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lexxf-KhazModan"] = {
+				["name"] = "Lexxf-KhazModan",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Wernest-Arathor"] = {
+				["name"] = "Wernest-Arathor",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Алоиза"] = {
+				["name"] = "Алоиза",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Tuhden-Nordrassil"] = {
+				["name"] = "Tuhden-Nordrassil",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Llsylish-Outland"] = {
+				["name"] = "Llsylish-Outland",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Josepi-Arathor"] = {
+				["name"] = "Josepi-Arathor",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Drjanitor-Blade'sEdge"] = {
+				["name"] = "Drjanitor-Blade'sEdge",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Zorbaleturc-Drek'Thar"] = {
+				["name"] = "Zorbaleturc-Drek'Thar",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Earaal-Arathor"] = {
+				["name"] = "Earaal-Arathor",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bloke-Arathor"] = {
+				["name"] = "Bloke-Arathor",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Фарагондасс-ВечнаяПесня"] = {
+				["name"] = "Фарагондасс-ВечнаяПесня",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Ardepapi-Silvermoon"] = {
+				["name"] = "Ardepapi-Silvermoon",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Twinkiks-Arathor"] = {
+				["name"] = "Twinkiks-Arathor",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Сострадание"] = {
+				["name"] = "Сострадание",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Berak-DunModr"] = {
+				["name"] = "Berak-DunModr",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 }
 DeathGraphsDBEndurance = {
@@ -351,6 +351,19 @@ DeathGraphsDBEndurance = {
 		["name"] = "Панцирь Н'Зота",
 		["id"] = 2366,
 		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 11,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["encounter"] = "Панцирь Н'Зота",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Панцирь Н'Зота",
+			["diff"] = 15,
+			["id"] = 2337,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Fruget-Silvermoon"] = {
 				["encounters"] = 1,
@@ -446,12 +459,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Сэйбир"] = {
+			["Eunodrood-Blackmoore"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
+				["class"] = "DRUID",
 			},
 			["Plumêw-Hyjal"] = {
 				["encounters"] = 1,
@@ -460,12 +473,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
-			["Eunodrood-Blackmoore"] = {
+			["Сэйбир"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
+				["class"] = "HUNTER",
 			},
 			["Kuraki-Hyjal"] = {
 				["encounters"] = 1,
@@ -502,201 +515,6 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 11,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["encounter"] = "Панцирь Н'Зота",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Панцирь Н'Зота",
-			["diff"] = 15,
-			["id"] = 2337,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
-		},
-	},
-	["237515"] = {
-		["hash"] = "237515",
-		["type"] = "endurance",
-		["name"] = "Н'Зот Заразитель",
-		["id"] = 2375,
-		["diff"] = 15,
-		["player_db"] = {
-			["Fruget-Silvermoon"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["deaths"] = {
-					{
-						1, -- [1]
-						386.4149999998044, -- [2]
-						"Исследование разума |cFFFF33332,439|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						521.1650000000373, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,715|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Cadalta-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Moolong-Blackmoore"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Cendei-Outland"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Wùpy-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Rexyies-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Алоиза"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Vitul-Silvermoon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Сострадание"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Линеяя"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Loradim-Blackmoore"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Snîpz-Blackmoore"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Сэйбир"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Plumêw-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Eunodrood-Blackmoore"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Kuraki-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						1, -- [1]
-						46.31999999983236, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,589|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PRIEST",
-			},
-			["Догидельрей"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Lácta-Darksorrow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Efis-Archimonde"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Roguinsø-Hyjal"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						1, -- [1]
-						219.7770000000019, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,349|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "ROGUE",
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 12,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["encounter"] = "Н'Зот Заразитель",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Н'Зот Заразитель",
-			["diff"] = 15,
-			["id"] = 2344,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
 		},
 	},
 	["236815"] = {
@@ -705,6 +523,19 @@ DeathGraphsDBEndurance = {
 		["name"] = "Гневион",
 		["id"] = 2368,
 		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 1,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["encounter"] = "Гневион",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Гневион",
+			["diff"] = 15,
+			["id"] = 2329,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Fruget-Silvermoon"] = {
 				["encounters"] = 1,
@@ -855,18 +686,187 @@ DeathGraphsDBEndurance = {
 				["class"] = "ROGUE",
 			},
 		},
+	},
+	["237515"] = {
+		["hash"] = "237515",
+		["type"] = "endurance",
+		["name"] = "Н'Зот Заразитель",
+		["id"] = 2375,
+		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Героический",
-			["index"] = 1,
+			["index"] = 12,
 			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["encounter"] = "Гневион",
+			["encounter"] = "Н'Зот Заразитель",
 			["mapid"] = 2217,
 			["try_number"] = 1,
-			["name"] = "Гневион",
+			["name"] = "Н'Зот Заразитель",
 			["diff"] = 15,
-			["id"] = 2329,
+			["id"] = 2344,
 			["ej_instance_id"] = 1180,
 			["killed"] = true,
+		},
+		["player_db"] = {
+			["Fruget-Silvermoon"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["deaths"] = {
+					{
+						1, -- [1]
+						386.4149999998044, -- [2]
+						"Исследование разума |cFFFF33332,439|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						521.1650000000373, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,715|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "SHAMAN",
+			},
+			["Cadalta-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Moolong-Blackmoore"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Cendei-Outland"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Wùpy-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Rexyies-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Алоиза"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Vitul-Silvermoon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Сострадание"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Линеяя"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Loradim-Blackmoore"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Snîpz-Blackmoore"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Eunodrood-Blackmoore"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Plumêw-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Сэйбир"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Kuraki-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						1, -- [1]
+						46.31999999983236, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,589|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PRIEST",
+			},
+			["Догидельрей"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Lácta-Darksorrow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Efis-Archimonde"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Roguinsø-Hyjal"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						1, -- [1]
+						219.7770000000019, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,349|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "ROGUE",
+			},
 		},
 	},
 	["237715"] = {
@@ -875,6 +875,18 @@ DeathGraphsDBEndurance = {
 		["name"] = "Темный инквизитор Занеш",
 		["id"] = 2377,
 		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 4,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["id"] = 2328,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Темный инквизитор Занеш",
+			["encounter"] = "Темный инквизитор Занеш",
+			["ej_instance_id"] = 1180,
+			["diff"] = 15,
+		},
 		["player_db"] = {
 			["Claiir-Silvermoon"] = {
 				["encounters"] = 5,
@@ -1000,18 +1012,6 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Earaal-Arathor"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						1, -- [1]
-						92.377000000095, -- [2]
-						"Свежевание души |cFFFF333311,761|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "SHAMAN",
-			},
 			["Фарагондасс-ВечнаяПесня"] = {
 				["encounters"] = 3,
 				["points"] = 290,
@@ -1023,6 +1023,13 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 				["class"] = "WARRIOR",
+			},
+			["Systrance-Shattrath"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
 			},
 			["Drjanitor-Blade'sEdge"] = {
 				["encounters"] = 4,
@@ -1043,12 +1050,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Systrance-Shattrath"] = {
+			["Earaal-Arathor"] = {
 				["encounters"] = 5,
-				["points"] = 500,
+				["points"] = 490,
 				["deaths"] = {
+					{
+						1, -- [1]
+						92.377000000095, -- [2]
+						"Свежевание души |cFFFF333311,761|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "ROGUE",
+				["class"] = "SHAMAN",
 			},
 			["Сострадание"] = {
 				["encounters"] = 5,
@@ -1112,18 +1124,6 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 4,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["id"] = 2328,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Темный инквизитор Занеш",
-			["encounter"] = "Темный инквизитор Занеш",
-			["ej_instance_id"] = 1180,
-			["diff"] = 15,
 		},
 	},
 }
@@ -5626,6 +5626,32 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
+	["237515"] = {
+		["deaths"] = {
+			[503] = {
+				1605217620, -- [1]
+			},
+			[46] = {
+				1605217620, -- [1]
+			},
+			[219] = {
+				1605217620, -- [1]
+			},
+			[386] = {
+				1605217620, -- [1]
+			},
+			[521] = {
+				1605218223, -- [1]
+			},
+			[461] = {
+				1605217620, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
 	["236815"] = {
 		["deaths"] = {
 			[147] = {
@@ -5639,32 +5665,6 @@ DeathGraphsDBGraph = {
 			},
 			[145] = {
 				1604692792, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237515"] = {
-		["deaths"] = {
-			[461] = {
-				1605217620, -- [1]
-			},
-			[503] = {
-				1605217620, -- [1]
-			},
-			[219] = {
-				1605217620, -- [1]
-			},
-			[386] = {
-				1605217620, -- [1]
-			},
-			[521] = {
-				1605218223, -- [1]
-			},
-			[46] = {
-				1605217620, -- [1]
 			},
 		},
 		["spells"] = {

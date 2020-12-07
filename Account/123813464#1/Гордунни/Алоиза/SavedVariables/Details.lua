@@ -7,8 +7,9300 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 3981,
 					["tipo"] = 2,
+					["combatId"] = 3989,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005611,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Долинный байбак"] = 621,
+								["Перенастроенный уборочный голем"] = 10255,
+							},
+							["pets"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 4410.38345942185,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 10876.005611,
+							["last_event"] = 1606805787,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805787,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 0.005611,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 10876.005611,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[295305] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 621,
+										["targets"] = {
+											["Долинный байбак"] = 621,
+											["Перенастроенный уборочный голем"] = 620,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1241,
+										["n_min"] = 620,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1241,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295305,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[269031] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 688,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 688,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 688,
+										["c_max"] = 344,
+										["c_min"] = 344,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[34914] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 4538,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 4538,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 4538,
+										["c_max"] = 3865,
+										["c_min"] = 673,
+										["id"] = 34914,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 668,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 668,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 668,
+										["c_max"] = 668,
+										["c_min"] = 668,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 104,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 104,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 104,
+										["n_min"] = 104,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 104,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[335467] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 3637,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 3637,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 3637,
+										["c_max"] = 1986,
+										["c_min"] = 1651,
+										["id"] = 335467,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805785,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.006751,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006751,
+							["delay"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.006751,
+							["dps_started"] = false,
+							["damage_taken"] = 621.006751,
+							["nome"] = "Долинный байбак",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["aID"] = "142172",
+							["last_dps"] = 0,
+							["end_time"] = 1606805787,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606805787,
+							["serial"] = "Creature-0-1471-1643-2748-142172-000045E50C",
+							["friendlyfire_total"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006486,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006486,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["end_time"] = 1606805787,
+							["damage_taken"] = 10255.006486,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Перенастроенный уборочный голем",
+							["spells"] = {
+								["_ActorTable"] = {
+									[257879] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257879,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["monster"] = true,
+							["total"] = 0.006486,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 1606805787,
+							["serial"] = "Creature-0-1471-1643-2748-130131-000145E850",
+							["aID"] = "130131",
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3989,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 2640.007296,
+							["total_without_pet"] = 0.007296,
+							["total"] = 0.007296,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 0.007296,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.007296,
+							["healing_taken"] = 0.007296,
+							["end_time"] = 1606805787,
+							["last_event"] = 1606805787,
+							["targets_overheal"] = {
+								["Алоиза"] = 2640,
+							},
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1080,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 1080,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 335467,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[295310] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 204,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 204,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 295310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[269238] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1356,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 1356,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "PRIEST",
+							["totaldenied"] = 0.007296,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "1602-04F44A64",
+							["start_time"] = 1606805785,
+							["delay"] = 0,
+							["spec"] = 258,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3989,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001003,
+							["resource"] = 15.001003,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.001003,
+							["total"] = 0.001003,
+							["totalover"] = 0.001003,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805787,
+							["alternatepower"] = 0.001003,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3989,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 335467,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 589,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[34914] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 34914,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 18,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[267685] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 267685,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 45242,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 269239,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295310] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295310,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341282] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341282,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 304056,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[300919] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 300919,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 4,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[341263] = 2,
+								[34914] = 1,
+								[147193] = 2,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805787,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["monster"] = true,
+							["nome"] = "Перенастроенный уборочный голем",
+							["aID"] = "130131",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[257879] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-130131-000145E850",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3989,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["tempo_start"] = 1606805785,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					10875.968184, -- [1]
+					-0.0311010000000002, -- [2]
+					{
+						-0.001544, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = -0.008767,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					10876, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:56:28",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Долинный байбак",
+				["TotalElapsedCombatTime"] = 1483557.642,
+				["CombatEndedAt"] = 1483557.642,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[335467] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483555.176,
+							["spellId"] = 335467,
+							["data"] = {
+								{
+									1483555.176, -- [1]
+									1483557.531, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295310] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483555.176,
+							["spellId"] = 295310,
+							["data"] = {
+								{
+									1483555.176, -- [1]
+									1483557.642, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483557.531,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483557.531, -- [1]
+									1483557.642, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:56:26",
+				["end_time"] = 1483557.642,
+				["combat_id"] = 3989,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 10876.005611,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.007296,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["overall_added"] = true,
+				["frags"] = {
+					["Долинный байбак"] = 1,
+					["Перенастроенный уборочный голем"] = 1,
+				},
+				["TimeData"] = {
+				},
+				["combat_counter"] = 4259,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 1483555.176,
+				["contra"] = "Перенастроенный уборочный голем",
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483555.01, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [1]
+						{
+							1483555.176, -- [1]
+							335467, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [2]
+						{
+							1483556.58, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [3]
+					},
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3988,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00121,
+							["damage_from"] = {
+								["Перенастроенный уборочный голем"] = true,
+							},
+							["targets"] = {
+								["Перенастроенный уборочный голем"] = 38981,
+							},
+							["pets"] = {
+								"Подчинитель разума <Алоиза>", -- [1]
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 2466.37147802346,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 33122.00121,
+							["last_event"] = 1606805779,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805780,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 1346.00121,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 38981.00121,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[15407] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 298,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 894,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 894,
+										["n_min"] = 298,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 894,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 15407,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[295368] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 200,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 400,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 400,
+										["n_min"] = 200,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 400,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295368,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[335467] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 5701,
+										["g_amt"] = 0,
+										["n_max"] = 986,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 8409,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2708,
+										["n_min"] = 825,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 8409,
+										["c_max"] = 1638,
+										["c_min"] = 1173,
+										["id"] = 335467,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 394,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 394,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 394,
+										["c_max"] = 208,
+										["c_min"] = 186,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[34914] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1700,
+										["g_amt"] = 0,
+										["n_max"] = 1034,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 4181,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2481,
+										["n_min"] = 220,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 4181,
+										["c_max"] = 668,
+										["c_min"] = 474,
+										["id"] = 34914,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[8092] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4043,
+										["g_amt"] = 0,
+										["n_max"] = 1433,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 5476,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1433,
+										["n_min"] = 1433,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 5476,
+										["c_max"] = 4043,
+										["c_min"] = 4043,
+										["id"] = 8092,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[271686] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 179,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 179,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 179,
+										["n_min"] = 179,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 179,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 271686,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[589] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 4733,
+										["g_amt"] = 0,
+										["n_max"] = 305,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 6135,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1402,
+										["n_min"] = 244,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["total"] = 6135,
+										["c_max"] = 668,
+										["c_min"] = 492,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[346111] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 268,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1195,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1195,
+										["n_min"] = 70,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 1195,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 346111,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 9,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[271685] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 421,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 421,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 421,
+										["n_min"] = 421,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 421,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 271685,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[295374] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 807,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 807,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 807,
+										["n_min"] = 807,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 807,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295374,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[295305] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1112,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1112,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1112,
+										["c_max"] = 1112,
+										["c_min"] = 1112,
+										["id"] = 295305,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[295367] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1563,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1563,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1563,
+										["c_max"] = 784,
+										["c_min"] = 779,
+										["id"] = 295367,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 339,
+										["g_amt"] = 0,
+										["n_max"] = 170,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 509,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 170,
+										["n_min"] = 170,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 509,
+										["c_max"] = 339,
+										["c_min"] = 339,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[148859] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 296,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1447,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1447,
+										["n_min"] = 211,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1447,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 148859,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805764,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.008646,
+							["damage_from"] = {
+								["Перенастроенный уборочный голем"] = true,
+							},
+							["targets"] = {
+								["Перенастроенный уборочный голем"] = 5859,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["classe"] = "PET",
+							["aID"] = "62982",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 5859.008646,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805780,
+							["friendlyfire_total"] = 0,
+							["ownerName"] = "Алоиза",
+							["nome"] = "Подчинитель разума <Алоиза>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 4027,
+										["g_amt"] = 0,
+										["n_max"] = 422,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 5859,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1832,
+										["n_min"] = 330,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 5859,
+										["c_max"] = 846,
+										["c_min"] = 661,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 48.008646,
+							["total"] = 5859.008646,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1606805779,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805768,
+							["serial"] = "Creature-0-1471-1643-2748-62982-000045E909",
+							["on_hold"] = false,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 276.008058,
+							["damage_from"] = {
+								["Алоиза"] = true,
+								["Подчинитель разума <Алоиза>"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 1346,
+								["Подчинитель разума <Алоиза>"] = 48,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "130131",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1394.008058,
+							["end_time"] = 1606805780,
+							["monster"] = true,
+							["total"] = 1394.008058,
+							["damage_taken"] = 38981.008058,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Перенастроенный уборочный голем",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 499,
+										["g_amt"] = 0,
+										["n_max"] = 296,
+										["targets"] = {
+											["Алоиза"] = 1346,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 847,
+										["n_min"] = 275,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1346,
+										["c_max"] = 499,
+										["c_min"] = 499,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[257879] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257879,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 4,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+									[267069] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 48,
+										["targets"] = {
+											["Подчинитель разума <Алоиза>"] = 48,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 48,
+										["n_min"] = 48,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 48,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 267069,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1606805778,
+							["on_hold"] = false,
+							["start_time"] = 1606805768,
+							["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E8F5",
+							["fight_component"] = true,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3988,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Алоиза"] = 12198,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "1602-04F44A64",
+							["totalover"] = 12198.00214,
+							["total_without_pet"] = 1346.00214,
+							["total"] = 1346.00214,
+							["targets_absorbs"] = {
+								["Алоиза"] = 276,
+							},
+							["heal_enemy"] = {
+							},
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 276.00214,
+							["last_hps"] = 85.16305852613426,
+							["targets"] = {
+								["Алоиза"] = 1346,
+							},
+							["totalover_without_pet"] = 0.00214,
+							["healing_taken"] = 1346.00214,
+							["fight_component"] = true,
+							["end_time"] = 1606805780,
+							["heal_enemy_amt"] = 0,
+							["last_event"] = 1606805779,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[17] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 276,
+										["targets_overheal"] = {
+											["Алоиза"] = 2161,
+										},
+										["n_max"] = 276,
+										["targets"] = {
+											["Алоиза"] = 276,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 2161,
+										["total"] = 276,
+										["c_max"] = 0,
+										["id"] = 17,
+										["targets_absorbs"] = {
+											["Алоиза"] = 276,
+										},
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 276,
+										["m_healed"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[34914] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 154,
+										},
+										["n_max"] = 167,
+										["targets"] = {
+											["Алоиза"] = 581,
+										},
+										["n_min"] = 124,
+										["counter"] = 4,
+										["overheal"] = 154,
+										["total"] = 581,
+										["c_max"] = 0,
+										["id"] = 34914,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 581,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[269238] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 5396,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 5396,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[335467] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 3883,
+										},
+										["n_max"] = 159,
+										["targets"] = {
+											["Алоиза"] = 288,
+										},
+										["n_min"] = 129,
+										["counter"] = 7,
+										["overheal"] = 3883,
+										["total"] = 288,
+										["c_max"] = 0,
+										["id"] = 335467,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 7,
+										["n_curado"] = 288,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[295310] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 604,
+										},
+										["n_max"] = 201,
+										["targets"] = {
+											["Алоиза"] = 201,
+										},
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 604,
+										["total"] = 201,
+										["c_max"] = 0,
+										["id"] = 295310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 201,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.00214,
+							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 258,
+							["start_time"] = 1606805765,
+							["delay"] = 0,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3988,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003303,
+							["resource"] = 99.003303,
+							["targets"] = {
+							},
+							["pets"] = {
+								"Подчинитель разума <Алоиза>", -- [1]
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.003303,
+							["fight_component"] = true,
+							["total"] = 0.003303,
+							["totalover"] = 0.003303,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805785,
+							["alternatepower"] = 0.003303,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["resource"] = 50.008152,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "62982",
+							["totalover"] = 0.008152,
+							["alternatepower"] = 0.008152,
+							["ownerName"] = "Алоиза",
+							["nome"] = "Подчинитель разума <Алоиза>",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["passiveover"] = 0.008152,
+							["received"] = 0.008152,
+							["last_event"] = 1606805779,
+							["tipo"] = 3,
+							["classe"] = "PET",
+							["total"] = 0.008152,
+							["serial"] = "Creature-0-1471-1643-2748-62982-000045E909",
+							["resource_type"] = 13,
+						}, -- [2]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3988,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[295368] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 295368,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[279956] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 279956,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295367] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 295367,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[34914] = {
+										["activedamt"] = -1,
+										["id"] = 34914,
+										["targets"] = {
+										},
+										["actived_at"] = 1606805779,
+										["uptime"] = 7,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 3,
+									},
+									[335467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 335467,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[341291] = {
+										["activedamt"] = -1,
+										["id"] = 341291,
+										["targets"] = {
+										},
+										["actived_at"] = 1606805778,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 0,
+									},
+									[589] = {
+										["activedamt"] = -1,
+										["id"] = 589,
+										["targets"] = {
+										},
+										["actived_at"] = 1606805779,
+										["uptime"] = 7,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 3,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 130,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[267685] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 267685,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[341282] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341282,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 2,
+										["id"] = 269239,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 304056,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[17] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 17,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 3,
+										["id"] = 45242,
+										["uptime"] = 12,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295310] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295310,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 317859,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[300919] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 300919,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 34,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[200174] = 1,
+								[341263] = 7,
+								[147193] = 6,
+								[34914] = 3,
+								[295373] = 1,
+								[335467] = 3,
+								[8092] = 1,
+								[15407] = 2,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805780,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+								"Подчинитель разума <Алоиза>", -- [1]
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["monster"] = true,
+							["nome"] = "Перенастроенный уборочный голем",
+							["aID"] = "130131",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[257879] = 4,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E8F5",
+							["fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Алоиза",
+							["nome"] = "Подчинитель разума <Алоиза>",
+							["classe"] = "PET",
+							["pets"] = {
+							},
+							["aID"] = "62982",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-62982-000045E909",
+							["spell_cast"] = {
+								[63619] = 1,
+							},
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3988,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["CombatStartedAt"] = 1483555.01,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					40375, -- [1]
+					1346, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					33122, -- [1]
+					1346, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:56:21",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Перенастроенный уборочный голем",
+				["TotalElapsedCombatTime"] = 1483550.349,
+				["CombatEndedAt"] = 1483550.349,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[267685] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483544.849,
+							["spellId"] = 267685,
+							["data"] = {
+								{
+									1483544.849, -- [1]
+									1483550.349, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[15407] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483549.773,
+							["spellId"] = 15407,
+							["data"] = {
+								{
+									1483544.306, -- [1]
+									1483546.644, -- [2]
+								}, -- [1]
+								{
+									1483549.773, -- [1]
+									1483549.773, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[295368] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483541.281,
+							["spellId"] = 295368,
+							["data"] = {
+								{
+									1483541.281, -- [1]
+									1483546.751, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[335467] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483547.224,
+							["spellId"] = 335467,
+							["data"] = {
+								{
+									1483535.271, -- [1]
+									1483537.888, -- [2]
+								}, -- [1]
+								{
+									1483541.897, -- [1]
+									1483546.751, -- [2]
+								}, -- [2]
+								{
+									1483547.224, -- [1]
+									1483549.773, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[279956] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483549.124,
+							["spellId"] = 279956,
+							["data"] = {
+								{
+									1483549.124, -- [1]
+									1483549.773, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[34914] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483540.617,
+							["spellId"] = 34914,
+							["data"] = {
+								{
+									1483536.769, -- [1]
+									1483537.888, -- [2]
+								}, -- [1]
+								{
+									1483540.617, -- [1]
+									1483546.751, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483545.295,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483537.888, -- [1]
+									1483543.845, -- [2]
+								}, -- [1]
+								{
+									1483545.295, -- [1]
+									1483550.349, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[295367] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483544.306,
+							["spellId"] = 295367,
+							["data"] = {
+								{
+									1483535.043, -- [1]
+									1483537.888, -- [2]
+								}, -- [1]
+								{
+									1483544.306, -- [1]
+									1483546.751, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[45242] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483538.188,
+							["spellId"] = 45242,
+							["data"] = {
+								{
+									1483538.188, -- [1]
+									1483550.349, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295310] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483536.639,
+							["spellId"] = 295310,
+							["data"] = {
+								{
+									1483536.639, -- [1]
+									1483544.655, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[317859] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483539.283,
+							["spellId"] = 317859,
+							["data"] = {
+								{
+									1483539.283, -- [1]
+									1483550.349, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295378] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483541.281,
+							["spellId"] = 295378,
+							["data"] = {
+								{
+									1483541.281, -- [1]
+									1483550.349, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483540.617,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483536.769, -- [1]
+									1483537.888, -- [2]
+								}, -- [1]
+								{
+									1483540.617, -- [1]
+									1483546.751, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[304056] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483534.544,
+							["spellId"] = 304056,
+							["data"] = {
+								{
+									1483534.544, -- [1]
+									1483550.349, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[300919] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483534.544,
+							["spellId"] = 300919,
+							["data"] = {
+								{
+									1483534.544, -- [1]
+									1483550.349, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:56:05",
+				["end_time"] = 1483550.349,
+				["combat_id"] = 3988,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1606805764,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483533.316, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [1]
+						{
+							1483534.544, -- [1]
+							8092, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [2]
+						{
+							1483535.271, -- [1]
+							335467, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [3]
+						{
+							1483536.769, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [4]
+						{
+							1483538.03, -- [1]
+							200174, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [5]
+						{
+							1483540.617, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [6]
+						{
+							1483540.617, -- [1]
+							295373, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [7]
+						{
+							1483541.897, -- [1]
+							335467, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [8]
+						{
+							1483544.306, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [9]
+						{
+							1483544.306, -- [1]
+							15407, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [10]
+						{
+							1483547.224, -- [1]
+							335467, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [11]
+						{
+							1483549.773, -- [1]
+							8092, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [12]
+						{
+							1483549.773, -- [1]
+							15407, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [13]
+					},
+				},
+				["contra"] = "Перенастроенный уборочный голем",
+				["combat_counter"] = 4258,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 38981.00121,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 1346.00214,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 1483534.544,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Перенастроенный уборочный голем"] = 4,
+				},
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3987,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006789,
+							["damage_from"] = {
+								["Перенастроенный уборочный голем"] = true,
+							},
+							["targets"] = {
+								["Перенастроенный уборочный голем"] = 8840,
+							},
+							["pets"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 1479.746700553186,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8840.006789,
+							["last_event"] = 1606805748,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805748,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 279.006789,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 8840.006789,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[295305] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 552,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 552,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 552,
+										["n_min"] = 552,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 552,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295305,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[34914] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 472,
+										["g_amt"] = 0,
+										["n_max"] = 1355,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1827,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1355,
+										["n_min"] = 1355,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1827,
+										["c_max"] = 472,
+										["c_min"] = 472,
+										["id"] = 34914,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[295374] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2389,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 2389,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2389,
+										["n_min"] = 2389,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2389,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295374,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[335467] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1157,
+										["g_amt"] = 0,
+										["n_max"] = 592,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 2327,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1170,
+										["n_min"] = 578,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2327,
+										["c_max"] = 1157,
+										["c_min"] = 1157,
+										["id"] = 335467,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1056,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1056,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1056,
+										["c_max"] = 528,
+										["c_min"] = 528,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 94,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 94,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 94,
+										["n_min"] = 94,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 94,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[295368] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 595,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 595,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 595,
+										["n_min"] = 595,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 595,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295368,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805742,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 279.003232,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 279,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "130131",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 279.003232,
+							["end_time"] = 1606805748,
+							["monster"] = true,
+							["total"] = 279.003232,
+							["damage_taken"] = 8840.003232,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Перенастроенный уборочный голем",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 279,
+										["targets"] = {
+											["Алоиза"] = 279,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 279,
+										["n_min"] = 279,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 279,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[257879] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257879,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1606805745,
+							["on_hold"] = false,
+							["start_time"] = 1606805745,
+							["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E8E4",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3987,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Алоиза"] = 4013,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "1602-04F44A64",
+							["totalover"] = 4013.001193,
+							["total_without_pet"] = 279.001193,
+							["total"] = 279.001193,
+							["targets_absorbs"] = {
+								["Алоиза"] = 279,
+							},
+							["heal_enemy"] = {
+							},
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 279.001193,
+							["last_hps"] = 46.70257666610406,
+							["targets"] = {
+								["Алоиза"] = 279,
+							},
+							["totalover_without_pet"] = 0.001193,
+							["healing_taken"] = 279.001193,
+							["fight_component"] = true,
+							["end_time"] = 1606805748,
+							["heal_enemy_amt"] = 0,
+							["last_event"] = 1606805748,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1159,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 1159,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 335467,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[295310] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 200,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 200,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 295310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[17] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 279,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 279,
+										["targets"] = {
+											["Алоиза"] = 279,
+										},
+										["n_min"] = 279,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 279,
+										["c_max"] = 0,
+										["id"] = 17,
+										["targets_absorbs"] = {
+											["Алоиза"] = 279,
+										},
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 279,
+										["m_healed"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[269238] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 2654,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 2654,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 0,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.001193,
+							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 258,
+							["start_time"] = 1606805742,
+							["delay"] = 0,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3987,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003511,
+							["resource"] = 33.003511,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.003511,
+							["fight_component"] = true,
+							["total"] = 0.003511,
+							["totalover"] = 0.003511,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805764,
+							["alternatepower"] = 0.003511,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3987,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[295368] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 295368,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341291] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341291,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 335467,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[6788] = {
+										["activedamt"] = -1,
+										["id"] = 6788,
+										["targets"] = {
+										},
+										["actived_at"] = 1606805746,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 0,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 589,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[34914] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 34914,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 37,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269239,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[300919] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 300919,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[17] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 17,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[65081] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 65081,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295310] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295310,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341282] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341282,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 304056,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 45242,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 18,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[341263] = 1,
+								[295373] = 1,
+								[34914] = 2,
+								[15407] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805748,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["monster"] = true,
+							["nome"] = "Перенастроенный уборочный голем",
+							["aID"] = "130131",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[257879] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E8E4",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3987,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["CombatStartedAt"] = 1483533.316,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					9119, -- [1]
+					279, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					8840, -- [1]
+					279, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:55:49",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Перенастроенный уборочный голем",
+				["TotalElapsedCombatTime"] = 5.97399999992922,
+				["CombatEndedAt"] = 1483518.685,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[15407] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483518.282,
+							["spellId"] = 15407,
+							["data"] = {
+								{
+									1483518.282, -- [1]
+									1483518.409, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295368] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.609,
+							["spellId"] = 295368,
+							["data"] = {
+								{
+									1483515.609, -- [1]
+									1483518.409, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[335467] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483512.711,
+							["spellId"] = 335467,
+							["data"] = {
+								{
+									1483512.711, -- [1]
+									1483518.409, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341291] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.162,
+							["spellId"] = 341291,
+							["data"] = {
+								{
+									1483515.162, -- [1]
+									1483518.685, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[34914] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.162,
+							["spellId"] = 34914,
+							["data"] = {
+								{
+									1483515.162, -- [1]
+									1483518.409, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[45242] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.017,
+							["spellId"] = 45242,
+							["data"] = {
+								{
+									1483515.017, -- [1]
+									1483518.685, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295310] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.162,
+							["spellId"] = 295310,
+							["data"] = {
+								{
+									1483515.162, -- [1]
+									1483518.685, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.162,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483515.162, -- [1]
+									1483518.409, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341282] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483515.162,
+							["spellId"] = 341282,
+							["data"] = {
+								{
+									1483515.162, -- [1]
+									1483516.664, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[300919] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483512.711,
+							["spellId"] = 300919,
+							["data"] = {
+								{
+									1483512.711, -- [1]
+									1483518.685, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483518.409,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483518.409, -- [1]
+									1483518.685, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:55:43",
+				["end_time"] = 1483518.685,
+				["combat_id"] = 3987,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1606805742,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483508.116, -- [1]
+							6478, -- [2]
+							"Обработанные корабельные доски", -- [3]
+						}, -- [1]
+						{
+							1483510.047, -- [1]
+							17, -- [2]
+							"Алоиза", -- [3]
+						}, -- [2]
+						{
+							1483512.711, -- [1]
+							335467, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [3]
+						{
+							1483515.162, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [4]
+						{
+							1483515.392, -- [1]
+							295373, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [5]
+						{
+							1483516.664, -- [1]
+							34914, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [6]
+						{
+							1483518.282, -- [1]
+							15407, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [7]
+					},
+				},
+				["contra"] = "Перенастроенный уборочный голем",
+				["combat_counter"] = 4257,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 8840.006789,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 279.001193,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 1483512.711,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Перенастроенный уборочный голем"] = 1,
+				},
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3986,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006721,
+							["damage_from"] = {
+								["Перенастроенный уборочный голем"] = true,
+							},
+							["targets"] = {
+								["Перенастроенный уборочный голем"] = 13443,
+							},
+							["pets"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 1665.593696073127,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 13443.006721,
+							["last_event"] = 1606805731,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805731,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 767.006721,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 13443.006721,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[295305] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1104,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1104,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1104,
+										["c_max"] = 1104,
+										["c_min"] = 1104,
+										["id"] = 295305,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[300917] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 94,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 94,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 94,
+										["n_min"] = 94,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 94,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 339,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 339,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 339,
+										["c_max"] = 339,
+										["c_min"] = 339,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[15407] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 491,
+										["g_amt"] = 0,
+										["n_max"] = 245,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 736,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 245,
+										["n_min"] = 245,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 736,
+										["c_max"] = 491,
+										["c_min"] = 491,
+										["id"] = 15407,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[32379] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4988,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 4988,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 4988,
+										["c_max"] = 4988,
+										["c_min"] = 4988,
+										["id"] = 32379,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 892,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 892,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 892,
+										["c_max"] = 505,
+										["c_min"] = 387,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[8092] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1280,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 1280,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1280,
+										["n_min"] = 1280,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1280,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 8092,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[335467] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 4010,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Перенастроенный уборочный голем"] = 4010,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 4010,
+										["c_max"] = 1240,
+										["c_min"] = 627,
+										["id"] = 335467,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805724,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.00667,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 767,
+								["Ярём"] = 1003,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "130131",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1770.00667,
+							["total"] = 1770.00667,
+							["fight_component"] = true,
+							["end_time"] = 1606805742,
+							["damage_taken"] = 13443.00667,
+							["on_hold"] = false,
+							["nome"] = "Перенастроенный уборочный голем",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 287,
+										["targets"] = {
+											["Алоиза"] = 767,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 767,
+										["n_min"] = 226,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 767,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[257879] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257879,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+									[267156] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1003,
+										["targets"] = {
+											["Ярём"] = 1003,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1003,
+										["n_min"] = 1003,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1003,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 267156,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["classe"] = "UNKNOW",
+							["custom"] = 0,
+							["last_event"] = 1606805735,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805723,
+							["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E7E9",
+							["monster"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3986,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Алоиза"] = 4522,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "1602-04F44A64",
+							["totalover"] = 4522.001674,
+							["total_without_pet"] = 767.001674,
+							["total"] = 767.001674,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 0.001674,
+							["last_hps"] = 95.03180200723008,
+							["targets"] = {
+								["Алоиза"] = 767,
+							},
+							["totalover_without_pet"] = 0.001674,
+							["healing_taken"] = 767.001674,
+							["fight_component"] = true,
+							["end_time"] = 1606805731,
+							["heal_enemy_amt"] = 0,
+							["last_event"] = 1606805731,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1628,
+										},
+										["n_max"] = 287,
+										["targets"] = {
+											["Алоиза"] = 368,
+										},
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 1628,
+										["total"] = 368,
+										["c_max"] = 0,
+										["id"] = 335467,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 368,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[295310] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 200,
+										},
+										["n_max"] = 200,
+										["targets"] = {
+											["Алоиза"] = 399,
+										},
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 200,
+										["total"] = 399,
+										["c_max"] = 0,
+										["id"] = 295310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 399,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[269238] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 2694,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 2694,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 0,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.001674,
+							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 258,
+							["start_time"] = 1606805724,
+							["delay"] = 0,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3986,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004052,
+							["resource"] = 28.004052,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.004052,
+							["fight_component"] = true,
+							["total"] = 0.004052,
+							["totalover"] = 0.004052,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805731,
+							["alternatepower"] = 0.004052,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3986,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 335467,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[279956] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 279956,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 589,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 64,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[280204] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 280204,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 45242,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[300919] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 300919,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295310] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295310,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 304056,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269239,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 17,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[341263] = 3,
+								[15407] = 1,
+								[32379] = 1,
+								[589] = 1,
+								[8092] = 1,
+								[335467] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805731,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["monster"] = true,
+							["nome"] = "Перенастроенный уборочный голем",
+							["aID"] = "130131",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[257879] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E7E9",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3986,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["tempo_start"] = 1606805723,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					15212.992001, -- [1]
+					767, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.005948000000000064,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					13443, -- [1]
+					767, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:55:32",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Перенастроенный уборочный голем",
+				["TotalElapsedCombatTime"] = 1483501.205,
+				["CombatEndedAt"] = 1483501.205,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[15407] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483496.885,
+							["spellId"] = 15407,
+							["data"] = {
+								{
+									1483496.885, -- [1]
+									1483498.546, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[335467] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483494.251,
+							["spellId"] = 335467,
+							["data"] = {
+								{
+									1483494.251, -- [1]
+									1483500.255, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[279956] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483494.251,
+							["spellId"] = 279956,
+							["data"] = {
+								{
+									1483494.251, -- [1]
+									1483500.94, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[280204] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483495.217,
+							["spellId"] = 280204,
+							["data"] = {
+								{
+									1483495.217, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[45242] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483493.134,
+							["spellId"] = 45242,
+							["data"] = {
+								{
+									1483493.134, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295310] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483494.251,
+							["spellId"] = 295310,
+							["data"] = {
+								{
+									1483494.251, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[317859] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483496.885,
+							["spellId"] = 317859,
+							["data"] = {
+								{
+									1483496.885, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[300919] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483494.251,
+							["spellId"] = 300919,
+							["data"] = {
+								{
+									1483494.251, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483499.251,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483499.251, -- [1]
+									1483500.94, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[304056] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483496.291,
+							["spellId"] = 304056,
+							["data"] = {
+								{
+									1483496.291, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483500.94,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483500.94, -- [1]
+									1483501.205, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:55:24",
+				["end_time"] = 1483501.205,
+				["combat_id"] = 3986,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 13443.006721,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 767.001674,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["overall_added"] = true,
+				["frags"] = {
+					["Перенастроенный уборочный голем"] = 1,
+				},
+				["TimeData"] = {
+				},
+				["combat_counter"] = 4256,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 1483493.134,
+				["contra"] = "Перенастроенный уборочный голем",
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483493.134, -- [1]
+							6478, -- [2]
+							"Обработанные корабельные доски", -- [3]
+						}, -- [1]
+						{
+							1483494.251, -- [1]
+							335467, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [2]
+						{
+							1483496.885, -- [1]
+							8092, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [3]
+						{
+							1483496.885, -- [1]
+							15407, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [4]
+						{
+							1483499.251, -- [1]
+							589, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [5]
+						{
+							1483500.94, -- [1]
+							32379, -- [2]
+							"Перенастроенный уборочный голем", -- [3]
+						}, -- [6]
+					},
+				},
+			}, -- [4]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3985,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008048,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Мрачноморд Безмозглый"] = 10975,
+							},
+							["pets"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 1158.679059113419,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 10975.008048,
+							["last_event"] = 1606805699,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805700,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 0.008048,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 10975.008048,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[8092] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1573,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 1573,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1573,
+										["n_min"] = 1573,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1573,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 8092,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[295367] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 857,
+										["g_amt"] = 0,
+										["n_max"] = 428,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 1713,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 856,
+										["n_min"] = 428,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1713,
+										["c_max"] = 857,
+										["c_min"] = 857,
+										["id"] = 295367,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[148859] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 212,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 212,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 212,
+										["n_min"] = 212,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 212,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 148859,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[34914] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 481,
+										["g_amt"] = 0,
+										["n_max"] = 1379,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 2099,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1618,
+										["n_min"] = 239,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2099,
+										["c_max"] = 481,
+										["c_min"] = 481,
+										["id"] = 34914,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[32379] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2282,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 2282,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2282,
+										["n_min"] = 2282,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2282,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 32379,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1565,
+										["g_amt"] = 0,
+										["n_max"] = 268,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 2230,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 665,
+										["n_min"] = 153,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 2230,
+										["c_max"] = 538,
+										["c_min"] = 490,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 207,
+										["g_amt"] = 0,
+										["n_max"] = 102,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 309,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 102,
+										["n_min"] = 102,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 309,
+										["c_max"] = 207,
+										["c_min"] = 207,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[269031] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 186,
+										["targets"] = {
+											["Мрачноморд Безмозглый"] = 557,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 557,
+										["n_min"] = 185,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 557,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805691,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 947.008926,
+							["damage_from"] = {
+								["Алоиза"] = true,
+								["Дикейбро-ЧерныйШрам"] = true,
+							},
+							["targets"] = {
+								["Дикейбро-ЧерныйШрам"] = 947,
+								["Нагорный кролик"] = 768,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "141059",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1715.008926,
+							["end_time"] = 1606805700,
+							["monster"] = true,
+							["total"] = 1715.008926,
+							["damage_taken"] = 14879.008926,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Мрачноморд Безмозглый",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 207,
+										["targets"] = {
+											["Дикейбро-ЧерныйШрам"] = 369,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 369,
+										["n_min"] = 162,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 369,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[278222] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 768,
+										["targets"] = {
+											["Дикейбро-ЧерныйШрам"] = 578,
+											["Нагорный кролик"] = 768,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1346,
+										["n_min"] = 578,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1346,
+										["c_max"] = 0,
+										["id"] = 278222,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1606805697,
+							["on_hold"] = false,
+							["start_time"] = 1606805692,
+							["serial"] = "Creature-0-1471-1643-2748-141059-000045E82C",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3985,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 1337.002747,
+							["total_without_pet"] = 0.002747,
+							["total"] = 0.002747,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 0.002747,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.002747,
+							["healing_taken"] = 0.002747,
+							["end_time"] = 1606805700,
+							["last_event"] = 1606805699,
+							["targets_overheal"] = {
+								["Алоиза"] = 1337,
+							},
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[269238] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1337,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 1337,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "PRIEST",
+							["totaldenied"] = 0.002747,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "1602-04F44A64",
+							["start_time"] = 1606805699,
+							["delay"] = 0,
+							["spec"] = 258,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3985,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008748,
+							["resource"] = 28.32874769482422,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.008748,
+							["total"] = 0.008748,
+							["totalover"] = 0.008748,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805699,
+							["alternatepower"] = 0.008748,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3985,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[279956] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 279956,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295367] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 295367,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 2,
+										["id"] = 589,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341291] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341291,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[34914] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 34914,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 59,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[300919] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 300919,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269239,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341282] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341282,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[275765] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 275765,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 304056,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 34,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[147193] = 1,
+								[34914] = 2,
+								[32379] = 1,
+								[341263] = 1,
+								[8092] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805700,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["monster"] = true,
+							["nome"] = "Мрачноморд Безмозглый",
+							["aID"] = "141059",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[278222] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-141059-000045E82C",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3985,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["CombatStartedAt"] = 1483491.492,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					12689.988657, -- [1]
+					-0.006500999999856547, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = -0.008696000000000481,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					10975, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:55:01",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Мрачноморд Безмозглый",
+				["TotalElapsedCombatTime"] = 9.472000000067055,
+				["CombatEndedAt"] = 1483470.427,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[341291] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483464.342,
+							["spellId"] = 341291,
+							["data"] = {
+								{
+									1483464.342, -- [1]
+									1483470.427, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[34914] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483464.342,
+							["spellId"] = 34914,
+							["data"] = {
+								{
+									1483464.342, -- [1]
+									1483469.181, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[300919] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483460.955,
+							["spellId"] = 300919,
+							["data"] = {
+								{
+									1483460.955, -- [1]
+									1483470.427, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483460.955,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483460.955, -- [1]
+									1483469.181, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[279956] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483460.955,
+							["spellId"] = 279956,
+							["data"] = {
+								{
+									1483460.955, -- [1]
+									1483469.181, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341282] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483464.342,
+							["spellId"] = 341282,
+							["data"] = {
+								{
+									1483464.342, -- [1]
+									1483467.955, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295367] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483462.605,
+							["spellId"] = 295367,
+							["data"] = {
+								{
+									1483462.605, -- [1]
+									1483469.181, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[304056] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483460.955,
+							["spellId"] = 304056,
+							["data"] = {
+								{
+									1483460.955, -- [1]
+									1483470.427, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483469.181,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483469.181, -- [1]
+									1483470.427, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:54:51",
+				["end_time"] = 1483470.427,
+				["combat_id"] = 3985,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1606805691,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483460.955, -- [1]
+							589, -- [2]
+							"Мрачноморд Безмозглый", -- [3]
+						}, -- [1]
+						{
+							1483464.342, -- [1]
+							34914, -- [2]
+							"Мрачноморд Безмозглый", -- [3]
+						}, -- [2]
+						{
+							1483465.854, -- [1]
+							8092, -- [2]
+							"Мрачноморд Безмозглый", -- [3]
+						}, -- [3]
+						{
+							1483467.955, -- [1]
+							34914, -- [2]
+							"Мрачноморд Безмозглый", -- [3]
+						}, -- [4]
+						{
+							1483469.181, -- [1]
+							32379, -- [2]
+							"Мрачноморд Безмозглый", -- [3]
+						}, -- [5]
+					},
+				},
+				["contra"] = "Мрачноморд Безмозглый",
+				["combat_counter"] = 4255,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 10975.008048,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.002747,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 1483460.955,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Мрачноморд Безмозглый"] = 1,
+				},
+			}, -- [5]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3984,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002621,
+							["damage_from"] = {
+								["Жрец моря - головорез"] = true,
+								["Жрец моря - предвестник"] = true,
+							},
+							["targets"] = {
+								["Жрец моря - головорез"] = 11743,
+								["Жрец моря - предвестник"] = 5249,
+							},
+							["pets"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 2606.53514670635,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 16992.002621,
+							["last_event"] = 1606805654,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805655,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 2301.002621,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 16992.002621,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 647,
+										["targets"] = {
+											["Жрец моря - головорез"] = 1188,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1188,
+										["n_min"] = 541,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1188,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 335467,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[228360] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2332,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Жрец моря - головорез"] = 1151,
+											["Жрец моря - предвестник"] = 1181,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2332,
+										["c_max"] = 1181,
+										["c_min"] = 1151,
+										["id"] = 228360,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[295305] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 3669,
+										["g_amt"] = 0,
+										["n_max"] = 917,
+										["targets"] = {
+											["Жрец моря - головорез"] = 2752,
+											["Жрец моря - предвестник"] = 1834,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 917,
+										["n_min"] = 917,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 4586,
+										["c_max"] = 1835,
+										["c_min"] = 1834,
+										["id"] = 295305,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[32379] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2873,
+										["targets"] = {
+											["Жрец моря - головорез"] = 2873,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2873,
+										["n_min"] = 2873,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2873,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 32379,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[205448] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1050,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 1050,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1050,
+										["n_min"] = 1050,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1050,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 205448,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[228361] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2358,
+										["g_amt"] = 0,
+										["n_max"] = 655,
+										["targets"] = {
+											["Жрец моря - головорез"] = 1829,
+											["Жрец моря - предвестник"] = 1184,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 655,
+										["n_min"] = 655,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 3013,
+										["c_max"] = 1184,
+										["c_min"] = 1174,
+										["id"] = 228361,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[295367] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 429,
+										["targets"] = {
+											["Жрец моря - головорез"] = 429,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 429,
+										["n_min"] = 429,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 429,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295367,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[269031] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 749,
+										["g_amt"] = 0,
+										["n_max"] = 188,
+										["targets"] = {
+											["Жрец моря - головорез"] = 1125,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 376,
+										["n_min"] = 188,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1125,
+										["c_max"] = 376,
+										["c_min"] = 373,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[589] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 396,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Жрец моря - головорез"] = 396,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 396,
+										["c_max"] = 396,
+										["c_min"] = 396,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805648,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.007585,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 1829,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "137178",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1829.007585,
+							["end_time"] = 1606805655,
+							["monster"] = true,
+							["total"] = 1829.007585,
+							["damage_taken"] = 11743.007585,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Жрец моря - головорез",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 436,
+										["g_amt"] = 0,
+										["n_max"] = 293,
+										["targets"] = {
+											["Алоиза"] = 1316,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 880,
+										["n_min"] = 105,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1316,
+										["c_max"] = 436,
+										["c_min"] = 436,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[277524] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 513,
+										["targets"] = {
+											["Алоиза"] = 513,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 513,
+										["n_min"] = 513,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 513,
+										["c_max"] = 0,
+										["id"] = 277524,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1606805653,
+							["on_hold"] = false,
+							["start_time"] = 1606805649,
+							["serial"] = "Creature-0-1471-1643-2748-137178-000045E6CB",
+							["fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004971,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 472,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "137162",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 472.004971,
+							["end_time"] = 1606805655,
+							["monster"] = true,
+							["total"] = 472.004971,
+							["damage_taken"] = 5249.004971,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Жрец моря - предвестник",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 249,
+										["targets"] = {
+											["Алоиза"] = 472,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 472,
+										["n_min"] = 223,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 472,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1606805650,
+							["on_hold"] = false,
+							["start_time"] = 1606805648,
+							["serial"] = "Creature-0-1471-1643-2748-137162-0000C5E6CB",
+							["fight_component"] = true,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3984,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Алоиза"] = 5342,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "1602-04F44A64",
+							["totalover"] = 5342.001285,
+							["total_without_pet"] = 2221.001285,
+							["total"] = 2221.001285,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 0.001285,
+							["last_hps"] = 340.696622955898,
+							["targets"] = {
+								["Алоиза"] = 2221,
+							},
+							["totalover_without_pet"] = 0.001285,
+							["healing_taken"] = 2575.001285,
+							["fight_component"] = true,
+							["end_time"] = 1606805655,
+							["heal_enemy_amt"] = 0,
+							["last_event"] = 1606805654,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[335467] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 49,
+										},
+										["n_max"] = 274,
+										["targets"] = {
+											["Алоиза"] = 544,
+										},
+										["n_min"] = 270,
+										["counter"] = 2,
+										["overheal"] = 49,
+										["total"] = 544,
+										["c_max"] = 0,
+										["id"] = 335467,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 544,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[295310] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 403,
+										},
+										["n_max"] = 201,
+										["targets"] = {
+											["Алоиза"] = 201,
+										},
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 403,
+										["total"] = 201,
+										["c_max"] = 0,
+										["id"] = 295310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 201,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[269238] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 4552,
+										},
+										["n_max"] = 513,
+										["targets"] = {
+											["Алоиза"] = 901,
+										},
+										["n_min"] = 388,
+										["counter"] = 3,
+										["overheal"] = 4552,
+										["total"] = 901,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 901,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[298318] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 338,
+										},
+										["n_max"] = 575,
+										["targets"] = {
+											["Алоиза"] = 575,
+										},
+										["n_min"] = 575,
+										["counter"] = 1,
+										["overheal"] = 338,
+										["total"] = 575,
+										["c_max"] = 0,
+										["id"] = 298318,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 575,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.001285,
+							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 258,
+							["start_time"] = 1606805648,
+							["delay"] = 0,
+							["healing_from"] = {
+								["Алоиза"] = true,
+								["[*] Азерит"] = true,
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.007223,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Алоиза"] = 1568,
+							},
+							["targets"] = {
+								["Алоиза"] = 354,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["healing_taken"] = 0.007223,
+							["totalover"] = 1568.007223,
+							["total_without_pet"] = 354.007223,
+							["totalover_without_pet"] = 0.007223,
+							["totaldenied"] = 0.007223,
+							["fight_component"] = true,
+							["total"] = 354.007223,
+							["aID"] = "",
+							["heal_enemy_amt"] = 0,
+							["nome"] = "[*] Азерит",
+							["targets_absorbs"] = {
+							},
+							["end_time"] = 1606805655,
+							["classe"] = "UNGROUPPLAYER",
+							["heal_enemy"] = {
+							},
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606805654,
+							["on_hold"] = false,
+							["start_time"] = 1606805650,
+							["serial"] = "",
+							["spells"] = {
+								["_ActorTable"] = {
+									[275762] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1568,
+										},
+										["n_max"] = 354,
+										["targets"] = {
+											["Алоиза"] = 354,
+										},
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 1568,
+										["total"] = 354,
+										["c_max"] = 0,
+										["id"] = 275762,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 354,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+						}, -- [2]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3984,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.002929,
+							["resource"] = 43.68292900715256,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.002929,
+							["fight_component"] = true,
+							["total"] = 0.002929,
+							["totalover"] = 0.002929,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805691,
+							["alternatepower"] = 0.002929,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3984,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[279956] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 279956,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295367] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 295367,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 589,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 335467,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341291] = {
+										["activedamt"] = -1,
+										["id"] = 341291,
+										["targets"] = {
+										},
+										["actived_at"] = 1606805653,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 59,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 304056,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 269239,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[298343] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298343,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 8,
+										["id"] = 45242,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[275765] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 275765,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295310] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295310,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[194249] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 194249,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[280204] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 280204,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 10,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[228260] = 1,
+								[205448] = 1,
+								[32379] = 1,
+								[589] = 1,
+								[341263] = 2,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805655,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["monster"] = true,
+							["nome"] = "Жрец моря - головорез",
+							["aID"] = "137178",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[277524] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-137178-000045E746",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3984,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["CombatStartedAt"] = 1483418.448,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					19292.978376, -- [1]
+					2575, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = -0.002079000000000164,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					16992, -- [1]
+					2221, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:54:15",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Жрец моря - головорез",
+				["TotalElapsedCombatTime"] = 6.518999999854714,
+				["CombatEndedAt"] = 1483424.967,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[335467] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483418.448,
+							["spellId"] = 335467,
+							["data"] = {
+								{
+									1483418.448, -- [1]
+									1483421.38, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[279956] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483418.448,
+							["spellId"] = 279956,
+							["data"] = {
+								{
+									1483418.448, -- [1]
+									1483421.38, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483421.38,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483421.38, -- [1]
+									1483424.967, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[298343] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483423.346,
+							["spellId"] = 298343,
+							["data"] = {
+								{
+									1483423.346, -- [1]
+									1483424.967, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295310] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483418.448,
+							["spellId"] = 295310,
+							["data"] = {
+								{
+									1483418.448, -- [1]
+									1483424.967, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[194249] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483421.28,
+							["spellId"] = 194249,
+							["data"] = {
+								{
+									1483421.28, -- [1]
+									1483424.967, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295367] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483418.448,
+							["spellId"] = 295367,
+							["data"] = {
+								{
+									1483418.448, -- [1]
+									1483421.38, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[45242] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483418.448,
+							["spellId"] = 45242,
+							["data"] = {
+								{
+									1483418.448, -- [1]
+									1483424.967, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483423.053,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483423.053, -- [1]
+									1483424.279, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:54:09",
+				["end_time"] = 1483424.967,
+				["combat_id"] = 3984,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1606805648,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483414.026, -- [1]
+							315014, -- [2]
+							"", -- [3]
+						}, -- [1]
+						{
+							1483418.448, -- [1]
+							335467, -- [2]
+							"Жрец моря - головорез", -- [3]
+						}, -- [2]
+						{
+							1483421.28, -- [1]
+							228260, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [3]
+						{
+							1483421.691, -- [1]
+							205448, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [4]
+						{
+							1483423.053, -- [1]
+							589, -- [2]
+							"Жрец моря - головорез", -- [3]
+						}, -- [5]
+						{
+							1483424.279, -- [1]
+							32379, -- [2]
+							"Жрец моря - головорез", -- [3]
+						}, -- [6]
+					},
+				},
+				["contra"] = "Жрец моря - головорез",
+				["combat_counter"] = 4254,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 16992.002621,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 2221.001285,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 1483418.448,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Жрец моря - головорез"] = 2,
+					["Жрец моря - предвестник"] = 1,
+				},
+			}, -- [6]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3983,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003809,
+							["damage_from"] = {
+								["Алоиза"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 1120,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "137178",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1120.003809,
+							["end_time"] = 1606805648,
+							["monster"] = true,
+							["total"] = 1120.003809,
+							["damage_taken"] = 4775.003809,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Жрец моря - головорез",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 268,
+										["g_amt"] = 0,
+										["n_max"] = 329,
+										["targets"] = {
+											["Алоиза"] = 1120,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 852,
+										["n_min"] = 249,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1120,
+										["c_max"] = 268,
+										["c_min"] = 268,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1606805648,
+							["on_hold"] = false,
+							["start_time"] = 1606805637,
+							["serial"] = "Creature-0-1471-1643-2748-137178-000045E87D",
+							["fight_component"] = true,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007441,
+							["damage_from"] = {
+								["Жрец моря - головорез"] = true,
+							},
+							["targets"] = {
+								["Жрец моря - головорез"] = 4775,
+							},
+							["pets"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 1606.124265389503,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4775.007441,
+							["last_event"] = 1606805640,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805641,
+							["classe"] = "PRIEST",
+							["damage_taken"] = 1120.007441,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["total"] = 4775.007441,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[8092] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1552,
+										["targets"] = {
+											["Жрец моря - головорез"] = 1552,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1552,
+										["n_min"] = 1552,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1552,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 8092,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 269,
+										["targets"] = {
+											["Жрец моря - головорез"] = 269,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 269,
+										["n_min"] = 269,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 269,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[34914] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2741,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Жрец моря - головорез"] = 2741,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2741,
+										["c_max"] = 2741,
+										["c_min"] = 2741,
+										["id"] = 34914,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[148859] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 213,
+										["targets"] = {
+											["Жрец моря - головорез"] = 213,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 213,
+										["n_min"] = 213,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 213,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 148859,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805640,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3983,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.00365,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Алоиза"] = 436,
+							},
+							["targets"] = {
+								["Алоиза"] = 846,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["healing_taken"] = 0.00365,
+							["totalover"] = 436.00365,
+							["total_without_pet"] = 846.00365,
+							["totalover_without_pet"] = 0.00365,
+							["totaldenied"] = 0.00365,
+							["fight_component"] = true,
+							["total"] = 846.00365,
+							["aID"] = "",
+							["heal_enemy_amt"] = 0,
+							["nome"] = "[*] Азерит",
+							["targets_absorbs"] = {
+							},
+							["end_time"] = 1606805641,
+							["classe"] = "UNGROUPPLAYER",
+							["heal_enemy"] = {
+							},
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606805640,
+							["on_hold"] = false,
+							["start_time"] = 1606805638,
+							["serial"] = "",
+							["spells"] = {
+								["_ActorTable"] = {
+									[275762] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 436,
+										},
+										["n_max"] = 517,
+										["targets"] = {
+											["Алоиза"] = 846,
+										},
+										["n_min"] = 329,
+										["counter"] = 2,
+										["overheal"] = 436,
+										["total"] = 846,
+										["c_max"] = 0,
+										["id"] = 275762,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 846,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["[*] Азерит"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 1336.005989,
+							["total_without_pet"] = 0.005989,
+							["total"] = 0.005989,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 0.005989,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.005989,
+							["healing_taken"] = 846.005989,
+							["end_time"] = 1606805641,
+							["last_event"] = 1606805640,
+							["targets_overheal"] = {
+								["Алоиза"] = 1336,
+							},
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[269238] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1336,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 1336,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "PRIEST",
+							["totaldenied"] = 0.005989,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "1602-04F44A64",
+							["start_time"] = 1606805640,
+							["delay"] = 0,
+							["spec"] = 258,
+						}, -- [2]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3983,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004629,
+							["resource"] = 30.004629,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.004629,
+							["total"] = 0.004629,
+							["totalover"] = 0.004629,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805640,
+							["alternatepower"] = 0.004629,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3983,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 589,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[34914] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 34914,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341291] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341291,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 29,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[280204] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 280204,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 304056,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 45242,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[275765] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 275765,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[341282] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341282,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295378,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269239,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 7,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8092] = 1,
+								[147193] = 1,
+								[34914] = 2,
+								[341263] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805641,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3983,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["tempo_start"] = 1606805637,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					5895, -- [1]
+					846, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					4775, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:54:02",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Жрец моря - головорез",
+				["TotalElapsedCombatTime"] = 1483411.522,
+				["CombatEndedAt"] = 1483411.522,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483408.559,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483408.559, -- [1]
+									1483410.75, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483410.75,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483410.75, -- [1]
+									1483411.522, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341282] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483408.559,
+							["spellId"] = 341282,
+							["data"] = {
+								{
+									1483408.559, -- [1]
+									1483410.058, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[34914] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483408.559,
+							["spellId"] = 34914,
+							["data"] = {
+								{
+									1483408.559, -- [1]
+									1483410.75, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[304056] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483410.058,
+							["spellId"] = 304056,
+							["data"] = {
+								{
+									1483410.058, -- [1]
+									1483411.522, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341291] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483408.559,
+							["spellId"] = 341291,
+							["data"] = {
+								{
+									1483408.559, -- [1]
+									1483411.522, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[280204] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483408.559,
+							["spellId"] = 280204,
+							["data"] = {
+								{
+									1483408.559, -- [1]
+									1483411.522, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[45242] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483407.827,
+							["spellId"] = 45242,
+							["data"] = {
+								{
+									1483407.827, -- [1]
+									1483411.522, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:53:58",
+				["end_time"] = 1483411.522,
+				["combat_id"] = 3983,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 4775.007441,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.005989,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["overall_added"] = true,
+				["frags"] = {
+					["Жрец моря - головорез"] = 1,
+				},
+				["TimeData"] = {
+				},
+				["combat_counter"] = 4253,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+					["Алоиза"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							274, -- [3]
+							1606805649.078, -- [4]
+							21362, -- [5]
+							"Жрец моря - головорез", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["start_time"] = 1483407.827,
+				["contra"] = "Жрец моря - головорез",
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483404.4, -- [1]
+							72286, -- [2]
+							"", -- [3]
+						}, -- [1]
+						{
+							1483410.058, -- [1]
+							8092, -- [2]
+							"Жрец моря - головорез", -- [3]
+						}, -- [2]
+						{
+							1483410.058, -- [1]
+							34914, -- [2]
+							"Жрец моря - головорез", -- [3]
+						}, -- [3]
+					},
+				},
+			}, -- [7]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3982,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003169,
+							["damage_from"] = {
+								["Жрец моря - предвестник"] = true,
+							},
+							["targets"] = {
+								["Жрец моря - предвестник"] = 14245,
+							},
+							["pets"] = {
+								"Подчинитель разума <Алоиза>", -- [1]
+							},
+							["aID"] = "1602-04F44A64",
+							["last_dps"] = 1106.408013126214,
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 12571.003169,
+							["tipo"] = 1,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 14245.003169,
+							["friendlyfire_total"] = 0,
+							["damage_taken"] = 2571.003169,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["end_time"] = 1606805627,
+							["spells"] = {
+								["_ActorTable"] = {
+									[295368] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 219,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 657,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 657,
+										["n_min"] = 219,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 657,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295368,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[34914] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1444,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 2975,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2975,
+										["n_min"] = 305,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 2975,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 34914,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 395,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 395,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 395,
+										["c_max"] = 395,
+										["c_min"] = 395,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[15407] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 298,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 298,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 298,
+										["n_min"] = 298,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 298,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 15407,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[346111] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 89,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 89,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 89,
+										["n_min"] = 89,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 89,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 346111,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 2434,
+										["g_amt"] = 0,
+										["n_max"] = 303,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 3644,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1210,
+										["n_min"] = 301,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 3644,
+										["c_max"] = 611,
+										["c_min"] = 606,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 104,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 104,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 104,
+										["n_min"] = 104,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 104,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[295374] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 3532,
+										["g_amt"] = 0,
+										["n_max"] = 877,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 4409,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 877,
+										["n_min"] = 877,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 4409,
+										["c_max"] = 3532,
+										["c_min"] = 3532,
+										["id"] = 295374,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["last_event"] = 1606805627,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805616,
+							["serial"] = "Player-1602-04F44A64",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 666.00182,
+							["damage_from"] = {
+								["Алоиза"] = true,
+								["Подчинитель разума <Алоиза>"] = true,
+							},
+							["targets"] = {
+								["Алоиза"] = 2571,
+								["Подчинитель разума <Алоиза>"] = 217,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "137162",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2788.00182,
+							["total"] = 2788.00182,
+							["fight_component"] = true,
+							["end_time"] = 1606805627,
+							["damage_taken"] = 14245.00182,
+							["on_hold"] = false,
+							["nome"] = "Жрец моря - предвестник",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 308,
+										["targets"] = {
+											["Алоиза"] = 1222,
+											["Подчинитель разума <Алоиза>"] = 217,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1439,
+										["n_min"] = 194,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1439,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[277521] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 276,
+										["targets"] = {
+											["Алоиза"] = 1349,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1349,
+										["n_min"] = 200,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1349,
+										["c_max"] = 0,
+										["id"] = 277521,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 1,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_dmg"] = 276,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["classe"] = "UNKNOW",
+							["custom"] = 0,
+							["last_event"] = 1606805626,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606805614,
+							["serial"] = "Creature-0-1471-1643-2748-137162-000045E7FF",
+							["monster"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.003098,
+							["damage_from"] = {
+								["Жрец моря - предвестник"] = true,
+							},
+							["targets"] = {
+								["Жрец моря - предвестник"] = 1674,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "PET",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1674.003098,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606805627,
+							["total"] = 1674.003098,
+							["ownerName"] = "Алоиза",
+							["nome"] = "Подчинитель разума <Алоиза>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 835,
+										["g_amt"] = 0,
+										["n_max"] = 421,
+										["targets"] = {
+											["Жрец моря - предвестник"] = 1674,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 839,
+										["n_min"] = 418,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1674,
+										["c_max"] = 835,
+										["c_min"] = 835,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 217.003098,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1606805626,
+							["on_hold"] = false,
+							["start_time"] = 1606805623,
+							["serial"] = "Creature-0-1471-1643-2748-62982-000045E878",
+							["aID"] = "62982",
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3982,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Алоиза"] = 3624,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "1602-04F44A64",
+							["totalover"] = 3624.004941,
+							["total_without_pet"] = 2237.004941,
+							["total"] = 2237.004941,
+							["targets_absorbs"] = {
+								["Алоиза"] = 1218,
+							},
+							["heal_enemy"] = {
+							},
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["serial"] = "Player-1602-04F44A64",
+							["totalabsorb"] = 1218.004941,
+							["last_hps"] = 173.7479565825243,
+							["targets"] = {
+								["Алоиза"] = 2237,
+							},
+							["totalover_without_pet"] = 0.004941,
+							["healing_taken"] = 2571.004941,
+							["fight_component"] = true,
+							["end_time"] = 1606805627,
+							["heal_enemy_amt"] = 0,
+							["last_event"] = 1606805627,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+									[17] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 1218,
+										["targets_overheal"] = {
+											["Алоиза"] = 1,
+										},
+										["n_max"] = 308,
+										["targets"] = {
+											["Алоиза"] = 1218,
+										},
+										["n_min"] = 0,
+										["counter"] = 6,
+										["overheal"] = 1,
+										["total"] = 1218,
+										["c_max"] = 0,
+										["id"] = 17,
+										["targets_absorbs"] = {
+											["Алоиза"] = 1218,
+										},
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 6,
+										["n_curado"] = 1218,
+										["m_healed"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[269238] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 3528,
+										},
+										["n_max"] = 303,
+										["targets"] = {
+											["Алоиза"] = 502,
+										},
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 3528,
+										["total"] = 502,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 502,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[34914] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 95,
+										},
+										["n_max"] = 154,
+										["targets"] = {
+											["Алоиза"] = 517,
+										},
+										["n_min"] = 58,
+										["counter"] = 4,
+										["overheal"] = 95,
+										["total"] = 517,
+										["c_max"] = 0,
+										["id"] = 34914,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 517,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.004941,
+							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 258,
+							["start_time"] = 1606805614,
+							["delay"] = 0,
+							["healing_from"] = {
+								["Алоиза"] = true,
+								["[*] Азерит"] = true,
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.004277,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Алоиза"] = 3511,
+							},
+							["targets"] = {
+								["Алоиза"] = 334,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["healing_taken"] = 0.004277,
+							["totalover"] = 3511.004277,
+							["total_without_pet"] = 334.004277,
+							["totalover_without_pet"] = 0.004277,
+							["totaldenied"] = 0.004277,
+							["fight_component"] = true,
+							["total"] = 334.004277,
+							["aID"] = "",
+							["heal_enemy_amt"] = 0,
+							["nome"] = "[*] Азерит",
+							["targets_absorbs"] = {
+							},
+							["end_time"] = 1606805627,
+							["classe"] = "UNGROUPPLAYER",
+							["heal_enemy"] = {
+							},
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606805626,
+							["on_hold"] = false,
+							["start_time"] = 1606805616,
+							["serial"] = "",
+							["spells"] = {
+								["_ActorTable"] = {
+									[275762] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 3511,
+										},
+										["n_max"] = 200,
+										["targets"] = {
+											["Алоиза"] = 334,
+										},
+										["n_min"] = 32,
+										["counter"] = 6,
+										["overheal"] = 3511,
+										["total"] = 334,
+										["c_max"] = 0,
+										["id"] = 275762,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 6,
+										["n_curado"] = 334,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+						}, -- [2]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3982,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.005525,
+							["resource"] = 33.005525,
+							["targets"] = {
+							},
+							["pets"] = {
+								"Подчинитель разума <Алоиза>", -- [1]
+							},
+							["powertype"] = 0,
+							["aID"] = "1602-04F44A64",
+							["passiveover"] = 0.005525,
+							["fight_component"] = true,
+							["total"] = 0.005525,
+							["totalover"] = 0.005525,
+							["nome"] = "Алоиза",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 258,
+							["tipo"] = 3,
+							["classe"] = "PRIEST",
+							["last_event"] = 1606805627,
+							["alternatepower"] = 0.005525,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1602-04F44A64",
+							["resource_type"] = 13,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["resource"] = 15.003331,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "62982",
+							["totalover"] = 0.003331,
+							["alternatepower"] = 0.003331,
+							["ownerName"] = "Алоиза",
+							["nome"] = "Подчинитель разума <Алоиза>",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["passiveover"] = 0.003331,
+							["received"] = 0.003331,
+							["last_event"] = 1606805626,
+							["tipo"] = 3,
+							["classe"] = "PET",
+							["total"] = 0.003331,
+							["serial"] = "Creature-0-1471-1643-2748-62982-000045E878",
+							["resource_type"] = 13,
+						}, -- [2]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3982,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[295368] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 295368,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[279956] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 279956,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[34914] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 34914,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[6788] = {
+										["activedamt"] = -1,
+										["id"] = 6788,
+										["targets"] = {
+										},
+										["actived_at"] = 1606805616,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 0,
+									},
+									[341291] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341291,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 589,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 102,
+							["classe"] = "PRIEST",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[341282] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341282,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269239] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 269239,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[21562] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 21562,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[17] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 17,
+										["uptime"] = 8,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[300919] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 300919,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[275765] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 275765,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295378] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 295378,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[232698] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 232698,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 304056,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[45242] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 4,
+										["id"] = 45242,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 33,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[15407] = 2,
+								[295373] = 2,
+								[200174] = 1,
+								[34914] = 2,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1606805627,
+							["aID"] = "1602-04F44A64",
+							["pets"] = {
+								"Подчинитель разума <Алоиза>", -- [1]
+							},
+							["serial"] = "Player-1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["monster"] = true,
+							["nome"] = "Жрец моря - предвестник",
+							["aID"] = "137162",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[277521] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-137162-000045E7FF",
+							["fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Алоиза",
+							["nome"] = "Подчинитель разума <Алоиза>",
+							["classe"] = "PET",
+							["pets"] = {
+							},
+							["aID"] = "62982",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-1471-1643-2748-62982-000045E878",
+							["spell_cast"] = {
+								[63619] = 1,
+							},
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3982,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Алоиза"] = true,
+				},
+				["CombatStartedAt"] = 1483406.641,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					17033, -- [1]
+					2571, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					12571, -- [1]
+					2237, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "08:53:48",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Жрец моря - предвестник",
+				["TotalElapsedCombatTime"] = 1483397.309,
+				["CombatEndedAt"] = 1483397.309,
+				["aura_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						[15407] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483396.044,
+							["spellId"] = 15407,
+							["data"] = {
+								{
+									1483389.21, -- [1]
+									1483389.378, -- [2]
+								}, -- [1]
+								{
+									1483396.044, -- [1]
+									1483396.66, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[295368] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483386.492,
+							["spellId"] = 295368,
+							["data"] = {
+								{
+									1483386.492, -- [1]
+									1483392.553, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341291] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483388.776,
+							["spellId"] = 341291,
+							["data"] = {
+								{
+									1483388.776, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[34914] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483388.776,
+							["spellId"] = 34914,
+							["data"] = {
+								{
+									1483388.776, -- [1]
+									1483397.004, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[45242] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483384.434,
+							["spellId"] = 45242,
+							["data"] = {
+								{
+									1483384.434, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[589] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483388.776,
+							["spellId"] = 589,
+							["data"] = {
+								{
+									1483388.776, -- [1]
+									1483397.004, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[269239] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483394.573,
+							["spellId"] = 269239,
+							["data"] = {
+								{
+									1483394.573, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[300919] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483392.151,
+							["spellId"] = 300919,
+							["data"] = {
+								{
+									1483392.151, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[317859] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483384.434,
+							["spellId"] = 317859,
+							["data"] = {
+								{
+									1483384.434, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295378] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483386.492,
+							["spellId"] = 295378,
+							["data"] = {
+								{
+									1483386.492, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[341282] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483388.776,
+							["spellId"] = 341282,
+							["data"] = {
+								{
+									1483388.776, -- [1]
+									1483391.028, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[304056] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483390.447,
+							["spellId"] = 304056,
+							["data"] = {
+								{
+									1483390.447, -- [1]
+									1483397.309, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[279956] = {
+							["enabled"] = false,
+							["appliedAt"] = 1483395.912,
+							["spellId"] = 279956,
+							["data"] = {
+								{
+									1483395.912, -- [1]
+									1483396.66, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "08:53:35",
+				["end_time"] = 1483397.309,
+				["combat_id"] = 3982,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1606805614,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							1483380.652, -- [1]
+							17, -- [2]
+							"Алоиза", -- [3]
+						}, -- [1]
+						{
+							1483386.394, -- [1]
+							295373, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [2]
+						{
+							1483388.776, -- [1]
+							34914, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [3]
+						{
+							1483389.21, -- [1]
+							15407, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [4]
+						{
+							1483391.028, -- [1]
+							34914, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [5]
+						{
+							1483392.953, -- [1]
+							200174, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [6]
+						{
+							1483394.192, -- [1]
+							295373, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [7]
+						{
+							1483396.044, -- [1]
+							15407, -- [2]
+							"Жрец моря - предвестник", -- [3]
+						}, -- [8]
+					},
+				},
+				["contra"] = "Жрец моря - предвестник",
+				["combat_counter"] = 4252,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 14245.003169,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 2237.004941,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 1483384.434,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Жрец моря - предвестник"] = 3,
+				},
+			}, -- [8]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3981,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -22,22 +9314,8 @@ _detalhes_database = {
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
-							["total"] = 28462.003522,
-							["on_hold"] = false,
-							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 23504.003522,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
 							["end_time"] = 1606138796,
-							["aID"] = "1602-04F44A64",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Алоиза",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[15407] = {
 										["c_amt"] = 3,
@@ -60,15 +9338,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 427,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295368] = {
 										["c_amt"] = 0,
@@ -91,15 +9369,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[335467] = {
 										["c_amt"] = 1,
@@ -122,15 +9400,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 1183,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[34914] = {
 										["c_amt"] = 2,
@@ -153,15 +9431,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 479,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[8092] = {
 										["c_amt"] = 0,
@@ -184,15 +9462,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[32379] = {
 										["c_amt"] = 0,
@@ -215,15 +9493,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[346111] = {
 										["c_amt"] = 0,
@@ -246,15 +9524,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 11,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295305] = {
 										["c_amt"] = 0,
@@ -277,15 +9555,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295374] = {
 										["c_amt"] = 1,
@@ -308,46 +9586,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 3258,
-									},
-									[148859] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 211,
-										["targets"] = {
-											["Зу'шин Преображенный"] = 614,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 614,
-										["n_min"] = 192,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 614,
-										["c_max"] = 0,
-										["spellschool"] = 32,
-										["id"] = 148859,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
+										["m_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[300917] = {
 										["c_amt"] = 0,
@@ -370,46 +9617,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
-									},
-									[269031] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 344,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Зу'шин Преображенный"] = 344,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 344,
-										["c_max"] = 344,
-										["spellschool"] = 1,
-										["id"] = 269031,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 344,
 									},
 									[589] = {
 										["c_amt"] = 1,
@@ -432,28 +9648,104 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 540,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 344,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Зу'шин Преображенный"] = 344,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 344,
+										["c_max"] = 344,
+										["spellschool"] = 1,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 344,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[148859] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 211,
+										["targets"] = {
+											["Зу'шин Преображенный"] = 614,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 614,
+										["n_min"] = 192,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 614,
+										["c_max"] = 0,
+										["spellschool"] = 32,
+										["id"] = 148859,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 258,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 23504.003522,
+							["on_hold"] = false,
 							["serial"] = "Player-1602-04F44A64",
-							["last_dps"] = 1907.768853275063,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 28462.003522,
+							["aID"] = "1602-04F44A64",
+							["friendlyfire"] = {
+							},
+							["nome"] = "Алоиза",
+							["spec"] = 258,
+							["grupo"] = true,
 							["tipo"] = 1,
-							["damage_taken"] = 4757.003522,
+							["colocacao"] = 1,
+							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["last_event"] = 1606138795,
+							["last_dps"] = 1907.768853275063,
 							["start_time"] = 1606138782,
 							["delay"] = 0,
-							["last_event"] = 1606138795,
+							["damage_taken"] = 4757.003522,
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -463,23 +9755,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Зу'шин Преображенный"] = 4958,
 							},
-							["friendlyfire"] = {
-							},
 							["pets"] = {
 							},
-							["classe"] = "PET",
 							["aID"] = "62982",
+							["last_event"] = 1606138794,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4958.005632,
-							["on_hold"] = false,
 							["serial"] = "Creature-0-4239-1642-643-62982-00003BBB9E",
 							["dps_started"] = false,
 							["end_time"] = 1606138796,
+							["damage_taken"] = 0.005632,
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 4,
@@ -502,27 +9792,29 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 656,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["total"] = 4958.005632,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1606138794,
-							["damage_taken"] = 0.005632,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1606138782,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "PET",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -534,23 +9826,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Алоиза"] = 4757,
 							},
-							["total"] = 4757.00448,
+							["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["aID"] = "136702",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4757.00448,
-							["fight_component"] = true,
-							["monster"] = true,
 							["dps_started"] = false,
+							["monster"] = true,
 							["end_time"] = 1606138796,
 							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["last_event"] = 1606138793,
 							["nome"] = "Зу'шин Преображенный",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 3,
@@ -572,17 +9864,17 @@ _detalhes_database = {
 										["spellschool"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
 										["c_min"] = 351,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["extra"] = {
+										},
+										["r_amt"] = 0,
 									}, -- [1]
 									[80576] = {
 										["c_amt"] = 0,
@@ -605,32 +9897,32 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138793,
+							["fight_component"] = true,
 							["damage_taken"] = 28462.00448,
+							["total"] = 4757.00448,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1606138781,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 3981,
 					["tipo"] = 3,
+					["combatId"] = 3981,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -639,7 +9931,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["iniciar_hps"] = true,
+							["iniciar_hps"] = false,
 							["aID"] = "1602-04F44A64",
 							["totalover"] = 204.005822,
 							["total_without_pet"] = 4201.005822,
@@ -649,7 +9941,7 @@ _detalhes_database = {
 							["heal_enemy"] = {
 							},
 							["colocacao"] = 1,
-							["on_hold"] = true,
+							["on_hold"] = false,
 							["serial"] = "Player-1602-04F44A64",
 							["totalabsorb"] = 0.005822,
 							["last_hps"] = 281.5876279912577,
@@ -658,15 +9950,15 @@ _detalhes_database = {
 							},
 							["totalover_without_pet"] = 0.005822,
 							["healing_taken"] = 4201.005822,
-							["timeMachine"] = 20,
+							["start_time"] = 1606805595,
 							["fight_component"] = true,
+							["end_time"] = 1606805614,
 							["healing_from"] = {
 								["Алоиза"] = true,
 							},
-							["heal_enemy_amt"] = 0,
-							["nome"] = "Алоиза",
+							["classe"] = "PRIEST",
+							["timeMachine"] = 20,
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[335467] = {
 										["c_amt"] = 0,
@@ -687,12 +9979,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["n_curado"] = 1417,
 										["n_amt"] = 4,
-										["totaldenied"] = 0,
 										["m_healed"] = 0,
+										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
 									[295310] = {
@@ -715,12 +10007,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["n_curado"] = 612,
 										["n_amt"] = 4,
-										["totaldenied"] = 0,
 										["m_healed"] = 0,
+										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
 									[34914] = {
@@ -742,12 +10034,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["n_curado"] = 807,
 										["n_amt"] = 5,
-										["totaldenied"] = 0,
 										["m_healed"] = 0,
+										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
 									[269238] = {
@@ -769,31 +10061,32 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["n_curado"] = 1365,
 										["n_amt"] = 1,
-										["totaldenied"] = 0,
 										["m_healed"] = 0,
+										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1606138783,
-							["spec"] = 258,
-							["custom"] = 0,
+							["nome"] = "Алоиза",
 							["tipo"] = 2,
-							["classe"] = "PRIEST",
+							["custom"] = 0,
+							["last_event"] = 1606138801,
+							["spec"] = 258,
 							["totaldenied"] = 0.005822,
 							["delay"] = 1606138801,
-							["last_event"] = 1606138801,
+							["heal_enemy_amt"] = 0,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 3981,
 					["tipo"] = 7,
+					["combatId"] = 3981,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.001789,
@@ -811,17 +10104,17 @@ _detalhes_database = {
 							["resource_type"] = 13,
 							["nome"] = "Алоиза",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 258,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.001789,
+							["tipo"] = 3,
 							["last_event"] = 1606138795,
 							["classe"] = "PRIEST",
-							["tipo"] = 3,
 							["serial"] = "Player-1602-04F44A64",
 							["totalover"] = 0.001789,
 						}, -- [1]
@@ -839,59 +10132,69 @@ _detalhes_database = {
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["resource_type"] = 13,
 							["received"] = 0.003566,
 							["total"] = 0.003566,
-							["tipo"] = 3,
-							["classe"] = "PET",
 							["last_event"] = 1606138794,
+							["classe"] = "PET",
+							["tipo"] = 3,
 							["serial"] = "Creature-0-4239-1642-643-62982-00003BBB9E",
 							["passiveover"] = 0.003566,
 						}, -- [2]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 3981,
 					["tipo"] = 9,
+					["combatId"] = 3981,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[295368] = {
-										["activedamt"] = 0,
-										["id"] = 295368,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 7,
-										["appliedamt"] = 2,
+										["id"] = 295368,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[279956] = {
-										["activedamt"] = 0,
-										["id"] = 279956,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 13,
-										["appliedamt"] = 1,
+										["id"] = 279956,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[34914] = {
-										["activedamt"] = -1,
-										["id"] = 34914,
+										["appliedamt"] = 0,
 										["targets"] = {
 										},
+										["activedamt"] = -1,
 										["uptime"] = 13,
+										["id"] = 34914,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[589] = {
 										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = -1,
+										["uptime"] = 13,
+										["id"] = 589,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -908,179 +10211,169 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[589] = {
-										["activedamt"] = -1,
-										["id"] = 589,
-										["targets"] = {
-										},
-										["uptime"] = 13,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[335467] = {
-										["activedamt"] = 0,
-										["id"] = 335467,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 335467,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[15407] = {
-										["activedamt"] = 0,
-										["id"] = 15407,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 4,
-										["appliedamt"] = 2,
+										["id"] = 15407,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 105,
 							["classe"] = "PRIEST",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[15407] = {
-										["activedamt"] = 2,
-										["id"] = 15407,
-										["targets"] = {
-										},
-										["uptime"] = 4,
 										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269239] = {
-										["activedamt"] = 1,
-										["id"] = 269239,
 										["targets"] = {
 										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
+										["activedamt"] = 2,
+										["uptime"] = 4,
+										["id"] = 15407,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[280204] = {
-										["activedamt"] = 1,
-										["id"] = 280204,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 11,
+										["id"] = 280204,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269239] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 269239,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[21562] = {
-										["activedamt"] = 1,
-										["id"] = 21562,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 21562,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[45242] = {
-										["activedamt"] = 1,
-										["id"] = 45242,
+									[232698] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
-										["refreshamt"] = 12,
+										["id"] = 232698,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[300919] = {
-										["activedamt"] = 1,
-										["id"] = 300919,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 300919,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295310] = {
-										["activedamt"] = 1,
-										["id"] = 295310,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 295310,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[317859] = {
-										["activedamt"] = 1,
-										["id"] = 317859,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 317859,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295378] = {
-										["activedamt"] = 1,
-										["id"] = 295378,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 295378,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[232698] = {
-										["activedamt"] = 1,
-										["id"] = 232698,
+									[341282] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 341282,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[304056] = {
-										["activedamt"] = 1,
-										["id"] = 304056,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 13,
-										["appliedamt"] = 1,
+										["id"] = 304056,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[341282] = {
-										["activedamt"] = 1,
-										["id"] = 341282,
+									[45242] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 45242,
+										["refreshamt"] = 12,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 56,
@@ -1100,19 +10393,19 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1606138796,
+							["tipo"] = 4,
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
 							["aID"] = "1602-04F44A64",
 							["serial"] = "Player-1602-04F44A64",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["nome"] = "Зу'шин Преображенный",
 							["fight_component"] = true,
 							["pets"] = {
@@ -1120,51 +10413,48 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[80576] = 1,
 							},
-							["monster"] = true,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
-							["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
 							["aID"] = "136702",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
+							["monster"] = true,
 						}, -- [2]
 						{
 							["flag_original"] = 8465,
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
+							["last_event"] = 0,
 							["pets"] = {
 							},
-							["tipo"] = 4,
 							["spell_cast"] = {
 								[63619] = 1,
 							},
-							["last_event"] = 0,
 							["classe"] = "PET",
+							["tipo"] = 4,
 							["serial"] = "Creature-0-4239-1642-643-62982-00003BBB9E",
 							["aID"] = "62982",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 3981,
 					["tipo"] = 2,
+					["combatId"] = 3981,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
 					["Алоиза"] = true,
 				},
-				["last_events_tables"] = {
-				},
+				["CombatStartedAt"] = 1483383.925,
 				["overall_added"] = true,
-				["cleu_timeline"] = {
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["tempo_start"] = 1606138781,
-				["enemy"] = "Зу'шин Преображенный",
 				["combat_counter"] = 4250,
 				["playing_solo"] = true,
 				["totals"] = {
-					33219, -- [1]
+					33218.996292, -- [1]
 					4200.988007, -- [2]
 					{
 						0, -- [1]
@@ -1176,10 +10466,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -1279,9 +10569,14 @@ _detalhes_database = {
 						["n"] = 4,
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "15:39:56",
+				["cleu_timeline"] = {
 				},
+				["enemy"] = "Зу'шин Преображенный",
+				["TotalElapsedCombatTime"] = 816568.336,
 				["CombatEndedAt"] = 816568.336,
 				["aura_timeline"] = {
 					["Player-1602-04F44A64"] = {
@@ -1441,37 +10736,13 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "15:39:41",
-				["end_time"] = 816568.336,
-				["totals_grupo"] = {
-					23504, -- [1]
-					4201, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["combat_id"] = 3981,
-				["TotalElapsedCombatTime"] = 816568.336,
-				["frags_need_refresh"] = true,
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1479,21 +10750,14 @@ _detalhes_database = {
 							["Алоиза"] = 3793.005822,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Алоиза"] = 28462.003522,
 						}, -- [1]
 					},
 				},
-				["frags"] = {
-					["Зу'шин Преображенный"] = 1,
-				},
-				["data_fim"] = "15:39:56",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
-				},
+				["end_time"] = 816568.336,
+				["combat_id"] = 3981,
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
 						{
@@ -1548,11 +10812,42 @@ _detalhes_database = {
 						}, -- [10]
 					},
 				},
-				["start_time"] = 816553.417,
+				["tempo_start"] = 1606138781,
+				["frags"] = {
+					["Зу'шин Преображенный"] = 1,
+				},
 				["contra"] = "Зу'шин Преображенный",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					23504, -- [1]
+					4201, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 816553.417,
 				["TimeData"] = {
 				},
-			}, -- [1]
+				["data_inicio"] = "15:39:41",
+			}, -- [9]
 			{
 				{
 					["tipo"] = 2,
@@ -1561,30 +10856,29 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.003089,
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["total_without_pet"] = 168605.003089,
-							["dps_started"] = false,
-							["total"] = 168605.003089,
-							["spec"] = 258,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
 							["damage_from"] = {
 								["Тень Ксавия"] = true,
 							},
 							["targets"] = {
 								["Тень Ксавия"] = 168605,
 							},
-							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["pets"] = {
+							},
+							["damage_taken"] = 241.003089,
+							["end_time"] = 1606122913,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
-							["end_time"] = 1606122913,
-							["damage_taken"] = 241.003089,
-							["tipo"] = 1,
-							["nome"] = "Алоиза",
+							["total_without_pet"] = 168605.003089,
+							["friendlyfire"] = {
+							},
+							["aID"] = "1602-04F44A64",
+							["dps_started"] = false,
+							["total"] = 168605.003089,
+							["serial"] = "Player-1602-04F44A64",
+							["friendlyfire_total"] = 0,
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[15407] = {
@@ -1603,14 +10897,14 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 14174,
 										["c_max"] = 3543,
-										["c_min"] = 3543,
+										["r_amt"] = 0,
 										["id"] = 15407,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3543,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
@@ -1634,14 +10928,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 9580,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295368,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -1665,14 +10959,14 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 19703,
 										["c_max"] = 10761,
-										["c_min"] = 10761,
+										["r_amt"] = 0,
 										["id"] = 335467,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 10761,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -1696,14 +10990,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 16636,
 										["c_max"] = 3356,
-										["c_min"] = 3356,
+										["r_amt"] = 0,
 										["id"] = 34914,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3356,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -1727,14 +11021,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 27638,
 										["c_max"] = 18000,
-										["c_min"] = 18000,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 18000,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -1758,14 +11052,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 17912,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32379,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -1789,14 +11083,45 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 19898,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 148859,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1552,
+										["targets"] = {
+											["Тень Ксавия"] = 7635,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7635,
+										["n_min"] = 1428,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 7635,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 5,
@@ -1820,51 +11145,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 2998,
 										["c_max"] = 1499,
-										["c_min"] = 1499,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1499,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
 										["extra"] = {
 										},
 										["spellschool"] = 8,
-									},
-									[589] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1552,
-										["targets"] = {
-											["Тень Ксавия"] = 7635,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 7635,
-										["n_min"] = 1428,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 7635,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 5,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
 									},
 									[295374] = {
 										["c_amt"] = 0,
@@ -1882,14 +11176,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 19160,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295374,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -1913,14 +11207,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 13271,
 										["c_max"] = 8848,
-										["c_min"] = 8848,
+										["r_amt"] = 0,
 										["id"] = 295305,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 8848,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -1932,8 +11226,9 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["boss_fight_component"] = true,
-							["classe"] = "PRIEST",
+							["tipo"] = 1,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
 							["custom"] = 0,
 							["last_event"] = 1606122913,
 							["last_dps"] = 21088.80588981841,
@@ -1941,925 +11236,6 @@ _detalhes_database = {
 							["delay"] = 0,
 							["on_hold"] = false,
 						}, -- [1]
-						{
-							["flag_original"] = -2147483648,
-							["totalabsorbed"] = 0.002535,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Фэбээр"] = 54,
-								["Дренейд"] = 225,
-								["Дистансэ"] = 3041,
-								["Зимф"] = 40,
-								["Брундуль"] = 71,
-								["Элакши"] = 41,
-								["Элтелион"] = 1894,
-								["Визан"] = 332,
-								["Зенрок"] = 1142,
-								["Масанага"] = 322,
-								["Сурья-Азурегос"] = 418,
-								["Баба"] = 2008,
-								["Зеноджиива"] = 47,
-								["Лордярык"] = 312,
-								["Джексонгрин"] = 3100,
-							},
-							["pets"] = {
-							},
-							["aID"] = "",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 13047.002535,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 13047.002535,
-							["end_time"] = 1606138781,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Мир (падение)",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[3] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3100,
-										["targets"] = {
-											["Фэбээр"] = 54,
-											["Дренейд"] = 225,
-											["Дистансэ"] = 3041,
-											["Зимф"] = 40,
-											["Брундуль"] = 71,
-											["Элакши"] = 41,
-											["Элтелион"] = 1894,
-											["Визан"] = 332,
-											["Зенрок"] = 1142,
-											["Масанага"] = 322,
-											["Сурья-Азурегос"] = 418,
-											["Баба"] = 2008,
-											["Зеноджиива"] = 47,
-											["Лордярык"] = 312,
-											["Джексонгрин"] = 3100,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 13047,
-										["n_min"] = 40,
-										["g_dmg"] = 0,
-										["counter"] = 15,
-										["total"] = 13047,
-										["c_max"] = 0,
-										["spellschool"] = 3,
-										["id"] = 3,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 15,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["classe"] = "UNKNOW",
-							["serial"] = "",
-							["friendlyfire"] = {
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138353,
-							["damage_taken"] = 0.002535,
-							["start_time"] = 1606138771,
-							["delay"] = 1606138353,
-							["tipo"] = 1,
-						}, -- [2]
-						{
-							["flag_original"] = 2632,
-							["totalabsorbed"] = 0.007647,
-							["damage_from"] = {
-								["Но'иксван"] = true,
-							},
-							["targets"] = {
-								["Но'иксван"] = 6247,
-							},
-							["pets"] = {
-							},
-							["total"] = 6247.007647,
-							["aID"] = "130713",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 6247.007647,
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Неизвестно",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1345,
-										["targets"] = {
-											["Но'иксван"] = 6247,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6247,
-										["n_min"] = 1154,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 6247,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-								},
-							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-4239-1642-643-130713-00003BB827",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138722,
-							["damage_taken"] = 3411.007647,
-							["start_time"] = 1606138772,
-							["delay"] = 1606138722,
-							["tipo"] = 1,
-						}, -- [3]
-						{
-							["flag_original"] = 8520,
-							["totalabsorbed"] = 0.001806,
-							["damage_from"] = {
-								["Владыка штормов из клана Као-Тень"] = true,
-							},
-							["targets"] = {
-								["Усиленный штормом завоеватель"] = 4434,
-								["Владыка штормов из клана Као-Тень"] = 398,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["aID"] = "129077",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 4832.001806,
-							["classe"] = "PET",
-							["dps_started"] = false,
-							["total"] = 4832.001806,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["nome"] = "Мстительный предок",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 435,
-										["targets"] = {
-											["Усиленный штормом завоеватель"] = 2210,
-											["Владыка штормов из клана Као-Тень"] = 398,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2608,
-										["n_min"] = 289,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 2608,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-									[259983] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 421,
-										["targets"] = {
-											["Усиленный штормом завоеватель"] = 2224,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2224,
-										["n_min"] = 312,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 2224,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 259983,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["friendlyfire_total"] = 0,
-							["serial"] = "Creature-0-4239-1642-643-129077-00003BBA5B",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138516,
-							["damage_taken"] = 231.001806,
-							["start_time"] = 1606138775,
-							["delay"] = 1606138516,
-							["tipo"] = 1,
-						}, -- [4]
-						{
-							["flag_original"] = 2600,
-							["totalabsorbed"] = 0.004355,
-							["damage_from"] = {
-								["Тен'гор"] = true,
-								["Неизвестно"] = true,
-							},
-							["targets"] = {
-								["Тен'гор"] = 3411,
-							},
-							["pets"] = {
-							},
-							["aID"] = "130741",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 3411.004355,
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Но'иксван",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1483,
-										["g_amt"] = 0,
-										["n_max"] = 692,
-										["targets"] = {
-											["Тен'гор"] = 3411,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1928,
-										["n_min"] = 613,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["a_amt"] = 0,
-										["total"] = 3411,
-										["c_max"] = 1483,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["PARRY"] = 1,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 1483,
-									}, -- [1]
-								},
-							},
-							["friendlyfire"] = {
-							},
-							["total"] = 3411.004355,
-							["serial"] = "Creature-0-4239-1642-643-130741-00003BB818",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138723,
-							["damage_taken"] = 6247.004355,
-							["start_time"] = 1606138772,
-							["delay"] = 1606138723,
-							["tipo"] = 1,
-						}, -- [5]
-						{
-							["flag_original"] = 1352,
-							["totalabsorbed"] = 0.007994,
-							["serial"] = "Player-1602-0BFB159F",
-							["damage_from"] = {
-								["Усиленный штормом завоеватель"] = true,
-								["Владыка штормов из клана Као-Тень"] = true,
-							},
-							["targets"] = {
-								["Усиленный штормом завоеватель"] = 1605,
-								["Владыка штормов из клана Као-Тень"] = 154,
-							},
-							["enemy"] = true,
-							["pets"] = {
-							},
-							["spec"] = 63,
-							["aID"] = "1602-0BFB159F",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 1759.007994,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["classe"] = "MAGE",
-							["nome"] = "Миравела",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[12654] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 58,
-										["targets"] = {
-											["Усиленный штормом завоеватель"] = 310,
-											["Владыка штормов из клана Као-Тень"] = 75,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 385,
-										["n_min"] = 15,
-										["g_dmg"] = 0,
-										["counter"] = 11,
-										["total"] = 385,
-										["c_max"] = 0,
-										["spellschool"] = 4,
-										["id"] = 12654,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[11366] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 805,
-										["targets"] = {
-											["Усиленный штормом завоеватель"] = 805,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 805,
-										["n_min"] = 805,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 805,
-										["c_max"] = 0,
-										["spellschool"] = 4,
-										["id"] = 11366,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[2948] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 490,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Усиленный штормом завоеватель"] = 490,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 490,
-										["c_max"] = 490,
-										["spellschool"] = 4,
-										["id"] = 2948,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 490,
-									},
-									[205345] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 79,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Владыка штормов из клана Као-Тень"] = 79,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 79,
-										["c_max"] = 79,
-										["spellschool"] = 4,
-										["id"] = 205345,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 79,
-									},
-								},
-							},
-							["total"] = 1759.007994,
-							["friendlyfire"] = {
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138515,
-							["damage_taken"] = 2068.007994,
-							["start_time"] = 1606138776,
-							["delay"] = 1606138515,
-							["tipo"] = 1,
-						}, -- [6]
-						{
-							["flag_original"] = 2632,
-							["totalabsorbed"] = 0.007399,
-							["damage_from"] = {
-								["Миравела"] = true,
-								["Мстительный предок"] = true,
-							},
-							["targets"] = {
-								["Миравела"] = 1721,
-							},
-							["pets"] = {
-							},
-							["total"] = 1721.007399,
-							["aID"] = "128447",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 1721.007399,
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Усиленный штормом завоеватель",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 771,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Миравела"] = 771,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 771,
-										["c_max"] = 771,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 771,
-									}, -- [1]
-									[259832] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 950,
-										["targets"] = {
-											["Миравела"] = 950,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 950,
-										["n_min"] = 950,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 950,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 259832,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-4239-1642-643-128447-00003B923C",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138514,
-							["damage_taken"] = 6039.007399,
-							["start_time"] = 1606138777,
-							["delay"] = 1606138514,
-							["tipo"] = 1,
-						}, -- [7]
-						{
-							["flag_original"] = 2600,
-							["totalabsorbed"] = 0.002955,
-							["damage_from"] = {
-								["Соленоплавниковый пловец"] = true,
-							},
-							["targets"] = {
-								["Соленоплавниковый пловец"] = 810,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["aID"] = "142371",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 810.0029549999999,
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["total"] = 810.0029549999999,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["nome"] = "Констебль Эстли",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[6660] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 251,
-										["targets"] = {
-											["Соленоплавниковый пловец"] = 466,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 466,
-										["n_min"] = 215,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 466,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 6660,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[14030] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 344,
-										["targets"] = {
-											["Соленоплавниковый пловец"] = 344,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 344,
-										["n_min"] = 344,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 344,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 14030,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["friendlyfire_total"] = 0,
-							["serial"] = "Creature-0-3767-1643-2484-142371-00003985BC",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606137992,
-							["damage_taken"] = 724.0029549999999,
-							["start_time"] = 1606138774,
-							["delay"] = 1606137992,
-							["tipo"] = 1,
-						}, -- [8]
-						{
-							["flag_original"] = 2600,
-							["totalabsorbed"] = 0.003943,
-							["damage_from"] = {
-								["Констебль Эстли"] = true,
-							},
-							["targets"] = {
-								["Констебль Эстли"] = 724,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["aID"] = "126682",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 724.0039429999999,
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["total"] = 724.0039429999999,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["nome"] = "Соленоплавниковый пловец",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 141,
-										["targets"] = {
-											["Констебль Эстли"] = 724,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 724,
-										["n_min"] = 108,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 724,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-								},
-							},
-							["friendlyfire_total"] = 0,
-							["serial"] = "Creature-0-3767-1643-2484-126682-00003BAC19",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606137998,
-							["damage_taken"] = 810.0039429999999,
-							["start_time"] = 1606138769,
-							["delay"] = 1606137998,
-							["tipo"] = 1,
-						}, -- [9]
-						{
-							["flag_original"] = 2632,
-							["totalabsorbed"] = 0.008047,
-							["damage_from"] = {
-								["Миравела"] = true,
-								["Мстительный предок"] = true,
-							},
-							["targets"] = {
-								["Мстительный предок"] = 231,
-								["Миравела"] = 347,
-							},
-							["pets"] = {
-							},
-							["total"] = 578.008047,
-							["aID"] = "127778",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 578.008047,
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1606138781,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Владыка штормов из клана Као-Тень",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 347,
-										["targets"] = {
-											["Мстительный предок"] = 231,
-											["Миравела"] = 347,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 578,
-										["n_min"] = 231,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 578,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-								},
-							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-4239-1642-643-127778-00003B923C",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138516,
-							["damage_taken"] = 552.008047,
-							["start_time"] = 1606138775,
-							["delay"] = 1606138516,
-							["tipo"] = 1,
-						}, -- [10]
-						{
-							["flag_original"] = 1320,
-							["totalabsorbed"] = 371.008639,
-							["serial"] = "Player-3691-092B1B40",
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Волантес"] = 371,
-							},
-							["pets"] = {
-							},
-							["end_time"] = 1606138781,
-							["aID"] = "3691-092B1B40",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 371.008639,
-							["spec"] = 258,
-							["dps_started"] = false,
-							["total"] = 371.008639,
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "Zayqtc-Blackhand",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[34914] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 228,
-										["targets"] = {
-											["Волантес"] = 371,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 371,
-										["n_min"] = 143,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 371,
-										["c_max"] = 0,
-										["spellschool"] = 32,
-										["id"] = 34914,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["classe"] = "PRIEST",
-							["friendlyfire"] = {
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606138010,
-							["damage_taken"] = 0.008639,
-							["start_time"] = 1606138778,
-							["delay"] = 1606138010,
-							["tipo"] = 1,
-						}, -- [11]
 						{
 							["flag_original"] = 68168,
 							["totalabsorbed"] = 241.003337,
@@ -2869,20 +11245,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Алоиза"] = 241,
 							},
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["delay"] = 0,
+							["damage_taken"] = 168605.003337,
+							["classe"] = "UNKNOW",
 							["aID"] = "99192",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 241.003337,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1606122913,
 							["last_dps"] = 0,
 							["tipo"] = 1,
-							["dps_started"] = false,
-							["total"] = 241.003337,
-							["classe"] = "UNKNOW",
-							["end_time"] = 1606122913,
-							["nome"] = "Тень Ксавия",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -2901,14 +11278,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 134,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -2934,10 +11311,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 200182,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
@@ -2949,18 +11326,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
-							["damage_taken"] = 168605.003337,
+							["nome"] = "Тень Ксавия",
 							["friendlyfire_total"] = 0,
-							["boss_fight_component"] = true,
+							["monster"] = true,
 							["custom"] = 0,
 							["last_event"] = 1606122913,
-							["on_hold"] = false,
-							["start_time"] = 1606122909,
-							["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 							["friendlyfire"] = {
 							},
-						}, -- [12]
+							["start_time"] = 1606122909,
+							["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
+							["total"] = 241.003337,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
@@ -2996,8 +11372,8 @@ _detalhes_database = {
 							["healing_taken"] = 241.002138,
 							["totaldenied"] = 0.002138,
 							["end_time"] = 1606138781,
-							["last_event"] = 1606138475,
 							["heal_enemy_amt"] = 0,
+							["classe"] = "PRIEST",
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3021,12 +11397,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 3,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[295310] = {
@@ -3049,12 +11425,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 3,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[17] = {
@@ -3091,8 +11467,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
 							["spec"] = 258,
+							["last_event"] = 1606138475,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["nome"] = "Алоиза",
@@ -3102,1272 +11478,6 @@ _detalhes_database = {
 								["Алоиза"] = true,
 							},
 						}, -- [1]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.004941,
-							["last_hps"] = 0,
-							["healing_from"] = {
-								["Гудтаим"] = true,
-							},
-							["targets"] = {
-								["Гудтаим"] = 705,
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Гудтаим"] = 113,
-										},
-										["n_max"] = 705,
-										["targets"] = {
-											["Гудтаим"] = 705,
-										},
-										["n_min"] = 705,
-										["counter"] = 1,
-										["overheal"] = 113,
-										["total"] = 705,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 705,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.004941,
-							["targets_overheal"] = {
-								["Гудтаим"] = 113,
-							},
-							["aID"] = "1602-0E84F5AC",
-							["totalover"] = 113.004941,
-							["total_without_pet"] = 705.004941,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 705.004941,
-							["start_time"] = 1606138780,
-							["healing_taken"] = 705.004941,
-							["nome"] = "Гудтаим",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0E84F5AC",
-							["custom"] = 0,
-							["last_event"] = 1606138409,
-							["on_hold"] = false,
-							["totaldenied"] = 0.004941,
-							["delay"] = 1606138409,
-							["tipo"] = 2,
-						}, -- [2]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 371.007706,
-							["last_hps"] = 0,
-							["healing_from"] = {
-								["Волантес"] = true,
-							},
-							["targets"] = {
-								["Волантес"] = 371,
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[295842] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 371,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 228,
-										["targets"] = {
-											["Волантес"] = 371,
-										},
-										["n_min"] = 143,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 371,
-										["c_max"] = 0,
-										["id"] = 295842,
-										["targets_absorbs"] = {
-											["Волантес"] = 371,
-										},
-										["m_healed"] = 0,
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 371,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.007706,
-							["targets_overheal"] = {
-							},
-							["aID"] = "1602-0C0B628C",
-							["totalover"] = 0.007706,
-							["total_without_pet"] = 371.007706,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 371.007706,
-							["start_time"] = 1606138778,
-							["healing_taken"] = 371.007706,
-							["nome"] = "Волантес",
-							["targets_absorbs"] = {
-								["Волантес"] = 371,
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0C0B628C",
-							["custom"] = 0,
-							["last_event"] = 1606138010,
-							["on_hold"] = false,
-							["totaldenied"] = 0.007706,
-							["delay"] = 1606138010,
-							["tipo"] = 2,
-						}, -- [3]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.008982,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[227034] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Йоханнес"] = 1955,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Йоханнес"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 161,
-										["overheal"] = 1955,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 227034,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 161,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.008982,
-							["targets_overheal"] = {
-								["Йоханнес"] = 1955,
-							},
-							["aID"] = "1602-0E61ABE6",
-							["totalover"] = 1955.008982,
-							["total_without_pet"] = 0.008982,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.008982,
-							["start_time"] = 1606138312,
-							["healing_taken"] = 0.008982,
-							["nome"] = "Йоханнес",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0E61ABE6",
-							["custom"] = 0,
-							["last_event"] = 1606138301,
-							["on_hold"] = false,
-							["totaldenied"] = 0.008982,
-							["delay"] = 1606138301,
-							["tipo"] = 2,
-						}, -- [4]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.008923,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[287608] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Эсаки"] = 285,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Эсаки"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 4,
-										["overheal"] = 285,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 287608,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 3,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.008923,
-							["targets_overheal"] = {
-								["Эсаки"] = 285,
-							},
-							["aID"] = "1602-0E79448B",
-							["totalover"] = 285.008923,
-							["total_without_pet"] = 0.008923,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.008923,
-							["start_time"] = 1606138777,
-							["healing_taken"] = 0.008923,
-							["nome"] = "Эсаки",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0E79448B",
-							["custom"] = 0,
-							["last_event"] = 1606138013,
-							["on_hold"] = false,
-							["totaldenied"] = 0.008923,
-							["delay"] = 1606138013,
-							["tipo"] = 2,
-						}, -- [5]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.008531,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[322101] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Дуррз"] = 2437,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Дуррз"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 2,
-										["overheal"] = 2437,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 322101,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.008531,
-							["targets_overheal"] = {
-								["Дуррз"] = 2437,
-							},
-							["aID"] = "1602-0CA07F17",
-							["totalover"] = 2437.008531,
-							["total_without_pet"] = 0.008531,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.008531,
-							["start_time"] = 1606138780,
-							["healing_taken"] = 0.008531,
-							["nome"] = "Дуррз",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0CA07F17",
-							["custom"] = 0,
-							["last_event"] = 1606138156,
-							["on_hold"] = false,
-							["totaldenied"] = 0.008531,
-							["delay"] = 1606138156,
-							["tipo"] = 2,
-						}, -- [6]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.00816,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[302847] = {
-										["c_amt"] = 13,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Аристокэтка"] = 6784,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Аристокэтка"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 30,
-										["overheal"] = 6784,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 302847,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 17,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.00816,
-							["targets_overheal"] = {
-								["Аристокэтка"] = 6784,
-							},
-							["aID"] = "1602-0C17E36A",
-							["totalover"] = 6784.008159999999,
-							["total_without_pet"] = 0.00816,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.00816,
-							["start_time"] = 1606138635,
-							["healing_taken"] = 0.00816,
-							["nome"] = "Аристокэтка",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0C17E36A",
-							["custom"] = 0,
-							["last_event"] = 1606137959,
-							["on_hold"] = false,
-							["totaldenied"] = 0.00816,
-							["delay"] = 1606137959,
-							["tipo"] = 2,
-						}, -- [7]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.007971,
-							["last_hps"] = 0,
-							["targets_overheal"] = {
-								["Инквизицио"] = 3436,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[19750] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Инквизицио"] = 3436,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Инквизицио"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 2,
-										["overheal"] = 3436,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 19750,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["classe"] = "PALADIN",
-							["totalover"] = 3436.007971,
-							["total_without_pet"] = 0.007971,
-							["healing_from"] = {
-							},
-							["end_time"] = 1606138781,
-							["totalover_without_pet"] = 0.007971,
-							["total"] = 0.007971,
-							["aID"] = "1602-0953AC1E",
-							["heal_enemy_amt"] = 0,
-							["nome"] = "Инквизицио",
-							["targets_absorbs"] = {
-							},
-							["start_time"] = 1606138780,
-							["healing_taken"] = 0.007971,
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0953AC1E",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["on_hold"] = false,
-							["totaldenied"] = 0.007971,
-							["delay"] = 1606138067,
-							["last_event"] = 1606138067,
-						}, -- [8]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.004346,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[108366] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Саркрово"] = 107,
-											["Петюнька"] = 3024,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Саркрово"] = 0,
-											["Петюнька"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 2,
-										["overheal"] = 3131,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 108366,
-										["targets_absorbs"] = {
-											["Саркрово"] = 0,
-											["Петюнька"] = 0,
-										},
-										["m_healed"] = 0,
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.004346,
-							["targets_overheal"] = {
-								["Саркрово"] = 107,
-								["Петюнька"] = 3024,
-							},
-							["aID"] = "1602-02D9AE0B",
-							["totalover"] = 3131.004346,
-							["total_without_pet"] = 0.004346,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.004346,
-							["start_time"] = 1606138780,
-							["healing_taken"] = 0.004346,
-							["nome"] = "Петюнька",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-02D9AE0B",
-							["custom"] = 0,
-							["last_event"] = 1606137925,
-							["on_hold"] = false,
-							["totaldenied"] = 0.004346,
-							["delay"] = 1606137925,
-							["tipo"] = 2,
-						}, -- [9]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.004151,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[108366] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зибзель"] = 22,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Зибзель"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 22,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 108366,
-										["targets_absorbs"] = {
-											["Зибзель"] = 0,
-										},
-										["m_healed"] = 0,
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.004151,
-							["targets_overheal"] = {
-								["Зибзель"] = 22,
-							},
-							["aID"] = "1602-0BFD2873",
-							["totalover"] = 22.004151,
-							["total_without_pet"] = 0.004151,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.004151,
-							["start_time"] = 1606138780,
-							["healing_taken"] = 0.004151,
-							["nome"] = "Зибзель",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0BFD2873",
-							["custom"] = 0,
-							["last_event"] = 1606138053,
-							["on_hold"] = false,
-							["totaldenied"] = 0.004151,
-							["delay"] = 1606138053,
-							["tipo"] = 2,
-						}, -- [10]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.003904,
-							["last_hps"] = 0,
-							["targets_overheal"] = {
-								["Андалея"] = 1752,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[17] = {
-										["c_amt"] = 2,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Андалея"] = 1752,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Андалея"] = -1752,
-										},
-										["n_min"] = 0,
-										["counter"] = 2,
-										["overheal"] = 1752,
-										["total"] = -1752,
-										["c_max"] = 0,
-										["id"] = 17,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = -1752,
-										["m_crit"] = 0,
-										["c_min"] = -876,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 0,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["classe"] = "PRIEST",
-							["totalover"] = 1752.003904,
-							["total_without_pet"] = 0.003904,
-							["healing_from"] = {
-							},
-							["end_time"] = 1606138781,
-							["totalover_without_pet"] = 0.003904,
-							["total"] = 0.003904,
-							["aID"] = "1602-0E8E0FD1",
-							["heal_enemy_amt"] = 0,
-							["nome"] = "Андалея",
-							["targets_absorbs"] = {
-							},
-							["start_time"] = 1606138774,
-							["healing_taken"] = 0.003904,
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0E8E0FD1",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["on_hold"] = false,
-							["totaldenied"] = 0.003904,
-							["delay"] = 1606138064,
-							["last_event"] = 1606138064,
-						}, -- [11]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.003812,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[302847] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Дренейд"] = 831,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Дренейд"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 4,
-										["overheal"] = 831,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 302847,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 3,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.003812,
-							["targets_overheal"] = {
-								["Дренейд"] = 831,
-							},
-							["aID"] = "1602-0B407AEB",
-							["totalover"] = 831.0038119999999,
-							["total_without_pet"] = 0.003812,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.003812,
-							["start_time"] = 1606138765,
-							["healing_taken"] = 0.003812,
-							["nome"] = "Дренейд",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0B407AEB",
-							["custom"] = 0,
-							["last_event"] = 1606138037,
-							["on_hold"] = false,
-							["totaldenied"] = 0.003812,
-							["delay"] = 1606138037,
-							["tipo"] = 2,
-						}, -- [12]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.002382,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[287608] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Игорьгуляев"] = 347,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Игорьгуляев"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 6,
-										["overheal"] = 347,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 287608,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 6,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.002382,
-							["targets_overheal"] = {
-								["Игорьгуляев"] = 347,
-							},
-							["aID"] = "1602-09D50808",
-							["totalover"] = 347.002382,
-							["total_without_pet"] = 0.002382,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.002382,
-							["start_time"] = 1606138772,
-							["healing_taken"] = 0.002382,
-							["nome"] = "Игорьгуляев",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-09D50808",
-							["custom"] = 0,
-							["last_event"] = 1606138437,
-							["on_hold"] = false,
-							["totaldenied"] = 0.002382,
-							["delay"] = 1606138437,
-							["tipo"] = 2,
-						}, -- [13]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.001677,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[302847] = {
-										["c_amt"] = 37,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Антониколус"] = 28615,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Антониколус"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 151,
-										["overheal"] = 28615,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 302847,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 114,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.001677,
-							["targets_overheal"] = {
-								["Антониколус"] = 28615,
-							},
-							["aID"] = "1602-0BF52D75",
-							["totalover"] = 28615.001677,
-							["total_without_pet"] = 0.001677,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.001677,
-							["start_time"] = 1606138055,
-							["healing_taken"] = 0.001677,
-							["nome"] = "Антониколус",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-								[302847] = 0,
-							},
-							["serial"] = "Player-1602-0BF52D75",
-							["custom"] = 0,
-							["last_event"] = 1606138467,
-							["on_hold"] = false,
-							["totaldenied"] = 0.001677,
-							["delay"] = 1606138467,
-							["tipo"] = 2,
-						}, -- [14]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.001611,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[108366] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Литлджэк"] = 2907,
-											["Грак'красо"] = 1662,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Литлджэк"] = 0,
-											["Грак'красо"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 4,
-										["overheal"] = 4569,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 108366,
-										["targets_absorbs"] = {
-											["Литлджэк"] = 0,
-											["Грак'красо"] = 0,
-										},
-										["m_healed"] = 0,
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 4,
-										["totaldenied"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.001611,
-							["targets_overheal"] = {
-								["Литлджэк"] = 2907,
-								["Грак'красо"] = 1662,
-							},
-							["aID"] = "1602-0B4334DD",
-							["totalover"] = 4569.001611,
-							["total_without_pet"] = 0.001611,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.001611,
-							["start_time"] = 1606138780,
-							["healing_taken"] = 0.001611,
-							["nome"] = "Литлджэк",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0B4334DD",
-							["custom"] = 0,
-							["last_event"] = 1606138306,
-							["on_hold"] = false,
-							["totaldenied"] = 0.001611,
-							["delay"] = 1606138306,
-							["tipo"] = 2,
-						}, -- [15]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.001323,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[216521] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Неробро"] = 1127,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Неробро"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 1127,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 216521,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[178173] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Неробро"] = 1734,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Неробро"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 1734,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 178173,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.001323,
-							["targets_overheal"] = {
-								["Неробро"] = 2861,
-							},
-							["aID"] = "1602-08F7D291",
-							["totalover"] = 2861.001323,
-							["total_without_pet"] = 0.001323,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.001323,
-							["start_time"] = 1606138780,
-							["healing_taken"] = 0.001323,
-							["nome"] = "Неробро",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-08F7D291",
-							["custom"] = 0,
-							["last_event"] = 1606138282,
-							["on_hold"] = false,
-							["totaldenied"] = 0.001323,
-							["delay"] = 1606138282,
-							["tipo"] = 2,
-						}, -- [16]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.001277,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[302847] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Шоусинь"] = 1187,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Шоусинь"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 5,
-										["overheal"] = 1187,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 302847,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 4,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[216521] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Шоусинь"] = 257,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Шоусинь"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 257,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 216521,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.001277,
-							["targets_overheal"] = {
-								["Шоусинь"] = 1444,
-							},
-							["aID"] = "1602-0BE284F4",
-							["totalover"] = 1444.001277,
-							["total_without_pet"] = 0.001277,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.001277,
-							["start_time"] = 1606138760,
-							["healing_taken"] = 0.001277,
-							["nome"] = "Шоусинь",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0BE284F4",
-							["custom"] = 0,
-							["last_event"] = 1606138295,
-							["on_hold"] = false,
-							["totaldenied"] = 0.001277,
-							["delay"] = 1606138295,
-							["tipo"] = 2,
-						}, -- [17]
-						{
-							["flag_original"] = 1304,
-							["totalabsorb"] = 0.001188,
-							["last_hps"] = 0,
-							["healing_from"] = {
-							},
-							["targets"] = {
-							},
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[302847] = {
-										["c_amt"] = 8,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Альдинг"] = 9885,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Альдинг"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 58,
-										["overheal"] = 9885,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 302847,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 50,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.001188,
-							["targets_overheal"] = {
-								["Альдинг"] = 9885,
-							},
-							["aID"] = "1602-0C1B3188",
-							["totalover"] = 9885.001188,
-							["total_without_pet"] = 0.001188,
-							["end_time"] = 1606138781,
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["total"] = 0.001188,
-							["start_time"] = 1606138505,
-							["healing_taken"] = 0.001188,
-							["nome"] = "Альдинг",
-							["targets_absorbs"] = {
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1602-0C1B3188",
-							["custom"] = 0,
-							["last_event"] = 1606138347,
-							["on_hold"] = false,
-							["totaldenied"] = 0.001188,
-							["delay"] = 1606138347,
-							["tipo"] = 2,
-						}, -- [18]
 					},
 				}, -- [2]
 				{
@@ -4394,163 +11504,15 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["alternatepower"] = 0.001375,
+							["tipo"] = 3,
 							["last_event"] = 1606138780,
 							["flag_original"] = 1297,
 							["spec"] = 258,
 							["serial"] = "Player-1602-04F44A64",
 							["resource_type"] = 13,
 						}, -- [1]
-						{
-							["received"] = 50.00107300000001,
-							["resource"] = 0.001073,
-							["targets"] = {
-								["Линдианна"] = 50,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 1,
-							["aID"] = "1602-0E7EB69E",
-							["passiveover"] = 0.001073,
-							["total"] = 50.00107300000001,
-							["nome"] = "Линдианна",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[17057] = {
-										["total"] = 50,
-										["id"] = 17057,
-										["totalover"] = 0,
-										["targets"] = {
-											["Линдианна"] = 50,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["flag_original"] = 1304,
-							["alternatepower"] = 0.001073,
-							["last_event"] = 1606138239,
-							["classe"] = "DRUID",
-							["tipo"] = 3,
-							["serial"] = "Player-1602-0E7EB69E",
-							["totalover"] = 0.001073,
-						}, -- [2]
-						{
-							["received"] = 0.003201,
-							["resource"] = 70.003201,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 1,
-							["aID"] = "1602-0C17E36A",
-							["passiveover"] = 0.003201,
-							["total"] = 0.003201,
-							["nome"] = "Аристокэтка",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["resource_type"] = 17,
-							["flag_original"] = 1304,
-							["alternatepower"] = 0.003201,
-							["last_event"] = 1606138114,
-							["classe"] = "UNGROUPPLAYER",
-							["tipo"] = 3,
-							["serial"] = "Player-1602-0C17E36A",
-							["totalover"] = 0.003201,
-						}, -- [3]
-						{
-							["received"] = 0.007916,
-							["resource"] = 2.007916,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-0CA07F17",
-							["passiveover"] = 0.007916,
-							["total"] = 0.007916,
-							["nome"] = "Дуррз",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["resource_type"] = 12,
-							["flag_original"] = 1304,
-							["alternatepower"] = 0.007916,
-							["last_event"] = 1606138156,
-							["classe"] = "UNGROUPPLAYER",
-							["tipo"] = 3,
-							["serial"] = "Player-1602-0CA07F17",
-							["totalover"] = 0.007916,
-						}, -- [4]
-						{
-							["received"] = 0.006764,
-							["resource"] = 0.006764,
-							["targets"] = {
-								["Рогмист"] = 0,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 3,
-							["aID"] = "1602-0E9053A8",
-							["passiveover"] = 0.006764,
-							["total"] = 0.006764,
-							["nome"] = "Рогмист",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[196980] = {
-										["total"] = 0,
-										["id"] = 196980,
-										["totalover"] = 2,
-										["targets"] = {
-											["Рогмист"] = 0,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["flag_original"] = 1304,
-							["alternatepower"] = 0.006764,
-							["last_event"] = 1606138150,
-							["classe"] = "UNGROUPPLAYER",
-							["tipo"] = 3,
-							["serial"] = "Player-1602-0E9053A8",
-							["totalover"] = 2.006764,
-						}, -- [5]
-						{
-							["received"] = 0.007406,
-							["resource"] = 20.007406,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 1,
-							["aID"] = "1602-0B9C480D",
-							["passiveover"] = 0.007406,
-							["total"] = 0.007406,
-							["nome"] = "Сражение",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["resource_type"] = 17,
-							["flag_original"] = 1304,
-							["alternatepower"] = 0.007406,
-							["last_event"] = 1606138450,
-							["classe"] = "UNGROUPPLAYER",
-							["tipo"] = 3,
-							["serial"] = "Player-1602-0B9C480D",
-							["totalover"] = 0.007406,
-						}, -- [6]
 					},
 				}, -- [3]
 				{
@@ -4583,17 +11545,6 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 0,
 									},
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = -1,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 0,
-									},
 									[6788] = {
 										["activedamt"] = -1,
 										["id"] = 6788,
@@ -4604,6 +11555,17 @@ _detalhes_database = {
 										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
+										["appliedamt"] = 0,
+									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 589,
+										["uptime"] = 6,
+										["targets"] = {
+										},
 										["appliedamt"] = 0,
 									},
 									[335467] = {
@@ -4660,13 +11622,13 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[341282] = {
+									[232698] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 341282,
-										["uptime"] = 1,
+										["id"] = 232698,
+										["uptime"] = 7,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -4682,13 +11644,13 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[232698] = {
+									[341282] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 7,
+										["id"] = 341282,
+										["uptime"] = 1,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -4762,27 +11724,27 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["aID"] = "1602-04F44A64",
+							["debuff_uptime_targets"] = {
+							},
 							["debuff_uptime"] = 24,
+							["aID"] = "1602-04F44A64",
 							["ress"] = 1.005573,
-							["tipo"] = 4,
-							["boss_fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
 							["spec"] = 258,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[341263] = 5,
+								[335467] = 1,
 								[295373] = 1,
 								[147193] = 5,
-								[15407] = 1,
-								[32379] = 1,
-								[335467] = 1,
-								[8092] = 1,
 								[34914] = 1,
+								[32379] = 1,
+								[341263] = 5,
+								[8092] = 1,
+								[15407] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["last_event"] = 1606137418,
 							["ress_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[2006] = {
 										["id"] = 2006,
@@ -4793,28 +11755,28 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
-							["last_event"] = 1606137418,
+							["tipo"] = 4,
 							["pets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
+							["boss_fight_component"] = true,
 							["serial"] = "Player-1602-04F44A64",
 							["nome"] = "Алоиза",
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["monster"] = true,
+							["last_event"] = 0,
 							["nome"] = "Тень Ксавия",
-							["aID"] = "99192",
+							["monster"] = true,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[200182] = 1,
 							},
-							["classe"] = "UNKNOW",
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["aID"] = "99192",
 							["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 							["boss_fight_component"] = true,
 						}, -- [2]
@@ -4833,10 +11795,10 @@ _detalhes_database = {
 							["debuff_uptime"] = 0,
 							["spellschool"] = 8,
 							["nome"] = "Гноящаяся рана",
-							["last_event"] = 1606122909,
-							["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 							["tipo"] = 4,
+							["last_event"] = 1606122909,
 							["damage_twin"] = "Тень Ксавия",
 							["debuff_uptime_targets"] = {
 								["Алоиза"] = {
@@ -4873,14 +11835,14 @@ _detalhes_database = {
 				},
 				["playing_solo"] = true,
 				["totals"] = {
-					202345.8039179999, -- [1]
-					1316.853737, -- [2]
+					168845.7485979999, -- [1]
+					240.7728519999998, -- [2]
 					{
-						49.97634100000001, -- [1]
-						[0] = -8.012744000000009,
+						-0.0353390000000002, -- [1]
+						[0] = -8.020660000000008,
 						["alternatepower"] = 0,
 						[6] = 0,
-						[3] = 7.989061,
+						[3] = 7.982297,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
@@ -4975,6 +11937,30 @@ _detalhes_database = {
 							},
 							["amountUp"] = 0,
 						},
+						[335467] = {
+							["enabled"] = false,
+							["appliedAt"] = 800681.032,
+							["spellId"] = 335467,
+							["data"] = {
+								{
+									800681.032, -- [1]
+									800686.595, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[295310] = {
+							["enabled"] = false,
+							["appliedAt"] = 800680.0970000001,
+							["spellId"] = 295310,
+							["data"] = {
+								{
+									800680.0970000001, -- [1]
+									800686.608, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
 						[341207] = {
 							["enabled"] = false,
 							["appliedAt"] = 800686.046,
@@ -4991,38 +11977,9 @@ _detalhes_database = {
 							},
 							["amountUp"] = 0,
 						},
-						[295310] = {
-							["enabled"] = false,
-							["appliedAt"] = 800680.0970000001,
-							["spellId"] = 295310,
-							["data"] = {
-								{
-									800680.0970000001, -- [1]
-									800686.608, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[335467] = {
-							["enabled"] = false,
-							["appliedAt"] = 800681.032,
-							["spellId"] = 335467,
-							["data"] = {
-								{
-									800681.032, -- [1]
-									800686.595, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
 					},
 				},
 				["__call"] = {
-				},
-				["data_inicio"] = "11:15:07",
-				["end_time"] = 800686.608,
-				["combat_id"] = 3980,
-				["TimeData"] = {
 				},
 				["PhaseData"] = {
 					{
@@ -5043,6 +12000,11 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
+				},
+				["end_time"] = 800686.608,
+				["combat_id"] = 3980,
+				["data_inicio"] = "11:15:07",
+				["TimeData"] = {
 				},
 				["frags"] = {
 				},
@@ -5246,7 +12208,7 @@ _detalhes_database = {
 						}, -- [9]
 					},
 				},
-			}, -- [2]
+			}, -- [10]
 			{
 				{
 					["tipo"] = 2,
@@ -5262,23 +12224,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Дресарон"] = 154597,
 							},
-							["last_dps"] = 15559.28011294313,
+							["custom"] = 0,
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
-							["damage_taken"] = 5027.007202,
-							["total"] = 154597.007202,
-							["friendlyfire_total"] = 0,
+							["last_dps"] = 15559.28011294313,
+							["end_time"] = 1606122793,
+							["aID"] = "1602-04F44A64",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 138799.007202,
-							["tipo"] = 1,
-							["aID"] = "1602-04F44A64",
+							["damage_taken"] = 5027.007202,
+							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
-							["end_time"] = 1606122793,
+							["total"] = 154597.007202,
 							["delay"] = 0,
 							["classe"] = "PRIEST",
-							["boss_fight_component"] = true,
+							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[15407] = {
@@ -5297,14 +12259,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 6797,
 										["c_max"] = 3399,
-										["c_min"] = 3398,
+										["r_amt"] = 0,
 										["id"] = 15407,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3398,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -5328,14 +12290,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 6614,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295368,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -5359,14 +12321,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 23881,
 										["c_max"] = 4327,
-										["c_min"] = 4327,
+										["r_amt"] = 0,
 										["id"] = 335467,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 4327,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
@@ -5390,14 +12352,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 31020,
 										["c_max"] = 21691,
-										["c_min"] = 3777,
+										["r_amt"] = 0,
 										["id"] = 34914,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3777,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -5421,14 +12383,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 10160,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -5452,14 +12414,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 18592,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32379,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -5483,14 +12445,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 4151,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 346111,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
@@ -5514,17 +12476,48 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 8284,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 148859,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[589] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1630,
+										["targets"] = {
+											["Дресарон"] = 9419,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9419,
+										["n_min"] = 1479,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 9419,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 589,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
 										["extra"] = {
 										},
 										["spellschool"] = 32,
@@ -5545,51 +12538,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1553,
 										["c_max"] = 1553,
-										["c_min"] = 1553,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1553,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
 										["extra"] = {
 										},
 										["spellschool"] = 8,
-									},
-									[589] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1630,
-										["targets"] = {
-											["Дресарон"] = 9419,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 9419,
-										["n_min"] = 1479,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 9419,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 6,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
 									},
 									[269031] = {
 										["c_amt"] = 1,
@@ -5607,14 +12569,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 5097,
 										["c_max"] = 5097,
-										["c_min"] = 5097,
+										["r_amt"] = 0,
 										["id"] = 269031,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5097,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -5638,14 +12600,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 13231,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295374,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -5657,8 +12619,8 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["custom"] = 0,
-							["nome"] = "Алоиза",
+							["tipo"] = 1,
+							["boss_fight_component"] = true,
 							["spec"] = 258,
 							["colocacao"] = 1,
 							["last_event"] = 1606122793,
@@ -5679,18 +12641,19 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["classe"] = "PET",
-							["tipo"] = 1,
+							["boss_fight_component"] = true,
 							["aID"] = "62982",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 15798.006636,
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["end_time"] = 1606122793,
 							["damage_taken"] = 0.006636,
 							["ownerName"] = "Алоиза",
-							["boss_fight_component"] = true,
+							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -5709,14 +12672,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 15798,
 										["c_max"] = 5272,
-										["c_min"] = 5272,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5272,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -5727,16 +12690,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "Подчинитель разума <Алоиза>",
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["total"] = 15798.006636,
 							["custom"] = 0,
 							["last_event"] = 1606122793,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122789,
 							["serial"] = "Creature-0-3774-1466-19531-62982-00003B7D27",
-							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -5751,17 +12713,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["nome"] = "Дресарон",
+							["friendlyfire_total"] = 0,
 							["aID"] = "99200",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 858.0058349999999,
-							["friendlyfire_total"] = 0,
 							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 858.0058349999999,
-							["damage_taken"] = 154597.005835,
-							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5781,14 +12743,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 858,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 5,
@@ -5799,16 +12761,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "Дресарон",
+							["on_hold"] = false,
 							["end_time"] = 1606122793,
-							["friendlyfire"] = {
-							},
+							["classe"] = "UNKNOW",
 							["custom"] = 0,
 							["last_event"] = 1606122793,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122785,
 							["serial"] = "Creature-0-3774-1466-19531-99200-00003B7BAD",
-							["dps_started"] = false,
+							["damage_taken"] = 154597.005835,
 						}, -- [3]
 					},
 				}, -- [1]
@@ -5845,8 +12807,8 @@ _detalhes_database = {
 							["healing_taken"] = 858.001949,
 							["totaldenied"] = 0.001949,
 							["end_time"] = 1606122793,
-							["last_event"] = 1606122793,
 							["heal_enemy_amt"] = 0,
+							["classe"] = "PRIEST",
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5870,12 +12832,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 5,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[17] = {
@@ -5912,8 +12874,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
 							["spec"] = 258,
+							["last_event"] = 1606122793,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["nome"] = "Алоиза",
@@ -5950,9 +12912,9 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["alternatepower"] = 0.005202,
+							["tipo"] = 3,
 							["last_event"] = 1606122815,
 							["flag_original"] = 1297,
 							["spec"] = 258,
@@ -5979,9 +12941,9 @@ _detalhes_database = {
 							},
 							["passiveover"] = 0.007786,
 							["resource_type"] = 13,
-							["last_event"] = 1606122793,
 							["classe"] = "PET",
 							["tipo"] = 3,
+							["last_event"] = 1606122793,
 							["total"] = 0.007786,
 							["received"] = 0.007786,
 							["serial"] = "Creature-0-3774-1466-19531-62982-00003B7D27",
@@ -6019,6 +12981,17 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 0,
 									},
+									[589] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 589,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
 									[6788] = {
 										["activedamt"] = -1,
 										["id"] = 6788,
@@ -6029,17 +13002,6 @@ _detalhes_database = {
 										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["appliedamt"] = 0,
-									},
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = -1,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 6,
-										["targets"] = {
-										},
 										["appliedamt"] = 0,
 									},
 									[335467] = {
@@ -6196,8 +13158,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 24,
-							["tipo"] = 4,
-							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -6212,17 +13175,16 @@ _detalhes_database = {
 								[335467] = 1,
 								[32379] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
 							["aID"] = "1602-04F44A64",
 							["last_event"] = 1606122793,
+							["tipo"] = 4,
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
 							["buff_uptime_targets"] = {
 							},
 							["serial"] = "Player-1602-04F44A64",
-							["nome"] = "Алоиза",
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -6452,10 +13414,29 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:13:04",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 154597.007202,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 858.001949,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 800566.784,
 				["combat_id"] = 3975,
-				["combat_counter"] = 4243,
+				["data_inicio"] = "11:13:04",
 				["contra"] = "Дресарон",
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
@@ -6519,6 +13500,9 @@ _detalhes_database = {
 					["id"] = 1838,
 					["killed"] = true,
 				},
+				["combat_counter"] = 4243,
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					138799, -- [1]
 					858, -- [2]
@@ -6540,34 +13524,12 @@ _detalhes_database = {
 						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 154597.007202,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 858.001949,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
 				["start_time"] = 800556.848,
 				["TimeData"] = {
 				},
 				["frags"] = {
 				},
-			}, -- [3]
+			}, -- [11]
 			{
 				{
 					["tipo"] = 2,
@@ -6583,23 +13545,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Дубосерд"] = 143523,
 							},
-							["last_dps"] = 14172.31250146179,
+							["custom"] = 0,
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
-							["damage_taken"] = 565.008702,
-							["total"] = 143523.008702,
-							["friendlyfire_total"] = 0,
+							["last_dps"] = 14172.31250146179,
+							["end_time"] = 1606122699,
+							["aID"] = "1602-04F44A64",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 114202.008702,
-							["tipo"] = 1,
-							["aID"] = "1602-04F44A64",
+							["damage_taken"] = 565.008702,
+							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
-							["end_time"] = 1606122699,
+							["total"] = 143523.008702,
 							["delay"] = 0,
 							["classe"] = "PRIEST",
-							["boss_fight_component"] = true,
+							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[15407] = {
@@ -6618,14 +13580,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 8756,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 15407,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
@@ -6649,14 +13611,14 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 4821,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295368,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -6680,14 +13642,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 12682,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 335467,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -6711,14 +13673,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 9032,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 34914,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
@@ -6742,14 +13704,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 12247,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -6773,14 +13735,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 23173,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32379,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -6804,14 +13766,14 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 7531,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 346111,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 7,
@@ -6835,51 +13797,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 6431,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295374,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
 										["extra"] = {
 										},
 										["spellschool"] = 4,
-									},
-									[300917] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1511,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Дубосерд"] = 1511,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1511,
-										["c_max"] = 1511,
-										["c_min"] = 1511,
-										["id"] = 300917,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 8,
 									},
 									[295367] = {
 										["c_amt"] = 0,
@@ -6897,51 +13828,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 3122,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295367,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
 										["extra"] = {
 										},
 										["spellschool"] = 4,
-									},
-									[148859] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4498,
-										["targets"] = {
-											["Дубосерд"] = 8976,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 8976,
-										["n_min"] = 4478,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 8976,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 148859,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
 									},
 									[589] = {
 										["c_amt"] = 3,
@@ -6959,14 +13859,14 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 15920,
 										["c_max"] = 3661,
-										["c_min"] = 3367,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3367,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -6974,12 +13874,74 @@ _detalhes_database = {
 										},
 										["spellschool"] = 32,
 									},
+									[148859] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4498,
+										["targets"] = {
+											["Дубосерд"] = 8976,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8976,
+										["n_min"] = 4478,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 8976,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 148859,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1511,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Дубосерд"] = 1511,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1511,
+										["c_max"] = 1511,
+										["r_amt"] = 0,
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1511,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["custom"] = 0,
-							["nome"] = "Алоиза",
+							["tipo"] = 1,
+							["boss_fight_component"] = true,
 							["spec"] = 258,
 							["colocacao"] = 1,
 							["last_event"] = 1606122699,
@@ -7001,18 +13963,19 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["classe"] = "PET",
-							["tipo"] = 1,
+							["boss_fight_component"] = true,
 							["aID"] = "62982",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 29321.002582,
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["end_time"] = 1606122699,
 							["damage_taken"] = 7.002582,
 							["ownerName"] = "Алоиза",
-							["boss_fight_component"] = true,
+							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -7031,14 +13994,14 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 29321,
 										["c_max"] = 6517,
-										["c_min"] = 6517,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 6517,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 5,
@@ -7049,16 +14012,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "Подчинитель разума <Алоиза>",
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["total"] = 29321.002582,
 							["custom"] = 0,
 							["last_event"] = 1606122698,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122690,
 							["serial"] = "Creature-0-3774-1466-19531-62982-00003B7CC4",
-							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -7074,17 +14036,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["nome"] = "Дубосерд",
+							["friendlyfire_total"] = 0,
 							["aID"] = "",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 507.007412,
-							["friendlyfire_total"] = 0,
-							["monster"] = true,
 							["end_time"] = 1606122699,
-							["damage_taken"] = 143523.007412,
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["total"] = 507.007412,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7104,14 +14066,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 379,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -7138,10 +14100,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 204666,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
@@ -7153,16 +14115,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "Дубосерд",
+							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
-							["total"] = 507.007412,
+							["classe"] = "UNKNOW",
 							["custom"] = 0,
 							["last_event"] = 1606122697,
-							["on_hold"] = false,
+							["damage_taken"] = 143523.007412,
 							["start_time"] = 1606122692,
 							["serial"] = "Vehicle-0-3774-1466-19531-103344-00003B7BAD",
-							["dps_started"] = false,
+							["monster"] = true,
 						}, -- [3]
 					},
 				}, -- [1]
@@ -7198,8 +14160,8 @@ _detalhes_database = {
 							["healing_taken"] = 500.007727,
 							["totaldenied"] = 0.007727,
 							["end_time"] = 1606122699,
-							["last_event"] = 1606122697,
 							["heal_enemy_amt"] = 0,
+							["classe"] = "PRIEST",
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7223,40 +14185,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 2,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[143924] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 47,
-										},
-										["n_max"] = 121,
-										["targets"] = {
-											["Алоиза"] = 234,
-										},
-										["n_min"] = 113,
-										["counter"] = 2,
-										["overheal"] = 47,
-										["total"] = 234,
-										["c_max"] = 0,
-										["id"] = 143924,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
 										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 2,
-										["n_curado"] = 234,
-										["m_amt"] = 0,
 										["absorbed"] = 0,
 									},
 									[34914] = {
@@ -7279,12 +14213,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 85,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[270117] = {
@@ -7307,20 +14241,48 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 181,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 47,
+										},
+										["n_max"] = 121,
+										["targets"] = {
+											["Алоиза"] = 234,
+										},
+										["n_min"] = 113,
+										["counter"] = 2,
+										["overheal"] = 47,
+										["total"] = 234,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
 										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 234,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
 							["spec"] = 258,
+							["last_event"] = 1606122697,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["nome"] = "Алоиза",
@@ -7357,9 +14319,9 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["alternatepower"] = 0.007468,
+							["tipo"] = 3,
 							["last_event"] = 1606122713,
 							["flag_original"] = 1297,
 							["spec"] = 258,
@@ -7386,9 +14348,9 @@ _detalhes_database = {
 							},
 							["passiveover"] = 0.008446,
 							["resource_type"] = 13,
-							["last_event"] = 1606122698,
 							["classe"] = "PET",
 							["tipo"] = 3,
+							["last_event"] = 1606122698,
 							["total"] = 0.008446,
 							["received"] = 0.008446,
 							["serial"] = "Creature-0-3774-1466-19531-62982-00003B7CC4",
@@ -7415,29 +14377,6 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[335467] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 335467,
-										["uptime"] = 5,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[34914] = {
-										["activedamt"] = -1,
-										["id"] = 34914,
-										["targets"] = {
-										},
-										["actived_at"] = 1606122699,
-										["uptime"] = 0,
-										["counter"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["appliedamt"] = 0,
-									},
 									[295367] = {
 										["counter"] = 0,
 										["actived"] = false,
@@ -7448,6 +14387,17 @@ _detalhes_database = {
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 15407,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
 									},
 									[589] = {
 										["activedamt"] = -1,
@@ -7473,16 +14423,28 @@ _detalhes_database = {
 										["actived"] = false,
 										["appliedamt"] = 0,
 									},
-									[15407] = {
+									[335467] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 0,
 										["refreshamt"] = 0,
-										["id"] = 15407,
-										["uptime"] = 3,
+										["id"] = 335467,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["appliedamt"] = 2,
+										["appliedamt"] = 1,
+									},
+									[34914] = {
+										["activedamt"] = -1,
+										["id"] = 34914,
+										["targets"] = {
+										},
+										["actived_at"] = 1606122699,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 0,
 									},
 								},
 								["tipo"] = 9,
@@ -7524,12 +14486,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[21562] = {
+									[304056] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
+										["refreshamt"] = 1,
+										["id"] = 304056,
 										["uptime"] = 9,
 										["targets"] = {
 										},
@@ -7568,12 +14530,12 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[304056] = {
+									[21562] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 304056,
+										["refreshamt"] = 0,
+										["id"] = 21562,
 										["uptime"] = 9,
 										["targets"] = {
 										},
@@ -7594,8 +14556,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 17,
-							["tipo"] = 4,
-							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -7607,17 +14570,16 @@ _detalhes_database = {
 								[295373] = 1,
 								[335467] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
 							["aID"] = "1602-04F44A64",
 							["last_event"] = 1606122699,
+							["tipo"] = 4,
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
 							["buff_uptime_targets"] = {
 							},
 							["serial"] = "Player-1602-04F44A64",
-							["nome"] = "Алоиза",
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -7637,17 +14599,17 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
-							["monster"] = true,
+							["tipo"] = 4,
 							["nome"] = "Дубосерд",
-							["last_event"] = 0,
+							["monster"] = true,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[204666] = 1,
 							},
-							["classe"] = "UNKNOW",
 							["aID"] = "",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["last_event"] = 0,
 							["serial"] = "Vehicle-0-3774-1466-19531-103344-00003B7BAD",
 							["boss_fight_component"] = true,
 						}, -- [3]
@@ -7763,15 +14725,19 @@ _detalhes_database = {
 							},
 							["amountUp"] = 0,
 						},
-						[295367] = {
+						[15407] = {
 							["enabled"] = false,
-							["appliedAt"] = 800469.85,
-							["spellId"] = 295367,
+							["appliedAt"] = 800468.784,
+							["spellId"] = 15407,
 							["data"] = {
 								{
-									800469.85, -- [1]
-									800472.388, -- [2]
+									800466.184, -- [1]
+									800467.572, -- [2]
 								}, -- [1]
+								{
+									800468.784, -- [1]
+									800470.482, -- [2]
+								}, -- [2]
 							},
 							["amountUp"] = 0,
 						},
@@ -7811,19 +14777,15 @@ _detalhes_database = {
 							},
 							["amountUp"] = 0,
 						},
-						[15407] = {
+						[295367] = {
 							["enabled"] = false,
-							["appliedAt"] = 800468.784,
-							["spellId"] = 15407,
+							["appliedAt"] = 800469.85,
+							["spellId"] = 295367,
 							["data"] = {
 								{
-									800466.184, -- [1]
-									800467.572, -- [2]
+									800469.85, -- [1]
+									800472.388, -- [2]
 								}, -- [1]
-								{
-									800468.784, -- [1]
-									800470.482, -- [2]
-								}, -- [2]
 							},
 							["amountUp"] = 0,
 						},
@@ -7853,12 +14815,55 @@ _detalhes_database = {
 				},
 				["end_time"] = 800472.42,
 				["combat_id"] = 3968,
+				["tempo_start"] = 1606122690,
 				["TimeData"] = {
 				},
-				["tempo_start"] = 1606122690,
-				["combat_counter"] = 4235,
 				["frags"] = {
 					["Дубосерд"] = 1,
+				},
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							800462.2930000001, -- [1]
+							34914, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [1]
+						{
+							800463.496, -- [1]
+							8092, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [2]
+						{
+							800463.765, -- [1]
+							200174, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [3]
+						{
+							800464.948, -- [1]
+							295373, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [4]
+						{
+							800466.184, -- [1]
+							15407, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [5]
+						{
+							800467.572, -- [1]
+							335467, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [6]
+						{
+							800468.784, -- [1]
+							15407, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [7]
+						{
+							800472.388, -- [1]
+							32379, -- [2]
+							"Дубосерд", -- [3]
+						}, -- [8]
+					},
 				},
 				["is_boss"] = {
 					["diff_string"] = "Героический",
@@ -7967,51 +14972,8 @@ _detalhes_database = {
 				["data_inicio"] = "11:11:31",
 				["start_time"] = 800462.2930000001,
 				["contra"] = "Дубосерд",
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							800462.2930000001, -- [1]
-							34914, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [1]
-						{
-							800463.496, -- [1]
-							8092, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [2]
-						{
-							800463.765, -- [1]
-							200174, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [3]
-						{
-							800464.948, -- [1]
-							295373, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [4]
-						{
-							800466.184, -- [1]
-							15407, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [5]
-						{
-							800467.572, -- [1]
-							335467, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [6]
-						{
-							800468.784, -- [1]
-							15407, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [7]
-						{
-							800472.388, -- [1]
-							32379, -- [2]
-							"Дубосерд", -- [3]
-						}, -- [8]
-					},
-				},
-			}, -- [4]
+				["combat_counter"] = 4235,
+			}, -- [12]
 			{
 				{
 					["tipo"] = 2,
@@ -8026,23 +14988,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Верховный друид Глайдалис"] = 112775,
 							},
-							["last_dps"] = 13990.19988018638,
+							["custom"] = 0,
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
-							["damage_taken"] = 483.001234,
-							["total"] = 112775.001234,
-							["friendlyfire_total"] = 0,
+							["last_dps"] = 13990.19988018638,
+							["end_time"] = 1606122555,
+							["aID"] = "1602-04F44A64",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 94826.001234,
-							["tipo"] = 1,
-							["aID"] = "1602-04F44A64",
+							["damage_taken"] = 483.001234,
+							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
-							["end_time"] = 1606122555,
+							["total"] = 112775.001234,
 							["delay"] = 0,
 							["classe"] = "PRIEST",
-							["boss_fight_component"] = true,
+							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[15407] = {
@@ -8061,14 +15023,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 3619,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 15407,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -8092,14 +15054,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 9955,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 335467,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -8123,14 +15085,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 16781,
 										["c_max"] = 3380,
-										["c_min"] = 3380,
+										["r_amt"] = 0,
 										["id"] = 34914,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3380,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -8154,14 +15116,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 18259,
 										["c_max"] = 18259,
-										["c_min"] = 18259,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 18259,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -8185,79 +15147,17 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 5126,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 346111,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 5,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[295367] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 6294,
-										["targets"] = {
-											["Верховный друид Глайдалис"] = 12538,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 12538,
-										["n_min"] = 3122,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 12538,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 295367,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-									[148859] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4049,
-										["targets"] = {
-											["Верховный друид Глайдалис"] = 12115,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 12115,
-										["n_min"] = 4028,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 12115,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 148859,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
 										["extra"] = {
 										},
 										["spellschool"] = 32,
@@ -8278,20 +15178,82 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 6026,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
 										["extra"] = {
 										},
 										["spellschool"] = 32,
+									},
+									[148859] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4049,
+										["targets"] = {
+											["Верховный друид Глайдалис"] = 12115,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12115,
+										["n_min"] = 4028,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 12115,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 148859,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[295367] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6294,
+										["targets"] = {
+											["Верховный друид Глайдалис"] = 12538,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12538,
+										["n_min"] = 3122,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 12538,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 295367,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[300917] = {
 										["c_amt"] = 0,
@@ -8309,14 +15271,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 760,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -8340,14 +15302,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 5192,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 269031,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -8371,14 +15333,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 4455,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295305,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -8390,8 +15352,8 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["custom"] = 0,
-							["nome"] = "Алоиза",
+							["tipo"] = 1,
+							["boss_fight_component"] = true,
 							["spec"] = 258,
 							["colocacao"] = 1,
 							["last_event"] = 1606122555,
@@ -8412,18 +15374,19 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["classe"] = "PET",
-							["tipo"] = 1,
+							["boss_fight_component"] = true,
 							["aID"] = "62982",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 17949.00877,
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["end_time"] = 1606122555,
 							["damage_taken"] = 0.00877,
 							["ownerName"] = "Алоиза",
-							["boss_fight_component"] = true,
+							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -8442,14 +15405,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 17949,
 										["c_max"] = 5166,
-										["c_min"] = 5130,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5130,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -8460,16 +15423,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "Подчинитель разума <Алоиза>",
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["total"] = 17949.00877,
 							["custom"] = 0,
 							["last_event"] = 1606122555,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122550,
 							["serial"] = "Creature-0-3774-1466-19531-62982-00003B7C37",
-							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -8484,17 +15446,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["nome"] = "Верховный друид Глайдалис",
+							["friendlyfire_total"] = 0,
 							["aID"] = "96512",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 483.001614,
-							["friendlyfire_total"] = 0,
 							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 483.001614,
-							["damage_taken"] = 112775.001614,
-							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8514,14 +15476,14 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 400,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -8545,14 +15507,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 83,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 196354,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -8563,16 +15525,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "Верховный друид Глайдалис",
+							["on_hold"] = false,
 							["end_time"] = 1606122555,
-							["friendlyfire"] = {
-							},
+							["classe"] = "UNKNOW",
 							["custom"] = 0,
 							["last_event"] = 1606122554,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122550,
 							["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
-							["dps_started"] = false,
+							["damage_taken"] = 112775.001614,
 						}, -- [3]
 					},
 				}, -- [1]
@@ -8608,8 +15570,8 @@ _detalhes_database = {
 							["healing_taken"] = 483.002441,
 							["totaldenied"] = 0.002441,
 							["end_time"] = 1606122555,
-							["last_event"] = 1606122555,
 							["heal_enemy_amt"] = 0,
+							["classe"] = "PRIEST",
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8632,12 +15594,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 106,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[34914] = {
@@ -8660,12 +15622,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 2,
 										["n_curado"] = 214,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[335467] = {
@@ -8688,12 +15650,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 2,
 										["n_curado"] = 129,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[270117] = {
@@ -8716,12 +15678,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 34,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 34,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 0,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 34,
 										["absorbed"] = 0,
 									},
 									[295310] = {
@@ -8744,20 +15706,20 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 3,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
 							["spec"] = 258,
+							["last_event"] = 1606122555,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["nome"] = "Алоиза",
@@ -8794,9 +15756,9 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["alternatepower"] = 0.008272,
+							["tipo"] = 3,
 							["last_event"] = 1606122566,
 							["flag_original"] = 1297,
 							["spec"] = 258,
@@ -8823,9 +15785,9 @@ _detalhes_database = {
 							},
 							["passiveover"] = 0.003443,
 							["resource_type"] = 13,
-							["last_event"] = 1606122555,
 							["classe"] = "PET",
 							["tipo"] = 3,
+							["last_event"] = 1606122555,
 							["total"] = 0.003443,
 							["received"] = 0.003443,
 							["serial"] = "Creature-0-3774-1466-19531-62982-00003B7C37",
@@ -8995,8 +15957,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 25,
-							["tipo"] = 4,
-							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -9008,16 +15971,15 @@ _detalhes_database = {
 								[335467] = 1,
 								[15407] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
 							["aID"] = "1602-04F44A64",
 							["last_event"] = 1606122555,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["buff_uptime_targets"] = {
 							},
 							["serial"] = "Player-1602-04F44A64",
-							["nome"] = "Алоиза",
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -9034,10 +15996,10 @@ _detalhes_database = {
 							["debuff_uptime"] = 1,
 							["spellschool"] = 1,
 							["nome"] = "Мучительное разрывание",
-							["last_event"] = 1606122555,
-							["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
 							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
 							["tipo"] = 4,
+							["last_event"] = 1606122555,
 							["damage_twin"] = "Верховный друид Глайдалис",
 							["debuff_uptime_targets"] = {
 								["Алоиза"] = {
@@ -9214,11 +16176,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:09:09",
-				["end_time"] = 800328.654,
-				["combat_id"] = 3963,
-				["TimeData"] = {
-				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -9239,6 +16196,11 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 800328.654,
+				["combat_id"] = 3963,
+				["TimeData"] = {
+				},
+				["data_inicio"] = "11:09:09",
 				["frags"] = {
 				},
 				["is_boss"] = {
@@ -9300,7 +16262,7 @@ _detalhes_database = {
 						}, -- [7]
 					},
 				},
-			}, -- [5]
+			}, -- [13]
 			{
 				{
 					["tipo"] = 2,
@@ -9319,22 +16281,18 @@ _detalhes_database = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2506.868910554074,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3844.008853,
-							["last_event"] = 1606122371,
+							["damage_taken"] = 26.008853,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122373,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 26.008853,
+							["last_dps"] = 2506.868910554074,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 6390.008853,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[346111] = {
@@ -9353,14 +16311,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 268,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 346111,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -9384,14 +16342,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1069,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -9415,14 +16373,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2507,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 269031,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -9433,13 +16391,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 6390.008853,
+							["last_event"] = 1606122371,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122371,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -9451,16 +16413,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "62982",
 							["tipo"] = 1,
 							["classe"] = "PET",
-							["aID"] = "62982",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2546.002686,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122373,
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
@@ -9481,14 +16444,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2546,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -9504,11 +16467,10 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122371,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122371,
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7B7C",
-							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -9523,17 +16485,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 26.002854,
 							["aID"] = "113646",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 26.002854,
-							["end_time"] = 1606122373,
 							["monster"] = true,
-							["total"] = 26.002854,
-							["damage_taken"] = 6390.002854,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606122373,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Зараженный лесовик",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9553,14 +16515,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 26,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -9571,16 +16533,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122370,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122370,
 							["serial"] = "Creature-0-3889-1220-177-113646-00003B79AC",
-							["fight_component"] = true,
+							["damage_taken"] = 6390.002854,
 						}, -- [3]
 					},
 				}, -- [1]
@@ -9616,8 +16578,10 @@ _detalhes_database = {
 							["healing_taken"] = 26.006828,
 							["fight_component"] = true,
 							["end_time"] = 1606122373,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122371,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9641,12 +16605,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 26,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[269238] = {
@@ -9669,12 +16633,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -9682,15 +16646,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.006828,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122371,
 							["spec"] = 258,
 							["start_time"] = 1606122370,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -9720,9 +16682,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122371,
+							["tipo"] = 3,
 							["alternatepower"] = 0.002234,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -9748,8 +16710,8 @@ _detalhes_database = {
 							},
 							["passiveover"] = 0.005643,
 							["received"] = 0.005643,
-							["last_event"] = 1606122371,
 							["tipo"] = 3,
+							["last_event"] = 1606122371,
 							["classe"] = "PET",
 							["total"] = 0.005643,
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7B7C",
@@ -9860,9 +16822,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[589] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122373,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -9999,25 +16961,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:06:10",
-				["end_time"] = 800145.4,
-				["combat_id"] = 3957,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606122370,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							800143.416, -- [1]
-							589, -- [2]
-							"Зараженный лесовик", -- [3]
-						}, -- [1]
-					},
-				},
-				["contra"] = "Зараженный лесовик",
-				["combat_counter"] = 4220,
-				["CombatSkillCache"] = {
-				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -10038,13 +16981,32 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 800145.4,
+				["combat_id"] = 3957,
+				["data_inicio"] = "11:06:10",
+				["tempo_start"] = 1606122370,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							800143.416, -- [1]
+							589, -- [2]
+							"Зараженный лесовик", -- [3]
+						}, -- [1]
+					},
+				},
+				["contra"] = "Зараженный лесовик",
+				["combat_counter"] = 4220,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
 				["start_time"] = 800142.851,
 				["TimeData"] = {
 				},
 				["frags"] = {
 					["Зараженный лесовик"] = 1,
 				},
-			}, -- [6]
+			}, -- [14]
 			{
 				{
 					["tipo"] = 2,
@@ -10062,22 +17024,18 @@ _detalhes_database = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 7826.089649512639,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 12206.005946,
-							["last_event"] = 1606122365,
+							["damage_taken"] = 0.005946,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122366,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 0.005946,
+							["last_dps"] = 7826.089649512639,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 17280.005946,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[346111] = {
@@ -10096,14 +17054,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 1067,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 346111,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -10127,14 +17085,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1438,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -10158,14 +17116,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 9701,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 34914,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -10176,13 +17134,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 17280.005946,
+							["last_event"] = 1606122365,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122363,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -10194,16 +17156,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "62982",
 							["tipo"] = 1,
 							["classe"] = "PET",
-							["aID"] = "62982",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5074.005638000001,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122366,
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
@@ -10224,14 +17187,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 5074,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -10247,11 +17210,10 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122365,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122363,
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7B7C",
-							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -10265,17 +17227,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "93030",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005212,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.005212,
 							["damage_taken"] = 17280.005212,
-							["end_time"] = 1606122366,
+							["dps_started"] = false,
+							["total"] = 0.005212,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Железнодрев",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10293,17 +17255,17 @@ _detalhes_database = {
 										["n_min"] = 0,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["total"] = 0,
 										["c_max"] = 0,
-										["r_amt"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["id"] = 1,
+										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["a_dmg"] = 0,
@@ -10314,16 +17276,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606122366,
 							["custom"] = 0,
 							["last_event"] = 1606122363,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122366,
 							["serial"] = "Creature-0-3889-1220-177-93030-00003B784E",
-							["aID"] = "93030",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -10338,7 +17300,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 1426.002784,
 							["total_without_pet"] = 0.002784,
 							["total"] = 0.002784,
@@ -10355,7 +17317,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.002784,
 							["healing_taken"] = 0.002784,
 							["end_time"] = 1606122366,
-							["last_event"] = 1606122365,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 1426,
 							},
@@ -10382,23 +17344,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 0,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.002784,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606122365,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606122365,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -10430,9 +17392,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122365,
+							["tipo"] = 3,
 							["alternatepower"] = 0.004865,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -10458,8 +17420,8 @@ _detalhes_database = {
 							},
 							["passiveover"] = 0.001228,
 							["received"] = 0.001228,
-							["last_event"] = 1606122365,
 							["tipo"] = 3,
+							["last_event"] = 1606122365,
 							["classe"] = "PET",
 							["total"] = 0.001228,
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7B7C",
@@ -10580,9 +17542,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[34914] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122366,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -10707,11 +17669,29 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:06:04",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 17280.005946,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.002784,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 800138.349,
 				["combat_id"] = 3956,
-				["player_last_events"] = {
-				},
+				["data_inicio"] = "11:06:04",
 				["tempo_start"] = 1606122363,
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
@@ -10736,25 +17716,7 @@ _detalhes_database = {
 				["combat_counter"] = 4219,
 				["CombatSkillCache"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 17280.005946,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.002784,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["player_last_events"] = {
 				},
 				["start_time"] = 800136.1410000001,
 				["TimeData"] = {
@@ -10762,7 +17724,7 @@ _detalhes_database = {
 				["frags"] = {
 					["Железнодрев"] = 1,
 				},
-			}, -- [7]
+			}, -- [15]
 			{
 				{
 					["tipo"] = 2,
@@ -10783,55 +17745,20 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 6391.872288756284,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 30355.001499,
-							["last_event"] = 1606122308,
+							["damage_taken"] = 59.001499,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122308,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 59.001499,
+							["last_dps"] = 6391.872288756284,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 30355.001499,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2889,
-										["g_amt"] = 0,
-										["n_max"] = 1456,
-										["targets"] = {
-											["Василиск силового камня"] = 5414,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2525,
-										["n_min"] = 1069,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 5414,
-										["c_max"] = 2889,
-										["c_min"] = 2889,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
 									[32379] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
@@ -10848,20 +17775,52 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 16851,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32379,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
 										["extra"] = {
 										},
 										["spellschool"] = 32,
+									},
+									[300917] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Василиск силового камня"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["r_amt"] = 0,
+										["total"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["id"] = 300917,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 0,
+										["EVADE"] = 1,
+										["c_max"] = 0,
 									},
 									[49821] = {
 										["c_amt"] = 0,
@@ -10881,14 +17840,14 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 8090,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 49821,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 9,
@@ -10896,48 +17855,51 @@ _detalhes_database = {
 										},
 										["spellschool"] = 32,
 									},
-									[300917] = {
-										["c_amt"] = 0,
+									[589] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 2889,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["n_max"] = 1456,
 										["targets"] = {
-											["Василиск силового камня"] = 0,
+											["Василиск силового камня"] = 5414,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
+										["n_dmg"] = 2525,
+										["n_min"] = 1069,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["c_min"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
+										["counter"] = 3,
+										["total"] = 5414,
+										["c_max"] = 2889,
 										["r_amt"] = 0,
-										["EVADE"] = 1,
+										["id"] = 589,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2889,
 										["successful_casted"] = 0,
-										["a_dmg"] = 0,
-										["n_amt"] = 0,
-										["id"] = 300917,
-										["spellschool"] = 8,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 30355.001499,
+							["last_event"] = 1606122308,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122304,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -10951,17 +17913,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 34.004518,
 							["aID"] = "97338",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 34.004518,
-							["end_time"] = 1606122308,
 							["monster"] = true,
-							["total"] = 34.004518,
-							["damage_taken"] = 5287.004518,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606122308,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Ужасный плеточник",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10979,17 +17941,17 @@ _detalhes_database = {
 										["n_min"] = 6,
 										["g_dmg"] = 0,
 										["counter"] = 6,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["total"] = 34,
 										["c_max"] = 0,
-										["r_amt"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["id"] = 1,
+										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["a_dmg"] = 0,
@@ -11000,16 +17962,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122306,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122304,
 							["serial"] = "Creature-0-3889-1220-177-97338-00003B7850",
-							["fight_component"] = true,
+							["damage_taken"] = 5287.004518,
 						}, -- [2]
 						{
 							["flag_original"] = 68136,
@@ -11022,18 +17984,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["aID"] = "103514",
+							["end_time"] = 1606122308,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 25.005471,
 							["delay"] = 0,
 							["fight_component"] = true,
 							["total"] = 25.005471,
-							["end_time"] = 1606122308,
-							["damage_taken"] = 24199.005471,
+							["aID"] = "103514",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Василиск силового камня",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11053,14 +18015,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 25,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -11071,15 +18033,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1606122307,
-							["on_hold"] = false,
+							["damage_taken"] = 24199.005471,
 							["start_time"] = 1606122307,
 							["serial"] = "Creature-0-3889-1220-177-103514-00003B7878",
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 2600,
@@ -11091,15 +18053,15 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["total"] = 0.002724,
-							["aID"] = "94193",
+							["end_time"] = 1606122308,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002724,
 							["delay"] = 0,
 							["fight_component"] = true,
-							["end_time"] = 1606122308,
+							["total"] = 0.002724,
 							["friendlyfire_total"] = 0,
 							["damage_taken"] = 869.002724,
 							["nome"] = "Жуткая личинка",
@@ -11108,16 +18070,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122308,
 							["serial"] = "Creature-0-3889-1220-177-94193-00003B75A8",
-							["classe"] = "UNKNOW",
+							["aID"] = "94193",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -11153,39 +18115,13 @@ _detalhes_database = {
 							["healing_taken"] = 59.001905,
 							["fight_component"] = true,
 							["end_time"] = 1606122308,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122308,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 722,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 7,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 722,
-										["total"] = 7,
-										["c_max"] = 7,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 7,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 7,
-										["totaldenied"] = 0,
-										["n_amt"] = 0,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
 									[269238] = {
 										["c_amt"] = 1,
 										["totalabsorb"] = 0,
@@ -11206,12 +18142,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 3,
 										["n_curado"] = 38,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[143924] = {
@@ -11234,12 +18170,40 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 2,
 										["n_curado"] = 14,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+									[270117] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 722,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 7,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 722,
+										["total"] = 7,
+										["c_max"] = 7,
+										["id"] = 270117,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 7,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
 										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 0,
+										["n_curado"] = 0,
+										["c_min"] = 7,
 										["absorbed"] = 0,
 									},
 								},
@@ -11247,15 +18211,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.001905,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122308,
 							["spec"] = 258,
 							["start_time"] = 1606122304,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -11284,9 +18246,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122363,
+							["tipo"] = 3,
 							["alternatepower"] = 0.004197,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -11365,17 +18327,6 @@ _detalhes_database = {
 										["actived"] = true,
 										["appliedamt"] = 1,
 									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 304056,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
 									[261395] = {
 										["activedamt"] = 1,
 										["id"] = 261395,
@@ -11386,6 +18337,17 @@ _detalhes_database = {
 										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = true,
+										["appliedamt"] = 1,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 304056,
+										["uptime"] = 4,
+										["targets"] = {
+										},
 										["appliedamt"] = 1,
 									},
 									[300919] = {
@@ -11445,9 +18407,9 @@ _detalhes_database = {
 								[48045] = 1,
 								[32379] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122308,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -11620,11 +18582,29 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:05:04",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 30355.001499,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 59.001905,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 800081.237,
 				["combat_id"] = 3955,
-				["player_last_events"] = {
-				},
+				["data_inicio"] = "11:05:04",
 				["tempo_start"] = 1606122304,
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
@@ -11649,25 +18629,7 @@ _detalhes_database = {
 				["combat_counter"] = 4218,
 				["CombatSkillCache"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 30355.001499,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 59.001905,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["player_last_events"] = {
 				},
 				["start_time"] = 800076.488,
 				["TimeData"] = {
@@ -11677,7 +18639,7 @@ _detalhes_database = {
 					["Жуткая личинка"] = 1,
 					["Василиск силового камня"] = 1,
 				},
-			}, -- [8]
+			}, -- [16]
 			{
 				{
 					["tipo"] = 2,
@@ -11695,22 +18657,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 6815.069002639644,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24875.001859,
-							["last_event"] = 1606122288,
+							["damage_taken"] = 48.001859,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122289,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 48.001859,
+							["last_dps"] = 6815.069002639644,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 24875.001859,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[335467] = {
@@ -11729,14 +18687,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 18989,
 										["c_max"] = 12659,
-										["c_min"] = 12659,
+										["r_amt"] = 0,
 										["id"] = 335467,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 12659,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -11760,14 +18718,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1500,
 										["c_max"] = 1500,
-										["c_min"] = 1500,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1500,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -11791,14 +18749,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 4386,
 										["c_max"] = 2713,
-										["c_min"] = 2713,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2713,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -11809,13 +18767,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 24875.001859,
+							["last_event"] = 1606122288,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122286,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -11829,17 +18791,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 48.003198,
 							["aID"] = "97504",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 48.003198,
-							["end_time"] = 1606122289,
 							["monster"] = true,
-							["total"] = 48.003198,
-							["damage_taken"] = 24875.003198,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606122289,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Призрачный Коготь",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11859,14 +18821,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 48,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -11877,16 +18839,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122287,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122285,
 							["serial"] = "Creature-0-3889-1220-177-97504-00003B78F3",
-							["fight_component"] = true,
+							["damage_taken"] = 24875.003198,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -11922,8 +18884,10 @@ _detalhes_database = {
 							["healing_taken"] = 48.003943,
 							["fight_component"] = true,
 							["end_time"] = 1606122289,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122288,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11947,12 +18911,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 2,
 										["n_curado"] = 24,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[295310] = {
@@ -11975,12 +18939,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[270117] = {
@@ -12003,12 +18967,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 24,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[269238] = {
@@ -12031,12 +18995,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -12044,15 +19008,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.003943,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122288,
 							["spec"] = 258,
 							["start_time"] = 1606122285,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -12081,9 +19043,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122288,
+							["tipo"] = 3,
 							["alternatepower"] = 0.008016,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -12242,9 +19204,9 @@ _detalhes_database = {
 								[589] = 1,
 								[341263] = 2,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122289,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -12393,11 +19355,29 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:04:45",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 24875.001859,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 48.003943,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 800061.367,
 				["combat_id"] = 3954,
-				["player_last_events"] = {
-				},
+				["data_inicio"] = "11:04:45",
 				["tempo_start"] = 1606122285,
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
@@ -12432,25 +19412,7 @@ _detalhes_database = {
 				["combat_counter"] = 4217,
 				["CombatSkillCache"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 24875.001859,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 48.003943,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["player_last_events"] = {
 				},
 				["start_time"] = 800057.7170000001,
 				["TimeData"] = {
@@ -12458,7 +19420,7 @@ _detalhes_database = {
 				["frags"] = {
 					["Призрачный Коготь"] = 1,
 				},
-			}, -- [9]
+			}, -- [17]
 			{
 				{
 					["tipo"] = 2,
@@ -12474,19 +19436,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 9918.00297,
-							["last_dps"] = 52755.33492381044,
 							["classe"] = "PRIEST",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 9918.00297,
-							["last_event"] = 1606122277,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606122278,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 0.00297,
-							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -12505,14 +19455,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1071,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -12536,14 +19486,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 8847,
 										["c_max"] = 8847,
-										["c_min"] = 8847,
+										["r_amt"] = 0,
 										["id"] = 295305,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 8847,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -12554,17 +19504,29 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
 							["aID"] = "1602-04F44A64",
-							["custom"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9918.00297,
+							["damage_taken"] = 0.00297,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 9918.00297,
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 52755.33492381044,
+							["nome"] = "Алоиза",
 							["spec"] = 258,
+							["grupo"] = true,
+							["end_time"] = 1606122278,
+							["last_event"] = 1606122277,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122277,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68136,
@@ -12576,15 +19538,15 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["total"] = 0.002652,
-							["aID"] = "103514",
+							["end_time"] = 1606122278,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002652,
 							["delay"] = 0,
 							["fight_component"] = true,
-							["end_time"] = 1606122278,
+							["total"] = 0.002652,
 							["friendlyfire_total"] = 0,
 							["damage_taken"] = 9918.002652,
 							["nome"] = "Василиск силового камня",
@@ -12593,16 +19555,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122278,
 							["serial"] = "Creature-0-3889-1220-177-103514-00003B7987",
-							["classe"] = "UNKNOW",
+							["aID"] = "103514",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -12617,7 +19579,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 1415.008466,
 							["total_without_pet"] = 0.008466,
 							["total"] = 0.008466,
@@ -12634,7 +19596,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.008466,
 							["healing_taken"] = 0.008466,
 							["end_time"] = 1606122278,
-							["last_event"] = 1606122277,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 1415,
 							},
@@ -12661,23 +19623,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 0,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.008466,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606122277,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606122277,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -12708,9 +19670,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122277,
+							["tipo"] = 3,
 							["alternatepower"] = 0.001109,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -12742,7 +19704,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "PRIEST",
+							["aID"] = "1602-04F44A64",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269239] = {
@@ -12793,18 +19755,18 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
 							["last_event"] = 1606122278,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 							["buff_uptime"] = 4,
 							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -12904,10 +19866,31 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:04:37",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 9918.00297,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.008466,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 800051.2270000001,
 				["combat_id"] = 3953,
-				["overall_added"] = true,
+				["frags"] = {
+					["Василиск силового камня"] = 1,
+				},
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
 						{
@@ -12917,9 +19900,7 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["frags"] = {
-					["Василиск силового камня"] = 1,
-				},
+				["overall_added"] = true,
 				["combat_counter"] = 4216,
 				["CombatSkillCache"] = {
 				},
@@ -12947,27 +19928,8 @@ _detalhes_database = {
 				["start_time"] = 800049.931,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 9918.00297,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.008466,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-			}, -- [10]
+				["data_inicio"] = "11:04:37",
+			}, -- [18]
 			{
 				{
 					["tipo"] = 2,
@@ -12984,22 +19946,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 21987.95603809091,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5475.001055,
-							["last_event"] = 1606122246,
+							["damage_taken"] = 0.001055,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122248,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 0.001055,
+							["last_dps"] = 21987.95603809091,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 5475.001055,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -13018,14 +19976,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1051,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -13049,14 +20007,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 4424,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295305,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -13067,13 +20025,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 5475.001055,
+							["last_event"] = 1606122246,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122246,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -13086,33 +20048,33 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "97337",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003824,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.003824,
 							["damage_taken"] = 5475.003823999999,
-							["end_time"] = 1606122248,
+							["dps_started"] = false,
+							["total"] = 0.003824,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Поддавшийся порче хранитель",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606122248,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122248,
 							["serial"] = "Creature-0-3889-1220-177-97337-00003B7A67",
-							["aID"] = "97337",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -13127,7 +20089,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 713.008182,
 							["total_without_pet"] = 0.008182,
 							["total"] = 0.008182,
@@ -13144,7 +20106,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.008182,
 							["healing_taken"] = 0.008182,
 							["end_time"] = 1606122248,
-							["last_event"] = 1606122246,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 713,
 							},
@@ -13171,23 +20133,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.008182,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606122246,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606122246,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -13218,9 +20180,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122277,
+							["tipo"] = 3,
 							["alternatepower"] = 0.00746,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -13252,7 +20214,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "PRIEST",
+							["aID"] = "1602-04F44A64",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269239] = {
@@ -13314,18 +20276,18 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
 							["last_event"] = 1606122248,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 							["buff_uptime"] = 10,
 							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -13454,9 +20416,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:04:07",
-				["end_time"] = 800020.424,
-				["combat_id"] = 3952,
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -13477,6 +20436,9 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 800020.424,
+				["combat_id"] = 3952,
+				["data_inicio"] = "11:04:07",
 				["overall_added"] = true,
 				["frags"] = {
 					["Поддавшийся порче хранитель"] = 1,
@@ -13504,7 +20466,7 @@ _detalhes_database = {
 						}, -- [2]
 					},
 				},
-			}, -- [11]
+			}, -- [19]
 			{
 				{
 					["tipo"] = 2,
@@ -13521,22 +20483,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 49075.2145052996,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6527.003525,
-							["last_event"] = 1606122234,
+							["damage_taken"] = 0.003525,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122235,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 0.003525,
+							["last_dps"] = 49075.2145052996,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 6527.003525,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -13555,14 +20513,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2104,
 										["c_max"] = 2104,
-										["c_min"] = 2104,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2104,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -13586,14 +20544,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 4423,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295305,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -13604,13 +20562,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 6527.003525,
+							["last_event"] = 1606122234,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122234,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68136,
@@ -13622,15 +20584,15 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["total"] = 0.006305,
-							["aID"] = "103514",
+							["end_time"] = 1606122235,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006305,
 							["delay"] = 0,
 							["fight_component"] = true,
-							["end_time"] = 1606122235,
+							["total"] = 0.006305,
 							["friendlyfire_total"] = 0,
 							["damage_taken"] = 6527.006305,
 							["nome"] = "Василиск силового камня",
@@ -13639,16 +20601,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122235,
 							["serial"] = "Creature-0-3889-1220-177-103514-00013B79C9",
-							["classe"] = "UNKNOW",
+							["aID"] = "103514",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -13663,7 +20625,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 1416.001059,
 							["total_without_pet"] = 0.001059,
 							["total"] = 0.001059,
@@ -13680,7 +20642,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.001059,
 							["healing_taken"] = 0.001059,
 							["end_time"] = 1606122235,
-							["last_event"] = 1606122234,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 1416,
 							},
@@ -13707,23 +20669,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 0,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.001059,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606122234,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606122234,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -13754,9 +20716,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122246,
+							["tipo"] = 3,
 							["alternatepower"] = 0.006701,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -13788,7 +20750,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "PRIEST",
+							["aID"] = "1602-04F44A64",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269239] = {
@@ -13839,18 +20801,18 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
 							["last_event"] = 1606122235,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 							["buff_uptime"] = 4,
 							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -13950,10 +20912,31 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:03:54",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 6527.003525,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.001059,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 800008.294,
 				["combat_id"] = 3951,
-				["overall_added"] = true,
+				["frags"] = {
+					["Василиск силового камня"] = 1,
+				},
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
 						{
@@ -13968,9 +20951,7 @@ _detalhes_database = {
 						}, -- [2]
 					},
 				},
-				["frags"] = {
-					["Василиск силового камня"] = 1,
-				},
+				["overall_added"] = true,
 				["combat_counter"] = 4214,
 				["CombatSkillCache"] = {
 				},
@@ -13998,27 +20979,8 @@ _detalhes_database = {
 				["start_time"] = 800006.9130000001,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 6527.003525,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.001059,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-			}, -- [12]
+				["data_inicio"] = "11:03:54",
+			}, -- [20]
 			{
 				{
 					["tipo"] = 2,
@@ -14036,22 +20998,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2879.060052311456,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7094.003968999999,
-							["last_event"] = 1606122219,
+							["damage_taken"] = 23.003969,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122220,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 23.003969,
+							["last_dps"] = 2879.060052311456,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 7094.003968999999,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -14070,14 +21028,14 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 5583,
 										["c_max"] = 2118,
-										["c_min"] = 2118,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2118,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -14101,14 +21059,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1511,
 										["c_max"] = 1511,
-										["c_min"] = 1511,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1511,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -14119,13 +21077,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 7094.003968999999,
+							["last_event"] = 1606122219,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122216,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68136,
@@ -14138,18 +21100,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["aID"] = "104877",
+							["end_time"] = 1606122220,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 23.004174,
 							["delay"] = 0,
 							["fight_component"] = true,
 							["total"] = 23.004174,
-							["end_time"] = 1606122220,
-							["damage_taken"] = 7094.004174,
+							["aID"] = "104877",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Василиск силового камня",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14169,14 +21131,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 23,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -14187,15 +21149,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1606122217,
-							["on_hold"] = false,
+							["damage_taken"] = 7094.004174,
 							["start_time"] = 1606122217,
 							["serial"] = "Creature-0-3889-1220-177-104877-00003B7AE7",
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -14231,11 +21193,69 @@ _detalhes_database = {
 							["healing_taken"] = 23.003774,
 							["fight_component"] = true,
 							["end_time"] = 1606122220,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122219,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
+									[269238] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 718,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Алоиза"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 718,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+									[270117] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 346,
+										},
+										["n_max"] = 23,
+										["targets"] = {
+											["Алоиза"] = 23,
+										},
+										["n_min"] = 23,
+										["counter"] = 1,
+										["overheal"] = 346,
+										["total"] = 23,
+										["c_max"] = 0,
+										["id"] = 270117,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 23,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
 									[17] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
@@ -14266,76 +21286,18 @@ _detalhes_database = {
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
-									[269238] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 718,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 718,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 346,
-										},
-										["n_max"] = 23,
-										["targets"] = {
-											["Алоиза"] = 23,
-										},
-										["n_min"] = 23,
-										["counter"] = 1,
-										["overheal"] = 346,
-										["total"] = 23,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 23,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.003774,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122219,
 							["spec"] = 258,
 							["start_time"] = 1606122216,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -14364,9 +21326,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122234,
+							["tipo"] = 3,
 							["alternatepower"] = 0.004811,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -14488,9 +21450,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[589] = 2,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122220,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -14510,7 +21472,7 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Алоиза"] = true,
 				},
-				["tempo_start"] = 1606122216,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
@@ -14603,9 +21565,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:03:37",
-				["end_time"] = 799992.447,
-				["combat_id"] = 3950,
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -14626,18 +21585,8 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
-				["frags"] = {
-					["Василиск силового камня"] = 1,
-				},
-				["overall_added"] = true,
-				["combat_counter"] = 4213,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 799989.04,
-				["TimeData"] = {
-				},
+				["end_time"] = 799992.447,
+				["combat_id"] = 3950,
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
 						{
@@ -14662,7 +21611,20 @@ _detalhes_database = {
 						}, -- [4]
 					},
 				},
-			}, -- [13]
+				["frags"] = {
+					["Василиск силового камня"] = 1,
+				},
+				["data_inicio"] = "11:03:37",
+				["tempo_start"] = 1606122216,
+				["CombatSkillCache"] = {
+				},
+				["combat_counter"] = 4213,
+				["start_time"] = 799989.04,
+				["TimeData"] = {
+				},
+				["player_last_events"] = {
+				},
+			}, -- [21]
 			{
 				{
 					["tipo"] = 2,
@@ -14682,22 +21644,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 5534.996826462819,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 36614.004007,
-							["last_event"] = 1606122210,
+							["damage_taken"] = 111.004007,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606122210,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 111.004007,
+							["last_dps"] = 5534.996826462819,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 36614.004007,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[8092] = {
@@ -14716,14 +21674,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 16415,
 										["c_max"] = 16415,
-										["c_min"] = 16415,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 16415,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -14748,14 +21706,14 @@ _detalhes_database = {
 										["counter"] = 10,
 										["total"] = 17691,
 										["c_max"] = 2627,
-										["c_min"] = 2627,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2627,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 6,
@@ -14779,14 +21737,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2508,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 269031,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -14797,13 +21755,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 36614.004007,
+							["last_event"] = 1606122210,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122204,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68136,
@@ -14816,18 +21778,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["aID"] = "103514",
+							["end_time"] = 1606122210,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 69.001192,
 							["delay"] = 0,
 							["fight_component"] = true,
 							["total"] = 69.001192,
-							["end_time"] = 1606122210,
-							["damage_taken"] = 31592.001192,
+							["aID"] = "103514",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Василиск силового камня",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14845,17 +21807,17 @@ _detalhes_database = {
 										["n_min"] = 21,
 										["g_dmg"] = 0,
 										["counter"] = 3,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["total"] = 43,
 										["c_max"] = 0,
-										["r_amt"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["id"] = 1,
+										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["a_dmg"] = 0,
@@ -14879,14 +21841,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 26,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32906,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -14897,15 +21859,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1606122215,
-							["on_hold"] = false,
+							["damage_taken"] = 31592.001192,
 							["start_time"] = 1606122205,
 							["serial"] = "Creature-0-3889-1220-177-103514-00013B7A00",
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -14919,17 +21881,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 42.008844,
 							["aID"] = "93155",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 42.008844,
-							["end_time"] = 1606122210,
 							["monster"] = true,
-							["total"] = 42.008844,
-							["damage_taken"] = 5022.008844,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606122210,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Измученная дриада",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14951,10 +21913,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 10277,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
@@ -14966,16 +21928,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122208,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122208,
 							["serial"] = "Creature-0-3889-1220-177-93155-00003B7AD0",
-							["fight_component"] = true,
+							["damage_taken"] = 5022.008844,
 						}, -- [3]
 					},
 				}, -- [1]
@@ -15012,8 +21974,10 @@ _detalhes_database = {
 							["healing_taken"] = 111.006653,
 							["fight_component"] = true,
 							["end_time"] = 1606122210,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122210,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15066,12 +22030,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 3,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -15079,15 +22043,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.006653,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122210,
 							["spec"] = 258,
 							["start_time"] = 1606122205,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -15116,9 +22078,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122216,
+							["tipo"] = 3,
 							["alternatepower"] = 0.003148,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -15276,9 +22238,9 @@ _detalhes_database = {
 								[589] = 2,
 								[341263] = 2,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122210,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -15289,17 +22251,17 @@ _detalhes_database = {
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
-							["monster"] = true,
+							["last_event"] = 0,
 							["nome"] = "Измученная дриада",
-							["aID"] = "93155",
+							["monster"] = true,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[10277] = 1,
 							},
-							["classe"] = "UNKNOW",
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["aID"] = "93155",
 							["serial"] = "Creature-0-3889-1220-177-93155-00003B7AD0",
 							["fight_component"] = true,
 						}, -- [2]
@@ -15452,10 +22414,32 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:03:24",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 36614.004007,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 111.006653,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 799983.165,
 				["combat_id"] = 3949,
-				["overall_added"] = true,
+				["frags"] = {
+					["Измученная дриада"] = 1,
+					["Василиск силового камня"] = 2,
+				},
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
 						{
@@ -15485,10 +22469,7 @@ _detalhes_database = {
 						}, -- [5]
 					},
 				},
-				["frags"] = {
-					["Измученная дриада"] = 1,
-					["Василиск силового камня"] = 2,
-				},
+				["overall_added"] = true,
 				["combat_counter"] = 4212,
 				["CombatSkillCache"] = {
 				},
@@ -15516,27 +22497,8 @@ _detalhes_database = {
 				["start_time"] = 799976.55,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 36614.004007,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 111.006653,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-			}, -- [14]
+				["data_inicio"] = "11:03:24",
+			}, -- [22]
 			{
 				{
 					["tipo"] = 2,
@@ -15558,18 +22520,6 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 3102.558855348109,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 25230.008612,
-							["last_event"] = 1606122190,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 25230.008612,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 85.008612,
-							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8092] = {
@@ -15588,14 +22538,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 9016,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -15619,14 +22569,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 750,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -15652,14 +22602,14 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 15464,
 										["c_max"] = 2890,
-										["c_min"] = 2109,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2109,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 6,
@@ -15670,17 +22620,29 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 25230.008612,
+							["damage_taken"] = 85.008612,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 25230.008612,
+							["classe"] = "PRIEST",
+							["last_dps"] = 3102.558855348109,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
 							["grupo"] = true,
 							["end_time"] = 1606122190,
+							["last_event"] = 1606122190,
 							["custom"] = 0,
-							["spec"] = 258,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122181,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68136,
@@ -15693,18 +22655,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["aID"] = "103514",
+							["end_time"] = 1606122190,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 20.008658,
 							["delay"] = 0,
 							["fight_component"] = true,
 							["total"] = 20.008658,
-							["end_time"] = 1606122190,
-							["damage_taken"] = 20199.008658,
+							["aID"] = "103514",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Василиск силового камня",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15724,14 +22686,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 20,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -15742,15 +22704,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1606122183,
-							["on_hold"] = false,
+							["damage_taken"] = 20199.008658,
 							["start_time"] = 1606122183,
 							["serial"] = "Creature-0-3889-1220-177-103514-00003B7A9B",
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -15764,17 +22726,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 22.005471,
 							["aID"] = "97338",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 22.005471,
-							["end_time"] = 1606122190,
 							["monster"] = true,
-							["total"] = 22.005471,
-							["damage_taken"] = 1181.005471,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606122190,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Ужасный плеточник",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15794,14 +22756,14 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 22,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -15812,16 +22774,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122187,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122183,
 							["serial"] = "Creature-0-3889-1220-177-97338-00003B7898",
-							["fight_component"] = true,
+							["damage_taken"] = 1181.005471,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -15835,17 +22797,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 43.007521,
 							["aID"] = "97337",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 43.007521,
-							["end_time"] = 1606122190,
 							["monster"] = true,
-							["total"] = 43.007521,
-							["damage_taken"] = 3850.007521,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606122190,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Поддавшийся порче хранитель",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15865,14 +22827,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 43,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -15883,16 +22845,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122188,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122186,
 							["serial"] = "Creature-0-3889-1220-177-97337-00003B79D7",
-							["fight_component"] = true,
+							["damage_taken"] = 3850.007521,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -15928,39 +22890,13 @@ _detalhes_database = {
 							["healing_taken"] = 1037.006946,
 							["fight_component"] = true,
 							["end_time"] = 1606122190,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122190,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 348,
-										},
-										["n_max"] = 19,
-										["targets"] = {
-											["Алоиза"] = 753,
-										},
-										["n_min"] = 19,
-										["counter"] = 2,
-										["overheal"] = 348,
-										["total"] = 753,
-										["c_max"] = 734,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 734,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 734,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 19,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
 									[269238] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
@@ -15981,12 +22917,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 4,
 										["n_curado"] = 186,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[143924] = {
@@ -16009,12 +22945,40 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 6,
 										["n_curado"] = 98,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+									[270117] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 348,
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Алоиза"] = 753,
+										},
+										["n_min"] = 19,
+										["counter"] = 2,
+										["overheal"] = 348,
+										["total"] = 753,
+										["c_max"] = 734,
+										["id"] = 270117,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 734,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
 										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 19,
+										["c_min"] = 734,
 										["absorbed"] = 0,
 									},
 								},
@@ -16022,15 +22986,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.006946,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122190,
 							["spec"] = 258,
 							["start_time"] = 1606122181,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -16059,9 +23021,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122204,
+							["tipo"] = 3,
 							["alternatepower"] = 0.00252,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -16185,9 +23147,9 @@ _detalhes_database = {
 								[589] = 4,
 								[341263] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122190,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -16334,10 +23296,33 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:03:02",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 25230.008612,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 1037.006946,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 799962.4720000001,
 				["combat_id"] = 3948,
-				["overall_added"] = true,
+				["frags"] = {
+					["Ужасный плеточник"] = 1,
+					["Василиск силового камня"] = 2,
+					["Поддавшийся порче хранитель"] = 1,
+				},
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
 						{
@@ -16372,11 +23357,7 @@ _detalhes_database = {
 						}, -- [6]
 					},
 				},
-				["frags"] = {
-					["Ужасный плеточник"] = 1,
-					["Василиск силового камня"] = 2,
-					["Поддавшийся порче хранитель"] = 1,
-				},
+				["overall_added"] = true,
 				["combat_counter"] = 4211,
 				["CombatSkillCache"] = {
 				},
@@ -16404,27 +23385,8 @@ _detalhes_database = {
 				["start_time"] = 799954.188,
 				["TimeData"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 25230.008612,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 1037.006946,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-			}, -- [15]
+				["data_inicio"] = "11:03:02",
+			}, -- [23]
 			{
 				{
 					["tipo"] = 2,
@@ -16446,22 +23408,20 @@ _detalhes_database = {
 							["pets"] = {
 								"Подчинитель разума <Алоиза>", -- [1]
 							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 16369.43781924235,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 916482.006499,
-							["tipo"] = 1,
+							["spec"] = 258,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["total"] = 951670.006499,
 							["friendlyfire_total"] = 0,
-							["damage_taken"] = 27292.006499,
+							["last_dps"] = 16369.43781924235,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["end_time"] = 1606122126,
 							["spells"] = {
 								["_ActorTable"] = {
 									[346111] = {
@@ -16480,14 +23440,14 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 10440,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 346111,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 9,
@@ -16511,14 +23471,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 12379,
 										["c_max"] = 12379,
-										["c_min"] = 12379,
+										["r_amt"] = 0,
 										["id"] = 228360,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 12379,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -16542,14 +23502,14 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 28343,
 										["c_max"] = 5267,
-										["c_min"] = 4980,
+										["r_amt"] = 0,
 										["id"] = 269031,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 4980,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -16573,14 +23533,14 @@ _detalhes_database = {
 										["counter"] = 35,
 										["total"] = 82815,
 										["c_max"] = 4076,
-										["c_min"] = 3001,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3001,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 24,
@@ -16604,14 +23564,14 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 40019,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295374,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -16635,14 +23595,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 63865,
 										["c_max"] = 18559,
-										["c_min"] = 17985,
+										["r_amt"] = 0,
 										["id"] = 205448,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 17985,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 3,
@@ -16667,14 +23627,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 11550,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 228361,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -16698,14 +23658,14 @@ _detalhes_database = {
 										["counter"] = 21,
 										["total"] = 135327,
 										["c_max"] = 12406,
-										["c_min"] = 6204,
+										["r_amt"] = 0,
 										["id"] = 295367,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 6204,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 15,
@@ -16729,14 +23689,14 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 11951,
 										["c_max"] = 1639,
-										["c_min"] = 1574,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1574,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 7,
@@ -16760,14 +23720,14 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 78050,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 8092,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 7,
@@ -16791,14 +23751,14 @@ _detalhes_database = {
 										["counter"] = 25,
 										["total"] = 113083,
 										["c_max"] = 24631,
-										["c_min"] = 3526,
+										["r_amt"] = 0,
 										["id"] = 34914,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3526,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 15,
@@ -16822,14 +23782,14 @@ _detalhes_database = {
 										["counter"] = 20,
 										["total"] = 98422,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 148859,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 20,
@@ -16853,14 +23813,14 @@ _detalhes_database = {
 										["counter"] = 19,
 										["total"] = 135214,
 										["c_max"] = 12935,
-										["c_min"] = 5662,
+										["r_amt"] = 0,
 										["id"] = 335467,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5662,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 14,
@@ -16884,14 +23844,14 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 30009,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295368,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 9,
@@ -16915,14 +23875,14 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 16699,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 15407,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 9,
@@ -16946,14 +23906,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 29605,
 										["c_max"] = 10293,
-										["c_min"] = 10293,
+										["r_amt"] = 0,
 										["id"] = 295305,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 10293,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
@@ -16977,14 +23937,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 18711,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32379,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -16995,14 +23955,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["end_time"] = 1606122126,
+							["tipo"] = 1,
 							["custom"] = 0,
 							["colocacao"] = 1,
 							["last_event"] = 1606122126,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 27292.006499,
 							["start_time"] = 1606122068,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["aID"] = "1602-04F44A64",
 						}, -- [1]
 						{
 							["flag_original"] = 8465,
@@ -17014,16 +23976,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["aID"] = "62982",
 							["tipo"] = 1,
 							["classe"] = "PET",
-							["aID"] = "62982",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 35188.007221,
 							["delay"] = 1606122081,
 							["dps_started"] = false,
 							["end_time"] = 1606122126,
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
 							["spells"] = {
@@ -17044,14 +24007,14 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 35188,
 										["c_max"] = 7119,
-										["c_min"] = 7119,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 7119,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 8,
@@ -17067,11 +24030,10 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606122081,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606122116,
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7A58",
-							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -17088,17 +24050,17 @@ _detalhes_database = {
 							["delay"] = 1606122153,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "108678",
+							["friendlyfire_total"] = 0,
+							["end_time"] = 1606122181,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 20931.004703,
-							["total"] = 20931.004703,
 							["fight_component"] = true,
-							["end_time"] = 1606122181,
-							["damage_taken"] = 1100975.004703,
-							["on_hold"] = false,
+							["monster"] = true,
+							["total"] = 20931.004703,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Шар'тос",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17119,14 +24081,14 @@ _detalhes_database = {
 										["counter"] = 36,
 										["total"] = 12576,
 										["c_max"] = 707,
-										["c_min"] = 556,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 556,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 33,
@@ -17153,10 +24115,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 216043,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
@@ -17182,10 +24144,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 216044,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
@@ -17213,10 +24175,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 215821,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
@@ -17242,10 +24204,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 215860,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
@@ -17272,10 +24234,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 215806,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
@@ -17287,16 +24249,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["classe"] = "UNKNOW",
-							["custom"] = 0,
-							["last_event"] = 1606122153,
 							["friendlyfire"] = {
 							},
+							["dps_started"] = false,
+							["on_hold"] = false,
+							["custom"] = 0,
+							["last_event"] = 1606122153,
+							["damage_taken"] = 1100975.004703,
 							["start_time"] = 1606122096,
 							["serial"] = "Creature-0-3889-1220-177-108678-00003B79A2",
-							["monster"] = true,
+							["aID"] = "108678",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -17307,20 +24269,19 @@ _detalhes_database = {
 								["Алоиза"] = 9430,
 							},
 							["spellicon"] = 136149,
-							["fight_component"] = true,
-							["friendlyfire"] = {
-							},
-							["friendlyfire_total"] = 0,
+							["end_time"] = 1606122126,
+							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9430.001162,
 							["pets"] = {
 							},
-							["last_event"] = 1606122119,
-							["dps_started"] = false,
-							["end_time"] = 1606122126,
+							["damage_taken"] = 0.001162,
+							["fight_component"] = true,
+							["total"] = 9430.001162,
 							["delay"] = 0,
-							["classe"] = "UNKNOW",
+							["aID"] = "",
 							["nome"] = "[*] Слово Тьмы: Смерть",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17340,14 +24301,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 9430,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 32409,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -17358,16 +24319,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.001162,
-							["monster"] = true,
-							["total"] = 9430.001162,
-							["aID"] = "",
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["last_event"] = 1606122119,
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["start_time"] = 1606122119,
 							["serial"] = "",
-							["last_dps"] = 0,
+							["on_hold"] = false,
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -17378,20 +24340,19 @@ _detalhes_database = {
 								["Алоиза"] = 105,
 							},
 							["spellicon"] = 1357803,
-							["fight_component"] = true,
-							["friendlyfire"] = {
-							},
-							["friendlyfire_total"] = 0,
+							["end_time"] = 1606122126,
+							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 105.006986,
 							["pets"] = {
 							},
-							["last_event"] = 1606122096,
-							["dps_started"] = false,
-							["end_time"] = 1606122126,
+							["damage_taken"] = 0.006986,
+							["fight_component"] = true,
+							["total"] = 105.006986,
 							["delay"] = 1606122096,
-							["classe"] = "UNKNOW",
+							["aID"] = "",
 							["nome"] = "[*] Пылающая земля",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17411,14 +24372,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 105,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 215876,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -17429,16 +24390,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.006986,
-							["monster"] = true,
-							["total"] = 105.006986,
-							["aID"] = "",
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["last_event"] = 1606122096,
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["start_time"] = 1606122125,
 							["serial"] = "",
-							["last_dps"] = 0,
+							["on_hold"] = false,
 						}, -- [5]
 						{
 							["flag_original"] = 2600,
@@ -17450,15 +24412,15 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
-							["total"] = 0.003498,
-							["aID"] = "94193",
+							["end_time"] = 1606122126,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003498,
 							["delay"] = 0,
 							["fight_component"] = true,
-							["end_time"] = 1606122126,
+							["total"] = 0.003498,
 							["friendlyfire_total"] = 0,
 							["damage_taken"] = 5193.003498,
 							["nome"] = "Жуткая личинка",
@@ -17467,16 +24429,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606122126,
 							["serial"] = "Creature-0-3889-1220-177-94193-00003B7980",
-							["classe"] = "UNKNOW",
+							["aID"] = "94193",
 						}, -- [6]
 					},
 				}, -- [1]
@@ -17512,37 +24474,39 @@ _detalhes_database = {
 							["healing_taken"] = 19082.001045,
 							["fight_component"] = true,
 							["end_time"] = 1606122126,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606122126,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
-									[335467] = {
-										["c_amt"] = 0,
+									[298318] = {
+										["c_amt"] = 1,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Алоиза"] = 66236,
+											["Алоиза"] = 4374,
 										},
-										["n_max"] = 658,
+										["n_max"] = 39,
 										["targets"] = {
-											["Алоиза"] = 1365,
+											["Алоиза"] = 348,
 										},
 										["n_min"] = 0,
-										["counter"] = 19,
-										["overheal"] = 66236,
-										["total"] = 1365,
-										["c_max"] = 0,
-										["id"] = 335467,
+										["counter"] = 4,
+										["overheal"] = 4374,
+										["total"] = 348,
+										["c_max"] = 309,
+										["id"] = 298318,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 0,
+										["c_curado"] = 309,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 19,
-										["n_curado"] = 1365,
 										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 39,
+										["c_min"] = 309,
 										["absorbed"] = 0,
 									},
 									[143924] = {
@@ -17565,12 +24529,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 28,
 										["n_curado"] = 4784,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[34914] = {
@@ -17593,12 +24557,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 16,
 										["n_curado"] = 6822,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[269238] = {
@@ -17620,68 +24584,40 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 749,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
-									[298318] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 4374,
-										},
-										["n_max"] = 39,
-										["targets"] = {
-											["Алоиза"] = 348,
-										},
-										["n_min"] = 0,
-										["counter"] = 4,
-										["overheal"] = 4374,
-										["total"] = 348,
-										["c_max"] = 309,
-										["id"] = 298318,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 309,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 309,
-										["totaldenied"] = 0,
-										["n_amt"] = 3,
-										["n_curado"] = 39,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[295310] = {
+									[335467] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Алоиза"] = 1150,
+											["Алоиза"] = 66236,
 										},
-										["n_max"] = 219,
+										["n_max"] = 658,
 										["targets"] = {
-											["Алоиза"] = 1468,
+											["Алоиза"] = 1365,
 										},
-										["n_min"] = 211,
-										["counter"] = 12,
-										["overheal"] = 1150,
-										["total"] = 1468,
+										["n_min"] = 0,
+										["counter"] = 19,
+										["overheal"] = 66236,
+										["total"] = 1365,
 										["c_max"] = 0,
-										["id"] = 295310,
+										["id"] = 335467,
 										["targets_absorbs"] = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 12,
-										["n_curado"] = 1468,
 										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 19,
+										["n_curado"] = 1365,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[270117] = {
@@ -17704,12 +24640,40 @@ _detalhes_database = {
 										},
 										["c_curado"] = 1361,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 273,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 7,
 										["n_curado"] = 2185,
+										["c_min"] = 273,
+										["absorbed"] = 0,
+									},
+									[295310] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Алоиза"] = 1150,
+										},
+										["n_max"] = 219,
+										["targets"] = {
+											["Алоиза"] = 1468,
+										},
+										["n_min"] = 211,
+										["counter"] = 12,
+										["overheal"] = 1150,
+										["total"] = 1468,
+										["c_max"] = 0,
+										["id"] = 295310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
 										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 12,
+										["n_curado"] = 1468,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -17717,15 +24681,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.001045,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606122126,
 							["spec"] = 258,
 							["start_time"] = 1606122069,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -17755,9 +24717,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122181,
+							["tipo"] = 3,
 							["alternatepower"] = 0.002342,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -17783,8 +24745,8 @@ _detalhes_database = {
 							},
 							["passiveover"] = 0.008225,
 							["received"] = 0.008225,
-							["last_event"] = 1606122081,
 							["tipo"] = 3,
+							["last_event"] = 1606122081,
 							["classe"] = "PET",
 							["total"] = 0.008225,
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7A58",
@@ -17811,16 +24773,16 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 3,
 									},
-									[589] = {
+									[295367] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 0,
-										["refreshamt"] = 3,
-										["id"] = 589,
-										["uptime"] = 56,
+										["refreshamt"] = 2,
+										["id"] = 295367,
+										["uptime"] = 41,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["appliedamt"] = 3,
 									},
 									[345219] = {
 										["counter"] = 0,
@@ -17833,27 +24795,16 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 2,
 									},
-									[15407] = {
+									[34914] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 0,
-										["refreshamt"] = 1,
-										["id"] = 15407,
-										["uptime"] = 5,
+										["refreshamt"] = 3,
+										["id"] = 34914,
+										["uptime"] = 56,
 										["targets"] = {
 										},
-										["appliedamt"] = 2,
-									},
-									[295367] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 2,
-										["id"] = 295367,
-										["uptime"] = 41,
-										["targets"] = {
-										},
-										["appliedamt"] = 3,
+										["appliedamt"] = 1,
 									},
 									[335467] = {
 										["counter"] = 0,
@@ -17877,16 +24828,27 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 2,
 									},
-									[34914] = {
+									[589] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 0,
 										["refreshamt"] = 3,
-										["id"] = 34914,
+										["id"] = 589,
 										["uptime"] = 56,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
+									},
+									[15407] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 1,
+										["id"] = 15407,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
 									},
 								},
 								["tipo"] = 9,
@@ -18119,16 +25081,16 @@ _detalhes_database = {
 								[8092] = 6,
 								[295373] = 3,
 								[205448] = 5,
-								[313948] = 1,
-								[200174] = 1,
 								[341263] = 21,
+								[200174] = 1,
+								[313948] = 1,
 								[335467] = 5,
 								[228260] = 1,
 								[32379] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606122126,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -18142,12 +25104,12 @@ _detalhes_database = {
 							["flag_original"] = 8465,
 							["ownerName"] = "Алоиза",
 							["nome"] = "Подчинитель разума <Алоиза>",
-							["classe"] = "PET",
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["aID"] = "62982",
-							["tipo"] = 4,
 							["last_event"] = 0,
+							["classe"] = "PET",
 							["serial"] = "Creature-0-3889-1220-177-62982-00003B7A58",
 							["spell_cast"] = {
 								[63619] = 2,
@@ -18155,9 +25117,9 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
-							["monster"] = true,
+							["last_event"] = 0,
 							["nome"] = "Шар'тос",
-							["aID"] = "108678",
+							["monster"] = true,
 							["pets"] = {
 							},
 							["spell_cast"] = {
@@ -18167,9 +25129,9 @@ _detalhes_database = {
 								[215860] = 2,
 								[215806] = 1,
 							},
-							["classe"] = "UNKNOW",
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["aID"] = "108678",
 							["serial"] = "Creature-0-3889-1220-177-108678-00003B79A2",
 							["fight_component"] = true,
 						}, -- [3]
@@ -18613,9 +25575,188 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "11:01:09",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 951670.006499,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 19082.001045,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 799899.2270000001,
 				["combat_id"] = 3947,
+				["data_inicio"] = "11:01:09",
+				["tempo_start"] = 1606122068,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							799841.09, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [1]
+						{
+							799842.666, -- [1]
+							295373, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [2]
+						{
+							799843.4990000001, -- [1]
+							313948, -- [2]
+							"", -- [3]
+						}, -- [3]
+						{
+							799844.54, -- [1]
+							200174, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [4]
+						{
+							799845.735, -- [1]
+							34914, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [5]
+						{
+							799848.285, -- [1]
+							228260, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [6]
+						{
+							799848.405, -- [1]
+							205448, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [7]
+						{
+							799849.644, -- [1]
+							335467, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [8]
+						{
+							799850.876, -- [1]
+							295373, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [9]
+						{
+							799852.078, -- [1]
+							205448, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [10]
+						{
+							799854.453, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [11]
+						{
+							799854.453, -- [1]
+							335467, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [12]
+						{
+							799860.456, -- [1]
+							205448, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [13]
+						{
+							799862.96, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [14]
+						{
+							799863.185, -- [1]
+							335467, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [15]
+						{
+							799864.366, -- [1]
+							205448, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [16]
+						{
+							799866.8740000001, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [17]
+						{
+							799867.958, -- [1]
+							205448, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [18]
+						{
+							799869.21, -- [1]
+							335467, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [19]
+						{
+							799876.478, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [20]
+						{
+							799876.8200000001, -- [1]
+							295373, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [21]
+						{
+							799879.4010000001, -- [1]
+							34914, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [22]
+						{
+							799879.653, -- [1]
+							15407, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [23]
+						{
+							799881.203, -- [1]
+							34914, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [24]
+						{
+							799883.703, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [25]
+						{
+							799884.65, -- [1]
+							335467, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [26]
+						{
+							799891.211, -- [1]
+							32379, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [27]
+						{
+							799894.223, -- [1]
+							8092, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [28]
+						{
+							799894.42, -- [1]
+							15407, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [29]
+						{
+							799896.772, -- [1]
+							15407, -- [2]
+							"Шар'тос", -- [3]
+						}, -- [30]
+					},
+				},
+				["contra"] = "Шар'тос",
+				["combat_counter"] = 4210,
+				["CombatSkillCache"] = {
+				},
 				["player_last_events"] = {
 					["Алоиза"] = {
 						{
@@ -18795,185 +25936,6 @@ _detalhes_database = {
 						["n"] = 12,
 					},
 				},
-				["tempo_start"] = 1606122068,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799841.09, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [1]
-						{
-							799842.666, -- [1]
-							295373, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [2]
-						{
-							799843.4990000001, -- [1]
-							313948, -- [2]
-							"", -- [3]
-						}, -- [3]
-						{
-							799844.54, -- [1]
-							200174, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [4]
-						{
-							799845.735, -- [1]
-							34914, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [5]
-						{
-							799848.285, -- [1]
-							228260, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [6]
-						{
-							799848.405, -- [1]
-							205448, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [7]
-						{
-							799849.644, -- [1]
-							335467, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [8]
-						{
-							799850.876, -- [1]
-							295373, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [9]
-						{
-							799852.078, -- [1]
-							205448, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [10]
-						{
-							799854.453, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [11]
-						{
-							799854.453, -- [1]
-							335467, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [12]
-						{
-							799860.456, -- [1]
-							205448, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [13]
-						{
-							799862.96, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [14]
-						{
-							799863.185, -- [1]
-							335467, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [15]
-						{
-							799864.366, -- [1]
-							205448, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [16]
-						{
-							799866.8740000001, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [17]
-						{
-							799867.958, -- [1]
-							205448, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [18]
-						{
-							799869.21, -- [1]
-							335467, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [19]
-						{
-							799876.478, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [20]
-						{
-							799876.8200000001, -- [1]
-							295373, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [21]
-						{
-							799879.4010000001, -- [1]
-							34914, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [22]
-						{
-							799879.653, -- [1]
-							15407, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [23]
-						{
-							799881.203, -- [1]
-							34914, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [24]
-						{
-							799883.703, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [25]
-						{
-							799884.65, -- [1]
-							335467, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [26]
-						{
-							799891.211, -- [1]
-							32379, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [27]
-						{
-							799894.223, -- [1]
-							8092, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [28]
-						{
-							799894.42, -- [1]
-							15407, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [29]
-						{
-							799896.772, -- [1]
-							15407, -- [2]
-							"Шар'тос", -- [3]
-						}, -- [30]
-					},
-				},
-				["contra"] = "Шар'тос",
-				["combat_counter"] = 4210,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 951670.006499,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 19082.001045,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
 				["start_time"] = 799841.09,
 				["TimeData"] = {
 				},
@@ -18981,7 +25943,7 @@ _detalhes_database = {
 					["Жуткая личинка"] = 1,
 					["Шар'тос"] = 1,
 				},
-			}, -- [16]
+			}, -- [24]
 			{
 				{
 					["tipo"] = 2,
@@ -18998,18 +25960,6 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 1304.312233840375,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 2906.007657,
-							["last_event"] = 1606121930,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 2906.007657,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 0.007657,
-							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -19028,14 +25978,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2157,
 										["c_max"] = 2157,
-										["c_min"] = 2157,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2157,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 0,
@@ -19059,14 +26009,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 749,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -19077,17 +26027,29 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2906.007657,
+							["damage_taken"] = 0.007657,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 2906.007657,
+							["classe"] = "PRIEST",
+							["last_dps"] = 1304.312233840375,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
 							["grupo"] = true,
 							["end_time"] = 1606121931,
+							["last_event"] = 1606121930,
 							["custom"] = 0,
-							["spec"] = 258,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606121929,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -19100,33 +26062,33 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "106358",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003104,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.003104,
 							["damage_taken"] = 2906.003104,
-							["end_time"] = 1606121931,
+							["dps_started"] = false,
+							["total"] = 0.003104,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Проклинательница из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606121931,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606121931,
 							["serial"] = "Creature-0-3889-1220-177-106358-0000BB79C0",
-							["aID"] = "106358",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -19141,7 +26103,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 713.002951,
 							["total_without_pet"] = 0.002951,
 							["total"] = 0.002951,
@@ -19158,7 +26120,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.002951,
 							["healing_taken"] = 0.002951,
 							["end_time"] = 1606121931,
-							["last_event"] = 1606121930,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 713,
 							},
@@ -19185,23 +26147,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.002951,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606121930,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606121930,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -19232,9 +26194,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606122068,
+							["tipo"] = 3,
 							["alternatepower"] = 0.003908,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -19266,7 +26228,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "PRIEST",
+							["aID"] = "1602-04F44A64",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[300919] = {
@@ -19339,18 +26301,18 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 1,
-							["debuff_uptime_targets"] = {
-							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
 							["last_event"] = 1606121931,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 							["buff_uptime"] = 11,
 							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -19468,30 +26430,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "10:58:49",
-				["end_time"] = 799704.06,
-				["combat_id"] = 3946,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121929,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799697.894, -- [1]
-							189999, -- [2]
-							"", -- [3]
-						}, -- [1]
-						{
-							799701.832, -- [1]
-							589, -- [2]
-							"Проклинательница из племени Скального Когтя", -- [3]
-						}, -- [2]
-					},
-				},
-				["contra"] = "Проклинательница из племени Скального Когтя",
-				["combat_counter"] = 4209,
-				["CombatSkillCache"] = {
-				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -19512,13 +26450,37 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 799704.06,
+				["combat_id"] = 3946,
+				["data_inicio"] = "10:58:49",
+				["tempo_start"] = 1606121929,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							799697.894, -- [1]
+							189999, -- [2]
+							"", -- [3]
+						}, -- [1]
+						{
+							799701.832, -- [1]
+							589, -- [2]
+							"Проклинательница из племени Скального Когтя", -- [3]
+						}, -- [2]
+					},
+				},
+				["contra"] = "Проклинательница из племени Скального Когтя",
+				["combat_counter"] = 4209,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
 				["start_time"] = 799701.832,
 				["TimeData"] = {
 				},
 				["frags"] = {
 					["Проклинательница из племени Скального Когтя"] = 1,
 				},
-			}, -- [17]
+			}, -- [25]
 			{
 				{
 					["tipo"] = 2,
@@ -19535,18 +26497,6 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2749.777587229007,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 9253.001581,
-							["last_event"] = 1606121920,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 9253.001581,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 0.001581,
-							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -19565,14 +26515,14 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 9253,
 										["c_max"] = 2608,
-										["c_min"] = 2112,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2112,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -19583,17 +26533,29 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9253.001581,
+							["damage_taken"] = 0.001581,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 9253.001581,
+							["classe"] = "PRIEST",
+							["last_dps"] = 2749.777587229007,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
 							["grupo"] = true,
 							["end_time"] = 1606121920,
+							["last_event"] = 1606121920,
 							["custom"] = 0,
-							["spec"] = 258,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606121917,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -19606,33 +26568,33 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "106369",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003584,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.003584,
 							["damage_taken"] = 9253.003584,
-							["end_time"] = 1606121920,
+							["dps_started"] = false,
+							["total"] = 0.003584,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Охотница из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606121920,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606121920,
 							["serial"] = "Creature-0-3889-1220-177-106369-00003B5B87",
-							["aID"] = "106369",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -19647,7 +26609,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 2123.005007,
 							["total_without_pet"] = 0.005007,
 							["total"] = 0.005007,
@@ -19664,7 +26626,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.005007,
 							["healing_taken"] = 0.005007,
 							["end_time"] = 1606121920,
-							["last_event"] = 1606121920,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 2123,
 							},
@@ -19691,23 +26653,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.005007,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606121920,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606121918,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -19738,9 +26700,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606121929,
+							["tipo"] = 3,
 							["alternatepower"] = 0.005003,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -19850,9 +26812,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[589] = 2,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606121920,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -19977,11 +26939,29 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "10:58:37",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Алоиза"] = 9253.001581,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Алоиза"] = 0.005007,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 799692.7220000001,
 				["combat_id"] = 3945,
-				["player_last_events"] = {
-				},
+				["data_inicio"] = "10:58:37",
 				["tempo_start"] = 1606121917,
 				["spells_cast_timeline"] = {
 					["Player-1602-04F44A64"] = {
@@ -20011,25 +26991,7 @@ _detalhes_database = {
 				["combat_counter"] = 4208,
 				["CombatSkillCache"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 9253.001581,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.005007,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
+				["player_last_events"] = {
 				},
 				["start_time"] = 799689.3470000001,
 				["TimeData"] = {
@@ -20037,7 +26999,7 @@ _detalhes_database = {
 				["frags"] = {
 					["Охотница из племени Скального Когтя"] = 2,
 				},
-			}, -- [18]
+			}, -- [26]
 			{
 				{
 					["tipo"] = 2,
@@ -20054,18 +27016,6 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2256.904252235529,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 4823.004387,
-							["last_event"] = 1606121910,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 4823.004387,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 0.004387,
-							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -20084,14 +27034,14 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 4823,
 										["c_max"] = 2608,
-										["c_min"] = 2608,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2608,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -20102,17 +27052,29 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4823.004387,
+							["damage_taken"] = 0.004387,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 4823.004387,
+							["classe"] = "PRIEST",
+							["last_dps"] = 2256.904252235529,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
 							["grupo"] = true,
 							["end_time"] = 1606121911,
+							["last_event"] = 1606121910,
 							["custom"] = 0,
-							["spec"] = 258,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606121908,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -20125,17 +27087,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "106358",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003545,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.003545,
 							["damage_taken"] = 4823.003545,
-							["end_time"] = 1606121911,
+							["dps_started"] = false,
+							["total"] = 0.003545,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Проклинательница из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20153,17 +27115,17 @@ _detalhes_database = {
 										["n_min"] = 0,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["total"] = 0,
 										["c_max"] = 0,
-										["r_amt"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["id"] = 1,
+										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["a_dmg"] = 0,
@@ -20174,16 +27136,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606121911,
 							["custom"] = 0,
 							["last_event"] = 1606121909,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606121911,
 							["serial"] = "Creature-0-3889-1220-177-106358-00013B79AA",
-							["aID"] = "106358",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -20198,7 +27160,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 708.003644,
 							["total_without_pet"] = 0.003644,
 							["total"] = 0.003644,
@@ -20215,7 +27177,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.003644,
 							["healing_taken"] = 0.003644,
 							["end_time"] = 1606121911,
-							["last_event"] = 1606121910,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 708,
 							},
@@ -20242,23 +27204,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.003644,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606121910,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606121910,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -20289,9 +27251,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606121917,
+							["tipo"] = 3,
 							["alternatepower"] = 0.002252,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -20434,9 +27396,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[589] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606121911,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -20560,9 +27522,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "10:58:28",
-				["end_time"] = 799683.4130000001,
-				["combat_id"] = 3944,
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -20583,6 +27542,9 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 799683.4130000001,
+				["combat_id"] = 3944,
+				["data_inicio"] = "10:58:28",
 				["overall_added"] = true,
 				["frags"] = {
 					["Проклинательница из племени Скального Когтя"] = 1,
@@ -20615,7 +27577,7 @@ _detalhes_database = {
 						}, -- [3]
 					},
 				},
-			}, -- [19]
+			}, -- [27]
 			{
 				{
 					["tipo"] = 2,
@@ -20633,18 +27595,6 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 1154.997434732129,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 3167.002966,
-							["last_event"] = 1606121897,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 3167.002966,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 19.002966,
-							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -20663,14 +27613,14 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 2401,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 2,
@@ -20694,14 +27644,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 766,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 300917,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -20712,17 +27662,29 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 3167.002966,
+							["damage_taken"] = 19.002966,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 3167.002966,
+							["classe"] = "PRIEST",
+							["last_dps"] = 1154.997434732129,
+							["nome"] = "Алоиза",
+							["spec"] = 258,
 							["grupo"] = true,
 							["end_time"] = 1606121898,
+							["last_event"] = 1606121897,
 							["custom"] = 0,
-							["spec"] = 258,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606121894,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -20736,17 +27698,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "106358",
+							["friendlyfire_total"] = 0,
+							["end_time"] = 1606121898,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 19.004572,
-							["total"] = 19.004572,
 							["fight_component"] = true,
-							["end_time"] = 1606121898,
-							["damage_taken"] = 3167.004572,
-							["on_hold"] = false,
+							["monster"] = true,
+							["total"] = 19.004572,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Проклинательница из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20766,14 +27728,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 19,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -20784,16 +27746,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["classe"] = "UNKNOW",
-							["custom"] = 0,
-							["last_event"] = 1606121897,
 							["friendlyfire"] = {
 							},
+							["dps_started"] = false,
+							["on_hold"] = false,
+							["custom"] = 0,
+							["last_event"] = 1606121897,
+							["damage_taken"] = 3167.004572,
 							["start_time"] = 1606121897,
 							["serial"] = "Creature-0-3889-1220-177-106358-00013B790B",
-							["monster"] = true,
+							["aID"] = "106358",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -20829,8 +27791,10 @@ _detalhes_database = {
 							["healing_taken"] = 19.005228,
 							["fight_component"] = true,
 							["end_time"] = 1606121898,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121897,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20854,12 +27818,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 19,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[269238] = {
@@ -20882,12 +27846,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -20895,15 +27859,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.005228,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606121897,
 							["spec"] = 258,
 							["start_time"] = 1606121897,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -20932,9 +27894,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606121908,
+							["tipo"] = 3,
 							["alternatepower"] = 0.006129,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -21053,9 +28015,9 @@ _detalhes_database = {
 							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606121898,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -21180,25 +28142,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "10:58:15",
-				["end_time"] = 799670.859,
-				["combat_id"] = 3943,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121894,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799667.207, -- [1]
-							589, -- [2]
-							"Проклинательница из племени Скального Когтя", -- [3]
-						}, -- [1]
-					},
-				},
-				["contra"] = "Проклинательница из племени Скального Когтя",
-				["combat_counter"] = 4206,
-				["CombatSkillCache"] = {
-				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -21219,13 +28162,32 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 799670.859,
+				["combat_id"] = 3943,
+				["data_inicio"] = "10:58:15",
+				["tempo_start"] = 1606121894,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							799667.207, -- [1]
+							589, -- [2]
+							"Проклинательница из племени Скального Когтя", -- [3]
+						}, -- [1]
+					},
+				},
+				["contra"] = "Проклинательница из племени Скального Когтя",
+				["combat_counter"] = 4206,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
 				["start_time"] = 799667.207,
 				["TimeData"] = {
 				},
 				["frags"] = {
 					["Проклинательница из племени Скального Когтя"] = 1,
 				},
-			}, -- [20]
+			}, -- [28]
 			{
 				{
 					["tipo"] = 2,
@@ -21242,22 +28204,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 37310.07588,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3731.007588,
-							["last_event"] = 1606121888,
+							["damage_taken"] = 0.007588,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606121889,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 0.007588,
+							["last_dps"] = 37310.07588,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 3731.007588,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -21276,14 +28234,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1083,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -21307,14 +28265,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2648,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 269031,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -21325,13 +28283,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 3731.007588,
+							["last_event"] = 1606121888,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606121888,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -21344,33 +28306,33 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "106358",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.001967,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.001967,
 							["damage_taken"] = 3731.001967,
-							["end_time"] = 1606121889,
+							["dps_started"] = false,
+							["total"] = 0.001967,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Проклинательница из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606121889,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606121889,
 							["serial"] = "Creature-0-3889-1220-177-106358-0000BB790B",
-							["aID"] = "106358",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -21385,7 +28347,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "1602-04F44A64",
 							["totalover"] = 1437.003032,
 							["total_without_pet"] = 0.003032,
 							["total"] = 0.003032,
@@ -21402,7 +28364,7 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.003032,
 							["healing_taken"] = 0.003032,
 							["end_time"] = 1606121889,
-							["last_event"] = 1606121888,
+							["tipo"] = 2,
 							["targets_overheal"] = {
 								["Алоиза"] = 1437,
 							},
@@ -21429,23 +28391,23 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 0,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.003032,
 							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
+							["last_event"] = 1606121888,
+							["classe"] = "PRIEST",
 							["start_time"] = 1606121888,
 							["delay"] = 0,
 							["spec"] = 258,
@@ -21476,9 +28438,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606121894,
+							["tipo"] = 3,
 							["alternatepower"] = 0.002348,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -21521,7 +28483,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "PRIEST",
+							["aID"] = "1602-04F44A64",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[300919] = {
@@ -21594,18 +28556,18 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
+							["nome"] = "Алоиза",
 							["spec"] = 258,
 							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
 							["last_event"] = 1606121889,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 							["buff_uptime"] = 6,
 							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -21711,25 +28673,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "10:58:09",
-				["end_time"] = 799661.9010000001,
-				["combat_id"] = 3942,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121888,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799660.96, -- [1]
-							589, -- [2]
-							"Проклинательница из племени Скального Когтя", -- [3]
-						}, -- [1]
-					},
-				},
-				["contra"] = "Проклинательница из племени Скального Когтя",
-				["combat_counter"] = 4205,
-				["CombatSkillCache"] = {
-				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -21750,13 +28693,32 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 799661.9010000001,
+				["combat_id"] = 3942,
+				["data_inicio"] = "10:58:09",
+				["tempo_start"] = 1606121888,
+				["spells_cast_timeline"] = {
+					["Player-1602-04F44A64"] = {
+						{
+							799660.96, -- [1]
+							589, -- [2]
+							"Проклинательница из племени Скального Когтя", -- [3]
+						}, -- [1]
+					},
+				},
+				["contra"] = "Проклинательница из племени Скального Когтя",
+				["combat_counter"] = 4205,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
 				["start_time"] = 799660.96,
 				["TimeData"] = {
 				},
 				["frags"] = {
 					["Проклинательница из племени Скального Когтя"] = 1,
 				},
-			}, -- [21]
+			}, -- [29]
 			{
 				{
 					["tipo"] = 2,
@@ -21775,22 +28737,18 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["aID"] = "1602-04F44A64",
-							["last_dps"] = 3713.417592409939,
+							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 21367.004827,
-							["last_event"] = 1606121885,
+							["damage_taken"] = 51.004827,
 							["delay"] = 0,
 							["dps_started"] = false,
 							["end_time"] = 1606121887,
 							["classe"] = "PRIEST",
-							["damage_taken"] = 51.004827,
+							["last_dps"] = 3713.417592409939,
 							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 21367.004827,
-							["custom"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 									[589] = {
@@ -21810,14 +28768,14 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 8503,
 										["c_max"] = 2608,
-										["c_min"] = 2608,
+										["r_amt"] = 0,
 										["id"] = 589,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 2608,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 5,
@@ -21841,14 +28799,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 12864,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 295374,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -21859,13 +28817,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["grupo"] = true,
+							["total"] = 21367.004827,
+							["last_event"] = 1606121885,
+							["custom"] = 0,
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1606121880,
 							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -21879,17 +28841,17 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["total"] = 51.001676,
 							["aID"] = "106369",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 51.001676,
-							["end_time"] = 1606121887,
 							["monster"] = true,
-							["total"] = 51.001676,
-							["damage_taken"] = 3684.001676,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1606121887,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Охотница из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21907,17 +28869,17 @@ _detalhes_database = {
 										["n_min"] = 0,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["total"] = 0,
 										["c_max"] = 0,
-										["r_amt"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["id"] = 1,
+										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["a_dmg"] = 0,
@@ -21942,10 +28904,10 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 220470,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
 										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
@@ -21970,14 +28932,14 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 51,
 										["c_max"] = 0,
-										["c_min"] = 0,
+										["r_amt"] = 0,
 										["id"] = 220471,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["b_dmg"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 1,
@@ -21988,16 +28950,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1606121882,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606121882,
 							["serial"] = "Creature-0-3889-1220-177-106369-00003B793D",
-							["fight_component"] = true,
+							["damage_taken"] = 3684.001676,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -22010,33 +28972,33 @@ _detalhes_database = {
 							["delay"] = 0,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["aID"] = "106384",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008822,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.008822,
 							["damage_taken"] = 17683.008822,
-							["end_time"] = 1606121887,
+							["dps_started"] = false,
+							["total"] = 0.008822,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Ведьма-мать из племени Скального Когтя",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606121887,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606121887,
 							["serial"] = "Creature-0-3889-1220-177-106384-00003B7974",
-							["aID"] = "106384",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -22072,8 +29034,10 @@ _detalhes_database = {
 							["healing_taken"] = 51.003358,
 							["fight_component"] = true,
 							["end_time"] = 1606121887,
+							["healing_from"] = {
+								["Алоиза"] = true,
+							},
 							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121885,
 							["nome"] = "Алоиза",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -22097,12 +29061,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 2,
 										["n_curado"] = 0,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 									[270117] = {
@@ -22125,12 +29089,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
 										["n_amt"] = 1,
 										["n_curado"] = 51,
-										["m_amt"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
@@ -22138,15 +29102,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["totaldenied"] = 0.003358,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
 							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1606121885,
 							["spec"] = 258,
 							["start_time"] = 1606121881,
 							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
+							["classe"] = "PRIEST",
 						}, -- [1]
 					},
 				}, -- [2]
@@ -22175,9 +29137,9 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 258,
-							["tipo"] = 3,
 							["classe"] = "PRIEST",
 							["last_event"] = 1606121888,
+							["tipo"] = 3,
 							["alternatepower"] = 0.006172,
 							["flag_original"] = 1297,
 							["serial"] = "Player-1602-04F44A64",
@@ -22300,9 +29262,9 @@ _detalhes_database = {
 								[589] = 2,
 								[295373] = 1,
 							},
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["tipo"] = 4,
 							["last_event"] = 1606121887,
 							["aID"] = "1602-04F44A64",
 							["pets"] = {
@@ -22313,17 +29275,17 @@ _detalhes_database = {
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["monster"] = true,
+							["last_event"] = 0,
 							["nome"] = "Охотница из племени Скального Когтя",
-							["aID"] = "106369",
+							["monster"] = true,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[220470] = 1,
 							},
-							["classe"] = "UNKNOW",
 							["tipo"] = 4,
-							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["aID"] = "106369",
 							["serial"] = "Creature-0-3889-1220-177-106369-00003B793D",
 							["fight_component"] = true,
 						}, -- [2]
@@ -22470,9 +29432,6 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = "10:58:00",
-				["end_time"] = 799659.5210000001,
-				["combat_id"] = 3941,
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -22493,6 +29452,9 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["end_time"] = 799659.5210000001,
+				["combat_id"] = 3941,
+				["data_inicio"] = "10:58:00",
 				["overall_added"] = true,
 				["frags"] = {
 					["Охотница из племени Скального Когтя"] = 1,
@@ -22530,5908 +29492,6 @@ _detalhes_database = {
 							"Ведьма-мать из племени Скального Когтя", -- [3]
 						}, -- [4]
 					},
-				},
-			}, -- [22]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3940,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.002659,
-							["damage_from"] = {
-								["Арканор Могучий"] = true,
-							},
-							["targets"] = {
-								["Арканор Могучий"] = 139264,
-							},
-							["pets"] = {
-								"Подчинитель разума <Алоиза>", -- [1]
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 16940.0319497225,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 123911.002659,
-							["last_event"] = 1606121758,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121759,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 288.002659,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 139264.002659,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[15407] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1654,
-										["targets"] = {
-											["Арканор Могучий"] = 3308,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3308,
-										["n_min"] = 1654,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 3308,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 15407,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[295368] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1608,
-										["targets"] = {
-											["Арканор Могучий"] = 3216,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3216,
-										["n_min"] = 1608,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 3216,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 295368,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-									[335467] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 10837,
-										["g_amt"] = 0,
-										["n_max"] = 4536,
-										["targets"] = {
-											["Арканор Могучий"] = 21903,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11066,
-										["n_min"] = 2028,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 21903,
-										["c_max"] = 10837,
-										["c_min"] = 10837,
-										["id"] = 335467,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[34914] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 10545,
-										["targets"] = {
-											["Арканор Могучий"] = 15922,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 15922,
-										["n_min"] = 1703,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 15922,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 34914,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 4,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[8092] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 9168,
-										["targets"] = {
-											["Арканор Могучий"] = 9168,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 9168,
-										["n_min"] = 9168,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 9168,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 8092,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[32379] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 32141,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Арканор Могучий"] = 32141,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 32141,
-										["c_max"] = 32141,
-										["c_min"] = 32141,
-										["id"] = 32379,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[346111] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1079,
-										["targets"] = {
-											["Арканор Могучий"] = 4033,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4033,
-										["n_min"] = 539,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 4033,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 346111,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 5,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[148859] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4005,
-										["targets"] = {
-											["Арканор Могучий"] = 11676,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11676,
-										["n_min"] = 3699,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 11676,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 148859,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[295374] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 6432,
-										["targets"] = {
-											["Арканор Могучий"] = 6432,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6432,
-										["n_min"] = 6432,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 6432,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 295374,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-									[589] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 3127,
-										["g_amt"] = 0,
-										["n_max"] = 1563,
-										["targets"] = {
-											["Арканор Могучий"] = 9151,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6024,
-										["n_min"] = 1449,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 9151,
-										["c_max"] = 3127,
-										["c_min"] = 3127,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 4,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[269031] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 2507,
-										["targets"] = {
-											["Арканор Могучий"] = 2507,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2507,
-										["n_min"] = 2507,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2507,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 269031,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									},
-									[295305] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4454,
-										["targets"] = {
-											["Арканор Могучий"] = 4454,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4454,
-										["n_min"] = 4454,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 4454,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 295305,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121750,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.001495,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Арканор Могучий"] = 15353,
-							},
-							["pets"] = {
-							},
-							["tipo"] = 1,
-							["classe"] = "PET",
-							["aID"] = "62982",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 15353.001495,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121759,
-							["friendlyfire_total"] = 0,
-							["ownerName"] = "Алоиза",
-							["nome"] = "Подчинитель разума <Алоиза>",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 5130,
-										["g_amt"] = 0,
-										["n_max"] = 2566,
-										["targets"] = {
-											["Арканор Могучий"] = 15353,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 10223,
-										["n_min"] = 2546,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 15353,
-										["c_max"] = 5130,
-										["c_min"] = 5130,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 4,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["damage_taken"] = 0.001495,
-							["total"] = 15353.001495,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606121758,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121753,
-							["serial"] = "Creature-0-3889-1220-313-62982-00003B791A",
-							["on_hold"] = false,
-						}, -- [2]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.001901,
-							["damage_from"] = {
-								["Алоиза"] = true,
-								["Подчинитель разума <Алоиза>"] = true,
-							},
-							["targets"] = {
-								["Алоиза"] = 288,
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "109641",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 288.001901,
-							["end_time"] = 1606121759,
-							["monster"] = true,
-							["total"] = 288.001901,
-							["damage_taken"] = 139264.001901,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Арканор Могучий",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 138,
-										["g_amt"] = 0,
-										["n_max"] = 84,
-										["targets"] = {
-											["Алоиза"] = 288,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 150,
-										["n_min"] = 66,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["c_min"] = 138,
-										["total"] = 288,
-										["c_max"] = 138,
-										["r_amt"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["b_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_dmg"] = 0,
-										["n_amt"] = 2,
-										["spellschool"] = 1,
-										["DODGE"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 1606121757,
-							["on_hold"] = false,
-							["start_time"] = 1606121751,
-							["serial"] = "Creature-0-3889-1220-313-109641-00003B7906",
-							["fight_component"] = true,
-						}, -- [3]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3940,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Алоиза"] = 13399,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["aID"] = "1602-04F44A64",
-							["totalover"] = 13399.006153,
-							["total_without_pet"] = 288.006153,
-							["total"] = 288.006153,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["colocacao"] = 1,
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 0.006153,
-							["last_hps"] = 35.03298297035821,
-							["targets"] = {
-								["Алоиза"] = 288,
-							},
-							["totalover_without_pet"] = 0.006153,
-							["healing_taken"] = 288.006153,
-							["fight_component"] = true,
-							["end_time"] = 1606121759,
-							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121759,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[143924] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 75,
-										["targets"] = {
-											["Алоиза"] = 119,
-										},
-										["n_min"] = 44,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 119,
-										["c_max"] = 0,
-										["id"] = 143924,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 2,
-										["n_curado"] = 119,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[34914] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 878,
-										},
-										["n_max"] = 40,
-										["targets"] = {
-											["Алоиза"] = 40,
-										},
-										["n_min"] = 40,
-										["counter"] = 1,
-										["overheal"] = 878,
-										["total"] = 40,
-										["c_max"] = 0,
-										["id"] = 34914,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 40,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[269238] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 724,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 724,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[335467] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 10951,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 4,
-										["overheal"] = 10951,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 335467,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 4,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[295310] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 542,
-										},
-										["n_max"] = 63,
-										["targets"] = {
-											["Алоиза"] = 63,
-										},
-										["n_min"] = 0,
-										["counter"] = 3,
-										["overheal"] = 542,
-										["total"] = 63,
-										["c_max"] = 0,
-										["id"] = 295310,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 3,
-										["n_curado"] = 63,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 304,
-										},
-										["n_max"] = 66,
-										["targets"] = {
-											["Алоиза"] = 66,
-										},
-										["n_min"] = 66,
-										["counter"] = 1,
-										["overheal"] = 304,
-										["total"] = 66,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 66,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["totaldenied"] = 0.006153,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 258,
-							["start_time"] = 1606121750,
-							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3940,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.006838,
-							["resource"] = 34.006838,
-							["targets"] = {
-							},
-							["pets"] = {
-								"Подчинитель разума <Алоиза>", -- [1]
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.006838,
-							["fight_component"] = true,
-							["total"] = 0.006838,
-							["totalover"] = 0.006838,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121880,
-							["alternatepower"] = 0.006838,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["resource"] = 25.008644,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "62982",
-							["totalover"] = 0.008644,
-							["alternatepower"] = 0.008644,
-							["ownerName"] = "Алоиза",
-							["nome"] = "Подчинитель разума <Алоиза>",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["passiveover"] = 0.008644,
-							["received"] = 0.008644,
-							["last_event"] = 1606121758,
-							["tipo"] = 3,
-							["classe"] = "PET",
-							["total"] = 0.008644,
-							["serial"] = "Creature-0-3889-1220-313-62982-00003B791A",
-							["resource_type"] = 13,
-						}, -- [2]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3940,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[295368] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 295368,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[34914] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = -1,
-										["refreshamt"] = 0,
-										["id"] = 34914,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 0,
-									},
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = -1,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 0,
-									},
-									[335467] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 335467,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[15407] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 15407,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime"] = 51,
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[15407] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 15407,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 3,
-										["id"] = 45242,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295310] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 295310,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295378] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 295378,
-										["uptime"] = 5,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[341282] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 341282,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 2,
-										["id"] = 304056,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 26,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[200174] = 1,
-								[8092] = 1,
-								[147193] = 3,
-								[15407] = 1,
-								[32379] = 1,
-								[341263] = 3,
-								[295373] = 1,
-								[34914] = 1,
-							},
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1606121759,
-							["aID"] = "1602-04F44A64",
-							["pets"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
-							["debuff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3940,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799645.277,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					139551.990141, -- [1]
-					288, -- [2]
-					{
-						0, -- [1]
-						[0] = -0.005124,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					123911, -- [1]
-					288, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:55:59",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Арканор Могучий",
-				["TotalElapsedCombatTime"] = 799531.511,
-				["CombatEndedAt"] = 799531.511,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[295368] = {
-							["enabled"] = false,
-							["appliedAt"] = 799527.091,
-							["spellId"] = 295368,
-							["data"] = {
-								{
-									799527.091, -- [1]
-									799531.159, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799531.159,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799531.159, -- [1]
-									799531.511, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[15407] = {
-							["enabled"] = false,
-							["appliedAt"] = 799529.666,
-							["spellId"] = 15407,
-							["data"] = {
-								{
-									799529.666, -- [1]
-									799531.159, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295378] = {
-							["enabled"] = false,
-							["appliedAt"] = 799526.979,
-							["spellId"] = 295378,
-							["data"] = {
-								{
-									799526.979, -- [1]
-									799531.511, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295310] = {
-							["enabled"] = false,
-							["appliedAt"] = 799525.479,
-							["spellId"] = 295310,
-							["data"] = {
-								{
-									799525.479, -- [1]
-									799531.511, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[335467] = {
-							["enabled"] = false,
-							["appliedAt"] = 799523.29,
-							["spellId"] = 335467,
-							["data"] = {
-								{
-									799523.29, -- [1]
-									799529.302, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:55:51",
-				["end_time"] = 799531.511,
-				["combat_id"] = 3940,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121750,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799522.954, -- [1]
-							34914, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [1]
-						{
-							799523.29, -- [1]
-							335467, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [2]
-						{
-							799524.527, -- [1]
-							34914, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [3]
-						{
-							799525.7490000001, -- [1]
-							200174, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [4]
-						{
-							799526.979, -- [1]
-							295373, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [5]
-						{
-							799529.574, -- [1]
-							8092, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [6]
-						{
-							799529.666, -- [1]
-							15407, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [7]
-						{
-							799531.159, -- [1]
-							32379, -- [2]
-							"Арканор Могучий", -- [3]
-						}, -- [8]
-					},
-				},
-				["contra"] = "Арканор Могучий",
-				["combat_counter"] = 4203,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 139264.002659,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 288.006153,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["start_time"] = 799523.29,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Арканор Могучий"] = 1,
-				},
-			}, -- [23]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3939,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005338,
-							["damage_from"] = {
-								["Лагунный василиск"] = true,
-								["Арканор Могучий"] = true,
-							},
-							["targets"] = {
-								["Лагунный василиск"] = 6113,
-							},
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2577.15233476695,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 6113.005338,
-							["last_event"] = 1606121665,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121666,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 122.005338,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 6113.005338,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2889,
-										["g_amt"] = 0,
-										["n_max"] = 1213,
-										["targets"] = {
-											["Лагунный василиск"] = 5282,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2393,
-										["n_min"] = 1180,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 5282,
-										["c_max"] = 2889,
-										["c_min"] = 2889,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[300917] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 831,
-										["targets"] = {
-											["Лагунный василиск"] = 831,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 831,
-										["n_min"] = 831,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 831,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 300917,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 8,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121663,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 24.004944,
-							["damage_from"] = {
-								["Алоиза"] = true,
-							},
-							["targets"] = {
-								["Алоиза"] = 24,
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "91128",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 24.004944,
-							["end_time"] = 1606121666,
-							["monster"] = true,
-							["total"] = 24.004944,
-							["damage_taken"] = 6113.004944,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Лагунный василиск",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 24,
-										["targets"] = {
-											["Алоиза"] = 24,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 24,
-										["n_min"] = 24,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 24,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 1606121665,
-							["on_hold"] = false,
-							["start_time"] = 1606121665,
-							["serial"] = "Creature-0-3889-1220-313-91128-00003B67E2",
-							["fight_component"] = true,
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3939,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Алоиза"] = 713,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["aID"] = "1602-04F44A64",
-							["totalover"] = 713.008884,
-							["total_without_pet"] = 24.008884,
-							["total"] = 24.008884,
-							["targets_absorbs"] = {
-								["Алоиза"] = 24,
-							},
-							["heal_enemy"] = {
-							},
-							["colocacao"] = 1,
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 24.008884,
-							["last_hps"] = 13.30132077610368,
-							["targets"] = {
-								["Алоиза"] = 24,
-							},
-							["totalover_without_pet"] = 0.008884,
-							["healing_taken"] = 24.008884,
-							["fight_component"] = true,
-							["end_time"] = 1606121666,
-							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121665,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[17] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 24,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 24,
-										["targets"] = {
-											["Алоиза"] = 24,
-										},
-										["n_min"] = 24,
-										["counter"] = 1,
-										["overheal"] = 0,
-										["total"] = 24,
-										["c_max"] = 0,
-										["id"] = 17,
-										["targets_absorbs"] = {
-											["Алоиза"] = 24,
-										},
-										["c_curado"] = 0,
-										["m_amt"] = 0,
-										["m_crit"] = 0,
-										["totaldenied"] = 0,
-										["c_min"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 24,
-										["m_healed"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-									[269238] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 713,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 713,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["totaldenied"] = 0.008884,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 258,
-							["start_time"] = 1606121665,
-							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3939,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.001853,
-							["resource"] = 5.001853,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.001853,
-							["fight_component"] = true,
-							["total"] = 0.001853,
-							["totalover"] = 0.001853,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121750,
-							["alternatepower"] = 0.001853,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3939,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 1,
-										["id"] = 589,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime"] = 22,
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[267685] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 267685,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[17] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[300919] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 300919,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[111759] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 111759,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 304056,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 2,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1606121666,
-							["aID"] = "1602-04F44A64",
-							["pets"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
-							["debuff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3939,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799521.725,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					6136.986137, -- [1]
-					24, -- [2]
-					{
-						-0.003901, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					6113, -- [1]
-					24, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:54:26",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Лагунный василиск",
-				["TotalElapsedCombatTime"] = 2.371999999973923,
-				["CombatEndedAt"] = 799438.655,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[300919] = {
-							["enabled"] = false,
-							["appliedAt"] = 799436.283,
-							["spellId"] = 300919,
-							["data"] = {
-								{
-									799436.283, -- [1]
-									799438.655, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799436.283,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799436.283, -- [1]
-									799437.843, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[45242] = {
-							["enabled"] = false,
-							["appliedAt"] = 799437.483,
-							["spellId"] = 45242,
-							["data"] = {
-								{
-									799437.483, -- [1]
-									799438.655, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799437.944,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799437.944, -- [1]
-									799438.655, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:54:24",
-				["end_time"] = 799438.655,
-				["combat_id"] = 3939,
-				["player_last_events"] = {
-					["Алоиза"] = {
-						{
-							true, -- [1]
-							1, -- [2]
-							98, -- [3]
-							1606121749.122, -- [4]
-							18860, -- [5]
-							"Арканор Могучий", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-						}, -- [2]
-						{
-						}, -- [3]
-						{
-						}, -- [4]
-						{
-						}, -- [5]
-						{
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 2,
-					},
-				},
-				["tempo_start"] = 1606121663,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799432.14, -- [1]
-							32606, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [1]
-						{
-							799436.283, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [2]
-						{
-							799437.611, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [3]
-					},
-				},
-				["contra"] = "Лагунный василиск",
-				["combat_counter"] = 4202,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 6113.005338,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 24.008884,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["start_time"] = 799436.283,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Лагунный василиск"] = 1,
-				},
-			}, -- [24]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3938,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.001785,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Лагунный василиск"] = 3619,
-							},
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2145.229273815102,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 3619.001785,
-							["last_event"] = 1606121655,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121656,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 0.001785,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 3619.001785,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1445,
-										["targets"] = {
-											["Лагунный василиск"] = 3619,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3619,
-										["n_min"] = 1079,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 3619,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121654,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.007617,
-							["damage_from"] = {
-								["Алоиза"] = true,
-							},
-							["targets"] = {
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.007617,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.007617,
-							["damage_taken"] = 3619.007617,
-							["end_time"] = 1606121656,
-							["nome"] = "Лагунный василиск",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 0,
-							["monster"] = true,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 0,
-							["on_hold"] = false,
-							["start_time"] = 1606121656,
-							["serial"] = "Creature-0-3889-1220-313-91128-0001BB0F90",
-							["aID"] = "91128",
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3938,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["totalover"] = 713.007263,
-							["total_without_pet"] = 0.007263,
-							["total"] = 0.007263,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 0.007263,
-							["last_hps"] = 0,
-							["targets"] = {
-							},
-							["totalover_without_pet"] = 0.007263,
-							["healing_taken"] = 0.007263,
-							["end_time"] = 1606121656,
-							["last_event"] = 1606121655,
-							["targets_overheal"] = {
-								["Алоиза"] = 713,
-							},
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[269238] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 713,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 713,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["classe"] = "PRIEST",
-							["totaldenied"] = 0.007263,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
-							["start_time"] = 1606121655,
-							["delay"] = 0,
-							["spec"] = 258,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3938,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.00752,
-							["resource"] = 12.00752,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.00752,
-							["total"] = 0.00752,
-							["totalover"] = 0.00752,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121663,
-							["alternatepower"] = 0.00752,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3938,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 1,
-										["id"] = 589,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime"] = 13,
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[111759] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 111759,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 304056,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[65081] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 65081,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[267685] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 267685,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[17] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["debuff_uptime"] = 1,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 1,
-							},
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1606121656,
-							["aID"] = "1602-04F44A64",
-							["pets"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
-							["debuff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3938,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["tempo_start"] = 1606121654,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					3619, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					3619, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:54:16",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Лагунный василиск",
-				["TotalElapsedCombatTime"] = 799428.9130000001,
-				["CombatEndedAt"] = 799428.9130000001,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[267685] = {
-							["enabled"] = false,
-							["appliedAt"] = 799428.041,
-							["spellId"] = 267685,
-							["data"] = {
-								{
-									799428.041, -- [1]
-									799428.9130000001, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799426.694,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799426.694, -- [1]
-									799428.29, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[304056] = {
-							["enabled"] = false,
-							["appliedAt"] = 799426.694,
-							["spellId"] = 304056,
-							["data"] = {
-								{
-									799426.694, -- [1]
-									799428.9130000001, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799428.29,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799428.29, -- [1]
-									799428.9130000001, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:54:14",
-				["end_time"] = 799428.9130000001,
-				["combat_id"] = 3938,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 3619.001785,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.007263,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["overall_added"] = true,
-				["frags"] = {
-					["Лагунный василиск"] = 1,
-				},
-				["TimeData"] = {
-				},
-				["combat_counter"] = 4201,
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 799426.694,
-				["contra"] = "Лагунный василиск",
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799422.348, -- [1]
-							32606, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [1]
-						{
-							799424.449, -- [1]
-							17, -- [2]
-							"Алоиза", -- [3]
-						}, -- [2]
-						{
-							799426.694, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [3]
-						{
-							799428.041, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [4]
-					},
-				},
-			}, -- [25]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3937,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006858,
-							["damage_from"] = {
-								["Лагунный василиск"] = true,
-							},
-							["targets"] = {
-								["Лагунный василиск"] = 20112,
-							},
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 2262.572489377417,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 20112.006858,
-							["last_event"] = 1606121625,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121625,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 75.006858,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 20112.006858,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 6656,
-										["g_amt"] = 0,
-										["n_max"] = 1342,
-										["targets"] = {
-											["Лагунный василиск"] = 19345,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 12689,
-										["n_min"] = 1092,
-										["g_dmg"] = 0,
-										["counter"] = 13,
-										["total"] = 19345,
-										["c_max"] = 2254,
-										["c_min"] = 2191,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 10,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[300917] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 767,
-										["targets"] = {
-											["Лагунный василиск"] = 767,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 767,
-										["n_min"] = 767,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 767,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 300917,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 8,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121616,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 75.006232,
-							["damage_from"] = {
-								["Алоиза"] = true,
-							},
-							["targets"] = {
-								["Алоиза"] = 75,
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "91128",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 75.006232,
-							["end_time"] = 1606121625,
-							["monster"] = true,
-							["total"] = 75.006232,
-							["damage_taken"] = 20112.006232,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Лагунный василиск",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 30,
-										["targets"] = {
-											["Алоиза"] = 75,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 75,
-										["n_min"] = 20,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 75,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 1606121622,
-							["on_hold"] = false,
-							["start_time"] = 1606121619,
-							["serial"] = "Creature-0-3889-1220-313-91128-00003B70B0",
-							["fight_component"] = true,
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3937,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Алоиза"] = 4366,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["aID"] = "1602-04F44A64",
-							["totalover"] = 4366.005311,
-							["total_without_pet"] = 75.005311,
-							["total"] = 75.005311,
-							["targets_absorbs"] = {
-								["Алоиза"] = 75,
-							},
-							["heal_enemy"] = {
-							},
-							["colocacao"] = 1,
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 75.005311,
-							["last_hps"] = 8.43799201263167,
-							["targets"] = {
-								["Алоиза"] = 75,
-							},
-							["totalover_without_pet"] = 0.005311,
-							["healing_taken"] = 75.005311,
-							["fight_component"] = true,
-							["end_time"] = 1606121625,
-							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121625,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[269238] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 4366,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 5,
-										["overheal"] = 4366,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 4,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[17] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 75,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 30,
-										["targets"] = {
-											["Алоиза"] = 75,
-										},
-										["n_min"] = 20,
-										["counter"] = 3,
-										["overheal"] = 0,
-										["total"] = 75,
-										["c_max"] = 0,
-										["id"] = 17,
-										["targets_absorbs"] = {
-											["Алоиза"] = 75,
-										},
-										["c_curado"] = 0,
-										["m_amt"] = 0,
-										["m_crit"] = 0,
-										["totaldenied"] = 0,
-										["c_min"] = 0,
-										["n_amt"] = 3,
-										["n_curado"] = 75,
-										["m_healed"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["totaldenied"] = 0.005311,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 258,
-							["start_time"] = 1606121618,
-							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3937,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.006952,
-							["resource"] = 49.006952,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.006952,
-							["fight_component"] = true,
-							["total"] = 0.006952,
-							["totalover"] = 0.006952,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121654,
-							["alternatepower"] = 0.006952,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3937,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 5,
-									},
-									[6788] = {
-										["activedamt"] = -1,
-										["id"] = 6788,
-										["targets"] = {
-										},
-										["actived_at"] = 1606121620,
-										["uptime"] = 0,
-										["counter"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["appliedamt"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime"] = 62,
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 2,
-										["id"] = 45242,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[17] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[65081] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 65081,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[281724] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 281724,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 5,
-										["id"] = 269239,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 3,
-										["id"] = 304056,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[300919] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 3,
-										["id"] = 300919,
-										["uptime"] = 9,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 9,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 5,
-							},
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1606121625,
-							["aID"] = "1602-04F44A64",
-							["pets"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
-							["debuff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3937,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799426.694,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					20187, -- [1]
-					75, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					20112, -- [1]
-					75, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:53:46",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Лагунный василиск",
-				["TotalElapsedCombatTime"] = 8.888999999966472,
-				["CombatEndedAt"] = 799398.003,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[300919] = {
-							["enabled"] = false,
-							["appliedAt"] = 799389.1140000001,
-							["spellId"] = 300919,
-							["data"] = {
-								{
-									799389.1140000001, -- [1]
-									799398.003, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799396.6,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799389.1140000001, -- [1]
-									799396.4550000001, -- [2]
-								}, -- [1]
-								{
-									799396.6, -- [1]
-									799397.781, -- [2]
-								}, -- [2]
-							},
-							["amountUp"] = 0,
-						},
-						[281724] = {
-							["enabled"] = false,
-							["appliedAt"] = 799396.4550000001,
-							["spellId"] = 281724,
-							["data"] = {
-								{
-									799396.4550000001, -- [1]
-									799398.003, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[45242] = {
-							["enabled"] = false,
-							["appliedAt"] = 799391.851,
-							["spellId"] = 45242,
-							["data"] = {
-								{
-									799391.851, -- [1]
-									799398.003, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:53:37",
-				["end_time"] = 799398.003,
-				["combat_id"] = 3937,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121616,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799386.643, -- [1]
-							17, -- [2]
-							"Алоиза", -- [3]
-						}, -- [1]
-						{
-							799389.1140000001, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [2]
-						{
-							799390.306, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [3]
-						{
-							799391.546, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [4]
-						{
-							799393.3200000001, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [5]
-						{
-							799396.6, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [6]
-						{
-							799397.781, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [7]
-					},
-				},
-				["contra"] = "Лагунный василиск",
-				["combat_counter"] = 4200,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 20112.006858,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 75.005311,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["start_time"] = 799389.1140000001,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Лагунный василиск"] = 5,
-				},
-			}, -- [26]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3936,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003033,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Лагунный василиск"] = 7215,
-							},
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 47781.47701733776,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 7215.003033,
-							["last_event"] = 1606121612,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121613,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 0.003033,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 7215.003033,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2161,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Лагунный василиск"] = 2161,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2161,
-										["c_max"] = 2161,
-										["c_min"] = 2161,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[269031] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 5054,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Лагунный василиск"] = 5054,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 5054,
-										["c_max"] = 5054,
-										["c_min"] = 5054,
-										["id"] = 269031,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121612,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.005897,
-							["damage_from"] = {
-								["Алоиза"] = true,
-							},
-							["targets"] = {
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005897,
-							["dps_started"] = false,
-							["fight_component"] = true,
-							["total"] = 0.005897,
-							["damage_taken"] = 7215.005897,
-							["end_time"] = 1606121613,
-							["nome"] = "Лагунный василиск",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 0,
-							["monster"] = true,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 0,
-							["on_hold"] = false,
-							["start_time"] = 1606121613,
-							["serial"] = "Creature-0-3889-1220-313-91128-00003B7417",
-							["aID"] = "91128",
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3936,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["totalover"] = 718.005204,
-							["total_without_pet"] = 0.005204,
-							["total"] = 0.005204,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 0.005204,
-							["last_hps"] = 0,
-							["targets"] = {
-							},
-							["totalover_without_pet"] = 0.005204,
-							["healing_taken"] = 0.005204,
-							["end_time"] = 1606121613,
-							["last_event"] = 1606121612,
-							["targets_overheal"] = {
-								["Алоиза"] = 718,
-							},
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[269238] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 718,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 718,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["classe"] = "PRIEST",
-							["totaldenied"] = 0.005204,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
-							["start_time"] = 1606121612,
-							["delay"] = 0,
-							["spec"] = 258,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3936,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.004205,
-							["resource"] = 9.004204999999999,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.004205,
-							["total"] = 0.004205,
-							["totalover"] = 0.004205,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121616,
-							["alternatepower"] = 0.004205,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3936,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295367] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 295367,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["pets"] = {
-							},
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 304056,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 258,
-							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
-							["last_event"] = 1606121613,
-							["buff_uptime_targets"] = {
-							},
-							["buff_uptime"] = 4,
-							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3936,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799385.164,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					7215, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					7215, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:53:34",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Лагунный василиск",
-				["TotalElapsedCombatTime"] = 1.059000000008382,
-				["CombatEndedAt"] = 799386.223,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799385.164,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799385.164, -- [1]
-									799386.223, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295367] = {
-							["enabled"] = false,
-							["appliedAt"] = 799385.164,
-							["spellId"] = 295367,
-							["data"] = {
-								{
-									799385.164, -- [1]
-									799385.164, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799385.164,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799385.164, -- [1]
-									799385.164, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:53:33",
-				["end_time"] = 799386.223,
-				["combat_id"] = 3936,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121612,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799382.0800000001, -- [1]
-							32606, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [1]
-						{
-							799385.164, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [2]
-					},
-				},
-				["contra"] = "Лагунный василиск",
-				["combat_counter"] = 4199,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 7215.003033,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.005204,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["start_time"] = 799385.164,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Лагунный василиск"] = 1,
-				},
-			}, -- [27]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3935,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.008904,
-							["damage_from"] = {
-								["Лагунный василиск"] = true,
-							},
-							["targets"] = {
-								["Лагунный василиск"] = 4580,
-							},
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 1698.186467899765,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 4580.008904,
-							["last_event"] = 1606121605,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121607,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 26.008904,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 4580.008904,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1324,
-										["targets"] = {
-											["Лагунный василиск"] = 4580,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4580,
-										["n_min"] = 1068,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 4580,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 4,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[269031] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Лагунный василиск"] = 0,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["c_min"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["r_amt"] = 0,
-										["EVADE"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["b_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_dmg"] = 0,
-										["n_amt"] = 0,
-										["id"] = 269031,
-										["spellschool"] = 1,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121603,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.007807,
-							["damage_from"] = {
-								["Алоиза"] = true,
-							},
-							["targets"] = {
-								["Алоиза"] = 26,
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "91128",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 26.007807,
-							["end_time"] = 1606121607,
-							["monster"] = true,
-							["total"] = 26.007807,
-							["damage_taken"] = 4580.007807,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Лагунный василиск",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 26,
-										["targets"] = {
-											["Алоиза"] = 26,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 26,
-										["n_min"] = 26,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 26,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 1606121604,
-							["on_hold"] = false,
-							["start_time"] = 1606121604,
-							["serial"] = "Creature-0-3889-1220-313-91128-00003B76B4",
-							["fight_component"] = true,
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3935,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Алоиза"] = 1781,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["aID"] = "1602-04F44A64",
-							["totalover"] = 1781.008256,
-							["total_without_pet"] = 26.008256,
-							["total"] = 26.008256,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["colocacao"] = 1,
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 0.008256,
-							["last_hps"] = 9.643402298694063,
-							["targets"] = {
-								["Алоиза"] = 26,
-							},
-							["totalover_without_pet"] = 0.008256,
-							["healing_taken"] = 26.008256,
-							["fight_component"] = true,
-							["end_time"] = 1606121607,
-							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121605,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 344,
-										},
-										["n_max"] = 26,
-										["targets"] = {
-											["Алоиза"] = 26,
-										},
-										["n_min"] = 26,
-										["counter"] = 1,
-										["overheal"] = 344,
-										["total"] = 26,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 26,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[269238] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 1437,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 1437,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 0,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["totaldenied"] = 0.008256,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 258,
-							["start_time"] = 1606121604,
-							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3935,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.004092,
-							["resource"] = 17.004092,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.004092,
-							["fight_component"] = true,
-							["total"] = 0.004092,
-							["totalover"] = 0.004092,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121612,
-							["alternatepower"] = 0.004092,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3935,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 1,
-										["id"] = 589,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime"] = 17,
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 45242,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 304056,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 2,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[589] = 2,
-							},
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1606121607,
-							["aID"] = "1602-04F44A64",
-							["pets"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
-							["debuff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3935,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799375.745,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					4606, -- [1]
-					26, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					4580, -- [1]
-					26, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:53:27",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Лагунный василиск",
-				["TotalElapsedCombatTime"] = 3.582999999984168,
-				["CombatEndedAt"] = 799379.328,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[45242] = {
-							["enabled"] = false,
-							["appliedAt"] = 799376.812,
-							["spellId"] = 45242,
-							["data"] = {
-								{
-									799376.812, -- [1]
-									799379.328, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799375.745,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799375.745, -- [1]
-									799378.297, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799378.297,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799378.297, -- [1]
-									799379.328, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:53:23",
-				["end_time"] = 799379.328,
-				["combat_id"] = 3935,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121603,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799371.718, -- [1]
-							289555, -- [2]
-							"", -- [3]
-						}, -- [1]
-						{
-							799375.745, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [2]
-						{
-							799376.963, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [3]
-						{
-							799378.297, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [4]
-					},
-				},
-				["contra"] = "Лагунный василиск",
-				["combat_counter"] = 4198,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 4580.008904,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 26.008256,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["start_time"] = 799375.745,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Лагунный василиск"] = 1,
-				},
-			}, -- [28]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3934,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005338,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Лагунный василиск"] = 11011,
-							},
-							["pets"] = {
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 86700.82944769422,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 11011.005338,
-							["last_event"] = 1606121589,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["total"] = 11011.005338,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 0.005338,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2164,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Лагунный василиск"] = 2164,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2164,
-										["c_max"] = 2164,
-										["c_min"] = 2164,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[295305] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 8847,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Лагунный василиск"] = 8847,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 8847,
-										["c_max"] = 8847,
-										["c_min"] = 8847,
-										["id"] = 295305,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["end_time"] = 1606121590,
-							["custom"] = 0,
-							["spec"] = 258,
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121589,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.003471,
-							["damage_from"] = {
-								["Алоиза"] = true,
-							},
-							["targets"] = {
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "91128",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.003471,
-							["total"] = 0.003471,
-							["fight_component"] = true,
-							["end_time"] = 1606121590,
-							["damage_taken"] = 11011.003471,
-							["on_hold"] = false,
-							["nome"] = "Лагунный василиск",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["classe"] = "UNKNOW",
-							["custom"] = 0,
-							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121590,
-							["serial"] = "Creature-0-3889-1220-313-91128-00003B76BE",
-							["monster"] = true,
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3934,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
-							["totalover"] = 712.003765,
-							["total_without_pet"] = 0.003765,
-							["total"] = 0.003765,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 0.003765,
-							["last_hps"] = 0,
-							["targets"] = {
-							},
-							["totalover_without_pet"] = 0.003765,
-							["healing_taken"] = 0.003765,
-							["end_time"] = 1606121590,
-							["last_event"] = 1606121589,
-							["targets_overheal"] = {
-								["Алоиза"] = 712,
-							},
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[269238] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 712,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 712,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["classe"] = "PRIEST",
-							["totaldenied"] = 0.003765,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["aID"] = "1602-04F44A64",
-							["start_time"] = 1606121589,
-							["delay"] = 0,
-							["spec"] = 258,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3934,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.006094,
-							["resource"] = 9.006094000000001,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.006094,
-							["total"] = 0.006094,
-							["totalover"] = 0.006094,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121603,
-							["alternatepower"] = 0.006094,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3934,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["pets"] = {
-							},
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 304056,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295310] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 295310,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["debuff_uptime"] = 0,
-							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 258,
-							["grupo"] = true,
-							["tipo"] = 4,
-							["nome"] = "Алоиза",
-							["last_event"] = 1606121590,
-							["buff_uptime_targets"] = {
-							},
-							["buff_uptime"] = 5,
-							["serial"] = "Player-1602-04F44A64",
-							["aID"] = "1602-04F44A64",
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3934,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799362.155,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					11011, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["totals_grupo"] = {
-					11011, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:53:11",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Лагунный василиск",
-				["TotalElapsedCombatTime"] = 0.8819999999832362,
-				["CombatEndedAt"] = 799363.037,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799362.2540000001,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799362.2540000001, -- [1]
-									799363.037, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295310] = {
-							["enabled"] = false,
-							["appliedAt"] = 799362.155,
-							["spellId"] = 295310,
-							["data"] = {
-								{
-									799362.155, -- [1]
-									799363.037, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[304056] = {
-							["enabled"] = false,
-							["appliedAt"] = 799362.155,
-							["spellId"] = 304056,
-							["data"] = {
-								{
-									799362.155, -- [1]
-									799363.037, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799362.155,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799362.155, -- [1]
-									799362.2540000001, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "10:53:10",
-				["end_time"] = 799363.037,
-				["combat_id"] = 3934,
-				["player_last_events"] = {
-				},
-				["tempo_start"] = 1606121589,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799359.02, -- [1]
-							265849, -- [2]
-							"Залежи силового камня", -- [3]
-						}, -- [1]
-						{
-							799360.79, -- [1]
-							315014, -- [2]
-							"", -- [3]
-						}, -- [2]
-						{
-							799362.155, -- [1]
-							589, -- [2]
-							"Лагунный василиск", -- [3]
-						}, -- [3]
-					},
-				},
-				["contra"] = "Лагунный василиск",
-				["combat_counter"] = 4197,
-				["CombatSkillCache"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 11011.005338,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 0.003765,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["start_time"] = 799362.155,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Лагунный василиск"] = 1,
-				},
-			}, -- [29]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 3933,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005816,
-							["damage_from"] = {
-								["Страж-громила"] = true,
-							},
-							["targets"] = {
-								["Страж-громила"] = 42575,
-							},
-							["pets"] = {
-								"Подчинитель разума <Алоиза>", -- [1]
-							},
-							["aID"] = "1602-04F44A64",
-							["last_dps"] = 5888.659172352654,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 34878.005816,
-							["last_event"] = 1606121330,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121331,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 222.005816,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["total"] = 42575.005816,
-							["custom"] = 0,
-							["spells"] = {
-								["_ActorTable"] = {
-									[346111] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 270,
-										["targets"] = {
-											["Страж-громила"] = 540,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 540,
-										["n_min"] = 270,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 540,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 346111,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[295374] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 6431,
-										["targets"] = {
-											["Страж-громила"] = 6431,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6431,
-										["n_min"] = 6431,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 6431,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 295374,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-									[295368] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1608,
-										["targets"] = {
-											["Страж-громила"] = 1608,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1608,
-										["n_min"] = 1608,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1608,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 295368,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["extra"] = {
-										},
-										["spellschool"] = 4,
-									},
-									[589] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2647,
-										["g_amt"] = 0,
-										["n_max"] = 1314,
-										["targets"] = {
-											["Страж-громила"] = 6332,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3685,
-										["n_min"] = 1058,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 6332,
-										["c_max"] = 2647,
-										["c_min"] = 2647,
-										["id"] = 589,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[8092] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 16951,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Страж-громила"] = 16951,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 16951,
-										["c_max"] = 16951,
-										["c_min"] = 16951,
-										["id"] = 8092,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["spellschool"] = 32,
-									},
-									[300917] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1510,
-										["g_amt"] = 0,
-										["n_max"] = 756,
-										["targets"] = {
-											["Страж-громила"] = 3016,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1506,
-										["n_min"] = 750,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 3016,
-										["c_max"] = 1510,
-										["c_min"] = 1510,
-										["id"] = 300917,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["spellschool"] = 8,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 1,
-							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121324,
-							["serial"] = "Player-1602-04F44A64",
-							["on_hold"] = false,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["totalabsorbed"] = 0.007182,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Страж-громила"] = 7697,
-							},
-							["pets"] = {
-							},
-							["tipo"] = 1,
-							["classe"] = "PET",
-							["aID"] = "62982",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 7697.007181999999,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1606121331,
-							["friendlyfire_total"] = 0,
-							["ownerName"] = "Алоиза",
-							["nome"] = "Подчинитель разума <Алоиза>",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 2566,
-										["targets"] = {
-											["Страж-громила"] = 7697,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 7697,
-										["n_min"] = 2565,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 7697,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["damage_taken"] = 0.007182,
-							["total"] = 7697.007181999999,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1606121330,
-							["friendlyfire"] = {
-							},
-							["start_time"] = 1606121328,
-							["serial"] = "Creature-0-3889-1220-313-62982-00003B7771",
-							["on_hold"] = false,
-						}, -- [2]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.001317,
-							["damage_from"] = {
-								["Алоиза"] = true,
-								["Подчинитель разума <Алоиза>"] = true,
-							},
-							["targets"] = {
-								["Алоиза"] = 222,
-							},
-							["delay"] = 0,
-							["pets"] = {
-							},
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["aID"] = "88888",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 222.001317,
-							["end_time"] = 1606121331,
-							["monster"] = true,
-							["total"] = 222.001317,
-							["damage_taken"] = 42575.001317,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Страж-громила",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 90,
-										["targets"] = {
-											["Алоиза"] = 222,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 222,
-										["n_min"] = 60,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 222,
-										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["b_dmg"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["extra"] = {
-										},
-										["spellschool"] = 1,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["classe"] = "UNKNOW",
-							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
-							["last_event"] = 1606121329,
-							["on_hold"] = false,
-							["start_time"] = 1606121325,
-							["serial"] = "Creature-0-3889-1220-313-88888-00003B75D4",
-							["fight_component"] = true,
-						}, -- [3]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 3933,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Алоиза"] = 2072,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["aID"] = "1602-04F44A64",
-							["totalover"] = 2072.004818,
-							["total_without_pet"] = 222.004818,
-							["total"] = 222.004818,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["colocacao"] = 1,
-							["on_hold"] = false,
-							["serial"] = "Player-1602-04F44A64",
-							["totalabsorb"] = 0.004818,
-							["last_hps"] = 35.92892345037485,
-							["targets"] = {
-								["Алоиза"] = 222,
-							},
-							["totalover_without_pet"] = 0.004818,
-							["healing_taken"] = 222.004818,
-							["fight_component"] = true,
-							["end_time"] = 1606121331,
-							["heal_enemy_amt"] = 0,
-							["last_event"] = 1606121330,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 644,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 90,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 644,
-										["total"] = 90,
-										["c_max"] = 90,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 90,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 90,
-										["totaldenied"] = 0,
-										["n_amt"] = 0,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[269238] = {
-										["c_amt"] = 1,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 1408,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Алоиза"] = 28,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 1408,
-										["total"] = 28,
-										["c_max"] = 28,
-										["id"] = 269238,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 28,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 28,
-										["totaldenied"] = 0,
-										["n_amt"] = 0,
-										["n_curado"] = 0,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-									[143924] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Алоиза"] = 20,
-										},
-										["n_max"] = 72,
-										["targets"] = {
-											["Алоиза"] = 104,
-										},
-										["n_min"] = 32,
-										["counter"] = 2,
-										["overheal"] = 20,
-										["total"] = 104,
-										["c_max"] = 0,
-										["id"] = 143924,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 2,
-										["n_curado"] = 104,
-										["m_amt"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-								["tipo"] = 3,
-							},
-							["grupo"] = true,
-							["totaldenied"] = 0.004818,
-							["classe"] = "PRIEST",
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 258,
-							["start_time"] = 1606121325,
-							["delay"] = 0,
-							["healing_from"] = {
-								["Алоиза"] = true,
-							},
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 3933,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.004253,
-							["resource"] = 27.004253,
-							["targets"] = {
-							},
-							["pets"] = {
-								"Подчинитель разума <Алоиза>", -- [1]
-							},
-							["powertype"] = 0,
-							["aID"] = "1602-04F44A64",
-							["passiveover"] = 0.004253,
-							["fight_component"] = true,
-							["total"] = 0.004253,
-							["totalover"] = 0.004253,
-							["nome"] = "Алоиза",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["grupo"] = true,
-							["spec"] = 258,
-							["tipo"] = 3,
-							["classe"] = "PRIEST",
-							["last_event"] = 1606121589,
-							["alternatepower"] = 0.004253,
-							["flag_original"] = 1297,
-							["serial"] = "Player-1602-04F44A64",
-							["resource_type"] = 13,
-						}, -- [1]
-						{
-							["flag_original"] = 8465,
-							["resource"] = 15.005375,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["aID"] = "62982",
-							["totalover"] = 0.005375,
-							["alternatepower"] = 0.005375,
-							["ownerName"] = "Алоиза",
-							["nome"] = "Подчинитель разума <Алоиза>",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 7,
-							},
-							["passiveover"] = 0.005375,
-							["received"] = 0.005375,
-							["last_event"] = 1606121330,
-							["tipo"] = 3,
-							["classe"] = "PET",
-							["total"] = 0.005375,
-							["serial"] = "Creature-0-3889-1220-313-62982-00003B7771",
-							["resource_type"] = 13,
-						}, -- [2]
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 3933,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[589] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 589,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295368] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 295368,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295367] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 295367,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["buff_uptime"] = 39,
-							["classe"] = "PRIEST",
-							["buff_uptime_spells"] = {
-								["_ActorTable"] = {
-									[300919] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 2,
-										["id"] = 300919,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[45242] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 2,
-										["id"] = 45242,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[21562] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 21562,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[304056] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 304056,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[295378] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 295378,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[232698] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 232698,
-										["uptime"] = 7,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[269239] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 269239,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 10,
-							["nome"] = "Алоиза",
-							["spec"] = 258,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[8092] = 1,
-								[295373] = 1,
-								[200174] = 1,
-								[341263] = 2,
-							},
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1606121331,
-							["aID"] = "1602-04F44A64",
-							["pets"] = {
-							},
-							["serial"] = "Player-1602-04F44A64",
-							["debuff_uptime_targets"] = {
-							},
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 3933,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Алоиза"] = true,
-				},
-				["CombatStartedAt"] = 799097.003,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					42796.963084, -- [1]
-					222, -- [2]
-					{
-						0, -- [1]
-						[0] = -0.003863,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "10:48:52",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Страж-громила",
-				["TotalElapsedCombatTime"] = 7.229999999981374,
-				["CombatEndedAt"] = 799104.233,
-				["aura_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						[300919] = {
-							["enabled"] = false,
-							["appliedAt"] = 799097.003,
-							["spellId"] = 300919,
-							["data"] = {
-								{
-									799097.003, -- [1]
-									799104.233, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[45242] = {
-							["enabled"] = false,
-							["appliedAt"] = 799097.598,
-							["spellId"] = 45242,
-							["data"] = {
-								{
-									799097.598, -- [1]
-									799104.233, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295378] = {
-							["enabled"] = false,
-							["appliedAt"] = 799099.581,
-							["spellId"] = 295378,
-							["data"] = {
-								{
-									799099.581, -- [1]
-									799104.233, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295367] = {
-							["enabled"] = false,
-							["appliedAt"] = 799101.924,
-							["spellId"] = 295367,
-							["data"] = {
-								{
-									799101.924, -- [1]
-									799103.118, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[304056] = {
-							["enabled"] = false,
-							["appliedAt"] = 799097.003,
-							["spellId"] = 304056,
-							["data"] = {
-								{
-									799097.003, -- [1]
-									799104.233, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[589] = {
-							["enabled"] = false,
-							["appliedAt"] = 799097.003,
-							["spellId"] = 589,
-							["data"] = {
-								{
-									799097.003, -- [1]
-									799103.118, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[295368] = {
-							["enabled"] = false,
-							["appliedAt"] = 799099.581,
-							["spellId"] = 295368,
-							["data"] = {
-								{
-									799099.581, -- [1]
-									799103.118, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-						[269239] = {
-							["enabled"] = false,
-							["appliedAt"] = 799103.118,
-							["spellId"] = 269239,
-							["data"] = {
-								{
-									799103.118, -- [1]
-									799104.233, -- [2]
-								}, -- [1]
-							},
-							["amountUp"] = 0,
-						},
-					},
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Алоиза"] = 42575.005816,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Алоиза"] = 222.004818,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 799104.233,
-				["combat_id"] = 3933,
-				["data_inicio"] = "10:48:45",
-				["tempo_start"] = 1606121324,
-				["spells_cast_timeline"] = {
-					["Player-1602-04F44A64"] = {
-						{
-							799097.003, -- [1]
-							589, -- [2]
-							"Страж-громила", -- [3]
-						}, -- [1]
-						{
-							799099.48, -- [1]
-							295373, -- [2]
-							"Страж-громила", -- [3]
-						}, -- [2]
-						{
-							799100.745, -- [1]
-							200174, -- [2]
-							"Страж-громила", -- [3]
-						}, -- [3]
-						{
-							799103.118, -- [1]
-							8092, -- [2]
-							"Страж-громила", -- [3]
-						}, -- [4]
-					},
-				},
-				["contra"] = "Страж-громила",
-				["combat_counter"] = 4196,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					34878, -- [1]
-					222, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 799097.003,
-				["TimeData"] = {
-				},
-				["frags"] = {
-					["Страж-громила"] = 1,
 				},
 			}, -- [30]
 		},
@@ -28535,14 +29595,14 @@ _detalhes_database = {
 				[196711] = true,
 				[324183] = true,
 				[146739] = 172,
-				[190411] = 44949,
-				[85739] = 44949,
-				[317488] = 317485,
-				[199672] = 1943,
 				[222031] = 199547,
+				[85739] = 44949,
+				[227847] = 50622,
+				[199672] = 1943,
+				[190411] = 44949,
 				[227518] = true,
 				[75] = true,
-				[227847] = 50622,
+				[317488] = 317485,
 				[201428] = true,
 				[7268] = 5143,
 				[52174] = 6544,
@@ -28575,24 +29635,9 @@ _detalhes_database = {
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -28604,11 +29649,26 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 10,
+			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
-			["use_spark"] = true,
-			["author"] = "Details! Team",
+			["y"] = 4.57763671875e-05,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,
@@ -28616,7 +29676,7 @@ _detalhes_database = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
 			["enabled"] = true,
-			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["author"] = "Details! Team",
 			["useclasscolors"] = false,
@@ -28625,7 +29685,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -28737,6 +29797,8 @@ _detalhes_database = {
 			},
 		},
 	},
+	["last_day"] = "04",
+	["last_encounter"] = "Н'Зот Заразитель",
 	["cached_talents"] = {
 	},
 	["announce_prepots"] = {
@@ -28744,10 +29806,8 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "23",
-	["last_encounter"] = "Н'Зот Заразитель",
 	["character_data"] = {
-		["logons"] = 118,
+		["logons"] = 120,
 	},
 	["local_instances_config"] = {
 		{
@@ -28850,11 +29910,11 @@ _detalhes_database = {
 			},
 		}, -- [3]
 	},
-	["combat_id"] = 3981,
+	["combat_id"] = 3989,
 	["savedStyles"] = {
 	},
 	["force_font_outline"] = "",
-	["combat_counter"] = 4250,
+	["combat_counter"] = 4260,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -28867,72 +29927,79 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.039559,
-					["tipo"] = 1,
+					["totalabsorbed"] = 0.081169,
 					["damage_from"] = {
 						["Скверносерд-лазутчик"] = true,
 						["Гнилосердная дриада"] = true,
+						["Дубосерд"] = true,
+						["Жрец моря - предвестник"] = true,
+						["Бешеная визгунья"] = true,
 						["Скверносерд-призыватель"] = true,
 						["Грозный отравитель"] = true,
-						["Бешеная визгунья"] = true,
+						["Бес ужасающего огня"] = true,
 						["Скверносерд-стрелок"] = true,
 						["Цветущий злошип"] = true,
-						["Дубосерд"] = true,
+						["Истерзанный кровопийца"] = true,
 						["Гнилосердный хранитель"] = true,
 						["Зу'шин Преображенный"] = true,
 						["Разъяренный коготь ночи"] = true,
-						["Бес ужасающего огня"] = true,
-						["Истерзанный кровопийца"] = true,
+						["Жрец моря - головорез"] = true,
+						["Перенастроенный уборочный голем"] = true,
 					},
 					["targets"] = {
-						["Верховный друид Глайдалис"] = 0,
+						["Лагунный василиск"] = 0,
 						["Дубосерд"] = 143523,
-						["Скверносерд-лазутчик"] = 31045,
-						["Скверносерд-призыватель"] = 37779,
-						["Арканор Могучий"] = 0,
 						["Бешеная визгунья"] = 39629,
 						["Охотница из племени Скального Когтя"] = 0,
-						["Цветущий злошип"] = 151485,
-						["Лагунный василиск"] = 0,
-						["Страж-громила"] = 0,
 						["Тень Ксавия"] = 0,
-						["Разъяренный коготь ночи"] = 15463,
-						["Проклинательница из племени Скального Когтя"] = 0,
 						["Дресарон"] = 0,
-						["Ужасный плеточник"] = 0,
 						["Истерзанный кровопийца"] = 101206,
-						["Призрачный Коготь"] = 0,
-						["Шар'тос"] = 0,
-						["Ведьма-мать из племени Скального Когтя"] = 0,
-						["Поддавшийся порче хранитель"] = 0,
-						["Измученная дриада"] = 0,
-						["Бес ужасающего огня"] = 36537,
 						["Скверносерд-стрелок"] = 15899,
-						["Жуткая личинка"] = 0,
-						["Василиск силового камня"] = 0,
 						["Гнилосердный хранитель"] = 42295,
 						["Зу'шин Преображенный"] = 28462,
-						["Железнодрев"] = 0,
+						["Мрачноморд Безмозглый"] = 10975,
+						["Скверносерд-лазутчик"] = 31045,
+						["Скверносерд-призыватель"] = 37779,
+						["Долинный байбак"] = 621,
+						["Цветущий злошип"] = 151485,
+						["Страж-громила"] = 0,
+						["Василиск силового камня"] = 0,
+						["Проклинательница из племени Скального Когтя"] = 0,
+						["Бес ужасающего огня"] = 36537,
+						["Ужасный плеточник"] = 0,
+						["Призрачный Коготь"] = 0,
+						["Арканор Могучий"] = 0,
+						["Жрец моря - головорез"] = 16518,
+						["Ведьма-мать из племени Скального Когтя"] = 0,
+						["Разъяренный коготь ночи"] = 15463,
+						["Измученная дриада"] = 0,
+						["Шар'тос"] = 0,
+						["Поддавшийся порче хранитель"] = 0,
+						["Жуткая личинка"] = 0,
 						["Гнилосердная дриада"] = 43746,
 						["Зараженный лесовик"] = 0,
+						["Жрец моря - предвестник"] = 19494,
+						["Железнодрев"] = 0,
+						["Верховный друид Глайдалис"] = 0,
+						["Перенастроенный уборочный голем"] = 71519,
 					},
 					["pets"] = {
 						"Подчинитель разума <Алоиза>", -- [1]
 					},
-					["total"] = 687069.0395589999,
-					["friendlyfire"] = {
-					},
 					["friendlyfire_total"] = 0,
+					["damage_taken"] = 22238.081169,
+					["aID"] = "1602-04F44A64",
 					["raid_targets"] = {
 					},
-					["total_without_pet"] = 652790.0395589999,
-					["last_dps"] = 0,
+					["total_without_pet"] = 764384.081169,
+					["friendlyfire"] = {
+					},
 					["delay"] = 0,
 					["dps_started"] = false,
-					["end_time"] = 1606122441,
-					["aID"] = "1602-04F44A64",
-					["damage_taken"] = 14128.039559,
-					["nome"] = "Алоиза",
+					["total"] = 806196.081169,
+					["classe"] = "PRIEST",
+					["last_dps"] = 0,
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[346111] = {
@@ -28945,195 +30012,209 @@ _detalhes_database = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 7531,
 									["Шар'тос"] = 0,
+									["Перенастроенный уборочный голем"] = 1195,
+									["Арканор Могучий"] = 0,
 									["Зараженный лесовик"] = 0,
 									["Страж-громила"] = 0,
 									["Зу'шин Преображенный"] = 1339,
 									["Железнодрев"] = 0,
-									["Арканор Могучий"] = 0,
+									["Жрец моря - предвестник"] = 89,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 8870,
+								["n_dmg"] = 10154,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 18,
-								["total"] = 8870,
+								["counter"] = 28,
+								["total"] = 10154,
 								["c_max"] = 0,
 								["id"] = 346111,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 18,
+								["n_amt"] = 28,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[228360] = {
-								["c_amt"] = 0,
+								["c_amt"] = 2,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 2332,
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
+									["Жрец моря - предвестник"] = 1181,
+									["Жрец моря - головорез"] = 1151,
 									["Шар'тос"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
+								["counter"] = 2,
+								["total"] = 2332,
+								["c_max"] = 1181,
 								["id"] = 228360,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[269031] = {
-								["c_amt"] = 1,
+								["c_amt"] = 8,
 								["b_amt"] = 0,
-								["c_dmg"] = 344,
+								["c_dmg"] = 2854,
 								["g_amt"] = 0,
 								["n_max"] = 2634,
 								["targets"] = {
-									["Зараженный лесовик"] = 0,
-									["Гнилосердная дриада"] = 2527,
-									["Шар'тос"] = 0,
-									["Лагунный василиск"] = 0,
-									["Бес ужасающего огня"] = 2545,
-									["Арканор Могучий"] = 0,
-									["Цветущий злошип"] = 4980,
 									["Верховный друид Глайдалис"] = 0,
-									["Гнилосердный хранитель"] = 2634,
-									["Зу'шин Преображенный"] = 344,
-									["Василиск силового камня"] = 0,
+									["Перенастроенный уборочный голем"] = 1536,
+									["Цветущий злошип"] = 4980,
+									["Арканор Могучий"] = 0,
 									["Проклинательница из племени Скального Когтя"] = 0,
 									["Дресарон"] = 0,
+									["Жрец моря - предвестник"] = 395,
+									["Василиск силового камня"] = 0,
+									["Шар'тос"] = 0,
+									["Бес ужасающего огня"] = 2545,
+									["Лагунный василиск"] = 0,
+									["Жрец моря - головорез"] = 1125,
+									["Гнилосердный хранитель"] = 2634,
+									["Зу'шин Преображенный"] = 344,
+									["Мрачноморд Безмозглый"] = 557,
+									["Гнилосердная дриада"] = 2527,
+									["Зараженный лесовик"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 12686,
+								["n_dmg"] = 13789,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 6,
-								["total"] = 13030,
-								["c_max"] = 344,
+								["counter"] = 19,
+								["total"] = 16643,
+								["c_max"] = 395,
 								["id"] = 269031,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 5,
+								["n_amt"] = 11,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[589] = {
-								["c_amt"] = 19,
+								["c_amt"] = 40,
 								["b_amt"] = 0,
-								["c_dmg"] = 49902,
+								["c_dmg"] = 61646,
 								["g_amt"] = 0,
 								["n_max"] = 1852,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 15920,
+									["Призрачный Коготь"] = 0,
+									["Лагунный василиск"] = 0,
 									["Скверносерд-призыватель"] = 5430,
+									["Железнодрев"] = 0,
 									["Бешеная визгунья"] = 16260,
 									["Охотница из племени Скального Когтя"] = 0,
 									["Цветущий злошип"] = 17060,
+									["Истерзанный кровопийца"] = 31097,
 									["Страж-громила"] = 0,
 									["Тень Ксавия"] = 0,
 									["Разъяренный коготь ночи"] = 12449,
-									["Проклинательница из племени Скального Когтя"] = 0,
+									["Жрец моря - головорез"] = 665,
 									["Дресарон"] = 0,
 									["Ужасный плеточник"] = 0,
-									["Истерзанный кровопийца"] = 31097,
-									["Призрачный Коготь"] = 0,
-									["Лагунный василиск"] = 0,
+									["Жрец моря - предвестник"] = 3644,
+									["Скверносерд-лазутчик"] = 13511,
+									["Гнилосердная дриада"] = 8830,
 									["Ведьма-мать из племени Скального Когтя"] = 0,
-									["Арканор Могучий"] = 0,
+									["Шар'тос"] = 0,
 									["Измученная дриада"] = 0,
 									["Бес ужасающего огня"] = 22705,
 									["Поддавшийся порче хранитель"] = 0,
-									["Шар'тос"] = 0,
-									["Скверносерд-лазутчик"] = 13511,
-									["Гнилосердная дриада"] = 8830,
-									["Зу'шин Преображенный"] = 2323,
-									["Железнодрев"] = 0,
+									["Арканор Могучий"] = 0,
 									["Василиск силового камня"] = 0,
 									["Зараженный лесовик"] = 0,
+									["Зу'шин Преображенный"] = 2323,
+									["Мрачноморд Безмозглый"] = 2230,
+									["Проклинательница из племени Скального Когтя"] = 0,
+									["Перенастроенный уборочный голем"] = 8751,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 95683,
+								["n_dmg"] = 99229,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 93,
-								["total"] = 145585,
+								["counter"] = 127,
+								["total"] = 160875,
 								["c_max"] = 3661,
 								["id"] = 589,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 74,
+								["n_amt"] = 87,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[295374] = {
-								["c_amt"] = 1,
+								["c_amt"] = 2,
 								["b_amt"] = 0,
-								["c_dmg"] = 3258,
+								["c_dmg"] = 6790,
 								["g_amt"] = 0,
 								["n_max"] = 6431,
 								["targets"] = {
-									["Зу'шин Преображенный"] = 4060,
 									["Дубосерд"] = 6431,
 									["Ведьма-мать из племени Скального Когтя"] = 0,
+									["Шар'тос"] = 0,
+									["Перенастроенный уборочный голем"] = 3196,
+									["Зу'шин Преображенный"] = 4060,
 									["Страж-громила"] = 0,
 									["Тень Ксавия"] = 0,
 									["Арканор Могучий"] = 0,
-									["Шар'тос"] = 0,
+									["Жрец моря - предвестник"] = 4409,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 7233,
+								["n_dmg"] = 11306,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 3,
-								["total"] = 10491,
-								["c_max"] = 3258,
+								["counter"] = 7,
+								["total"] = 18096,
+								["c_max"] = 3532,
 								["id"] = 295374,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 2,
+								["n_amt"] = 5,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
@@ -29143,16 +30224,17 @@ _detalhes_database = {
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["n_max"] = 1050,
 								["targets"] = {
 									["Шар'тос"] = 0,
+									["Жрец моря - предвестник"] = 1050,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 0,
+								["n_dmg"] = 1050,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
+								["counter"] = 1,
+								["total"] = 1050,
 								["c_max"] = 0,
 								["id"] = 205448,
 								["r_dmg"] = 0,
@@ -29160,78 +30242,46 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 0,
+								["n_amt"] = 1,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[32379] = {
-								["c_amt"] = 0,
+								["c_amt"] = 1,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 4988,
 								["g_amt"] = 0,
 								["n_max"] = 23173,
 								["targets"] = {
-									["Зу'шин Преображенный"] = 2778,
+									["Дубосерд"] = 23173,
+									["Перенастроенный уборочный голем"] = 4988,
+									["Шар'тос"] = 0,
+									["Василиск силового камня"] = 0,
 									["Цветущий злошип"] = 33046,
 									["Арканор Могучий"] = 0,
-									["Шар'тос"] = 0,
 									["Тень Ксавия"] = 0,
-									["Василиск силового камня"] = 0,
-									["Дубосерд"] = 23173,
+									["Зу'шин Преображенный"] = 2778,
+									["Мрачноморд Безмозглый"] = 2282,
+									["Жрец моря - головорез"] = 2873,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 58997,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 58997,
-								["c_max"] = 0,
-								["id"] = 32379,
-								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["r_amt"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["a_dmg"] = 0,
-								["extra"] = {
-								},
-							},
-							[295367] = {
-								["c_amt"] = 1,
-								["b_amt"] = 0,
-								["c_dmg"] = 6247,
-								["g_amt"] = 0,
-								["n_max"] = 3148,
-								["targets"] = {
-									["Верховный друид Глайдалис"] = 0,
-									["Истерзанный кровопийца"] = 9370,
-									["Шар'тос"] = 0,
-									["Скверносерд-призыватель"] = 6246,
-									["Дубосерд"] = 3122,
-									["Бес ужасающего огня"] = 6296,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 18787,
+								["n_dmg"] = 64152,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 7,
-								["total"] = 25034,
-								["c_max"] = 6247,
-								["id"] = 295367,
+								["total"] = 69140,
+								["c_max"] = 4988,
+								["id"] = 32379,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -29240,47 +30290,88 @@ _detalhes_database = {
 								["extra"] = {
 								},
 							},
-							[300917] = {
-								["c_amt"] = 3,
+							[295367] = {
+								["c_amt"] = 4,
 								["b_amt"] = 0,
-								["c_dmg"] = 4544,
+								["c_dmg"] = 8667,
+								["g_amt"] = 0,
+								["n_max"] = 3148,
+								["targets"] = {
+									["Верховный друид Глайдалис"] = 0,
+									["Дубосерд"] = 3122,
+									["Скверносерд-призыватель"] = 6246,
+									["Шар'тос"] = 0,
+									["Бес ужасающего огня"] = 6296,
+									["Истерзанный кровопийца"] = 9370,
+									["Мрачноморд Безмозглый"] = 1713,
+									["Жрец моря - головорез"] = 429,
+									["Перенастроенный уборочный голем"] = 1563,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 20072,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 28739,
+								["c_max"] = 6247,
+								["id"] = 295367,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 9,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[300917] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 5145,
 								["g_amt"] = 0,
 								["n_max"] = 866,
 								["targets"] = {
-									["Скверносерд-лазутчик"] = 1511,
-									["Гнилосердная дриада"] = 2272,
-									["Зу'шин Преображенный"] = 190,
-									["Верховный друид Глайдалис"] = 0,
 									["Лагунный василиск"] = 0,
-									["Истерзанный кровопийца"] = 866,
-									["Шар'тос"] = 0,
-									["Бес ужасающего огня"] = 2266,
-									["Призрачный Коготь"] = 0,
-									["Цветущий злошип"] = 750,
 									["Дубосерд"] = 1511,
+									["Цветущий злошип"] = 750,
 									["Страж-громила"] = 0,
 									["Тень Ксавия"] = 0,
 									["Василиск силового камня"] = 0,
 									["Проклинательница из племени Скального Когтя"] = 0,
 									["Дресарон"] = 0,
+									["Призрачный Коготь"] = 0,
+									["Бес ужасающего огня"] = 2266,
+									["Шар'тос"] = 0,
+									["Истерзанный кровопийца"] = 866,
+									["Жрец моря - предвестник"] = 104,
+									["Скверносерд-лазутчик"] = 1511,
+									["Гнилосердная дриада"] = 2272,
+									["Зу'шин Преображенный"] = 190,
+									["Мрачноморд Безмозглый"] = 309,
+									["Верховный друид Глайдалис"] = 0,
+									["Перенастроенный уборочный голем"] = 686,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 4822,
+								["n_dmg"] = 5320,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 11,
-								["total"] = 9366,
+								["counter"] = 19,
+								["total"] = 10465,
 								["c_max"] = 1522,
 								["id"] = 300917,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 8,
+								["n_amt"] = 13,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
@@ -29296,11 +30387,11 @@ _detalhes_database = {
 									["Гнилосердная дриада"] = 6673,
 									["Скверносерд-призыватель"] = 4632,
 									["Бешеная визгунья"] = 9850,
-									["Жуткая личинка"] = 0,
 									["Цветущий злошип"] = 79750,
-									["Василиск силового камня"] = 0,
-									["Гнилосердный хранитель"] = 17431,
+									["Жуткая личинка"] = 0,
 									["Ужасный плеточник"] = 0,
+									["Гнилосердный хранитель"] = 17431,
+									["Василиск силового камня"] = 0,
 									["Разъяренный коготь ночи"] = 3014,
 									["Бес ужасающего огня"] = 2725,
 									["Истерзанный кровопийца"] = 30989,
@@ -29314,10 +30405,10 @@ _detalhes_database = {
 								["c_max"] = 2268,
 								["id"] = 49821,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -29327,31 +30418,64 @@ _detalhes_database = {
 								},
 							},
 							[8092] = {
-								["c_amt"] = 0,
+								["c_amt"] = 1,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 4043,
 								["g_amt"] = 0,
 								["n_max"] = 12247,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 12247,
+									["Перенастроенный уборочный голем"] = 6756,
+									["Арканор Могучий"] = 0,
 									["Шар'тос"] = 0,
+									["Василиск силового камня"] = 0,
 									["Зу'шин Преображенный"] = 2960,
 									["Страж-громила"] = 0,
 									["Гнилосердный хранитель"] = 7653,
 									["Тень Ксавия"] = 0,
-									["Василиск силового камня"] = 0,
-									["Арканор Могучий"] = 0,
+									["Мрачноморд Безмозглый"] = 1573,
+									["Жрец моря - головорез"] = 1552,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 22860,
+								["n_dmg"] = 28698,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 22860,
-								["c_max"] = 0,
+								["counter"] = 9,
+								["total"] = 32741,
+								["c_max"] = 4043,
 								["id"] = 8092,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[271685] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 421,
+								["targets"] = {
+									["Перенастроенный уборочный голем"] = 421,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 421,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 421,
+								["c_max"] = 0,
+								["id"] = 271685,
 								["r_dmg"] = 0,
 								["c_min"] = 0,
 								["r_amt"] = 0,
@@ -29360,45 +30484,49 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 4,
+								["n_amt"] = 1,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[34914] = {
-								["c_amt"] = 2,
+								["c_amt"] = 10,
 								["b_amt"] = 0,
-								["c_dmg"] = 962,
+								["c_dmg"] = 10894,
 								["g_amt"] = 0,
 								["n_max"] = 2366,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 9032,
+									["Перенастроенный уборочный голем"] = 10546,
+									["Жрец моря - предвестник"] = 2975,
 									["Шар'тос"] = 0,
+									["Железнодрев"] = 0,
 									["Зу'шин Преображенный"] = 2864,
+									["Арканор Могучий"] = 0,
 									["Скверносерд-лазутчик"] = 3563,
 									["Тень Ксавия"] = 0,
-									["Железнодрев"] = 0,
-									["Арканор Могучий"] = 0,
+									["Мрачноморд Безмозглый"] = 2099,
+									["Жрец моря - головорез"] = 2741,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 14497,
+								["n_dmg"] = 22926,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 12,
-								["total"] = 15459,
-								["c_max"] = 483,
+								["counter"] = 35,
+								["total"] = 33820,
+								["c_max"] = 3865,
 								["id"] = 34914,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 10,
+								["n_amt"] = 25,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
@@ -29412,20 +30540,53 @@ _detalhes_database = {
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 8976,
-									["Зу'шин Преображенный"] = 614,
-									["Тень Ксавия"] = 0,
-									["Арканор Могучий"] = 0,
 									["Шар'тос"] = 0,
+									["Перенастроенный уборочный голем"] = 1447,
+									["Зу'шин Преображенный"] = 614,
+									["Арканор Могучий"] = 0,
+									["Тень Ксавия"] = 0,
+									["Мрачноморд Безмозглый"] = 212,
+									["Жрец моря - головорез"] = 213,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 9590,
+								["n_dmg"] = 11462,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 5,
-								["total"] = 9590,
+								["counter"] = 13,
+								["total"] = 11462,
 								["c_max"] = 0,
 								["id"] = 148859,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 13,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[271686] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 179,
+								["targets"] = {
+									["Перенастроенный уборочный голем"] = 179,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 179,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 179,
+								["c_max"] = 0,
+								["id"] = 271686,
 								["r_dmg"] = 0,
 								["c_min"] = 0,
 								["r_amt"] = 0,
@@ -29434,76 +30595,80 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 5,
+								["n_amt"] = 1,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[228361] = {
-								["c_amt"] = 0,
+								["c_amt"] = 2,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 2358,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["n_max"] = 655,
 								["targets"] = {
 									["Жуткая личинка"] = 0,
+									["Жрец моря - предвестник"] = 1184,
+									["Жрец моря - головорез"] = 1829,
 									["Шар'тос"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 0,
+								["n_dmg"] = 655,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
+								["counter"] = 3,
+								["total"] = 3013,
+								["c_max"] = 1184,
 								["id"] = 228361,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 0,
+								["n_amt"] = 1,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[15407] = {
-								["c_amt"] = 3,
+								["c_amt"] = 4,
 								["b_amt"] = 0,
-								["c_dmg"] = 1323,
+								["c_dmg"] = 1814,
 								["g_amt"] = 0,
 								["n_max"] = 2280,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 8756,
 									["Шар'тос"] = 0,
-									["Зу'шин Преображенный"] = 2027,
-									["Скверносерд-лазутчик"] = 3093,
+									["Перенастроенный уборочный голем"] = 1630,
 									["Тень Ксавия"] = 0,
-									["Арканор Могучий"] = 0,
+									["Скверносерд-лазутчик"] = 3093,
 									["Истерзанный кровопийца"] = 3323,
+									["Зу'шин Преображенный"] = 2027,
+									["Арканор Могучий"] = 0,
+									["Жрец моря - предвестник"] = 298,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 15876,
+								["n_dmg"] = 17313,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 14,
-								["total"] = 17199,
-								["c_max"] = 469,
+								["counter"] = 20,
+								["total"] = 19127,
+								["c_max"] = 491,
 								["id"] = 15407,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 11,
+								["n_amt"] = 16,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
@@ -29516,112 +30681,120 @@ _detalhes_database = {
 								["n_max"] = 1607,
 								["targets"] = {
 									["Дубосерд"] = 4821,
+									["Шар'тос"] = 0,
+									["Перенастроенный уборочный голем"] = 995,
 									["Зу'шин Преображенный"] = 603,
 									["Страж-громила"] = 0,
 									["Тень Ксавия"] = 0,
 									["Арканор Могучий"] = 0,
-									["Шар'тос"] = 0,
+									["Жрец моря - предвестник"] = 657,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 5424,
+								["n_dmg"] = 7076,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 6,
-								["total"] = 5424,
+								["counter"] = 12,
+								["total"] = 7076,
 								["c_max"] = 0,
 								["id"] = 295368,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 6,
+								["n_amt"] = 12,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[335467] = {
-								["c_amt"] = 5,
+								["c_amt"] = 16,
 								["b_amt"] = 0,
-								["c_dmg"] = 35413,
+								["c_dmg"] = 49918,
 								["g_amt"] = 0,
 								["n_max"] = 6927,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Гнилосердная дриада"] = 18924,
-									["Зу'шин Преображенный"] = 2838,
-									["Скверносерд-призыватель"] = 21471,
+									["Перенастроенный уборочный голем"] = 18383,
 									["Призрачный Коготь"] = 0,
-									["Бешеная визгунья"] = 13519,
+									["Дубосерд"] = 12682,
+									["Скверносерд-призыватель"] = 21471,
+									["Зу'шин Преображенный"] = 2838,
+									["Шар'тос"] = 0,
 									["Скверносерд-стрелок"] = 15899,
 									["Цветущий злошип"] = 15899,
-									["Шар'тос"] = 0,
+									["Бешеная визгунья"] = 13519,
 									["Гнилосердный хранитель"] = 14577,
 									["Тень Ксавия"] = 0,
 									["Арканор Могучий"] = 0,
-									["Дубосерд"] = 12682,
+									["Жрец моря - головорез"] = 1188,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 80396,
+								["n_dmg"] = 85462,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 25,
-								["total"] = 115809,
+								["counter"] = 43,
+								["total"] = 135380,
 								["c_max"] = 9602,
 								["id"] = 335467,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 20,
+								["n_amt"] = 27,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
 							},
 							[295305] = {
-								["c_amt"] = 1,
+								["c_amt"] = 5,
 								["b_amt"] = 0,
-								["c_dmg"] = 10225,
+								["c_dmg"] = 16110,
 								["g_amt"] = 0,
 								["n_max"] = 5112,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Истерзанный кровопийца"] = 25561,
+									["Лагунный василиск"] = 0,
+									["Перенастроенный уборочный голем"] = 3388,
+									["Долинный байбак"] = 621,
 									["Шар'тос"] = 0,
 									["Поддавшийся порче хранитель"] = 0,
-									["Зу'шин Преображенный"] = 564,
-									["Лагунный василиск"] = 0,
-									["Тень Ксавия"] = 0,
 									["Василиск силового камня"] = 0,
+									["Зу'шин Преображенный"] = 564,
 									["Гнилосердная дриада"] = 4520,
+									["Тень Ксавия"] = 0,
 									["Арканор Могучий"] = 0,
+									["Жрец моря - головорез"] = 2752,
+									["Жрец моря - предвестник"] = 1834,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 20420,
+								["n_dmg"] = 23130,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 6,
-								["total"] = 30645,
+								["counter"] = 14,
+								["total"] = 39240,
 								["c_max"] = 10225,
 								["id"] = 295305,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 5,
+								["n_amt"] = 9,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
@@ -29630,12 +30803,13 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["classe"] = "PRIEST",
-					["boss_fight_component"] = true,
+					["end_time"] = 1606122441,
+					["tipo"] = 1,
+					["nome"] = "Алоиза",
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
-					["start_time"] = 1606122320,
+					["start_time"] = 1606122261,
 					["serial"] = "Player-1602-04F44A64",
 					["spec"] = 258,
 				}, -- [1]
@@ -29651,16 +30825,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 15463.012487,
-					["friendlyfire_total"] = 0,
+					["aID"] = "95772",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 727.0124870000001,
-					["total"] = 727.0124870000001,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122441,
-					["last_dps"] = 0,
+					["damage_taken"] = 15463.012487,
 					["tipo"] = 1,
 					["nome"] = "Разъяренный коготь ночи",
 					["spells"] = {
@@ -29681,14 +30855,14 @@ _detalhes_database = {
 								["counter"] = 4,
 								["total"] = 304,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 98,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 1,
 								["n_amt"] = 3,
@@ -29714,10 +30888,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 200620,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -29729,16 +30903,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "95772",
+					["total"] = 727.0124870000001,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122427,
 					["serial"] = "Creature-0-3774-1466-19531-95772-00033B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [2]
 				{
 					["flag_original"] = 2632,
@@ -29751,16 +30925,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.016757,
-					["friendlyfire_total"] = 0,
+					["aID"] = "101679",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 102.016757,
-					["total"] = 102.016757,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122441,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.016757,
 					["tipo"] = 1,
 					["nome"] = "Грозный отравитель",
 					["spells"] = {
@@ -29783,10 +30957,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 200684,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -29813,10 +30987,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 200686,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -29828,16 +31002,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "101679",
+					["total"] = 102.016757,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122435,
 					["serial"] = "Creature-0-3774-1466-19531-101679-0001BB7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [3]
 				{
 					["flag_original"] = 68168,
@@ -29851,16 +31025,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 39629.00758200001,
-					["friendlyfire_total"] = 0,
+					["aID"] = "95769",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 339.007582,
-					["total"] = 339.007582,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122441,
-					["last_dps"] = 0,
+					["damage_taken"] = 39629.00758200001,
 					["tipo"] = 1,
 					["nome"] = "Бешеная визгунья",
 					["spells"] = {
@@ -29879,17 +31053,17 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 8,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["total"] = 238,
 								["c_max"] = 0,
-								["r_amt"] = 0,
-								["id"] = 1,
-								["r_dmg"] = 0,
 								["extra"] = {
 								},
+								["id"] = 1,
+								["r_dmg"] = 0,
 								["b_dmg"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["a_dmg"] = 0,
@@ -29914,10 +31088,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 200630,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
@@ -29944,10 +31118,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 200631,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -29959,16 +31133,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "95769",
+					["total"] = 339.007582,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122429,
 					["serial"] = "Creature-0-3774-1466-19531-95769-00023B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [4]
 				{
 					["flag_original"] = 68168,
@@ -29982,16 +31156,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 151485.011469,
-					["friendlyfire_total"] = 0,
+					["aID"] = "99360",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 2931.011469,
-					["total"] = 2931.011469,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122627,
-					["last_dps"] = 0,
+					["damage_taken"] = 151485.011469,
 					["tipo"] = 1,
 					["nome"] = "Цветущий злошип",
 					["spells"] = {
@@ -30012,14 +31186,14 @@ _detalhes_database = {
 								["counter"] = 42,
 								["total"] = 2775,
 								["c_max"] = 211,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 32,
@@ -30044,10 +31218,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 201129,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 9,
 								["b_dmg"] = 0,
@@ -30072,14 +31246,14 @@ _detalhes_database = {
 								["counter"] = 3,
 								["total"] = 156,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 201123,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 2,
@@ -30090,16 +31264,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "99360",
+					["total"] = 2931.011469,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122575,
 					["serial"] = "Creature-0-3774-1466-19531-99360-0000BB7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [5]
 				{
 					["flag_original"] = 2632,
@@ -30113,16 +31287,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 43746.008406,
-					["friendlyfire_total"] = 0,
+					["aID"] = "99358",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 643.0084059999999,
-					["total"] = 643.0084059999999,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122627,
-					["last_dps"] = 0,
+					["damage_taken"] = 43746.008406,
 					["tipo"] = 1,
 					["nome"] = "Гнилосердная дриада",
 					["spells"] = {
@@ -30143,14 +31317,14 @@ _detalhes_database = {
 								["counter"] = 13,
 								["total"] = 438,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 198723,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 13,
 								["a_amt"] = 0,
 								["n_amt"] = 10,
@@ -30176,10 +31350,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 198904,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
@@ -30191,16 +31365,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "99358",
+					["total"] = 643.0084059999999,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122577,
 					["serial"] = "Creature-0-3774-1466-19531-99358-00003B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [6]
 				{
 					["flag_original"] = 68168,
@@ -30214,16 +31388,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 42295.013806,
-					["friendlyfire_total"] = 0,
+					["aID"] = "99359",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1121.013806,
-					["total"] = 1121.013806,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122627,
-					["last_dps"] = 0,
+					["damage_taken"] = 42295.013806,
 					["tipo"] = 1,
 					["nome"] = "Гнилосердный хранитель",
 					["spells"] = {
@@ -30246,10 +31420,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -30261,16 +31435,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "99359",
+					["total"] = 1121.013806,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122589,
 					["serial"] = "Creature-0-3774-1466-19531-99359-0000BB7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [7]
 				{
 					["flag_original"] = 68168,
@@ -30286,16 +31460,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 507.013958,
-					["damage_taken"] = 143523.013958,
+					["nome"] = "Дубосерд",
+					["aID"] = "",
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 507.013958,
-					["aID"] = "",
-					["dps_started"] = false,
+					["total"] = 507.013958,
+					["monster"] = true,
 					["end_time"] = 1606122700,
-					["last_dps"] = 0,
+					["damage_taken"] = 143523.013958,
 					["tipo"] = 1,
 					["boss_fight_component"] = true,
 					["spells"] = {
@@ -30318,10 +31492,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -30349,10 +31523,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 204666,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
@@ -30364,85 +31538,91 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Дубосерд",
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606122690,
 					["serial"] = "Vehicle-0-3774-1466-19531-103344-00003B7BAD",
-					["monster"] = true,
+					["dps_started"] = false,
 				}, -- [8]
 				{
 					["flag_original"] = 8465,
-					["totalabsorbed"] = 0.015853,
-					["total"] = 34279.015853,
+					["totalabsorbed"] = 0.027597,
 					["damage_from"] = {
 						["Дубосерд"] = true,
+						["Жрец моря - предвестник"] = true,
+						["Перенастроенный уборочный голем"] = true,
 					},
 					["targets"] = {
 						["Верховный друид Глайдалис"] = 0,
 						["Дубосерд"] = 29321,
 						["Шар'тос"] = 0,
+						["Перенастроенный уборочный голем"] = 5859,
+						["Арканор Могучий"] = 0,
 						["Зараженный лесовик"] = 0,
 						["Страж-громила"] = 0,
 						["Зу'шин Преображенный"] = 4958,
 						["Железнодрев"] = 0,
-						["Арканор Могучий"] = 0,
+						["Жрец моря - предвестник"] = 1674,
 						["Дресарон"] = 0,
 					},
-					["tipo"] = 1,
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["delay"] = 0,
+					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
-					["total_without_pet"] = 34279.015853,
-					["nome"] = "Подчинитель разума <Алоиза>",
-					["dps_started"] = false,
+					["total_without_pet"] = 41812.027597,
 					["end_time"] = 1606122700,
-					["damage_taken"] = 7.015853000000002,
+					["dps_started"] = false,
+					["total"] = 41812.027597,
+					["damage_taken"] = 272.027597,
 					["ownerName"] = "Алоиза",
-					["boss_fight_component"] = true,
+					["nome"] = "Подчинитель разума <Алоиза>",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 6,
+								["c_amt"] = 12,
 								["b_amt"] = 0,
-								["c_dmg"] = 15685,
+								["c_dmg"] = 20547,
 								["g_amt"] = 0,
 								["n_max"] = 3258,
 								["targets"] = {
 									["Верховный друид Глайдалис"] = 0,
 									["Дубосерд"] = 29321,
 									["Шар'тос"] = 0,
+									["Перенастроенный уборочный голем"] = 5859,
+									["Арканор Могучий"] = 0,
 									["Зараженный лесовик"] = 0,
 									["Страж-громила"] = 0,
 									["Зу'шин Преображенный"] = 4958,
 									["Железнодрев"] = 0,
-									["Арканор Могучий"] = 0,
+									["Жрец моря - предвестник"] = 1674,
 									["Дресарон"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 18594,
+								["n_dmg"] = 21265,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 18,
-								["total"] = 34279,
+								["counter"] = 31,
+								["total"] = 41812,
 								["c_max"] = 6517,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 12,
+								["n_amt"] = 19,
 								["a_dmg"] = 0,
 								["extra"] = {
 								},
@@ -30450,16 +31630,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire_total"] = 0,
-					["last_dps"] = 0,
+					["tipo"] = 1,
 					["friendlyfire"] = {
 					},
+					["aID"] = "62982",
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
-					["start_time"] = 1606122674,
+					["start_time"] = 1606122658,
 					["serial"] = "Creature-0-3774-1466-19531-62982-00003B7CC4",
-					["aID"] = "62982",
+					["friendlyfire_total"] = 0,
 				}, -- [9]
 				{
 					["flag_original"] = 68168,
@@ -30473,16 +31653,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 36537.015532,
-					["friendlyfire_total"] = 0,
+					["aID"] = "100527",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 368.015532,
-					["total"] = 368.015532,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122841,
-					["last_dps"] = 0,
+					["damage_taken"] = 36537.015532,
 					["tipo"] = 1,
 					["nome"] = "Бес ужасающего огня",
 					["spells"] = {
@@ -30503,14 +31683,14 @@ _detalhes_database = {
 								["counter"] = 5,
 								["total"] = 325,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 4,
@@ -30534,14 +31714,14 @@ _detalhes_database = {
 								["counter"] = 4,
 								["total"] = 43,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 201411,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 4,
 								["a_amt"] = 0,
 								["n_amt"] = 1,
@@ -30552,16 +31732,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "100527",
+					["total"] = 368.015532,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122815,
 					["serial"] = "Creature-0-3774-1466-19531-100527-00003B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [10]
 				{
 					["flag_original"] = 68168,
@@ -30575,16 +31755,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 31045.008972,
-					["friendlyfire_total"] = 0,
+					["aID"] = "99365",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 787.0089720000001,
-					["total"] = 787.0089720000001,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122841,
-					["last_dps"] = 0,
+					["damage_taken"] = 31045.008972,
 					["tipo"] = 1,
 					["nome"] = "Скверносерд-лазутчик",
 					["spells"] = {
@@ -30605,14 +31785,14 @@ _detalhes_database = {
 								["counter"] = 10,
 								["total"] = 787,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 7,
@@ -30623,16 +31803,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "99365",
+					["total"] = 787.0089720000001,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122816,
 					["serial"] = "Creature-0-3774-1466-19531-99365-00003B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [11]
 				{
 					["flag_original"] = 68168,
@@ -30646,16 +31826,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 37779.018235,
-					["friendlyfire_total"] = 0,
+					["aID"] = "99366",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 134.018235,
-					["total"] = 134.018235,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122841,
-					["last_dps"] = 0,
+					["damage_taken"] = 37779.018235,
 					["tipo"] = 1,
 					["nome"] = "Скверносерд-призыватель",
 					["spells"] = {
@@ -30676,14 +31856,14 @@ _detalhes_database = {
 								["counter"] = 3,
 								["total"] = 134,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 201837,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 3,
 								["a_amt"] = 0,
 								["n_amt"] = 2,
@@ -30694,16 +31874,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "99366",
+					["total"] = 134.018235,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122821,
 					["serial"] = "Creature-0-3774-1466-19531-99366-00003B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [12]
 				{
 					["flag_original"] = 68168,
@@ -30717,16 +31897,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 101206.015483,
-					["friendlyfire_total"] = 0,
+					["aID"] = "100526",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1686.015483,
-					["total"] = 1686.015483,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122856,
-					["last_dps"] = 0,
+					["damage_taken"] = 101206.015483,
 					["tipo"] = 1,
 					["nome"] = "Истерзанный кровопийца",
 					["spells"] = {
@@ -30747,14 +31927,14 @@ _detalhes_database = {
 								["counter"] = 20,
 								["total"] = 1596,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 15,
@@ -30778,14 +31958,14 @@ _detalhes_database = {
 								["counter"] = 5,
 								["total"] = 73,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 201361,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 5,
 								["a_amt"] = 0,
 								["n_amt"] = 3,
@@ -30809,14 +31989,14 @@ _detalhes_database = {
 								["counter"] = 5,
 								["total"] = 17,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 201365,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 3,
@@ -30827,16 +32007,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "100526",
+					["total"] = 1686.015483,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122833,
 					["serial"] = "Creature-0-3774-1466-19531-100526-00003B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [13]
 				{
 					["flag_original"] = 2632,
@@ -30850,16 +32030,16 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 15899.01081,
-					["friendlyfire_total"] = 0,
+					["aID"] = "100539",
+					["monster"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 33.01081,
-					["total"] = 33.01081,
-					["monster"] = true,
+					["dps_started"] = false,
+					["fight_component"] = true,
 					["end_time"] = 1606122893,
-					["last_dps"] = 0,
+					["damage_taken"] = 15899.01081,
 					["tipo"] = 1,
 					["nome"] = "Скверносерд-стрелок",
 					["spells"] = {
@@ -30880,14 +32060,14 @@ _detalhes_database = {
 								["counter"] = 1,
 								["total"] = 0,
 								["c_max"] = 0,
-								["c_min"] = 0,
+								["r_amt"] = 0,
 								["id"] = 201858,
 								["r_dmg"] = 0,
-								["r_amt"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["b_dmg"] = 0,
+								["m_crit"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 1,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
@@ -30913,10 +32093,10 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 201902,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["r_amt"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
@@ -30928,16 +32108,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["aID"] = "100539",
+					["total"] = 33.01081,
 					["friendlyfire"] = {
 					},
-					["fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1606122886,
 					["serial"] = "Creature-0-3774-1466-19531-100539-00013B7BAD",
-					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 				}, -- [14]
 				{
 					["flag_original"] = 68168,
@@ -30947,22 +32127,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008052,
 					["end_time"] = 1606136413,
-					["boss_fight_component"] = true,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 0.008052,
-					["aID"] = "99192",
+					["on_hold"] = false,
 					["last_event"] = 0,
-					["nome"] = "Тень Ксавия",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -30986,13 +32166,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[200182] = {
 								["c_amt"] = 0,
@@ -31016,27 +32196,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
+					["nome"] = "Тень Ксавия",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008052,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.008052,
+					["aID"] = "99192",
 				}, -- [15]
 				{
 					["flag_original"] = 68168,
@@ -31046,22 +32226,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3774-1466-19531-99200-00003B7BAD",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003519,
 					["end_time"] = 1606136413,
-					["boss_fight_component"] = true,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 0.003519,
-					["aID"] = "99200",
+					["on_hold"] = false,
 					["last_event"] = 0,
-					["nome"] = "Дресарон",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31085,27 +32265,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3774-1466-19531-99200-00003B7BAD",
+					["nome"] = "Дресарон",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.003519,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.003519,
+					["aID"] = "99200",
 				}, -- [16]
 				{
 					["flag_original"] = 68168,
@@ -31115,22 +32295,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004528,
 					["end_time"] = 1606136413,
-					["boss_fight_component"] = true,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 0.004528,
-					["aID"] = "96512",
+					["on_hold"] = false,
 					["last_event"] = 0,
-					["nome"] = "Верховный друид Глайдалис",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31154,13 +32334,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[196354] = {
 								["c_amt"] = 0,
@@ -31184,27 +32364,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
+					["nome"] = "Верховный друид Глайдалис",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.004528,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.004528,
+					["aID"] = "96512",
 				}, -- [17]
 				{
 					["flag_original"] = 68168,
@@ -31214,22 +32394,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-113646-00003B79AC",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002171,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.002171,
-					["aID"] = "113646",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Зараженный лесовик",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31253,27 +32433,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-113646-00003B79AC",
+					["aID"] = "113646",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002171,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.002171,
+					["monster"] = true,
 				}, -- [18]
 				{
 					["flag_original"] = 68168,
@@ -31282,22 +32462,22 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-3889-1220-177-93030-00003B784E",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005283,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.005283,
-					["aID"] = "93030",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Железнодрев",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31321,27 +32501,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-93030-00003B784E",
+					["aID"] = "93030",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005283,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.005283,
+					["monster"] = true,
 				}, -- [19]
 				{
 					["flag_original"] = 68168,
@@ -31351,22 +32531,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-97338-00003B7850",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007405,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.007405,
-					["aID"] = "97338",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Ужасный плеточник",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31390,33 +32570,31 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-97338-00003B7850",
+					["aID"] = "97338",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.007405,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.007405,
+					["monster"] = true,
 				}, -- [20]
 				{
 					["flag_original"] = 68136,
 					["totalabsorbed"] = 0.005767,
-					["friendlyfire"] = {
-					},
 					["damage_from"] = {
 					},
 					["targets"] = {
@@ -31424,19 +32602,20 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["aID"] = "103514",
+					["dps_started"] = false,
+					["damage_taken"] = 0.005767,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005767,
-					["last_event"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3889-1220-177-103514-00003B7878",
+					["fight_component"] = true,
 					["end_time"] = 1606136413,
-					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Василиск силового камня",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31460,13 +32639,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[32906] = {
 								["c_amt"] = 0,
@@ -31490,62 +32669,63 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["total"] = 0.005767,
-					["serial"] = "Creature-0-3889-1220-177-103514-00003B7878",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.005767,
+					["last_dps"] = 0,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["aID"] = "103514",
 				}, -- [21]
 				{
 					["flag_original"] = 2600,
 					["totalabsorbed"] = 0.00116,
-					["friendlyfire"] = {
-					},
 					["damage_from"] = {
 					},
 					["targets"] = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["aID"] = "94193",
+					["dps_started"] = false,
+					["damage_taken"] = 0.00116,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00116,
-					["last_event"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3889-1220-177-94193-00003B75A8",
+					["fight_component"] = true,
 					["end_time"] = 1606136413,
-					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Жуткая личинка",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["total"] = 0.00116,
-					["serial"] = "Creature-0-3889-1220-177-94193-00003B75A8",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.00116,
+					["last_dps"] = 0,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["aID"] = "94193",
 				}, -- [22]
 				{
 					["flag_original"] = 68168,
@@ -31555,22 +32735,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-97504-00003B78F3",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006643,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.006643,
-					["aID"] = "97504",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Призрачный Коготь",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31594,27 +32774,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-97504-00003B78F3",
+					["aID"] = "97504",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006643,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.006643,
+					["monster"] = true,
 				}, -- [23]
 				{
 					["flag_original"] = 68168,
@@ -31624,22 +32804,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-97337-00003B7A67",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00825,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.00825,
-					["aID"] = "97337",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Поддавшийся порче хранитель",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31663,27 +32843,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-97337-00003B7A67",
+					["aID"] = "97337",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00825,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.00825,
+					["monster"] = true,
 				}, -- [24]
 				{
 					["flag_original"] = 68168,
@@ -31693,22 +32873,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-93155-00003B7AD0",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002315,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.002315,
-					["aID"] = "93155",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Измученная дриада",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[10277] = {
 								["c_amt"] = 0,
@@ -31732,27 +32912,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-93155-00003B7AD0",
+					["aID"] = "93155",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002315,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.002315,
+					["monster"] = true,
 				}, -- [25]
 				{
 					["flag_original"] = 68168,
@@ -31763,22 +32943,22 @@ _detalhes_database = {
 						["Алоиза"] = 0,
 						["Маркашка-СвежевательДуш"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-108678-00003B79A2",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001802,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.001802,
-					["aID"] = "108678",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Шар'тос",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -31803,13 +32983,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[216043] = {
 								["c_amt"] = 0,
@@ -31834,13 +33014,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[216044] = {
 								["c_amt"] = 0,
@@ -31863,13 +33043,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[215821] = {
 								["c_amt"] = 0,
@@ -31894,13 +33074,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[215860] = {
 								["c_amt"] = 0,
@@ -31923,13 +33103,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[215806] = {
 								["c_amt"] = 0,
@@ -31953,54 +33133,53 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-108678-00003B79A2",
+					["aID"] = "108678",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001802,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.001802,
+					["monster"] = true,
 				}, -- [26]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.006365,
-					["last_event"] = 0,
 					["damage_from"] = {
 					},
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "",
 					["pets"] = {
 					},
-					["end_time"] = 1606136413,
-					["fight_component"] = true,
+					["on_hold"] = false,
+					["dps_started"] = false,
 					["aID"] = "",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006365,
+					["end_time"] = 1606136413,
+					["monster"] = true,
+					["total"] = 0.006365,
 					["friendlyfire"] = {
 					},
-					["dps_started"] = false,
-					["total"] = 0.006365,
-					["monster"] = true,
-					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
 					["nome"] = "[*] Слово Тьмы: Смерть",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[32409] = {
 								["c_amt"] = 0,
@@ -32024,52 +33203,52 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
+					["damage_taken"] = 0.006365,
 					["classe"] = "UNKNOW",
-					["serial"] = "",
+					["friendlyfire_total"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.006365,
+					["last_dps"] = 0,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["fight_component"] = true,
 				}, -- [27]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.0063,
-					["last_event"] = 0,
 					["damage_from"] = {
 					},
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "",
 					["pets"] = {
 					},
-					["end_time"] = 1606136413,
-					["fight_component"] = true,
+					["on_hold"] = false,
+					["dps_started"] = false,
 					["aID"] = "",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.0063,
+					["end_time"] = 1606136413,
+					["monster"] = true,
+					["total"] = 0.0063,
 					["friendlyfire"] = {
 					},
-					["dps_started"] = false,
-					["total"] = 0.0063,
-					["monster"] = true,
-					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
 					["nome"] = "[*] Пылающая земля",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[215876] = {
 								["c_amt"] = 0,
@@ -32093,25 +33272,26 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
+					["damage_taken"] = 0.0063,
 					["classe"] = "UNKNOW",
-					["serial"] = "",
+					["friendlyfire_total"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.0063,
+					["last_dps"] = 0,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["fight_component"] = true,
 				}, -- [28]
 				{
 					["flag_original"] = 68168,
@@ -32121,22 +33301,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-106358-0000BB79C0",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006275,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.006275,
-					["aID"] = "106358",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Проклинательница из племени Скального Когтя",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -32160,27 +33340,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-106358-0000BB79C0",
+					["aID"] = "106358",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006275,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.006275,
+					["monster"] = true,
 				}, -- [29]
 				{
 					["flag_original"] = 68168,
@@ -32190,22 +33370,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-177-106369-00003B5B87",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001025,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.001025,
-					["aID"] = "106369",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Охотница из племени Скального Когтя",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -32229,13 +33409,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[220470] = {
 								["c_amt"] = 0,
@@ -32258,13 +33438,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[220471] = {
 								["c_amt"] = 0,
@@ -32288,27 +33468,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-106369-00003B5B87",
+					["aID"] = "106369",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001025,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.001025,
+					["monster"] = true,
 				}, -- [30]
 				{
 					["flag_original"] = 68168,
@@ -32317,36 +33497,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-3889-1220-177-106384-00003B7974",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001949,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.001949,
-					["aID"] = "106384",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Ведьма-мать из племени Скального Когтя",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-177-106384-00003B7974",
+					["aID"] = "106384",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001949,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.001949,
+					["monster"] = true,
 				}, -- [31]
 				{
 					["flag_original"] = 68168,
@@ -32356,22 +33536,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-313-109641-00003B7906",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005455,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.005455,
-					["aID"] = "109641",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Арканор Могучий",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -32395,27 +33575,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-313-109641-00003B7906",
+					["aID"] = "109641",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005455,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.005455,
+					["monster"] = true,
 				}, -- [32]
 				{
 					["flag_original"] = 68168,
@@ -32425,22 +33605,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-313-91128-00003B67E2",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004634,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.004634,
-					["aID"] = "91128",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Лагунный василиск",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -32464,27 +33644,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-313-91128-00003B67E2",
+					["aID"] = "91128",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.004634,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.004634,
+					["monster"] = true,
 				}, -- [33]
 				{
 					["flag_original"] = 68168,
@@ -32494,22 +33674,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 0,
 					},
+					["serial"] = "Creature-0-3889-1220-313-88888-00003B75D4",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002008,
 					["end_time"] = 1606136413,
-					["fight_component"] = true,
 					["dps_started"] = false,
 					["total"] = 0.002008,
-					["aID"] = "88888",
+					["on_hold"] = false,
 					["last_event"] = 0,
 					["nome"] = "Страж-громила",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -32533,27 +33713,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3889-1220-313-88888-00003B75D4",
+					["aID"] = "88888",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002008,
 					["start_time"] = 1606136410,
 					["delay"] = 0,
-					["damage_taken"] = 0.002008,
+					["monster"] = true,
 				}, -- [34]
 				{
 					["flag_original"] = 68168,
@@ -32565,23 +33745,22 @@ _detalhes_database = {
 					["targets"] = {
 						["Алоиза"] = 4757,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 4757.010447,
-					["classe"] = "UNKNOW",
 					["end_time"] = 1606138796,
 					["dps_started"] = false,
 					["total"] = 4757.010447,
-					["fight_component"] = true,
-					["aID"] = "136702",
+					["on_hold"] = false,
+					["last_event"] = 0,
 					["nome"] = "Зу'шин Преображенный",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 3,
@@ -32604,15 +33783,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 10,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["m_amt"] = 0,
+								["n_amt"] = 10,
+								["a_dmg"] = 0,
+								["r_amt"] = 0,
 							}, -- [1]
 							[80576] = {
 								["c_amt"] = 0,
@@ -32635,27 +33814,534 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
+					["aID"] = "136702",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 28462.010447,
+					["start_time"] = 1606138778,
+					["delay"] = 0,
+					["monster"] = true,
+				}, -- [35]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 666.0107159999999,
+					["damage_from"] = {
+						["Алоиза"] = true,
+						["Подчинитель разума <Алоиза>"] = true,
+					},
+					["targets"] = {
+						["Алоиза"] = 3043,
+						["Подчинитель разума <Алоиза>"] = 217,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 19494.010716,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 3260.010716,
+					["total"] = 3260.010716,
+					["monster"] = true,
+					["end_time"] = 1606805628,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Жрец моря - предвестник",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 308,
+								["targets"] = {
+									["Алоиза"] = 1694,
+									["Подчинитель разума <Алоиза>"] = 217,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1911,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 1911,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[277521] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 276,
+								["targets"] = {
+									["Алоиза"] = 1349,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1349,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 1349,
+								["c_max"] = 0,
+								["id"] = 277521,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["a_dmg"] = 276,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["aID"] = "137162",
+					["friendlyfire"] = {
+					},
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1606805605,
+					["serial"] = "Creature-0-1471-1643-2748-137162-000045E7FF",
+					["classe"] = "UNKNOW",
+				}, -- [36]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.019813,
+					["damage_from"] = {
+						["Алоиза"] = true,
+					},
+					["targets"] = {
+						["Алоиза"] = 2675,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 16518.019813,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 2675.019813,
+					["total"] = 2675.019813,
+					["monster"] = true,
+					["end_time"] = 1606805642,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Жрец моря - головорез",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 704,
+								["g_amt"] = 0,
+								["n_max"] = 329,
+								["targets"] = {
+									["Алоиза"] = 2162,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1458,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 2162,
+								["c_max"] = 436,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[277524] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 513,
+								["targets"] = {
+									["Алоиза"] = 513,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 513,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 513,
+								["c_max"] = 0,
+								["id"] = 277524,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
 								["a_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["aID"] = "137178",
+					["friendlyfire"] = {
+					},
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1606805629,
+					["serial"] = "Creature-0-1471-1643-2748-137178-000045E87D",
+					["classe"] = "UNKNOW",
+				}, -- [37]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 947.014061,
+					["damage_from"] = {
+						["Алоиза"] = true,
+						["Дикейбро-ЧерныйШрам"] = true,
+					},
+					["targets"] = {
+						["Дикейбро-ЧерныйШрам"] = 947,
+						["Нагорный кролик"] = 768,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 14879.014061,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 1715.014061,
+					["total"] = 1715.014061,
+					["monster"] = true,
+					["end_time"] = 1606805701,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Мрачноморд Безмозглый",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 207,
+								["targets"] = {
+									["Дикейбро-ЧерныйШрам"] = 369,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 369,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 369,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[278222] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 768,
+								["targets"] = {
+									["Дикейбро-ЧерныйШрам"] = 578,
+									["Нагорный кролик"] = 768,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1346,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 1346,
+								["c_max"] = 0,
+								["id"] = 278222,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["aID"] = "141059",
+					["friendlyfire"] = {
+					},
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1606805690,
+					["serial"] = "Creature-0-1471-1643-2748-141059-000045E82C",
+					["classe"] = "UNKNOW",
+				}, -- [38]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 555.033003,
+					["damage_from"] = {
+						["Алоиза"] = true,
+						["Подчинитель разума <Алоиза>"] = true,
+					},
+					["targets"] = {
+						["Алоиза"] = 2392,
+						["Ярём"] = 0,
+						["Подчинитель разума <Алоиза>"] = 48,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 71519.033003,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 2440.033003,
+					["total"] = 2440.033003,
+					["fight_component"] = true,
+					["end_time"] = 1606805732,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Перенастроенный уборочный голем",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 499,
+								["g_amt"] = 0,
+								["n_max"] = 296,
+								["targets"] = {
+									["Алоиза"] = 2392,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1893,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 2392,
+								["c_max"] = 499,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[267156] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Ярём"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 267156,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
 								["r_amt"] = 0,
 								["c_min"] = 0,
 							},
+							[267069] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 48,
+								["targets"] = {
+									["Подчинитель разума <Алоиза>"] = 48,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 48,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 48,
+								["c_max"] = 0,
+								["id"] = 267069,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[257879] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257879,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 8,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
 						},
+						["tipo"] = 2,
 					},
+					["monster"] = true,
+					["friendlyfire"] = {
+					},
+					["aID"] = "130131",
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1606805706,
+					["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E7E9",
+					["friendlyfire_total"] = 0,
+				}, -- [39]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.008253,
+					["damage_from"] = {
+						["Алоиза"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["classe"] = "UNKNOW",
+					["aID"] = "142172",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.008253,
+					["delay"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606805788,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 621.008253,
+					["nome"] = "Долинный байбак",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["on_hold"] = false,
+					["total"] = 0.008253,
+					["custom"] = 0,
 					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
-					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
-					["start_time"] = 1606138778,
-					["delay"] = 0,
-					["damage_taken"] = 28462.010447,
-				}, -- [35]
+					["start_time"] = 1606805785,
+					["serial"] = "Creature-0-1471-1643-2748-142172-000045E50C",
+					["dps_started"] = false,
+				}, -- [40]
 			},
 		}, -- [1]
 		{
@@ -32670,9 +34356,9 @@ _detalhes_database = {
 					},
 					["iniciar_hps"] = false,
 					["classe"] = "PRIEST",
-					["totalover"] = 78256.044353,
-					["total_without_pet"] = 13153.044353,
-					["total"] = 13153.044353,
+					["totalover"] = 113268.071618,
+					["total_without_pet"] = 20003.071618,
+					["total"] = 20003.071618,
 					["targets_absorbs"] = {
 						["Алоиза"] = 0,
 					},
@@ -32680,76 +34366,76 @@ _detalhes_database = {
 					},
 					["on_hold"] = false,
 					["serial"] = "Player-1602-04F44A64",
-					["totalabsorb"] = 4644.044353000001,
+					["totalabsorb"] = 6417.071618000002,
 					["last_hps"] = 0,
 					["targets"] = {
-						["Алоиза"] = 3793,
+						["Алоиза"] = 0,
 					},
-					["totalover_without_pet"] = 0.044353,
-					["healing_taken"] = 13153.044353,
-					["totaldenied"] = 0.044353,
+					["totalover_without_pet"] = 0.071618,
+					["healing_taken"] = 21537.071618,
+					["totaldenied"] = 0.071618,
 					["fight_component"] = true,
 					["end_time"] = 1606122441,
-					["last_event"] = 0,
-					["nome"] = "Алоиза",
 					["boss_fight_component"] = true,
+					["spec"] = 258,
+					["nome"] = "Алоиза",
 					["spells"] = {
 						["_ActorTable"] = {
-							[298318] = {
+							[335467] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Алоиза"] = 0,
+									["Алоиза"] = 51897,
 								},
-								["n_max"] = 0,
+								["n_max"] = 591,
 								["targets"] = {
-									["Алоиза"] = 0,
+									["Алоиза"] = 3333,
 								},
 								["n_min"] = 0,
-								["counter"] = 0,
-								["overheal"] = 0,
-								["total"] = 0,
+								["counter"] = 43,
+								["overheal"] = 51897,
+								["total"] = 3333,
 								["c_max"] = 0,
-								["id"] = 298318,
+								["id"] = 335467,
 								["targets_absorbs"] = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 0,
-								["n_amt"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
 								["m_healed"] = 0,
+								["n_amt"] = 43,
+								["n_curado"] = 3333,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 							[17] = {
 								["c_amt"] = 0,
-								["totalabsorb"] = 4644,
+								["totalabsorb"] = 6417,
 								["targets_overheal"] = {
-									["Алоиза"] = 1731,
+									["Алоиза"] = 3893,
 								},
-								["n_max"] = 191,
+								["n_max"] = 308,
 								["targets"] = {
-									["Алоиза"] = 4644,
+									["Алоиза"] = 6417,
 								},
 								["n_min"] = 0,
-								["counter"] = 70,
-								["overheal"] = 1731,
-								["total"] = 4644,
+								["counter"] = 79,
+								["overheal"] = 3893,
+								["total"] = 6417,
 								["c_max"] = 0,
 								["id"] = 17,
 								["targets_absorbs"] = {
-									["Алоиза"] = 4644,
+									["Алоиза"] = 6417,
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
 								["totaldenied"] = 0,
-								["n_amt"] = 70,
-								["n_curado"] = 4644,
 								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 79,
+								["n_curado"] = 6417,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 							[143924] = {
@@ -32772,124 +34458,96 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
 								["n_amt"] = 27,
 								["n_curado"] = 1513,
-								["m_amt"] = 0,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 							[34914] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Алоиза"] = 1088,
+									["Алоиза"] = 1337,
 								},
 								["n_max"] = 241,
 								["targets"] = {
-									["Алоиза"] = 892,
+									["Алоиза"] = 1990,
 								},
 								["n_min"] = 0,
-								["counter"] = 6,
-								["overheal"] = 1088,
-								["total"] = 892,
+								["counter"] = 14,
+								["overheal"] = 1337,
+								["total"] = 1990,
 								["c_max"] = 0,
 								["id"] = 34914,
 								["targets_absorbs"] = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
 								["totaldenied"] = 0,
-								["n_amt"] = 6,
-								["n_curado"] = 892,
 								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 14,
+								["n_curado"] = 1990,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 							[269238] = {
-								["c_amt"] = 9,
+								["c_amt"] = 12,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Алоиза"] = 24699,
+									["Алоиза"] = 47552,
 								},
 								["n_max"] = 1365,
 								["targets"] = {
-									["Алоиза"] = 2443,
+									["Алоиза"] = 3846,
 								},
 								["n_min"] = 0,
-								["counter"] = 28,
-								["overheal"] = 24699,
-								["total"] = 2443,
+								["counter"] = 43,
+								["overheal"] = 47552,
+								["total"] = 3846,
 								["c_max"] = 245,
 								["id"] = 269238,
 								["targets_absorbs"] = {
 								},
 								["c_curado"] = 457,
 								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
 								["totaldenied"] = 0,
-								["n_amt"] = 19,
-								["n_curado"] = 1986,
 								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 31,
+								["n_curado"] = 3389,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
-							[335467] = {
+							[298318] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Алоиза"] = 44098,
+									["Алоиза"] = 338,
 								},
-								["n_max"] = 591,
+								["n_max"] = 575,
 								["targets"] = {
-									["Алоиза"] = 2133,
+									["Алоиза"] = 575,
 								},
 								["n_min"] = 0,
-								["counter"] = 25,
-								["overheal"] = 44098,
-								["total"] = 2133,
+								["counter"] = 1,
+								["overheal"] = 338,
+								["total"] = 575,
 								["c_max"] = 0,
-								["id"] = 335467,
+								["id"] = 298318,
 								["targets_absorbs"] = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
-								["totaldenied"] = 0,
-								["n_amt"] = 25,
-								["n_curado"] = 2133,
 								["m_amt"] = 0,
-								["absorbed"] = 0,
-							},
-							[295310] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Алоиза"] = 1329,
-								},
-								["n_max"] = 204,
-								["targets"] = {
-									["Алоиза"] = 204,
-								},
-								["n_min"] = 0,
-								["counter"] = 8,
-								["overheal"] = 1329,
-								["total"] = 204,
-								["c_max"] = 0,
-								["id"] = 295310,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["m_healed"] = 0,
 								["c_min"] = 0,
+								["n_curado"] = 575,
+								["n_amt"] = 1,
+								["m_healed"] = 0,
 								["totaldenied"] = 0,
-								["n_amt"] = 8,
-								["n_curado"] = 204,
-								["m_amt"] = 0,
 								["absorbed"] = 0,
 							},
 							[270117] = {
@@ -32912,37 +34570,138 @@ _detalhes_database = {
 								},
 								["c_curado"] = 365,
 								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
 								["n_amt"] = 7,
 								["n_curado"] = 959,
+								["c_min"] = 0,
+								["absorbed"] = 0,
+							},
+							[295310] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Алоиза"] = 2940,
+								},
+								["n_max"] = 204,
+								["targets"] = {
+									["Алоиза"] = 1005,
+								},
+								["n_min"] = 0,
+								["counter"] = 20,
+								["overheal"] = 2940,
+								["total"] = 1005,
+								["c_max"] = 0,
+								["id"] = 295310,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["totaldenied"] = 0,
 								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 20,
+								["n_curado"] = 1005,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 258,
 					["aID"] = "1602-04F44A64",
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["heal_enemy_amt"] = 0,
-					["start_time"] = 1606122325,
+					["start_time"] = 1606122273,
 					["delay"] = 0,
 					["healing_from"] = {
 						["Алоиза"] = true,
+						["[*] Азерит"] = true,
 					},
 				}, -- [1]
+				{
+					["flag_original"] = 1297,
+					["totalabsorb"] = 0.025523,
+					["last_hps"] = 0,
+					["targets_overheal"] = {
+						["Алоиза"] = 0,
+					},
+					["targets"] = {
+						["Алоиза"] = 0,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["totalover_without_pet"] = 0.025523,
+					["healing_from"] = {
+					},
+					["healing_taken"] = 0.025523,
+					["totalover"] = 8079.025523,
+					["total_without_pet"] = 1534.025523,
+					["iniciar_hps"] = false,
+					["totaldenied"] = 0.025523,
+					["fight_component"] = true,
+					["end_time"] = 1606805628,
+					["classe"] = "UNGROUPPLAYER",
+					["heal_enemy_amt"] = 0,
+					["nome"] = "[*] Азерит",
+					["targets_absorbs"] = {
+					},
+					["total"] = 1534.025523,
+					["aID"] = "",
+					["heal_enemy"] = {
+					},
+					["tipo"] = 2,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1606805598,
+					["serial"] = "",
+					["spells"] = {
+						["_ActorTable"] = {
+							[275762] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Алоиза"] = 8079,
+								},
+								["n_max"] = 517,
+								["targets"] = {
+									["Алоиза"] = 1534,
+								},
+								["n_min"] = 0,
+								["counter"] = 15,
+								["overheal"] = 8079,
+								["total"] = 1534,
+								["c_max"] = 0,
+								["id"] = 275762,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 15,
+								["n_curado"] = 1534,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+				}, -- [2]
 			},
 		}, -- [2]
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
 				{
-					["received"] = 0.044163,
-					["resource"] = 1146.811501876022,
+					["received"] = 0.07786300000000002,
+					["resource"] = 3239.435349974799,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -32953,8 +34712,8 @@ _detalhes_database = {
 					["passiveover"] = 0.001801,
 					["fight_component"] = true,
 					["resource_type"] = 13,
+					["total"] = 0.07786300000000002,
 					["classe"] = "PRIEST",
-					["totalover"] = 0.001801,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -32962,18 +34721,18 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["last_event"] = 0,
-					["alternatepower"] = 0.044163,
+					["alternatepower"] = 0.07786300000000002,
 					["flag_original"] = 1297,
+					["last_event"] = 0,
 					["tipo"] = 3,
 					["spec"] = 258,
 					["nome"] = "Алоиза",
 					["serial"] = "Player-1602-04F44A64",
-					["total"] = 0.044163,
+					["totalover"] = 0.001801,
 				}, -- [1]
 				{
 					["flag_original"] = 8465,
-					["resource"] = 270.064247,
+					["resource"] = 830.177906,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -32981,8 +34740,7 @@ _detalhes_database = {
 					["powertype"] = 0,
 					["aID"] = "62982",
 					["totalover"] = 0.003445,
-					["passiveover"] = 0.003445,
-					["resource_type"] = 13,
+					["alternatepower"] = 0.02694,
 					["ownerName"] = "Алоиза",
 					["boss_fight_component"] = true,
 					["spells"] = {
@@ -32990,14 +34748,15 @@ _detalhes_database = {
 						},
 						["tipo"] = 7,
 					},
+					["passiveover"] = 0.003445,
 					["classe"] = "PET",
-					["tipo"] = 3,
-					["total"] = 0.015457,
+					["total"] = 0.02694,
 					["last_event"] = 0,
-					["received"] = 0.015457,
+					["tipo"] = 3,
+					["received"] = 0.02694,
 					["nome"] = "Подчинитель разума <Алоиза>",
 					["serial"] = "Creature-0-3774-1466-19531-62982-00003B7CC4",
-					["alternatepower"] = 0.015457,
+					["resource_type"] = 13,
 				}, -- [2]
 			},
 		}, -- [3]
@@ -33011,9 +34770,9 @@ _detalhes_database = {
 							[15407] = {
 								["counter"] = 0,
 								["activedamt"] = 0,
-								["appliedamt"] = 7,
+								["appliedamt"] = 12,
 								["id"] = 15407,
-								["uptime"] = 10,
+								["uptime"] = 14,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
@@ -33031,40 +34790,40 @@ _detalhes_database = {
 							[335467] = {
 								["counter"] = 0,
 								["activedamt"] = 0,
-								["appliedamt"] = 9,
+								["appliedamt"] = 16,
 								["id"] = 335467,
-								["uptime"] = 38,
+								["uptime"] = 64,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
 							[341291] = {
 								["counter"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = -2,
-								["actived_at"] = 4818384318,
+								["appliedamt"] = 5,
+								["activedamt"] = 0,
+								["actived_at"] = 8031995749,
 								["id"] = 341291,
-								["uptime"] = 8,
+								["uptime"] = 29,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
 							[34914] = {
 								["counter"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = -2,
-								["actived_at"] = 1606122699,
+								["appliedamt"] = 9,
+								["activedamt"] = -4,
+								["actived_at"] = 3212928478,
 								["id"] = 34914,
-								["uptime"] = 18,
+								["uptime"] = 45,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["refreshamt"] = 3,
 							},
 							[6788] = {
 								["counter"] = 0,
 								["appliedamt"] = 2,
-								["activedamt"] = -2,
-								["actived_at"] = 3212245281,
+								["activedamt"] = -4,
+								["actived_at"] = 6425856643,
 								["id"] = 6788,
 								["uptime"] = 12,
 								["targets"] = {
@@ -33080,46 +34839,49 @@ _detalhes_database = {
 							[279956] = {
 								["refreshamt"] = 1,
 								["activedamt"] = 0,
-								["appliedamt"] = 1,
+								["appliedamt"] = 6,
 								["id"] = 279956,
-								["uptime"] = 13,
+								["uptime"] = 31,
 								["targets"] = {
 								},
 								["counter"] = 0,
-							},
-							[589] = {
-								["counter"] = 0,
-								["refreshamt"] = 0,
-								["activedamt"] = -2,
-								["uptime"] = 75,
-								["id"] = 589,
-								["appliedamt"] = 18,
-								["targets"] = {
-								},
-								["actived_at"] = 1606122699,
-							},
-							[295368] = {
-								["counter"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 3,
-								["id"] = 295368,
-								["uptime"] = 13,
-								["targets"] = {
-								},
-								["refreshamt"] = 0,
 							},
 							[295367] = {
 								["counter"] = 0,
 								["activedamt"] = 0,
-								["appliedamt"] = 4,
+								["appliedamt"] = 8,
 								["id"] = 295367,
-								["uptime"] = 16,
+								["uptime"] = 30,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[295368] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 6,
+								["id"] = 295368,
+								["uptime"] = 27,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
+							[589] = {
+								["counter"] = 0,
+								["refreshamt"] = 4,
+								["activedamt"] = -4,
+								["uptime"] = 108,
+								["id"] = 589,
+								["appliedamt"] = 28,
+								["targets"] = {
+								},
+								["actived_at"] = 3212928478,
+							},
 						},
 						["tipo"] = 9,
+					},
+					["ress_targets"] = {
+						["Корвиг"] = 0,
 					},
 					["pets"] = {
 						"Подчинитель разума <Алоиза>", -- [1]
@@ -33139,30 +34901,40 @@ _detalhes_database = {
 							},
 							[295310] = {
 								["counter"] = 0,
+								["activedamt"] = 9,
+								["appliedamt"] = 9,
+								["id"] = 295310,
+								["uptime"] = 44,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[275765] = {
+								["counter"] = 0,
 								["activedamt"] = 4,
 								["appliedamt"] = 4,
-								["id"] = 295310,
-								["uptime"] = 17,
+								["id"] = 275765,
+								["uptime"] = 33,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
 							[17] = {
 								["counter"] = 0,
-								["activedamt"] = 5,
-								["appliedamt"] = 5,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
 								["id"] = 17,
-								["uptime"] = 44,
+								["uptime"] = 63,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
-							[232698] = {
+							[267685] = {
 								["counter"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 232698,
-								["uptime"] = 123,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 267685,
+								["uptime"] = 31,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
@@ -33179,11 +34951,15 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[111759] = {
-								["id"] = 111759,
+							[232698] = {
+								["counter"] = 0,
+								["activedamt"] = 16,
+								["appliedamt"] = 16,
+								["id"] = 232698,
+								["uptime"] = 184,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[279572] = {
 								["id"] = 279572,
@@ -33193,25 +34969,33 @@ _detalhes_database = {
 							},
 							[15407] = {
 								["counter"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
+								["activedamt"] = 14,
+								["appliedamt"] = 14,
 								["id"] = 15407,
-								["uptime"] = 10,
+								["uptime"] = 14,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
 							[298343] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
 								["id"] = 298343,
+								["uptime"] = 2,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
-							[314040] = {
-								["id"] = 314040,
+							[194249] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 194249,
+								["uptime"] = 4,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[266925] = {
 								["id"] = 266925,
@@ -33221,43 +35005,19 @@ _detalhes_database = {
 							},
 							[21562] = {
 								["counter"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
+								["activedamt"] = 16,
+								["appliedamt"] = 16,
 								["id"] = 21562,
-								["uptime"] = 123,
+								["uptime"] = 188,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
 							},
-							[267685] = {
-								["counter"] = 0,
-								["activedamt"] = 4,
-								["appliedamt"] = 4,
-								["id"] = 267685,
-								["uptime"] = 23,
+							[111759] = {
+								["id"] = 111759,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
-							},
-							[304056] = {
 								["counter"] = 0,
-								["activedamt"] = 9,
-								["appliedamt"] = 9,
-								["id"] = 304056,
-								["uptime"] = 108,
-								["targets"] = {
-								},
-								["refreshamt"] = 18,
-							},
-							[317859] = {
-								["counter"] = 0,
-								["activedamt"] = 4,
-								["appliedamt"] = 4,
-								["id"] = 317859,
-								["uptime"] = 38,
-								["targets"] = {
-								},
-								["refreshamt"] = 0,
 							},
 							[270576] = {
 								["id"] = 270576,
@@ -33265,14 +35025,34 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[194249] = {
-								["id"] = 194249,
+							[317859] = {
+								["counter"] = 0,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 317859,
+								["uptime"] = 69,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[297871] = {
+								["id"] = 297871,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[297871] = {
-								["id"] = 297871,
+							[295378] = {
+								["counter"] = 0,
+								["activedamt"] = 13,
+								["appliedamt"] = 13,
+								["id"] = 295378,
+								["uptime"] = 107,
+								["targets"] = {
+								},
+								["refreshamt"] = 2,
+							},
+							[314040] = {
+								["id"] = 314040,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -33290,60 +35070,60 @@ _detalhes_database = {
 							},
 							[269239] = {
 								["counter"] = 0,
-								["activedamt"] = 10,
-								["appliedamt"] = 10,
+								["activedamt"] = 20,
+								["appliedamt"] = 20,
 								["id"] = 269239,
-								["uptime"] = 61,
+								["uptime"] = 81,
 								["targets"] = {
 								},
-								["refreshamt"] = 20,
+								["refreshamt"] = 26,
 							},
 							[300919] = {
 								["counter"] = 0,
-								["activedamt"] = 9,
-								["appliedamt"] = 9,
+								["activedamt"] = 15,
+								["appliedamt"] = 15,
 								["id"] = 300919,
-								["uptime"] = 92,
+								["uptime"] = 137,
 								["targets"] = {
 								},
-								["refreshamt"] = 6,
+								["refreshamt"] = 10,
 							},
-							[295378] = {
+							[65081] = {
 								["counter"] = 0,
 								["activedamt"] = 5,
 								["appliedamt"] = 5,
-								["id"] = 295378,
-								["uptime"] = 54,
+								["id"] = 65081,
+								["uptime"] = 10,
 								["targets"] = {
 								},
-								["refreshamt"] = 1,
+								["refreshamt"] = 0,
 							},
 							[45242] = {
 								["counter"] = 0,
-								["activedamt"] = 9,
-								["appliedamt"] = 9,
+								["activedamt"] = 16,
+								["appliedamt"] = 16,
 								["id"] = 45242,
-								["uptime"] = 115,
+								["uptime"] = 163,
 								["targets"] = {
 								},
-								["refreshamt"] = 95,
+								["refreshamt"] = 114,
 							},
 							[280204] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
 								["id"] = 280204,
-								["uptime"] = 11,
+								["uptime"] = 24,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 							[341282] = {
 								["counter"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
 								["id"] = 341282,
-								["uptime"] = 10,
+								["uptime"] = 23,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
@@ -33354,220 +35134,233 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[65081] = {
+							[304056] = {
 								["counter"] = 0,
-								["activedamt"] = 4,
-								["appliedamt"] = 4,
-								["id"] = 65081,
-								["uptime"] = 9,
+								["activedamt"] = 18,
+								["appliedamt"] = 18,
+								["id"] = 304056,
+								["uptime"] = 159,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["refreshamt"] = 23,
 							},
 						},
 						["tipo"] = 9,
 					},
+					["buff_uptime"] = 1342,
 					["fight_component"] = true,
-					["debuff_uptime"] = 232,
+					["debuff_uptime"] = 389,
 					["classe"] = "PRIEST",
 					["boss_fight_component"] = true,
+					["nome"] = "Алоиза",
 					["spec"] = 258,
 					["grupo"] = true,
 					["spell_cast"] = {
-						[15407] = 8,
+						[15407] = 14,
 						[48045] = 20,
-						[335467] = 8,
-						[147193] = 5,
-						[34914] = 2,
-						[8092] = 3,
-						[32379] = 4,
+						[335467] = 12,
+						[147193] = 15,
+						[34914] = 14,
+						[8092] = 7,
+						[295373] = 7,
 						[17] = 2,
-						[205448] = 0,
+						[205448] = 1,
 						[313948] = 0,
-						[200174] = 2,
-						[341263] = 14,
-						[589] = 14,
-						[228260] = 0,
-						[295373] = 3,
+						[200174] = 4,
+						[341263] = 31,
+						[589] = 16,
+						[228260] = 1,
+						[32379] = 7,
 					},
-					["debuff_uptime_targets"] = {
-					},
-					["buff_uptime"] = 844,
-					["last_event"] = 0,
 					["buff_uptime_targets"] = {
 					},
+					["ress_spells"] = {
+						["_ActorTable"] = {
+							[2006] = {
+								["id"] = 2006,
+								["targets"] = {
+									["Корвиг"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["debuff_uptime_targets"] = {
+					},
 					["serial"] = "Player-1602-04F44A64",
-					["nome"] = "Алоиза",
+					["ress"] = 0,
 				}, -- [1]
 				{
 					["monster"] = true,
-					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["nome"] = "Бешеная визгунья",
-					["last_event"] = 0,
-					["spell_cast"] = {
-						[200630] = 1,
+					["flag_original"] = 2632,
+					["pets"] = {
 					},
 					["fight_component"] = true,
-					["aID"] = "95769",
 					["tipo"] = 4,
-					["classe"] = "UNKNOW",
+					["aID"] = "95769",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-3774-1466-19531-95769-0001BB7BAD",
-					["pets"] = {
+					["spell_cast"] = {
+						[200630] = 1,
 					},
 				}, -- [2]
 				{
 					["monster"] = true,
-					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["nome"] = "Гнилосердная дриада",
+					["flag_original"] = 2632,
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["tipo"] = 4,
+					["aID"] = "99358",
 					["last_event"] = 0,
+					["serial"] = "Creature-0-3774-1466-19531-99358-00003B7BAD",
 					["spell_cast"] = {
 						[198723] = 13,
 						[198904] = 2,
 					},
-					["fight_component"] = true,
-					["aID"] = "99358",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-3774-1466-19531-99358-00003B7BAD",
-					["pets"] = {
-					},
 				}, -- [3]
 				{
 					["monster"] = true,
-					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["nome"] = "Цветущий злошип",
-					["last_event"] = 0,
-					["spell_cast"] = {
-						[201129] = 9,
+					["flag_original"] = 2632,
+					["pets"] = {
 					},
 					["fight_component"] = true,
-					["aID"] = "99360",
 					["tipo"] = 4,
-					["classe"] = "UNKNOW",
+					["aID"] = "99360",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-3774-1466-19531-99360-00003B7BAD",
-					["pets"] = {
+					["spell_cast"] = {
+						[201129] = 9,
 					},
 				}, -- [4]
 				{
 					["flag_original"] = 8465,
+					["tipo"] = 4,
 					["ownerName"] = "Алоиза",
-					["nome"] = "Подчинитель разума <Алоиза>",
-					["classe"] = "PET",
-					["spell_cast"] = {
-						[63619] = 2,
-					},
 					["boss_fight_component"] = true,
 					["pets"] = {
 					},
-					["tipo"] = 4,
 					["aID"] = "62982",
-					["serial"] = "Creature-0-3774-1466-19531-62982-00003B7CC4",
+					["spell_cast"] = {
+						[63619] = 4,
+					},
+					["classe"] = "PET",
 					["last_event"] = 0,
+					["serial"] = "Creature-0-3774-1466-19531-62982-00003B7CC4",
+					["nome"] = "Подчинитель разума <Алоиза>",
 				}, -- [5]
 				{
 					["flag_original"] = 68168,
-					["tipo"] = 4,
+					["spell_cast"] = {
+						[204666] = 1,
+					},
 					["boss_fight_component"] = true,
 					["last_event"] = 0,
 					["pets"] = {
 					},
 					["nome"] = "Дубосерд",
-					["classe"] = "UNKNOW",
 					["aID"] = "",
-					["spell_cast"] = {
-						[204666] = 1,
-					},
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
 					["serial"] = "Vehicle-0-3774-1466-19531-103344-00003B7BAD",
 					["monster"] = true,
 				}, -- [6]
 				{
 					["monster"] = true,
-					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["nome"] = "Бес ужасающего огня",
-					["last_event"] = 0,
-					["spell_cast"] = {
-						[201411] = 4,
+					["flag_original"] = 2632,
+					["pets"] = {
 					},
 					["fight_component"] = true,
-					["aID"] = "100527",
 					["tipo"] = 4,
-					["classe"] = "UNKNOW",
+					["aID"] = "100527",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-3774-1466-19531-100527-0000BB7BAD",
-					["pets"] = {
+					["spell_cast"] = {
+						[201411] = 4,
 					},
 				}, -- [7]
 				{
 					["monster"] = true,
-					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
 					["nome"] = "Скверносерд-призыватель",
-					["last_event"] = 0,
-					["spell_cast"] = {
-						[201837] = 3,
+					["flag_original"] = 68168,
+					["pets"] = {
 					},
 					["fight_component"] = true,
-					["aID"] = "99366",
 					["tipo"] = 4,
-					["classe"] = "UNKNOW",
+					["aID"] = "99366",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-3774-1466-19531-99366-00003B7BAD",
-					["pets"] = {
+					["spell_cast"] = {
+						[201837] = 3,
 					},
 				}, -- [8]
 				{
 					["monster"] = true,
-					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
 					["nome"] = "Истерзанный кровопийца",
-					["last_event"] = 0,
-					["spell_cast"] = {
-						[201361] = 5,
+					["flag_original"] = 68168,
+					["pets"] = {
 					},
 					["fight_component"] = true,
-					["aID"] = "100526",
 					["tipo"] = 4,
-					["classe"] = "UNKNOW",
+					["aID"] = "100526",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-3774-1466-19531-100526-00003B7BAD",
-					["pets"] = {
+					["spell_cast"] = {
+						[201361] = 5,
 					},
 				}, -- [9]
 				{
 					["monster"] = true,
-					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["nome"] = "Скверносерд-стрелок",
+					["flag_original"] = 2632,
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["tipo"] = 4,
+					["aID"] = "100539",
 					["last_event"] = 0,
+					["serial"] = "Creature-0-3774-1466-19531-100539-00013B7BAD",
 					["spell_cast"] = {
 						[201858] = 1,
 						[201902] = 1,
 					},
-					["fight_component"] = true,
-					["aID"] = "100539",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-3774-1466-19531-100539-00013B7BAD",
-					["pets"] = {
-					},
 				}, -- [10]
 				{
 					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
 					["boss_fight_component"] = true,
 					["monster"] = true,
 					["pets"] = {
 					},
-					["tipo"] = 4,
 					["nome"] = "Тень Ксавия",
-					["last_event"] = 0,
 					["spell_cast"] = {
 						[200182] = 0,
 					},
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
 					["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 					["aID"] = "99192",
 				}, -- [11]
 				{
 					["flag_original"] = 68168,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -33578,21 +35371,21 @@ _detalhes_database = {
 					["spellschool"] = 8,
 					["debuff_uptime_targets"] = {
 					},
-					["damage_spellid"] = 200182,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 200182,
 					["aID"] = "99192",
-					["tipo"] = 4,
-					["damage_twin"] = "Тень Ксавия",
-					["nome"] = "Гноящаяся рана",
-					["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
 					["last_event"] = 0,
+					["damage_twin"] = "Тень Ксавия",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3774-1466-19531-99192-00003B7BAE",
+					["nome"] = "Гноящаяся рана",
 				}, -- [12]
 				{
 					["flag_original"] = 68168,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -33603,35 +35396,35 @@ _detalhes_database = {
 					["spellschool"] = 1,
 					["debuff_uptime_targets"] = {
 					},
-					["damage_spellid"] = 196376,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 196376,
 					["aID"] = "96512",
-					["tipo"] = 4,
-					["damage_twin"] = "Верховный друид Глайдалис",
-					["nome"] = "Мучительное разрывание",
-					["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
 					["last_event"] = 0,
+					["damage_twin"] = "Верховный друид Глайдалис",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3774-1466-19531-96512-00003B7BAD",
+					["nome"] = "Мучительное разрывание",
 				}, -- [13]
 				{
 					["monster"] = true,
-					["tipo"] = 4,
+					["aID"] = "93155",
 					["nome"] = "Измученная дриада",
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[10277] = 0,
 					},
-					["pets"] = {
-					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
 					["classe"] = "UNKNOW",
-					["aID"] = "93155",
-					["serial"] = "Creature-0-3889-1220-177-93155-00003B7AD0",
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3889-1220-177-93155-00003B7AD0",
+					["flag_original"] = 2632,
 				}, -- [14]
 				{
 					["fight_component"] = true,
-					["nome"] = "Василиск силового камня",
 					["aID"] = "103514",
+					["nome"] = "Василиск силового камня",
 					["pets"] = {
 					},
 					["spell_cast"] = {
@@ -33645,8 +35438,10 @@ _detalhes_database = {
 				}, -- [15]
 				{
 					["monster"] = true,
-					["tipo"] = 4,
+					["aID"] = "108678",
 					["nome"] = "Шар'тос",
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[216043] = 0,
 						[216044] = 0,
@@ -33654,47 +35449,109 @@ _detalhes_database = {
 						[215860] = 0,
 						[215806] = 0,
 					},
-					["pets"] = {
-					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
 					["classe"] = "UNKNOW",
-					["aID"] = "108678",
-					["serial"] = "Creature-0-3889-1220-177-108678-00003B79A2",
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3889-1220-177-108678-00003B79A2",
+					["flag_original"] = 68168,
 				}, -- [16]
 				{
 					["monster"] = true,
-					["tipo"] = 4,
+					["aID"] = "106369",
 					["nome"] = "Охотница из племени Скального Когтя",
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[220470] = 0,
 					},
-					["pets"] = {
-					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
 					["classe"] = "UNKNOW",
-					["aID"] = "106369",
-					["serial"] = "Creature-0-3889-1220-177-106369-00003B793D",
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3889-1220-177-106369-00003B793D",
+					["flag_original"] = 68168,
 				}, -- [17]
 				{
 					["monster"] = true,
-					["tipo"] = 4,
-					["spell_cast"] = {
-						[80576] = 1,
-					},
+					["aID"] = "136702",
 					["nome"] = "Зу'шин Преображенный",
 					["pets"] = {
 					},
+					["spell_cast"] = {
+						[80576] = 1,
+					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
 					["classe"] = "UNKNOW",
-					["aID"] = "136702",
-					["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4239-1642-643-136702-00003BBB99",
+					["flag_original"] = 68168,
 				}, -- [18]
+				{
+					["monster"] = true,
+					["flag_original"] = 2632,
+					["nome"] = "Жрец моря - предвестник",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[277521] = 1,
+					},
+					["fight_component"] = true,
+					["aID"] = "137162",
+					["tipo"] = 4,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1471-1643-2748-137162-000045E7FF",
+					["pets"] = {
+					},
+				}, -- [19]
+				{
+					["monster"] = true,
+					["flag_original"] = 68168,
+					["nome"] = "Жрец моря - головорез",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[277524] = 1,
+					},
+					["fight_component"] = true,
+					["aID"] = "137178",
+					["tipo"] = 4,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1471-1643-2748-137178-000045E746",
+					["pets"] = {
+					},
+				}, -- [20]
+				{
+					["monster"] = true,
+					["flag_original"] = 68168,
+					["nome"] = "Мрачноморд Безмозглый",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[278222] = 1,
+					},
+					["fight_component"] = true,
+					["aID"] = "141059",
+					["tipo"] = 4,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1471-1643-2748-141059-000045E82C",
+					["pets"] = {
+					},
+				}, -- [21]
+				{
+					["flag_original"] = 68168,
+					["spell_cast"] = {
+						[257879] = 8,
+					},
+					["nome"] = "Перенастроенный уборочный голем",
+					["aID"] = "130131",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-1471-1643-2748-130131-0000C5E7E9",
+					["monster"] = true,
+				}, -- [22]
 			},
 		}, -- [4]
 		{
@@ -33709,18 +35566,114 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["cleu_timeline"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 2.466000000014901,
+				["type"] = 0,
+				["name"] = "Долинный байбак",
+				["clock"] = "08:56:26",
+			}, -- [1]
+			{
+				["elapsed"] = 15.80499999993481,
+				["type"] = 0,
+				["name"] = "Перенастроенный уборочный голем",
+				["clock"] = "08:56:05",
+			}, -- [2]
+			{
+				["elapsed"] = 5.97399999992922,
+				["type"] = 0,
+				["name"] = "Перенастроенный уборочный голем",
+				["clock"] = "08:55:43",
+			}, -- [3]
+			{
+				["elapsed"] = 8.070999999996275,
+				["type"] = 0,
+				["name"] = "Перенастроенный уборочный голем",
+				["clock"] = "08:55:24",
+			}, -- [4]
+			{
+				["elapsed"] = 9.472000000067055,
+				["type"] = 0,
+				["name"] = "Мрачноморд Безмозглый",
+				["clock"] = "08:54:51",
+			}, -- [5]
+			{
+				["elapsed"] = 6.518999999854714,
+				["type"] = 0,
+				["name"] = "Жрец моря - головорез",
+				["clock"] = "08:54:09",
+			}, -- [6]
+			{
+				["elapsed"] = 3.695000000065193,
+				["type"] = 0,
+				["name"] = "Жрец моря - головорез",
+				["clock"] = "08:53:58",
+			}, -- [7]
+			{
+				["elapsed"] = 12.875,
+				["type"] = 0,
+				["name"] = "Жрец моря - предвестник",
+				["clock"] = "08:53:35",
+			}, -- [8]
+			{
+				["elapsed"] = 14.91899999999441,
+				["type"] = 0,
+				["name"] = "Зу'шин Преображенный",
+				["clock"] = "15:39:41",
+			}, -- [9]
+			{
+				["elapsed"] = 14.63199999998324,
+				["type"] = 5,
+				["name"] = "Зачистка мусора",
+				["clock"] = "11:14:39",
+			}, -- [10]
+			{
+				["elapsed"] = 10.75199999997858,
+				["type"] = 5,
+				["name"] = "Зачистка мусора",
+				["clock"] = "11:14:05",
+			}, -- [11]
+			{
+				["elapsed"] = 11.96500000008382,
+				["type"] = 5,
+				["name"] = "Зачистка мусора",
+				["clock"] = "11:13:50",
+			}, -- [12]
+			{
+				["elapsed"] = 10.12699999997858,
+				["type"] = 6,
+				["name"] = "Дубосерд",
+				["clock"] = "11:11:31",
+			}, -- [13]
+			{
+				["elapsed"] = 11.80599999998231,
+				["type"] = 5,
+				["name"] = "Зачистка мусора",
+				["clock"] = "11:10:41",
+			}, -- [14]
+			{
+				["elapsed"] = 37.85999999998603,
+				["type"] = 5,
+				["name"] = "Зачистка мусора",
+				["clock"] = "11:09:49",
+			}, -- [15]
+			{
+				["elapsed"] = 11.80900000000838,
+				["type"] = 5,
+				["name"] = "Зачистка мусора",
+				["clock"] = "11:07:09",
+			}, -- [16]
 		},
 		["combat_counter"] = 4221,
 		["totals"] = {
-			735483.1356690001, -- [1]
-			13153.009828, -- [2]
+			872233.181053, -- [1]
+			21536.97576100001, -- [2]
 			{
-				0, -- [1]
-				[0] = 0.05437400000000001,
+				-0.010731, -- [1]
+				[0] = 0.092503,
 				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
+				[6] = -0.00671599999999728,
+				[3] = -0.002585,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
@@ -33743,13 +35696,15 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = "11:07:09",
-		["end_time"] = 816568.336,
+		["end_time"] = 1483557.642,
+		["cleu_timeline"] = {
+		},
 		["totals_grupo"] = {
-			687069.0363400001, -- [1]
-			13153.037552, -- [2]
+			806196.0779500002, -- [1]
+			20003.064817, -- [2]
 			{
 				0, -- [1]
-				[0] = 0.04236200000000001,
+				[0] = 0.07606200000000002,
 				["alternatepower"] = 0,
 				[6] = 0,
 				[3] = 0,
@@ -33780,66 +35735,16 @@ _detalhes_database = {
 			["damage_section"] = {
 			},
 		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 14.91899999999441,
-				["type"] = 0,
-				["name"] = "Зу'шин Преображенный",
-				["clock"] = "15:39:41",
-			}, -- [1]
-			{
-				["elapsed"] = 14.63199999998324,
-				["type"] = 5,
-				["name"] = "Зачистка мусора",
-				["clock"] = "11:14:39",
-			}, -- [2]
-			{
-				["elapsed"] = 10.75199999997858,
-				["type"] = 5,
-				["name"] = "Зачистка мусора",
-				["clock"] = "11:14:05",
-			}, -- [3]
-			{
-				["elapsed"] = 11.96500000008382,
-				["type"] = 5,
-				["name"] = "Зачистка мусора",
-				["clock"] = "11:13:50",
-			}, -- [4]
-			{
-				["elapsed"] = 10.12699999997858,
-				["type"] = 6,
-				["name"] = "Дубосерд",
-				["clock"] = "11:11:31",
-			}, -- [5]
-			{
-				["elapsed"] = 11.80599999998231,
-				["type"] = 5,
-				["name"] = "Зачистка мусора",
-				["clock"] = "11:10:41",
-			}, -- [6]
-			{
-				["elapsed"] = 37.85999999998603,
-				["type"] = 5,
-				["name"] = "Зачистка мусора",
-				["clock"] = "11:09:49",
-			}, -- [7]
-			{
-				["elapsed"] = 11.80900000000838,
-				["type"] = 5,
-				["name"] = "Зачистка мусора",
-				["clock"] = "11:07:09",
-			}, -- [8]
-		},
 		["hasSaved"] = true,
 		["spells_cast_timeline"] = {
 		},
-		["data_fim"] = "15:39:56",
+		["data_fim"] = "08:56:28",
 		["overall_enemy_name"] = "-- x -- x --",
 		["CombatSkillCache"] = {
 		},
 		["frags"] = {
 		},
-		["start_time"] = 816444.466,
+		["start_time"] = 1483368.895,
 		["TimeData"] = {
 			["Player Damage Done"] = {
 			},
@@ -33878,5 +35783,6 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-1602-04F44A64"] = 258,
+		["Player-1602-0C71DCB6"] = 64,
 	},
 }
