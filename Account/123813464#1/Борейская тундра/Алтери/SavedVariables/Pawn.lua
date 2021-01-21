@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
+	["LastVersion"] = 2.0409,
 	["LastPlayerFullName"] = "Алтери-Борейская тундра",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,

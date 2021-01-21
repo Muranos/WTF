@@ -3,8 +3,10 @@ Scrap_CharSets = {
 	["ml"] = {
 	},
 	["list"] = {
+		[182681] = false,
 		[173726] = true,
 		[80822] = true,
+		[174021] = true,
 		[174459] = true,
 		[169844] = true,
 		[123862] = true,
@@ -17,12 +19,12 @@ Scrap_CharSets = {
 		[174457] = true,
 		[122123] = true,
 		[174837] = true,
-		[174461] = true,
+		[182582] = false,
 		[143902] = true,
 		[174460] = true,
 		[117550] = true,
 		[174458] = true,
 		[174462] = true,
-		[182582] = true,
+		[174461] = true,
 	},
 }

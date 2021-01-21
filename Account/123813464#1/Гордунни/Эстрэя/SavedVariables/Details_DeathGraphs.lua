@@ -5,7 +5,96 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Панцирь Н'Зота",
 		["id"] = 2366,
-		["diff"] = 15,
+		["player_db"] = {
+			["Alkêêr-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Alkêêr-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Aralyä-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Aralyä-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Illidaark-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Illidaark-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Centk-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Centk-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Eldâra-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Eldâra-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Wàpo-Dalaran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Wàpo-Dalaran",
+				["overall"] = {
+				},
+			},
+			["Эстрэя"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Эстрэя",
+				["overall"] = {
+				},
+			},
+			["Nainpausteur-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Nainpausteur-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Сострадание"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Сострадание",
+				["overall"] = {
+				},
+			},
+			["Kaidowïn-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Kaidowïn-KhazModan",
+				["overall"] = {
+				},
+			},
+			["Înka-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Înka-KhazModan",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 11,
@@ -14,107 +103,35 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Панцирь Н'Зота",
-			["encounter"] = "Панцирь Н'Зота",
-			["ej_instance_id"] = 1180,
 			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Панцирь Н'Зота",
 		},
-		["player_db"] = {
-			["Alkêêr-KhazModan"] = {
-				["name"] = "Alkêêr-KhazModan",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Aralyä-KhazModan"] = {
-				["name"] = "Aralyä-KhazModan",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Illidaark-KhazModan"] = {
-				["name"] = "Illidaark-KhazModan",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Centk-KhazModan"] = {
-				["name"] = "Centk-KhazModan",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Eldâra-KhazModan"] = {
-				["name"] = "Eldâra-KhazModan",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Wàpo-Dalaran"] = {
-				["name"] = "Wàpo-Dalaran",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Înka-KhazModan"] = {
-				["name"] = "Înka-KhazModan",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Nainpausteur-KhazModan"] = {
-				["name"] = "Nainpausteur-KhazModan",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Сострадание"] = {
-				["name"] = "Сострадание",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Kaidowïn-KhazModan"] = {
-				["name"] = "Kaidowïn-KhazModan",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Эстрэя"] = {
-				["name"] = "Эстрэя",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "deaths",
 		["name"] = "Н'Зот Заразитель",
 		["id"] = 2375,
-		["diff"] = 15,
+		["player_db"] = {
+			["Wàpo-Dalaran"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Wàpo-Dalaran",
+				["overall"] = {
+				},
+			},
+			["Înka-KhazModan"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Înka-KhazModan",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 12,
@@ -124,28 +141,11 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Н'Зот Заразитель",
 			["diff"] = 15,
-			["id"] = 2344,
 			["ej_instance_id"] = 1180,
+			["id"] = 2344,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Wàpo-Dalaran"] = {
-				["name"] = "Wàpo-Dalaran",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Înka-KhazModan"] = {
-				["name"] = "Înka-KhazModan",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 }
 DeathGraphsDBEndurance = {
@@ -154,37 +154,25 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Панцирь Н'Зота",
 		["id"] = 2366,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Героический",
-			["index"] = 11,
-			["zone"] = "Ни'алота, Пробуждающийся Город",
-			["id"] = 2337,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Панцирь Н'Зота",
-			["encounter"] = "Панцирь Н'Зота",
-			["ej_instance_id"] = 1180,
-			["diff"] = 15,
-		},
 		["player_db"] = {
 			["Alkêêr-KhazModan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Aralyä-KhazModan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Illidaark-KhazModan"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -192,70 +180,60 @@ DeathGraphsDBEndurance = {
 						"Распад психики(ДоТ) |cFFFF3333733|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Nyzõ-Hyjal"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Centk-KhazModan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Eldâra-KhazModan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["deaths"] = {
-				},
 				["class"] = "MAGE",
-			},
-			["Înka-KhazModan"] = {
-				["encounters"] = 2,
-				["points"] = 190,
 				["deaths"] = {
-					{
-						1, -- [1]
-						157.0590000000084, -- [2]
-						"Покрытое наростами щупальце |cFFFF333338,294|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
-			["Kaidowïn-KhazModan"] = {
+			["Эстрэя"] = {
 				["encounters"] = 2,
-				["points"] = 190,
+				["points"] = 200,
+				["class"] = "DRUID",
 				["deaths"] = {
-					{
-						2, -- [1]
-						36.89399999997113, -- [2]
-						"Покрытое наростами щупальце |cFFFF333336,733|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "HUNTER",
+			},
+			["Ferlone-Dalaran"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 			["Wàpo-Dalaran"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Kneelforheal-Arygos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Nainpausteur-KhazModan"] = {
 				["encounters"] = 3,
 				["points"] = 270,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -268,37 +246,168 @@ DeathGraphsDBEndurance = {
 						"Порождение безумия |cFFFF33333,712|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "PALADIN",
 			},
 			["Сострадание"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["deaths"] = {
-				},
 				["class"] = "DRUID",
-			},
-			["Ferlone-Dalaran"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
-			["Эстрэя"] = {
+			["Kaidowïn-KhazModan"] = {
 				["encounters"] = 2,
-				["points"] = 200,
+				["points"] = 190,
+				["class"] = "HUNTER",
 				["deaths"] = {
+					{
+						2, -- [1]
+						36.89399999997113, -- [2]
+						"Покрытое наростами щупальце |cFFFF333336,733|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "DRUID",
+			},
+			["Înka-KhazModan"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						157.0590000000084, -- [2]
+						"Покрытое наростами щупальце |cFFFF333338,294|r", -- [3]
+					}, -- [1]
+				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Героический",
+			["index"] = 11,
+			["zone"] = "Ни'алота, Пробуждающийся Город",
+			["id"] = 2337,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Панцирь Н'Зота",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Панцирь Н'Зота",
+		},
+		["diff"] = 15,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "endurance",
 		["name"] = "Н'Зот Заразитель",
 		["id"] = 2375,
-		["diff"] = 15,
+		["player_db"] = {
+			["Alkêêr-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Aralyä-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Illidaark-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Nyzõ-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Centk-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Eldâra-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Эстрэя"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Ferlone-Dalaran"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Wàpo-Dalaran"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						535.2260000000242, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,352|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Kneelforheal-Arygos"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Nainpausteur-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Сострадание"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Kaidowïn-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Înka-KhazModan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						534.2509999999311, -- [2]
+						"Страдания(ДоТ) |cFFFF33336,466|r", -- [3]
+					}, -- [1]
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Героический",
 			["index"] = 12,
@@ -308,120 +417,11 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Н'Зот Заразитель",
 			["diff"] = 15,
-			["id"] = 2344,
 			["ej_instance_id"] = 1180,
+			["id"] = 2344,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Alkêêr-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Aralyä-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Illidaark-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Nyzõ-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Centk-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Eldâra-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Înka-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						534.2509999999311, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,466|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Kaidowïn-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Wàpo-Dalaran"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						535.2260000000242, -- [2]
-						"Страдания(ДоТ) |cFFFF33336,352|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MONK",
-			},
-			["Kneelforheal-Arygos"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Nainpausteur-KhazModan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Сострадание"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Ferlone-Dalaran"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Эстрэя"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-		},
+		["diff"] = 15,
 	},
 }
 DeathGraphsDBCurrent = {
@@ -431,9 +431,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 19420,
 				["timeofdeath"] = 534.2509999999311,
 				["name"] = "Înka-KhazModan",
-				["time"] = 1605994078.106,
-				["class"] = "HUNTER",
-				["timestring"] = "8m 54s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -828,14 +825,14 @@ DeathGraphsDBCurrent = {
 						"Înka-KhazModan", -- [6]
 					}, -- [33]
 				},
+				["class"] = "HUNTER",
+				["timestring"] = "8m 54s",
+				["time"] = 1605994078.106,
 			}, -- [1]
 			{
 				["maxhealth"] = 18360,
 				["timeofdeath"] = 535.2260000000242,
 				["name"] = "Wàpo-Dalaran",
-				["time"] = 1605994079.081,
-				["class"] = "MONK",
-				["timestring"] = "8m 55s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -1230,6 +1227,9 @@ DeathGraphsDBCurrent = {
 						"Wàpo-Dalaran", -- [6]
 					}, -- [33]
 				},
+				["class"] = "MONK",
+				["timestring"] = "8m 55s",
+				["time"] = 1605994079.081,
 			}, -- [2]
 		},
 		["bossname"] = "Н'Зот Заразитель",
@@ -1249,9 +1249,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 19940,
 				["timeofdeath"] = 36.89399999997113,
 				["name"] = "Kaidowïn-KhazModan",
-				["time"] = 1605992903.019,
-				["class"] = "HUNTER",
-				["timestring"] = "0m 36s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -1618,14 +1615,14 @@ DeathGraphsDBCurrent = {
 						"Kaidowïn-KhazModan", -- [6]
 					}, -- [34]
 				},
+				["class"] = "HUNTER",
+				["timestring"] = "0m 36s",
+				["time"] = 1605992903.019,
 			}, -- [1]
 			{
 				["maxhealth"] = 18180,
 				["timeofdeath"] = 407.5979999999981,
 				["name"] = "Illidaark-KhazModan",
-				["time"] = 1605993273.723,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "6m 47s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2020,6 +2017,9 @@ DeathGraphsDBCurrent = {
 						"Illidaark-KhazModan", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "6m 47s",
+				["time"] = 1605993273.723,
 			}, -- [2]
 		},
 		["bossname"] = "Панцирь Н'Зота",

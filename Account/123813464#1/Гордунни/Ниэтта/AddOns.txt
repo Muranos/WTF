@@ -23,7 +23,7 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
-RCLootCouncil: disabled
+RCLootCouncil: enabled
 TomCats-Nzoth: disabled
 AllTheThings: enabled
 RaiderIO: enabled
@@ -42,3 +42,5 @@ Castbars: enabled
 Gnosis: disabled
 TwintopInsanityBar: disabled
 TradeSkillMaster: disabled
+BigWigs_CastleNathria: enabled
+BigWigs_Shadowlands: enabled

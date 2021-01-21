@@ -1,12 +1,22 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
+		["Ниамэй - Гордунни"] = "Default",
+		["Алтери - Борейская тундра"] = "Default",
+		["Фламинника - Гордунни"] = "Default",
 		["Эстрэя - Гордунни"] = "Default",
-		["Ниэтта - Гордунни"] = "Default",
 		["Алоиза - Борейская тундра"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
+		["Дэлери - Борейская тундра"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Ниэтта - Гордунни"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
+		["Дэлери - Гордунни"] = "Default",
 	},
 	["global"] = {
 		["disableElvMsg"] = true,
+		["oodChk"] = 201227,
+		["oodVer"] = 256,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -61,6 +71,10 @@ OmniCDDB = {
 					["general"] = {
 						["showPlayer"] = true,
 					},
+				},
+				["scenario"] = {
+				},
+				["none"] = {
 				},
 			},
 		},

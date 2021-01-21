@@ -27,7 +27,7 @@ OmniCCDB = {
 		["Дэлери - Гордунни"] = "По умолчанию",
 	},
 	["global"] = {
-		["addonVersion"] = "9.0.4",
+		["addonVersion"] = "9.0.5",
 		["dbVersion"] = 5,
 	},
 	["profiles"] = {
@@ -96,6 +96,7 @@ OmniCCDB = {
 	},
 }
 OmniCC4Config = {
+	["version"] = "8.2.5",
 	["groupSettings"] = {
 		["base"] = {
 			["minDuration"] = 2,
@@ -121,5 +122,4 @@ OmniCC4Config = {
 	},
 	["groups"] = {
 	},
-	["version"] = "8.2.5",
 }

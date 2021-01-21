@@ -111,6 +111,13 @@ X: 6
 Y: -204
 W: 570
 H: 155
+Frame: AllTheThings-Window-AuctionData
+FrameLevel: 2
+Anchor: TOP
+X: 26
+Y: -126
+W: 300
+H: 518
 Frame: CastingBarFrame
 FrameLevel: 1
 Anchor: BOTTOM

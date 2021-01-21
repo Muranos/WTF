@@ -1,60 +1,8 @@
 
 MasterPlanAG = {
-	["Гордунни"] = {
-		["Дэлери"] = {
-			["summary"] = {
-				["inProgress"] = {
-					[65] = 1600615780,
-					[86] = 1600615773,
-				},
-			},
-			["faction"] = "Alliance",
-			["lastCacheTime"] = 1600613991,
-			["curRes"] = 1257,
-			["class"] = "DEATHKNIGHT",
-		},
-		["Фламинника"] = {
-			["summary"] = {
-				["inProgress"] = {
-					[245] = 1599635678,
-					[276] = 1599669874,
-				},
-			},
-			["faction"] = "Alliance",
-			["lastCacheTime"] = 1591743731,
-			["curRes"] = 9840,
+	["Silvermoon"] = {
+		["Flaminika"] = {
 			["class"] = "WARRIOR",
-		},
-		["Ниэтта"] = {
-			["lastCacheTime"] = 1607209603,
-			["class"] = "PALADIN",
-			["curRes"] = 1794,
-			["faction"] = "Alliance",
-		},
-		["Ниамэй"] = {
-			["class"] = "MONK",
-			["lastCacheTime"] = 1605983639,
-			["curRes"] = 1334,
-			["faction"] = "Alliance",
-		},
-		["Алоиза"] = {
-			["summary"] = {
-				["inProgress"] = {
-					[150] = 1606123897,
-					[370] = 1606156290,
-				},
-			},
-			["faction"] = "Alliance",
-			["class"] = "PRIEST",
-			["curRes"] = 2425,
-			["lastCacheTime"] = 1606113929,
-		},
-		["Хилопятьумер"] = {
-			["class"] = "PALADIN",
-			["faction"] = "Alliance",
-		},
-		["Эстрэя"] = {
-			["class"] = "DRUID",
 			["faction"] = "Alliance",
 		},
 	},
@@ -76,10 +24,10 @@ MasterPlanAG = {
 			["faction"] = "Alliance",
 		},
 	},
-	["Silvermoon"] = {
-		["Flaminika"] = {
-			["class"] = "WARRIOR",
+	["Bronzebeard"] = {
+		["Altery"] = {
 			["faction"] = "Alliance",
+			["class"] = "ROGUE",
 		},
 	},
 	["Борейская тундра"] = {
@@ -129,11 +77,11 @@ MasterPlanAG = {
 				},
 				["ti2"] = 122486,
 			},
-			["faction"] = "Alliance",
+			["curOil"] = 1135,
 			["lastCacheTime"] = 1591374186,
 			["class"] = "DRUID",
 			["curRes"] = 9063,
-			["curOil"] = 1135,
+			["faction"] = "Alliance",
 		},
 		["Алтери"] = {
 			["summary"] = {
@@ -141,13 +89,17 @@ MasterPlanAG = {
 					[478] = 1601275710,
 				},
 			},
-			["faction"] = "Alliance",
+			["curOil"] = 1350,
 			["lastCacheTime"] = 1594399625,
 			["class"] = "ROGUE",
 			["curRes"] = 5773,
-			["curOil"] = 1350,
+			["faction"] = "Alliance",
 		},
 		["Ниоши"] = {
+			["faction"] = "Alliance",
+			["class"] = "MAGE",
+		},
+		["Эрника"] = {
 			["faction"] = "Alliance",
 			["class"] = "MAGE",
 		},
@@ -164,19 +116,15 @@ MasterPlanAG = {
 				},
 				["ti2"] = 122486,
 			},
-			["curOil"] = 12840,
+			["faction"] = "Alliance",
 			["lastCacheTime"] = 1591910378,
 			["class"] = "PRIEST",
 			["curRes"] = 10000,
-			["faction"] = "Alliance",
+			["curOil"] = 12840,
 		},
 		["Элави"] = {
 			["class"] = "WARLOCK",
 			["faction"] = "Alliance",
-		},
-		["Эрника"] = {
-			["faction"] = "Alliance",
-			["class"] = "MAGE",
 		},
 		["Зонна"] = {
 			["summary"] = {
@@ -213,10 +161,64 @@ MasterPlanAG = {
 			["class"] = "WARRIOR",
 		},
 	},
-	["Bronzebeard"] = {
-		["Altery"] = {
+	["Гордунни"] = {
+		["Дэлери"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[65] = 1600615780,
+					[86] = 1600615773,
+				},
+			},
 			["faction"] = "Alliance",
-			["class"] = "ROGUE",
+			["lastCacheTime"] = 1600613991,
+			["curRes"] = 1257,
+			["class"] = "DEATHKNIGHT",
 		},
+		["Фламинника"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[245] = 1599635678,
+					[276] = 1599669874,
+				},
+			},
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1591743731,
+			["curRes"] = 9840,
+			["class"] = "WARRIOR",
+		},
+		["Ниэтта"] = {
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1607209603,
+			["curRes"] = 1794,
+			["class"] = "PALADIN",
+		},
+		["Ниамэй"] = {
+			["lastCacheTime"] = 1605983639,
+			["class"] = "MONK",
+			["curRes"] = 1334,
+			["faction"] = "Alliance",
+		},
+		["Алоиза"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[150] = 1606123897,
+					[370] = 1606156290,
+				},
+			},
+			["faction"] = "Alliance",
+			["class"] = "PRIEST",
+			["curRes"] = 2425,
+			["lastCacheTime"] = 1606113929,
+		},
+		["Хилопятьумер"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Alliance",
+		},
+		["Эстрэя"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
+		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

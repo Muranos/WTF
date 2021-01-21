@@ -7,7 +7,7 @@ VER 3 010000000000000A "Cancel" "1723990"
 END
 VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение от токсинов
+/cast [modifier:SELFCAST, @player] [@mouseover, help] Очищение от токсинов; [@player] Очищение от токсинов
 END
 VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -15,7 +15,7 @@ VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000B "Glory" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Торжество
+/cast [modifier:SELFCAST, @player] [@mouseover, help] Торжество; [@player] Торжество
 END
 VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -25,18 +25,23 @@ VER 3 0100000000000005 "LayOnHands" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Возложение рук
 END
+VER 3 010000000000000C "NoAttack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier: alt, @] Правосудие Света
+/cast [nomod] Удар воина Света
+END
 VER 3 0100000000000007 "Sacrifice" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жертвенное благословение
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NXyn[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
-/use Пузырек с оживленной кровью
+/use Накладки для доспехов танцующего с клинком
 /cast Гнев карателя
 END

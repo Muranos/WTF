@@ -34,6 +34,13 @@ X: 8
 Y: 99
 W: 250
 H: 24
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 381
+Y: -95
+W: 232
+H: 100
 Frame: PetCastingBarFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -127,9 +134,9 @@ W: 300
 H: 300
 Frame: AllTheThings-Window-Tradeskills
 FrameLevel: 1
-Anchor: TOP
-X: -124
-Y: -116
+Anchor: CENTER
+X: 0
+Y: 0
 W: 300
 H: 496
 Frame: AllTheThings-Window-WorldQuests
@@ -159,7 +166,7 @@ Anchor: TOPLEFT
 X: 2
 Y: -27
 W: 240
-H: 170
+H: 116
 Frame: TalkingHeadFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -174,10 +181,3 @@ X: -260
 Y: 0
 W: 300
 H: 518
-Frame: TargetFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 381
-Y: -95
-W: 232
-H: 100

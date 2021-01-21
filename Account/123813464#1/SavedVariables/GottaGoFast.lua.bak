@@ -36,7 +36,7 @@ GottaGoFastDB = {
 			["TimerFontSize"] = 21,
 			["FrameAnchor"] = "LEFT",
 			["FrameY"] = 48.99987411499023,
-			["Version"] = 31100,
+			["Version"] = 40000,
 			["ObjectiveFontSize"] = 13,
 			["TimerX"] = -44,
 		},

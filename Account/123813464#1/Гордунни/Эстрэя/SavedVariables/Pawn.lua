@@ -1,6 +1,8 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0407,
+	["LastVersion"] = 2.041,
+	["LastPlayerFullName"] = "Эстрэя-Гордунни",
+	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159310,
@@ -88,8 +90,6 @@ PawnOptions = {
 			["Link"] = "|cffe6cc80|Hitem:128859::::::::50:104:::::::|h[Клыки Пеплошкурой]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["LastPlayerFullName"] = "Эстрэя-Гордунни",
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {

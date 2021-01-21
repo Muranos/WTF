@@ -41,12 +41,12 @@ Bartender4DB = {
 				},
 				["Эстрэя - Гордунни"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 58.0001792907715,
 						["x"] = -417.500183105469,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Altery - Bronzebeard"] = {
 					["enabled"] = true,
@@ -169,12 +169,12 @@ Bartender4DB = {
 				},
 				["Ниэтта - Гордунни"] = {
 					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 54.00014877319336,
 						["x"] = -417.5001831054688,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Фламиника - Борейская тундра"] = {
 					["enabled"] = true,
@@ -294,13 +294,13 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 						}, -- [3]
 						{
 							["fadeout"] = true,
@@ -310,13 +310,13 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 						}, -- [4]
 						{
 							["padding"] = 6,
@@ -364,12 +364,12 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 						}, -- [9]
 						{
 							["enabled"] = true,
@@ -380,12 +380,12 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 						}, -- [10]
 					},
 				},
@@ -420,12 +420,12 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["version"] = 3,
-							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [3]
 						{
 							["fadeout"] = true,
@@ -436,12 +436,12 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["version"] = 3,
-							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [4]
 						{
 							["padding"] = 6,
@@ -490,11 +490,11 @@ Bartender4DB = {
 								["scale"] = 0.6,
 							},
 							["version"] = 3,
-							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [9]
 						{
 							["enabled"] = true,
@@ -506,11 +506,11 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["version"] = 3,
-							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [10]
 					},
 				},
@@ -642,7 +642,6 @@ Bartender4DB = {
 				["Эстрэя - Гордунни"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 35.7499289049802,
@@ -650,10 +649,11 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.850000023841858,
 							},
+							["padding"] = 6,
 						}, -- [1]
 						{
-							["enabled"] = false,
 							["rows"] = 2,
+							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -267.4994812011719,
@@ -662,7 +662,9 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
+							["rows"] = 12,
 							["fadeout"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -222.6997462073923,
 								["x"] = 78.50000922282561,
@@ -670,15 +672,15 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["padding"] = 5,
-							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
 						}, -- [3]
 						{
+							["rows"] = 12,
 							["fadeout"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -222.1203272390558,
 								["x"] = 53.05003720323384,
@@ -686,15 +688,12 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["padding"] = 5,
-							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
 						}, -- [4]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 36.999935806497,
@@ -702,16 +701,17 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.850000023841858,
 							},
+							["padding"] = 6,
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
+								["y"] = 71.75013285665318,
+								["x"] = -225.8115974485627,
 								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
+								["scale"] = 0.8500000238418579,
 							},
+							["padding"] = 6,
 						}, -- [6]
 						{
 							["version"] = 3,
@@ -731,8 +731,10 @@ Bartender4DB = {
 							},
 						}, -- [8]
 						{
-							["enabled"] = true,
+							["rows"] = 12,
 							["fadeout"] = true,
+							["enabled"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -222.2509155273438,
 								["x"] = 1.05000051856041,
@@ -740,15 +742,15 @@ Bartender4DB = {
 								["scale"] = 0.6,
 							},
 							["padding"] = 5,
-							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["version"] = 3,
 						}, -- [9]
 						{
-							["enabled"] = true,
+							["rows"] = 12,
 							["fadeout"] = true,
+							["enabled"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -222.4470606504765,
 								["x"] = 28.00057636899055,
@@ -756,11 +758,9 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["padding"] = 5,
-							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["version"] = 3,
 						}, -- [10]
 					},
 				},
@@ -914,12 +914,12 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["version"] = 3,
-							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["padding"] = 5,
+							["rows"] = 12,
 						}, -- [3]
 						{
 							["fadeout"] = true,
@@ -930,12 +930,12 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["version"] = 3,
-							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["padding"] = 5,
+							["rows"] = 12,
 						}, -- [4]
 						{
 							["padding"] = 6,
@@ -984,11 +984,11 @@ Bartender4DB = {
 								["scale"] = 0.6,
 							},
 							["version"] = 3,
-							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["padding"] = 5,
+							["rows"] = 12,
 						}, -- [9]
 						{
 							["enabled"] = true,
@@ -1000,11 +1000,11 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["version"] = 3,
-							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["padding"] = 5,
+							["rows"] = 12,
 						}, -- [10]
 					},
 				},
@@ -1105,13 +1105,13 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
+							["padding"] = 5,
 						}, -- [3]
 						{
 							["fadeout"] = true,
@@ -1121,13 +1121,13 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
+							["padding"] = 5,
 						}, -- [4]
 						{
 							["padding"] = 6,
@@ -1175,12 +1175,12 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["version"] = 3,
+							["padding"] = 5,
 						}, -- [9]
 						{
 							["enabled"] = true,
@@ -1191,12 +1191,12 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["version"] = 3,
+							["padding"] = 5,
 						}, -- [10]
 					},
 				},
@@ -1229,13 +1229,13 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.75,
 							},
-							["version"] = 3,
 							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 						}, -- [3]
 						{
 							["fadeout"] = true,
@@ -1245,13 +1245,13 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.75,
 							},
-							["version"] = 3,
 							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 						}, -- [4]
 						{
 							["padding"] = 6,
@@ -1300,12 +1300,12 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.75,
 							},
-							["version"] = 3,
 							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 						}, -- [9]
 						{
 							["enabled"] = true,
@@ -1444,74 +1444,78 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
+								["scale"] = 0.850000023841858,
+								["x"] = -440.000112062346,
 								["point"] = "BOTTOM",
+								["y"] = 35.7499289049802,
 							},
 						}, -- [1]
 						{
 							["enabled"] = false,
+							["rows"] = 2,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = -267.4994812011719,
+								["x"] = -234,
+								["point"] = "RIGHT",
 							},
 						}, -- [2]
 						{
-							["fadeout"] = true,
+							["version"] = 3,
 							["position"] = {
-								["y"] = -221.699859619141,
-								["x"] = 31.4999914169312,
+								["scale"] = 0.6000000238418579,
+								["x"] = 78.50000922282561,
 								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
+								["y"] = -222.6997462073923,
 							},
-							["rows"] = 12,
+							["fadeout"] = true,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 						}, -- [3]
 						{
-							["fadeout"] = true,
+							["version"] = 3,
 							["position"] = {
-								["y"] = -221.120788574219,
-								["x"] = 61.0500240325928,
+								["scale"] = 0.6000000238418579,
+								["x"] = 54.05004945000201,
 								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
+								["y"] = -222.1204004812462,
 							},
-							["rows"] = 12,
+							["fadeout"] = true,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 						}, -- [4]
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 44,
-								["x"] = -5.27783203125,
+								["scale"] = 0.850000023841858,
+								["x"] = -12.277988553833,
 								["point"] = "BOTTOM",
+								["y"] = 36.999935806497,
 							},
 						}, -- [5]
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 85.75,
-								["x"] = -217.810974121094,
+								["scale"] = 0.850000023841858,
+								["x"] = -227.811437287372,
 								["point"] = "BOTTOM",
+								["y"] = 92.7502150802111,
 							},
 						}, -- [6]
 						{
@@ -1524,39 +1528,44 @@ Bartender4DB = {
 						}, -- [7]
 						{
 							["enabled"] = true,
-							["rows"] = 4,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 195.000015258789,
-								["x"] = -237.31201171875,
+								["y"] = 41.99952697753906,
+								["x"] = -466.3118896484375,
 								["point"] = "BOTTOMRIGHT",
 							},
 						}, -- [8]
 						{
 							["enabled"] = true,
-							["fadeout"] = true,
+							["version"] = 3,
 							["position"] = {
-								["y"] = -221.250885009766,
-								["x"] = 2.05001002550125,
+								["scale"] = 0.6,
+								["x"] = 1.05000051856041,
 								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
+								["y"] = -222.2509155273438,
 							},
-							["rows"] = 12,
+							["fadeout"] = true,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 						}, -- [9]
 						{
 							["enabled"] = true,
-							["rows"] = 4,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 196.551803588867,
-								["x"] = -117.999755859375,
-								["point"] = "BOTTOMRIGHT",
+								["scale"] = 0.6000000238418579,
+								["x"] = 28.00057636899055,
+								["point"] = "TOPLEFT",
+								["y"] = -222.4470606504765,
 							},
+							["fadeout"] = true,
+							["padding"] = 5,
+							["visibility"] = {
+								["combat"] = true,
+							},
+							["rows"] = 12,
 						}, -- [10]
 					},
 				},
@@ -1590,8 +1599,8 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
@@ -1606,8 +1615,8 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
@@ -1660,8 +1669,8 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6,
 							},
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
@@ -1676,8 +1685,8 @@ Bartender4DB = {
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
@@ -1810,16 +1819,16 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["scale"] = 0.850000023841858,
+								["y"] = 35.7499289049802,
 								["x"] = -440.000112062346,
 								["point"] = "BOTTOM",
-								["y"] = 35.7499289049802,
+								["scale"] = 0.850000023841858,
 							},
 						}, -- [1]
 						{
@@ -1833,55 +1842,55 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["version"] = 3,
+							["fadeout"] = true,
 							["position"] = {
-								["scale"] = 0.6000000238418579,
+								["y"] = -222.6997462073923,
 								["x"] = 78.50000922282561,
 								["point"] = "TOPLEFT",
-								["y"] = -222.6997462073923,
+								["scale"] = 0.6000000238418579,
 							},
-							["fadeout"] = true,
-							["padding"] = 5,
+							["version"] = 3,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [3]
 						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 54.05004945000201,
-								["point"] = "TOPLEFT",
-								["y"] = -222.1204004812462,
-							},
 							["fadeout"] = true,
-							["padding"] = 5,
+							["position"] = {
+								["y"] = -222.1203272390558,
+								["x"] = 53.05003720323384,
+								["point"] = "TOPLEFT",
+								["scale"] = 0.6000000238418579,
+							},
+							["version"] = 3,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [4]
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["scale"] = 0.850000023841858,
+								["y"] = 36.999935806497,
 								["x"] = -12.277988553833,
 								["point"] = "BOTTOM",
-								["y"] = 36.999935806497,
+								["scale"] = 0.850000023841858,
 							},
 						}, -- [5]
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["scale"] = 0.850000023841858,
+								["y"] = 92.7502150802111,
 								["x"] = -227.811437287372,
 								["point"] = "BOTTOM",
-								["y"] = 92.7502150802111,
+								["scale"] = 0.850000023841858,
 							},
 						}, -- [6]
 						{
@@ -1903,35 +1912,35 @@ Bartender4DB = {
 						}, -- [8]
 						{
 							["enabled"] = true,
-							["version"] = 3,
+							["fadeout"] = true,
 							["position"] = {
-								["scale"] = 0.6,
+								["y"] = -222.2509155273438,
 								["x"] = 1.05000051856041,
 								["point"] = "TOPLEFT",
-								["y"] = -222.2509155273438,
+								["scale"] = 0.6,
 							},
-							["fadeout"] = true,
-							["padding"] = 5,
+							["version"] = 3,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [9]
 						{
 							["enabled"] = true,
-							["version"] = 3,
+							["fadeout"] = true,
 							["position"] = {
-								["scale"] = 0.6000000238418579,
+								["y"] = -222.4470606504765,
 								["x"] = 28.00057636899055,
 								["point"] = "TOPLEFT",
-								["y"] = -222.4470606504765,
+								["scale"] = 0.6000000238418579,
 							},
-							["fadeout"] = true,
-							["padding"] = 5,
+							["version"] = 3,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["rows"] = 12,
+							["padding"] = 5,
 						}, -- [10]
 					},
 				},
@@ -2127,78 +2136,74 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Delery - Durotan"] = {
+				["Элави - Борейская тундра"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
+								["y"] = 41.75,
+								["x"] = -510,
 								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
 							},
 						}, -- [1]
 						{
 							["enabled"] = false,
-							["rows"] = 2,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
 							},
 						}, -- [2]
 						{
 							["fadeout"] = true,
 							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
+								["y"] = -221.699859619141,
+								["x"] = 31.4999914169312,
 								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
+								["scale"] = 0.75,
 							},
-							["version"] = 3,
 							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 						}, -- [3]
 						{
 							["fadeout"] = true,
 							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
+								["y"] = -221.120788574219,
+								["x"] = 61.0500240325928,
 								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
+								["scale"] = 0.75,
 							},
-							["version"] = 3,
 							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 						}, -- [4]
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
+								["y"] = 44,
+								["x"] = -5.27783203125,
 								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
 							},
 						}, -- [5]
 						{
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
+								["y"] = 85.75,
+								["x"] = -217.810974121094,
 								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
 							},
 						}, -- [6]
 						{
@@ -2211,10 +2216,11 @@ Bartender4DB = {
 						}, -- [7]
 						{
 							["enabled"] = true,
+							["rows"] = 4,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
+								["y"] = 195.000015258789,
+								["x"] = -237.31201171875,
 								["point"] = "BOTTOMRIGHT",
 							},
 						}, -- [8]
@@ -2222,40 +2228,44 @@ Bartender4DB = {
 							["enabled"] = true,
 							["fadeout"] = true,
 							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
+								["y"] = -221.250885009766,
+								["x"] = 2.05001002550125,
 								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
+								["scale"] = 0.75,
 							},
-							["version"] = 3,
 							["rows"] = 12,
+							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["padding"] = 5,
+							["version"] = 3,
 						}, -- [9]
 						{
 							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
+							["rows"] = 4,
 							["version"] = 3,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
+							["position"] = {
+								["y"] = 196.551803588867,
+								["x"] = -117.999755859375,
+								["point"] = "BOTTOMRIGHT",
 							},
-							["padding"] = 5,
 						}, -- [10]
 					},
 				},
 				["Эстрея - Борейская тундра"] = {
 					["actionbars"] = {
 						{
+							["position"] = {
+								["y"] = 33.7505207061768,
+								["x"] = -375.125061035156,
+								["point"] = "BOTTOM",
+								["scale"] = 0.75,
+							},
+							["padding"] = 6,
+							["version"] = 3,
 							["states"] = {
+								["actionbar"] = true,
+								["default"] = 4,
 								["stance"] = {
 									["DRUID"] = {
 										["prowl"] = 2,
@@ -2264,16 +2274,6 @@ Bartender4DB = {
 										["bear"] = 1,
 									},
 								},
-								["default"] = 4,
-								["actionbar"] = true,
-							},
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 33.7505207061768,
-								["x"] = -375.125061035156,
-								["point"] = "BOTTOM",
-								["scale"] = 0.75,
 							},
 						}, -- [1]
 						{
@@ -2293,13 +2293,13 @@ Bartender4DB = {
 								["point"] = "LEFT",
 								["scale"] = 0.75,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 						}, -- [3]
 						{
 							["fadeout"] = true,
@@ -2309,13 +2309,13 @@ Bartender4DB = {
 								["point"] = "LEFT",
 								["scale"] = 0.75,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 						}, -- [4]
 						{
 							["padding"] = 6,
@@ -2364,12 +2364,12 @@ Bartender4DB = {
 								["point"] = "LEFT",
 								["scale"] = 0.75,
 							},
-							["rows"] = 12,
+							["version"] = 3,
 							["padding"] = 5,
 							["visibility"] = {
 								["combat"] = true,
 							},
-							["version"] = 3,
+							["rows"] = 12,
 						}, -- [9]
 						{
 							["enabled"] = true,
@@ -2818,6 +2818,7 @@ Bartender4DB = {
 				["Ниэтта - Гордунни"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 35.7499289049802,
@@ -2825,11 +2826,10 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.850000023841858,
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
-							["rows"] = 2,
 							["enabled"] = false,
+							["rows"] = 2,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -267.4994812011719,
@@ -2838,25 +2838,23 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["fadeout"] = true,
-							["version"] = 3,
 							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
+								["y"] = -223.6995753486845,
+								["x"] = 79.49985667466535,
 								["point"] = "TOPLEFT",
 								["scale"] = 0.6000000238418579,
 							},
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
+							["version"] = 3,
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["fadeout"] = true,
-							["version"] = 3,
 							["position"] = {
 								["y"] = -222.1203272390558,
 								["x"] = 53.05003720323384,
@@ -2864,12 +2862,15 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 								["nocombat"] = false,
 							},
+							["version"] = 3,
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 36.999935806497,
@@ -2877,9 +2878,9 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.850000023841858,
 							},
-							["padding"] = 6,
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 71.75006152181231,
@@ -2887,7 +2888,6 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.8500000238418579,
 							},
-							["padding"] = 6,
 						}, -- [6]
 						{
 							["version"] = 3,
@@ -2907,10 +2907,8 @@ Bartender4DB = {
 							},
 						}, -- [8]
 						{
-							["rows"] = 12,
-							["fadeout"] = true,
 							["enabled"] = true,
-							["version"] = 3,
+							["fadeout"] = true,
 							["position"] = {
 								["y"] = -222.2509155273438,
 								["x"] = 1.05000051856041,
@@ -2918,15 +2916,15 @@ Bartender4DB = {
 								["scale"] = 0.6,
 							},
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
+							["version"] = 3,
 						}, -- [9]
 						{
-							["rows"] = 12,
-							["fadeout"] = true,
 							["enabled"] = true,
-							["version"] = 3,
+							["fadeout"] = true,
 							["position"] = {
 								["y"] = -222.4470606504765,
 								["x"] = 28.00057636899055,
@@ -2934,9 +2932,11 @@ Bartender4DB = {
 								["scale"] = 0.6000000238418579,
 							},
 							["padding"] = 5,
+							["rows"] = 12,
 							["visibility"] = {
 								["combat"] = true,
 							},
+							["version"] = 3,
 						}, -- [10]
 					},
 				},
@@ -3228,12 +3228,12 @@ Bartender4DB = {
 					},
 				},
 				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 110.090759277344,
 						["x"] = 446.673095703125,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Altery - Bronzebeard"] = {
 					["version"] = 3,
@@ -3283,12 +3283,12 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -198.909301757813,
-						["x"] = 427.172027587891,
-						["point"] = "LEFT",
+						["y"] = 110.090759277344,
+						["x"] = 446.673095703125,
+						["point"] = "CENTER",
 					},
 				},
 				["Зонна - Борейская тундра"] = {
@@ -3307,7 +3307,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 110.090759277344,
@@ -3331,12 +3331,12 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Delery - Durotan"] = {
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
+						["y"] = -198.909301757813,
+						["x"] = 427.172027587891,
+						["point"] = "LEFT",
 					},
 				},
 				["Эстрея - Борейская тундра"] = {
@@ -3380,12 +3380,12 @@ Bartender4DB = {
 					},
 				},
 				["Ниэтта - Гордунни"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = -177.4091186523438,
 						["x"] = 460.67333984375,
 						["point"] = "TOP",
 					},
-					["version"] = 3,
 				},
 				["Фламиника - Борейская тундра"] = {
 					["version"] = 3,
@@ -3451,15 +3451,15 @@ Bartender4DB = {
 					},
 				},
 				["Эстрэя - Гордунни"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
 					["position"] = {
 						["y"] = -26.99977379186021,
 						["x"] = 321.9990332126781,
 						["point"] = "TOPLEFT",
 						["scale"] = 0.699999988079071,
 					},
+					["fadeout"] = true,
+					["version"] = 3,
+					["padding"] = -2,
 				},
 				["Altery - Bronzebeard"] = {
 					["version"] = 3,
@@ -3526,15 +3526,15 @@ Bartender4DB = {
 						["scale"] = 0.699999988079071,
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["version"] = 3,
 					["padding"] = -2,
 					["fadeout"] = true,
 					["position"] = {
-						["y"] = 41.0000076293945,
-						["x"] = -291.999877929688,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 1,
+						["scale"] = 0.699999988079071,
+						["x"] = 321.9990332126781,
+						["point"] = "TOPLEFT",
+						["y"] = -26.99977379186021,
 					},
 				},
 				["Зонна - Борейская тундра"] = {
@@ -3559,15 +3559,15 @@ Bartender4DB = {
 						["scale"] = 0.699999988079071,
 					},
 				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["padding"] = -2,
+				["Delery - Durotan"] = {
 					["fadeout"] = true,
+					["padding"] = -2,
+					["version"] = 3,
 					["position"] = {
-						["scale"] = 0.699999988079071,
+						["y"] = -26.99977379186021,
 						["x"] = 321.9990332126781,
 						["point"] = "TOPLEFT",
-						["y"] = -26.99977379186021,
+						["scale"] = 0.699999988079071,
 					},
 				},
 				["Elavi - Durotan"] = {
@@ -3591,15 +3591,15 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Delery - Durotan"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
+					["padding"] = -2,
+					["fadeout"] = true,
 					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
+						["y"] = 41.0000076293945,
+						["x"] = -291.999877929688,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 1,
 					},
 				},
 				["Эстрея - Борейская тундра"] = {
@@ -3657,15 +3657,15 @@ Bartender4DB = {
 					},
 				},
 				["Ниэтта - Гордунни"] = {
+					["version"] = 3,
+					["padding"] = -2,
+					["fadeout"] = true,
 					["position"] = {
 						["y"] = -26.99977379186021,
 						["x"] = 321.9990332126781,
 						["point"] = "TOPLEFT",
 						["scale"] = 0.699999988079071,
 					},
-					["version"] = 3,
-					["fadeout"] = true,
-					["padding"] = -2,
 				},
 				["Фламиника - Борейская тундра"] = {
 					["fadeout"] = true,
@@ -3799,12 +3799,14 @@ Bartender4DB = {
 						["scale"] = 0.8,
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
+					["enabled"] = false,
 					["version"] = 3,
 					["position"] = {
-						["y"] = -202.891403198242,
+						["scale"] = 0.8,
 						["x"] = -430.481811523438,
 						["point"] = "CENTER",
+						["y"] = -202.891403198242,
 					},
 				},
 				["Зонна - Борейская тундра"] = {
@@ -3827,14 +3829,14 @@ Bartender4DB = {
 						["scale"] = 0.8,
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["enabled"] = false,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 0.8,
+						["y"] = -202.891403198242,
 						["x"] = -430.481811523438,
 						["point"] = "CENTER",
-						["y"] = -202.891403198242,
+						["scale"] = 0.8,
 					},
 				},
 				["Elavi - Durotan"] = {
@@ -3855,14 +3857,12 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Delery - Durotan"] = {
-					["enabled"] = false,
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -202.891403198242,
 						["x"] = -430.481811523438,
 						["point"] = "CENTER",
-						["scale"] = 0.8,
 					},
 				},
 				["Эстрея - Борейская тундра"] = {
@@ -4003,12 +4003,12 @@ Bartender4DB = {
 					},
 				},
 				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 48,
 						["x"] = 448.000061035156,
 						["point"] = "BOTTOMLEFT",
 					},
+					["version"] = 3,
 				},
 				["Altery - Bronzebeard"] = {
 					["version"] = 3,
@@ -4059,7 +4059,7 @@ Bartender4DB = {
 						["point"] = "BOTTOMLEFT",
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 48,
@@ -4083,7 +4083,7 @@ Bartender4DB = {
 						["point"] = "BOTTOMLEFT",
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 48,
@@ -4108,7 +4108,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Delery - Durotan"] = {
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 48,
@@ -4158,12 +4158,12 @@ Bartender4DB = {
 					},
 				},
 				["Ниэтта - Гордунни"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 48,
 						["x"] = 448.000061035156,
 						["point"] = "BOTTOMLEFT",
 					},
-					["version"] = 3,
 				},
 				["Фламиника - Борейская тундра"] = {
 					["version"] = 3,
@@ -4221,13 +4221,13 @@ Bartender4DB = {
 					},
 				},
 				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
 					["position"] = {
-						["y"] = 108.0000228881836,
-						["x"] = -442.0001220703125,
+						["y"] = 93.99992370605469,
+						["x"] = -416.0000610351563,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
+					["version"] = 3,
 				},
 				["Altery - Bronzebeard"] = {
 					["version"] = 3,
@@ -4283,13 +4283,13 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 116,
+						["scale"] = 1,
 						["x"] = -460,
 						["point"] = "BOTTOM",
-						["scale"] = 1,
+						["y"] = 116,
 					},
 				},
 				["Зонна - Борейская тундра"] = {
@@ -4310,13 +4310,13 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
+						["y"] = 155,
+						["x"] = -479.5000610351563,
 						["point"] = "BOTTOM",
-						["y"] = 116,
+						["scale"] = 1,
 					},
 				},
 				["Elavi - Durotan"] = {
@@ -4336,11 +4336,11 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Delery - Durotan"] = {
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 155,
-						["x"] = -479.5000610351563,
+						["y"] = 116,
+						["x"] = -460,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
@@ -4390,13 +4390,13 @@ Bartender4DB = {
 					},
 				},
 				["Ниэтта - Гордунни"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = -147.4999542236328,
 						["x"] = 444.5001831054688,
 						["point"] = "LEFT",
 						["scale"] = 1,
 					},
-					["version"] = 3,
 				},
 				["Фламиника - Борейская тундра"] = {
 					["version"] = 3,
@@ -4429,8 +4429,8 @@ Bartender4DB = {
 					},
 				},
 				["Алтери - Борейская тундра"] = {
-					["fadeout"] = true,
 					["version"] = 3,
+					["fadeout"] = true,
 					["position"] = {
 						["y"] = -30.29980884789984,
 						["x"] = -1.933864908769323,
@@ -4459,8 +4459,8 @@ Bartender4DB = {
 					},
 				},
 				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
 					["fadeout"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = -30.29980884789984,
 						["x"] = -1.933864908769323,
@@ -4496,8 +4496,8 @@ Bartender4DB = {
 					},
 				},
 				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
 					["fadeout"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = -30.29980884789984,
 						["x"] = -1.933864908769323,
@@ -4506,8 +4506,8 @@ Bartender4DB = {
 					},
 				},
 				["Сайбил - Борейская тундра"] = {
-					["fadeout"] = true,
 					["version"] = 3,
+					["fadeout"] = true,
 					["position"] = {
 						["y"] = 37.9997673034668,
 						["x"] = -460.933715820313,
@@ -4524,13 +4524,14 @@ Bartender4DB = {
 						["scale"] = 0.6000000238418579,
 					},
 				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
+				["Flaminika - Silvermoon"] = {
 					["fadeout"] = true,
+					["version"] = 3,
 					["position"] = {
-						["y"] = 36,
-						["x"] = -454.93359375,
-						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.6000000238418579,
+						["x"] = -1.933864908769323,
+						["point"] = "LEFT",
+						["y"] = -30.29980884789984,
 					},
 				},
 				["Зонна - Борейская тундра"] = {
@@ -4553,14 +4554,14 @@ Bartender4DB = {
 						["scale"] = 0.6000000238418579,
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["fadeout"] = true,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 0.6000000238418579,
+						["y"] = -30.29980884789984,
 						["x"] = -1.933864908769323,
 						["point"] = "LEFT",
-						["y"] = -30.29980884789984,
+						["scale"] = 0.6000000238418579,
 					},
 				},
 				["Elavi - Durotan"] = {
@@ -4581,19 +4582,18 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Delery - Durotan"] = {
-					["fadeout"] = true,
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
+					["fadeout"] = true,
 					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
+						["y"] = 36,
+						["x"] = -454.93359375,
+						["point"] = "BOTTOMRIGHT",
 					},
 				},
 				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
 					["fadeout"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 36,
 						["x"] = -454.93359375,
@@ -4638,8 +4638,8 @@ Bartender4DB = {
 					},
 				},
 				["Ниэтта - Гордунни"] = {
-					["fadeout"] = true,
 					["version"] = 3,
+					["fadeout"] = true,
 					["position"] = {
 						["y"] = -30.29980884789984,
 						["x"] = -1.933864908769323,
@@ -4703,12 +4703,12 @@ Bartender4DB = {
 					},
 				},
 				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
 					["position"] = {
-						["y"] = 104.2223663330078,
-						["x"] = 478.5002136230469,
-						["point"] = "BOTTOMLEFT",
+						["y"] = 92.222412109375,
+						["x"] = -458.9998474121094,
+						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Altery - Bronzebeard"] = {
 					["version"] = 3,
@@ -4758,7 +4758,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 117.222229003906,
@@ -4782,7 +4782,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 117.222229003906,
@@ -4806,7 +4806,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Delery - Durotan"] = {
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 117.222229003906,
@@ -4855,12 +4855,12 @@ Bartender4DB = {
 					},
 				},
 				["Ниэтта - Гордунни"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 90.2221908569336,
 						["x"] = -412,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Фламиника - Борейская тундра"] = {
 					["version"] = 3,
@@ -4970,11 +4970,11 @@ Bartender4DB = {
 						["point"] = "LEFT",
 					},
 				},
-				["Элави - Борейская тундра"] = {
+				["Flaminika - Silvermoon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -137.728454589844,
-						["x"] = -3.16436171531677,
+						["y"] = -261.728546142578,
+						["x"] = 103.835639953613,
 						["point"] = "LEFT",
 					},
 				},
@@ -4994,7 +4994,7 @@ Bartender4DB = {
 						["point"] = "LEFT",
 					},
 				},
-				["Flaminika - Silvermoon"] = {
+				["Delery - Durotan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -261.728546142578,
@@ -5018,11 +5018,11 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Delery - Durotan"] = {
+				["Элави - Борейская тундра"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
+						["y"] = -137.728454589844,
+						["x"] = -3.16436171531677,
 						["point"] = "LEFT",
 					},
 				},
@@ -5107,13 +5107,13 @@ Bartender4DB = {
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
@@ -5157,12 +5157,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Эстрэя - Гордунни"] = {
+			["blizzardVehicle"] = true,
 			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Altery - Bronzebeard"] = {
@@ -5198,12 +5198,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Сайбил - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
+			["snapping"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
 			["blizzardVehicle"] = true,
-			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Тиаз - Борейская тундра"] = {
@@ -5215,13 +5215,13 @@ Bartender4DB = {
 			["snapping"] = false,
 			["outofrange"] = "hotkey",
 		},
-		["Элави - Борейская тундра"] = {
-			["snapping"] = false,
+		["Flaminika - Silvermoon"] = {
+			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
 			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
+			["snapping"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Зонна - Борейская тундра"] = {
@@ -5242,7 +5242,7 @@ Bartender4DB = {
 			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
-		["Flaminika - Silvermoon"] = {
+		["Delery - Durotan"] = {
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
@@ -5265,13 +5265,13 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Delery - Durotan"] = {
-			["focuscastmodifier"] = false,
+		["Элави - Борейская тундра"] = {
+			["snapping"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
 			["blizzardVehicle"] = true,
-			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Эстрея - Борейская тундра"] = {
@@ -5284,12 +5284,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Ниамэй - Гордунни"] = {
-			["focuscastmodifier"] = false,
+			["snapping"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
 			["blizzardVehicle"] = true,
-			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Ниоши - Борейская тундра"] = {
@@ -5316,12 +5316,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Ниэтта - Гордунни"] = {
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
 			["snapping"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
+			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
 			["outofrange"] = "hotkey",
 		},
 		["Фламиника - Борейская тундра"] = {
@@ -5334,12 +5334,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Дэлери - Гордунни"] = {
-			["snapping"] = false,
+			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
 			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
+			["snapping"] = false,
 			["outofrange"] = "hotkey",
 		},
 	},

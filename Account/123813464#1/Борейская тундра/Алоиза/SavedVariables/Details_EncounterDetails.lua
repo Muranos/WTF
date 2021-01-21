@@ -3418,10 +3418,10 @@ EncounterDetailsDB = {
 		[70189] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Горгулья Шпиля",
 		},
@@ -14194,13 +14194,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ака'али Завоевательница",
 		},
-		[266940] = {
-			["school"] = 1,
+		[120002] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ака'али Завоевательница",
+			["source"] = "Лужа смолы",
 		},
 		[273294] = {
 			["school"] = 4,
@@ -14218,14 +14217,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ра-ден",
 		},
-		[60009] = {
-			["school"] = 8,
+		[266940] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Нотэцу-Гордунни",
+			["source"] = "Ака'али Завоевательница",
 		},
 		[228600] = {
 			["school"] = 16,
@@ -14684,13 +14682,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lyéna-KhazModan",
 		},
-		[265931] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[306881] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Дивона-Гордунни",
+			["source"] = "Охотник Бездны",
 		},
 		[305857] = {
 			["school"] = 1,
@@ -14700,13 +14699,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Оргозоа",
 		},
-		[298691] = {
-			["school"] = 32,
+		[265931] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Надсмотрщик Ул'рок",
+			["source"] = "Дивона-Гордунни",
 		},
 		[206983] = {
 			["school"] = 32,
@@ -15611,13 +15610,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Резан",
 		},
-		[256374] = {
-			["school"] = 48,
-			["type"] = "BUFF",
+		[41587] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Дцпсрогой-Гордунни",
+			["source"] = "Феникс",
 		},
 		[6673] = {
 			["school"] = 1,
@@ -15653,14 +15653,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Буревик",
 		},
-		[137619] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[256374] = {
+			["school"] = 48,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Лэйриан-ЧерныйШрам",
+			["source"] = "Дцпсрогой-Гордунни",
 		},
 		[268008] = {
 			["school"] = 32,
@@ -16265,6 +16264,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Резан",
 		},
+		[250241] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Вол'каал",
+		},
 		[209291] = {
 			["school"] = 32,
 			["token"] = {
@@ -16272,13 +16281,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Око Гул'дана",
-		},
-		[205196] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Зловещий охотник",
 		},
 		[205708] = {
 			["school"] = 16,
@@ -16340,13 +16342,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Брат Айронхалл",
 		},
-		[318193] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
 		[310003] = {
 			["school"] = 1,
 			["token"] = {
@@ -16362,6 +16357,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Damodred-Magtheridon",
+		},
+		[318193] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
 		},
 		[256551] = {
 			["school"] = 1,
@@ -16911,14 +16913,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Бесноватое поганище",
 		},
-		[29310] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[300809] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Хейган Нечестивый",
+			["source"] = "Лэйриан-ЧерныйШрам",
 		},
 		[53365] = {
 			["school"] = 1,
@@ -16945,13 +16946,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Зери'так",
 		},
-		[300809] = {
-			["school"] = 1,
+		[80353] = {
+			["school"] = 64,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Лэйриан-ЧерныйШрам",
+			["source"] = "Selimmagnatu-Sylvanas",
 		},
 		[307974] = {
 			["school"] = 1,
@@ -16992,13 +16993,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ябалау-Гордунни",
 		},
-		[80353] = {
-			["school"] = 64,
-			["type"] = "BUFF",
+		[29310] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Selimmagnatu-Sylvanas",
+			["source"] = "Хейган Нечестивый",
 		},
 		[255371] = {
 			["school"] = 32,
@@ -18118,13 +18120,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Иллисанна Гребень Ворона",
 		},
-		[231843] = {
+		[260508] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Srali-Silvermoon",
+			["source"] = "Оживленный голиаф",
 		},
 		[315176] = {
 			["school"] = 32,
@@ -18171,13 +18174,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[312107] = {
-			["school"] = 4,
+		[231843] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Гримирог-Ревущийфьорд",
+			["source"] = "Srali-Silvermoon",
 		},
 		[268086] = {
 			["school"] = 32,
@@ -18196,14 +18199,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Неизвестно",
 		},
-		[260508] = {
-			["school"] = 1,
+		[312107] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Оживленный голиаф",
+			["source"] = "Гримирог-Ревущийфьорд",
 		},
 		[228260] = {
 			["school"] = 32,
@@ -19852,15 +19854,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nevia-Anub'arak",
 		},
-		[250241] = {
+		[205196] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Вол'каал",
+			["source"] = "Зловещий охотник",
 		},
 		[306015] = {
 			["school"] = 4,
@@ -20295,14 +20294,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Дух волка",
 		},
-		[41587] = {
-			["school"] = 4,
+		[137619] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Феникс",
+			["source"] = "Лэйриан-ЧерныйШрам",
 		},
 		[234946] = {
 			["school"] = 2,
@@ -20845,14 +20844,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tufan-Antonidas",
 		},
-		[306881] = {
+		[298691] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Охотник Бездны",
+			["source"] = "Надсмотрщик Ул'рок",
 		},
 		[260792] = {
 			["school"] = 1,
@@ -21170,12 +21168,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Резан",
 		},
-		[120002] = {
+		[60009] = {
 			["school"] = 8,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Лужа смолы",
+			["source"] = "Нотэцу-Гордунни",
 		},
 		[1459] = {
 			["school"] = 64,

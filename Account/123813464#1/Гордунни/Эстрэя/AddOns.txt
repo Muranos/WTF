@@ -47,3 +47,5 @@ TwintopInsanityBar: disabled
 Gnosis: disabled
 MythicDungeonTools: enabled
 LittleWigs_Legion: enabled
+BigWigs_Shadowlands: enabled
+LittleWigs_WrathOfTheLichKing: enabled

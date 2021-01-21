@@ -23,21 +23,21 @@ DeathGraphsDBDeaths = {
 				["name"] = "Стрыган-ВечнаяПесня",
 				["class"] = "DEATHKNIGHT",
 			},
-			["Librask-Silvermoon"] = {
+			["Tegnéll-Silvermoon"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Librask-Silvermoon",
-				["class"] = "SHAMAN",
+				["name"] = "Tegnéll-Silvermoon",
+				["class"] = "DEATHKNIGHT",
 			},
-			["Palamenneke-Silvermoon"] = {
+			["Dæywalkerxd-Aegwynn"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Palamenneke-Silvermoon",
-				["class"] = "PALADIN",
+				["name"] = "Dæywalkerxd-Aegwynn",
+				["class"] = "HUNTER",
 			},
 			["Luxipher-AzjolNerub"] = {
 				["overall"] = {
@@ -55,13 +55,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Stonedpandi-Antonidas",
 				["class"] = "MONK",
 			},
-			["Kartofflhodn-Aegwynn"] = {
+			["Librask-Silvermoon"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Kartofflhodn-Aegwynn",
-				["class"] = "MAGE",
+				["name"] = "Librask-Silvermoon",
+				["class"] = "SHAMAN",
 			},
 			["Kraattooss-KhazModan"] = {
 				["overall"] = {
@@ -95,13 +95,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Koozi-Ravencrest",
 				["class"] = "MAGE",
 			},
-			["Молфас-Гордунни"] = {
+			["Palamenneke-Silvermoon"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Молфас-Гордунни",
-				["class"] = "WARLOCK",
+				["name"] = "Palamenneke-Silvermoon",
+				["class"] = "PALADIN",
 			},
 			["Lennier-Arygos"] = {
 				["overall"] = {
@@ -119,13 +119,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Adrélf-Anachronos",
 				["class"] = "DRUID",
 			},
-			["Tegnéll-Silvermoon"] = {
+			["Kartofflhodn-Aegwynn"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Tegnéll-Silvermoon",
-				["class"] = "DEATHKNIGHT",
+				["name"] = "Kartofflhodn-Aegwynn",
+				["class"] = "MAGE",
 			},
 			["Thýra-Aegwynn"] = {
 				["overall"] = {
@@ -207,13 +207,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Kateoflight-Silvermoon",
 				["class"] = "DEMONHUNTER",
 			},
-			["Dæywalkerxd-Aegwynn"] = {
+			["Молфас-Гордунни"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Dæywalkerxd-Aegwynn",
-				["class"] = "HUNTER",
+				["name"] = "Молфас-Гордунни",
+				["class"] = "WARLOCK",
 			},
 			["Алоиза"] = {
 				["overall"] = {
@@ -292,13 +292,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Bigbrem-Ravencrest",
 				["class"] = "WARRIOR",
 			},
-			["Kernelpanic-Aegwynn"] = {
+			["Консултьмы-ЧерныйШрам"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Kernelpanic-Aegwynn",
-				["class"] = "ROGUE",
+				["name"] = "Консултьмы-ЧерныйШрам",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Gomachan-Doomhammer"] = {
 				["overall"] = {
@@ -324,21 +324,21 @@ DeathGraphsDBDeaths = {
 				["name"] = "Алоиза",
 				["class"] = "PRIEST",
 			},
-			["Demonling-Silvermoon"] = {
+			["Kernelpanic-Aegwynn"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Demonling-Silvermoon",
-				["class"] = "DEMONHUNTER",
+				["name"] = "Kernelpanic-Aegwynn",
+				["class"] = "ROGUE",
 			},
-			["Dæywalkerxd-Aegwynn"] = {
+			["Palamenneke-Silvermoon"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Dæywalkerxd-Aegwynn",
-				["class"] = "HUNTER",
+				["name"] = "Palamenneke-Silvermoon",
+				["class"] = "PALADIN",
 			},
 			["Stonedpandi-Antonidas"] = {
 				["overall"] = {
@@ -348,13 +348,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Stonedpandi-Antonidas",
 				["class"] = "MONK",
 			},
-			["Консултьмы-ЧерныйШрам"] = {
+			["Demonling-Silvermoon"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Консултьмы-ЧерныйШрам",
-				["class"] = "DEATHKNIGHT",
+				["name"] = "Demonling-Silvermoon",
+				["class"] = "DEMONHUNTER",
 			},
 			["Tegnéll-Silvermoon"] = {
 				["overall"] = {
@@ -452,14 +452,6 @@ DeathGraphsDBDeaths = {
 				["name"] = "Malthael-Silvermoon",
 				["class"] = "ROGUE",
 			},
-			["Palamenneke-Silvermoon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Palamenneke-Silvermoon",
-				["class"] = "PALADIN",
-			},
 			["Молфас-Гордунни"] = {
 				["overall"] = {
 				},
@@ -467,6 +459,14 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Молфас-Гордунни",
 				["class"] = "WARLOCK",
+			},
+			["Dæywalkerxd-Aegwynn"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Dæywalkerxd-Aegwynn",
+				["class"] = "HUNTER",
 			},
 			["Tinderbolt-Malygos"] = {
 				["overall"] = {
@@ -8671,8 +8671,9 @@ DeathGraphsDBGraph = {
 			[87] = {
 				1605303258, -- [1]
 			},
-			[73] = {
-				1605302404, -- [1]
+			[144] = {
+				1605304114, -- [1]
+				1605310226, -- [2]
 			},
 			[119] = {
 				1605308924, -- [1]
@@ -8689,8 +8690,8 @@ DeathGraphsDBGraph = {
 			[120] = {
 				1605302766, -- [1]
 			},
-			[37] = {
-				1605310226, -- [1]
+			[73] = {
+				1605302404, -- [1]
 			},
 			[457] = {
 				1605304114, -- [1]
@@ -8707,9 +8708,8 @@ DeathGraphsDBGraph = {
 			[352] = {
 				1605304913, -- [1]
 			},
-			[144] = {
-				1605304114, -- [1]
-				1605310226, -- [2]
+			[37] = {
+				1605310226, -- [1]
 			},
 		},
 		["spells"] = {
