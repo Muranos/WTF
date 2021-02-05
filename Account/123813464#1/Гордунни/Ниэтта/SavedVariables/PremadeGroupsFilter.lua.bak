@@ -232,14 +232,14 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 		},
 		["members"] = {
-			["max"] = "",
+			["max"] = "1",
 			["min"] = "",
 			["act"] = false,
 		},
 		["heals"] = {
 			["max"] = "0",
 			["min"] = "",
-			["act"] = true,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",

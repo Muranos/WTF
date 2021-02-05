@@ -42,3 +42,4 @@ RaiderIO_DB_KR_A: disabled
 Gnosis: disabled
 UnitFramesImproved: disabled
 FriendGroups: disabled
+BigWigs_Shadowlands: enabled

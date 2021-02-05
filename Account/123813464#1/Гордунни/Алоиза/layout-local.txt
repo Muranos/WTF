@@ -90,13 +90,6 @@ X: 0
 Y: 0
 W: 300
 H: 300
-Frame: TargetCastingBarFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -394
-Y: -9
-W: 302
-H: 24
 Frame: RematchPetCard
 FrameLevel: 1
 Anchor: TOP
@@ -118,6 +111,13 @@ X: 6
 Y: -204
 W: 570
 H: 155
+Frame: TargetCastingBarFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -394
+Y: -9
+W: 302
+H: 24
 Frame: CastingBarFrame
 FrameLevel: 1
 Anchor: BOTTOM

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
+	["LastVersion"] = 2.0411,
 	["LastPlayerFullName"] = "Ниамэй-Гордунни",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -84,6 +84,12 @@ PawnOptions = {
 			["Level"] = 475,
 			["Link"] = "|cffa335ee|Hitem:159662:5962:168642::::::120:268::35:7:6536:6578:1647:4786:6514:6479:6470:::|h[Бесплотный жнец]|h|r",
 		}, -- [16]
+		{
+			["ID"] = 178857,
+			["Level"] = 210,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:178857::::::::60:268::35:5:7204:6652:1501:5868:6646::::|h[Лезвие каменного генерала]|h|r",
+		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
 }

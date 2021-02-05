@@ -90,6 +90,9 @@ END
 VER 3 0000000000000037 "Mark_Star" "135749"
 /run SetRaidTarget("mouseover", 1);
 END
+VER 3 0000000000000041 "MawMount" "236288"
+/run if(C_Map.GetBestMapForUnit("player")==1543)then C_MountJournal.SummonByID(1304);else C_MountJournal.SummonByID(0);end
+END
 VER 3 000000000000001B "Murloc" "Ability_Hunter_FocusedAim"
 /script PlaySoundFile("Sound\\Creature\\Murloc\\mMurlocAggroOld.wav")
 END

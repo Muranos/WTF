@@ -2,14 +2,14 @@
     "Addons": [
         {
             "Checksums": {
-                "AllTheThings": "53937211d40dc955d01299f5f3b24f09"
+                "AllTheThings": "fd52a08c724209d0cea5acf0e527daf8"
             },
             "Directories": [
                 "AllTheThings"
             ],
             "Name": "ALL THE THINGS",
             "URL": "https://www.curseforge.com/wow/addons/all-the-things",
-            "Version": "Shadowlands 2.2.2"
+            "Version": "Shadowlands 2.2.3"
         },
         {
             "Checksums": {
@@ -24,24 +24,24 @@
         },
         {
             "Checksums": {
-                "BigWigs": "683c97ca6bdcdcd3f9197537a8768f56",
-                "BigWigs_CastleNathria": "c4f251d92394439d4fb9050bf61a2a0b",
-                "BigWigs_Core": "e2691f268c14bb5aed3778e4d35a16da",
-                "BigWigs_Options": "a22f28a18964e6fb26a4ac344e6bd434",
-                "BigWigs_Plugins": "a4f1be42ade80fb6a7fcc21032985064",
+                "BigWigs": "40b0243f55442f374423c589e697634d",
+                "BigWigs_CastleNathria": "a245385a7c8dcf7a0c8936c5091660ba",
+                "BigWigs_Core": "a1697e73df565494856927b38a703d99",
+                "BigWigs_Options": "96e6a90c745550097b3efafda927228c",
+                "BigWigs_Plugins": "e93c75e159bc2636693a93711857e911",
                 "BigWigs_Shadowlands": "1fc72cf281341001b43c5c430423554d"
             },
             "Directories": [
                 "BigWigs_CastleNathria",
                 "BigWigs",
-                "BigWigs_Core",
-                "BigWigs_Shadowlands",
+                "BigWigs_Plugins",
                 "BigWigs_Options",
-                "BigWigs_Plugins"
+                "BigWigs_Shadowlands",
+                "BigWigs_Core"
             ],
             "Name": "BigWigs Bossmods",
             "URL": "https://www.curseforge.com/wow/addons/big-wigs",
-            "Version": "v206.1"
+            "Version": "v211.2"
         },
         {
             "Checksums": {
@@ -146,28 +146,28 @@
         },
         {
             "Checksums": {
-                "LittleWigs": "0fade7da42fa7e7ce30ffb0f9fc8cedf",
-                "LittleWigs_BurningCrusade": "6871a78a560d4624a183774df90824e0",
+                "LittleWigs": "a1a07e4afd9e76afc5ccce2cc973a7ba",
+                "LittleWigs_BurningCrusade": "6f5b6a63e797ec704932cf46f9f5eb41",
                 "LittleWigs_Cataclysm": "f39f3b7e76a6238881fc0bd1394478a3",
                 "LittleWigs_Classic": "08d84a78adf5c7ba83dced9ebc95db21",
-                "LittleWigs_Legion": "b16e67ec35f81e34b155715c88f87636",
-                "LittleWigs_MistsOfPandaria": "5a28418c7e1b66fde9289c2656f4474e",
-                "LittleWigs_WarlordsOfDraenor": "6cc538e741cffaad9910ef8ee8653dae",
-                "LittleWigs_WrathOfTheLichKing": "cd01d40f2e0e5e53f5d97c81904e04c0"
+                "LittleWigs_Legion": "fd75b630663a3aca711dbdac21ae3755",
+                "LittleWigs_MistsOfPandaria": "c41f842da25ff45e2980eae6f349b53a",
+                "LittleWigs_WarlordsOfDraenor": "cb4467c8f295202a7cd1d7e6fa462d34",
+                "LittleWigs_WrathOfTheLichKing": "ec0a58c03551b6da91ed6c7f5f1870bd"
             },
             "Directories": [
-                "LittleWigs",
-                "LittleWigs_WarlordsOfDraenor",
-                "LittleWigs_Legion",
                 "LittleWigs_WrathOfTheLichKing",
-                "LittleWigs_Cataclysm",
+                "LittleWigs_Legion",
                 "LittleWigs_BurningCrusade",
+                "LittleWigs_Cataclysm",
+                "LittleWigs_Classic",
+                "LittleWigs_WarlordsOfDraenor",
                 "LittleWigs_MistsOfPandaria",
-                "LittleWigs_Classic"
+                "LittleWigs"
             ],
             "Name": "LittleWigs",
             "URL": "https://www.curseforge.com/wow/addons/little-wigs",
-            "Version": "v9.0.21"
+            "Version": "v9.0.25"
         },
         {
             "Checksums": {
@@ -210,8 +210,8 @@
                 "OmniCC_Config": "fe887376e5a2689a5f5ec0b0278b9e9f"
             },
             "Directories": [
-                "OmniCC_Config",
-                "OmniCC"
+                "OmniCC",
+                "OmniCC_Config"
             ],
             "Name": "OmniCC",
             "URL": "https://www.curseforge.com/wow/addons/omni-cc",
@@ -219,14 +219,14 @@
         },
         {
             "Checksums": {
-                "OmniCD": "ed23efbdafde02a07bce38bdde0ebdd0"
+                "OmniCD": "fddd8b5b8f697fd79f912df7d99ecbc8"
             },
             "Directories": [
                 "OmniCD"
             ],
             "Name": "OmniCD",
             "URL": "https://www.curseforge.com/wow/addons/omnicd",
-            "Version": "v2.5.7"
+            "Version": "v2.5.10"
         },
         {
             "Checksums": {
@@ -252,14 +252,14 @@
         },
         {
             "Checksums": {
-                "Pawn": "6733dc2a90a8e69cc5db3f998b68dc7a"
+                "Pawn": "e52153406e5d8c4ae53c0c1f78f0761d"
             },
             "Directories": [
                 "Pawn"
             ],
             "Name": "Pawn",
             "URL": "https://www.curseforge.com/wow/addons/pawn",
-            "Version": "2.4.10"
+            "Version": "2.4.11"
         },
         {
             "Checksums": {
@@ -278,8 +278,8 @@
                 "Prat-3.0_Libraries": "94331f3ed88fd7ce1a181825a5bb0c0d"
             },
             "Directories": [
-                "Prat-3.0",
-                "Prat-3.0_Libraries"
+                "Prat-3.0_Libraries",
+                "Prat-3.0"
             ],
             "Name": "Prat 3.0",
             "URL": "https://www.curseforge.com/wow/addons/prat-3-0",
@@ -287,18 +287,18 @@
         },
         {
             "Checksums": {
-                "PremadeGroupsFilter": "86ed6cb30a6929964fba185c27c63d1a"
+                "PremadeGroupsFilter": "71ec033516f4d90e02494a5595e816b8"
             },
             "Directories": [
                 "PremadeGroupsFilter"
             ],
             "Name": "Premade Groups Filter",
             "URL": "https://www.curseforge.com/wow/addons/premade-groups-filter",
-            "Version": "2.0.2"
+            "Version": "2.1.0"
         },
         {
             "Checksums": {
-                "RaiderIO": "e0793802eaac7674c7ece5af7b0851af",
+                "RaiderIO": "93776912ef4e6943a98d73159837011e",
                 "RaiderIO_DB_EU_A": "e4fc53e9095c002ede3309416b877730",
                 "RaiderIO_DB_EU_A_R": "f7d8a3451f52cc3d3d6f7d9d16c0ce46",
                 "RaiderIO_DB_EU_H": "8e9287abcfa3bdc85f0929ab4e3a469b",
@@ -317,32 +317,32 @@
                 "RaiderIO_DB_US_H_R": "50467739efa34b3f82d964883348fb34"
             },
             "Directories": [
-                "RaiderIO_DB_KR_A_R",
-                "RaiderIO_DB_KR_H_R",
-                "RaiderIO_DB_US_H_R",
-                "RaiderIO_DB_TW_H_R",
-                "RaiderIO_DB_TW_H",
-                "RaiderIO_DB_EU_A",
-                "RaiderIO_DB_EU_A_R",
-                "RaiderIO_DB_TW_A_R",
-                "RaiderIO_DB_US_H",
-                "RaiderIO_DB_US_A",
                 "RaiderIO_DB_US_A_R",
+                "RaiderIO_DB_US_A",
+                "RaiderIO_DB_EU_A",
                 "RaiderIO_DB_EU_H_R",
                 "RaiderIO_DB_EU_H",
+                "RaiderIO_DB_TW_A_R",
+                "RaiderIO_DB_KR_H",
+                "RaiderIO_DB_TW_H_R",
+                "RaiderIO_DB_KR_A_R",
+                "RaiderIO_DB_TW_A",
+                "RaiderIO_DB_US_H",
+                "RaiderIO_DB_US_H_R",
+                "RaiderIO_DB_TW_H",
+                "RaiderIO_DB_KR_H_R",
                 "RaiderIO",
                 "RaiderIO_DB_KR_A",
-                "RaiderIO_DB_KR_H",
-                "RaiderIO_DB_TW_A"
+                "RaiderIO_DB_EU_A_R"
             ],
             "Name": "Raider.IO Mythic Plus and Raid Progress",
             "URL": "https://www.curseforge.com/wow/addons/raiderio",
-            "Version": "v202101210600"
+            "Version": "v202102040600"
         },
         {
             "Checksums": {
-                "Rarity": "60d4fcbaf89d9d124875dd30cdeb0927",
-                "Rarity_Options": "a836fcd23f5cdef1467c916990ac9a36"
+                "Rarity": "86f0aabb859f1f542a55e00f9e2b3dd7",
+                "Rarity_Options": "e70aaa65e88f73952624e352afb44303"
             },
             "Directories": [
                 "Rarity_Options",
@@ -350,7 +350,7 @@
             ],
             "Name": "Rarity",
             "URL": "https://www.curseforge.com/wow/addons/rarity",
-            "Version": "r702-release-6"
+            "Version": "r703-release"
         },
         {
             "Checksums": {
@@ -376,14 +376,14 @@
         },
         {
             "Checksums": {
-                "SavedInstances": "8b02e1ec62e81f5209f02ce408e948aa"
+                "SavedInstances": "c82919aafaa5f70679c12cae6e3c2447"
             },
             "Directories": [
                 "SavedInstances"
             ],
             "Name": "SavedInstances",
             "URL": "https://www.curseforge.com/wow/addons/saved_instances",
-            "Version": "9.0.4"
+            "Version": "9.0.5"
         },
         {
             "Checksums": {
@@ -392,8 +392,8 @@
                 "Scrap_Merchant": "76b617ecd3131d220099dce4bfdc74c5"
             },
             "Directories": [
-                "Scrap",
                 "Scrap_Merchant",
+                "Scrap",
                 "Scrap_Config"
             ],
             "Name": "Scrap (Junk Seller)",
@@ -455,8 +455,8 @@
             },
             "Directories": [
                 "TipTacItemRef",
-                "TipTac",
                 "TipTacOptions",
+                "TipTac",
                 "TipTacTalents"
             ],
             "Name": "TipTac",
@@ -477,16 +477,16 @@
                 "TitanXP": "5e624358267fcb73c7445170b385dd5b"
             },
             "Directories": [
-                "TitanGold",
+                "TitanRepair",
                 "TitanBag",
                 "TitanXP",
-                "Titan",
-                "TitanLocation",
-                "TitanVolume",
-                "TitanRepair",
-                "TitanPerformance",
                 "TitanClock",
-                "TitanLootType"
+                "TitanVolume",
+                "TitanPerformance",
+                "Titan",
+                "TitanGold",
+                "TitanLootType",
+                "TitanLocation"
             ],
             "Name": "Titan Panel",
             "URL": "https://www.curseforge.com/wow/addons/titan-panel",
@@ -503,11 +503,11 @@
             },
             "Directories": [
                 "TomCats-Bundled-DarkshoreRares",
-                "TomCats",
+                "TomCats-Bundled-Mechagon",
                 "TomCats-Bundled-Nazjatar",
                 "TomCats-Bundled-Nzoth",
                 "TomCats-Bundled-ArathiHighlandsRares",
-                "TomCats-Bundled-Mechagon"
+                "TomCats"
             ],
             "Name": "TomCat's Tours",
             "URL": "https://www.curseforge.com/wow/addons/tomcats",
@@ -526,14 +526,14 @@
         },
         {
             "Checksums": {
-                "TradeSkillMaster": "278510190fdd2d3d3983144f378ce099"
+                "TradeSkillMaster": "dc103a27b0577f8396198049eb4658e9"
             },
             "Directories": [
                 "TradeSkillMaster"
             ],
             "Name": "TradeSkillMaster",
             "URL": "https://www.curseforge.com/wow/addons/tradeskill-master",
-            "Version": "v4.10.28"
+            "Version": "v4.10.29"
         },
         {
             "Checksums": {
@@ -561,22 +561,22 @@
         },
         {
             "Checksums": {
-                "WeakAuras": "70f749c48a1cdca58380caa56d6c1ce5",
+                "WeakAuras": "20cf0715c4c02b3b656b84540fdcc905",
                 "WeakAurasArchive": "17e3f67e8b3a55b5438cab2464b145cf",
-                "WeakAurasModelPaths": "79723ff981b59dd8a3aa378ddf456fda",
-                "WeakAurasOptions": "c8a487ba64cb6c1e85a656f3be1d945c",
-                "WeakAurasTemplates": "bb6e67ca78fdcc76ff21c50eed1bd5e0"
+                "WeakAurasModelPaths": "62334b05f0bdab656a861c8fb7ef28bb",
+                "WeakAurasOptions": "6a5c1f6dde53c45924e60d830435f539",
+                "WeakAurasTemplates": "53662dfbfed152167962b86f5d2c8895"
             },
             "Directories": [
-                "WeakAurasModelPaths",
                 "WeakAurasOptions",
-                "WeakAuras",
                 "WeakAurasArchive",
-                "WeakAurasTemplates"
+                "WeakAurasTemplates",
+                "WeakAuras",
+                "WeakAurasModelPaths"
             ],
             "Name": "WeakAuras",
             "URL": "https://www.curseforge.com/wow/addons/weakauras-2",
-            "Version": "3.1.8"
+            "Version": "3.1.9"
         },
         {
             "Checksums": {
@@ -613,26 +613,26 @@
         },
         {
             "Checksums": {
-                "Details": "924eeb2d09817d20406d9c4de66ba392",
+                "Details": "2dd2769012e789cba71262750f844b6e",
                 "Details_DataStorage": "0429f75a29051f16ca159ef1ffb60080",
                 "Details_EncounterDetails": "d8146218369837ef38720736bdf82244",
-                "Details_RaidCheck": "ed9bc78db17cc8b5fa223b914ad6c297",
+                "Details_RaidCheck": "8c388eab9fbcc88ce715a84184f4081c",
                 "Details_Streamer": "fffaebe8eeaba4f37b16c358773e3e8c",
                 "Details_TinyThreat": "f961a15e2230089d4e97d5d83ce6c941",
                 "Details_Vanguard": "53a199aaa7cde95a1732234d933f434c"
             },
             "Directories": [
+                "Details_Vanguard",
+                "Details_RaidCheck",
+                "Details_TinyThreat",
+                "Details_DataStorage",
                 "Details",
                 "Details_EncounterDetails",
-                "Details_Streamer",
-                "Details_TinyThreat",
-                "Details_RaidCheck",
-                "Details_Vanguard",
-                "Details_DataStorage"
+                "Details_Streamer"
             ],
             "Name": "Details! Damage Meter",
             "URL": "https://www.curseforge.com/wow/addons/details",
-            "Version": "DetailsRetail.9.0.2.8154.144(b)"
+            "Version": "DetailsRetail.9.0.2.8192b.144"
         }
     ],
     "AutoUpdate": true,
@@ -643,12 +643,12 @@
     "CFCacheCloudFlare": {
         "handynotes_draenortreasures": "86352"
     },
-    "CFCacheTimestamp": 1611226198,
+    "CFCacheTimestamp": 1612383873,
     "CompactMode": false,
     "IgnoreClientVersion": {},
     "IgnoreDependencies": {},
     "ShowAuthors": true,
-    "Version": "3.17.0",
+    "Version": "3.17.3",
     "WAAPIKey": "",
     "WAAccountName": "123813464#1",
     "WACompanionVersion": 1112,

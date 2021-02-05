@@ -3,7 +3,7 @@ GoldSave = {
 	["Ниамэй_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниамэй",
-		["gold"] = 2014756180,
+		["gold"] = 2340477756,
 	},
 	["Нирейя_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -23,7 +23,7 @@ GoldSave = {
 	["Алоиза_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алоиза",
-		["gold"] = 14048124521,
+		["gold"] = 14048774586,
 	},
 	["Сайбил_Борейская тундра::Horde"] = {
 		["show"] = true,
@@ -43,7 +43,7 @@ GoldSave = {
 	["Ниэтта_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниэтта",
-		["gold"] = 3591004561,
+		["gold"] = 3885640398,
 	},
 	["Элави_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -68,22 +68,22 @@ GoldSave = {
 	["Дэлери_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Дэлери",
-		["gold"] = 1168327218,
+		["gold"] = 1228706309,
 	},
-	["Delery_Durotan::Alliance"] = {
+	["Elavi_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Delery",
-		["gold"] = 4444000,
+		["name"] = "Elavi",
+		["gold"] = 1728,
 	},
 	["Эстрея_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Эстрея",
 		["gold"] = 4303602218,
 	},
-	["Flaminika_Durotan::Alliance"] = {
+	["Хилопятьумер_Гордунни::Alliance"] = {
 		["show"] = true,
-		["name"] = "Flaminika",
-		["gold"] = 3021328,
+		["name"] = "Хилопятьумер",
+		["gold"] = 0,
 	},
 	["Ниоши_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -95,19 +95,19 @@ GoldSave = {
 		["name"] = "Эрника",
 		["gold"] = 3093208,
 	},
-	["Хилопятьумер_Гордунни::Alliance"] = {
+	["Flaminika_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Хилопятьумер",
-		["gold"] = 0,
+		["name"] = "Flaminika",
+		["gold"] = 3021328,
 	},
 	["Эстрэя_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Эстрэя",
-		["gold"] = 2060331088,
+		["gold"] = 2394198747,
 	},
-	["Elavi_Durotan::Alliance"] = {
+	["Delery_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Elavi",
-		["gold"] = 1728,
+		["name"] = "Delery",
+		["gold"] = 4444000,
 	},
 }

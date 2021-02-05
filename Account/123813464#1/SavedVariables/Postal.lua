@@ -1,35 +1,5 @@
 
 Postal3DB = {
-	["global"] = {
-		["BlackBook"] = {
-			["alts"] = {
-				"Altery|Bronzebeard|Alliance|1|ROGUE", -- [1]
-				"Altery|Durotan|Alliance|50|ROGUE", -- [2]
-				"Delery|Durotan|Alliance|100|DEMONHUNTER", -- [3]
-				"Elavi|Durotan|Alliance|5|ROGUE", -- [4]
-				"Flaminika|Durotan|Alliance|22|ROGUE", -- [5]
-				"Flaminika|Silvermoon|Alliance|1|WARRIOR", -- [6]
-				"Алоиза|Борейская тундра|Alliance|50|PRIEST", -- [7]
-				"Алоиза|Гордунни|Alliance|50|PRIEST", -- [8]
-				"Алтери|Борейская тундра|Alliance|50|ROGUE", -- [9]
-				"Вейлзевулла|Борейская тундра|Alliance|1|WARRIOR", -- [10]
-				"Дэлери|Борейская тундра|Alliance|50|DEMONHUNTER", -- [11]
-				"Дэлери|Гордунни|Alliance|51|DEATHKNIGHT", -- [12]
-				"Зонна|Борейская тундра|Alliance|50|MAGE", -- [13]
-				"Ниамэй|Гордунни|Alliance|53|MONK", -- [14]
-				"Ниоши|Борейская тундра|Alliance|21|MAGE", -- [15]
-				"Нирейя|Борейская тундра|Alliance|13|DRUID", -- [16]
-				"Ниэтта|Гордунни|Alliance|60|PALADIN", -- [17]
-				"Сайбил|Борейская тундра|Horde|50|DEATHKNIGHT", -- [18]
-				"Тиаз|Борейская тундра|Alliance|31|MAGE", -- [19]
-				"Фламинника|Гордунни|Alliance|50|WARRIOR", -- [20]
-				"Элави|Борейская тундра|Alliance|13|WARLOCK", -- [21]
-				"Эрника|Борейская тундра|Alliance|3|MAGE", -- [22]
-				"Эстрея|Борейская тундра|Alliance|50|DRUID", -- [23]
-				"Эстрэя|Гордунни|Alliance|60|DRUID", -- [24]
-			},
-		},
-	},
 	["profileKeys"] = {
 		["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
@@ -43,11 +13,11 @@ Postal3DB = {
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
 		["Delery - Durotan"] = "Delery - Durotan",
-		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Elavi - Durotan"] = "Elavi - Durotan",
+		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
@@ -57,6 +27,36 @@ Postal3DB = {
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
 		["Фламиника - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
+	},
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Altery|Bronzebeard|Alliance|1|ROGUE", -- [1]
+				"Altery|Durotan|Alliance|50|ROGUE", -- [2]
+				"Delery|Durotan|Alliance|100|DEMONHUNTER", -- [3]
+				"Elavi|Durotan|Alliance|5|ROGUE", -- [4]
+				"Flaminika|Durotan|Alliance|22|ROGUE", -- [5]
+				"Flaminika|Silvermoon|Alliance|1|WARRIOR", -- [6]
+				"Алоиза|Борейская тундра|Alliance|50|PRIEST", -- [7]
+				"Алоиза|Гордунни|Alliance|50|PRIEST", -- [8]
+				"Алтери|Борейская тундра|Alliance|50|ROGUE", -- [9]
+				"Вейлзевулла|Борейская тундра|Alliance|1|WARRIOR", -- [10]
+				"Дэлери|Борейская тундра|Alliance|53|DEMONHUNTER", -- [11]
+				"Дэлери|Гордунни|Alliance|51|DEATHKNIGHT", -- [12]
+				"Зонна|Борейская тундра|Alliance|50|MAGE", -- [13]
+				"Ниамэй|Гордунни|Alliance|60|MONK", -- [14]
+				"Ниоши|Борейская тундра|Alliance|21|MAGE", -- [15]
+				"Нирейя|Борейская тундра|Alliance|13|DRUID", -- [16]
+				"Ниэтта|Гордунни|Alliance|60|PALADIN", -- [17]
+				"Сайбил|Борейская тундра|Horde|50|DEATHKNIGHT", -- [18]
+				"Тиаз|Борейская тундра|Alliance|31|MAGE", -- [19]
+				"Фламинника|Гордунни|Alliance|50|WARRIOR", -- [20]
+				"Элави|Борейская тундра|Alliance|13|WARLOCK", -- [21]
+				"Эрника|Борейская тундра|Alliance|3|MAGE", -- [22]
+				"Эстрея|Борейская тундра|Alliance|50|DRUID", -- [23]
+				"Эстрэя|Гордунни|Alliance|60|DRUID", -- [24]
+			},
+		},
 	},
 	["profiles"] = {
 		["Вейлзевулла - Борейская тундра"] = {
@@ -117,9 +117,9 @@ Postal3DB = {
 		["Эстрэя - Гордунни"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Дэлери|Гордунни|Alliance", -- [1]
-					"Алоиза|Гордунни|Alliance", -- [2]
-					"Ниэтта|Гордунни|Alliance", -- [3]
+					"Алоиза|Гордунни|Alliance", -- [1]
+					"Ниэтта|Гордунни|Alliance", -- [2]
+					"Дэлери|Гордунни|Alliance", -- [3]
 					"Нозердума|Гордунни|Alliance", -- [4]
 					"Фламинника|Гордунни|Alliance", -- [5]
 					"Супркек|Гордунни|Alliance", -- [6]
@@ -187,8 +187,8 @@ Postal3DB = {
 		},
 		["Дэлери - Борейская тундра"] = {
 			["OpenAll"] = {
-				["Attachments"] = false,
 				["AHSuccess"] = false,
+				["Attachments"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -238,39 +238,10 @@ Postal3DB = {
 		},
 		["Delery - Durotan"] = {
 		},
-		["Elavi - Durotan"] = {
-		},
-		["Эрника - Борейская тундра"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Ниэтта-Гордунни|Борейская тундра|Alliance", -- [1]
-					"Элави|Борейская тундра|Alliance", -- [2]
-					"Фламиника|Борейская тундра|Alliance", -- [3]
-					"Алоиза|Борейская тундра|Alliance", -- [4]
-					"Алтери|Борейская тундра|Alliance", -- [5]
-					"Дэлери|Борейская тундра|Alliance", -- [6]
-					"Эстрея|Борейская тундра|Alliance", -- [7]
-					"Зонна|Борейская тундра|Alliance", -- [8]
-				},
-			},
-		},
-		["Элави - Борейская тундра"] = {
-			["OpenAll"] = {
-				["Attachments"] = false,
-			},
-			["BlackBook"] = {
-				["recent"] = {
-					"Алоиза|Борейская тундра|Alliance", -- [1]
-					"Нирейя|Борейская тундра|Alliance", -- [2]
-					"Эрника|Борейская тундра|Alliance", -- [3]
-					"Алтери|Борейская тундра|Alliance", -- [4]
-				},
-			},
-		},
 		["Зонна - Борейская тундра"] = {
 			["OpenAll"] = {
-				["AHSuccess"] = false,
 				["Attachments"] = false,
+				["AHSuccess"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -305,6 +276,35 @@ Postal3DB = {
 				},
 			},
 		},
+		["Элави - Борейская тундра"] = {
+			["OpenAll"] = {
+				["Attachments"] = false,
+			},
+			["BlackBook"] = {
+				["recent"] = {
+					"Алоиза|Борейская тундра|Alliance", -- [1]
+					"Нирейя|Борейская тундра|Alliance", -- [2]
+					"Эрника|Борейская тундра|Alliance", -- [3]
+					"Алтери|Борейская тундра|Alliance", -- [4]
+				},
+			},
+		},
+		["Elavi - Durotan"] = {
+		},
+		["Эрника - Борейская тундра"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Ниэтта-Гордунни|Борейская тундра|Alliance", -- [1]
+					"Элави|Борейская тундра|Alliance", -- [2]
+					"Фламиника|Борейская тундра|Alliance", -- [3]
+					"Алоиза|Борейская тундра|Alliance", -- [4]
+					"Алтери|Борейская тундра|Alliance", -- [5]
+					"Дэлери|Борейская тундра|Alliance", -- [6]
+					"Эстрея|Борейская тундра|Alliance", -- [7]
+					"Зонна|Борейская тундра|Alliance", -- [8]
+				},
+			},
+		},
 		["Flaminika - Silvermoon"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -314,8 +314,8 @@ Postal3DB = {
 		},
 		["Эстрея - Борейская тундра"] = {
 			["OpenAll"] = {
-				["Attachments"] = false,
 				["AHSuccess"] = false,
+				["Attachments"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -341,11 +341,11 @@ Postal3DB = {
 		["Ниамэй - Гордунни"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Алоиза|Гордунни|Alliance", -- [1]
-					"Фламинника|Гордунни|Alliance", -- [2]
+					"Дэлери|Гордунни|Alliance", -- [1]
+					"Алоиза|Гордунни|Alliance", -- [2]
 					"Ниэтта|Гордунни|Alliance", -- [3]
-					"Эстрэя|Гордунни|Alliance", -- [4]
-					"Дэлери|Гордунни|Alliance", -- [5]
+					"Фламинника|Гордунни|Alliance", -- [4]
+					"Эстрэя|Гордунни|Alliance", -- [5]
 				},
 			},
 		},
@@ -381,10 +381,10 @@ Postal3DB = {
 		["Ниэтта - Гордунни"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Эстрэя|Гордунни|Alliance", -- [1]
-					"Алоиза|Гордунни|Alliance", -- [2]
-					"Нозердума|Гордунни|Alliance", -- [3]
-					"Дэлери|Гордунни|Alliance", -- [4]
+					"Алоиза|Гордунни|Alliance", -- [1]
+					"Дэлери|Гордунни|Alliance", -- [2]
+					"Эстрэя|Гордунни|Alliance", -- [3]
+					"Нозердума|Гордунни|Alliance", -- [4]
 					"Фламинника|Гордунни|Alliance", -- [5]
 					"Киркора|Гордунни|Alliance", -- [6]
 					"Ниамэй|Гордунни|Alliance", -- [7]
