@@ -7,7 +7,7 @@ VER 3 0100000000000002 "FLExtended" "Ability_Druid_Eclipse"
 END
 VER 3 010000000000000A "Fortitude" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@player] Слово силы: Стойкость
+/cast [@mouseover, help, nodead] Слово силы: Стойкость; [help, nodead] Слово силы: Стойкость; [@player] Слово силы: Стойкость
 END
 VER 3 0100000000000006 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -29,8 +29,8 @@ VER 3 0100000000000005 "Shield" "INV_MISC_QUESTIONMARK"
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Слово силы: Щит; [@player] Слово силы: Щит
 END
 VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

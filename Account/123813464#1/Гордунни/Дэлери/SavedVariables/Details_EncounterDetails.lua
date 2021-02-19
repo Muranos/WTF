@@ -7344,28 +7344,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Резан",
 		},
-		[196771] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Нозердума",
-		},
-		[313571] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Нозердума",
-		},
-		[256128] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Надзиратель Корги",
-		},
 		[255421] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -7374,6 +7352,31 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Резан",
+		},
+		[255434] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Резан",
+		},
+		[256128] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Надзиратель Корги",
+		},
+		[274598] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Chrís-Dalaran",
 		},
 		[197277] = {
 			["school"] = 2,
@@ -7398,15 +7401,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Нано Мегабум",
 		},
-		[255434] = {
+		[313571] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Резан",
+			["source"] = "Нозердума",
 		},
 		[259711] = {
 			["school"] = 1,
@@ -7433,13 +7434,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Сутра",
 		},
-		[274598] = {
-			["school"] = 1,
+		[314035] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Chrís-Dalaran",
+			["source"] = "Темный инквизитор Занеш",
 		},
 		[193455] = {
 			["school"] = 1,
@@ -7448,14 +7449,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Стреляйкусай",
-		},
-		[314035] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Темный инквизитор Занеш",
 		},
 		[55249] = {
 			["school"] = 1,
@@ -7466,6 +7459,15 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Гал'дара",
+		},
+		[249919] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Язма",
 		},
 		[309990] = {
 			["school"] = 32,
@@ -7483,14 +7485,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lonidard-Pozzodell'Eternità",
 		},
-		[249919] = {
-			["school"] = 1,
+		[266030] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Язма",
+			["source"] = "Athrocey-Aegwynn",
 		},
 		[313089] = {
 			["school"] = 32,
@@ -7515,21 +7516,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Меченный смертью поработитель",
 		},
-		[266030] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Athrocey-Aegwynn",
-		},
-		[264446] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Нозердума",
-		},
 		[257326] = {
 			["school"] = 1,
 			["token"] = {
@@ -7539,13 +7525,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Головорез Краснокрюк",
 		},
-		[273658] = {
-			["school"] = 32,
+		[264446] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Меченный смертью поработитель",
+			["source"] = "Нозердума",
 		},
 		[298124] = {
 			["school"] = 40,
@@ -7556,6 +7541,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Токсикоид",
 		},
+		[273658] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Меченный смертью поработитель",
+		},
 		[110945] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -7564,6 +7557,14 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Гу Небесный Удар",
+		},
+		[287280] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Кошкинсвет",
 		},
 		[246152] = {
 			["school"] = 1,
@@ -7632,14 +7633,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Оскверненный Тажань Чжу",
 		},
-		[287280] = {
-			["school"] = 2,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Кошкинсвет",
-		},
 		[153564] = {
 			["school"] = 4,
 			["token"] = {
@@ -7668,6 +7661,16 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Н'Зот Заразитель",
+		},
+		[275014] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Вик'Гот",
 		},
 		[265986] = {
 			["school"] = 1,
@@ -7703,16 +7706,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Капитан Джолли",
 		},
-		[275014] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Вик'Гот",
-		},
 		[306985] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -7722,13 +7715,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ярость Н'Зота",
 		},
-		[305393] = {
+		[317859] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "\"Платиновый лупцеватор\"",
+			["source"] = "Нозердума",
+		},
+		[196771] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Нозердума",
 		},
 		[267523] = {
 			["school"] = 1,
@@ -7737,13 +7737,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Капитан Джолли",
 		},
-		[317859] = {
+		[305393] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Нозердума",
+			["source"] = "\"Платиновый лупцеватор\"",
 		},
 		[111723] = {
 			["school"] = 1,
@@ -7908,13 +7908,13 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[276229] = {
-			["school"] = 4,
+		[318219] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "\"БУМБОТ\"",
+			["source"] = "Стреляйкусай",
 		},
 		[285440] = {
 			["school"] = 1,
@@ -7924,13 +7924,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Главный машинист Искроточец",
 		},
-		[318219] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[276229] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Стреляйкусай",
+			["source"] = "\"БУМБОТ\"",
 		},
 		[259975] = {
 			["school"] = 1,
@@ -7983,13 +7983,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Райгонн",
 		},
-		[319733] = {
+		[123496] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Эшелон",
+			["source"] = "Лазурный змей",
 		},
 		[194216] = {
 			["school"] = 64,
@@ -8018,14 +8019,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lonidard-Pozzodell'Eternità",
 		},
-		[123496] = {
+		[107120] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Лазурный змей",
+			["source"] = "Командир Ри'мок",
 		},
 		[188389] = {
 			["school"] = 4,
@@ -8106,15 +8108,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "\"БУМБОТ\"",
 		},
-		[107120] = {
+		[319733] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Командир Ри'мок",
+			["source"] = "Эшелон",
 		},
 		[255372] = {
 			["school"] = 1,
@@ -8462,14 +8462,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cleyde-Pozzodell'Eternità",
 		},
-		[270661] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[47688] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Velduk-Sylvanas",
+			["source"] = "Хаотический разлом",
 		},
 		[307974] = {
 			["school"] = 1,
@@ -8480,13 +8479,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гневион",
 		},
-		[47688] = {
-			["school"] = 64,
+		[115430] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Хаотический разлом",
+			["source"] = "Крик'тик-яростень",
+		},
+		[270661] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Velduk-Sylvanas",
 		},
 		[263927] = {
 			["school"] = 8,
@@ -8496,15 +8505,6 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Меректа",
-		},
-		[115430] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Крик'тик-яростень",
 		},
 		[15580] = {
 			["school"] = 1,

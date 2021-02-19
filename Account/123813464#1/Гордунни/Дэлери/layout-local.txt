@@ -27,13 +27,6 @@ X: 8
 Y: 99
 W: 250
 H: 24
-Frame: TargetFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 381
-Y: -82
-W: 232
-H: 100
 Frame: AllTheThings-Window-Prime
 FrameLevel: 1
 Anchor: CENTER
@@ -132,3 +125,10 @@ X: 6
 Y: -204
 W: 570
 H: 155
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 381
+Y: -82
+W: 232
+H: 100

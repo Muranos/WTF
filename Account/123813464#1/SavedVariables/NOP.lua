@@ -4,8 +4,14 @@ NewOpenablesProfile = {
 		["Ниамэй - Гордунни"] = {
 			["itemID"] = 183701,
 		},
-		["Алтери - Борейская тундра"] = {
-			["itemID"] = 160324,
+		["Нирейя - Борейская тундра"] = {
+			["itemID"] = 50161,
+		},
+		["Ниоши - Борейская тундра"] = {
+			["itemID"] = 50160,
+		},
+		["Дэлери - Борейская тундра"] = {
+			["itemID"] = 181475,
 		},
 		["Altery - Durotan"] = {
 			["itemID"] = 153960,
@@ -16,21 +22,9 @@ NewOpenablesProfile = {
 		["Эрника - Борейская тундра"] = {
 			["itemID"] = 172014,
 		},
-		["Алоиза - Борейская тундра"] = {
-			["itemID"] = 119332,
-		},
-		["Нирейя - Борейская тундра"] = {
-			["itemID"] = 50161,
-		},
-		["Ниоши - Борейская тундра"] = {
-			["itemID"] = 50160,
-		},
 		["Ниэтта - Гордунни"] = {
-			["itemID"] = 184062,
+			["itemID"] = 184638,
 		},
-	},
-	["global"] = {
-		["version"] = "|cFFFFFFFF09.16 16.12.2018 use |cFFFF00FF/nop|cFFFFFFFF",
 	},
 	["profileKeys"] = {
 		["Ниамэй - Гордунни"] = "Default",
@@ -51,6 +45,9 @@ NewOpenablesProfile = {
 		["Эстрея - Борейская тундра"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
 	},
+	["global"] = {
+		["version"] = "|cFFFFFFFF09.16 16.12.2018 use |cFFFF00FF/nop|cFFFFFFFF",
+	},
 	["profiles"] = {
 		["Default"] = {
 			["autoquest"] = true,
@@ -68,28 +65,29 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[164938] = true,
 				[174459] = true,
+				[0] = true,
 				[163222] = true,
 				[168651] = true,
 				[173398] = true,
 				[127840] = true,
 				[174460] = true,
-				[152496] = true,
-				[152638] = true,
-				[173422] = true,
+				[174462] = true,
+				[133579] = true,
 				[152497] = true,
+				[173422] = true,
 				[168652] = true,
-				[174457] = true,
 				[174891] = true,
-				[142117] = true,
+				[174457] = true,
+				[168529] = true,
 				[169299] = true,
 				[89112] = true,
 				[169451] = true,
 				[127835] = true,
-				[168529] = true,
+				[142117] = true,
 				[127839] = true,
 				[174458] = true,
-				[174462] = true,
-				[0] = true,
+				[152638] = true,
+				[152496] = true,
 			},
 			["Skip"] = true,
 			["qb"] = {

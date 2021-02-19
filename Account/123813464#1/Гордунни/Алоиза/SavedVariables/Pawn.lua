@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Алоиза-Гордунни",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0414,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159279,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159133:5949:::::::50:258::35:4:6536:6515:1543:4786::::|h[Зазубренная радужная сика]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Алоиза-Гордунни",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

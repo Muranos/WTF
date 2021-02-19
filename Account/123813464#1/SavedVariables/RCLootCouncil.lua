@@ -12,13 +12,13 @@ RCLootCouncilDB = {
 		["Дэлери - Борейская тундра"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Нирейя - Борейская тундра"] = "Default",
-		["Delery - Durotan"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
 		["Elavi - Durotan"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Flaminika - Durotan"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
+		["Delery - Durotan"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Ниамэй - Гордунни"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
@@ -30,2015 +30,2015 @@ RCLootCouncilDB = {
 	},
 	["global"] = {
 		["log"] = {
-			"<01:45:37><Comm>	 ^1^Sl^T^N1^S157003^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [1]
-			"<01:47:24><DEBUG>	 Event: LOOT_READY true", -- [2]
-			"<01:47:24><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-168004-00001740DD 22923", -- [3]
-			"<01:47:24><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179370::::::::60:66:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-4256-2162-13531-168004-00001740DD 1", -- [4]
-			"<01:47:24><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:13|h[Фантазма]|h|r as it's a currency", -- [5]
-			"<01:47:24><DEBUG>	 Event: LOOT_READY true", -- [6]
-			"<01:47:24><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-168004-00001740DD 22923", -- [7]
-			"<01:47:24><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179370::::::::60:66:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-4256-2162-13531-168004-00001740DD 1", -- [8]
-			"<01:47:24><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:13|h[Фантазма]|h|r as it's a currency", -- [9]
-			"<01:47:25><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [10]
-			"<01:47:25><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:179370::::::::60:66:::::::|h[Инертная печать перехода]|h|r 0", -- [11]
-			"<01:47:25><DEBUG>	 Event: LOOT_CLOSED", -- [12]
-			"<01:47:25><DEBUG>	 Event: LOOT_CLOSED", -- [13]
-			"<01:47:25><Comm>	 ^1^Sl^T^N1^S168004^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [14]
-			"<01:47:25><Comm>	 ^1^Sl^T^N1^S168004^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [15]
-			"<01:51:59><DEBUG>	 Event: LOOT_READY true", -- [16]
-			"<01:51:59><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-157810-0000974279 5194 Creature-0-4256-2162-13531-157809-0001174279 10837", -- [17]
-			"<01:51:59><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:8|h[Фантазма]|h|r as it's a currency", -- [18]
-			"<01:51:59><DEBUG>	 Event: LOOT_READY true", -- [19]
-			"<01:51:59><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-157810-0000974279 5194 Creature-0-4256-2162-13531-157809-0001174279 10837", -- [20]
-			"<01:51:59><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:8|h[Фантазма]|h|r as it's a currency", -- [21]
-			"<01:52:00><DEBUG>	 Event: LOOT_CLOSED", -- [22]
-			"<01:52:00><Comm>	 ^1^Sl^T^N1^S157810^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [23]
-			"<01:52:37><DEBUG>	 Event: LOOT_READY true", -- [24]
-			"<01:52:37><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-152708-0001174279 19822 Creature-0-4256-2162-13531-152708-0000974279 4758 Creature-0-4256-2162-13531-155793-0008974279 2727 Creature-0-4256-2162-13531-155793-0009174279 4156 Creature-0-4256-2162-13531-155793-0009974279 3071 Creature-0-4256-2162-13531-155793-000A174279 3300 Creature-0-4256-2162-13531-155830-0000174279 7968", -- [25]
-			"<01:52:37><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [26]
-			"<01:52:38><DEBUG>	 Event: LOOT_READY true", -- [27]
-			"<01:52:38><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-152708-0001174279 19822 Creature-0-4256-2162-13531-152708-0000974279 4758 Creature-0-4256-2162-13531-155793-0008974279 2727 Creature-0-4256-2162-13531-155793-0009174279 4156 Creature-0-4256-2162-13531-155793-0009974279 3071 Creature-0-4256-2162-13531-155793-000A174279 3300 Creature-0-4256-2162-13531-155830-0000174279 7968", -- [28]
-			"<01:52:38><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [29]
-			"<01:52:38><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [30]
-			"<01:52:38><DEBUG>	 Event: LOOT_CLOSED", -- [31]
-			"<01:52:38><Comm>	 ^1^Sl^T^N1^S152708^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [32]
-			"<01:53:13><DEBUG>	 Event: LOOT_READY true", -- [33]
-			"<01:53:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-171171-00001742CB 10644 Creature-0-4256-2162-13531-171172-00001742CB 17174 Creature-0-4256-2162-13531-171173-00001742CB 21032", -- [34]
-			"<01:53:13><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:12|h[Фантазма]|h|r as it's a currency", -- [35]
-			"<01:53:13><DEBUG>	 Event: LOOT_READY true", -- [36]
-			"<01:53:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-171171-00001742CB 10644 Creature-0-4256-2162-13531-171172-00001742CB 17174 Creature-0-4256-2162-13531-171173-00001742CB 21032", -- [37]
-			"<01:53:13><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:12|h[Фантазма]|h|r as it's a currency", -- [38]
-			"<01:53:13><DEBUG>	 Event: LOOT_CLOSED", -- [39]
-			"<01:53:13><Comm>	 ^1^Sl^T^N1^S171171^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [40]
-			"<01:53:19><DEBUG>	 Event: LOOT_READY true", -- [41]
-			"<01:53:19><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-154014-0000174279 19337", -- [42]
-			"<01:53:19><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:2|h[Фантазма]|h|r as it's a currency", -- [43]
-			"<01:53:20><DEBUG>	 Event: LOOT_READY true", -- [44]
-			"<01:53:20><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-154014-0000174279 19337", -- [45]
-			"<01:53:20><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:2|h[Фантазма]|h|r as it's a currency", -- [46]
-			"<01:53:20><DEBUG>	 Event: LOOT_CLOSED", -- [47]
-			"<01:53:20><Comm>	 ^1^Sl^T^N1^S154014^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [48]
-			"<01:54:06><DEBUG>	 Event: LOOT_READY true", -- [49]
-			"<01:54:06><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-157099-0000174279 17652 Creature-0-4256-2162-13531-155790-0000174279 9138 Creature-0-4256-2162-13531-155793-0006974279 2388 Creature-0-4256-2162-13531-155793-0007174279 2661 Creature-0-4256-2162-13531-155831-0000174279 5913 Creature-0-4256-2162-13531-157809-0001974279 15078", -- [50]
-			"<01:54:06><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:16|h[Фантазма]|h|r as it's a currency", -- [51]
-			"<01:54:06><DEBUG>	 Event: LOOT_READY true", -- [52]
-			"<01:54:06><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-157099-0000174279 17652 Creature-0-4256-2162-13531-155790-0000174279 9138 Creature-0-4256-2162-13531-155793-0006974279 2388 Creature-0-4256-2162-13531-155793-0007174279 2661 Creature-0-4256-2162-13531-155831-0000174279 5913 Creature-0-4256-2162-13531-157809-0001974279 15078", -- [53]
-			"<01:54:06><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:16|h[Фантазма]|h|r as it's a currency", -- [54]
-			"<01:54:06><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [55]
-			"<01:54:06><DEBUG>	 Event: LOOT_CLOSED", -- [56]
-			"<01:54:06><DEBUG>	 Event: LOOT_CLOSED", -- [57]
-			"<01:54:06><Comm>	 ^1^Sl^T^N1^S157099^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [58]
-			"<01:54:07><Comm>	 ^1^Sl^T^N1^S157099^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [59]
-			"<01:55:28><DEBUG>	 Event: LOOT_READY true", -- [60]
-			"<01:55:28><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-151127-0000174279 14945 Creature-0-4256-2162-13531-152708-0000174279 19315 Creature-0-4256-2162-13531-154011-0000174279 8748 Creature-0-4256-2162-13531-154011-0000974279 16594 Creature-0-4256-2162-13531-154014-0000974279 20741 Creature-0-4256-2162-13531-154018-0001174279 9062 Creature-0-4256-2162-13531-155793-0005174279 1860 Creature-0-4256-2162-13531-155793-0005974279 2852 Creature-0-4256-2162-13531-155793-0006174279 1461 Creature-0-4256-2162-13531-155824-0000174279 14539 Creature-0-4256-2162-13531-157002-0000974279 11672 Creature-0-4256-2162-13531-157003-0002174279 13508 Creature-0-4256-2162-13531-157003-0002974279 14184 Creature-0-4256-2162-13531-157003-0003174279 17937 Creature-0-4256-2162-13531-157809-0000174279 10274 Creature-0-4256-2162-13531-157810-0000174279 13666 Creature-0-4256-2162-13531-157083-0000174279 60237", -- [61]
-			"<01:55:28><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:73|h[Фантазма]|h|r as it's a currency", -- [62]
-			"<01:55:28><DEBUG>	 Event: LOOT_READY true", -- [63]
-			"<01:55:28><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-151127-0000174279 14945 Creature-0-4256-2162-13531-152708-0000174279 19315 Creature-0-4256-2162-13531-154011-0000174279 8748 Creature-0-4256-2162-13531-154011-0000974279 16594 Creature-0-4256-2162-13531-154014-0000974279 20741 Creature-0-4256-2162-13531-154018-0001174279 9062 Creature-0-4256-2162-13531-155793-0005174279 1860 Creature-0-4256-2162-13531-155793-0005974279 2852 Creature-0-4256-2162-13531-155793-0006174279 1461 Creature-0-4256-2162-13531-155824-0000174279 14539 Creature-0-4256-2162-13531-157002-0000974279 11672 Creature-0-4256-2162-13531-157003-0002174279 13508 Creature-0-4256-2162-13531-157003-0002974279 14184 Creature-0-4256-2162-13531-157003-0003174279 17937 Creature-0-4256-2162-13531-157809-0000174279 10274 Creature-0-4256-2162-13531-157810-0000174279 13666 Creature-0-4256-2162-13531-157083-0000174279 60237", -- [64]
-			"<01:55:28><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:73|h[Фантазма]|h|r as it's a currency", -- [65]
-			"<01:55:28><DEBUG>	 Event: LOOT_CLOSED", -- [66]
-			"<01:55:28><Comm>	 ^1^Sl^T^N1^S151127^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [67]
-			"<01:56:48><DEBUG>	 Event: LOOT_READY true", -- [68]
-			"<01:56:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-168004-0000174279 42627", -- [69]
-			"<01:56:48><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179369::::::::60:66:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-4256-2162-13531-168004-0000174279 1", -- [70]
-			"<01:56:48><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:11|h[Фантазма]|h|r as it's a currency", -- [71]
-			"<01:56:48><DEBUG>	 Event: LOOT_READY true", -- [72]
-			"<01:56:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-168004-0000174279 42627", -- [73]
-			"<01:56:48><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179369::::::::60:66:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-4256-2162-13531-168004-0000174279 1", -- [74]
-			"<01:56:48><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:11|h[Фантазма]|h|r as it's a currency", -- [75]
-			"<01:56:48><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [76]
-			"<01:56:48><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:179369::::::::60:66:::::::|h[Призрачный ключ]|h|r 0", -- [77]
-			"<01:56:49><DEBUG>	 Event: LOOT_CLOSED", -- [78]
-			"<01:56:49><DEBUG>	 Event: LOOT_CLOSED", -- [79]
-			"<01:56:49><Comm>	 ^1^Sl^T^N1^S168004^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [80]
-			"<01:56:49><Comm>	 ^1^Sl^T^N1^S168004^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [81]
-			"<01:57:33><DEBUG>	 Event: LOOT_READY true", -- [82]
-			"<01:57:33><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-150965-00001743CD 8366", -- [83]
-			"<01:57:33><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:3|h[Фантазма]|h|r as it's a currency", -- [84]
-			"<01:57:33><DEBUG>	 Event: LOOT_READY true", -- [85]
-			"<01:57:33><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-150965-00001743CD 8366", -- [86]
-			"<01:57:33><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:3|h[Фантазма]|h|r as it's a currency", -- [87]
-			"<01:57:33><DEBUG>	 Event: LOOT_CLOSED", -- [88]
-			"<01:57:33><Comm>	 ^1^Sl^T^N1^S150965^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [89]
-			"<01:59:16><DEBUG>	 Event: LOOT_READY true", -- [90]
-			"<01:59:16><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-168111-00001743CD 39458", -- [91]
-			"<01:59:16><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179370::::::::60:66:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-4256-2162-13531-168111-00001743CD 1", -- [92]
-			"<01:59:16><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:11|h[Фантазма]|h|r as it's a currency", -- [93]
-			"<01:59:16><DEBUG>	 Event: LOOT_READY true", -- [94]
-			"<01:59:16><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-168111-00001743CD 39458", -- [95]
-			"<01:59:16><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179370::::::::60:66:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-4256-2162-13531-168111-00001743CD 1", -- [96]
-			"<01:59:16><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:11|h[Фантазма]|h|r as it's a currency", -- [97]
-			"<01:59:16><DEBUG>	 Event: LOOT_CLOSED", -- [98]
-			"<01:59:16><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:179370::::::::60:66:::::::|h[Инертная печать перехода]|h|r 0", -- [99]
-			"<01:59:16><DEBUG>	 Event: LOOT_CLOSED", -- [100]
-			"<01:59:16><Comm>	 ^1^Sl^T^N1^S168111^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [101]
-			"<02:03:05><DEBUG>	 Event: LOOT_READY true", -- [102]
-			"<02:03:05><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-170418-0000174461 49739", -- [103]
-			"<02:03:05><DEBUG>	 Ignoring |cffff8000|Hcurrency:1828:570|h[Пепел душ]|h|r as it's a currency", -- [104]
-			"<02:03:05><DEBUG>	 Adding to self.lootSlotInfo 3 |cff1eff00|Hitem:183117::::::::60:66::9::1:28:373:::|h[Обрубок]|h|r 2 1 Creature-0-4256-2162-13531-170418-0000174461 1", -- [105]
-			"<02:03:05><DEBUG>	 Event: LOOT_READY true", -- [106]
-			"<02:03:05><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4256-2162-13531-170418-0000174461 49739", -- [107]
-			"<02:03:05><DEBUG>	 Ignoring |cffff8000|Hcurrency:1828:570|h[Пепел душ]|h|r as it's a currency", -- [108]
-			"<02:03:05><DEBUG>	 Adding to self.lootSlotInfo 3 |cff1eff00|Hitem:183117::::::::60:66::9::1:28:373:::|h[Обрубок]|h|r 2 1 Creature-0-4256-2162-13531-170418-0000174461 1", -- [109]
-			"<02:03:06><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [110]
-			"<02:03:06><DEBUG>	 OnLootSlotCleared() 3 |cff1eff00|Hitem:183117::::::::60:66::9::1:28:373:::|h[Обрубок]|h|r 2", -- [111]
-			"<02:03:06><DEBUG>	 Event: LOOT_CLOSED", -- [112]
-			"<02:03:06><DEBUG>	 Event: LOOT_CLOSED", -- [113]
-			"<02:03:06><Comm>	 ^1^Sl^T^N1^S170418^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [114]
-			"<02:03:06><Comm>	 ^1^Sl^T^N1^S170418^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [115]
-			"<02:03:08><DEBUG>	 Storage:New |cff1eff00|Hitem:183117::::::::60:66::9::1:28:373:::|h[Обрубок]|h|r temp", -- [116]
-			"<02:03:08><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:183117::::::::60:66::9::1:28:373:::||h[Обрубок]||h||r 5", -- [117]
-			"<02:03:08><DEBUG>	 Found item at 0 10", -- [118]
-			"<02:03:08><DEBUG>	 Found: 0 10 0", -- [119]
-			"<02:03:09><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:183117::::::::60:66::9::1:28:373:::||h[Обрубок]||h||r 5", -- [120]
-			"<02:03:09><DEBUG>	 Found item at 0 10", -- [121]
-			"<02:03:09><DEBUG>	 Found: 0 10 0", -- [122]
-			"<02:03:09><Comm>	 ^1^Sn_t^T^N1^S|cff1eff00|Hitem:183117::::::::60:66::9::1:28:373:::|h[Обрубок]|h|r^N2^S170418^t^^ INSTANCE_CHAT ниэтта-Гордунни", -- [123]
-			"<02:04:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [124]
-			"<02:04:29><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-2-00005594BF43", -- [125]
-			"<02:04:29><DEBUG>	 GetML()", -- [126]
-			"<02:04:29><DEBUG>	 Resetting council as we have a new ML!", -- [127]
-			"<02:04:29><INFO>	 MasterLooter =  ниэтта-Гордунни", -- [128]
-			"<02:04:29>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [129]
-			"<02:04:29>[ML]<DEBUG>	 NewML ниэтта-Гордунни", -- [130]
-			"<02:04:29>[ML]<DEBUG>	 UpdateMLdb", -- [131]
-			"<02:04:29><INFO>	 OnMLDBReceived", -- [132]
-			"<02:04:30><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY ниэтта-Гордунни", -- [133]
-			"<02:04:30><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY ниэтта-Гордунни", -- [134]
-			"<02:04:30><DEBUG>	 GetML()", -- [135]
-			"<02:04:30><Comm>	 ^1^Sxrealm^T^N1^Sниэтта-Гордунни^N2^SpI^N3^STANK^N4^SРезервист^N6^N0^N7^N218.5625^N8^N66^t^^ PARTY ниэтта-Гордунни", -- [136]
-			"<02:04:31><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [137]
-			"<02:04:31>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [138]
-			"<02:04:31><Comm>	 ^1^Scouncil^T^N1^T^S1602-0C734AC9^B^t^t^^ PARTY ниэтта-Гордунни", -- [139]
-			"<02:04:31><DEBUG>	 isCouncil true", -- [140]
-			"<02:04:44><DEBUG>	 Timer MLdb_check passed", -- [141]
-			"<02:04:47><DEBUG>	 Event: LOOT_READY true", -- [142]
-			"<02:04:47><DEBUG>	 Event: LOOT_READY true", -- [143]
-			"<02:04:48><DEBUG>	 Event: LOOT_READY true", -- [144]
-			"<02:04:49><DEBUG>	 Event: LOOT_READY true", -- [145]
-			"<02:05:36><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [146]
-			"<02:05:38><DEBUG>	 GetML()", -- [147]
-			"<02:05:39><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [148]
-			"<02:06:40>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [149]
-			"<02:07:42>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [150]
-			"<02:08:10>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [151]
-			"<02:08:22><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [152]
-			"<02:08:48><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [153]
-			"<02:08:57>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [154]
-			"<02:09:13>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [155]
-			"<02:09:18><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [156]
-			"<02:09:38>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [157]
-			"<02:09:43><DEBUG>	 Event: LOOT_READY true", -- [158]
-			"<02:09:43><DEBUG>	 Event: LOOT_READY true", -- [159]
-			"<02:09:54>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [160]
-			"<02:10:06><DEBUG>	 Event: GROUP_LEFT 1 Party-1602-1-00003D7E3C95", -- [161]
-			"<02:10:06><DEBUG>	 GetML()", -- [162]
-			"<02:10:06><INFO>	 Stop handling loot", -- [163]
-			"<02:10:06>[ML]<INFO>	 Disabled", -- [164]
-			"<02:10:07><Comm>	 ^1^SStopHandleLoot^T^t^^ WHISPER ниэтта-Гордунни", -- [165]
-			"<02:12:18><DEBUG>	 Event: LOOT_READY true", -- [166]
-			"<02:12:18><DEBUG>	 Event: LOOT_READY true", -- [167]
-			"<02:12:18><DEBUG>	 Event: LOOT_READY true", -- [168]
-			"<02:13:05><DEBUG>	 Event: LOOT_READY true", -- [169]
-			"<02:13:05><DEBUG>	 Event: LOOT_READY true", -- [170]
-			"<02:15:32><DEBUG>	 Event: LOOT_READY true", -- [171]
-			"<02:15:33><DEBUG>	 Event: LOOT_READY true", -- [172]
-			"<02:16:10><DEBUG>	 Event: LOOT_READY true", -- [173]
-			"<02:16:11><DEBUG>	 Event: LOOT_READY true", -- [174]
-			"<02:16:50><DEBUG>	 Event: LOOT_READY true", -- [175]
-			"<02:16:51><DEBUG>	 Event: LOOT_READY true", -- [176]
-			"<02:18:42><DEBUG>	 Event: LOOT_READY true", -- [177]
-			"<02:18:42><DEBUG>	 Event: LOOT_READY true", -- [178]
-			"<02:19:05><DEBUG>	 Event: LOOT_READY true", -- [179]
-			"<02:19:06><DEBUG>	 Event: LOOT_READY true", -- [180]
-			"<02:19:26><DEBUG>	 Event: LOOT_READY true", -- [181]
-			"<02:19:26><DEBUG>	 Event: LOOT_READY true", -- [182]
-			"<02:20:10><DEBUG>	 Event: LOOT_READY true", -- [183]
-			"<02:20:11><DEBUG>	 Event: LOOT_READY true", -- [184]
-			"<02:21:16><DEBUG>	 Event: LOOT_READY true", -- [185]
-			"<02:21:16><DEBUG>	 Event: LOOT_READY true", -- [186]
-			"<02:21:27><DEBUG>	 Event: LOOT_READY true", -- [187]
-			"<02:21:27><DEBUG>	 Event: LOOT_READY true", -- [188]
-			"<02:22:34><DEBUG>	 Event: LOOT_READY true", -- [189]
-			"<02:22:34><DEBUG>	 Event: LOOT_READY true", -- [190]
-			"<02:22:43><DEBUG>	 Event: LOOT_READY true", -- [191]
-			"<02:22:44><DEBUG>	 Event: LOOT_READY true", -- [192]
-			"<02:23:38><DEBUG>	 Event: LOOT_READY true", -- [193]
-			"<02:23:38><DEBUG>	 Event: LOOT_READY true", -- [194]
-			"<02:26:23><DEBUG>	 Event: LOOT_READY true", -- [195]
-			"<02:26:23><DEBUG>	 Event: LOOT_READY true", -- [196]
-			"<02:27:21><DEBUG>	 Event: LOOT_READY true", -- [197]
-			"<02:27:22><DEBUG>	 Event: LOOT_READY true", -- [198]
-			"<02:27:22><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 171833 |cff0070dd|Hitem:171833::::::::60:70:::::::|h[Элетиевая руда]|h|r 1 Ниэтта PALADIN", -- [199]
-			"<02:28:39><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [200]
-			"<02:28:40><DEBUG>	 GetML()", -- [201]
-			"<02:28:41><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [202]
-			"<22:09:04><INFO>	 Logged In", -- [203]
-			"<22:09:04>[ML]<INFO>	 Init", -- [204]
-			"<22:09:04><INFO>	 RCLootCouncil TradeUI enabled", -- [205]
-			"<22:09:17><INFO>	 ниэтта-Гордунни 3.1.4 nil", -- [206]
-			"<22:09:17><DEBUG>	 ActivateSkin bfa", -- [207]
-			"<22:09:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [208]
-			"<22:09:18><INFO>	 UpdatePlayersData()", -- [209]
-			"<22:09:19><DEBUG>	 GetPlayersGuildRank()", -- [210]
-			"<22:09:19><DEBUG>	 Found Guild Rank: Резервист", -- [211]
-			"<22:09:22><DEBUG>	 GetML()", -- [212]
-			"<22:09:22><DEBUG>	 Storage:New |cff0070dd|Hitem:183623::::::::60:66::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r temp restored table: 0000028AB5F55C50", -- [213]
-			"<22:09:22><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:183623::::::::60:66::16::1:28:373:::||h[Гормлинг-иглобрюх]||h||r 5", -- [214]
-			"<22:09:22><DEBUG>	 Found: nil nil nil", -- [215]
-			"<22:09:22><WARNING>	 ItemStorage, db item no longer in bags |cff0070dd|Hitem:183623::::::::60:66::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r", -- [216]
-			"<22:09:22><DEBUG>	 Storage:RemoveItem |cff0070dd|Hitem:183623::::::::60:66::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r", -- [217]
-			"<22:09:22><DEBUG>	 Storage:New |cffa335ee|Hitem:178701::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Наголенники из панциря горма]|h|r temp restored table: 0000028AB5F55CA0", -- [218]
-			"<22:09:22><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178701::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::||h[Наголенники из панциря горма]||h||r 5", -- [219]
-			"<22:09:22><DEBUG>	 Found item at 2 1", -- [220]
-			"<22:09:32><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [221]
-			"<22:09:34><DEBUG>	 GetML()", -- [222]
-			"<22:09:34><DEBUG>	 Resetting council as we have a new ML!", -- [223]
-			"<22:09:34><INFO>	 MasterLooter =  главкур-Гордунни", -- [224]
-			"<22:09:49><DEBUG>	 Timer MLdb_check passed", -- [225]
-			"<22:09:49><Comm>	 ^1^Sxrealm^T^N1^Sглавкур-Гордунни^N2^SMLdb_request^t^^ PARTY ниэтта-Гордунни", -- [226]
-			"<22:09:49><Comm>	 ^1^Sxrealm^T^N1^Sглавкур-Гордунни^N2^Scouncil_request^t^^ PARTY ниэтта-Гордунни", -- [227]
-			"<22:13:49><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [228]
-			"<22:13:51><DEBUG>	 GetML()", -- [229]
-			"<22:17:47><DEBUG>	 Event: RAID_INSTANCE_WELCOME Кровавые катакомбы (Эпохальный) 124932 0 0", -- [230]
-			"<22:17:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [231]
-			"<22:17:51><DEBUG>	 GetML()", -- [232]
-			"<22:19:43><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [233]
-			"<22:19:45><DEBUG>	 GetML()", -- [234]
-			"<22:19:45><DEBUG>	 Resetting council as we have a new ML!", -- [235]
-			"<22:19:45><INFO>	 MasterLooter =  ниэтта-Гордунни", -- [236]
-			"<22:19:45>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [237]
-			"<22:19:45>[ML]<DEBUG>	 NewML ниэтта-Гордунни", -- [238]
-			"<22:19:45>[ML]<DEBUG>	 UpdateMLdb", -- [239]
-			"<22:19:45><INFO>	 OnMLDBReceived", -- [240]
-			"<22:19:46><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY ниэтта-Гордунни", -- [241]
-			"<22:19:46><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY ниэтта-Гордунни", -- [242]
-			"<22:19:46><Comm>	 ^1^Sxrealm^T^N1^Sниэтта-Гордунни^N2^SpI^N3^STANK^N4^SРезервист^N6^N0^N7^N218.5625^N8^N70^t^^ PARTY ниэтта-Гордунни", -- [243]
-			"<22:19:47>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [244]
-			"<22:19:48><Comm>	 ^1^Scouncil^T^N1^T^S1602-0C734AC9^B^t^t^^ PARTY ниэтта-Гордунни", -- [245]
-			"<22:19:48><DEBUG>	 isCouncil true", -- [246]
-			"<22:19:48><DEBUG>	 GetLootDBStatistics()", -- [247]
-			"<22:19:48><DEBUG>	 GetGuildRankNum()", -- [248]
-			"<22:19:48><INFO>	 RCVotingFrame enabled", -- [249]
-			"<22:20:00><DEBUG>	 Timer MLdb_check passed", -- [250]
-			"<22:23:33>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [251]
-			"<22:24:51>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [252]
-			"<22:25:38>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [253]
-			"<22:26:16>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [254]
-			"<22:27:15>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [255]
-			"<22:27:53>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [256]
-			"<22:27:56><DEBUG>	 Event: ENCOUNTER_START 2360 Криксис Ненасытный 8 5", -- [257]
-			"<22:27:56><INFO>	 UpdatePlayersData()", -- [258]
-			"<22:30:18><DEBUG>	 Event: ENCOUNTER_END 2360 Криксис Ненасытный 8 5 1", -- [259]
-			"<22:30:18>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [260]
-			"<22:30:57>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [261]
-			"<22:31:20>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [262]
-			"<22:31:52>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [263]
-			"<22:32:34>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [264]
-			"<22:33:34>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [265]
-			"<22:34:05>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [266]
-			"<22:34:43>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [267]
-			"<22:35:28>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [268]
-			"<22:35:58>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [269]
-			"<22:36:39>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [270]
-			"<22:37:22>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [271]
-			"<22:38:22>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [272]
-			"<22:39:01>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [273]
-			"<22:39:42>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [274]
-			"<22:40:27>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [275]
-			"<22:40:30><DEBUG>	 Event: ENCOUNTER_START 2361 Вершитель Тарвольд 8 5", -- [276]
-			"<22:40:30><INFO>	 UpdatePlayersData()", -- [277]
-			"<22:42:15><DEBUG>	 Event: ENCOUNTER_END 2361 Вершитель Тарвольд 8 5 1", -- [278]
-			"<22:42:16>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [279]
-			"<22:43:12>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [280]
-			"<22:44:02>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [281]
-			"<22:45:11>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [282]
-			"<22:45:54>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [283]
-			"<22:46:27>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [284]
-			"<22:47:47>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [285]
-			"<22:48:19>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [286]
-			"<22:49:02>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [287]
-			"<22:49:05><DEBUG>	 Event: ENCOUNTER_START 2362 Верховная надзирательница Бериллия 8 5", -- [288]
-			"<22:49:05><INFO>	 UpdatePlayersData()", -- [289]
-			"<22:51:38><DEBUG>	 Event: ENCOUNTER_END 2362 Верховная надзирательница Бериллия 8 5 1", -- [290]
-			"<22:51:39>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [291]
-			"<22:52:36>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [292]
-			"<22:53:48>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [293]
-			"<22:54:22>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [294]
-			"<22:58:33>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [295]
-			"<23:00:11>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [296]
-			"<23:01:44>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [297]
-			"<23:01:49><DEBUG>	 Event: ENCOUNTER_START 2363 Генерал Кааль 8 5", -- [298]
-			"<23:01:49><INFO>	 UpdatePlayersData()", -- [299]
-			"<23:04:29><DEBUG>	 Event: ENCOUNTER_END 2363 Генерал Кааль 8 5 1", -- [300]
-			"<23:04:29>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [301]
-			"<23:04:50><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 178849 |cffa335ee|Hitem:178849::::::::60:66::16:4:7214:1501:5868:6646:1:28:1279:::|h[Переполненная клетка с анимой]|h|r 1 Главкур DRUID", -- [302]
-			"<23:05:02><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 178850 |cffa335ee|Hitem:178850::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Стойкая частица солнца]|h|r 1 Уххастик MONK", -- [303]
-			"<23:05:06><DEBUG>	 Event: LOOT_READY true", -- [304]
-			"<23:05:06><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4235-2284-30506-354988-0000186CDF 520121", -- [305]
-			"<23:05:06><DEBUG>	 Event: LOOT_READY true", -- [306]
-			"<23:05:06><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4235-2284-30506-354988-0000186CDF 520121", -- [307]
-			"<23:05:07><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [308]
-			"<23:05:07><DEBUG>	 Event: LOOT_CLOSED", -- [309]
-			"<23:05:07><DEBUG>	 Event: LOOT_CLOSED", -- [310]
-			"<23:05:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 184150 |cff0070dd|Hitem:184150::::::::60:66:::::::|h[Наполненные анимой свечи]|h|r 1 Ниэтта PALADIN", -- [311]
-			"<23:05:07><Comm>	 ^1^Sl^T^N1^S354988^t^^ PARTY ниэтта-Гордунни", -- [312]
-			"<23:05:07><Comm>	 ^1^Sl^T^N1^S354988^t^^ PARTY ниэтта-Гордунни", -- [313]
-			"<23:05:31><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [314]
-			"<23:05:55><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [315]
-			"<23:07:13><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [316]
-			"<23:07:15><DEBUG>	 GetML()", -- [317]
-			"<23:07:15><INFO>	 Stop handling loot", -- [318]
-			"<23:07:15>[ML]<INFO>	 Disabled", -- [319]
-			"<23:07:15><DEBUG>	 Resetting council as we have a new ML!", -- [320]
-			"<23:07:15><INFO>	 MasterLooter =  серикан-Гордунни", -- [321]
-			"<23:07:15><Comm>	 ^1^SStopHandleLoot^T^t^^ PARTY ниэтта-Гордунни", -- [322]
-			"<23:07:30><DEBUG>	 Timer MLdb_check passed", -- [323]
-			"<23:08:03><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [324]
-			"<23:08:09><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [325]
-			"<23:08:15><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [326]
-			"<23:08:39><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [327]
-			"<23:08:41><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [328]
-			"<23:08:41><DEBUG>	 GetML()", -- [329]
-			"<23:08:41><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [330]
-			"<23:08:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [331]
-			"<23:08:50><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [332]
-			"<23:08:55><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [333]
-			"<23:09:32><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [334]
-			"<23:09:48><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [335]
-			"<23:09:54><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [336]
-			"<23:10:12><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [337]
-			"<23:10:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [338]
-			"<23:10:27><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [339]
-			"<23:11:14><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [340]
-			"<23:12:02><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [341]
-			"<23:12:08><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [342]
-			"<23:12:17><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [343]
-			"<23:12:18><DEBUG>	 GetML()", -- [344]
-			"<23:12:19><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [345]
-			"<23:12:20><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [346]
-			"<23:12:25><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [347]
-			"<23:12:31><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [348]
-			"<23:12:32><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [349]
-			"<23:12:37><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [350]
-			"<23:12:42><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [351]
-			"<23:12:43><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [352]
-			"<23:12:44><DEBUG>	 GetML()", -- [353]
-			"<23:12:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [354]
-			"<23:12:47><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [355]
-			"<23:12:53><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [356]
-			"<23:13:09><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [357]
-			"<23:13:14><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [358]
-			"<23:13:21><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [359]
-			"<23:13:28><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [360]
-			"<23:13:33><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [361]
-			"<23:13:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [362]
-			"<23:13:50><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [363]
-			"<23:13:54><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [364]
-			"<23:13:59><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [365]
-			"<23:14:00><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [366]
-			"<23:14:05><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [367]
-			"<23:14:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [368]
-			"<23:14:28><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [369]
-			"<23:14:30><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [370]
-			"<23:14:30><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD хеллекс-Гордунни", -- [371]
-			"<23:14:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [372]
-			"<23:15:12><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [373]
-			"<23:18:34><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [374]
-			"<23:18:36><DEBUG>	 GetML()", -- [375]
-			"<23:18:36><DEBUG>	 Resetting council as we have a new ML!", -- [376]
-			"<23:18:36><INFO>	 MasterLooter =  ниэтта-Гордунни", -- [377]
-			"<23:18:36>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [378]
-			"<23:18:36>[ML]<DEBUG>	 NewML ниэтта-Гордунни", -- [379]
-			"<23:18:36>[ML]<DEBUG>	 UpdateMLdb", -- [380]
-			"<23:18:36><INFO>	 OnMLDBReceived", -- [381]
-			"<23:18:36><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY ниэтта-Гордунни", -- [382]
-			"<23:18:36><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY ниэтта-Гордунни", -- [383]
-			"<23:18:36><Comm>	 ^1^Sxrealm^T^N1^Sниэтта-Гордунни^N2^SpI^N3^STANK^N4^SРезервист^N6^N0^N7^N218.5625^N8^N66^t^^ PARTY ниэтта-Гордунни", -- [384]
-			"<23:18:38>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [385]
-			"<23:18:38><Comm>	 ^1^Scouncil^T^N1^T^S1602-0C734AC9^B^t^t^^ PARTY ниэтта-Гордунни", -- [386]
-			"<23:18:38><DEBUG>	 isCouncil true", -- [387]
-			"<23:18:51><DEBUG>	 Timer MLdb_check passed", -- [388]
-			"<23:22:09><DEBUG>	 Event: RAID_INSTANCE_WELCOME Театр Боли (Эпохальный) 121070 0 0", -- [389]
-			"<23:22:10><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [390]
-			"<23:22:12><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [391]
-			"<23:22:12><DEBUG>	 GetML()", -- [392]
-			"<23:22:12><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [393]
-			"<23:24:34>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [394]
-			"<23:24:42><DEBUG>	 Event: ENCOUNTER_START 2391 Оскорбление претендентов 8 5", -- [395]
-			"<23:24:42><INFO>	 UpdatePlayersData()", -- [396]
-			"<23:26:30>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [397]
-			"<23:28:03><DEBUG>	 Event: ENCOUNTER_END 2391 Оскорбление претендентов 8 5 1", -- [398]
-			"<23:28:05>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [399]
-			"<23:29:15>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [400]
-			"<23:30:08>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [401]
-			"<23:31:30>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [402]
-			"<23:32:17>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [403]
-			"<23:33:01>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [404]
-			"<23:34:21>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [405]
-			"<23:35:09>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [406]
-			"<23:35:20><DEBUG>	 Event: ENCOUNTER_START 2366 Ксав Несломленный 8 5", -- [407]
-			"<23:35:20><INFO>	 UpdatePlayersData()", -- [408]
-			"<23:40:04><DEBUG>	 Event: ENCOUNTER_END 2366 Ксав Несломленный 8 5 1", -- [409]
-			"<23:40:05>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [410]
-			"<23:41:46>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [411]
-			"<23:42:15>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [412]
-			"<23:42:33>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [413]
-			"<23:43:55>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [414]
-			"<23:44:42>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [415]
-			"<23:45:14>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [416]
-			"<23:46:07>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [417]
-			"<23:46:41>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [418]
-			"<23:48:03>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [419]
-			"<23:49:26>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [420]
-			"<23:49:44>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [421]
-			"<23:52:30>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [422]
-			"<23:53:23>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [423]
-			"<23:53:43><DEBUG>	 Event: ENCOUNTER_START 2364 Кул'тарок 8 5", -- [424]
-			"<23:53:43><INFO>	 UpdatePlayersData()", -- [425]
-			"<23:56:43><DEBUG>	 Event: ENCOUNTER_END 2364 Кул'тарок 8 5 1", -- [426]
-			"<23:56:43>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [427]
-			"<23:58:22>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [428]
-			"<23:59:26>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [429]
-			"<00:00:27>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [430]
-			"<00:00:59>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [431]
-			"<00:01:47>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [432]
-			"<00:02:46>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [433]
-			"<00:03:00><DEBUG>	 Event: ENCOUNTER_START 2365 Кроворуб 8 5", -- [434]
-			"<00:03:00><INFO>	 UpdatePlayersData()", -- [435]
-			"<00:06:45><DEBUG>	 Event: ENCOUNTER_END 2365 Кроворуб 8 5 1", -- [436]
-			"<00:06:45>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [437]
-			"<00:08:33>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [438]
-			"<00:08:38><DEBUG>	 Event: ENCOUNTER_START 2404 Мордрета 8 5", -- [439]
-			"<00:08:38><INFO>	 UpdatePlayersData()", -- [440]
-			"<00:12:19><DEBUG>	 Event: ENCOUNTER_END 2404 Мордрета 8 5 1", -- [441]
-			"<00:12:20>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [442]
-			"<00:12:31><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2404 178872 |cffa335ee|Hitem:178872::::::::60:66::16:6:7214:6652:7194:1501:5868:6646:1:28:1279:::|h[Перстень бесконечного противостояния]|h|r 1 Серикан HUNTER", -- [443]
-			"<00:12:35><DEBUG>	 Event: LOOT_READY true", -- [444]
-			"<00:12:35><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4244-2293-15159-354991-0000187CC5 522814", -- [445]
-			"<00:12:35><DEBUG>	 Event: LOOT_READY true", -- [446]
-			"<00:12:35><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4244-2293-15159-354991-0000187CC5 522814", -- [447]
-			"<00:12:35><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [448]
-			"<00:12:35><DEBUG>	 Event: LOOT_CLOSED", -- [449]
-			"<00:12:35><DEBUG>	 Event: LOOT_CLOSED", -- [450]
-			"<00:12:35><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2404 184772 |cff0070dd|Hitem:184772::::::::60:66:::::::|h[Кристалл ритуального малдрацита]|h|r 1 Ниэтта PALADIN", -- [451]
-			"<00:12:35><Comm>	 ^1^Sl^T^N1^S354991^t^^ PARTY ниэтта-Гордунни", -- [452]
-			"<00:12:35><Comm>	 ^1^Sl^T^N1^S354991^t^^ PARTY ниэтта-Гордунни", -- [453]
-			"<00:15:37><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [454]
-			"<00:15:39><DEBUG>	 GetML()", -- [455]
-			"<00:15:40><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [456]
-			"<00:15:42><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [457]
-			"<00:15:58><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [458]
-			"<00:16:14><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [459]
-			"<00:18:24>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [460]
-			"<00:18:25><DEBUG>	 Event: LOOT_READY true", -- [461]
-			"<00:18:25><DEBUG>	 Event: LOOT_READY true", -- [462]
-			"<00:18:45><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [463]
-			"<00:19:38>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [464]
-			"<00:19:43><DEBUG>	 Event: LOOT_READY true", -- [465]
-			"<00:19:43><DEBUG>	 Event: LOOT_READY true", -- [466]
-			"<00:19:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [467]
-			"<00:21:22><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [468]
-			"<00:21:23><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [469]
-			"<00:21:29><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [470]
-			"<00:22:01><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [471]
-			"<00:22:13><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [472]
-			"<00:22:18><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [473]
-			"<00:22:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [474]
-			"<00:22:30><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [475]
-			"<00:22:31><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [476]
-			"<00:22:35><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [477]
-			"<00:22:38><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [478]
-			"<00:23:01><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [479]
-			"<00:23:06><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [480]
-			"<00:23:12><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [481]
-			"<00:23:17><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [482]
-			"<00:23:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [483]
-			"<00:23:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [484]
-			"<00:24:10><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [485]
-			"<00:26:06><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [486]
-			"<00:26:28><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [487]
-			"<00:26:29><DEBUG>	 GetML()", -- [488]
-			"<00:26:30><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [489]
-			"<00:26:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [490]
-			"<00:26:53><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [491]
-			"<00:26:53><DEBUG>	 GetML()", -- [492]
-			"<00:27:17><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [493]
-			"<00:27:23><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [494]
-			"<00:27:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [495]
-			"<00:27:25><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [496]
-			"<00:27:28><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [497]
-			"<00:27:32><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [498]
-			"<00:27:37><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [499]
-			"<00:27:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [500]
-			"<00:27:45><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [501]
-			"<00:27:48><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [502]
-			"<00:27:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [503]
-			"<00:27:56><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [504]
-			"<00:28:05><DEBUG>	 Event: RAID_INSTANCE_WELCOME Шпили Перерождения (Эпохальный) 117114 0 0", -- [505]
-			"<00:28:05><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [506]
-			"<00:28:07><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [507]
-			"<00:28:07><DEBUG>	 GetML()", -- [508]
-			"<00:28:08><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [509]
-			"<00:28:18><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [510]
-			"<00:28:41><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [511]
-			"<00:31:07>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [512]
-			"<00:32:13>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [513]
-			"<00:34:25>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [514]
-			"<00:34:29><DEBUG>	 Event: ENCOUNTER_START 2357 Кин-Тара 8 5", -- [515]
-			"<00:34:29><INFO>	 UpdatePlayersData()", -- [516]
-			"<00:36:50><DEBUG>	 Event: ENCOUNTER_END 2357 Кин-Тара 8 5 1", -- [517]
-			"<00:36:51>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [518]
-			"<00:37:53>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [519]
-			"<00:38:40>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [520]
-			"<00:39:20>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [521]
-			"<00:41:16>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [522]
-			"<00:41:50>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [523]
-			"<00:42:46>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [524]
-			"<00:43:34>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [525]
-			"<00:45:32>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [526]
-			"<00:46:08>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [527]
-			"<00:46:54>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [528]
-			"<00:48:22>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [529]
-			"<00:48:46>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [530]
-			"<00:49:41>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [531]
-			"<00:49:50><DEBUG>	 Event: ENCOUNTER_START 2356 \"Вентунакс\" 8 5", -- [532]
-			"<00:49:50><INFO>	 UpdatePlayersData()", -- [533]
-			"<00:51:47><DEBUG>	 Event: ENCOUNTER_END 2356 \"Вентунакс\" 8 5 1", -- [534]
-			"<00:51:47>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [535]
-			"<00:54:10>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [536]
-			"<00:55:02>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [537]
-			"<00:55:16><DEBUG>	 Event: ENCOUNTER_START 2358 \"Орифрион\" 8 5", -- [538]
-			"<00:55:16><INFO>	 UpdatePlayersData()", -- [539]
-			"<01:00:08><DEBUG>	 Event: ENCOUNTER_END 2358 \"Орифрион\" 8 5 1", -- [540]
-			"<01:00:08>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [541]
-			"<01:02:45>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [542]
-			"<01:04:07>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [543]
-			"<01:04:53>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [544]
-			"<01:04:57><DEBUG>	 Event: ENCOUNTER_START 2359 Девия, идеал Верности 8 5", -- [545]
-			"<01:04:57><INFO>	 UpdatePlayersData()", -- [546]
-			"<01:09:05><DEBUG>	 Event: ENCOUNTER_END 2359 Девия, идеал Верности 8 5 1", -- [547]
-			"<01:09:06>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [548]
-			"<01:09:17><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180123 |cffa335ee|Hitem:180123::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Пелерина напрасной верности]|h|r 1 Сострадание DRUID", -- [549]
-			"<01:09:17><DEBUG>	 Event: LOOT_READY true", -- [550]
-			"<01:09:17><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3151-2285-12480-354989-0000188A13 526119", -- [551]
-			"<01:09:17><DEBUG>	 Event: LOOT_READY true", -- [552]
-			"<01:09:17><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3151-2285-12480-354989-0000188A13 526119", -- [553]
-			"<01:09:18><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [554]
-			"<01:09:18><DEBUG>	 Event: LOOT_CLOSED", -- [555]
-			"<01:09:18><DEBUG>	 Event: LOOT_CLOSED", -- [556]
-			"<01:09:18><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 184768 |cff0070dd|Hitem:184768::::::::60:66:::::::|h[Кадило с сушеным благолистом]|h|r 1 Ниэтта PALADIN", -- [557]
-			"<01:09:18><Comm>	 ^1^Sl^T^N1^S354989^t^^ PARTY ниэтта-Гордунни", -- [558]
-			"<01:09:18><Comm>	 ^1^Sl^T^N1^S354989^t^^ PARTY ниэтта-Гордунни", -- [559]
-			"<01:10:05><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [560]
-			"<01:11:26><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [561]
-			"<01:11:37><DEBUG>	 Event: GROUP_LEFT 1 Party-1602-1-00003D84DC62", -- [562]
-			"<01:11:37><DEBUG>	 GetML()", -- [563]
-			"<01:11:37><INFO>	 Stop handling loot", -- [564]
-			"<01:11:37>[ML]<INFO>	 Disabled", -- [565]
-			"<01:11:37><Comm>	 ^1^SStopHandleLoot^T^t^^ WHISPER ниэтта-Гордунни", -- [566]
-			"<01:12:40><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [567]
-			"<01:12:41><DEBUG>	 GetML()", -- [568]
-			"<01:12:42><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [569]
-			"<22:45:48><INFO>	 Logged In", -- [570]
-			"<22:45:48>[ML]<INFO>	 Init", -- [571]
-			"<22:45:48><INFO>	 RCLootCouncil TradeUI enabled", -- [572]
-			"<22:46:02><INFO>	 ниэтта-Гордунни 3.1.4 nil", -- [573]
-			"<22:46:02><DEBUG>	 ActivateSkin bfa", -- [574]
-			"<22:46:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [575]
-			"<22:46:03><INFO>	 UpdatePlayersData()", -- [576]
-			"<22:46:04><DEBUG>	 GetPlayersGuildRank()", -- [577]
-			"<22:46:04><DEBUG>	 Found Guild Rank: Резервист", -- [578]
-			"<22:46:07><DEBUG>	 GetML()", -- [579]
-			"<22:46:07><DEBUG>	 Storage:New |cff0070dd|Hitem:183623::::::::60:66::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r temp restored table: 000001844BA52330", -- [580]
-			"<22:46:07><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:183623::::::::60:66::16::1:28:373:::||h[Гормлинг-иглобрюх]||h||r 5", -- [581]
-			"<22:46:07><DEBUG>	 Found: nil nil nil", -- [582]
-			"<22:46:07><WARNING>	 ItemStorage, db item no longer in bags |cff0070dd|Hitem:183623::::::::60:66::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r", -- [583]
-			"<22:46:07><DEBUG>	 Storage:RemoveItem |cff0070dd|Hitem:183623::::::::60:66::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r", -- [584]
-			"<22:46:58><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [585]
-			"<22:47:00><DEBUG>	 GetML()", -- [586]
-			"<22:47:00><DEBUG>	 Resetting council as we have a new ML!", -- [587]
-			"<22:47:00><INFO>	 MasterLooter =  ниэтта-Гордунни", -- [588]
-			"<22:47:00>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [589]
-			"<22:47:00>[ML]<DEBUG>	 NewML ниэтта-Гордунни", -- [590]
-			"<22:47:00>[ML]<DEBUG>	 UpdateMLdb", -- [591]
-			"<22:47:00><INFO>	 OnMLDBReceived", -- [592]
-			"<22:47:00><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY ниэтта-Гордунни", -- [593]
-			"<22:47:00><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY ниэтта-Гордунни", -- [594]
-			"<22:47:01><Comm>	 ^1^Sxrealm^T^N1^Sниэтта-Гордунни^N2^SpI^N3^SDAMAGER^N4^SРезервист^N6^N0^N7^N215.5625^N8^N70^t^^ PARTY ниэтта-Гордунни", -- [595]
-			"<22:47:02>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [596]
-			"<22:47:02><Comm>	 ^1^Scouncil^T^N1^T^S1602-0C734AC9^B^t^t^^ PARTY ниэтта-Гордунни", -- [597]
-			"<22:47:02><DEBUG>	 isCouncil true", -- [598]
-			"<22:47:02><DEBUG>	 GetLootDBStatistics()", -- [599]
-			"<22:47:02><DEBUG>	 GetGuildRankNum()", -- [600]
-			"<22:47:02><INFO>	 RCVotingFrame enabled", -- [601]
-			"<22:47:15><DEBUG>	 Timer MLdb_check passed", -- [602]
-			"<22:48:51>[ML]<DEBUG>	 ML event CHAT_MSG_WHISPER пойдете? Ийора-Гордунни   Ийора-Гордунни  0 0  0 420 Player-1602-0E6D428D 0 false false false false", -- [603]
-			"<22:49:08><DEBUG>	 Event: GROUP_LEFT 1 Party-1602-1-00003D8D4900", -- [604]
-			"<22:49:08><DEBUG>	 GetML()", -- [605]
-			"<22:49:08><INFO>	 Stop handling loot", -- [606]
-			"<22:49:08>[ML]<INFO>	 Disabled", -- [607]
-			"<22:49:08><Comm>	 ^1^SStopHandleLoot^T^t^^ WHISPER ниэтта-Гордунни", -- [608]
-			"<22:49:09><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [609]
-			"<22:49:11><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [610]
-			"<22:49:11><DEBUG>	 GetML()", -- [611]
-			"<22:49:11><Data.Player>	 CreatePlayer Player-1602-0E6D428D", -- [612]
-			"<22:49:11><DEBUG>	 Resetting council as we have a new ML!", -- [613]
-			"<22:49:11><INFO>	 MasterLooter =  ийора-Гордунни", -- [614]
-			"<22:49:13><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [615]
-			"<22:49:15><DEBUG>	 GetML()", -- [616]
-			"<22:49:15><DEBUG>	 Resetting council as we have a new ML!", -- [617]
-			"<22:49:15><INFO>	 MasterLooter =  ниэтта-Гордунни", -- [618]
-			"<22:49:15>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [619]
-			"<22:49:15>[ML]<DEBUG>	 NewML ниэтта-Гордунни", -- [620]
-			"<22:49:15>[ML]<DEBUG>	 UpdateMLdb", -- [621]
-			"<22:49:15><INFO>	 OnMLDBReceived", -- [622]
-			"<22:49:15><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY ниэтта-Гордунни", -- [623]
-			"<22:49:15><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY ниэтта-Гордунни", -- [624]
-			"<22:49:16><Comm>	 ^1^Sxrealm^T^N1^Sниэтта-Гордунни^N2^SpI^N3^STANK^N4^SРезервист^N6^N0^N7^N218.5625^N8^N70^t^^ PARTY ниэтта-Гордунни", -- [625]
-			"<22:49:16><Comm>	 ^1^Sxrealm^T^N1^Sниэтта-Гордунни^N2^SpI^N3^SDAMAGER^N4^SРейд~`Киркоры^N6^N0^N7^N217.4375^N8^N105^t^^ PARTY хеллекс-Гордунни", -- [626]
-			"<22:49:16><Data.Player>	 CreatePlayer Player-1602-099A18C9", -- [627]
-			"<22:49:17>[ML]<DEBUG>	 UpdateGroupCouncil ниэтта-Гордунни", -- [628]
-			"<22:49:17><Comm>	 ^1^Scouncil^T^N1^T^S1602-0C734AC9^B^t^t^^ PARTY ниэтта-Гордунни", -- [629]
-			"<22:49:17><DEBUG>	 isCouncil true", -- [630]
-			"<22:49:18><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [631]
-			"<22:49:26><DEBUG>	 Timer MLdb_check passed", -- [632]
-			"<22:49:30><DEBUG>	 Timer MLdb_check passed", -- [633]
-			"<22:49:40><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [634]
-			"<22:50:17><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [635]
-			"<22:50:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [636]
-			"<22:50:27><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [637]
-			"<22:50:36><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [638]
-			"<22:50:42><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [639]
-			"<22:50:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [640]
-			"<22:50:44><DEBUG>	 GetML()", -- [641]
-			"<22:50:48><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [642]
-			"<22:50:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [643]
-			"<22:51:05><DEBUG>	 TradeUI: Traded item(s) to сочувствие-Гордунни", -- [644]
-			"<22:51:05><DEBUG>	 Storage:RemoveItem |cffffffff|Hitem:171276::::::::60:66:::::::|h[Призрачный настой силы]|h|r", -- [645]
-			"<22:51:05><ERROR>	 Couldn't remove item nil nil", -- [646]
-			"<22:51:05><DEBUG>	 TradeUI:Show() nil", -- [647]
-			"<22:51:05><DEBUG>	 TradeUI:Hide()", -- [648]
-			"<22:51:08><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [649]
-			"<22:51:11><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [650]
-			"<22:51:16><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [651]
-			"<22:51:23><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [652]
-			"<22:51:33><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [653]
-			"<22:51:36><DEBUG>	 Event: RAID_INSTANCE_WELCOME Смертельная тризна (Эпохальный) 36503 0 0", -- [654]
-			"<22:51:38><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [655]
-			"<22:51:40><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [656]
-			"<22:51:40><DEBUG>	 GetML()", -- [657]
-			"<22:51:40><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [658]
-			"<22:51:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [659]
-			"<22:51:48><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [660]
-			"<22:54:39>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [661]
-			"<22:55:01>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [662]
-			"<22:55:42>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [663]
-			"<22:55:58>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [664]
-			"<22:57:21>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [665]
-			"<22:57:42><DEBUG>	 Event: ENCOUNTER_START 2387 Чумокост 8 5", -- [666]
-			"<22:57:42><INFO>	 UpdatePlayersData()", -- [667]
-			"<22:59:15><DEBUG>	 Event: ENCOUNTER_END 2387 Чумокост 8 5 1", -- [668]
-			"<22:59:16>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [669]
-			"<22:59:43>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [670]
-			"<23:00:30>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [671]
-			"<23:01:15>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [672]
-			"<23:01:45>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [673]
-			"<23:02:08>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [674]
-			"<23:02:43>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [675]
-			"<23:03:11>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [676]
-			"<23:03:57>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [677]
-			"<23:04:34>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [678]
-			"<23:05:19>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [679]
-			"<23:06:04>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [680]
-			"<23:06:46>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [681]
-			"<23:06:56><DEBUG>	 Event: ENCOUNTER_START 2388 Амарт Жнец 8 5", -- [682]
-			"<23:06:56><INFO>	 UpdatePlayersData()", -- [683]
-			"<23:09:06><DEBUG>	 Event: ENCOUNTER_END 2388 Амарт Жнец 8 5 1", -- [684]
-			"<23:09:07>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [685]
-			"<23:10:51>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [686]
-			"<23:11:57>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [687]
-			"<23:12:36>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [688]
-			"<23:13:18>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [689]
-			"<23:13:56>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [690]
-			"<23:14:26>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [691]
-			"<23:15:10>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [692]
-			"<23:16:11>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [693]
-			"<23:17:26>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [694]
-			"<23:18:27>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [695]
-			"<23:19:07>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [696]
-			"<23:19:10><DEBUG>	 Event: ENCOUNTER_START 2389 Трупошов 8 5", -- [697]
-			"<23:19:10><INFO>	 UpdatePlayersData()", -- [698]
-			"<23:20:33><DEBUG>	 Event: ENCOUNTER_END 2389 Трупошов 8 5 1", -- [699]
-			"<23:20:34>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [700]
-			"<23:20:51><DEBUG>	 Event: ENCOUNTER_START 2390 Налтор Криомант 8 5", -- [701]
-			"<23:20:51><INFO>	 UpdatePlayersData()", -- [702]
-			"<23:24:56><DEBUG>	 Event: ENCOUNTER_END 2390 Налтор Криомант 8 5 1", -- [703]
-			"<23:24:57>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [704]
-			"<23:25:06><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 178731 |cffa335ee|Hitem:178731::::::::60:66::16:5:7213:41:1501:5865:6646:1:28:1279:::|h[Прошитые потрохами башмаки]|h|r 1 Хеллекс DRUID", -- [705]
-			"<23:25:07><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY хеллекс-Гордунни", -- [706]
-			"<23:25:07><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY хеллекс-Гордунни", -- [707]
-			"<23:25:08><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 178783 |cffa335ee|Hitem:178783::::::::60:66::16:5:7213:6652:1501:5865:6646:1:28:1279:::|h[Вытягивающий осколок филактерии]|h|r 1 Сочувствие PALADIN", -- [708]
-			"<23:25:10><DEBUG>	 Event: LOOT_READY true", -- [709]
-			"<23:25:10><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3112-2286-32322-354990-000019C329 532850", -- [710]
-			"<23:25:10><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:178731::::::::60:102::16:5:7213:41:1501:5865:6646:1:28:1279:::|h[Прошитые~`потрохами~`башмаки]|h|r^N2^S354990^t^^ PARTY хеллекс-Гордунни", -- [711]
-			"<23:25:10>[ML]<ERROR>	 HandleReceivedTradeable хеллекс-Гордунни |cffa335ee|Hitem:178731::::::::60:102::16:5:7213:41:1501:5865:6646:1:28:1279:::|h[Прошитые потрохами башмаки]|h|r", -- [712]
-			"<23:25:10><DEBUG>	 Event: LOOT_READY true", -- [713]
-			"<23:25:10><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3112-2286-32322-354990-000019C329 532850", -- [714]
-			"<23:25:10><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [715]
-			"<23:25:11><DEBUG>	 Event: LOOT_CLOSED", -- [716]
-			"<23:25:11><DEBUG>	 Event: LOOT_CLOSED", -- [717]
-			"<23:25:11><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 181377 |cff0070dd|Hitem:181377::::::::60:66:::::::|h[Иллюстрированное руководство по боевой медитации]|h|r 1 Ниэтта PALADIN", -- [718]
-			"<23:25:11><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY ниэтта-Гордунни", -- [719]
-			"<23:25:11><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY ниэтта-Гордунни", -- [720]
-			"<23:25:41><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [721]
-			"<23:25:42><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [722]
-			"<23:25:57><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [723]
-			"<23:26:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [724]
-			"<23:26:04><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [725]
-			"<23:26:04><DEBUG>	 GetML()", -- [726]
-			"<23:26:29><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [727]
-			"<23:26:34><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [728]
-			"<23:26:45><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [729]
-			"<23:26:55><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [730]
-			"<23:27:01><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [731]
-			"<23:27:06><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [732]
-			"<23:27:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [733]
-			"<23:27:27><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [734]
-			"<23:27:28><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [735]
-			"<23:27:29><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [736]
-			"<23:27:30><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [737]
-			"<23:27:33><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [738]
-			"<23:27:34><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [739]
-			"<23:27:35><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [740]
-			"<23:27:38><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [741]
-			"<23:27:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [742]
-			"<23:27:49><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [743]
-			"<23:28:04><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [744]
-			"<23:28:10><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [745]
-			"<23:28:15><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [746]
-			"<23:29:10><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [747]
-			"<23:29:16><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [748]
-			"<23:29:22><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [749]
-			"<23:29:23><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [750]
-			"<23:29:59><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [751]
-			"<23:30:05><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [752]
-			"<23:30:10><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [753]
-			"<23:31:09><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [754]
-			"<23:31:25><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [755]
-			"<23:31:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [756]
-			"<23:32:21><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [757]
-			"<23:32:24><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [758]
-			"<23:32:40><DEBUG>	 Event: RAID_INSTANCE_WELCOME Чертоги Покаяния (Эпохальный) 34039 0 0", -- [759]
-			"<23:32:41><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [760]
-			"<23:32:42><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [761]
-			"<23:32:42><DEBUG>	 GetML()", -- [762]
-			"<23:32:43><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [763]
-			"<23:33:06><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [764]
-			"<23:34:29>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [765]
-			"<23:35:05>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [766]
-			"<23:35:19>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [767]
-			"<23:36:01>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [768]
-			"<23:37:14>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [769]
-			"<23:37:41>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [770]
-			"<23:38:25>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [771]
-			"<23:38:58>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [772]
-			"<23:40:28>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [773]
-			"<23:41:28>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [774]
-			"<23:42:44>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [775]
-			"<23:43:10>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [776]
-			"<23:43:36>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [777]
-			"<23:44:48>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [778]
-			"<23:44:53>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [779]
-			"<23:46:17>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [780]
-			"<23:46:33><DEBUG>	 Event: ENCOUNTER_START 2401 Халкиас, запятнанный грехом голиаф 8 5", -- [781]
-			"<23:46:33><INFO>	 UpdatePlayersData()", -- [782]
-			"<23:49:30><DEBUG>	 Event: ENCOUNTER_END 2401 Халкиас, запятнанный грехом голиаф 8 5 1", -- [783]
-			"<23:49:30>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [784]
-			"<23:50:08>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [785]
-			"<23:50:50>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [786]
-			"<23:50:56>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [787]
-			"<23:51:27>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [788]
-			"<23:52:10>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [789]
-			"<23:52:27><DEBUG>	 Event: ENCOUNTER_START 2380 Эшелон 8 5", -- [790]
-			"<23:52:27><INFO>	 UpdatePlayersData()", -- [791]
-			"<23:54:46>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [792]
-			"<23:54:49><DEBUG>	 Event: ENCOUNTER_END 2380 Эшелон 8 5 0", -- [793]
-			"<23:57:01><DEBUG>	 Event: ENCOUNTER_START 2380 Эшелон 8 5", -- [794]
-			"<23:57:01><INFO>	 UpdatePlayersData()", -- [795]
-			"<00:00:16><DEBUG>	 Event: ENCOUNTER_END 2380 Эшелон 8 5 1", -- [796]
-			"<00:00:17>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [797]
-			"<00:01:17>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [798]
-			"<00:03:58>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [799]
-			"<00:04:50>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [800]
-			"<00:05:08><DEBUG>	 Event: ENCOUNTER_START 2403 Верховный адъюдикатор Ализа 8 5", -- [801]
-			"<00:05:08><INFO>	 UpdatePlayersData()", -- [802]
-			"<00:07:47><DEBUG>	 Event: ENCOUNTER_END 2403 Верховный адъюдикатор Ализа 8 5 1", -- [803]
-			"<00:07:47>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [804]
-			"<00:09:28>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [805]
-			"<00:10:04>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [806]
-			"<00:10:10><DEBUG>	 Event: ENCOUNTER_START 2381 Лорд-камергер 8 5", -- [807]
-			"<00:10:10><INFO>	 UpdatePlayersData()", -- [808]
-			"<00:12:50><DEBUG>	 Event: ENCOUNTER_END 2381 Лорд-камергер 8 5 1", -- [809]
-			"<00:12:51>[ML]<DEBUG>	 ML event PLAYER_REGEN_ENABLED", -- [810]
-			"<00:12:59><Comm>	 ^1^Sl^T^N1^S354986^t^^ PARTY хеллекс-Гордунни", -- [811]
-			"<00:12:59><Comm>	 ^1^Sl^T^N1^S354986^t^^ PARTY хеллекс-Гордунни", -- [812]
-			"<00:12:59><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2381 178827 |cffa335ee|Hitem:178827::::::::60:66::16:6:7214:6652:6935:1501:5868:6646:1:28:1279:::|h[Запятнанная грехом подвеска]|h|r 1 Лоскотитос-Галакронд MAGE", -- [813]
-			"<00:13:06><DEBUG>	 Event: LOOT_READY true", -- [814]
-			"<00:13:06><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4248-2287-11465-354986-000019CE64 541331", -- [815]
-			"<00:13:06><DEBUG>	 Event: LOOT_READY true", -- [816]
-			"<00:13:06><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4248-2287-11465-354986-000019CE64 541331", -- [817]
-			"<00:13:06><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [818]
-			"<00:13:07><DEBUG>	 Event: LOOT_CLOSED", -- [819]
-			"<00:13:07><DEBUG>	 Event: LOOT_CLOSED", -- [820]
-			"<00:13:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2381 181545 |cff0070dd|Hitem:181545::::::::60:66:::::::|h[Скованный кровью сгусток]|h|r 1 Ниэтта PALADIN", -- [821]
-			"<00:13:07><Comm>	 ^1^Sl^T^N1^S354986^t^^ PARTY ниэтта-Гордунни", -- [822]
-			"<00:13:07><Comm>	 ^1^Sl^T^N1^S354986^t^^ PARTY ниэтта-Гордунни", -- [823]
-			"<00:13:38><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [824]
-			"<00:13:43><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [825]
-			"<00:13:44><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [826]
-			"<00:14:54><DEBUG>	 Event: GROUP_LEFT 1 Party-3391-1-0000536C9E53", -- [827]
-			"<00:14:54><DEBUG>	 GetML()", -- [828]
-			"<00:14:54><INFO>	 Stop handling loot", -- [829]
-			"<00:14:54>[ML]<INFO>	 Disabled", -- [830]
-			"<00:14:54><Comm>	 ^1^SStopHandleLoot^T^t^^ WHISPER ниэтта-Гордунни", -- [831]
-			"<00:15:53><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [832]
-			"<00:15:55><DEBUG>	 GetML()", -- [833]
-			"<00:15:56><DEBUG>	 VotingFrame:Update() without lootTable!!", -- [834]
-			"<06:15:52><INFO>	 Logged In", -- [835]
-			"<06:15:52>[ML]<INFO>	 Init", -- [836]
-			"<06:15:52><INFO>	 RCLootCouncil TradeUI enabled", -- [837]
-			"<06:16:07><INFO>	 алоиза-Борейскаятундра 3.1.4 nil", -- [838]
-			"<06:16:07><DEBUG>	 ActivateSkin bfa", -- [839]
-			"<06:16:09><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [840]
-			"<06:16:09><INFO>	 UpdatePlayersData()", -- [841]
-			"<06:16:15><DEBUG>	 GetML()", -- [842]
-			"<06:16:16><DEBUG>	 Storage:New |cffa335ee|Hitem:178701::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Наголенники из панциря горма]|h|r temp restored table: 000001D135622870", -- [843]
-			"<06:16:16><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178701::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::||h[Наголенники из панциря горма]||h||r 5", -- [844]
-			"<06:16:16><DEBUG>	 Found: nil nil nil", -- [845]
-			"<06:16:16><WARNING>	 ItemStorage, db item no longer in bags |cffa335ee|Hitem:178701::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Наголенники из панциря горма]|h|r", -- [846]
-			"<06:16:16><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:178701::::::::60:66::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Наголенники из панциря горма]|h|r", -- [847]
-			"<06:17:55><INFO>	 Logged In", -- [848]
-			"<06:17:55>[ML]<INFO>	 Init", -- [849]
-			"<06:17:55><INFO>	 RCLootCouncil TradeUI enabled", -- [850]
-			"<06:18:04><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [851]
-			"<06:18:04><DEBUG>	 ActivateSkin bfa", -- [852]
-			"<06:18:05><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [853]
-			"<06:18:05><INFO>	 UpdatePlayersData()", -- [854]
-			"<06:18:09><DEBUG>	 GetML()", -- [855]
-			"<06:20:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [856]
-			"<06:20:48><DEBUG>	 GetML()", -- [857]
-			"<06:22:23><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [858]
-			"<06:22:25><DEBUG>	 GetML()", -- [859]
-			"<06:27:35><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [860]
-			"<06:27:37><DEBUG>	 GetML()", -- [861]
-			"<06:28:13><DEBUG>	 Event: LOOT_READY true", -- [862]
-			"<06:28:13><DEBUG>	 Event: LOOT_READY true", -- [863]
-			"<06:28:21><DEBUG>	 Event: LOOT_READY true", -- [864]
-			"<06:28:21><DEBUG>	 Event: LOOT_READY true", -- [865]
-			"<06:28:36><DEBUG>	 Event: LOOT_READY true", -- [866]
-			"<06:28:36><DEBUG>	 Event: LOOT_READY true", -- [867]
-			"<06:29:02><DEBUG>	 Event: LOOT_READY true", -- [868]
-			"<06:29:02><DEBUG>	 Event: LOOT_READY true", -- [869]
-			"<06:29:15><DEBUG>	 Event: LOOT_READY true", -- [870]
-			"<06:29:15><DEBUG>	 Event: LOOT_READY true", -- [871]
-			"<06:29:26><DEBUG>	 Event: LOOT_READY true", -- [872]
-			"<06:29:26><DEBUG>	 Event: LOOT_READY true", -- [873]
-			"<06:29:41><DEBUG>	 Event: LOOT_READY true", -- [874]
-			"<06:29:41><DEBUG>	 Event: LOOT_READY true", -- [875]
-			"<06:30:30><DEBUG>	 Event: LOOT_READY true", -- [876]
-			"<06:30:31><DEBUG>	 Event: LOOT_READY true", -- [877]
-			"<06:30:42><DEBUG>	 Event: LOOT_READY true", -- [878]
-			"<06:30:42><DEBUG>	 Event: LOOT_READY true", -- [879]
-			"<06:30:53><DEBUG>	 Event: LOOT_READY true", -- [880]
-			"<06:30:54><DEBUG>	 Event: LOOT_READY true", -- [881]
-			"<06:31:28><DEBUG>	 Event: LOOT_READY true", -- [882]
-			"<06:31:28><DEBUG>	 Event: LOOT_READY true", -- [883]
-			"<06:31:51><DEBUG>	 Event: LOOT_READY true", -- [884]
-			"<06:31:51><DEBUG>	 Event: LOOT_READY true", -- [885]
-			"<06:33:29><DEBUG>	 Event: LOOT_READY true", -- [886]
-			"<06:33:29><DEBUG>	 Event: LOOT_READY true", -- [887]
-			"<06:34:44><DEBUG>	 Event: LOOT_READY true", -- [888]
-			"<06:34:44><DEBUG>	 Event: LOOT_READY true", -- [889]
-			"<06:35:25><DEBUG>	 Event: LOOT_READY true", -- [890]
-			"<06:35:26><DEBUG>	 Event: LOOT_READY true", -- [891]
-			"<06:36:48><DEBUG>	 Event: LOOT_READY true", -- [892]
-			"<06:36:48><DEBUG>	 Event: LOOT_READY true", -- [893]
-			"<06:52:09><DEBUG>	 Event: LOOT_READY true", -- [894]
-			"<06:52:09><DEBUG>	 Event: LOOT_READY true", -- [895]
-			"<06:52:20><DEBUG>	 Event: LOOT_READY true", -- [896]
-			"<06:52:20><DEBUG>	 Event: LOOT_READY true", -- [897]
-			"<06:52:31><DEBUG>	 Event: LOOT_READY true", -- [898]
-			"<06:52:31><DEBUG>	 Event: LOOT_READY true", -- [899]
-			"<06:52:41><DEBUG>	 Event: LOOT_READY true", -- [900]
-			"<06:52:42><DEBUG>	 Event: LOOT_READY true", -- [901]
-			"<06:53:10><DEBUG>	 Event: LOOT_READY true", -- [902]
-			"<06:53:10><DEBUG>	 Event: LOOT_READY true", -- [903]
-			"<06:53:23><DEBUG>	 Event: LOOT_READY true", -- [904]
-			"<06:53:24><DEBUG>	 Event: LOOT_READY true", -- [905]
-			"<06:53:35><DEBUG>	 Event: LOOT_READY true", -- [906]
-			"<06:53:35><DEBUG>	 Event: LOOT_READY true", -- [907]
-			"<06:53:52><DEBUG>	 Event: LOOT_READY true", -- [908]
-			"<06:53:52><DEBUG>	 Event: LOOT_READY true", -- [909]
-			"<06:54:03><DEBUG>	 Event: LOOT_READY true", -- [910]
-			"<06:54:03><DEBUG>	 Event: LOOT_READY true", -- [911]
-			"<06:54:21><DEBUG>	 Event: LOOT_READY true", -- [912]
-			"<06:54:21><DEBUG>	 Event: LOOT_READY true", -- [913]
-			"<06:54:28><DEBUG>	 Event: LOOT_READY true", -- [914]
-			"<06:54:29><DEBUG>	 Event: LOOT_READY true", -- [915]
-			"<06:54:39><DEBUG>	 Event: LOOT_READY true", -- [916]
-			"<06:54:40><DEBUG>	 Event: LOOT_READY true", -- [917]
-			"<06:54:51><DEBUG>	 Event: LOOT_READY true", -- [918]
-			"<06:54:51><DEBUG>	 Event: LOOT_READY true", -- [919]
-			"<06:55:06><DEBUG>	 Event: LOOT_READY true", -- [920]
-			"<06:55:06><DEBUG>	 Event: LOOT_READY true", -- [921]
-			"<06:55:16><DEBUG>	 Event: LOOT_READY true", -- [922]
-			"<06:55:16><DEBUG>	 Event: LOOT_READY true", -- [923]
-			"<06:55:26><DEBUG>	 Event: LOOT_READY true", -- [924]
-			"<06:55:26><DEBUG>	 Event: LOOT_READY true", -- [925]
-			"<06:55:36><DEBUG>	 Event: LOOT_READY true", -- [926]
-			"<06:55:36><DEBUG>	 Event: LOOT_READY true", -- [927]
-			"<06:55:54><DEBUG>	 Event: LOOT_READY true", -- [928]
-			"<06:55:55><DEBUG>	 Event: LOOT_READY true", -- [929]
-			"<07:00:41><DEBUG>	 Event: LOOT_READY true", -- [930]
-			"<07:00:41><DEBUG>	 Event: LOOT_READY true", -- [931]
-			"<07:01:07><DEBUG>	 Event: LOOT_READY true", -- [932]
-			"<07:01:07><DEBUG>	 Event: LOOT_READY true", -- [933]
-			"<07:01:26><DEBUG>	 Event: LOOT_READY true", -- [934]
-			"<07:01:27><DEBUG>	 Event: LOOT_READY true", -- [935]
-			"<07:01:42><DEBUG>	 Event: LOOT_READY true", -- [936]
-			"<07:01:43><DEBUG>	 Event: LOOT_READY true", -- [937]
-			"<07:01:53><DEBUG>	 Event: LOOT_READY true", -- [938]
-			"<07:01:54><DEBUG>	 Event: LOOT_READY true", -- [939]
-			"<07:02:09><DEBUG>	 Event: LOOT_READY true", -- [940]
-			"<07:02:09><DEBUG>	 Event: LOOT_READY true", -- [941]
-			"<07:02:20><DEBUG>	 Event: LOOT_READY true", -- [942]
-			"<07:02:20><DEBUG>	 Event: LOOT_READY true", -- [943]
-			"<07:10:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [944]
-			"<07:10:19><DEBUG>	 GetML()", -- [945]
-			"<07:32:55><DEBUG>	 Event: LOOT_READY true", -- [946]
-			"<07:32:55><DEBUG>	 Event: LOOT_READY true", -- [947]
-			"<07:32:58><DEBUG>	 Event: LOOT_READY true", -- [948]
-			"<07:32:58><DEBUG>	 Event: LOOT_READY true", -- [949]
-			"<07:45:00><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [950]
-			"<07:45:01><DEBUG>	 GetML()", -- [951]
-			"<21:33:08><INFO>	 Logged In", -- [952]
-			"<21:33:08>[ML]<INFO>	 Init", -- [953]
-			"<21:33:08><INFO>	 RCLootCouncil TradeUI enabled", -- [954]
-			"<21:33:26><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [955]
-			"<21:33:26><DEBUG>	 ActivateSkin bfa", -- [956]
-			"<21:33:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [957]
-			"<21:33:27><INFO>	 UpdatePlayersData()", -- [958]
-			"<21:33:33><DEBUG>	 GetML()", -- [959]
-			"<21:37:22><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [960]
-			"<21:37:24><DEBUG>	 GetML()", -- [961]
-			"<21:37:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [962]
-			"<21:37:46><DEBUG>	 GetML()", -- [963]
-			"<21:44:30><DEBUG>	 Event: LOOT_READY true", -- [964]
-			"<21:44:30><DEBUG>	 Event: LOOT_READY true", -- [965]
-			"<21:44:32><DEBUG>	 Event: LOOT_READY true", -- [966]
-			"<21:44:32><DEBUG>	 Event: LOOT_READY true", -- [967]
-			"<21:44:35><DEBUG>	 Event: LOOT_READY true", -- [968]
-			"<21:44:35><DEBUG>	 Event: LOOT_READY true", -- [969]
-			"<21:45:20><DEBUG>	 Event: LOOT_READY true", -- [970]
-			"<21:45:20><DEBUG>	 Event: LOOT_READY true", -- [971]
-			"<21:45:22><DEBUG>	 Event: LOOT_READY true", -- [972]
-			"<21:45:23><DEBUG>	 Event: LOOT_READY true", -- [973]
-			"<21:45:24><DEBUG>	 Event: LOOT_READY true", -- [974]
-			"<21:45:25><DEBUG>	 Event: LOOT_READY true", -- [975]
-			"<21:46:33><DEBUG>	 Event: LOOT_READY true", -- [976]
-			"<21:46:34><DEBUG>	 Event: LOOT_READY true", -- [977]
-			"<21:47:26><DEBUG>	 Event: LOOT_READY true", -- [978]
-			"<21:47:26><DEBUG>	 Event: LOOT_READY true", -- [979]
-			"<21:47:39><DEBUG>	 Event: LOOT_READY true", -- [980]
-			"<21:47:39><DEBUG>	 Event: LOOT_READY true", -- [981]
-			"<21:48:30><DEBUG>	 Event: LOOT_READY true", -- [982]
-			"<21:48:30><DEBUG>	 Event: LOOT_READY true", -- [983]
-			"<21:48:33><DEBUG>	 Event: LOOT_READY true", -- [984]
-			"<21:48:33><DEBUG>	 Event: LOOT_READY true", -- [985]
-			"<21:49:10><DEBUG>	 Event: LOOT_READY true", -- [986]
-			"<21:49:10><DEBUG>	 Event: LOOT_READY true", -- [987]
-			"<21:49:17><DEBUG>	 Event: LOOT_READY true", -- [988]
-			"<21:49:17><DEBUG>	 Event: LOOT_READY true", -- [989]
-			"<21:49:38><DEBUG>	 Event: LOOT_READY true", -- [990]
-			"<21:49:38><DEBUG>	 Event: LOOT_READY true", -- [991]
-			"<21:50:09><DEBUG>	 Event: LOOT_READY true", -- [992]
-			"<21:50:10><DEBUG>	 Event: LOOT_READY true", -- [993]
-			"<21:50:41><DEBUG>	 Event: LOOT_READY true", -- [994]
-			"<21:50:41><DEBUG>	 Event: LOOT_READY true", -- [995]
-			"<21:51:15><DEBUG>	 Event: LOOT_READY true", -- [996]
-			"<21:51:15><DEBUG>	 Event: LOOT_READY true", -- [997]
-			"<21:51:30><DEBUG>	 Event: LOOT_READY true", -- [998]
-			"<21:51:31><DEBUG>	 Event: LOOT_READY true", -- [999]
-			"<21:51:34><DEBUG>	 Event: LOOT_READY true", -- [1000]
-			"<21:51:34><DEBUG>	 Event: LOOT_READY true", -- [1001]
-			"<21:52:21><DEBUG>	 Event: LOOT_READY true", -- [1002]
-			"<21:52:21><DEBUG>	 Event: LOOT_READY true", -- [1003]
-			"<21:52:34><DEBUG>	 Event: LOOT_READY true", -- [1004]
-			"<21:52:35><DEBUG>	 Event: LOOT_READY true", -- [1005]
-			"<21:53:02><DEBUG>	 Event: LOOT_READY true", -- [1006]
-			"<21:53:02><DEBUG>	 Event: LOOT_READY true", -- [1007]
-			"<21:53:13><DEBUG>	 Event: LOOT_READY true", -- [1008]
-			"<21:53:13><DEBUG>	 Event: LOOT_READY true", -- [1009]
-			"<21:53:40><DEBUG>	 Event: LOOT_READY true", -- [1010]
-			"<21:53:40><DEBUG>	 Event: LOOT_READY true", -- [1011]
-			"<21:53:57><DEBUG>	 Event: LOOT_READY true", -- [1012]
-			"<21:53:58><DEBUG>	 Event: LOOT_READY true", -- [1013]
-			"<21:54:06><DEBUG>	 Event: LOOT_READY true", -- [1014]
-			"<21:54:06><DEBUG>	 Event: LOOT_READY true", -- [1015]
-			"<21:54:20><DEBUG>	 Event: LOOT_READY true", -- [1016]
-			"<21:54:20><DEBUG>	 Event: LOOT_READY true", -- [1017]
-			"<21:56:21><DEBUG>	 Event: LOOT_READY true", -- [1018]
-			"<21:56:21><DEBUG>	 Event: LOOT_READY true", -- [1019]
-			"<21:56:35><DEBUG>	 Event: LOOT_READY true", -- [1020]
-			"<21:56:35><DEBUG>	 Event: LOOT_READY true", -- [1021]
-			"<21:57:10><DEBUG>	 Event: LOOT_READY true", -- [1022]
-			"<21:57:10><DEBUG>	 Event: LOOT_READY true", -- [1023]
-			"<21:57:40><DEBUG>	 Event: LOOT_READY true", -- [1024]
-			"<21:57:40><DEBUG>	 Event: LOOT_READY true", -- [1025]
-			"<21:57:45><DEBUG>	 Event: LOOT_READY true", -- [1026]
-			"<21:57:46><DEBUG>	 Event: LOOT_READY true", -- [1027]
-			"<21:57:58><DEBUG>	 Event: LOOT_READY true", -- [1028]
-			"<21:57:58><DEBUG>	 Event: LOOT_READY true", -- [1029]
-			"<21:58:14><DEBUG>	 Event: LOOT_READY true", -- [1030]
-			"<21:58:15><DEBUG>	 Event: LOOT_READY true", -- [1031]
-			"<21:58:35><DEBUG>	 Event: LOOT_READY true", -- [1032]
-			"<21:58:35><DEBUG>	 Event: LOOT_READY true", -- [1033]
-			"<21:58:55><DEBUG>	 Event: LOOT_READY true", -- [1034]
-			"<21:58:56><DEBUG>	 Event: LOOT_READY true", -- [1035]
-			"<21:59:17><DEBUG>	 Event: LOOT_READY true", -- [1036]
-			"<21:59:17><DEBUG>	 Event: LOOT_READY true", -- [1037]
-			"<21:59:27><DEBUG>	 Event: LOOT_READY true", -- [1038]
-			"<21:59:28><DEBUG>	 Event: LOOT_READY true", -- [1039]
-			"<21:59:50><DEBUG>	 Event: LOOT_READY true", -- [1040]
-			"<21:59:50><DEBUG>	 Event: LOOT_READY true", -- [1041]
-			"<22:00:38><DEBUG>	 Event: LOOT_READY true", -- [1042]
-			"<22:00:38><DEBUG>	 Event: LOOT_READY true", -- [1043]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1044]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1045]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1046]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1047]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1048]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1049]
-			"<22:02:18><DEBUG>	 Event: LOOT_READY true", -- [1050]
-			"<22:03:07><DEBUG>	 Event: LOOT_READY true", -- [1051]
-			"<22:03:07><DEBUG>	 Event: LOOT_READY true", -- [1052]
-			"<22:03:58><DEBUG>	 Event: LOOT_READY true", -- [1053]
-			"<22:03:58><DEBUG>	 Event: LOOT_READY true", -- [1054]
-			"<22:04:26><DEBUG>	 Event: LOOT_READY true", -- [1055]
-			"<22:04:26><DEBUG>	 Event: LOOT_READY true", -- [1056]
-			"<22:04:27><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 179982 |cff0070dd|Hitem:179982::::::::51:577::::1:28:1318:::|h[Кирийский колокол]|h|r 1 Дэлери DEMONHUNTER", -- [1057]
-			"<22:05:05><DEBUG>	 Event: LOOT_READY true", -- [1058]
-			"<22:05:05><DEBUG>	 Event: LOOT_READY true", -- [1059]
-			"<22:05:24><DEBUG>	 Event: LOOT_READY true", -- [1060]
-			"<22:05:24><DEBUG>	 Event: LOOT_READY true", -- [1061]
-			"<22:06:04><DEBUG>	 Event: LOOT_READY true", -- [1062]
-			"<22:06:04><DEBUG>	 Event: LOOT_READY true", -- [1063]
-			"<22:06:08><DEBUG>	 Event: LOOT_READY true", -- [1064]
-			"<22:06:08><DEBUG>	 Event: LOOT_READY true", -- [1065]
-			"<22:06:50><DEBUG>	 Event: LOOT_READY true", -- [1066]
-			"<22:06:50><DEBUG>	 Event: LOOT_READY true", -- [1067]
-			"<22:08:28><DEBUG>	 Event: LOOT_READY true", -- [1068]
-			"<22:08:28><DEBUG>	 Event: LOOT_READY true", -- [1069]
-			"<22:08:53><DEBUG>	 Event: LOOT_READY true", -- [1070]
-			"<22:08:53><DEBUG>	 Event: LOOT_READY true", -- [1071]
-			"<22:09:21><DEBUG>	 Event: LOOT_READY true", -- [1072]
-			"<22:09:21><DEBUG>	 Event: LOOT_READY true", -- [1073]
-			"<22:10:44><DEBUG>	 Event: LOOT_READY true", -- [1074]
-			"<22:10:45><DEBUG>	 Event: LOOT_READY true", -- [1075]
-			"<22:10:55><DEBUG>	 Event: LOOT_READY true", -- [1076]
-			"<22:10:55><DEBUG>	 Event: LOOT_READY true", -- [1077]
-			"<22:11:23><DEBUG>	 Event: LOOT_READY true", -- [1078]
-			"<22:11:23><DEBUG>	 Event: LOOT_READY true", -- [1079]
-			"<22:11:26><DEBUG>	 Event: LOOT_READY true", -- [1080]
-			"<22:11:26><DEBUG>	 Event: LOOT_READY true", -- [1081]
-			"<22:11:28><DEBUG>	 Event: LOOT_READY true", -- [1082]
-			"<22:11:28><DEBUG>	 Event: LOOT_READY true", -- [1083]
-			"<22:11:30><DEBUG>	 Event: LOOT_READY true", -- [1084]
-			"<22:11:30><DEBUG>	 Event: LOOT_READY true", -- [1085]
-			"<22:11:36><DEBUG>	 Event: LOOT_READY true", -- [1086]
-			"<22:11:36><DEBUG>	 Event: LOOT_READY true", -- [1087]
-			"<22:11:47><DEBUG>	 Event: LOOT_READY true", -- [1088]
-			"<22:11:47><DEBUG>	 Event: LOOT_READY true", -- [1089]
-			"<22:11:49><DEBUG>	 Event: LOOT_READY true", -- [1090]
-			"<22:11:49><DEBUG>	 Event: LOOT_READY true", -- [1091]
-			"<22:11:53><DEBUG>	 Event: LOOT_READY true", -- [1092]
-			"<22:11:53><DEBUG>	 Event: LOOT_READY true", -- [1093]
-			"<22:12:20><DEBUG>	 Event: LOOT_READY true", -- [1094]
-			"<22:12:21><DEBUG>	 Event: LOOT_READY true", -- [1095]
-			"<22:12:27><DEBUG>	 Event: LOOT_READY true", -- [1096]
-			"<22:12:28><DEBUG>	 Event: LOOT_READY true", -- [1097]
-			"<22:12:29><DEBUG>	 Event: LOOT_READY true", -- [1098]
-			"<22:12:29><DEBUG>	 Event: LOOT_READY true", -- [1099]
-			"<22:12:34><DEBUG>	 Event: LOOT_READY true", -- [1100]
-			"<22:12:34><DEBUG>	 Event: LOOT_READY true", -- [1101]
-			"<22:12:37><DEBUG>	 Event: LOOT_READY true", -- [1102]
-			"<22:12:37><DEBUG>	 Event: LOOT_READY true", -- [1103]
-			"<22:12:43><DEBUG>	 Event: LOOT_READY true", -- [1104]
-			"<22:12:43><DEBUG>	 Event: LOOT_READY true", -- [1105]
-			"<22:12:48><DEBUG>	 Event: LOOT_READY true", -- [1106]
-			"<22:12:49><DEBUG>	 Event: LOOT_READY true", -- [1107]
-			"<22:12:59><DEBUG>	 Event: LOOT_READY true", -- [1108]
-			"<22:12:59><DEBUG>	 Event: LOOT_READY true", -- [1109]
-			"<22:13:17><DEBUG>	 Event: LOOT_READY true", -- [1110]
-			"<22:13:17><DEBUG>	 Event: LOOT_READY true", -- [1111]
-			"<22:13:18><DEBUG>	 Event: LOOT_READY true", -- [1112]
-			"<22:13:19><DEBUG>	 Event: LOOT_READY true", -- [1113]
-			"<22:13:20><DEBUG>	 Event: LOOT_READY true", -- [1114]
-			"<22:13:21><DEBUG>	 Event: LOOT_READY true", -- [1115]
-			"<22:13:28><DEBUG>	 Event: LOOT_READY true", -- [1116]
-			"<22:13:28><DEBUG>	 Event: LOOT_READY true", -- [1117]
-			"<22:13:40><DEBUG>	 Event: LOOT_READY true", -- [1118]
-			"<22:13:41><DEBUG>	 Event: LOOT_READY true", -- [1119]
-			"<22:13:42><DEBUG>	 Event: LOOT_READY true", -- [1120]
-			"<22:13:43><DEBUG>	 Event: LOOT_READY true", -- [1121]
-			"<22:13:53><DEBUG>	 Event: LOOT_READY true", -- [1122]
-			"<22:13:54><DEBUG>	 Event: LOOT_READY true", -- [1123]
-			"<22:14:01><DEBUG>	 Event: LOOT_READY true", -- [1124]
-			"<22:14:02><DEBUG>	 Event: LOOT_READY true", -- [1125]
-			"<22:14:03><DEBUG>	 Event: LOOT_READY true", -- [1126]
-			"<22:14:04><DEBUG>	 Event: LOOT_READY true", -- [1127]
-			"<22:14:20><DEBUG>	 Event: LOOT_READY true", -- [1128]
-			"<22:14:20><DEBUG>	 Event: LOOT_READY true", -- [1129]
-			"<22:14:21><DEBUG>	 Event: LOOT_READY true", -- [1130]
-			"<22:14:22><DEBUG>	 Event: LOOT_READY true", -- [1131]
-			"<22:14:23><DEBUG>	 Event: LOOT_READY true", -- [1132]
-			"<22:14:24><DEBUG>	 Event: LOOT_READY true", -- [1133]
-			"<22:14:25><DEBUG>	 Event: LOOT_READY true", -- [1134]
-			"<22:14:26><DEBUG>	 Event: LOOT_READY true", -- [1135]
-			"<22:14:29><DEBUG>	 Event: LOOT_READY true", -- [1136]
-			"<22:14:29><DEBUG>	 Event: LOOT_READY true", -- [1137]
-			"<22:14:35><DEBUG>	 Event: LOOT_READY true", -- [1138]
-			"<22:14:36><DEBUG>	 Event: LOOT_READY true", -- [1139]
-			"<22:15:09><DEBUG>	 Event: LOOT_READY true", -- [1140]
-			"<22:15:09><DEBUG>	 Event: LOOT_READY true", -- [1141]
-			"<22:15:14><DEBUG>	 Event: LOOT_READY true", -- [1142]
-			"<22:15:15><DEBUG>	 Event: LOOT_READY true", -- [1143]
-			"<22:15:16><DEBUG>	 Event: LOOT_READY true", -- [1144]
-			"<22:15:16><DEBUG>	 Event: LOOT_READY true", -- [1145]
-			"<22:15:25><DEBUG>	 Event: LOOT_READY true", -- [1146]
-			"<22:15:25><DEBUG>	 Event: LOOT_READY true", -- [1147]
-			"<22:15:35><DEBUG>	 Event: LOOT_READY true", -- [1148]
-			"<22:15:36><DEBUG>	 Event: LOOT_READY true", -- [1149]
-			"<22:15:37><DEBUG>	 Event: LOOT_READY true", -- [1150]
-			"<22:15:37><DEBUG>	 Event: LOOT_READY true", -- [1151]
-			"<22:15:54><DEBUG>	 Event: LOOT_READY true", -- [1152]
-			"<22:15:54><DEBUG>	 Event: LOOT_READY true", -- [1153]
-			"<22:15:56><DEBUG>	 Event: LOOT_READY true", -- [1154]
-			"<22:15:56><DEBUG>	 Event: LOOT_READY true", -- [1155]
-			"<22:16:07><DEBUG>	 Event: LOOT_READY true", -- [1156]
-			"<22:16:08><DEBUG>	 Event: LOOT_READY true", -- [1157]
-			"<22:16:18><DEBUG>	 Event: LOOT_READY true", -- [1158]
-			"<22:16:19><DEBUG>	 Event: LOOT_READY true", -- [1159]
-			"<22:16:20><DEBUG>	 Event: LOOT_READY true", -- [1160]
-			"<22:16:20><DEBUG>	 Event: LOOT_READY true", -- [1161]
-			"<22:16:51><DEBUG>	 Event: LOOT_READY true", -- [1162]
-			"<22:16:52><DEBUG>	 Event: LOOT_READY true", -- [1163]
-			"<22:18:24><DEBUG>	 Event: LOOT_READY true", -- [1164]
-			"<22:18:25><DEBUG>	 Event: LOOT_READY true", -- [1165]
-			"<22:18:29><DEBUG>	 Event: LOOT_READY true", -- [1166]
-			"<22:18:29><DEBUG>	 Event: LOOT_READY true", -- [1167]
-			"<22:18:51><DEBUG>	 Event: LOOT_READY true", -- [1168]
-			"<22:18:52><DEBUG>	 Event: LOOT_READY true", -- [1169]
-			"<22:19:01><DEBUG>	 Event: LOOT_READY true", -- [1170]
-			"<22:19:01><DEBUG>	 Event: LOOT_READY true", -- [1171]
-			"<22:19:11><DEBUG>	 Event: LOOT_READY true", -- [1172]
-			"<22:19:11><DEBUG>	 Event: LOOT_READY true", -- [1173]
-			"<22:19:13><DEBUG>	 Event: LOOT_READY true", -- [1174]
-			"<22:19:13><DEBUG>	 Event: LOOT_READY true", -- [1175]
-			"<22:19:20><DEBUG>	 Event: LOOT_READY true", -- [1176]
-			"<22:19:20><DEBUG>	 Event: LOOT_READY true", -- [1177]
-			"<22:19:26><DEBUG>	 Event: LOOT_READY true", -- [1178]
-			"<22:19:26><DEBUG>	 Event: LOOT_READY true", -- [1179]
-			"<22:19:54><DEBUG>	 Event: LOOT_READY true", -- [1180]
-			"<22:19:54><DEBUG>	 Event: LOOT_READY true", -- [1181]
-			"<22:20:23><DEBUG>	 Event: LOOT_READY true", -- [1182]
-			"<22:20:23><DEBUG>	 Event: LOOT_READY true", -- [1183]
-			"<22:20:26><DEBUG>	 Event: LOOT_READY true", -- [1184]
-			"<22:20:26><DEBUG>	 Event: LOOT_READY true", -- [1185]
-			"<22:20:34><DEBUG>	 Event: LOOT_READY true", -- [1186]
-			"<22:20:35><DEBUG>	 Event: LOOT_READY true", -- [1187]
-			"<22:20:37><DEBUG>	 Event: LOOT_READY true", -- [1188]
-			"<22:20:37><DEBUG>	 Event: LOOT_READY true", -- [1189]
-			"<22:20:39><DEBUG>	 Event: LOOT_READY true", -- [1190]
-			"<22:20:39><DEBUG>	 Event: LOOT_READY true", -- [1191]
-			"<22:20:43><DEBUG>	 Event: LOOT_READY true", -- [1192]
-			"<22:20:43><DEBUG>	 Event: LOOT_READY true", -- [1193]
-			"<22:21:01><DEBUG>	 Event: LOOT_READY true", -- [1194]
-			"<22:21:02><DEBUG>	 Event: LOOT_READY true", -- [1195]
-			"<22:21:03><DEBUG>	 Event: LOOT_READY true", -- [1196]
-			"<22:21:04><DEBUG>	 Event: LOOT_READY true", -- [1197]
-			"<22:21:27><DEBUG>	 Event: LOOT_READY true", -- [1198]
-			"<22:21:28><DEBUG>	 Event: LOOT_READY true", -- [1199]
-			"<22:21:29><DEBUG>	 Event: LOOT_READY true", -- [1200]
-			"<22:21:30><DEBUG>	 Event: LOOT_READY true", -- [1201]
-			"<22:21:32><DEBUG>	 Event: LOOT_READY true", -- [1202]
-			"<22:21:32><DEBUG>	 Event: LOOT_READY true", -- [1203]
-			"<22:22:01><DEBUG>	 Event: LOOT_READY true", -- [1204]
-			"<22:22:02><DEBUG>	 Event: LOOT_READY true", -- [1205]
-			"<22:22:12><DEBUG>	 Event: LOOT_READY true", -- [1206]
-			"<22:22:12><DEBUG>	 Event: LOOT_READY true", -- [1207]
-			"<22:22:14><DEBUG>	 Event: LOOT_READY true", -- [1208]
-			"<22:22:14><DEBUG>	 Event: LOOT_READY true", -- [1209]
-			"<23:06:36><DEBUG>	 Event: LOOT_READY true", -- [1210]
-			"<23:06:36><DEBUG>	 Event: LOOT_READY true", -- [1211]
-			"<23:07:23><DEBUG>	 Event: LOOT_READY true", -- [1212]
-			"<23:07:23><DEBUG>	 Event: LOOT_READY true", -- [1213]
-			"<23:13:27><DEBUG>	 Event: LOOT_READY true", -- [1214]
-			"<23:13:27><DEBUG>	 Event: LOOT_READY true", -- [1215]
-			"<23:13:39><DEBUG>	 Event: LOOT_READY true", -- [1216]
-			"<23:13:39><DEBUG>	 Event: LOOT_READY true", -- [1217]
-			"<23:13:48><DEBUG>	 Event: LOOT_READY true", -- [1218]
-			"<23:13:48><DEBUG>	 Event: LOOT_READY true", -- [1219]
-			"<23:13:48><DEBUG>	 Event: LOOT_READY true", -- [1220]
-			"<23:13:48><DEBUG>	 Event: LOOT_READY true", -- [1221]
-			"<23:15:04><DEBUG>	 Event: LOOT_READY true", -- [1222]
-			"<23:15:04><DEBUG>	 Event: LOOT_READY true", -- [1223]
-			"<23:15:26><DEBUG>	 Event: LOOT_READY true", -- [1224]
-			"<23:15:26><DEBUG>	 Event: LOOT_READY true", -- [1225]
-			"<23:16:09><DEBUG>	 Event: LOOT_READY true", -- [1226]
-			"<23:16:09><DEBUG>	 Event: LOOT_READY true", -- [1227]
-			"<23:16:42><DEBUG>	 Event: LOOT_READY true", -- [1228]
-			"<23:16:42><DEBUG>	 Event: LOOT_READY true", -- [1229]
-			"<23:17:16><DEBUG>	 Event: LOOT_READY true", -- [1230]
-			"<23:17:16><DEBUG>	 Event: LOOT_READY true", -- [1231]
-			"<23:17:36><DEBUG>	 Event: LOOT_READY true", -- [1232]
-			"<23:17:37><DEBUG>	 Event: LOOT_READY true", -- [1233]
-			"<23:17:57><DEBUG>	 Event: LOOT_READY true", -- [1234]
-			"<23:17:58><DEBUG>	 Event: LOOT_READY true", -- [1235]
-			"<23:18:47><DEBUG>	 Event: LOOT_READY true", -- [1236]
-			"<23:18:47><DEBUG>	 Event: LOOT_READY true", -- [1237]
-			"<23:19:03><DEBUG>	 Event: LOOT_READY true", -- [1238]
-			"<23:19:03><DEBUG>	 Event: LOOT_READY true", -- [1239]
-			"<23:19:28><DEBUG>	 Event: LOOT_READY true", -- [1240]
-			"<23:19:28><DEBUG>	 Event: LOOT_READY true", -- [1241]
-			"<23:20:05><DEBUG>	 Event: LOOT_READY true", -- [1242]
-			"<23:20:05><DEBUG>	 Event: LOOT_READY true", -- [1243]
-			"<23:22:37><DEBUG>	 Event: LOOT_READY true", -- [1244]
-			"<23:22:37><DEBUG>	 Event: LOOT_READY true", -- [1245]
-			"<23:22:39><DEBUG>	 Event: LOOT_READY true", -- [1246]
-			"<23:22:40><DEBUG>	 Event: LOOT_READY true", -- [1247]
-			"<23:33:56><DEBUG>	 Event: LOOT_READY true", -- [1248]
-			"<23:33:57><DEBUG>	 Event: LOOT_READY true", -- [1249]
-			"<23:35:34><DEBUG>	 Event: LOOT_READY true", -- [1250]
-			"<23:35:34><DEBUG>	 Event: LOOT_READY true", -- [1251]
-			"<23:36:21><DEBUG>	 Event: LOOT_READY true", -- [1252]
-			"<23:36:21><DEBUG>	 Event: LOOT_READY true", -- [1253]
-			"<23:37:03><DEBUG>	 Event: LOOT_READY true", -- [1254]
-			"<23:37:03><DEBUG>	 Event: LOOT_READY true", -- [1255]
-			"<23:37:41><DEBUG>	 Event: LOOT_READY true", -- [1256]
-			"<23:37:41><DEBUG>	 Event: LOOT_READY true", -- [1257]
-			"<23:38:37><DEBUG>	 Event: LOOT_READY true", -- [1258]
-			"<23:38:38><DEBUG>	 Event: LOOT_READY true", -- [1259]
-			"<23:39:35><DEBUG>	 Event: LOOT_READY true", -- [1260]
-			"<23:39:35><DEBUG>	 Event: LOOT_READY true", -- [1261]
-			"<23:40:04><DEBUG>	 Event: LOOT_READY true", -- [1262]
-			"<23:40:05><DEBUG>	 Event: LOOT_READY true", -- [1263]
-			"<23:42:03><DEBUG>	 Event: LOOT_READY true", -- [1264]
-			"<23:42:03><DEBUG>	 Event: LOOT_READY true", -- [1265]
-			"<23:43:10><DEBUG>	 Event: LOOT_READY true", -- [1266]
-			"<23:43:10><DEBUG>	 Event: LOOT_READY true", -- [1267]
-			"<00:39:01><INFO>	 Logged In", -- [1268]
-			"<00:39:01>[ML]<INFO>	 Init", -- [1269]
-			"<00:39:01><INFO>	 RCLootCouncil TradeUI enabled", -- [1270]
-			"<00:39:19><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [1271]
-			"<00:39:19><DEBUG>	 ActivateSkin bfa", -- [1272]
-			"<00:39:20><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1273]
-			"<00:39:20><INFO>	 UpdatePlayersData()", -- [1274]
-			"<00:39:25><DEBUG>	 GetML()", -- [1275]
-			"<00:43:05><DEBUG>	 Event: LOOT_READY true", -- [1276]
-			"<00:43:05><DEBUG>	 Event: LOOT_READY true", -- [1277]
-			"<00:43:10><DEBUG>	 Event: LOOT_READY true", -- [1278]
-			"<00:43:11><DEBUG>	 Event: LOOT_READY true", -- [1279]
-			"<00:44:18><DEBUG>	 Event: LOOT_READY true", -- [1280]
-			"<00:44:18><DEBUG>	 Event: LOOT_READY true", -- [1281]
-			"<00:45:03><DEBUG>	 Event: LOOT_READY true", -- [1282]
-			"<00:45:03><DEBUG>	 Event: LOOT_READY true", -- [1283]
-			"<00:45:55><DEBUG>	 Event: LOOT_READY true", -- [1284]
-			"<00:45:55><DEBUG>	 Event: LOOT_READY true", -- [1285]
-			"<00:46:21><DEBUG>	 Event: LOOT_READY true", -- [1286]
-			"<00:46:21><DEBUG>	 Event: LOOT_READY true", -- [1287]
-			"<00:47:57><DEBUG>	 Event: LOOT_READY true", -- [1288]
-			"<00:47:57><DEBUG>	 Event: LOOT_READY true", -- [1289]
-			"<00:47:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 182192 |cff0070dd|Hitem:182192::::::::53:577::11:2:6706:6652:2:28:1707:9:53:::|h[Набедренники с негнущимися коленями]|h|r 1 Дэлери DEMONHUNTER", -- [1290]
-			"<00:48:10><DEBUG>	 Event: LOOT_READY true", -- [1291]
-			"<00:48:10><DEBUG>	 Event: LOOT_READY true", -- [1292]
-			"<00:50:27><DEBUG>	 Event: LOOT_READY true", -- [1293]
-			"<00:50:27><DEBUG>	 Event: LOOT_READY true", -- [1294]
-			"<00:50:27><DEBUG>	 Event: LOOT_READY true", -- [1295]
-			"<00:50:37><DEBUG>	 Event: LOOT_READY true", -- [1296]
-			"<00:50:37><DEBUG>	 Event: LOOT_READY true", -- [1297]
-			"<00:52:22><DEBUG>	 Event: LOOT_READY true", -- [1298]
-			"<00:52:22><DEBUG>	 Event: LOOT_READY true", -- [1299]
-			"<00:52:30><DEBUG>	 Event: LOOT_READY true", -- [1300]
-			"<00:52:30><DEBUG>	 Event: LOOT_READY true", -- [1301]
-			"<00:53:02><DEBUG>	 Event: LOOT_READY true", -- [1302]
-			"<00:53:02><DEBUG>	 Event: LOOT_READY true", -- [1303]
-			"<00:53:36><DEBUG>	 Event: LOOT_READY true", -- [1304]
-			"<00:53:36><DEBUG>	 Event: LOOT_READY true", -- [1305]
-			"<00:53:57><DEBUG>	 Event: LOOT_READY true", -- [1306]
-			"<00:53:57><DEBUG>	 Event: LOOT_READY true", -- [1307]
-			"<00:54:09><DEBUG>	 Event: LOOT_READY true", -- [1308]
-			"<00:54:09><DEBUG>	 Event: LOOT_READY true", -- [1309]
-			"<00:54:11><DEBUG>	 Event: LOOT_READY true", -- [1310]
-			"<00:54:11><DEBUG>	 Event: LOOT_READY true", -- [1311]
-			"<00:54:44><DEBUG>	 Event: LOOT_READY true", -- [1312]
-			"<00:54:44><DEBUG>	 Event: LOOT_READY true", -- [1313]
-			"<00:55:03><DEBUG>	 Event: LOOT_READY true", -- [1314]
-			"<00:55:03><DEBUG>	 Event: LOOT_READY true", -- [1315]
-			"<00:55:05><DEBUG>	 Event: LOOT_READY true", -- [1316]
-			"<00:55:05><DEBUG>	 Event: LOOT_READY true", -- [1317]
-			"<00:57:02><DEBUG>	 Event: LOOT_READY true", -- [1318]
-			"<00:57:02><DEBUG>	 Event: LOOT_READY true", -- [1319]
-			"<00:57:28><DEBUG>	 Event: LOOT_READY true", -- [1320]
-			"<00:57:28><DEBUG>	 Event: LOOT_READY true", -- [1321]
-			"<00:58:03><DEBUG>	 Event: LOOT_READY true", -- [1322]
-			"<00:58:03><DEBUG>	 Event: LOOT_READY true", -- [1323]
-			"<00:58:22><DEBUG>	 Event: LOOT_READY true", -- [1324]
-			"<00:58:22><DEBUG>	 Event: LOOT_READY true", -- [1325]
-			"<00:58:39><DEBUG>	 Event: LOOT_READY true", -- [1326]
-			"<00:58:40><DEBUG>	 Event: LOOT_READY true", -- [1327]
-			"<00:58:42><DEBUG>	 Event: LOOT_READY true", -- [1328]
-			"<00:58:42><DEBUG>	 Event: LOOT_READY true", -- [1329]
-			"<00:59:05><DEBUG>	 Event: LOOT_READY true", -- [1330]
-			"<00:59:05><DEBUG>	 Event: LOOT_READY true", -- [1331]
-			"<00:59:31><DEBUG>	 Event: LOOT_READY true", -- [1332]
-			"<00:59:32><DEBUG>	 Event: LOOT_READY true", -- [1333]
-			"<00:59:47><DEBUG>	 Event: LOOT_READY true", -- [1334]
-			"<00:59:48><DEBUG>	 Event: LOOT_READY true", -- [1335]
-			"<01:03:24><DEBUG>	 Event: LOOT_READY true", -- [1336]
-			"<01:03:24><DEBUG>	 Event: LOOT_READY true", -- [1337]
-			"<01:03:26><DEBUG>	 Event: LOOT_READY true", -- [1338]
-			"<01:03:26><DEBUG>	 Event: LOOT_READY true", -- [1339]
-			"<01:03:29><DEBUG>	 Event: LOOT_READY true", -- [1340]
-			"<01:03:29><DEBUG>	 Event: LOOT_READY true", -- [1341]
-			"<01:03:49><DEBUG>	 Event: LOOT_READY true", -- [1342]
-			"<01:03:50><DEBUG>	 Event: LOOT_READY true", -- [1343]
-			"<01:03:51><DEBUG>	 Event: LOOT_READY true", -- [1344]
-			"<01:03:51><DEBUG>	 Event: LOOT_READY true", -- [1345]
-			"<01:03:53><DEBUG>	 Event: LOOT_READY true", -- [1346]
-			"<01:03:53><DEBUG>	 Event: LOOT_READY true", -- [1347]
-			"<01:03:55><DEBUG>	 Event: LOOT_READY true", -- [1348]
-			"<01:03:55><DEBUG>	 Event: LOOT_READY true", -- [1349]
-			"<01:04:17><DEBUG>	 Event: LOOT_READY true", -- [1350]
-			"<01:04:17><DEBUG>	 Event: LOOT_READY true", -- [1351]
-			"<01:05:09><DEBUG>	 Event: LOOT_READY true", -- [1352]
-			"<01:05:09><DEBUG>	 Event: LOOT_READY true", -- [1353]
-			"<01:05:13><DEBUG>	 Event: LOOT_READY true", -- [1354]
-			"<01:05:13><DEBUG>	 Event: LOOT_READY true", -- [1355]
-			"<01:05:24><DEBUG>	 Event: LOOT_READY true", -- [1356]
-			"<01:05:24><DEBUG>	 Event: LOOT_READY true", -- [1357]
-			"<01:05:26><DEBUG>	 Event: LOOT_READY true", -- [1358]
-			"<01:05:26><DEBUG>	 Event: LOOT_READY true", -- [1359]
-			"<01:06:44><DEBUG>	 Event: LOOT_READY true", -- [1360]
-			"<01:06:44><DEBUG>	 Event: LOOT_READY true", -- [1361]
-			"<01:07:02><DEBUG>	 Event: LOOT_READY true", -- [1362]
-			"<01:07:02><DEBUG>	 Event: LOOT_READY true", -- [1363]
-			"<01:07:21><DEBUG>	 Event: LOOT_READY true", -- [1364]
-			"<01:07:22><DEBUG>	 Event: LOOT_READY true", -- [1365]
-			"<01:07:51><DEBUG>	 Event: LOOT_READY true", -- [1366]
-			"<01:07:51><DEBUG>	 Event: LOOT_READY true", -- [1367]
-			"<01:08:02><DEBUG>	 Event: LOOT_READY true", -- [1368]
-			"<01:08:03><DEBUG>	 Event: LOOT_READY true", -- [1369]
-			"<01:08:06><DEBUG>	 Event: LOOT_READY true", -- [1370]
-			"<01:08:07><DEBUG>	 Event: LOOT_READY true", -- [1371]
-			"<01:08:11><DEBUG>	 Event: LOOT_READY true", -- [1372]
-			"<01:08:11><DEBUG>	 Event: LOOT_READY true", -- [1373]
-			"<01:08:14><DEBUG>	 Event: LOOT_READY true", -- [1374]
-			"<01:08:14><DEBUG>	 Event: LOOT_READY true", -- [1375]
-			"<01:08:48><DEBUG>	 Event: LOOT_READY true", -- [1376]
-			"<01:08:48><DEBUG>	 Event: LOOT_READY true", -- [1377]
-			"<01:09:04><DEBUG>	 Event: LOOT_READY true", -- [1378]
-			"<01:09:04><DEBUG>	 Event: LOOT_READY true", -- [1379]
-			"<01:09:36><DEBUG>	 Event: LOOT_READY true", -- [1380]
-			"<01:09:36><DEBUG>	 Event: LOOT_READY true", -- [1381]
-			"<01:10:12><DEBUG>	 Event: LOOT_READY true", -- [1382]
-			"<01:10:12><DEBUG>	 Event: LOOT_READY true", -- [1383]
-			"<01:10:14><DEBUG>	 Event: LOOT_READY true", -- [1384]
-			"<01:10:15><DEBUG>	 Event: LOOT_READY true", -- [1385]
-			"<01:10:16><DEBUG>	 Event: LOOT_READY true", -- [1386]
-			"<01:10:16><DEBUG>	 Event: LOOT_READY true", -- [1387]
-			"<01:10:19><DEBUG>	 Event: LOOT_READY true", -- [1388]
-			"<01:10:19><DEBUG>	 Event: LOOT_READY true", -- [1389]
-			"<01:10:50><DEBUG>	 Event: LOOT_READY true", -- [1390]
-			"<01:10:50><DEBUG>	 Event: LOOT_READY true", -- [1391]
-			"<01:11:39><DEBUG>	 Event: LOOT_READY true", -- [1392]
-			"<01:11:39><DEBUG>	 Event: LOOT_READY true", -- [1393]
-			"<01:11:42><DEBUG>	 Event: LOOT_READY true", -- [1394]
-			"<01:11:42><DEBUG>	 Event: LOOT_READY true", -- [1395]
-			"<01:12:48><DEBUG>	 Event: LOOT_READY true", -- [1396]
-			"<01:12:49><DEBUG>	 Event: LOOT_READY true", -- [1397]
-			"<01:12:53><DEBUG>	 Event: LOOT_READY true", -- [1398]
-			"<01:12:53><DEBUG>	 Event: LOOT_READY true", -- [1399]
-			"<01:12:55><DEBUG>	 Event: LOOT_READY true", -- [1400]
-			"<01:12:56><DEBUG>	 Event: LOOT_READY true", -- [1401]
-			"<01:13:17><DEBUG>	 Event: LOOT_READY true", -- [1402]
-			"<01:13:17><DEBUG>	 Event: LOOT_READY true", -- [1403]
-			"<01:13:19><DEBUG>	 Event: LOOT_READY true", -- [1404]
-			"<01:13:19><DEBUG>	 Event: LOOT_READY true", -- [1405]
-			"<01:18:59><DEBUG>	 Event: LOOT_READY true", -- [1406]
-			"<01:18:59><DEBUG>	 Event: LOOT_READY true", -- [1407]
-			"<01:19:23><DEBUG>	 Event: LOOT_READY true", -- [1408]
-			"<01:19:23><DEBUG>	 Event: LOOT_READY true", -- [1409]
-			"<01:22:40><DEBUG>	 Event: LOOT_READY true", -- [1410]
-			"<01:22:40><DEBUG>	 Event: LOOT_READY true", -- [1411]
-			"<01:23:25><DEBUG>	 Event: LOOT_READY true", -- [1412]
-			"<01:23:25><DEBUG>	 Event: LOOT_READY true", -- [1413]
-			"<01:23:27><DEBUG>	 Event: LOOT_READY true", -- [1414]
-			"<01:23:27><DEBUG>	 Event: LOOT_READY true", -- [1415]
-			"<01:23:29><DEBUG>	 Event: LOOT_READY true", -- [1416]
-			"<01:23:29><DEBUG>	 Event: LOOT_READY true", -- [1417]
-			"<01:24:09><DEBUG>	 Event: LOOT_READY true", -- [1418]
-			"<01:24:09><DEBUG>	 Event: LOOT_READY true", -- [1419]
-			"<01:24:11><DEBUG>	 Event: LOOT_READY true", -- [1420]
-			"<01:24:12><DEBUG>	 Event: LOOT_READY true", -- [1421]
-			"<01:24:13><DEBUG>	 Event: LOOT_READY true", -- [1422]
-			"<01:24:14><DEBUG>	 Event: LOOT_READY true", -- [1423]
-			"<01:24:33><DEBUG>	 Event: LOOT_READY true", -- [1424]
-			"<01:24:33><DEBUG>	 Event: LOOT_READY true", -- [1425]
-			"<01:24:34><DEBUG>	 Event: LOOT_READY true", -- [1426]
-			"<01:24:35><DEBUG>	 Event: LOOT_READY true", -- [1427]
-			"<01:25:00><DEBUG>	 Event: LOOT_READY true", -- [1428]
-			"<01:25:00><DEBUG>	 Event: LOOT_READY true", -- [1429]
-			"<01:25:02><DEBUG>	 Event: LOOT_READY true", -- [1430]
-			"<01:25:02><DEBUG>	 Event: LOOT_READY true", -- [1431]
-			"<01:25:26><DEBUG>	 Event: LOOT_READY true", -- [1432]
-			"<01:25:26><DEBUG>	 Event: LOOT_READY true", -- [1433]
-			"<01:25:36><DEBUG>	 Event: LOOT_READY true", -- [1434]
-			"<01:25:36><DEBUG>	 Event: LOOT_READY true", -- [1435]
-			"<01:26:04><DEBUG>	 Event: LOOT_READY true", -- [1436]
-			"<01:26:04><DEBUG>	 Event: LOOT_READY true", -- [1437]
-			"<01:26:06><DEBUG>	 Event: LOOT_READY true", -- [1438]
-			"<01:26:06><DEBUG>	 Event: LOOT_READY true", -- [1439]
-			"<01:26:28><DEBUG>	 Event: LOOT_READY true", -- [1440]
-			"<01:26:29><DEBUG>	 Event: LOOT_READY true", -- [1441]
-			"<01:27:12><DEBUG>	 Event: LOOT_READY true", -- [1442]
-			"<01:27:12><DEBUG>	 Event: LOOT_READY true", -- [1443]
-			"<01:27:26><DEBUG>	 Event: LOOT_READY true", -- [1444]
-			"<01:27:26><DEBUG>	 Event: LOOT_READY true", -- [1445]
-			"<01:27:50><DEBUG>	 Event: LOOT_READY true", -- [1446]
-			"<01:27:50><DEBUG>	 Event: LOOT_READY true", -- [1447]
-			"<01:28:06><DEBUG>	 Event: LOOT_READY true", -- [1448]
-			"<01:28:06><DEBUG>	 Event: LOOT_READY true", -- [1449]
-			"<01:28:18><DEBUG>	 Event: LOOT_READY true", -- [1450]
-			"<01:28:18><DEBUG>	 Event: LOOT_READY true", -- [1451]
-			"<01:28:48><DEBUG>	 Event: LOOT_READY true", -- [1452]
-			"<01:28:48><DEBUG>	 Event: LOOT_READY true", -- [1453]
-			"<01:29:21><DEBUG>	 Event: LOOT_READY true", -- [1454]
-			"<01:29:21><DEBUG>	 Event: LOOT_READY true", -- [1455]
-			"<01:29:51><DEBUG>	 Event: LOOT_READY true", -- [1456]
-			"<01:29:51><DEBUG>	 Event: LOOT_READY true", -- [1457]
-			"<01:30:06><DEBUG>	 Event: LOOT_READY true", -- [1458]
-			"<01:30:06><DEBUG>	 Event: LOOT_READY true", -- [1459]
-			"<01:36:31><DEBUG>	 Event: LOOT_READY true", -- [1460]
-			"<01:36:31><DEBUG>	 Event: LOOT_READY true", -- [1461]
-			"<01:36:32><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 182190 |cff0070dd|Hitem:182190::::::::54:577::11:3:6706:6652:7193:2:28:1707:9:54:::|h[Ошейник из шкуры таурала]|h|r 1 Дэлери DEMONHUNTER", -- [1462]
-			"<01:36:33><DEBUG>	 Event: LOOT_READY true", -- [1463]
-			"<01:36:34><DEBUG>	 Event: LOOT_READY true", -- [1464]
-			"<01:38:10><DEBUG>	 Event: LOOT_READY true", -- [1465]
-			"<01:38:10><DEBUG>	 Event: LOOT_READY true", -- [1466]
-			"<01:38:53><DEBUG>	 Event: LOOT_READY true", -- [1467]
-			"<01:38:54><DEBUG>	 Event: LOOT_READY true", -- [1468]
-			"<01:38:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 182196 |cffa335ee|Hitem:182196::::::::54:577::11:3:6706:7173:6652:2:28:1707:9:54:::|h[Арбалет огромного хищника]|h|r 1 Дэлери DEMONHUNTER", -- [1469]
-			"<01:38:57><DEBUG>	 Event: LOOT_READY true", -- [1470]
-			"<01:38:57><DEBUG>	 Event: LOOT_READY true", -- [1471]
-			"<01:39:02><DEBUG>	 Event: LOOT_READY true", -- [1472]
-			"<01:39:02><DEBUG>	 Event: LOOT_READY true", -- [1473]
-			"<01:39:04><DEBUG>	 Event: LOOT_READY true", -- [1474]
-			"<01:39:04><DEBUG>	 Event: LOOT_READY true", -- [1475]
-			"<01:39:06><DEBUG>	 Event: LOOT_READY true", -- [1476]
-			"<01:39:06><DEBUG>	 Event: LOOT_READY true", -- [1477]
-			"<01:39:08><DEBUG>	 Event: LOOT_READY true", -- [1478]
-			"<01:39:08><DEBUG>	 Event: LOOT_READY true", -- [1479]
-			"<01:43:37><DEBUG>	 Event: LOOT_READY true", -- [1480]
-			"<01:43:37><DEBUG>	 Event: LOOT_READY true", -- [1481]
-			"<01:43:43><DEBUG>	 Event: LOOT_READY true", -- [1482]
-			"<01:43:44><DEBUG>	 Event: LOOT_READY true", -- [1483]
-			"<01:43:46><DEBUG>	 Event: LOOT_READY true", -- [1484]
-			"<01:43:46><DEBUG>	 Event: LOOT_READY true", -- [1485]
-			"<01:43:49><DEBUG>	 Event: LOOT_READY true", -- [1486]
-			"<01:43:49><DEBUG>	 Event: LOOT_READY true", -- [1487]
-			"<01:43:52><DEBUG>	 Event: LOOT_READY true", -- [1488]
-			"<01:43:52><DEBUG>	 Event: LOOT_READY true", -- [1489]
-			"<01:43:54><DEBUG>	 Event: LOOT_READY true", -- [1490]
-			"<01:43:54><DEBUG>	 Event: LOOT_READY true", -- [1491]
-			"<01:44:40><DEBUG>	 Event: LOOT_READY true", -- [1492]
-			"<01:44:40><DEBUG>	 Event: LOOT_READY true", -- [1493]
-			"<01:44:43><DEBUG>	 Event: LOOT_READY true", -- [1494]
-			"<01:44:43><DEBUG>	 Event: LOOT_READY true", -- [1495]
-			"<01:44:47><DEBUG>	 Event: LOOT_READY true", -- [1496]
-			"<01:44:47><DEBUG>	 Event: LOOT_READY true", -- [1497]
-			"<01:44:49><DEBUG>	 Event: LOOT_READY true", -- [1498]
-			"<01:44:49><DEBUG>	 Event: LOOT_READY true", -- [1499]
-			"<01:44:51><DEBUG>	 Event: LOOT_READY true", -- [1500]
-			"<01:44:52><DEBUG>	 Event: LOOT_READY true", -- [1501]
-			"<01:45:00><DEBUG>	 Event: LOOT_READY true", -- [1502]
-			"<01:45:00><DEBUG>	 Event: LOOT_READY true", -- [1503]
-			"<01:45:02><DEBUG>	 Event: LOOT_READY true", -- [1504]
-			"<01:45:02><DEBUG>	 Event: LOOT_READY true", -- [1505]
-			"<01:45:04><DEBUG>	 Event: LOOT_READY true", -- [1506]
-			"<01:45:04><DEBUG>	 Event: LOOT_READY true", -- [1507]
-			"<01:45:22><DEBUG>	 Event: LOOT_READY true", -- [1508]
-			"<01:45:23><DEBUG>	 Event: LOOT_READY true", -- [1509]
-			"<01:45:27><DEBUG>	 Event: LOOT_READY true", -- [1510]
-			"<01:45:27><DEBUG>	 Event: LOOT_READY true", -- [1511]
-			"<01:45:43><DEBUG>	 Event: LOOT_READY true", -- [1512]
-			"<01:45:44><DEBUG>	 Event: LOOT_READY true", -- [1513]
-			"<01:45:48><DEBUG>	 Event: LOOT_READY true", -- [1514]
-			"<01:45:48><DEBUG>	 Event: LOOT_READY true", -- [1515]
-			"<01:45:50><DEBUG>	 Event: LOOT_READY true", -- [1516]
-			"<01:45:50><DEBUG>	 Event: LOOT_READY true", -- [1517]
-			"<01:47:23><DEBUG>	 Event: LOOT_READY true", -- [1518]
-			"<01:47:23><DEBUG>	 Event: LOOT_READY true", -- [1519]
-			"<01:47:24><DEBUG>	 Event: LOOT_READY true", -- [1520]
-			"<01:47:25><DEBUG>	 Event: LOOT_READY true", -- [1521]
-			"<01:47:27><DEBUG>	 Event: LOOT_READY true", -- [1522]
-			"<01:47:27><DEBUG>	 Event: LOOT_READY true", -- [1523]
-			"<01:47:29><DEBUG>	 Event: LOOT_READY true", -- [1524]
-			"<01:47:29><DEBUG>	 Event: LOOT_READY true", -- [1525]
-			"<01:47:40><DEBUG>	 Event: LOOT_READY true", -- [1526]
-			"<01:47:40><DEBUG>	 Event: LOOT_READY true", -- [1527]
-			"<01:49:56><DEBUG>	 Event: LOOT_READY true", -- [1528]
-			"<01:49:56><DEBUG>	 Event: LOOT_READY true", -- [1529]
-			"<01:53:53><DEBUG>	 Event: LOOT_READY true", -- [1530]
-			"<01:53:53><DEBUG>	 Event: LOOT_READY true", -- [1531]
-			"<01:54:15><DEBUG>	 Event: LOOT_READY true", -- [1532]
-			"<01:54:16><DEBUG>	 Event: LOOT_READY true", -- [1533]
-			"<01:54:22><DEBUG>	 Event: LOOT_READY true", -- [1534]
-			"<01:54:22><DEBUG>	 Event: LOOT_READY true", -- [1535]
-			"<01:54:55><DEBUG>	 Event: LOOT_READY true", -- [1536]
-			"<01:54:55><DEBUG>	 Event: LOOT_READY true", -- [1537]
-			"<01:54:56><DEBUG>	 Event: LOOT_READY true", -- [1538]
-			"<01:54:56><DEBUG>	 Event: LOOT_READY true", -- [1539]
-			"<01:55:22><DEBUG>	 Event: LOOT_READY true", -- [1540]
-			"<01:55:22><DEBUG>	 Event: LOOT_READY true", -- [1541]
-			"<01:55:25><DEBUG>	 Event: LOOT_READY true", -- [1542]
-			"<01:55:26><DEBUG>	 Event: LOOT_READY true", -- [1543]
-			"<01:55:57><DEBUG>	 Event: LOOT_READY true", -- [1544]
-			"<01:55:57><DEBUG>	 Event: LOOT_READY true", -- [1545]
-			"<01:56:00><DEBUG>	 Event: LOOT_READY true", -- [1546]
-			"<01:56:00><DEBUG>	 Event: LOOT_READY true", -- [1547]
-			"<01:56:28><DEBUG>	 Event: LOOT_READY true", -- [1548]
-			"<01:56:29><DEBUG>	 Event: LOOT_READY true", -- [1549]
-			"<01:56:31><DEBUG>	 Event: LOOT_READY true", -- [1550]
-			"<01:56:31><DEBUG>	 Event: LOOT_READY true", -- [1551]
-			"<01:56:36><DEBUG>	 Event: LOOT_READY true", -- [1552]
-			"<01:56:36><DEBUG>	 Event: LOOT_READY true", -- [1553]
-			"<01:56:55><DEBUG>	 Event: LOOT_READY true", -- [1554]
-			"<01:56:56><DEBUG>	 Event: LOOT_READY true", -- [1555]
-			"<01:56:59><DEBUG>	 Event: LOOT_READY true", -- [1556]
-			"<01:56:59><DEBUG>	 Event: LOOT_READY true", -- [1557]
-			"<01:57:12><DEBUG>	 Event: LOOT_READY true", -- [1558]
-			"<01:57:12><DEBUG>	 Event: LOOT_READY true", -- [1559]
-			"<01:57:31><DEBUG>	 Event: LOOT_READY true", -- [1560]
-			"<01:57:32><DEBUG>	 Event: LOOT_READY true", -- [1561]
-			"<01:57:34><DEBUG>	 Event: LOOT_READY true", -- [1562]
-			"<01:57:35><DEBUG>	 Event: LOOT_READY true", -- [1563]
-			"<01:57:51><DEBUG>	 Event: LOOT_READY true", -- [1564]
-			"<01:57:51><DEBUG>	 Event: LOOT_READY true", -- [1565]
-			"<01:57:55><DEBUG>	 Event: LOOT_READY true", -- [1566]
-			"<01:57:56><DEBUG>	 Event: LOOT_READY true", -- [1567]
-			"<01:58:02><DEBUG>	 Event: LOOT_READY true", -- [1568]
-			"<01:58:02><DEBUG>	 Event: LOOT_READY true", -- [1569]
-			"<02:00:22><DEBUG>	 Event: LOOT_READY true", -- [1570]
-			"<02:00:22><DEBUG>	 Event: LOOT_READY true", -- [1571]
-			"<02:00:23><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 182191 |cff0070dd|Hitem:182191::::::::54:577::11:2:6706:6652:2:28:1707:9:54:::|h[Обслюнявленная игрушка]|h|r 1 Дэлери DEMONHUNTER", -- [1572]
-			"<02:00:25><DEBUG>	 Event: LOOT_READY true", -- [1573]
-			"<02:00:25><DEBUG>	 Event: LOOT_READY true", -- [1574]
-			"<02:04:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1575]
-			"<02:04:05><DEBUG>	 GetML()", -- [1576]
-			"<02:04:45><DEBUG>	 Event: LOOT_READY true", -- [1577]
-			"<02:04:45><DEBUG>	 Event: LOOT_READY true", -- [1578]
-			"<02:05:09><DEBUG>	 Event: LOOT_READY true", -- [1579]
-			"<02:05:09><DEBUG>	 Event: LOOT_READY true", -- [1580]
-			"<02:05:24><DEBUG>	 Event: LOOT_READY true", -- [1581]
-			"<02:05:25><DEBUG>	 Event: LOOT_READY true", -- [1582]
-			"<02:05:46><DEBUG>	 Event: LOOT_READY true", -- [1583]
-			"<02:05:46><DEBUG>	 Event: LOOT_READY true", -- [1584]
-			"<02:07:11><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1585]
-			"<02:07:13><DEBUG>	 GetML()", -- [1586]
-			"<02:09:56><DEBUG>	 Event: LOOT_READY true", -- [1587]
-			"<02:09:57><DEBUG>	 Event: LOOT_READY true", -- [1588]
-			"<02:12:15><DEBUG>	 Event: LOOT_READY true", -- [1589]
-			"<02:12:15><DEBUG>	 Event: LOOT_READY true", -- [1590]
-			"<02:13:39><DEBUG>	 Event: LOOT_READY true", -- [1591]
-			"<02:13:39><DEBUG>	 Event: LOOT_READY true", -- [1592]
-			"<03:07:15><INFO>	 Logged In", -- [1593]
-			"<03:07:15>[ML]<INFO>	 Init", -- [1594]
-			"<03:07:15><INFO>	 RCLootCouncil TradeUI enabled", -- [1595]
-			"<03:07:23><INFO>	 ниэтта-Гордунни 3.1.4 nil", -- [1596]
-			"<03:07:23><DEBUG>	 ActivateSkin bfa", -- [1597]
-			"<03:07:24><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1598]
-			"<03:07:24><INFO>	 UpdatePlayersData()", -- [1599]
-			"<03:07:25><DEBUG>	 GetPlayersGuildRank()", -- [1600]
-			"<03:07:25><DEBUG>	 GetPlayersGuildRank()", -- [1601]
-			"<03:07:25><DEBUG>	 Found Guild Rank: Резервист", -- [1602]
-			"<03:07:29><DEBUG>	 GetML()", -- [1603]
-			"<03:14:01><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1604]
-			"<03:14:03><DEBUG>	 GetML()", -- [1605]
-			"<03:15:36><DEBUG>	 Event: LOOT_READY true", -- [1606]
-			"<03:15:36><DEBUG>	 Event: LOOT_READY true", -- [1607]
-			"<03:15:37><DEBUG>	 Event: LOOT_READY true", -- [1608]
-			"<03:15:55><DEBUG>	 Event: LOOT_READY true", -- [1609]
-			"<03:15:55><DEBUG>	 Event: LOOT_READY true", -- [1610]
-			"<03:16:31><DEBUG>	 Event: LOOT_READY true", -- [1611]
-			"<03:16:31><DEBUG>	 Event: LOOT_READY true", -- [1612]
-			"<03:16:45><DEBUG>	 Event: LOOT_READY true", -- [1613]
-			"<03:16:45><DEBUG>	 Event: LOOT_READY true", -- [1614]
-			"<03:17:09><DEBUG>	 Event: LOOT_READY true", -- [1615]
-			"<03:17:10><DEBUG>	 Event: LOOT_READY true", -- [1616]
-			"<03:17:43><DEBUG>	 Event: LOOT_READY true", -- [1617]
-			"<03:17:43><DEBUG>	 Event: LOOT_READY true", -- [1618]
-			"<03:18:25><DEBUG>	 Event: LOOT_READY true", -- [1619]
-			"<03:18:25><DEBUG>	 Event: LOOT_READY true", -- [1620]
-			"<03:19:30><DEBUG>	 Event: LOOT_READY true", -- [1621]
-			"<03:19:30><DEBUG>	 Event: LOOT_READY true", -- [1622]
-			"<03:19:32><DEBUG>	 Event: LOOT_READY true", -- [1623]
-			"<03:19:32><DEBUG>	 Event: LOOT_READY true", -- [1624]
-			"<03:19:41><DEBUG>	 Event: LOOT_READY true", -- [1625]
-			"<03:19:42><DEBUG>	 Event: LOOT_READY true", -- [1626]
-			"<03:19:54><DEBUG>	 Event: LOOT_READY true", -- [1627]
-			"<03:19:55><DEBUG>	 Event: LOOT_READY true", -- [1628]
-			"<03:19:57><DEBUG>	 Event: LOOT_READY true", -- [1629]
-			"<03:19:57><DEBUG>	 Event: LOOT_READY true", -- [1630]
-			"<03:24:50><DEBUG>	 Event: LOOT_READY true", -- [1631]
-			"<03:24:50><DEBUG>	 Event: LOOT_READY true", -- [1632]
-			"<03:25:46><DEBUG>	 Event: LOOT_READY true", -- [1633]
-			"<03:25:46><DEBUG>	 Event: LOOT_READY true", -- [1634]
-			"<03:25:46><DEBUG>	 Event: LOOT_READY true", -- [1635]
-			"<03:27:13><DEBUG>	 Event: LOOT_READY true", -- [1636]
-			"<03:27:13><DEBUG>	 Event: LOOT_READY true", -- [1637]
-			"<03:27:38><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1638]
-			"<03:27:40><DEBUG>	 GetML()", -- [1639]
-			"<03:27:49><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1640]
-			"<03:27:50><DEBUG>	 GetML()", -- [1641]
-			"<03:33:06><DEBUG>	 Event: LOOT_READY true", -- [1642]
-			"<03:33:06><DEBUG>	 Event: LOOT_READY true", -- [1643]
-			"<03:33:06><DEBUG>	 Event: LOOT_READY true", -- [1644]
-			"<03:33:06><DEBUG>	 Event: LOOT_READY true", -- [1645]
-			"<03:33:33><DEBUG>	 Event: LOOT_READY true", -- [1646]
-			"<03:33:33><DEBUG>	 Event: LOOT_READY true", -- [1647]
-			"<03:33:33><DEBUG>	 Event: LOOT_READY true", -- [1648]
-			"<03:35:30><DEBUG>	 Event: LOOT_READY true", -- [1649]
-			"<03:35:30><DEBUG>	 Event: LOOT_READY true", -- [1650]
-			"<03:35:31><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 184062 |cffa335ee|Hitem:184062::::::::60:70::::1:28:1707:::|h[Погрызенные поводья закаленного бойцовского пса]|h|r 1 Ниэтта PALADIN", -- [1651]
-			"<03:36:34><DEBUG>	 Event: LOOT_READY true", -- [1652]
-			"<03:36:34><DEBUG>	 Event: LOOT_READY true", -- [1653]
-			"<03:43:41><DEBUG>	 Event: LOOT_READY true", -- [1654]
-			"<03:43:41><DEBUG>	 Event: LOOT_READY true", -- [1655]
-			"<03:43:52><DEBUG>	 Event: LOOT_READY true", -- [1656]
-			"<03:43:52><DEBUG>	 Event: LOOT_READY true", -- [1657]
-			"<03:50:25><DEBUG>	 Event: LOOT_READY true", -- [1658]
-			"<03:50:25><DEBUG>	 Event: LOOT_READY true", -- [1659]
-			"<03:51:47><DEBUG>	 Event: LOOT_READY true", -- [1660]
-			"<03:51:47><DEBUG>	 Event: LOOT_READY true", -- [1661]
-			"<03:52:38><DEBUG>	 Event: LOOT_READY true", -- [1662]
-			"<03:52:38><DEBUG>	 Event: LOOT_READY true", -- [1663]
-			"<03:52:53><DEBUG>	 Event: LOOT_READY true", -- [1664]
-			"<03:52:53><DEBUG>	 Event: LOOT_READY true", -- [1665]
-			"<03:53:28><DEBUG>	 Event: LOOT_READY true", -- [1666]
-			"<03:53:28><DEBUG>	 Event: LOOT_READY true", -- [1667]
-			"<03:54:53><DEBUG>	 Event: LOOT_READY true", -- [1668]
-			"<03:54:53><DEBUG>	 Event: LOOT_READY true", -- [1669]
-			"<03:55:04><DEBUG>	 Event: LOOT_READY true", -- [1670]
-			"<03:55:04><DEBUG>	 Event: LOOT_READY true", -- [1671]
-			"<03:55:49><DEBUG>	 Event: LOOT_READY true", -- [1672]
-			"<03:55:50><DEBUG>	 Event: LOOT_READY true", -- [1673]
-			"<03:55:57><DEBUG>	 Event: LOOT_READY true", -- [1674]
-			"<03:55:58><DEBUG>	 Event: LOOT_READY true", -- [1675]
-			"<03:56:41><DEBUG>	 Event: LOOT_READY true", -- [1676]
-			"<03:56:42><DEBUG>	 Event: LOOT_READY true", -- [1677]
-			"<03:57:19><DEBUG>	 Event: LOOT_READY true", -- [1678]
-			"<03:57:19><DEBUG>	 Event: LOOT_READY true", -- [1679]
-			"<03:57:52><DEBUG>	 Event: LOOT_READY true", -- [1680]
-			"<03:57:52><DEBUG>	 Event: LOOT_READY true", -- [1681]
-			"<03:58:58><DEBUG>	 Event: LOOT_READY true", -- [1682]
-			"<03:58:59><DEBUG>	 Event: LOOT_READY true", -- [1683]
-			"<03:59:55><DEBUG>	 Event: LOOT_READY true", -- [1684]
-			"<03:59:55><DEBUG>	 Event: LOOT_READY true", -- [1685]
-			"<04:00:07><DEBUG>	 Event: LOOT_READY true", -- [1686]
-			"<04:00:07><DEBUG>	 Event: LOOT_READY true", -- [1687]
-			"<04:01:31><DEBUG>	 Event: LOOT_READY true", -- [1688]
-			"<04:01:31><DEBUG>	 Event: LOOT_READY true", -- [1689]
-			"<04:02:45><DEBUG>	 Event: LOOT_READY true", -- [1690]
-			"<04:02:45><DEBUG>	 Event: LOOT_READY true", -- [1691]
-			"<04:03:29><DEBUG>	 Event: LOOT_READY true", -- [1692]
-			"<04:03:29><DEBUG>	 Event: LOOT_READY true", -- [1693]
-			"<04:03:52><DEBUG>	 Event: LOOT_READY true", -- [1694]
-			"<04:03:53><DEBUG>	 Event: LOOT_READY true", -- [1695]
-			"<04:05:08><DEBUG>	 Event: LOOT_READY true", -- [1696]
-			"<04:05:09><DEBUG>	 Event: LOOT_READY true", -- [1697]
-			"<04:05:30><DEBUG>	 Event: LOOT_READY true", -- [1698]
-			"<04:05:30><DEBUG>	 Event: LOOT_READY true", -- [1699]
-			"<04:06:51><DEBUG>	 Event: LOOT_READY true", -- [1700]
-			"<04:06:52><DEBUG>	 Event: LOOT_READY true", -- [1701]
-			"<04:07:32><DEBUG>	 Event: LOOT_READY true", -- [1702]
-			"<04:07:32><DEBUG>	 Event: LOOT_READY true", -- [1703]
-			"<04:07:33><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 184772 |cff0070dd|Hitem:184772::::::::60:70:::::::|h[Кристалл ритуального малдрацита]|h|r 1 Ниэтта PALADIN", -- [1704]
-			"<04:08:13><DEBUG>	 Event: LOOT_READY true", -- [1705]
-			"<04:08:14><DEBUG>	 Event: LOOT_READY true", -- [1706]
-			"<04:08:39><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1707]
-			"<04:08:41><DEBUG>	 GetML()", -- [1708]
-			"<04:10:41><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1709]
-			"<04:10:42><DEBUG>	 GetML()", -- [1710]
-			"<04:18:34><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1711]
-			"<04:18:36><DEBUG>	 GetML()", -- [1712]
-			"<04:19:22><DEBUG>	 Event: LOOT_READY true", -- [1713]
-			"<04:19:22><DEBUG>	 Event: LOOT_READY true", -- [1714]
-			"<04:19:25><DEBUG>	 Event: LOOT_READY true", -- [1715]
-			"<04:19:25><DEBUG>	 Event: LOOT_READY true", -- [1716]
-			"<04:19:40><DEBUG>	 Event: LOOT_READY true", -- [1717]
-			"<04:19:40><DEBUG>	 Event: LOOT_READY true", -- [1718]
-			"<04:20:03><DEBUG>	 Event: LOOT_READY true", -- [1719]
-			"<04:20:03><DEBUG>	 Event: LOOT_READY true", -- [1720]
-			"<04:20:08><DEBUG>	 Event: LOOT_READY true", -- [1721]
-			"<04:20:08><DEBUG>	 Event: LOOT_READY true", -- [1722]
-			"<04:20:25><DEBUG>	 Event: LOOT_READY true", -- [1723]
-			"<04:20:25><DEBUG>	 Event: LOOT_READY true", -- [1724]
-			"<04:20:31><DEBUG>	 Event: LOOT_READY true", -- [1725]
-			"<04:20:31><DEBUG>	 Event: LOOT_READY true", -- [1726]
-			"<04:20:54><DEBUG>	 Event: LOOT_READY true", -- [1727]
-			"<04:20:54><DEBUG>	 Event: LOOT_READY true", -- [1728]
-			"<04:20:58><DEBUG>	 Event: LOOT_READY true", -- [1729]
-			"<04:20:58><DEBUG>	 Event: LOOT_READY true", -- [1730]
-			"<04:21:32><DEBUG>	 Event: LOOT_READY true", -- [1731]
-			"<04:21:32><DEBUG>	 Event: LOOT_READY true", -- [1732]
-			"<04:21:49><DEBUG>	 Event: LOOT_READY true", -- [1733]
-			"<04:21:49><DEBUG>	 Event: LOOT_READY true", -- [1734]
-			"<04:22:23><DEBUG>	 Event: LOOT_READY true", -- [1735]
-			"<04:22:23><DEBUG>	 Event: LOOT_READY true", -- [1736]
-			"<04:25:53><DEBUG>	 Event: LOOT_READY true", -- [1737]
-			"<04:25:53><DEBUG>	 Event: LOOT_READY true", -- [1738]
-			"<04:25:53><DEBUG>	 Event: LOOT_READY true", -- [1739]
-			"<04:25:54><DEBUG>	 Event: LOOT_READY true", -- [1740]
-			"<04:25:54><DEBUG>	 Event: LOOT_READY true", -- [1741]
-			"<04:27:39><DEBUG>	 Event: LOOT_READY true", -- [1742]
-			"<04:27:39><DEBUG>	 Event: LOOT_READY true", -- [1743]
-			"<04:27:47><DEBUG>	 Event: LOOT_READY true", -- [1744]
-			"<04:27:48><DEBUG>	 Event: LOOT_READY true", -- [1745]
-			"<04:30:39><DEBUG>	 Event: LOOT_READY true", -- [1746]
-			"<04:30:40><DEBUG>	 Event: LOOT_READY true", -- [1747]
-			"<04:30:46><DEBUG>	 Event: LOOT_READY true", -- [1748]
-			"<04:30:47><DEBUG>	 Event: LOOT_READY true", -- [1749]
-			"<04:31:40><DEBUG>	 Event: LOOT_READY true", -- [1750]
-			"<04:31:40><DEBUG>	 Event: LOOT_READY true", -- [1751]
-			"<04:32:54><DEBUG>	 Event: LOOT_READY true", -- [1752]
-			"<04:32:55><DEBUG>	 Event: LOOT_READY true", -- [1753]
-			"<04:34:32><DEBUG>	 Event: LOOT_READY true", -- [1754]
-			"<04:34:32><DEBUG>	 Event: LOOT_READY true", -- [1755]
-			"<04:34:33><DEBUG>	 Event: LOOT_READY true", -- [1756]
-			"<04:35:11><DEBUG>	 Event: LOOT_READY true", -- [1757]
-			"<04:35:12><DEBUG>	 Event: LOOT_READY true", -- [1758]
-			"<04:37:09><DEBUG>	 Event: LOOT_READY true", -- [1759]
-			"<04:37:09><DEBUG>	 Event: LOOT_READY true", -- [1760]
-			"<04:33:40><INFO>	 Logged In", -- [1761]
-			"<04:33:40>[ML]<INFO>	 Init", -- [1762]
-			"<04:33:40><INFO>	 RCLootCouncil TradeUI enabled", -- [1763]
-			"<04:33:53><INFO>	 ниэтта-Гордунни 3.1.4 nil", -- [1764]
-			"<04:33:53><DEBUG>	 ActivateSkin bfa", -- [1765]
-			"<04:33:54><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1766]
-			"<04:33:54><INFO>	 UpdatePlayersData()", -- [1767]
-			"<04:33:55><DEBUG>	 GetPlayersGuildRank()", -- [1768]
-			"<04:33:55><DEBUG>	 Found Guild Rank: Резервист", -- [1769]
-			"<04:33:58><DEBUG>	 GetML()", -- [1770]
-			"<04:36:42><DEBUG>	 Event: LOOT_READY true", -- [1771]
-			"<04:36:42><DEBUG>	 Event: LOOT_READY true", -- [1772]
-			"<04:37:10><DEBUG>	 Event: LOOT_READY true", -- [1773]
-			"<04:37:10><DEBUG>	 Event: LOOT_READY true", -- [1774]
-			"<04:37:37><DEBUG>	 Event: LOOT_READY true", -- [1775]
-			"<04:37:38><DEBUG>	 Event: LOOT_READY true", -- [1776]
-			"<04:38:09><DEBUG>	 Event: LOOT_READY true", -- [1777]
-			"<04:38:09><DEBUG>	 Event: LOOT_READY true", -- [1778]
-			"<04:38:42><DEBUG>	 Event: LOOT_READY true", -- [1779]
-			"<04:38:42><DEBUG>	 Event: LOOT_READY true", -- [1780]
-			"<04:39:56><DEBUG>	 Event: LOOT_READY true", -- [1781]
-			"<04:39:57><DEBUG>	 Event: LOOT_READY true", -- [1782]
-			"<04:40:50><DEBUG>	 Event: LOOT_READY true", -- [1783]
-			"<04:40:51><DEBUG>	 Event: LOOT_READY true", -- [1784]
-			"<04:41:39><DEBUG>	 Event: LOOT_READY true", -- [1785]
-			"<04:41:39><DEBUG>	 Event: LOOT_READY true", -- [1786]
-			"<04:42:26><DEBUG>	 Event: LOOT_READY true", -- [1787]
-			"<04:42:26><DEBUG>	 Event: LOOT_READY true", -- [1788]
-			"<04:43:06><DEBUG>	 Event: LOOT_READY true", -- [1789]
-			"<04:43:06><DEBUG>	 Event: LOOT_READY true", -- [1790]
-			"<04:43:59><DEBUG>	 Event: LOOT_READY true", -- [1791]
-			"<04:44:00><DEBUG>	 Event: LOOT_READY true", -- [1792]
-			"<04:44:35><DEBUG>	 Event: LOOT_READY true", -- [1793]
-			"<04:44:35><DEBUG>	 Event: LOOT_READY true", -- [1794]
-			"<04:46:30><DEBUG>	 Event: LOOT_READY true", -- [1795]
-			"<04:46:31><DEBUG>	 Event: LOOT_READY true", -- [1796]
-			"<04:47:11><DEBUG>	 Event: LOOT_READY true", -- [1797]
-			"<04:47:11><DEBUG>	 Event: LOOT_READY true", -- [1798]
-			"<04:47:25><DEBUG>	 Event: LOOT_READY true", -- [1799]
-			"<04:47:25><DEBUG>	 Event: LOOT_READY true", -- [1800]
-			"<04:47:27><DEBUG>	 Event: LOOT_READY true", -- [1801]
-			"<04:47:27><DEBUG>	 Event: LOOT_READY true", -- [1802]
-			"<04:47:34><DEBUG>	 Event: LOOT_READY true", -- [1803]
-			"<04:47:34><DEBUG>	 Event: LOOT_READY true", -- [1804]
-			"<04:47:42><DEBUG>	 Event: LOOT_READY true", -- [1805]
-			"<04:47:42><DEBUG>	 Event: LOOT_READY true", -- [1806]
-			"<04:48:12><DEBUG>	 Event: LOOT_READY true", -- [1807]
-			"<04:48:12><DEBUG>	 Event: LOOT_READY true", -- [1808]
-			"<04:48:16><DEBUG>	 Event: LOOT_READY true", -- [1809]
-			"<04:48:16><DEBUG>	 Event: LOOT_READY true", -- [1810]
-			"<04:48:36><DEBUG>	 Event: LOOT_READY true", -- [1811]
-			"<04:48:36><DEBUG>	 Event: LOOT_READY true", -- [1812]
-			"<04:49:01><DEBUG>	 Event: LOOT_READY true", -- [1813]
-			"<04:49:02><DEBUG>	 Event: LOOT_READY true", -- [1814]
-			"<04:49:23><DEBUG>	 Event: LOOT_READY true", -- [1815]
-			"<04:49:24><DEBUG>	 Event: LOOT_READY true", -- [1816]
-			"<04:49:26><DEBUG>	 Event: LOOT_READY true", -- [1817]
-			"<04:49:26><DEBUG>	 Event: LOOT_READY true", -- [1818]
-			"<04:49:45><DEBUG>	 Event: LOOT_READY true", -- [1819]
-			"<04:49:45><DEBUG>	 Event: LOOT_READY true", -- [1820]
-			"<04:49:52><DEBUG>	 Event: LOOT_READY true", -- [1821]
-			"<04:49:52><DEBUG>	 Event: LOOT_READY true", -- [1822]
-			"<04:50:08><DEBUG>	 Event: LOOT_READY true", -- [1823]
-			"<04:50:08><DEBUG>	 Event: LOOT_READY true", -- [1824]
-			"<04:50:11><DEBUG>	 Event: LOOT_READY true", -- [1825]
-			"<04:50:11><DEBUG>	 Event: LOOT_READY true", -- [1826]
-			"<04:50:49><DEBUG>	 Event: LOOT_READY true", -- [1827]
-			"<04:50:49><DEBUG>	 Event: LOOT_READY true", -- [1828]
-			"<04:51:00><DEBUG>	 Event: LOOT_READY true", -- [1829]
-			"<04:51:00><DEBUG>	 Event: LOOT_READY true", -- [1830]
-			"<04:51:09><DEBUG>	 Event: LOOT_READY true", -- [1831]
-			"<04:51:09><DEBUG>	 Event: LOOT_READY true", -- [1832]
-			"<04:51:12><DEBUG>	 Event: LOOT_READY true", -- [1833]
-			"<04:51:12><DEBUG>	 Event: LOOT_READY true", -- [1834]
-			"<04:51:21><DEBUG>	 Event: LOOT_READY true", -- [1835]
-			"<04:51:21><DEBUG>	 Event: LOOT_READY true", -- [1836]
-			"<04:51:39><DEBUG>	 Event: LOOT_READY true", -- [1837]
-			"<04:51:39><DEBUG>	 Event: LOOT_READY true", -- [1838]
-			"<04:51:41><DEBUG>	 Event: LOOT_READY true", -- [1839]
-			"<04:51:41><DEBUG>	 Event: LOOT_READY true", -- [1840]
-			"<04:51:44><DEBUG>	 Event: LOOT_READY true", -- [1841]
-			"<04:51:44><DEBUG>	 Event: LOOT_READY true", -- [1842]
-			"<04:51:57><DEBUG>	 Event: LOOT_READY true", -- [1843]
-			"<04:51:57><DEBUG>	 Event: LOOT_READY true", -- [1844]
-			"<04:52:03><DEBUG>	 Event: LOOT_READY true", -- [1845]
-			"<04:52:03><DEBUG>	 Event: LOOT_READY true", -- [1846]
-			"<04:52:16><DEBUG>	 Event: LOOT_READY true", -- [1847]
-			"<04:52:17><DEBUG>	 Event: LOOT_READY true", -- [1848]
-			"<04:52:22><DEBUG>	 Event: LOOT_READY true", -- [1849]
-			"<04:52:22><DEBUG>	 Event: LOOT_READY true", -- [1850]
-			"<04:55:01><DEBUG>	 Event: LOOT_READY true", -- [1851]
-			"<04:55:01><DEBUG>	 Event: LOOT_READY true", -- [1852]
-			"<04:55:53><DEBUG>	 Event: LOOT_READY true", -- [1853]
-			"<04:55:53><DEBUG>	 Event: LOOT_READY true", -- [1854]
-			"<04:57:08><DEBUG>	 Event: LOOT_READY true", -- [1855]
-			"<04:57:09><DEBUG>	 Event: LOOT_READY true", -- [1856]
-			"<04:58:03><DEBUG>	 Event: LOOT_READY true", -- [1857]
-			"<04:58:03><DEBUG>	 Event: LOOT_READY true", -- [1858]
-			"<04:58:46><DEBUG>	 Event: LOOT_READY true", -- [1859]
-			"<04:58:46><DEBUG>	 Event: LOOT_READY true", -- [1860]
-			"<04:59:14><DEBUG>	 Event: LOOT_READY true", -- [1861]
-			"<04:59:15><DEBUG>	 Event: LOOT_READY true", -- [1862]
-			"<05:00:16><DEBUG>	 Event: LOOT_READY true", -- [1863]
-			"<05:00:16><DEBUG>	 Event: LOOT_READY true", -- [1864]
-			"<05:00:50><DEBUG>	 Event: LOOT_READY true", -- [1865]
-			"<05:00:50><DEBUG>	 Event: LOOT_READY true", -- [1866]
-			"<05:02:03><DEBUG>	 Event: LOOT_READY true", -- [1867]
-			"<05:02:04><DEBUG>	 Event: LOOT_READY true", -- [1868]
-			"<05:02:24><DEBUG>	 Event: LOOT_READY true", -- [1869]
-			"<05:02:25><DEBUG>	 Event: LOOT_READY true", -- [1870]
-			"<05:03:07><DEBUG>	 Event: LOOT_READY true", -- [1871]
-			"<05:03:08><DEBUG>	 Event: LOOT_READY true", -- [1872]
-			"<05:04:11><DEBUG>	 Event: LOOT_READY true", -- [1873]
-			"<05:04:11><DEBUG>	 Event: LOOT_READY true", -- [1874]
-			"<05:05:17><DEBUG>	 Event: LOOT_READY true", -- [1875]
-			"<05:05:17><DEBUG>	 Event: LOOT_READY true", -- [1876]
-			"<05:06:56><DEBUG>	 Event: LOOT_READY true", -- [1877]
-			"<05:06:56><DEBUG>	 Event: LOOT_READY true", -- [1878]
-			"<05:07:19><DEBUG>	 Event: LOOT_READY true", -- [1879]
-			"<05:07:19><DEBUG>	 Event: LOOT_READY true", -- [1880]
-			"<05:08:30><DEBUG>	 Event: LOOT_READY true", -- [1881]
-			"<05:08:30><DEBUG>	 Event: LOOT_READY true", -- [1882]
-			"<05:09:10><DEBUG>	 Event: LOOT_READY true", -- [1883]
-			"<05:09:10><DEBUG>	 Event: LOOT_READY true", -- [1884]
-			"<05:09:30><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1885]
-			"<05:09:32><DEBUG>	 GetML()", -- [1886]
-			"<05:19:51><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1887]
-			"<05:19:53><DEBUG>	 GetML()", -- [1888]
-			"<05:20:49><DEBUG>	 Event: LOOT_READY true", -- [1889]
-			"<05:20:49><DEBUG>	 Event: LOOT_READY true", -- [1890]
-			"<05:27:47><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1891]
-			"<05:27:49><DEBUG>	 GetML()", -- [1892]
-			"<05:27:49><Data.Player>	 CreatePlayer Player-3391-0B0F41F5", -- [1893]
-			"<05:27:49><DEBUG>	 Resetting council as we have a new ML!", -- [1894]
-			"<05:27:49><INFO>	 MasterLooter =  Mkenzie-Silvermoon", -- [1895]
-			"<05:28:04><DEBUG>	 Timer MLdb_check passed", -- [1896]
-			"<05:28:05><Comm>	 ^1^Sxrealm^T^N1^SMkenzie-Silvermoon^N2^SMLdb_request^t^^ PARTY ниэтта-Гордунни", -- [1897]
-			"<05:28:05><Comm>	 ^1^Sxrealm^T^N1^SMkenzie-Silvermoon^N2^Scouncil_request^t^^ PARTY ниэтта-Гордунни", -- [1898]
-			"<05:28:21><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1899]
-			"<05:28:22><DEBUG>	 GetML()", -- [1900]
-			"<05:28:32><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1901]
-			"<05:28:34><DEBUG>	 GetML()", -- [1902]
-			"<05:32:02><DEBUG>	 Event: RAID_INSTANCE_WELCOME Туманы Тирна Скитта (Эпохальный) 444477 0 0", -- [1903]
-			"<05:32:04><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1904]
-			"<05:32:05><DEBUG>	 GetML()", -- [1905]
-			"<05:40:03><DEBUG>	 Event: ENCOUNTER_START 2397 Ингра Малох 8 5", -- [1906]
-			"<05:40:03><INFO>	 UpdatePlayersData()", -- [1907]
-			"<05:41:27><DEBUG>	 Event: ENCOUNTER_END 2397 Ингра Малох 8 5 1", -- [1908]
-			"<05:47:32><DEBUG>	 Event: ENCOUNTER_START 2392 Призывательница Туманов 8 5", -- [1909]
-			"<05:47:32><INFO>	 UpdatePlayersData()", -- [1910]
-			"<05:49:49><DEBUG>	 Event: ENCOUNTER_END 2392 Призывательница Туманов 8 5 1", -- [1911]
-			"<05:54:24><DEBUG>	 Event: ENCOUNTER_START 2393 Тред'ова 8 5", -- [1912]
-			"<05:54:24><INFO>	 UpdatePlayersData()", -- [1913]
-			"<05:55:48><DEBUG>	 Event: ENCOUNTER_END 2393 Тред'ова 8 5 1", -- [1914]
-			"<05:57:20><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183491 |cffa335ee|Hitem:183491::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Готовность ко всему]|h|r 1 Mkenzie-Silvermoon DRUID", -- [1915]
-			"<05:57:20><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178708 |cffa335ee|Hitem:178708::::::::60:66::16:6:7210:6652:6917:1501:5861:6646:1:28:1279:::|h[Освобожденный подменыш]|h|r 1 Mkenzie-Silvermoon DRUID", -- [1916]
-			"<05:57:20><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183229 |cffff8000|Hitem:183229::::::::60:66::16::1:28:1279:::|h[Воспоминание о старом ловце снов]|h|r 1 Mkenzie-Silvermoon DRUID", -- [1917]
-			"<05:57:31><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178707 |cffa335ee|Hitem:178707::::::::60:66::16:6:7210:6652:7193:1501:5861:6646:1:28:1279:::|h[Подвеска следоплета]|h|r 1 Bigbossysl-Silvermoon HUNTER", -- [1918]
-			"<05:57:31><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 182305 |cff0070dd|Hitem:182305::::::::60:66::16::1:28:1279:::|h[Корона осенней флоры]|h|r 1 Bigbossysl-Silvermoon HUNTER", -- [1919]
-			"<05:57:35><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 182142 |cffa335ee|Hitem:182142::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Объятия Земли]|h|r 1 Strongman-Kilrogg SHAMAN", -- [1920]
-			"<05:58:00><DEBUG>	 Event: LOOT_READY true", -- [1921]
-			"<05:58:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4240-2290-3811-354972-00001CC213 532596", -- [1922]
-			"<05:58:00><DEBUG>	 Event: LOOT_READY true", -- [1923]
-			"<05:58:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4240-2290-3811-354972-00001CC213 532596", -- [1924]
-			"<05:58:00><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1925]
-			"<05:58:01><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 184381 |cff0070dd|Hitem:184381::::::::60:66:::::::|h[Астральное подкорье]|h|r 1 Ниэтта PALADIN", -- [1926]
-			"<05:58:01><DEBUG>	 Event: LOOT_CLOSED", -- [1927]
-			"<05:58:01><DEBUG>	 Event: LOOT_CLOSED", -- [1928]
-			"<05:58:01><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 180653 |cffa335ee|Hitem:180653::::::::60:66::::7:28:1279:17:376:18:17:19:10:20:122:21:124:22:121:::|h[Эпохальный ключ]|h|r 1 Ниэтта PALADIN", -- [1929]
-			"<05:58:01><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY ниэтта-Гордунни", -- [1930]
-			"<05:58:01><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY ниэтта-Гордунни", -- [1931]
-			"<05:58:39><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1932]
-			"<05:58:41><DEBUG>	 GetML()", -- [1933]
-			"<05:59:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1934]
-			"<05:59:59><DEBUG>	 GetML()", -- [1935]
-			"<06:07:22><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1936]
-			"<06:07:23><DEBUG>	 GetML()", -- [1937]
-			"<06:07:30><DEBUG>	 Event: RAID_INSTANCE_WELCOME Смертельная тризна (Эпохальный) 442349 0 0", -- [1938]
-			"<06:07:31><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1939]
-			"<06:07:32><DEBUG>	 GetML()", -- [1940]
-			"<06:15:07><DEBUG>	 Event: ENCOUNTER_START 2387 Чумокост 8 5", -- [1941]
-			"<06:15:07><INFO>	 UpdatePlayersData()", -- [1942]
-			"<06:16:17><DEBUG>	 Event: ENCOUNTER_END 2387 Чумокост 8 5 1", -- [1943]
-			"<06:24:33><DEBUG>	 Event: ENCOUNTER_START 2388 Амарт Жнец 8 5", -- [1944]
-			"<06:24:33><INFO>	 UpdatePlayersData()", -- [1945]
-			"<06:26:19><DEBUG>	 Event: ENCOUNTER_END 2388 Амарт Жнец 8 5 1", -- [1946]
-			"<06:36:34><DEBUG>	 Event: ENCOUNTER_START 2389 Трупошов 8 5", -- [1947]
-			"<06:36:34><INFO>	 UpdatePlayersData()", -- [1948]
-			"<06:37:59><DEBUG>	 Event: ENCOUNTER_END 2389 Трупошов 8 5 1", -- [1949]
-			"<06:38:19><DEBUG>	 Event: ENCOUNTER_START 2390 Налтор Криомант 8 5", -- [1950]
-			"<06:38:19><INFO>	 UpdatePlayersData()", -- [1951]
-			"<06:40:43><DEBUG>	 Event: ENCOUNTER_END 2390 Налтор Криомант 8 5 1", -- [1952]
-			"<06:40:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 183481 |cffa335ee|Hitem:183481::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Неутомимый охотник]|h|r 1 Mkenzie-Silvermoon DRUID", -- [1953]
-			"<06:40:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 178783 |cffa335ee|Hitem:178783::::::::60:66::16:5:7211:41:1501:5865:6646:1:28:1279:::|h[Вытягивающий осколок филактерии]|h|r 1 Mkenzie-Silvermoon DRUID", -- [1954]
-			"<06:40:52><DEBUG>	 Event: LOOT_READY true", -- [1955]
-			"<06:40:52><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-1631-2286-2333-354990-00001CCC4D 524116", -- [1956]
-			"<06:40:53><DEBUG>	 Event: LOOT_READY true", -- [1957]
-			"<06:40:53><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-1631-2286-2333-354990-00001CCC4D 524116", -- [1958]
-			"<06:40:53><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1959]
-			"<06:40:53><DEBUG>	 Event: LOOT_CLOSED", -- [1960]
-			"<06:40:53><DEBUG>	 Event: LOOT_CLOSED", -- [1961]
-			"<06:40:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 184767 |cff0070dd|Hitem:184767::::::::60:66:::::::|h[Ручное зеркало души]|h|r 1 Ниэтта PALADIN", -- [1962]
-			"<06:40:53><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY ниэтта-Гордунни", -- [1963]
-			"<06:40:53><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY ниэтта-Гордунни", -- [1964]
-			"<06:40:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 178741 |cffa335ee|Hitem:178741::::::::60:66::16:6:7211:6652:7193:1501:5865:6646:1:28:1279:::|h[Манжеты восставшего чудовища]|h|r 1 Аксельроод-ВечнаяПесня MONK", -- [1965]
-			"<06:40:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 181700 |cffa335ee|Hitem:181700::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Обжигающий отвар]|h|r 1 Аксельроод-ВечнаяПесня MONK", -- [1966]
-			"<06:42:19><DEBUG>	 Event: GROUP_LEFT 1 Party-3391-1-000053879020", -- [1967]
-			"<06:42:19><DEBUG>	 GetML()", -- [1968]
-			"<06:42:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1969]
-			"<06:42:52><DEBUG>	 GetML()", -- [1970]
-			"<06:44:38><DEBUG>	 Event: LOOT_READY true", -- [1971]
-			"<06:44:38><DEBUG>	 Event: LOOT_READY true", -- [1972]
-			"<06:45:44><DEBUG>	 Event: LOOT_READY true", -- [1973]
-			"<06:45:45><DEBUG>	 Event: LOOT_READY true", -- [1974]
-			"<06:45:58><DEBUG>	 Event: LOOT_READY true", -- [1975]
-			"<06:45:58><DEBUG>	 Event: LOOT_READY true", -- [1976]
-			"<06:50:37><DEBUG>	 Event: LOOT_READY true", -- [1977]
-			"<06:50:37><DEBUG>	 Event: LOOT_READY true", -- [1978]
-			"<06:52:01><DEBUG>	 Event: LOOT_READY true", -- [1979]
-			"<06:52:01><DEBUG>	 Event: LOOT_READY true", -- [1980]
-			"<06:52:24><DEBUG>	 Event: LOOT_READY true", -- [1981]
-			"<06:52:24><DEBUG>	 Event: LOOT_READY true", -- [1982]
-			"<06:52:46><DEBUG>	 Event: LOOT_READY true", -- [1983]
-			"<06:52:46><DEBUG>	 Event: LOOT_READY true", -- [1984]
-			"<06:54:07><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1985]
-			"<06:54:08><DEBUG>	 GetML()", -- [1986]
-			"<06:55:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1987]
-			"<06:55:17><DEBUG>	 GetML()", -- [1988]
-			"<06:55:27><DEBUG>	 Event: LOOT_READY true", -- [1989]
-			"<06:55:27><DEBUG>	 Event: LOOT_READY true", -- [1990]
-			"<06:55:32><DEBUG>	 Event: LOOT_READY true", -- [1991]
-			"<06:55:32><DEBUG>	 Event: LOOT_READY true", -- [1992]
-			"<06:55:33><DEBUG>	 Event: LOOT_READY true", -- [1993]
-			"<06:55:33><DEBUG>	 Event: LOOT_READY true", -- [1994]
-			"<06:55:35><DEBUG>	 Event: LOOT_READY true", -- [1995]
-			"<06:55:35><DEBUG>	 Event: LOOT_READY true", -- [1996]
-			"<06:55:38><DEBUG>	 Event: LOOT_READY true", -- [1997]
-			"<06:55:38><DEBUG>	 Event: LOOT_READY true", -- [1998]
-			"<06:55:55><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1999]
-			"<06:55:57><DEBUG>	 GetML()", -- [2000]
+			"<06:06:15><DEBUG>	 Event: LOOT_CLOSED", -- [1]
+			"<06:06:15><Comm>	 ^1^Sl^T^N1^S58803^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [2]
+			"<06:06:31><DEBUG>	 Event: ENCOUNTER_START 1306 Тажань Чжу 2 5", -- [3]
+			"<06:06:31><INFO>	 UpdatePlayersData()", -- [4]
+			"<06:07:03><DEBUG>	 Event: ENCOUNTER_END 1306 Тажань Чжу 2 5 1", -- [5]
+			"<06:07:11><DEBUG>	 Event: LOOT_READY true", -- [6]
+			"<06:07:11><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4243-959-28383-213888-00002DE7E8 193096", -- [7]
+			"<06:07:11><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [8]
+			"<06:07:11><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::|h[Кольцо злобы]|h|r 3 1 GameObject-0-4243-959-28383-213888-00002DE7E8 1", -- [9]
+			"<06:07:12><DEBUG>	 Event: LOOT_READY true", -- [10]
+			"<06:07:12><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4243-959-28383-213888-00002DE7E8 193096", -- [11]
+			"<06:07:12><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [12]
+			"<06:07:12><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::|h[Кольцо злобы]|h|r 3 1 GameObject-0-4243-959-28383-213888-00002DE7E8 1", -- [13]
+			"<06:07:12><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [14]
+			"<06:07:12><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1306 143986 |cff0070dd|Hitem:143986::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Прочные ботинки взрывоступа]|h|r 1 Развеед-ВечнаяПесня HUNTER", -- [15]
+			"<06:07:12><DEBUG>	 OnLootSlotCleared() 3 |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::|h[Кольцо злобы]|h|r 3", -- [16]
+			"<06:07:12><DEBUG>	 Event: LOOT_CLOSED", -- [17]
+			"<06:07:12><DEBUG>	 Event: LOOT_CLOSED", -- [18]
+			"<06:07:12><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1306 144133 |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Кольцо злобы]|h|r 1 Дэлери DEMONHUNTER", -- [19]
+			"<06:07:13><Comm>	 ^1^Sl^T^N1^S213888^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [20]
+			"<06:07:13><Comm>	 ^1^Sl^T^N1^S213888^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [21]
+			"<06:07:14><DEBUG>	 Storage:New |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::|h[Кольцо злобы]|h|r temp", -- [22]
+			"<06:07:14><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::||h[Кольцо злобы]||h||r 5", -- [23]
+			"<06:07:14><DEBUG>	 Found: nil nil nil", -- [24]
+			"<06:07:14><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1306 143776 |cff0070dd|Hitem:143776::::::::60:581::::1:28:265:::|h[Затуманенная искаженная временем монета]|h|r 1 Червяка-ЧерныйШрам PRIEST", -- [25]
+			"<06:07:15><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::||h[Кольцо злобы]||h||r 5", -- [26]
+			"<06:07:15><DEBUG>	 Found: nil nil nil", -- [27]
+			"<06:07:16><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::||h[Кольцо злобы]||h||r 5", -- [28]
+			"<06:07:16><DEBUG>	 Found: nil nil nil", -- [29]
+			"<06:07:17><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::||h[Кольцо злобы]||h||r 5", -- [30]
+			"<06:07:17><DEBUG>	 Found: nil nil nil", -- [31]
+			"<06:07:17><ERROR>	 UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:1:28:181:::|h[Кольцо злобы]|h|r not found in bags", -- [32]
+			"<06:07:30><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-00005694CA45", -- [33]
+			"<06:07:30><DEBUG>	 GetML()", -- [34]
+			"<06:07:37><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [35]
+			"<06:07:39><DEBUG>	 GetML()", -- [36]
+			"<06:52:48><DEBUG>	 Event: LOOT_READY true", -- [37]
+			"<06:52:49><DEBUG>	 Event: LOOT_READY true", -- [38]
+			"<06:52:58><DEBUG>	 Event: LOOT_READY true", -- [39]
+			"<06:52:59><DEBUG>	 Event: LOOT_READY true", -- [40]
+			"<06:53:42><DEBUG>	 Event: LOOT_READY true", -- [41]
+			"<06:53:43><DEBUG>	 Event: LOOT_READY true", -- [42]
+			"<06:54:03><DEBUG>	 Event: LOOT_READY true", -- [43]
+			"<06:54:03><DEBUG>	 Event: LOOT_READY true", -- [44]
+			"<06:54:21><DEBUG>	 Event: LOOT_READY true", -- [45]
+			"<06:54:22><DEBUG>	 Event: LOOT_READY true", -- [46]
+			"<06:54:39><DEBUG>	 Event: LOOT_READY true", -- [47]
+			"<06:54:40><DEBUG>	 Event: LOOT_READY true", -- [48]
+			"<06:55:09><DEBUG>	 Event: LOOT_READY true", -- [49]
+			"<06:55:09><DEBUG>	 Event: LOOT_READY true", -- [50]
+			"<06:57:09><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [51]
+			"<06:57:10><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [52]
+			"<06:57:11><DEBUG>	 GetML()", -- [53]
+			"<06:57:12><DEBUG>	 GetML()", -- [54]
+			"<06:59:53><DEBUG>	 Event: LOOT_READY true", -- [55]
+			"<06:59:53><DEBUG>	 Event: LOOT_READY true", -- [56]
+			"<06:59:53><DEBUG>	 Event: LOOT_CLOSED", -- [57]
+			"<06:59:57><DEBUG>	 Event: LOOT_READY true", -- [58]
+			"<06:59:57><DEBUG>	 Event: LOOT_READY true", -- [59]
+			"<06:59:57><DEBUG>	 Event: LOOT_CLOSED", -- [60]
+			"<07:00:15><DEBUG>	 Event: LOOT_READY true", -- [61]
+			"<07:00:15><DEBUG>	 Event: LOOT_READY true", -- [62]
+			"<07:00:16><DEBUG>	 Event: LOOT_CLOSED", -- [63]
+			"<07:00:21><DEBUG>	 Event: LOOT_READY true", -- [64]
+			"<07:00:21><DEBUG>	 Event: LOOT_READY true", -- [65]
+			"<07:00:21><DEBUG>	 Event: LOOT_CLOSED", -- [66]
+			"<07:00:21><DEBUG>	 Event: LOOT_CLOSED", -- [67]
+			"<07:04:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [68]
+			"<07:04:18><DEBUG>	 Event: GROUP_LEFT 2 Party-1929-1-00003E1C0C37", -- [69]
+			"<07:04:18><DEBUG>	 GetML()", -- [70]
+			"<07:04:19><DEBUG>	 GetML()", -- [71]
+			"<07:08:29><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [72]
+			"<07:08:30><DEBUG>	 GetML()", -- [73]
+			"<07:10:32><DEBUG>	 Event: LOOT_READY true", -- [74]
+			"<07:10:32><DEBUG>	 Event: LOOT_READY true", -- [75]
+			"<07:11:08><DEBUG>	 Event: LOOT_READY true", -- [76]
+			"<07:11:08><DEBUG>	 Event: LOOT_READY true", -- [77]
+			"<07:11:08><DEBUG>	 Event: LOOT_READY true", -- [78]
+			"<07:11:25><DEBUG>	 Event: LOOT_READY true", -- [79]
+			"<07:11:25><DEBUG>	 Event: LOOT_READY true", -- [80]
+			"<07:12:40><DEBUG>	 Event: LOOT_READY true", -- [81]
+			"<07:12:41><DEBUG>	 Event: LOOT_READY true", -- [82]
+			"<07:12:57><DEBUG>	 Event: LOOT_READY true", -- [83]
+			"<07:12:57><DEBUG>	 Event: LOOT_READY true", -- [84]
+			"<07:14:13><DEBUG>	 Event: LOOT_READY true", -- [85]
+			"<07:14:14><DEBUG>	 Event: LOOT_READY true", -- [86]
+			"<07:19:04><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [87]
+			"<07:19:06><DEBUG>	 GetML()", -- [88]
+			"<07:19:06><Data.Player>	 CreatePlayer Player-1923-0EDA3817", -- [89]
+			"<07:19:06><DEBUG>	 Resetting council as we have a new ML!", -- [90]
+			"<07:19:06><INFO>	 MasterLooter =  питучх-Ясеневыйлес", -- [91]
+			"<07:19:21><DEBUG>	 Timer MLdb_check passed", -- [92]
+			"<07:19:21><Comm>	 ^1^Sxrealm^T^N1^Sпитучх-Ясеневыйлес^N2^SMLdb_request^t^^ PARTY дэлери-Борейскаятундра", -- [93]
+			"<07:19:21><Comm>	 ^1^Sxrealm^T^N1^Sпитучх-Ясеневыйлес^N2^Scouncil_request^t^^ PARTY дэлери-Борейскаятундра", -- [94]
+			"<07:19:56><DEBUG>	 Event: RAID_INSTANCE_WELCOME Шпили Перерождения (Эпохальный) 524403 0 0", -- [95]
+			"<07:19:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [96]
+			"<07:19:59><DEBUG>	 GetML()", -- [97]
+			"<07:21:54><DEBUG>	 Event: LOOT_READY true", -- [98]
+			"<07:21:54><DEBUG>	 Event: LOOT_READY true", -- [99]
+			"<07:21:54><DEBUG>	 Event: LOOT_CLOSED", -- [100]
+			"<07:21:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 172097 |cff0070dd|Hitem:172097::::::::60:581:::::::|h[Толстая загрубевшая шкура]|h|r 1 Дэлери DEMONHUNTER", -- [101]
+			"<07:22:38><DEBUG>	 Event: LOOT_READY true", -- [102]
+			"<07:22:38><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-163520-0000ADF630 62584", -- [103]
+			"<07:22:39><DEBUG>	 Event: LOOT_READY true", -- [104]
+			"<07:22:39><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-163520-0000ADF630 62584", -- [105]
+			"<07:22:39><DEBUG>	 Event: LOOT_CLOSED", -- [106]
+			"<07:22:39><Comm>	 ^1^Sl^T^N1^S163520^t^^ PARTY дэлери-Борейскаятундра", -- [107]
+			"<07:23:18><DEBUG>	 Event: LOOT_CLOSED", -- [108]
+			"<07:23:18><DEBUG>	 Event: LOOT_READY true", -- [109]
+			"<07:23:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-168420-0000ADF630 26861 Creature-0-3151-2285-30341-168418-00002DF62F 19940", -- [110]
+			"<07:23:18><DEBUG>	 Adding to self.lootSlotInfo 3 |cff1eff00|Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::|h[Облегченный молот со знаком рассвета]|h|r 2 1 Creature-0-3151-2285-30341-163503-00062DF630 1", -- [111]
+			"<07:23:18><Comm>	 ^1^Sl^T^N1^S163520^t^^ PARTY дэлери-Борейскаятундра", -- [112]
+			"<07:23:18><DEBUG>	 Event: LOOT_READY true", -- [113]
+			"<07:23:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-168420-0000ADF630 26861 Creature-0-3151-2285-30341-168418-00002DF62F 19940", -- [114]
+			"<07:23:18><DEBUG>	 Adding to self.lootSlotInfo 3 |cff1eff00|Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::|h[Облегченный молот со знаком рассвета]|h|r 2 1 Creature-0-3151-2285-30341-163503-00062DF630 1", -- [115]
+			"<07:23:18><DEBUG>	 Event: LOOT_CLOSED", -- [116]
+			"<07:23:18><DEBUG>	 OnLootSlotCleared() 3 |cff1eff00|Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::|h[Облегченный молот со знаком рассвета]|h|r 2", -- [117]
+			"<07:23:18><DEBUG>	 Event: LOOT_CLOSED", -- [118]
+			"<07:23:18><Comm>	 ^1^Sl^T^N1^S163503^t^^ PARTY дэлери-Борейскаятундра", -- [119]
+			"<07:23:20><DEBUG>	 Storage:New |cff1eff00|Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::|h[Облегченный молот со знаком рассвета]|h|r temp", -- [120]
+			"<07:23:20><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::||h[Облегченный молот со знаком рассвета]||h||r 5", -- [121]
+			"<07:23:20><DEBUG>	 Found: nil nil nil", -- [122]
+			"<07:23:21><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::||h[Облегченный молот со знаком рассвета]||h||r 5", -- [123]
+			"<07:23:21><DEBUG>	 Found: nil nil nil", -- [124]
+			"<07:23:22><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::||h[Облегченный молот со знаком рассвета]||h||r 5", -- [125]
+			"<07:23:22><DEBUG>	 Found: nil nil nil", -- [126]
+			"<07:23:23><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::||h[Облегченный молот со знаком рассвета]||h||r 5", -- [127]
+			"<07:23:23><DEBUG>	 Found: nil nil nil", -- [128]
+			"<07:23:23><ERROR>	 UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:176801::::::::60:581::23:3:6908:6652:1705:1:28:749:::|h[Облегченный молот со знаком рассвета]|h|r not found in bags", -- [129]
+			"<07:23:35><DEBUG>	 Event: LOOT_READY true", -- [130]
+			"<07:23:35><DEBUG>	 Event: LOOT_READY true", -- [131]
+			"<07:23:35><DEBUG>	 Event: LOOT_CLOSED", -- [132]
+			"<07:23:42><DEBUG>	 Event: ENCOUNTER_START 2356 \"Вентунакс\" 23 5", -- [133]
+			"<07:23:42><INFO>	 UpdatePlayersData()", -- [134]
+			"<07:24:43><DEBUG>	 Event: ENCOUNTER_END 2356 \"Вентунакс\" 23 5 1", -- [135]
+			"<07:24:46><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2356 180111 |cffa335ee|Hitem:180111::::::::60:581::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Опояска вихря Тьмы]|h|r 1 Питучх-Ясеневыйлес DRUID", -- [136]
+			"<07:24:47><DEBUG>	 Event: LOOT_READY true", -- [137]
+			"<07:24:47><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-162058-00002DF62F 63824", -- [138]
+			"<07:24:47><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::|h[Опояска вихря Тьмы]|h|r 4 1 Creature-0-3151-2285-30341-162058-00002DF62F 1", -- [139]
+			"<07:24:47><DEBUG>	 Event: LOOT_READY true", -- [140]
+			"<07:24:47><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-162058-00002DF62F 63824", -- [141]
+			"<07:24:47><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::|h[Опояска вихря Тьмы]|h|r 4 1 Creature-0-3151-2285-30341-162058-00002DF62F 1", -- [142]
+			"<07:24:48><DEBUG>	 Event: LOOT_CLOSED", -- [143]
+			"<07:24:48><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::|h[Опояска вихря Тьмы]|h|r 4", -- [144]
+			"<07:24:48><DEBUG>	 Event: LOOT_CLOSED", -- [145]
+			"<07:24:48><Comm>	 ^1^Sl^T^N1^S162058^t^^ PARTY дэлери-Борейскаятундра", -- [146]
+			"<07:24:48><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2356 180111 |cffa335ee|Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::|h[Опояска вихря Тьмы]|h|r 1 Дэлери DEMONHUNTER", -- [147]
+			"<07:24:50><DEBUG>	 Storage:New |cffa335ee|Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::|h[Опояска вихря Тьмы]|h|r temp", -- [148]
+			"<07:24:50><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::||h[Опояска вихря Тьмы]||h||r 5", -- [149]
+			"<07:24:50><DEBUG>	 Found item at 2 4", -- [150]
+			"<07:24:50><DEBUG>	 Found: 2 4 0", -- [151]
+			"<07:24:51><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::||h[Опояска вихря Тьмы]||h||r 5", -- [152]
+			"<07:24:51><DEBUG>	 Found item at 2 4", -- [153]
+			"<07:24:51><DEBUG>	 Found: 2 4 0", -- [154]
+			"<07:24:51><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:180111::::::::60:581::23:5:6807:40:7194:1498:6646:1:28:749:::|h[Опояска~`вихря~`Тьмы]|h|r^N2^S162058^t^^ PARTY дэлери-Борейскаятундра", -- [155]
+			"<07:27:24><DEBUG>	 Event: LOOT_READY true", -- [156]
+			"<07:27:24><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-3151-2285-30341-168318-0000ADF630 1", -- [157]
+			"<07:27:24><DEBUG>	 Event: LOOT_READY true", -- [158]
+			"<07:27:24><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-3151-2285-30341-168318-0000ADF630 1", -- [159]
+			"<07:27:24><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0", -- [160]
+			"<07:27:24><DEBUG>	 Event: LOOT_CLOSED", -- [161]
+			"<07:27:24><DEBUG>	 Event: LOOT_CLOSED", -- [162]
+			"<07:27:24><Comm>	 ^1^Sl^T^N1^S168318^t^^ PARTY дэлери-Борейскаятундра", -- [163]
+			"<07:27:24><Comm>	 ^1^Sl^T^N1^S168318^t^^ PARTY дэлери-Борейскаятундра", -- [164]
+			"<07:28:07><DEBUG>	 Event: ENCOUNTER_START 2358 \"Орифрион\" 23 5", -- [165]
+			"<07:28:07><INFO>	 UpdatePlayersData()", -- [166]
+			"<07:29:48><DEBUG>	 Event: ENCOUNTER_END 2358 \"Орифрион\" 23 5 1", -- [167]
+			"<07:29:50><DEBUG>	 Event: LOOT_READY true", -- [168]
+			"<07:29:50><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-162060-00002DF62F 61089", -- [169]
+			"<07:29:50><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Боевая маска жестокого импульса]|h|r 4 1 Creature-0-3151-2285-30341-162060-00002DF62F 1", -- [170]
+			"<07:29:50><DEBUG>	 Event: LOOT_READY true", -- [171]
+			"<07:29:50><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-162060-00002DF62F 61089", -- [172]
+			"<07:29:50><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Боевая маска жестокого импульса]|h|r 4 1 Creature-0-3151-2285-30341-162060-00002DF62F 1", -- [173]
+			"<07:29:50><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [174]
+			"<07:29:51><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Боевая маска жестокого импульса]|h|r 4", -- [175]
+			"<07:29:51><DEBUG>	 Event: LOOT_CLOSED", -- [176]
+			"<07:29:51><DEBUG>	 Event: LOOT_CLOSED", -- [177]
+			"<07:29:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2358 180106 |cffa335ee|Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Боевая маска жестокого импульса]|h|r 1 Дэлери DEMONHUNTER", -- [178]
+			"<07:29:51><Comm>	 ^1^Sl^T^N1^S162060^t^^ PARTY дэлери-Борейскаятундра", -- [179]
+			"<07:29:51><Comm>	 ^1^Sl^T^N1^S162060^t^^ PARTY дэлери-Борейскаятундра", -- [180]
+			"<07:29:53><DEBUG>	 Storage:New |cffa335ee|Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Боевая маска жестокого импульса]|h|r temp", -- [181]
+			"<07:29:53><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::||h[Боевая маска жестокого импульса]||h||r 5", -- [182]
+			"<07:29:53><DEBUG>	 Found item at 2 5", -- [183]
+			"<07:29:53><DEBUG>	 Found: 2 5 0", -- [184]
+			"<07:29:54><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::||h[Боевая маска жестокого импульса]||h||r 5", -- [185]
+			"<07:29:54><DEBUG>	 Found item at 2 5", -- [186]
+			"<07:29:54><DEBUG>	 Found: 2 5 0", -- [187]
+			"<07:29:54><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:180106::::::::60:581::23:5:6807:6652:6935:1498:6646:1:28:749:::|h[Боевая~`маска~`жестокого~`импульса]|h|r^N2^S162060^t^^ PARTY дэлери-Борейскаятундра", -- [188]
+			"<07:33:42><DEBUG>	 Event: ENCOUNTER_START 2359 Девия, идеал Верности 23 5", -- [189]
+			"<07:33:42><INFO>	 UpdatePlayersData()", -- [190]
+			"<07:36:57><DEBUG>	 Event: ENCOUNTER_END 2359 Девия, идеал Верности 23 5 0", -- [191]
+			"<07:37:56><DEBUG>	 Event: ENCOUNTER_START 2359 Девия, идеал Верности 23 5", -- [192]
+			"<07:37:56><INFO>	 UpdatePlayersData()", -- [193]
+			"<07:40:59><DEBUG>	 Event: ENCOUNTER_END 2359 Девия, идеал Верности 23 5 1", -- [194]
+			"<07:41:02><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 183488 |cffa335ee|Hitem:183488::::::::60:581::23:2:1511:7245:2:28:749:37:4:::|h[Беспрестанный рост]|h|r 1 Питучх-Ясеневыйлес DRUID", -- [195]
+			"<07:41:02><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 183054 |cff0070dd|Hitem:183054::::::::60:581::::1:28:749:::|h[Таинственное зеркало души]|h|r 1 Питучх-Ясеневыйлес DRUID", -- [196]
+			"<07:41:04><DEBUG>	 Event: LOOT_READY true", -- [197]
+			"<07:41:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-162061-00002DFD1C 133623", -- [198]
+			"<07:41:04><DEBUG>	 Event: LOOT_READY true", -- [199]
+			"<07:41:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3151-2285-30341-162061-00002DFD1C 133623", -- [200]
+			"<07:41:04><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [201]
+			"<07:41:05><DEBUG>	 Event: LOOT_CLOSED", -- [202]
+			"<07:41:05><DEBUG>	 Event: LOOT_CLOSED", -- [203]
+			"<07:41:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 183054 |cff0070dd|Hitem:183054::::::::60:581::::1:28:749:::|h[Таинственное зеркало души]|h|r 1 Дэлери DEMONHUNTER", -- [204]
+			"<07:41:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180653 |cffa335ee|Hitem:180653::::::::60:581::::4:28:749:17:379:18:2:19:10:::|h[Эпохальный ключ]|h|r 1 Амилинари-Гордунни SHAMAN", -- [205]
+			"<07:41:05><Comm>	 ^1^Sl^T^N1^S162061^t^^ PARTY дэлери-Борейскаятундра", -- [206]
+			"<07:41:05><Comm>	 ^1^Sl^T^N1^S162061^t^^ PARTY дэлери-Борейскаятундра", -- [207]
+			"<07:41:11><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [208]
+			"<07:41:13><DEBUG>	 GetML()", -- [209]
+			"<07:41:13><Data.Player>	 CreatePlayer Player-1602-0A1CA42F", -- [210]
+			"<07:41:13><DEBUG>	 Resetting council as we have a new ML!", -- [211]
+			"<07:41:13><INFO>	 MasterLooter =  амилинари-Гордунни", -- [212]
+			"<07:41:18><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180123 |cffa335ee|Hitem:180123::::::::60:581::23:4:6807:6652:1498:6646:1:28:749:::|h[Пелерина напрасной верности]|h|r 1 Phantomlørd-DunModr PALADIN", -- [213]
+			"<07:41:18><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180653 |cffa335ee|Hitem:180653::::::::60:581::::4:28:749:17:379:18:3:19:10:::|h[Эпохальный ключ]|h|r 1 Phantomlørd-DunModr PALADIN", -- [214]
+			"<07:41:20><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180123 |cffa335ee|Hitem:180123::::::::60:581::23:4:6807:6652:1498:6646:1:28:749:::|h[Пелерина напрасной верности]|h|r 1 Sigourneyw-Stormrage DRUID", -- [215]
+			"<07:41:20><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180653 |cffa335ee|Hitem:180653::::::::60:581::::4:28:749:17:382:18:2:19:10:::|h[Эпохальный ключ]|h|r 1 Sigourneyw-Stormrage DRUID", -- [216]
+			"<07:41:28><DEBUG>	 Timer MLdb_check passed", -- [217]
+			"<07:41:29><Comm>	 ^1^Sxrealm^T^N1^Sамилинари-Гордунни^N2^SMLdb_request^t^^ PARTY дэлери-Борейскаятундра", -- [218]
+			"<07:41:29><Comm>	 ^1^Sxrealm^T^N1^Sамилинари-Гордунни^N2^Scouncil_request^t^^ PARTY дэлери-Борейскаятундра", -- [219]
+			"<07:41:40><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [220]
+			"<07:41:42><DEBUG>	 GetML()", -- [221]
+			"<07:41:42><Data.Player>	 CreatePlayer Player-1417-058C8F62", -- [222]
+			"<07:41:42><DEBUG>	 Resetting council as we have a new ML!", -- [223]
+			"<07:41:42><INFO>	 MasterLooter =  Sigourneyw-Stormrage", -- [224]
+			"<07:41:57><DEBUG>	 Timer MLdb_check passed", -- [225]
+			"<07:41:57><Comm>	 ^1^Sxrealm^T^N1^SSigourneyw-Stormrage^N2^SMLdb_request^t^^ PARTY дэлери-Борейскаятундра", -- [226]
+			"<07:41:57><Comm>	 ^1^Sxrealm^T^N1^SSigourneyw-Stormrage^N2^Scouncil_request^t^^ PARTY дэлери-Борейскаятундра", -- [227]
+			"<07:44:26><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [228]
+			"<07:44:28><DEBUG>	 GetML()", -- [229]
+			"<07:44:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [230]
+			"<07:44:47><DEBUG>	 GetML()", -- [231]
+			"<07:45:57><DEBUG>	 TradeUI: Traded item(s) to Sigourneyw-Stormrage", -- [232]
+			"<07:45:57><DEBUG>	 TradeUI:Show() nil", -- [233]
+			"<07:45:57><DEBUG>	 TradeUI:Hide()", -- [234]
+			"<07:46:10><DEBUG>	 Event: GROUP_LEFT 1 Party-1923-1-00003E1C0C16", -- [235]
+			"<07:46:10><DEBUG>	 GetML()", -- [236]
+			"<08:30:30><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [237]
+			"<08:30:32><DEBUG>	 GetML()", -- [238]
+			"<08:30:32><Data.Player>	 CreatePlayer Player-1922-0B53E7F3", -- [239]
+			"<08:30:32><DEBUG>	 Resetting council as we have a new ML!", -- [240]
+			"<08:30:32><INFO>	 MasterLooter =  волхидан-Азурегос", -- [241]
+			"<08:30:47><DEBUG>	 Timer MLdb_check passed", -- [242]
+			"<08:30:47><Comm>	 ^1^Sxrealm^T^N1^Sволхидан-Азурегос^N2^SMLdb_request^t^^ PARTY дэлери-Борейскаятундра", -- [243]
+			"<08:30:47><Comm>	 ^1^Sxrealm^T^N1^Sволхидан-Азурегос^N2^Scouncil_request^t^^ PARTY дэлери-Борейскаятундра", -- [244]
+			"<08:31:53><DEBUG>	 Event: LOOT_READY true", -- [245]
+			"<08:31:53><DEBUG>	 Event: LOOT_READY true", -- [246]
+			"<08:31:53><DEBUG>	 Event: LOOT_READY true", -- [247]
+			"<08:33:43><DEBUG>	 Event: LOOT_READY true", -- [248]
+			"<08:33:43><DEBUG>	 Event: LOOT_READY true", -- [249]
+			"<08:33:52><DEBUG>	 Event: LOOT_READY true", -- [250]
+			"<08:33:52><DEBUG>	 Event: LOOT_READY true", -- [251]
+			"<08:33:57><DEBUG>	 Event: LOOT_READY true", -- [252]
+			"<08:33:57><DEBUG>	 Event: LOOT_READY true", -- [253]
+			"<08:34:56><DEBUG>	 Event: LOOT_READY true", -- [254]
+			"<08:34:56><DEBUG>	 Event: LOOT_READY true", -- [255]
+			"<08:35:01><DEBUG>	 Event: LOOT_READY true", -- [256]
+			"<08:35:01><DEBUG>	 Event: LOOT_READY true", -- [257]
+			"<08:35:07><DEBUG>	 Event: LOOT_READY true", -- [258]
+			"<08:35:07><DEBUG>	 Event: LOOT_READY true", -- [259]
+			"<08:35:20><DEBUG>	 Event: LOOT_READY true", -- [260]
+			"<08:35:20><DEBUG>	 Event: LOOT_READY true", -- [261]
+			"<08:39:58><DEBUG>	 Event: LOOT_READY true", -- [262]
+			"<08:39:59><DEBUG>	 Event: LOOT_READY true", -- [263]
+			"<08:40:08><DEBUG>	 Event: RAID_INSTANCE_WELCOME Смертельная тризна (Эпохальный) 519591 0 0", -- [264]
+			"<08:40:09><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [265]
+			"<08:40:10><DEBUG>	 GetML()", -- [266]
+			"<08:43:49><DEBUG>	 Event: ENCOUNTER_START 2387 Чумокост 8 5", -- [267]
+			"<08:43:49><INFO>	 UpdatePlayersData()", -- [268]
+			"<08:45:04><DEBUG>	 Event: ENCOUNTER_END 2387 Чумокост 8 5 1", -- [269]
+			"<08:56:58><DEBUG>	 Event: ENCOUNTER_START 2388 Амарт Жнец 8 5", -- [270]
+			"<08:56:58><INFO>	 UpdatePlayersData()", -- [271]
+			"<08:58:49><DEBUG>	 Event: ENCOUNTER_END 2388 Амарт Жнец 8 5 1", -- [272]
+			"<09:06:28><DEBUG>	 Event: ENCOUNTER_START 2389 Трупошов 8 5", -- [273]
+			"<09:06:28><INFO>	 UpdatePlayersData()", -- [274]
+			"<09:07:54><DEBUG>	 Event: ENCOUNTER_END 2389 Трупошов 8 5 1", -- [275]
+			"<09:08:24><DEBUG>	 Event: ENCOUNTER_START 2390 Налтор Криомант 8 5", -- [276]
+			"<09:08:24><INFO>	 UpdatePlayersData()", -- [277]
+			"<09:10:15><DEBUG>	 Event: ENCOUNTER_END 2390 Налтор Криомант 8 5 1", -- [278]
+			"<09:10:20><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 181700 |cffa335ee|Hitem:181700::::::::60:581::16:2:1511:7245:2:28:1279:37:4:::|h[Обжигающий отвар]|h|r 1 Директор-Азурегос MONK", -- [279]
+			"<09:10:22><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 178778 |cffa335ee|Hitem:178778::::::::60:581::16:4:6808:6652:1501:6646:1:28:1279:::|h[Набедренники лича]|h|r 1 Фауртаилт-ВечнаяПесня SHAMAN", -- [280]
+			"<09:10:30><DEBUG>	 Event: LOOT_READY true", -- [281]
+			"<09:10:30><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3111-2286-16811-354990-00002E12D9 534429", -- [282]
+			"<09:10:30><DEBUG>	 Event: LOOT_READY true", -- [283]
+			"<09:10:30><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3111-2286-16811-354990-00002E12D9 534429", -- [284]
+			"<09:10:30><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [285]
+			"<09:10:30><DEBUG>	 Event: LOOT_CLOSED", -- [286]
+			"<09:10:30><DEBUG>	 Event: LOOT_CLOSED", -- [287]
+			"<09:10:30><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 184765 |cff0070dd|Hitem:184765::::::::60:581:::::::|h[Молот звонаря]|h|r 2 Дэлери DEMONHUNTER", -- [288]
+			"<09:10:31><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY дэлери-Борейскаятундра", -- [289]
+			"<09:10:31><Comm>	 ^1^Sl^T^N1^S354990^t^^ PARTY дэлери-Борейскаятундра", -- [290]
+			"<09:10:47><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2390 178741 |cffa335ee|Hitem:178741::::::::60:581::16:5:6808:6652:7193:1501:6646:1:28:1279:::|h[Манжеты восставшего чудовища]|h|r 1 Волхидан-Азурегос DEMONHUNTER", -- [291]
+			"<09:11:15><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [292]
+			"<09:11:17><DEBUG>	 GetML()", -- [293]
+			"<09:11:24><DEBUG>	 Event: GROUP_LEFT 1 Party-1922-1-00003E1C31E6", -- [294]
+			"<09:11:24><DEBUG>	 GetML()", -- [295]
+			"<09:11:34><DEBUG>	 Event: LOOT_READY true", -- [296]
+			"<09:11:34><DEBUG>	 Event: LOOT_READY true", -- [297]
+			"<09:15:47><DEBUG>	 Event: LOOT_READY true", -- [298]
+			"<09:15:47><DEBUG>	 Event: LOOT_READY true", -- [299]
+			"<09:15:47><DEBUG>	 Event: LOOT_READY true", -- [300]
+			"<09:15:47><DEBUG>	 Event: LOOT_READY true", -- [301]
+			"<09:15:48><DEBUG>	 Event: LOOT_READY true", -- [302]
+			"<09:59:44><INFO>	 Logged In", -- [303]
+			"<09:59:44>[ML]<INFO>	 Init", -- [304]
+			"<09:59:44><INFO>	 RCLootCouncil TradeUI enabled", -- [305]
+			"<09:59:53><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [306]
+			"<09:59:53><DEBUG>	 ActivateSkin bfa", -- [307]
+			"<09:59:55><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [308]
+			"<09:59:55><INFO>	 UpdatePlayersData()", -- [309]
+			"<09:59:59><DEBUG>	 GetML()", -- [310]
+			"<10:10:38><DEBUG>	 Event: LOOT_READY true", -- [311]
+			"<10:10:38><DEBUG>	 Event: LOOT_READY true", -- [312]
+			"<10:11:34><DEBUG>	 Event: LOOT_READY true", -- [313]
+			"<10:11:34><DEBUG>	 Event: LOOT_READY true", -- [314]
+			"<10:12:03><DEBUG>	 Event: LOOT_READY true", -- [315]
+			"<10:12:03><DEBUG>	 Event: LOOT_READY true", -- [316]
+			"<10:12:04><DEBUG>	 Event: LOOT_READY true", -- [317]
+			"<10:12:05><DEBUG>	 Event: LOOT_READY true", -- [318]
+			"<10:12:34><DEBUG>	 Event: LOOT_READY true", -- [319]
+			"<10:12:35><DEBUG>	 Event: LOOT_READY true", -- [320]
+			"<10:13:17><DEBUG>	 Event: LOOT_READY true", -- [321]
+			"<10:13:17><DEBUG>	 Event: LOOT_READY true", -- [322]
+			"<10:14:15><DEBUG>	 Event: LOOT_READY true", -- [323]
+			"<10:14:16><DEBUG>	 Event: LOOT_READY true", -- [324]
+			"<10:14:20><DEBUG>	 Event: LOOT_READY true", -- [325]
+			"<10:14:20><DEBUG>	 Event: LOOT_READY true", -- [326]
+			"<10:14:53><DEBUG>	 Event: LOOT_READY true", -- [327]
+			"<10:14:53><DEBUG>	 Event: LOOT_READY true", -- [328]
+			"<10:15:01><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [329]
+			"<10:15:03><DEBUG>	 GetML()", -- [330]
+			"<10:15:04><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [331]
+			"<10:15:05><DEBUG>	 GetML()", -- [332]
+			"<10:16:01><Comm>	 ^1^Sl^T^N1^S0^t^^ INSTANCE_CHAT култипок-Гордунни", -- [333]
+			"<10:16:01><Comm>	 ^1^Sl^T^N1^S0^t^^ INSTANCE_CHAT култипок-Гордунни", -- [334]
+			"<10:16:03><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 143905 |cff0070dd|Hitem:143905::::::::60:577::22:1:7191:2:28:181:9:60:::|h[Взгляд казановы]|h|r 1 Култипок-Гордунни DRUID", -- [335]
+			"<10:16:03><Comm>	 ^1^Sl^T^N1^S36296^t^^ INSTANCE_CHAT култипок-Гордунни", -- [336]
+			"<10:16:03><Comm>	 ^1^Sl^T^N1^S36296^t^^ INSTANCE_CHAT култипок-Гордунни", -- [337]
+			"<10:16:04><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [338]
+			"<10:16:06><DEBUG>	 GetML()", -- [339]
+			"<10:16:07><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [340]
+			"<10:16:09><DEBUG>	 GetML()", -- [341]
+			"<10:16:19><DEBUG>	 Event: LOOT_READY true", -- [342]
+			"<10:16:19><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3109-33-25052-36296-00002E21F9 49884", -- [343]
+			"<10:16:19><DEBUG>	 Adding to self.lootSlotInfo 2 |cffffffff|Hitem:21813::::::::60:577::::1:28:378:::|h[Пакетик с леденцами-сердечками]|h|r 1 1 Creature-0-3109-33-25052-36296-00002E21F9 1", -- [344]
+			"<10:16:19><DEBUG>	 Adding to self.lootSlotInfo 3 |cffffffff|Hitem:49909::::::::60:577::::1:28:378:::|h[Коробка шоколадных конфет]|h|r 1 1 Creature-0-3109-33-25052-36296-00002E21F9 1", -- [345]
+			"<10:16:19><DEBUG>	 Event: LOOT_READY true", -- [346]
+			"<10:16:19><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3109-33-25052-36296-00002E21F9 49884", -- [347]
+			"<10:16:19><DEBUG>	 Adding to self.lootSlotInfo 2 |cffffffff|Hitem:21813::::::::60:577::::1:28:378:::|h[Пакетик с леденцами-сердечками]|h|r 1 1 Creature-0-3109-33-25052-36296-00002E21F9 1", -- [348]
+			"<10:16:19><DEBUG>	 Adding to self.lootSlotInfo 3 |cffffffff|Hitem:49909::::::::60:577::::1:28:378:::|h[Коробка шоколадных конфет]|h|r 1 1 Creature-0-3109-33-25052-36296-00002E21F9 1", -- [349]
+			"<10:16:20><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [350]
+			"<10:16:20><DEBUG>	 OnLootSlotCleared() 2 |cffffffff|Hitem:21813::::::::60:577::::1:28:378:::|h[Пакетик с леденцами-сердечками]|h|r 1", -- [351]
+			"<10:16:20><DEBUG>	 OnLootSlotCleared() 3 |cffffffff|Hitem:49909::::::::60:577::::1:28:378:::|h[Коробка шоколадных конфет]|h|r 1", -- [352]
+			"<10:16:20><DEBUG>	 Event: LOOT_CLOSED", -- [353]
+			"<10:16:20><DEBUG>	 Event: LOOT_CLOSED", -- [354]
+			"<10:16:20><Comm>	 ^1^Sl^T^N1^S36296^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [355]
+			"<10:16:20><Comm>	 ^1^Sl^T^N1^S36296^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [356]
+			"<10:16:23><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-000056958B42", -- [357]
+			"<10:16:23><DEBUG>	 GetML()", -- [358]
+			"<10:16:29><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [359]
+			"<10:16:31><DEBUG>	 GetML()", -- [360]
+			"<10:16:56><DEBUG>	 Event: LOOT_READY true", -- [361]
+			"<10:16:57><DEBUG>	 Event: LOOT_READY true", -- [362]
+			"<10:26:50><DEBUG>	 Event: LOOT_READY true", -- [363]
+			"<10:26:50><DEBUG>	 Event: LOOT_READY true", -- [364]
+			"<10:29:46><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [365]
+			"<10:29:49><DEBUG>	 GetML()", -- [366]
+			"<10:29:49><DEBUG>	 Event: RAID_INSTANCE_WELCOME Храм Нефритовой Змеи (Героический) 81010 0 0", -- [367]
+			"<10:29:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [368]
+			"<10:29:51><DEBUG>	 GetML()", -- [369]
+			"<10:30:55><DEBUG>	 Event: ENCOUNTER_START 1418 Мудрый Марис 2 5", -- [370]
+			"<10:30:55><INFO>	 UpdatePlayersData()", -- [371]
+			"<10:33:27><DEBUG>	 Event: ENCOUNTER_END 1418 Мудрый Марис 2 5 1", -- [372]
+			"<10:33:43><DEBUG>	 Event: LOOT_READY true", -- [373]
+			"<10:33:43><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-56448-00002E255F 77976", -- [374]
+			"<10:33:43><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [375]
+			"<10:33:43><DEBUG>	 Event: LOOT_READY true", -- [376]
+			"<10:33:43><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-56448-00002E255F 77976", -- [377]
+			"<10:33:43><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [378]
+			"<10:33:43><DEBUG>	 Event: LOOT_CLOSED", -- [379]
+			"<10:33:43><Comm>	 ^1^Sl^T^N1^S56448^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [380]
+			"<10:33:44><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1418 144111 |cff0070dd|Hitem:144111::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Пронизанная ветром пелерина]|h|r 1 Пижмак HUNTER", -- [381]
+			"<10:36:23><DEBUG>	 Event: ENCOUNTER_START 1417 Каменная Поступь 2 5", -- [382]
+			"<10:36:23><INFO>	 UpdatePlayersData()", -- [383]
+			"<10:37:22><DEBUG>	 Event: ENCOUNTER_END 1417 Каменная Поступь 2 5 1", -- [384]
+			"<10:37:23><DEBUG>	 Event: LOOT_READY true", -- [385]
+			"<10:37:23><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-59051-00002E255F 85989", -- [386]
+			"<10:37:23><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [387]
+			"<10:37:24><DEBUG>	 Event: LOOT_READY true", -- [388]
+			"<10:37:24><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-59051-00002E255F 85989", -- [389]
+			"<10:37:24><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [390]
+			"<10:37:24><DEBUG>	 Event: LOOT_CLOSED", -- [391]
+			"<10:37:24><Comm>	 ^1^Sl^T^N1^S59051^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [392]
+			"<10:37:25><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1417 143974 |cff0070dd|Hitem:143974::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Сапоги каменных шагов]|h|r 1 Окаянь-ВечнаяПесня WARRIOR", -- [393]
+			"<10:38:27><DEBUG>	 Event: LOOT_READY true", -- [394]
+			"<10:38:27><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:81200::::::::60:581:::::::|h[Флакон с кружащимся туманом]|h|r 0 1 Creature-0-3113-960-17960-58319-00012E255F 1", -- [395]
+			"<10:38:27><DEBUG>	 Event: LOOT_READY true", -- [396]
+			"<10:38:27><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:81200::::::::60:581:::::::|h[Флакон с кружащимся туманом]|h|r 0 1 Creature-0-3113-960-17960-58319-00012E255F 1", -- [397]
+			"<10:38:27><DEBUG>	 Event: LOOT_CLOSED", -- [398]
+			"<10:38:27><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:81200::::::::60:581:::::::|h[Флакон с кружащимся туманом]|h|r 0", -- [399]
+			"<10:38:27><DEBUG>	 Event: LOOT_CLOSED", -- [400]
+			"<10:38:28><Comm>	 ^1^Sl^T^N1^S58319^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [401]
+			"<10:38:30><DEBUG>	 Event: ENCOUNTER_START 1416 Лю Пламенное Сердце 2 5", -- [402]
+			"<10:38:30><INFO>	 UpdatePlayersData()", -- [403]
+			"<10:39:18><DEBUG>	 Event: ENCOUNTER_END 1416 Лю Пламенное Сердце 2 5 1", -- [404]
+			"<10:39:19><DEBUG>	 Event: LOOT_READY true", -- [405]
+			"<10:39:19><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-56732-00002E255F 81052", -- [406]
+			"<10:39:19><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [407]
+			"<10:39:19><DEBUG>	 Event: LOOT_READY true", -- [408]
+			"<10:39:19><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-56732-00002E255F 81052", -- [409]
+			"<10:39:19><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [410]
+			"<10:39:20><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [411]
+			"<10:39:20><DEBUG>	 Event: LOOT_CLOSED", -- [412]
+			"<10:39:20><DEBUG>	 Event: LOOT_CLOSED", -- [413]
+			"<10:39:20><Comm>	 ^1^Sl^T^N1^S56732^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [414]
+			"<10:39:20><Comm>	 ^1^Sl^T^N1^S56732^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [415]
+			"<10:39:22><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1416 144090 |cff0070dd|Hitem:144090::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Пищаль огнеплюя]|h|r 1 Пижмак HUNTER", -- [416]
+			"<10:40:06><DEBUG>	 Event: ENCOUNTER_START 1439 Ша Сомнения 2 5", -- [417]
+			"<10:40:06><INFO>	 UpdatePlayersData()", -- [418]
+			"<10:41:04><DEBUG>	 Event: ENCOUNTER_END 1439 Ша Сомнения 2 5 1", -- [419]
+			"<10:41:05><DEBUG>	 Event: LOOT_READY true", -- [420]
+			"<10:41:05><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-56439-00002E2742 199203", -- [421]
+			"<10:41:05><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [422]
+			"<10:41:05><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудный доспех отчаяния]|h|r 3 1 Creature-0-3113-960-17960-56439-00002E2742 1", -- [423]
+			"<10:41:05><DEBUG>	 Event: LOOT_READY true", -- [424]
+			"<10:41:05><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3113-960-17960-56439-00002E2742 199203", -- [425]
+			"<10:41:05><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [426]
+			"<10:41:05><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудный доспех отчаяния]|h|r 3 1 Creature-0-3113-960-17960-56439-00002E2742 1", -- [427]
+			"<10:41:06><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [428]
+			"<10:41:06><DEBUG>	 OnLootSlotCleared() 3 |cff0070dd|Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудный доспех отчаяния]|h|r 3", -- [429]
+			"<10:41:06><DEBUG>	 Event: LOOT_CLOSED", -- [430]
+			"<10:41:06><DEBUG>	 Event: LOOT_CLOSED", -- [431]
+			"<10:41:06><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1439 143959 |cff0070dd|Hitem:143959::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Нагрудный доспех отчаяния]|h|r 1 Дэлери DEMONHUNTER", -- [432]
+			"<10:41:06><Comm>	 ^1^Sl^T^N1^S56439^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [433]
+			"<10:41:06><Comm>	 ^1^Sl^T^N1^S56439^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [434]
+			"<10:41:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1439 144115 |cff0070dd|Hitem:144115::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Плащ слабеющей воли]|h|r 1 Рофард-Гордунни SHAMAN", -- [435]
+			"<10:41:08><DEBUG>	 Storage:New |cff0070dd|Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудный доспех отчаяния]|h|r temp", -- [436]
+			"<10:41:08><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудный доспех отчаяния]||h||r 5", -- [437]
+			"<10:41:08><DEBUG>	 Found: nil nil nil", -- [438]
+			"<10:41:09><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудный доспех отчаяния]||h||r 5", -- [439]
+			"<10:41:09><DEBUG>	 Found: nil nil nil", -- [440]
+			"<10:41:10><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудный доспех отчаяния]||h||r 5", -- [441]
+			"<10:41:10><DEBUG>	 Found: nil nil nil", -- [442]
+			"<10:41:11><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудный доспех отчаяния]||h||r 5", -- [443]
+			"<10:41:11><DEBUG>	 Found: nil nil nil", -- [444]
+			"<10:41:11><ERROR>	 UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:143959::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудный доспех отчаяния]|h|r not found in bags", -- [445]
+			"<10:41:12><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [446]
+			"<10:41:14><DEBUG>	 GetML()", -- [447]
+			"<10:41:17><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [448]
+			"<10:41:18><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-2-00005695A63D", -- [449]
+			"<10:41:18><DEBUG>	 GetML()", -- [450]
+			"<10:41:19><DEBUG>	 GetML()", -- [451]
+			"<10:41:25><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [452]
+			"<10:41:26><DEBUG>	 GetML()", -- [453]
+			"<10:41:55><DEBUG>	 Event: LOOT_READY true", -- [454]
+			"<10:41:55><DEBUG>	 Event: LOOT_READY true", -- [455]
+			"<10:54:36><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [456]
+			"<10:54:38><DEBUG>	 GetML()", -- [457]
+			"<10:54:38><DEBUG>	 Event: RAID_INSTANCE_WELCOME Осада храма Нюцзао (Героический) 79521 0 0", -- [458]
+			"<10:54:39><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [459]
+			"<10:54:41><DEBUG>	 GetML()", -- [460]
+			"<10:56:27><DEBUG>	 Event: LOOT_READY true", -- [461]
+			"<10:56:27><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61929-00022E2B3B 18232", -- [462]
+			"<10:56:28><DEBUG>	 Event: LOOT_READY true", -- [463]
+			"<10:56:28><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61929-00022E2B3B 18232", -- [464]
+			"<10:56:28><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [465]
+			"<10:56:28><DEBUG>	 Event: LOOT_CLOSED", -- [466]
+			"<10:56:28><Comm>	 ^1^Sl^T^N1^S61929^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [467]
+			"<10:56:34><DEBUG>	 Event: ENCOUNTER_START 1465 Визирь Цзинь'бак 2 5", -- [468]
+			"<10:56:34><INFO>	 UpdatePlayersData()", -- [469]
+			"<10:57:44><DEBUG>	 Event: ENCOUNTER_END 1465 Визирь Цзинь'бак 2 5 1", -- [470]
+			"<10:57:45><DEBUG>	 Event: LOOT_READY true", -- [471]
+			"<10:57:45><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61567-00002E2B3B 94297", -- [472]
+			"<10:57:45><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [473]
+			"<10:57:45><DEBUG>	 Event: LOOT_READY true", -- [474]
+			"<10:57:45><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61567-00002E2B3B 94297", -- [475]
+			"<10:57:45><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [476]
+			"<10:57:45><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [477]
+			"<10:57:46><DEBUG>	 Event: LOOT_CLOSED", -- [478]
+			"<10:57:46><Comm>	 ^1^Sl^T^N1^S61567^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [479]
+			"<10:57:47><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1465 144162 |cff0070dd|Hitem:144162::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Чеканная янтарная подвеска]|h|r 1 Сквидл-СтражСмерти ROGUE", -- [480]
+			"<11:03:46><DEBUG>	 Event: ENCOUNTER_START 1502 Командир Во'цзак 2 5", -- [481]
+			"<11:03:46><INFO>	 UpdatePlayersData()", -- [482]
+			"<11:04:59><DEBUG>	 Event: ENCOUNTER_END 1502 Командир Во'цзак 2 5 1", -- [483]
+			"<11:05:00><DEBUG>	 Event: LOOT_READY true", -- [484]
+			"<11:05:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61634-00002E2B40 82187", -- [485]
+			"<11:05:00><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудник дугового пламени]|h|r 3 1 Creature-0-4252-1011-17831-61634-00002E2B40 1", -- [486]
+			"<11:05:00><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [487]
+			"<11:05:00><DEBUG>	 Event: LOOT_READY true", -- [488]
+			"<11:05:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61634-00002E2B40 82187", -- [489]
+			"<11:05:00><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудник дугового пламени]|h|r 3 1 Creature-0-4252-1011-17831-61634-00002E2B40 1", -- [490]
+			"<11:05:00><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [491]
+			"<11:05:01><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [492]
+			"<11:05:01><DEBUG>	 OnLootSlotCleared() 2 |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудник дугового пламени]|h|r 3", -- [493]
+			"<11:05:01><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1502 143963 |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Нагрудник дугового пламени]|h|r 1 Дэлери DEMONHUNTER", -- [494]
+			"<11:05:01><DEBUG>	 Event: LOOT_CLOSED", -- [495]
+			"<11:05:01><DEBUG>	 Event: LOOT_CLOSED", -- [496]
+			"<11:05:01><Comm>	 ^1^Sl^T^N1^S61634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [497]
+			"<11:05:01><Comm>	 ^1^Sl^T^N1^S61634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [498]
+			"<11:05:03><DEBUG>	 Storage:New |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудник дугового пламени]|h|r temp", -- [499]
+			"<11:05:03><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудник дугового пламени]||h||r 5", -- [500]
+			"<11:05:03><DEBUG>	 Found: nil nil nil", -- [501]
+			"<11:05:03><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1502 143963 |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Нагрудник дугового пламени]|h|r 1 Сквидл-СтражСмерти ROGUE", -- [502]
+			"<11:05:04><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудник дугового пламени]||h||r 5", -- [503]
+			"<11:05:04><DEBUG>	 Found: nil nil nil", -- [504]
+			"<11:05:05><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудник дугового пламени]||h||r 5", -- [505]
+			"<11:05:05><DEBUG>	 Found: nil nil nil", -- [506]
+			"<11:05:06><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::||h[Нагрудник дугового пламени]||h||r 5", -- [507]
+			"<11:05:06><DEBUG>	 Found: nil nil nil", -- [508]
+			"<11:05:06><ERROR>	 UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:143963::::::::60:581::22:2:7191:6652:1:28:181:::|h[Нагрудник дугового пламени]|h|r not found in bags", -- [509]
+			"<11:06:30><DEBUG>	 Event: LOOT_READY true", -- [510]
+			"<11:06:30><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61434-00012E2DBC 8968", -- [511]
+			"<11:06:30><DEBUG>	 Event: LOOT_READY true", -- [512]
+			"<11:06:30><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61434-00012E2DBC 8968", -- [513]
+			"<11:06:30><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [514]
+			"<11:06:30><DEBUG>	 Event: LOOT_CLOSED", -- [515]
+			"<11:06:30><DEBUG>	 Event: LOOT_CLOSED", -- [516]
+			"<11:06:31><Comm>	 ^1^Sl^T^N1^S61434^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [517]
+			"<11:06:31><Comm>	 ^1^Sl^T^N1^S61434^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [518]
+			"<11:07:48><DEBUG>	 Event: LOOT_READY true", -- [519]
+			"<11:07:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61436-00032E2DBC 12629 Creature-0-4252-1011-17831-61434-0002AE2DBC 3566", -- [520]
+			"<11:07:48><DEBUG>	 Event: LOOT_READY true", -- [521]
+			"<11:07:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61436-00032E2DBC 12629 Creature-0-4252-1011-17831-61434-0002AE2DBC 3566", -- [522]
+			"<11:07:48><DEBUG>	 Event: LOOT_CLOSED", -- [523]
+			"<11:07:48><Comm>	 ^1^Sl^T^N1^S61436^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [524]
+			"<11:07:51><DEBUG>	 Event: ENCOUNTER_START 1447 Генерал Па'валак 2 5", -- [525]
+			"<11:07:51><INFO>	 UpdatePlayersData()", -- [526]
+			"<11:10:06><DEBUG>	 Event: ENCOUNTER_END 1447 Генерал Па'валак 2 5 1", -- [527]
+			"<11:10:07><DEBUG>	 Event: LOOT_READY true", -- [528]
+			"<11:10:07><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61485-00002E2DBC 78032", -- [529]
+			"<11:10:07><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [530]
+			"<11:10:07><DEBUG>	 Event: LOOT_READY true", -- [531]
+			"<11:10:07><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-61485-00002E2DBC 78032", -- [532]
+			"<11:10:07><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [533]
+			"<11:10:07><DEBUG>	 Event: LOOT_CLOSED", -- [534]
+			"<11:10:08><Comm>	 ^1^Sl^T^N1^S61485^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [535]
+			"<11:10:08><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1447 144167 |cff0070dd|Hitem:144167::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Длинный лук бурана]|h|r 1 Гефия-СтражСмерти HUNTER", -- [536]
+			"<11:10:09><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1447 144170 |cff0070dd|Hitem:144170::::::::60:581::22:2:7191:6652:2:28:181:9:52:::|h[Плащ воздушной бомбардировки]|h|r 1 Джинчурикх-Гордунни MONK", -- [537]
+			"<11:11:46><DEBUG>	 Event: LOOT_READY true", -- [538]
+			"<11:11:46><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-62633-00052E2DBC 4037", -- [539]
+			"<11:11:47><DEBUG>	 Event: LOOT_READY true", -- [540]
+			"<11:11:47><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-62633-00052E2DBC 4037", -- [541]
+			"<11:11:47><DEBUG>	 Event: LOOT_CLOSED", -- [542]
+			"<11:11:47><Comm>	 ^1^Sl^T^N1^S62633^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [543]
+			"<11:11:47><DEBUG>	 Event: ENCOUNTER_START 1464 Командующий флангом Нер'онок 2 5", -- [544]
+			"<11:11:47><INFO>	 UpdatePlayersData()", -- [545]
+			"<11:13:02><DEBUG>	 Event: ENCOUNTER_END 1464 Командующий флангом Нер'онок 2 5 1", -- [546]
+			"<11:13:03><DEBUG>	 Event: LOOT_READY true", -- [547]
+			"<11:13:03><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-62205-00002E2EEF 197158", -- [548]
+			"<11:13:03><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [549]
+			"<11:13:03><DEBUG>	 Event: LOOT_READY true", -- [550]
+			"<11:13:03><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4252-1011-17831-62205-00002E2EEF 197158", -- [551]
+			"<11:13:03><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [552]
+			"<11:13:03><DEBUG>	 Event: LOOT_CLOSED", -- [553]
+			"<11:13:04><Comm>	 ^1^Sl^T^N1^S62205^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [554]
+			"<11:13:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1464 144000 |cff0070dd|Hitem:144000::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Сандалии покорившего ветер]|h|r 1 Скованна-Гордунни HUNTER", -- [555]
+			"<11:13:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1464 143964 |cff0070dd|Hitem:143964::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Нагрудный доспех перехитрившего бурю]|h|r 1 Гефия-СтражСмерти HUNTER", -- [556]
+			"<11:13:10><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [557]
+			"<11:13:12><DEBUG>	 GetML()", -- [558]
+			"<11:13:16><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-00005695D4CC", -- [559]
+			"<11:13:16><DEBUG>	 GetML()", -- [560]
+			"<11:13:22><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [561]
+			"<11:13:24><DEBUG>	 GetML()", -- [562]
+			"<11:15:04><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [563]
+			"<11:15:07><DEBUG>	 GetML()", -- [564]
+			"<11:15:08><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [565]
+			"<11:15:09><DEBUG>	 GetML()", -- [566]
+			"<11:15:54><DEBUG>	 Event: LOOT_READY true", -- [567]
+			"<11:15:54><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0 2 Creature-0-1467-2291-18566-168949-00022E3013 1 Creature-0-1467-2291-18566-168992-0002AE3013 1", -- [568]
+			"<11:15:54><DEBUG>	 Event: LOOT_READY true", -- [569]
+			"<11:15:54><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0 2 Creature-0-1467-2291-18566-168949-00022E3013 1 Creature-0-1467-2291-18566-168992-0002AE3013 1", -- [570]
+			"<11:15:54><DEBUG>	 Event: LOOT_CLOSED", -- [571]
+			"<11:15:54><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0", -- [572]
+			"<11:15:54><DEBUG>	 Event: LOOT_CLOSED", -- [573]
+			"<11:15:54><Comm>	 ^1^Sl^T^N1^S168949^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [574]
+			"<11:16:53><DEBUG>	 Event: LOOT_READY true", -- [575]
+			"<11:16:53><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0 2 Creature-0-1467-2291-18566-168949-00012E3013 1 Creature-0-1467-2291-18566-168986-00022E3013 1", -- [576]
+			"<11:16:53><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0 1 Creature-0-1467-2291-18566-168942-00002E3013 1", -- [577]
+			"<11:16:53><DEBUG>	 Event: LOOT_READY true", -- [578]
+			"<11:16:53><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0 2 Creature-0-1467-2291-18566-168949-00012E3013 1 Creature-0-1467-2291-18566-168986-00022E3013 1", -- [579]
+			"<11:16:53><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0 1 Creature-0-1467-2291-18566-168942-00002E3013 1", -- [580]
+			"<11:16:53><DEBUG>	 Event: LOOT_CLOSED", -- [581]
+			"<11:16:53><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0", -- [582]
+			"<11:16:53><DEBUG>	 Event: LOOT_CLOSED", -- [583]
+			"<11:16:53><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0", -- [584]
+			"<11:16:53><DEBUG>	 Event: LOOT_CLOSED", -- [585]
+			"<11:16:53><Comm>	 ^1^Sl^T^N1^S168942^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [586]
+			"<11:18:28><DEBUG>	 Event: LOOT_READY true", -- [587]
+			"<11:18:28><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-170486-00022E3013 16570", -- [588]
+			"<11:18:29><DEBUG>	 Event: LOOT_READY true", -- [589]
+			"<11:18:29><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-170486-00022E3013 16570", -- [590]
+			"<11:18:29><DEBUG>	 Event: LOOT_CLOSED", -- [591]
+			"<11:18:29><Comm>	 ^1^Sl^T^N1^S170486^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [592]
+			"<11:19:02><DEBUG>	 Event: LOOT_READY true", -- [593]
+			"<11:19:02><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0 1 Creature-0-1467-2291-18566-170480-00012E3013 1", -- [594]
+			"<11:19:02><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:176886::::::::60:581:::::::|h[Усиленная бедренная кость]|h|r 0 1 Creature-0-1467-2291-18566-170480-0001AE3013 1", -- [595]
+			"<11:19:02><DEBUG>	 Event: LOOT_READY true", -- [596]
+			"<11:19:02><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0 1 Creature-0-1467-2291-18566-170480-00012E3013 1", -- [597]
+			"<11:19:02><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:176886::::::::60:581:::::::|h[Усиленная бедренная кость]|h|r 0 1 Creature-0-1467-2291-18566-170480-0001AE3013 1", -- [598]
+			"<11:19:02><DEBUG>	 Event: LOOT_CLOSED", -- [599]
+			"<11:19:02><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0", -- [600]
+			"<11:19:02><DEBUG>	 Event: LOOT_CLOSED", -- [601]
+			"<11:19:02><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:176886::::::::60:581:::::::|h[Усиленная бедренная кость]|h|r 0", -- [602]
+			"<11:19:02><DEBUG>	 Event: LOOT_CLOSED", -- [603]
+			"<11:19:03><Comm>	 ^1^Sl^T^N1^S170480^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [604]
+			"<11:19:17><DEBUG>	 Event: ENCOUNTER_START 2395 Хаккар, Свежеватель Душ 2 5", -- [605]
+			"<11:19:17><INFO>	 UpdatePlayersData()", -- [606]
+			"<11:19:38><DEBUG>	 Event: ENCOUNTER_END 2395 Хаккар, Свежеватель Душ 2 5 1", -- [607]
+			"<11:19:39><DEBUG>	 Event: LOOT_READY true", -- [608]
+			"<11:19:39><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-164558-00002E3013 69852", -- [609]
+			"<11:19:39><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r 3 1 Creature-0-1467-2291-18566-164558-00002E3013 1", -- [610]
+			"<11:19:39><DEBUG>	 Event: LOOT_READY true", -- [611]
+			"<11:19:39><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-164558-00002E3013 69852", -- [612]
+			"<11:19:39><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r 3 1 Creature-0-1467-2291-18566-164558-00002E3013 1", -- [613]
+			"<11:19:40><DEBUG>	 Event: LOOT_CLOSED", -- [614]
+			"<11:19:40><DEBUG>	 OnLootSlotCleared() 2 |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r 3", -- [615]
+			"<11:19:40><DEBUG>	 Event: LOOT_CLOSED", -- [616]
+			"<11:19:40><Comm>	 ^1^Sl^T^N1^S164558^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [617]
+			"<11:19:40><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2395 179331 |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r 1 Дэлери DEMONHUNTER", -- [618]
+			"<11:19:42><DEBUG>	 Storage:New |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r temp", -- [619]
+			"<11:19:42><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::||h[Забрызганная кровью чешуйка]||h||r 5", -- [620]
+			"<11:19:42><DEBUG>	 Found item at 2 3", -- [621]
+			"<11:19:43><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::||h[Забрызганная кровью чешуйка]||h||r 5", -- [622]
+			"<11:19:43><DEBUG>	 Found item at 2 3", -- [623]
+			"<11:19:43><Comm>	 ^1^Stradable^T^N1^S|cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная~`кровью~`чешуйка]|h|r^N2^S164558^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [624]
+			"<11:20:09><DEBUG>	 Event: LOOT_READY true", -- [625]
+			"<11:20:09><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0 1 Creature-0-1467-2291-18566-170480-00002E3013 1", -- [626]
+			"<11:20:09><DEBUG>	 Adding to self.lootSlotInfo 2 nil 1 0 Creature-0-1467-2291-18566-170572-00012E3013 43718", -- [627]
+			"<11:20:09><DEBUG>	 Event: LOOT_READY true", -- [628]
+			"<11:20:09><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0 1 Creature-0-1467-2291-18566-170480-00002E3013 1", -- [629]
+			"<11:20:09><DEBUG>	 Adding to self.lootSlotInfo 2 nil 1 0 Creature-0-1467-2291-18566-170572-00012E3013 43718", -- [630]
+			"<11:20:09><DEBUG>	 Event: LOOT_CLOSED", -- [631]
+			"<11:20:09><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176853::::::::60:581:::::::|h[Чахлая плоть]|h|r 0", -- [632]
+			"<11:20:09><DEBUG>	 Event: LOOT_CLOSED", -- [633]
+			"<11:20:09><Comm>	 ^1^Sl^T^N1^S170572^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [634]
+			"<11:20:12><DEBUG>	 Event: LOOT_READY true", -- [635]
+			"<11:20:12><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-170490-00002E3013 17319", -- [636]
+			"<11:20:12><DEBUG>	 Event: LOOT_READY true", -- [637]
+			"<11:20:12><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-170490-00002E3013 17319", -- [638]
+			"<11:20:12><DEBUG>	 Event: LOOT_CLOSED", -- [639]
+			"<11:20:13><Comm>	 ^1^Sl^T^N1^S170490^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [640]
+			"<11:20:20><DEBUG>	 Event: LOOT_READY true", -- [641]
+			"<11:20:20><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Item-1929-0-4000000AA2184FCC 181035", -- [642]
+			"<11:20:20><DEBUG>	 Adding to self.lootSlotInfo 2 |cffffffff|Hitem:49927::::::::60:581:::::::|h[Знак любви]|h|r 1 8 Item-1929-0-4000000AA2184FCC 8", -- [643]
+			"<11:20:20><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:49715::::::::60:581::11::1:28:181:::|h[Вечно прекрасная роза]|h|r 3 1 Item-1929-0-4000000AA2184FCC 1", -- [644]
+			"<11:20:20><DEBUG>	 Event: LOOT_READY true", -- [645]
+			"<11:20:20><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Item-1929-0-4000000AA2184FCC 181035", -- [646]
+			"<11:20:20><DEBUG>	 Adding to self.lootSlotInfo 2 |cffffffff|Hitem:49927::::::::60:581:::::::|h[Знак любви]|h|r 1 8 Item-1929-0-4000000AA2184FCC 8", -- [647]
+			"<11:20:20><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:49715::::::::60:581::11::1:28:181:::|h[Вечно прекрасная роза]|h|r 3 1 Item-1929-0-4000000AA2184FCC 1", -- [648]
+			"<11:20:20><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [649]
+			"<11:20:20><DEBUG>	 OnLootSlotCleared() 2 |cffffffff|Hitem:49927::::::::60:581:::::::|h[Знак любви]|h|r 1", -- [650]
+			"<11:20:20><DEBUG>	 OnLootSlotCleared() 3 |cff0070dd|Hitem:49715::::::::60:581::11::1:28:181:::|h[Вечно прекрасная роза]|h|r 3", -- [651]
+			"<11:20:20><DEBUG>	 Event: LOOT_CLOSED", -- [652]
+			"<11:20:20><DEBUG>	 Event: LOOT_CLOSED", -- [653]
+			"<11:20:21><Comm>	 ^1^Sl^T^N1^S0^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [654]
+			"<11:20:21><Comm>	 ^1^Sl^T^N1^S0^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [655]
+			"<11:20:23><DEBUG>	 Storage:New |cff0070dd|Hitem:49715::::::::60:581::11::1:28:181:::|h[Вечно прекрасная роза]|h|r temp", -- [656]
+			"<11:20:23><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:49715::::::::60:581::11::1:28:181:::||h[Вечно прекрасная роза]||h||r 5", -- [657]
+			"<11:20:23><DEBUG>	 Found item at 2 5", -- [658]
+			"<11:20:23><DEBUG>	 Found: 2 5 0", -- [659]
+			"<11:20:23><DEBUG>	 Event: LOOT_CLOSED", -- [660]
+			"<11:20:23><Comm>	 ^1^Sl^T^N1^S0^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [661]
+			"<11:20:24><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:49715::::::::60:581::11::1:28:181:::||h[Вечно прекрасная роза]||h||r 5", -- [662]
+			"<11:20:24><DEBUG>	 Found item at 2 5", -- [663]
+			"<11:20:24><DEBUG>	 Found: 2 5 0", -- [664]
+			"<11:20:24><Comm>	 ^1^Sn_t^T^N1^S|cff0070dd|Hitem:49715::::::::60:581::11::1:28:181:::|h[Вечно~`прекрасная~`роза]|h|r^N2^S0^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [665]
+			"<11:21:00><DEBUG>	 Event: LOOT_READY true", -- [666]
+			"<11:21:00><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:178134::::::::60:581:::::::|h[Эфемерные пальцы]|h|r 0 1 Creature-0-1467-2291-18566-168934-00002E3013 1", -- [667]
+			"<11:21:00><DEBUG>	 Event: LOOT_READY true", -- [668]
+			"<11:21:00><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:178134::::::::60:581:::::::|h[Эфемерные пальцы]|h|r 0 1 Creature-0-1467-2291-18566-168934-00002E3013 1", -- [669]
+			"<11:21:00><DEBUG>	 Event: LOOT_CLOSED", -- [670]
+			"<11:21:00><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:178134::::::::60:581:::::::|h[Эфемерные пальцы]|h|r 0", -- [671]
+			"<11:21:00><DEBUG>	 Event: LOOT_CLOSED", -- [672]
+			"<11:21:00><Comm>	 ^1^Sl^T^N1^S168934^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [673]
+			"<11:23:45><DEBUG>	 Event: LOOT_READY true", -- [674]
+			"<11:23:45><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-1467-2291-18566-167965-00002E3013 1", -- [675]
+			"<11:23:45><DEBUG>	 Event: LOOT_READY true", -- [676]
+			"<11:23:45><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-1467-2291-18566-167965-00002E3013 1", -- [677]
+			"<11:23:45><DEBUG>	 Event: LOOT_CLOSED", -- [678]
+			"<11:23:45><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0", -- [679]
+			"<11:23:45><DEBUG>	 Event: LOOT_CLOSED", -- [680]
+			"<11:23:45><Comm>	 ^1^Sl^T^N1^S167965^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [681]
+			"<11:25:04><DEBUG>	 Event: ENCOUNTER_START 2394 Манаштормы 2 5", -- [682]
+			"<11:25:04><INFO>	 UpdatePlayersData()", -- [683]
+			"<11:25:50><DEBUG>	 Event: ENCOUNTER_END 2394 Манаштормы 2 5 1", -- [684]
+			"<11:26:04><DEBUG>	 Event: LOOT_READY true", -- [685]
+			"<11:26:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-1467-2291-18566-355436-00002E329E 63275", -- [686]
+			"<11:26:04><DEBUG>	 Event: LOOT_READY true", -- [687]
+			"<11:26:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-1467-2291-18566-355436-00002E329E 63275", -- [688]
+			"<11:26:04><DEBUG>	 Event: LOOT_CLOSED", -- [689]
+			"<11:26:05><Comm>	 ^1^Sl^T^N1^S355436^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [690]
+			"<11:26:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2394 179337 |cff0070dd|Hitem:179337::::::::60:581::2:4:6806:6652:1485:4785:1:28:2044:::|h[Технопружинные набедренники]|h|r 1 Кедас-Азурегос HUNTER", -- [691]
+			"<11:26:16><DEBUG>	 Event: LOOT_READY true", -- [692]
+			"<11:26:16><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-1467-2291-18566-167963-0000AE3013 1", -- [693]
+			"<11:26:16><DEBUG>	 Event: LOOT_READY true", -- [694]
+			"<11:26:16><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-1467-2291-18566-167963-0000AE3013 1", -- [695]
+			"<11:26:16><DEBUG>	 Event: LOOT_CLOSED", -- [696]
+			"<11:26:16><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0", -- [697]
+			"<11:26:16><DEBUG>	 Event: LOOT_CLOSED", -- [698]
+			"<11:26:16><Comm>	 ^1^Sl^T^N1^S167963^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [699]
+			"<11:26:22><DEBUG>	 Event: LOOT_READY true", -- [700]
+			"<11:26:22><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-1467-2291-18566-167962-00002E3013 1", -- [701]
+			"<11:26:22><DEBUG>	 Event: LOOT_READY true", -- [702]
+			"<11:26:22><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0 1 Creature-0-1467-2291-18566-167962-00002E3013 1", -- [703]
+			"<11:26:23><DEBUG>	 Event: LOOT_CLOSED", -- [704]
+			"<11:26:23><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176809::::::::60:581:::::::|h[Треснувший преобразователь]|h|r 0", -- [705]
+			"<11:26:23><DEBUG>	 Event: LOOT_CLOSED", -- [706]
+			"<11:26:23><Comm>	 ^1^Sl^T^N1^S167962^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [707]
+			"<11:27:05><DEBUG>	 Event: LOOT_READY true", -- [708]
+			"<11:27:05><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:178133::::::::60:581:::::::|h[Нити эктоплазмы]|h|r 0 1 Creature-0-1467-2291-18566-168934-0000AE3013 1", -- [709]
+			"<11:27:05><DEBUG>	 Event: LOOT_READY true", -- [710]
+			"<11:27:05><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:178133::::::::60:581:::::::|h[Нити эктоплазмы]|h|r 0 1 Creature-0-1467-2291-18566-168934-0000AE3013 1", -- [711]
+			"<11:27:05><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:178133::::::::60:581:::::::|h[Нити эктоплазмы]|h|r 0", -- [712]
+			"<11:27:05><DEBUG>	 Event: LOOT_CLOSED", -- [713]
+			"<11:27:05><DEBUG>	 Event: LOOT_CLOSED", -- [714]
+			"<11:27:06><Comm>	 ^1^Sl^T^N1^S168934^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [715]
+			"<11:27:06><Comm>	 ^1^Sl^T^N1^S168934^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [716]
+			"<11:27:56><DEBUG>	 Event: LOOT_READY true", -- [717]
+			"<11:27:56><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0 1 Creature-0-1467-2291-18566-168992-00002E3013 1", -- [718]
+			"<11:27:56><DEBUG>	 Event: LOOT_READY true", -- [719]
+			"<11:27:56><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0 1 Creature-0-1467-2291-18566-168992-00002E3013 1", -- [720]
+			"<11:27:57><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176869::::::::60:581:::::::|h[Фрагмент кости]|h|r 0", -- [721]
+			"<11:27:57><DEBUG>	 Event: LOOT_CLOSED", -- [722]
+			"<11:27:57><DEBUG>	 Event: LOOT_CLOSED", -- [723]
+			"<11:27:57><Comm>	 ^1^Sl^T^N1^S168992^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [724]
+			"<11:27:57><Comm>	 ^1^Sl^T^N1^S168992^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [725]
+			"<11:30:11><DEBUG>	 Event: LOOT_READY true", -- [726]
+			"<11:30:11><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-164861-00002E3014 62600", -- [727]
+			"<11:30:11><DEBUG>	 Event: LOOT_READY true", -- [728]
+			"<11:30:11><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-164861-00002E3014 62600", -- [729]
+			"<11:30:11><DEBUG>	 Event: LOOT_CLOSED", -- [730]
+			"<11:30:11><Comm>	 ^1^Sl^T^N1^S164861^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [731]
+			"<11:31:22><DEBUG>	 Event: LOOT_READY true", -- [732]
+			"<11:31:22><DEBUG>	 Event: LOOT_READY true", -- [733]
+			"<11:31:22><DEBUG>	 Event: LOOT_CLOSED", -- [734]
+			"<11:31:23><DEBUG>	 Event: LOOT_READY true", -- [735]
+			"<11:31:23><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176392::::::::60:581:::::::|h[Узорчатое крыло]|h|r 0 1 Creature-0-1467-2291-18566-164862-0001AE3013 1", -- [736]
+			"<11:31:23><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:155635::::::::60:581:::::::|h[Жилистое крыло]|h|r 0 1 Creature-0-1467-2291-18566-171343-0000AE3015 1", -- [737]
+			"<11:31:23><DEBUG>	 Adding to self.lootSlotInfo 5 |cff1eff00|Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::|h[Шлем темного терна с символом бесподобия]|h|r 2 1 Creature-0-1467-2291-18566-171342-00002E3014 1", -- [738]
+			"<11:31:23><DEBUG>	 Event: LOOT_READY true", -- [739]
+			"<11:31:23><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176392::::::::60:581:::::::|h[Узорчатое крыло]|h|r 0 1 Creature-0-1467-2291-18566-164862-0001AE3013 1", -- [740]
+			"<11:31:23><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:155635::::::::60:581:::::::|h[Жилистое крыло]|h|r 0 1 Creature-0-1467-2291-18566-171343-0000AE3015 1", -- [741]
+			"<11:31:23><DEBUG>	 Adding to self.lootSlotInfo 5 |cff1eff00|Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::|h[Шлем темного терна с символом бесподобия]|h|r 2 1 Creature-0-1467-2291-18566-171342-00002E3014 1", -- [742]
+			"<11:31:24><DEBUG>	 Event: LOOT_CLOSED", -- [743]
+			"<11:31:24><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176392::::::::60:581:::::::|h[Узорчатое крыло]|h|r 0", -- [744]
+			"<11:31:24><DEBUG>	 Event: LOOT_CLOSED", -- [745]
+			"<11:31:24><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:155635::::::::60:581:::::::|h[Жилистое крыло]|h|r 0", -- [746]
+			"<11:31:24><DEBUG>	 Event: LOOT_CLOSED", -- [747]
+			"<11:31:24><DEBUG>	 OnLootSlotCleared() 5 |cff1eff00|Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::|h[Шлем темного терна с символом бесподобия]|h|r 2", -- [748]
+			"<11:31:24><DEBUG>	 Event: LOOT_CLOSED", -- [749]
+			"<11:31:24><Comm>	 ^1^Sl^T^N1^S171342^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [750]
+			"<11:31:26><DEBUG>	 Storage:New |cff1eff00|Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::|h[Шлем темного терна с символом бесподобия]|h|r temp", -- [751]
+			"<11:31:26><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::||h[Шлем темного терна с символом бесподобия]||h||r 5", -- [752]
+			"<11:31:26><DEBUG>	 Found: nil nil nil", -- [753]
+			"<11:31:26><DEBUG>	 Event: LOOT_READY true", -- [754]
+			"<11:31:26><DEBUG>	 Event: LOOT_READY true", -- [755]
+			"<11:31:27><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::||h[Шлем темного терна с символом бесподобия]||h||r 5", -- [756]
+			"<11:31:27><DEBUG>	 Found: nil nil nil", -- [757]
+			"<11:31:27><DEBUG>	 Event: LOOT_CLOSED", -- [758]
+			"<11:31:27><DEBUG>	 Event: LOOT_CLOSED", -- [759]
+			"<11:31:28><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::||h[Шлем темного терна с символом бесподобия]||h||r 5", -- [760]
+			"<11:31:28><DEBUG>	 Found: nil nil nil", -- [761]
+			"<11:31:29><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::||h[Шлем темного терна с символом бесподобия]||h||r 5", -- [762]
+			"<11:31:29><DEBUG>	 Found: nil nil nil", -- [763]
+			"<11:31:29><ERROR>	 UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:175558::::::::60:581::2:2:6907:1683:1:28:748:::|h[Шлем темного терна с символом бесподобия]|h|r not found in bags", -- [764]
+			"<11:31:29><DEBUG>	 Event: LOOT_READY true", -- [765]
+			"<11:31:29><DEBUG>	 Event: LOOT_READY true", -- [766]
+			"<11:31:30><DEBUG>	 Event: LOOT_CLOSED", -- [767]
+			"<11:31:30><DEBUG>	 Event: LOOT_CLOSED", -- [768]
+			"<11:31:42><DEBUG>	 Event: ENCOUNTER_START 2400 Дилер Зи'екса 2 5", -- [769]
+			"<11:31:42><INFO>	 UpdatePlayersData()", -- [770]
+			"<11:32:11><DEBUG>	 Event: ENCOUNTER_END 2400 Дилер Зи'екса 2 5 1", -- [771]
+			"<11:32:13><DEBUG>	 Event: LOOT_READY true", -- [772]
+			"<11:32:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-164450-00002E3013 68299", -- [773]
+			"<11:32:13><DEBUG>	 Event: LOOT_READY true", -- [774]
+			"<11:32:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-1467-2291-18566-164450-00002E3013 68299", -- [775]
+			"<11:32:14><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [776]
+			"<11:32:14><DEBUG>	 Event: LOOT_CLOSED", -- [777]
+			"<11:32:14><DEBUG>	 Event: LOOT_CLOSED", -- [778]
+			"<11:32:14><Comm>	 ^1^Sl^T^N1^S164450^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [779]
+			"<11:32:14><Comm>	 ^1^Sl^T^N1^S164450^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [780]
+			"<11:32:23><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2400 179346 |cff0070dd|Hitem:179346::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Кираса смертельных приспособлений]|h|r 1 Аваст-Разувий PALADIN", -- [781]
+			"<11:32:37><DEBUG>	 Event: LOOT_READY true", -- [782]
+			"<11:32:37><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176392::::::::60:581:::::::|h[Узорчатое крыло]|h|r 0 1 Creature-0-1467-2291-18566-164862-00002E3014 1", -- [783]
+			"<11:32:37><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:176391::::::::60:581:::::::|h[Листовая антенна]|h|r 0 1 Creature-0-1467-2291-18566-164862-0000AE3014 1", -- [784]
+			"<11:32:37><DEBUG>	 Event: LOOT_READY true", -- [785]
+			"<11:32:37><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:176392::::::::60:581:::::::|h[Узорчатое крыло]|h|r 0 1 Creature-0-1467-2291-18566-164862-00002E3014 1", -- [786]
+			"<11:32:37><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:176391::::::::60:581:::::::|h[Листовая антенна]|h|r 0 1 Creature-0-1467-2291-18566-164862-0000AE3014 1", -- [787]
+			"<11:32:38><DEBUG>	 Event: LOOT_CLOSED", -- [788]
+			"<11:32:38><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:176392::::::::60:581:::::::|h[Узорчатое крыло]|h|r 0", -- [789]
+			"<11:32:38><DEBUG>	 Event: LOOT_CLOSED", -- [790]
+			"<11:32:38><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:176391::::::::60:581:::::::|h[Листовая антенна]|h|r 0", -- [791]
+			"<11:32:38><DEBUG>	 Event: LOOT_CLOSED", -- [792]
+			"<11:32:38><Comm>	 ^1^Sl^T^N1^S164862^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [793]
+			"<11:32:40><DEBUG>	 Event: LOOT_READY true", -- [794]
+			"<11:32:40><DEBUG>	 Event: LOOT_READY true", -- [795]
+			"<11:32:41><DEBUG>	 Event: LOOT_CLOSED", -- [796]
+			"<11:32:41><DEBUG>	 Event: LOOT_CLOSED", -- [797]
+			"<11:33:32><DEBUG>	 Event: ENCOUNTER_START 2396 Мве'зала 2 5", -- [798]
+			"<11:33:32><INFO>	 UpdatePlayersData()", -- [799]
+			"<11:36:51><DEBUG>	 Event: ENCOUNTER_END 2396 Мве'зала 2 5 1", -- [800]
+			"<11:36:57><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179356 |cff0070dd|Hitem:179356::::::::60:581::2:4:6806:6652:1485:4785:1:28:2044:::|h[Тотем хватки смерти]|h|r 1 Кедас-Азурегос HUNTER", -- [801]
+			"<11:37:01><DEBUG>	 Event: LOOT_READY true", -- [802]
+			"<11:37:01><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-1467-2291-18566-355295-00002E3534 133483", -- [803]
+			"<11:37:01><DEBUG>	 Ignoring |cffff8000|Hcurrency:1822:1|h[Эмблема известности]|h|r as it's a currency", -- [804]
+			"<11:37:01><DEBUG>	 Event: LOOT_READY true", -- [805]
+			"<11:37:01><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-1467-2291-18566-355295-00002E3534 133483", -- [806]
+			"<11:37:01><DEBUG>	 Ignoring |cffff8000|Hcurrency:1822:1|h[Эмблема известности]|h|r as it's a currency", -- [807]
+			"<11:37:01><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [808]
+			"<11:37:02><DEBUG>	 Event: LOOT_CLOSED", -- [809]
+			"<11:37:02><DEBUG>	 Event: LOOT_CLOSED", -- [810]
+			"<11:37:02><Comm>	 ^1^Sl^T^N1^S355295^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [811]
+			"<11:37:02><Comm>	 ^1^Sl^T^N1^S355295^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [812]
+			"<11:37:03><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179355 |cff0070dd|Hitem:179355::::::::60:581::2:5:6806:6652:7193:1485:4785:1:28:2044:::|h[Печатка бога смерти]|h|r 1 Сузуме MAGE", -- [813]
+			"<11:37:04><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [814]
+			"<11:37:06><DEBUG>	 GetML()", -- [815]
+			"<11:37:15><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-2-00005695FFDF", -- [816]
+			"<11:37:15><DEBUG>	 GetML()", -- [817]
+			"<11:37:22><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [818]
+			"<11:37:24><DEBUG>	 GetML()", -- [819]
+			"<04:03:25><INFO>	 Logged In", -- [820]
+			"<04:03:25>[ML]<INFO>	 Init", -- [821]
+			"<04:03:25><INFO>	 RCLootCouncil TradeUI enabled", -- [822]
+			"<04:03:44><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [823]
+			"<04:03:44><DEBUG>	 ActivateSkin bfa", -- [824]
+			"<04:03:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [825]
+			"<04:03:45><INFO>	 UpdatePlayersData()", -- [826]
+			"<04:03:49><DEBUG>	 GetML()", -- [827]
+			"<04:03:50><DEBUG>	 Storage:New |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r temp restored table: 000001D6CAE0C570", -- [828]
+			"<04:03:50><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::||h[Забрызганная кровью чешуйка]||h||r 5", -- [829]
+			"<04:03:50><DEBUG>	 Found item at 3 6", -- [830]
+			"<04:03:50><DEBUG>	 Found: 3 6 0", -- [831]
+			"<04:07:20><DEBUG>	 Event: LOOT_READY true", -- [832]
+			"<04:07:20><DEBUG>	 Event: LOOT_READY true", -- [833]
+			"<04:07:43><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [834]
+			"<04:07:45><DEBUG>	 GetML()", -- [835]
+			"<04:07:45><DEBUG>	 Event: RAID_INSTANCE_WELCOME Монастырь Шадо-Пан (Героический) 17534 0 0", -- [836]
+			"<04:07:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [837]
+			"<04:07:47><DEBUG>	 GetML()", -- [838]
+			"<04:08:22><DEBUG>	 Event: LOOT_READY true", -- [839]
+			"<04:08:22><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-59751-00002F1D5C 11213", -- [840]
+			"<04:08:22><DEBUG>	 Event: LOOT_READY true", -- [841]
+			"<04:08:22><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-59751-00002F1D5C 11213", -- [842]
+			"<04:08:22><DEBUG>	 Event: LOOT_CLOSED", -- [843]
+			"<04:08:22><Comm>	 ^1^Sl^T^N1^S59751^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [844]
+			"<04:09:24><DEBUG>	 Event: LOOT_READY true", -- [845]
+			"<04:09:24><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-59808-00002F1D5C 2970", -- [846]
+			"<04:09:24><DEBUG>	 Event: LOOT_READY true", -- [847]
+			"<04:09:24><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-59808-00002F1D5C 2970", -- [848]
+			"<04:09:24><DEBUG>	 Event: LOOT_CLOSED", -- [849]
+			"<04:09:24><Comm>	 ^1^Sl^T^N1^S59808^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [850]
+			"<04:09:30><DEBUG>	 Event: ENCOUNTER_START 1303 Гу Небесный Удар 2 5", -- [851]
+			"<04:09:30><INFO>	 UpdatePlayersData()", -- [852]
+			"<04:10:19><DEBUG>	 Event: ENCOUNTER_END 1303 Гу Небесный Удар 2 5 1", -- [853]
+			"<04:10:21><DEBUG>	 Event: LOOT_READY true", -- [854]
+			"<04:10:21><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-56747-00002F1D5C 86171", -- [855]
+			"<04:10:21><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [856]
+			"<04:10:21><DEBUG>	 Event: LOOT_READY true", -- [857]
+			"<04:10:21><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-56747-00002F1D5C 86171", -- [858]
+			"<04:10:21><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [859]
+			"<04:10:21><DEBUG>	 Event: LOOT_CLOSED", -- [860]
+			"<04:10:21><Comm>	 ^1^Sl^T^N1^S56747^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [861]
+			"<04:10:23><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1303 144127 |cff0070dd|Hitem:144127::::::::60:581::22:2:7191:6652:2:28:181:9:52:::|h[Подвеска Небесного Удара]|h|r 1 Взялдалушёл-ВечнаяПесня WARLOCK", -- [862]
+			"<04:14:02><DEBUG>	 Event: ENCOUNTER_START 1304 Мастер Снежный Вихрь 2 5", -- [863]
+			"<04:14:02><INFO>	 UpdatePlayersData()", -- [864]
+			"<04:14:37><DEBUG>	 Event: ENCOUNTER_END 1304 Мастер Снежный Вихрь 2 5 1", -- [865]
+			"<04:14:41><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1304 144129 |cff0070dd|Hitem:144129::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Глаз бури]|h|r 1 Меенаа-Гордунни DRUID", -- [866]
+			"<04:14:41><DEBUG>	 Event: LOOT_READY true", -- [867]
+			"<04:14:41><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4243-959-14907-214519-00002F1F0C 180802", -- [868]
+			"<04:14:41><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [869]
+			"<04:14:42><DEBUG>	 Event: LOOT_READY true", -- [870]
+			"<04:14:42><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4243-959-14907-214519-00002F1F0C 180802", -- [871]
+			"<04:14:42><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [872]
+			"<04:14:42><DEBUG>	 Event: LOOT_CLOSED", -- [873]
+			"<04:14:42><Comm>	 ^1^Sl^T^N1^S214519^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [874]
+			"<04:16:47><DEBUG>	 Event: ENCOUNTER_START 1305 Ша Жестокости 2 5", -- [875]
+			"<04:16:47><INFO>	 UpdatePlayersData()", -- [876]
+			"<04:17:30><DEBUG>	 Event: ENCOUNTER_END 1305 Ша Жестокости 2 5 1", -- [877]
+			"<04:17:31><DEBUG>	 Event: LOOT_READY true", -- [878]
+			"<04:17:31><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-56719-00002F1D5C 90495", -- [879]
+			"<04:17:31><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::|h[Гнойный полумесяц]|h|r 3 1 Creature-0-4243-959-14907-56719-00002F1D5C 1", -- [880]
+			"<04:17:31><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [881]
+			"<04:17:31><DEBUG>	 Event: LOOT_READY true", -- [882]
+			"<04:17:31><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4243-959-14907-56719-00002F1D5C 90495", -- [883]
+			"<04:17:31><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::|h[Гнойный полумесяц]|h|r 3 1 Creature-0-4243-959-14907-56719-00002F1D5C 1", -- [884]
+			"<04:17:31><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:5|h[Искаженный временем знак]|h|r as it's a currency", -- [885]
+			"<04:17:31><DEBUG>	 Event: LOOT_CLOSED", -- [886]
+			"<04:17:31><DEBUG>	 OnLootSlotCleared() 2 |cff0070dd|Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::|h[Гнойный полумесяц]|h|r 3", -- [887]
+			"<04:17:31><DEBUG>	 Event: LOOT_CLOSED", -- [888]
+			"<04:17:31><Comm>	 ^1^Sl^T^N1^S56719^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [889]
+			"<04:17:31><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1305 144099 |cff0070dd|Hitem:144099::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Гнойный полумесяц]|h|r 1 Дэлери DEMONHUNTER", -- [890]
+			"<04:17:32><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1305 144130 |cff0070dd|Hitem:144130::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Ожерелье дезориентации]|h|r 1 Пухлаязайка-Гордунни MONK", -- [891]
+			"<04:17:33><DEBUG>	 Storage:New |cff0070dd|Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::|h[Гнойный полумесяц]|h|r temp", -- [892]
+			"<04:17:33><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::||h[Гнойный полумесяц]||h||r 5", -- [893]
+			"<04:17:33><DEBUG>	 Found: nil nil nil", -- [894]
+			"<04:17:34><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::||h[Гнойный полумесяц]||h||r 5", -- [895]
+			"<04:17:34><DEBUG>	 Found: nil nil nil", -- [896]
+			"<04:17:35><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::||h[Гнойный полумесяц]||h||r 5", -- [897]
+			"<04:17:35><DEBUG>	 Found: nil nil nil", -- [898]
+			"<04:17:36><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::||h[Гнойный полумесяц]||h||r 5", -- [899]
+			"<04:17:36><DEBUG>	 Found: nil nil nil", -- [900]
+			"<04:17:36><ERROR>	 UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:144099::::::::60:581::22:2:7191:6652:1:28:181:::|h[Гнойный полумесяц]|h|r not found in bags", -- [901]
+			"<04:19:19><DEBUG>	 Event: ENCOUNTER_START 1306 Тажань Чжу 2 5", -- [902]
+			"<04:19:19><INFO>	 UpdatePlayersData()", -- [903]
+			"<04:19:54><DEBUG>	 Event: ENCOUNTER_END 1306 Тажань Чжу 2 5 1", -- [904]
+			"<04:20:03><DEBUG>	 Event: LOOT_READY true", -- [905]
+			"<04:20:03><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4243-959-14907-213888-00002F204A 171466", -- [906]
+			"<04:20:03><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [907]
+			"<04:20:03><DEBUG>	 Event: LOOT_READY true", -- [908]
+			"<04:20:03><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4243-959-14907-213888-00002F204A 171466", -- [909]
+			"<04:20:03><DEBUG>	 Ignoring |cff0070dd|Hcurrency:1166:10|h[Искаженный временем знак]|h|r as it's a currency", -- [910]
+			"<04:20:04><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [911]
+			"<04:20:04><DEBUG>	 Event: LOOT_CLOSED", -- [912]
+			"<04:20:04><DEBUG>	 Event: LOOT_CLOSED", -- [913]
+			"<04:20:04><Comm>	 ^1^Sl^T^N1^S213888^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [914]
+			"<04:20:04><Comm>	 ^1^Sl^T^N1^S213888^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [915]
+			"<04:20:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1306 144132 |cff0070dd|Hitem:144132::::::::60:581::22:2:7191:6652:2:28:181:9:53:::|h[Печать ненавистной медитации]|h|r 1 Взялдалушёл-ВечнаяПесня WARLOCK", -- [916]
+			"<04:20:06><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [917]
+			"<04:20:08><DEBUG>	 GetML()", -- [918]
+			"<04:20:09><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1306 144133 |cff0070dd|Hitem:144133::::::::60:581::22:2:7191:6652:2:28:181:9:60:::|h[Кольцо злобы]|h|r 1 Меенаа-Гордунни DRUID", -- [919]
+			"<04:20:09><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 1306 143776 |cff0070dd|Hitem:143776::::::::60:581::::1:28:265:::|h[Затуманенная искаженная временем монета]|h|r 1 Меенаа-Гордунни DRUID", -- [920]
+			"<04:20:11><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-000056A2CC34", -- [921]
+			"<04:20:11><DEBUG>	 GetML()", -- [922]
+			"<04:20:17><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [923]
+			"<04:20:18><DEBUG>	 GetML()", -- [924]
+			"<04:20:28><DEBUG>	 Event: LOOT_READY true", -- [925]
+			"<04:20:28><DEBUG>	 Event: LOOT_READY true", -- [926]
+			"<04:21:39><DEBUG>	 Event: LOOT_READY true", -- [927]
+			"<04:21:40><DEBUG>	 Event: LOOT_READY true", -- [928]
+			"<04:22:14><DEBUG>	 Event: LOOT_READY true", -- [929]
+			"<04:22:14><DEBUG>	 Event: LOOT_READY true", -- [930]
+			"<04:22:35><DEBUG>	 Event: LOOT_READY true", -- [931]
+			"<04:22:35><DEBUG>	 Event: LOOT_READY true", -- [932]
+			"<04:23:05><DEBUG>	 Event: LOOT_READY true", -- [933]
+			"<04:23:05><DEBUG>	 Event: LOOT_READY true", -- [934]
+			"<04:23:17><DEBUG>	 Event: LOOT_READY true", -- [935]
+			"<04:23:18><DEBUG>	 Event: LOOT_READY true", -- [936]
+			"<04:23:25><DEBUG>	 Event: LOOT_READY true", -- [937]
+			"<04:23:25><DEBUG>	 Event: LOOT_READY true", -- [938]
+			"<04:25:35><DEBUG>	 Event: LOOT_READY true", -- [939]
+			"<04:25:35><DEBUG>	 Event: LOOT_READY true", -- [940]
+			"<04:26:02><DEBUG>	 Event: LOOT_READY true", -- [941]
+			"<04:26:02><DEBUG>	 Event: LOOT_READY true", -- [942]
+			"<04:26:25><DEBUG>	 Event: LOOT_READY true", -- [943]
+			"<04:26:25><DEBUG>	 Event: LOOT_READY true", -- [944]
+			"<04:27:30><DEBUG>	 Event: LOOT_READY true", -- [945]
+			"<04:27:31><DEBUG>	 Event: LOOT_READY true", -- [946]
+			"<04:28:10><DEBUG>	 Event: LOOT_READY true", -- [947]
+			"<04:28:10><DEBUG>	 Event: LOOT_READY true", -- [948]
+			"<04:33:23><DEBUG>	 Event: LOOT_READY true", -- [949]
+			"<04:33:23><DEBUG>	 Event: LOOT_READY true", -- [950]
+			"<04:33:23><DEBUG>	 Event: LOOT_READY true", -- [951]
+			"<04:33:40><DEBUG>	 Event: LOOT_READY true", -- [952]
+			"<04:33:41><DEBUG>	 Event: LOOT_READY true", -- [953]
+			"<04:34:21><DEBUG>	 Event: LOOT_READY true", -- [954]
+			"<04:34:21><DEBUG>	 Event: LOOT_READY true", -- [955]
+			"<04:34:52><DEBUG>	 Event: LOOT_READY true", -- [956]
+			"<04:34:53><DEBUG>	 Event: LOOT_READY true", -- [957]
+			"<04:35:07><DEBUG>	 Event: LOOT_READY true", -- [958]
+			"<04:35:08><DEBUG>	 Event: LOOT_READY true", -- [959]
+			"<04:35:31><DEBUG>	 Event: LOOT_READY true", -- [960]
+			"<04:35:31><DEBUG>	 Event: LOOT_READY true", -- [961]
+			"<04:35:53><DEBUG>	 Event: LOOT_READY true", -- [962]
+			"<04:35:53><DEBUG>	 Event: LOOT_READY true", -- [963]
+			"<04:36:24><DEBUG>	 Event: LOOT_READY true", -- [964]
+			"<04:36:24><DEBUG>	 Event: LOOT_READY true", -- [965]
+			"<04:36:38><DEBUG>	 Event: LOOT_READY true", -- [966]
+			"<04:36:38><DEBUG>	 Event: LOOT_READY true", -- [967]
+			"<04:42:17><DEBUG>	 Event: LOOT_READY true", -- [968]
+			"<04:42:17><DEBUG>	 Event: LOOT_READY true", -- [969]
+			"<04:43:38><DEBUG>	 Event: LOOT_READY true", -- [970]
+			"<04:43:39><DEBUG>	 Event: LOOT_READY true", -- [971]
+			"<04:44:10><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [972]
+			"<04:44:12><DEBUG>	 GetML()", -- [973]
+			"<04:46:48><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [974]
+			"<04:46:49><DEBUG>	 GetML()", -- [975]
+			"<04:49:03><INFO>	 Logged In", -- [976]
+			"<04:49:03>[ML]<INFO>	 Init", -- [977]
+			"<04:49:03><INFO>	 RCLootCouncil TradeUI enabled", -- [978]
+			"<04:49:20><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [979]
+			"<04:49:20><DEBUG>	 ActivateSkin bfa", -- [980]
+			"<04:49:21><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [981]
+			"<04:49:21><INFO>	 UpdatePlayersData()", -- [982]
+			"<04:49:24><DEBUG>	 GetML()", -- [983]
+			"<04:49:24><DEBUG>	 Storage:New |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r temp restored table: 000001D71C4F5CB0", -- [984]
+			"<04:49:24><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::||h[Забрызганная кровью чешуйка]||h||r 5", -- [985]
+			"<04:49:24><DEBUG>	 Found item at 3 6", -- [986]
+			"<04:49:24><DEBUG>	 Found: 3 6 0", -- [987]
+			"<05:02:43><DEBUG>	 Event: LOOT_READY true", -- [988]
+			"<05:02:43><DEBUG>	 Event: LOOT_READY true", -- [989]
+			"<05:04:20><DEBUG>	 Event: LOOT_READY true", -- [990]
+			"<05:04:21><DEBUG>	 Event: LOOT_READY true", -- [991]
+			"<05:04:44><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [992]
+			"<05:04:46><DEBUG>	 GetML()", -- [993]
+			"<05:04:46><Data.Player>	 CreatePlayer Player-1080-0A24AE99", -- [994]
+			"<05:04:46><DEBUG>	 Resetting council as we have a new ML!", -- [995]
+			"<05:04:46><INFO>	 MasterLooter =  Ammit-Bloodhoof", -- [996]
+			"<05:05:01><DEBUG>	 Timer MLdb_check passed", -- [997]
+			"<05:05:02><Comm>	 ^1^Sxrealm^T^N1^SAmmit-Bloodhoof^N2^SMLdb_request^t^^ RAID дэлери-Борейскаятундра", -- [998]
+			"<05:05:02><Comm>	 ^1^Sxrealm^T^N1^SAmmit-Bloodhoof^N2^Scouncil_request^t^^ RAID дэлери-Борейскаятундра", -- [999]
+			"<05:07:40><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1000]
+			"<05:07:42><DEBUG>	 GetML()", -- [1001]
+			"<05:07:42><Data.Player>	 CreatePlayer Player-3679-0BAEECDD", -- [1002]
+			"<05:07:42><DEBUG>	 Resetting council as we have a new ML!", -- [1003]
+			"<05:07:42><INFO>	 MasterLooter =  Algúroth-Aegwynn", -- [1004]
+			"<05:07:49><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1005]
+			"<05:07:50><DEBUG>	 Event: GROUP_LEFT 1 Party-1080-1-000056A2E52D", -- [1006]
+			"<05:07:50><DEBUG>	 GetML()", -- [1007]
+			"<05:07:51><DEBUG>	 GetML()", -- [1008]
+			"<05:07:57><DEBUG>	 Timer MLdb_check passed", -- [1009]
+			"<05:19:30><DEBUG>	 Event: LOOT_READY true", -- [1010]
+			"<05:19:30><DEBUG>	 Event: LOOT_READY true", -- [1011]
+			"<05:19:52><DEBUG>	 Event: LOOT_READY true", -- [1012]
+			"<05:19:52><DEBUG>	 Event: LOOT_READY true", -- [1013]
+			"<05:19:55><DEBUG>	 Event: LOOT_READY true", -- [1014]
+			"<05:19:55><DEBUG>	 Event: LOOT_READY true", -- [1015]
+			"<05:20:24><DEBUG>	 Event: LOOT_READY true", -- [1016]
+			"<05:20:25><DEBUG>	 Event: LOOT_READY true", -- [1017]
+			"<05:20:54><DEBUG>	 Event: LOOT_READY true", -- [1018]
+			"<05:20:55><DEBUG>	 Event: LOOT_READY true", -- [1019]
+			"<05:21:40><DEBUG>	 Event: LOOT_READY true", -- [1020]
+			"<05:21:40><DEBUG>	 Event: LOOT_READY true", -- [1021]
+			"<05:21:58><DEBUG>	 Event: LOOT_READY true", -- [1022]
+			"<05:21:58><DEBUG>	 Event: LOOT_READY true", -- [1023]
+			"<05:22:07><DEBUG>	 Event: LOOT_READY true", -- [1024]
+			"<05:22:07><DEBUG>	 Event: LOOT_READY true", -- [1025]
+			"<05:22:28><DEBUG>	 Event: LOOT_READY true", -- [1026]
+			"<05:22:29><DEBUG>	 Event: LOOT_READY true", -- [1027]
+			"<05:22:47><DEBUG>	 Event: LOOT_READY true", -- [1028]
+			"<05:22:47><DEBUG>	 Event: LOOT_READY true", -- [1029]
+			"<05:22:54><DEBUG>	 Event: LOOT_READY true", -- [1030]
+			"<05:22:54><DEBUG>	 Event: LOOT_READY true", -- [1031]
+			"<05:23:11><DEBUG>	 Event: LOOT_READY true", -- [1032]
+			"<05:23:11><DEBUG>	 Event: LOOT_READY true", -- [1033]
+			"<05:23:47><DEBUG>	 Event: LOOT_READY true", -- [1034]
+			"<05:23:47><DEBUG>	 Event: LOOT_READY true", -- [1035]
+			"<05:24:54><DEBUG>	 Event: LOOT_READY true", -- [1036]
+			"<05:24:55><DEBUG>	 Event: LOOT_READY true", -- [1037]
+			"<05:26:02><DEBUG>	 Event: LOOT_READY true", -- [1038]
+			"<05:26:03><DEBUG>	 Event: LOOT_READY true", -- [1039]
+			"<05:26:21><DEBUG>	 Event: LOOT_READY true", -- [1040]
+			"<05:26:21><DEBUG>	 Event: LOOT_READY true", -- [1041]
+			"<05:27:20><DEBUG>	 Event: LOOT_READY true", -- [1042]
+			"<05:27:21><DEBUG>	 Event: LOOT_READY true", -- [1043]
+			"<05:27:42><DEBUG>	 Event: LOOT_READY true", -- [1044]
+			"<05:27:42><DEBUG>	 Event: LOOT_READY true", -- [1045]
+			"<05:28:22><DEBUG>	 Event: LOOT_READY true", -- [1046]
+			"<05:28:22><DEBUG>	 Event: LOOT_READY true", -- [1047]
+			"<05:28:40><DEBUG>	 Event: LOOT_READY true", -- [1048]
+			"<05:28:40><DEBUG>	 Event: LOOT_READY true", -- [1049]
+			"<05:28:53><DEBUG>	 Event: LOOT_READY true", -- [1050]
+			"<05:28:54><DEBUG>	 Event: LOOT_READY true", -- [1051]
+			"<05:30:34><DEBUG>	 Event: LOOT_READY true", -- [1052]
+			"<05:30:34><DEBUG>	 Event: LOOT_READY true", -- [1053]
+			"<05:30:35><DEBUG>	 Event: LOOT_READY true", -- [1054]
+			"<05:30:35><DEBUG>	 Event: LOOT_READY true", -- [1055]
+			"<05:30:35><DEBUG>	 Event: LOOT_READY true", -- [1056]
+			"<05:30:35><DEBUG>	 Event: LOOT_READY true", -- [1057]
+			"<05:30:35><DEBUG>	 Event: LOOT_READY true", -- [1058]
+			"<05:30:51><DEBUG>	 Event: LOOT_READY true", -- [1059]
+			"<05:30:51><DEBUG>	 Event: LOOT_READY true", -- [1060]
+			"<05:31:15><DEBUG>	 Event: LOOT_READY true", -- [1061]
+			"<05:31:15><DEBUG>	 Event: LOOT_READY true", -- [1062]
+			"<05:31:18><DEBUG>	 Event: LOOT_READY true", -- [1063]
+			"<05:31:18><DEBUG>	 Event: LOOT_READY true", -- [1064]
+			"<05:31:41><DEBUG>	 Event: LOOT_READY true", -- [1065]
+			"<05:31:42><DEBUG>	 Event: LOOT_READY true", -- [1066]
+			"<05:31:45><DEBUG>	 Event: LOOT_READY true", -- [1067]
+			"<05:31:45><DEBUG>	 Event: LOOT_READY true", -- [1068]
+			"<05:32:14><DEBUG>	 Event: LOOT_READY true", -- [1069]
+			"<05:32:14><DEBUG>	 Event: LOOT_READY true", -- [1070]
+			"<05:32:22><DEBUG>	 Event: LOOT_READY true", -- [1071]
+			"<05:32:22><DEBUG>	 Event: LOOT_READY true", -- [1072]
+			"<05:32:42><DEBUG>	 Event: LOOT_READY true", -- [1073]
+			"<05:32:43><DEBUG>	 Event: LOOT_READY true", -- [1074]
+			"<05:32:51><DEBUG>	 Event: LOOT_READY true", -- [1075]
+			"<05:32:51><DEBUG>	 Event: LOOT_READY true", -- [1076]
+			"<05:33:10><DEBUG>	 Event: LOOT_READY true", -- [1077]
+			"<05:33:11><DEBUG>	 Event: LOOT_READY true", -- [1078]
+			"<05:33:41><DEBUG>	 Event: LOOT_READY true", -- [1079]
+			"<05:33:41><DEBUG>	 Event: LOOT_READY true", -- [1080]
+			"<05:33:44><DEBUG>	 Event: LOOT_READY true", -- [1081]
+			"<05:33:45><DEBUG>	 Event: LOOT_READY true", -- [1082]
+			"<05:34:43><DEBUG>	 Event: LOOT_READY true", -- [1083]
+			"<05:34:44><DEBUG>	 Event: LOOT_READY true", -- [1084]
+			"<05:35:07><DEBUG>	 Event: LOOT_READY true", -- [1085]
+			"<05:35:07><DEBUG>	 Event: LOOT_READY true", -- [1086]
+			"<05:35:08><DEBUG>	 Event: LOOT_READY true", -- [1087]
+			"<05:35:08><DEBUG>	 Event: LOOT_READY true", -- [1088]
+			"<05:35:14><DEBUG>	 Event: LOOT_READY true", -- [1089]
+			"<05:35:14><DEBUG>	 Event: LOOT_READY true", -- [1090]
+			"<05:35:24><DEBUG>	 Event: LOOT_READY true", -- [1091]
+			"<05:35:24><DEBUG>	 Event: LOOT_READY true", -- [1092]
+			"<05:35:40><DEBUG>	 Event: LOOT_READY true", -- [1093]
+			"<05:35:41><DEBUG>	 Event: LOOT_READY true", -- [1094]
+			"<05:35:43><DEBUG>	 Event: LOOT_READY true", -- [1095]
+			"<05:35:44><DEBUG>	 Event: LOOT_READY true", -- [1096]
+			"<05:36:11><DEBUG>	 Event: LOOT_READY true", -- [1097]
+			"<05:36:12><DEBUG>	 Event: LOOT_READY true", -- [1098]
+			"<05:37:57><DEBUG>	 Event: LOOT_READY true", -- [1099]
+			"<05:37:58><DEBUG>	 Event: LOOT_READY true", -- [1100]
+			"<05:37:59><DEBUG>	 Event: LOOT_READY true", -- [1101]
+			"<05:38:00><DEBUG>	 Event: LOOT_READY true", -- [1102]
+			"<05:43:47><DEBUG>	 Event: LOOT_READY true", -- [1103]
+			"<05:43:47><DEBUG>	 Event: LOOT_READY true", -- [1104]
+			"<05:43:51><DEBUG>	 Event: LOOT_READY true", -- [1105]
+			"<05:43:51><DEBUG>	 Event: LOOT_READY true", -- [1106]
+			"<05:44:07><DEBUG>	 Event: LOOT_READY true", -- [1107]
+			"<05:44:07><DEBUG>	 Event: LOOT_READY true", -- [1108]
+			"<05:44:17><DEBUG>	 Event: LOOT_READY true", -- [1109]
+			"<05:44:17><DEBUG>	 Event: LOOT_READY true", -- [1110]
+			"<05:44:24><DEBUG>	 Event: LOOT_READY true", -- [1111]
+			"<05:44:24><DEBUG>	 Event: LOOT_READY true", -- [1112]
+			"<05:44:31><DEBUG>	 Event: LOOT_READY true", -- [1113]
+			"<05:44:31><DEBUG>	 Event: LOOT_READY true", -- [1114]
+			"<05:44:34><DEBUG>	 Event: LOOT_READY true", -- [1115]
+			"<05:44:34><DEBUG>	 Event: LOOT_READY true", -- [1116]
+			"<05:44:48><DEBUG>	 Event: LOOT_READY true", -- [1117]
+			"<05:44:48><DEBUG>	 Event: LOOT_READY true", -- [1118]
+			"<05:45:06><DEBUG>	 Event: LOOT_READY true", -- [1119]
+			"<05:45:06><DEBUG>	 Event: LOOT_READY true", -- [1120]
+			"<05:45:21><DEBUG>	 Event: LOOT_READY true", -- [1121]
+			"<05:45:22><DEBUG>	 Event: LOOT_READY true", -- [1122]
+			"<05:45:23><DEBUG>	 Event: LOOT_READY true", -- [1123]
+			"<05:45:23><DEBUG>	 Event: LOOT_READY true", -- [1124]
+			"<05:46:03><DEBUG>	 Event: LOOT_READY true", -- [1125]
+			"<05:46:03><DEBUG>	 Event: LOOT_READY true", -- [1126]
+			"<05:46:13><DEBUG>	 Event: LOOT_READY true", -- [1127]
+			"<05:46:13><DEBUG>	 Event: LOOT_READY true", -- [1128]
+			"<05:46:32><DEBUG>	 Event: LOOT_READY true", -- [1129]
+			"<05:46:32><DEBUG>	 Event: LOOT_READY true", -- [1130]
+			"<05:46:40><DEBUG>	 Event: LOOT_READY true", -- [1131]
+			"<05:46:40><DEBUG>	 Event: LOOT_READY true", -- [1132]
+			"<05:47:49><DEBUG>	 Event: LOOT_READY true", -- [1133]
+			"<05:47:49><DEBUG>	 Event: LOOT_READY true", -- [1134]
+			"<05:47:52><DEBUG>	 Event: LOOT_READY true", -- [1135]
+			"<05:47:52><DEBUG>	 Event: LOOT_READY true", -- [1136]
+			"<05:49:08><DEBUG>	 Event: LOOT_READY true", -- [1137]
+			"<05:49:08><DEBUG>	 Event: LOOT_READY true", -- [1138]
+			"<05:50:23><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1139]
+			"<05:50:25><DEBUG>	 GetML()", -- [1140]
+			"<05:50:54><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1141]
+			"<05:50:56><DEBUG>	 GetML()", -- [1142]
+			"<05:52:00><DEBUG>	 Event: LOOT_READY true", -- [1143]
+			"<05:52:00><DEBUG>	 Event: LOOT_READY true", -- [1144]
+			"<05:53:39><DEBUG>	 Event: LOOT_READY true", -- [1145]
+			"<05:53:40><DEBUG>	 Event: LOOT_READY true", -- [1146]
+			"<05:54:03><DEBUG>	 Event: LOOT_READY true", -- [1147]
+			"<05:54:04><DEBUG>	 Event: LOOT_READY true", -- [1148]
+			"<05:54:20><DEBUG>	 Event: LOOT_READY true", -- [1149]
+			"<05:54:21><DEBUG>	 Event: LOOT_READY true", -- [1150]
+			"<05:54:30><DEBUG>	 Event: LOOT_READY true", -- [1151]
+			"<05:54:30><DEBUG>	 Event: LOOT_READY true", -- [1152]
+			"<05:54:39><DEBUG>	 Event: LOOT_READY true", -- [1153]
+			"<05:54:39><DEBUG>	 Event: LOOT_READY true", -- [1154]
+			"<05:54:42><DEBUG>	 Event: LOOT_READY true", -- [1155]
+			"<05:54:42><DEBUG>	 Event: LOOT_READY true", -- [1156]
+			"<05:54:53><DEBUG>	 Event: LOOT_READY true", -- [1157]
+			"<05:54:54><DEBUG>	 Event: LOOT_READY true", -- [1158]
+			"<05:54:58><DEBUG>	 Event: LOOT_READY true", -- [1159]
+			"<05:54:58><DEBUG>	 Event: LOOT_READY true", -- [1160]
+			"<05:55:13><DEBUG>	 Event: LOOT_READY true", -- [1161]
+			"<05:55:14><DEBUG>	 Event: LOOT_READY true", -- [1162]
+			"<05:55:20><DEBUG>	 Event: LOOT_READY true", -- [1163]
+			"<05:55:20><DEBUG>	 Event: LOOT_READY true", -- [1164]
+			"<05:55:23><DEBUG>	 Event: LOOT_READY true", -- [1165]
+			"<05:55:24><DEBUG>	 Event: LOOT_READY true", -- [1166]
+			"<05:55:44><DEBUG>	 Event: LOOT_READY true", -- [1167]
+			"<05:55:44><DEBUG>	 Event: LOOT_READY true", -- [1168]
+			"<05:55:46><DEBUG>	 Event: LOOT_READY true", -- [1169]
+			"<05:55:47><DEBUG>	 Event: LOOT_READY true", -- [1170]
+			"<05:57:49><DEBUG>	 Event: LOOT_READY true", -- [1171]
+			"<05:57:49><DEBUG>	 Event: LOOT_READY true", -- [1172]
+			"<05:57:49><DEBUG>	 Event: LOOT_READY true", -- [1173]
+			"<05:57:49><DEBUG>	 Event: LOOT_READY true", -- [1174]
+			"<05:57:49><DEBUG>	 Event: LOOT_READY true", -- [1175]
+			"<05:57:49><DEBUG>	 Event: LOOT_READY true", -- [1176]
+			"<05:58:06><DEBUG>	 Event: LOOT_READY true", -- [1177]
+			"<05:58:06><DEBUG>	 Event: LOOT_READY true", -- [1178]
+			"<05:58:19><DEBUG>	 Event: LOOT_READY true", -- [1179]
+			"<05:58:19><DEBUG>	 Event: LOOT_READY true", -- [1180]
+			"<05:58:36><DEBUG>	 Event: LOOT_READY true", -- [1181]
+			"<05:58:37><DEBUG>	 Event: LOOT_READY true", -- [1182]
+			"<05:59:03><DEBUG>	 Event: LOOT_READY true", -- [1183]
+			"<05:59:03><DEBUG>	 Event: LOOT_READY true", -- [1184]
+			"<05:59:36><DEBUG>	 Event: LOOT_READY true", -- [1185]
+			"<05:59:37><DEBUG>	 Event: LOOT_READY true", -- [1186]
+			"<06:00:33><DEBUG>	 Event: LOOT_READY true", -- [1187]
+			"<06:00:33><DEBUG>	 Event: LOOT_READY true", -- [1188]
+			"<06:02:09><DEBUG>	 Event: LOOT_READY true", -- [1189]
+			"<06:02:09><DEBUG>	 Event: LOOT_READY true", -- [1190]
+			"<06:02:56><DEBUG>	 Event: LOOT_READY true", -- [1191]
+			"<06:02:56><DEBUG>	 Event: LOOT_READY true", -- [1192]
+			"<06:03:12><DEBUG>	 Event: LOOT_READY true", -- [1193]
+			"<06:03:12><DEBUG>	 Event: LOOT_READY true", -- [1194]
+			"<06:03:12><DEBUG>	 Event: LOOT_READY true", -- [1195]
+			"<06:04:47><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1196]
+			"<06:04:49><DEBUG>	 GetML()", -- [1197]
+			"<06:08:13><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1198]
+			"<06:08:15><DEBUG>	 GetML()", -- [1199]
+			"<06:09:57><DEBUG>	 Event: LOOT_READY true", -- [1200]
+			"<06:09:57><DEBUG>	 Event: LOOT_READY true", -- [1201]
+			"<06:09:57><DEBUG>	 Event: LOOT_READY true", -- [1202]
+			"<06:09:57><DEBUG>	 Event: LOOT_READY true", -- [1203]
+			"<06:09:58><DEBUG>	 Event: LOOT_READY true", -- [1204]
+			"<06:10:28><DEBUG>	 Event: LOOT_READY true", -- [1205]
+			"<06:10:28><DEBUG>	 Event: LOOT_READY true", -- [1206]
+			"<06:10:49><DEBUG>	 Event: LOOT_READY true", -- [1207]
+			"<06:10:50><DEBUG>	 Event: LOOT_READY true", -- [1208]
+			"<06:12:24><DEBUG>	 Event: LOOT_READY true", -- [1209]
+			"<06:12:24><DEBUG>	 Event: LOOT_READY true", -- [1210]
+			"<06:13:15><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1211]
+			"<06:13:17><DEBUG>	 GetML()", -- [1212]
+			"<06:13:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1213]
+			"<06:13:28><DEBUG>	 GetML()", -- [1214]
+			"<06:13:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1215]
+			"<06:13:54><DEBUG>	 GetML()", -- [1216]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1217]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1218]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1219]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1220]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1221]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1222]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1223]
+			"<06:40:50><DEBUG>	 Event: LOOT_READY true", -- [1224]
+			"<06:41:19><DEBUG>	 Event: LOOT_READY true", -- [1225]
+			"<06:41:19><DEBUG>	 Event: LOOT_READY true", -- [1226]
+			"<06:41:53><DEBUG>	 Event: LOOT_READY true", -- [1227]
+			"<06:41:53><DEBUG>	 Event: LOOT_READY true", -- [1228]
+			"<06:42:19><DEBUG>	 Event: LOOT_READY true", -- [1229]
+			"<06:42:19><DEBUG>	 Event: LOOT_READY true", -- [1230]
+			"<06:43:08><DEBUG>	 Event: LOOT_READY true", -- [1231]
+			"<06:43:08><DEBUG>	 Event: LOOT_READY true", -- [1232]
+			"<06:43:32><DEBUG>	 Event: LOOT_READY true", -- [1233]
+			"<06:43:32><DEBUG>	 Event: LOOT_READY true", -- [1234]
+			"<06:44:06><DEBUG>	 Event: LOOT_READY true", -- [1235]
+			"<06:44:07><DEBUG>	 Event: LOOT_READY true", -- [1236]
+			"<06:45:49><DEBUG>	 Event: LOOT_READY true", -- [1237]
+			"<06:45:49><DEBUG>	 Event: LOOT_READY true", -- [1238]
+			"<06:46:31><DEBUG>	 Event: LOOT_READY true", -- [1239]
+			"<06:46:31><DEBUG>	 Event: LOOT_READY true", -- [1240]
+			"<06:48:01><DEBUG>	 Event: LOOT_READY true", -- [1241]
+			"<06:48:01><DEBUG>	 Event: LOOT_READY true", -- [1242]
+			"<06:49:42><DEBUG>	 Event: LOOT_READY true", -- [1243]
+			"<06:49:43><DEBUG>	 Event: LOOT_READY true", -- [1244]
+			"<06:50:06><DEBUG>	 Event: LOOT_READY true", -- [1245]
+			"<06:50:07><DEBUG>	 Event: LOOT_READY true", -- [1246]
+			"<06:50:44><DEBUG>	 Event: LOOT_READY true", -- [1247]
+			"<06:50:44><DEBUG>	 Event: LOOT_READY true", -- [1248]
+			"<06:51:09><DEBUG>	 Event: LOOT_READY true", -- [1249]
+			"<06:51:09><DEBUG>	 Event: LOOT_READY true", -- [1250]
+			"<06:51:41><DEBUG>	 Event: LOOT_READY true", -- [1251]
+			"<06:51:41><DEBUG>	 Event: LOOT_READY true", -- [1252]
+			"<06:52:23><DEBUG>	 Event: LOOT_READY true", -- [1253]
+			"<06:52:23><DEBUG>	 Event: LOOT_READY true", -- [1254]
+			"<06:53:32><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1255]
+			"<06:53:34><DEBUG>	 GetML()", -- [1256]
+			"<06:53:34><Data.Player>	 CreatePlayer Player-1602-0EBBBBA9", -- [1257]
+			"<06:53:34><DEBUG>	 Resetting council as we have a new ML!", -- [1258]
+			"<06:53:34><INFO>	 MasterLooter =  парвинка-Гордунни", -- [1259]
+			"<06:53:49><DEBUG>	 Timer MLdb_check passed", -- [1260]
+			"<06:53:49><Comm>	 ^1^Sxrealm^T^N1^Sпарвинка-Гордунни^N2^SMLdb_request^t^^ PARTY дэлери-Борейскаятундра", -- [1261]
+			"<06:53:49><Comm>	 ^1^Sxrealm^T^N1^Sпарвинка-Гордунни^N2^Scouncil_request^t^^ PARTY дэлери-Борейскаятундра", -- [1262]
+			"<06:56:26><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1263]
+			"<06:56:29><DEBUG>	 GetML()", -- [1264]
+			"<06:56:48><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1265]
+			"<06:56:50><DEBUG>	 GetML()", -- [1266]
+			"<06:57:25><DEBUG>	 Event: RAID_INSTANCE_WELCOME Туманы Тирна Скитта (Эпохальный) 439354 0 0", -- [1267]
+			"<06:57:26><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1268]
+			"<06:57:27><DEBUG>	 GetML()", -- [1269]
+			"<06:58:30><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1270]
+			"<06:58:32><DEBUG>	 GetML()", -- [1271]
+			"<06:58:32><Data.Player>	 CreatePlayer Player-1602-0ED9AC95", -- [1272]
+			"<06:58:32><DEBUG>	 Resetting council as we have a new ML!", -- [1273]
+			"<06:58:32><INFO>	 MasterLooter =  руко-Гордунни", -- [1274]
+			"<06:58:47><DEBUG>	 Timer MLdb_check passed", -- [1275]
+			"<06:58:47><Comm>	 ^1^Sxrealm^T^N1^Sруко-Гордунни^N2^SMLdb_request^t^^ PARTY дэлери-Борейскаятундра", -- [1276]
+			"<06:58:47><Comm>	 ^1^Sxrealm^T^N1^Sруко-Гордунни^N2^Scouncil_request^t^^ PARTY дэлери-Борейскаятундра", -- [1277]
+			"<07:02:05><DEBUG>	 Event: ENCOUNTER_START 2397 Ингра Малох 8 5", -- [1278]
+			"<07:02:05><INFO>	 UpdatePlayersData()", -- [1279]
+			"<07:03:14><DEBUG>	 Event: ENCOUNTER_END 2397 Ингра Малох 8 5 1", -- [1280]
+			"<07:07:33><DEBUG>	 Event: ENCOUNTER_START 2392 Призывательница Туманов 8 5", -- [1281]
+			"<07:07:33><INFO>	 UpdatePlayersData()", -- [1282]
+			"<07:09:31><DEBUG>	 Event: ENCOUNTER_END 2392 Призывательница Туманов 8 5 1", -- [1283]
+			"<07:12:57><DEBUG>	 Event: ENCOUNTER_START 2393 Тред'ова 8 5", -- [1284]
+			"<07:12:57><INFO>	 UpdatePlayersData()", -- [1285]
+			"<07:14:20><DEBUG>	 Event: ENCOUNTER_END 2393 Тред'ова 8 5 1", -- [1286]
+			"<07:15:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178698 |cffa335ee|Hitem:178698::::::::60:581::16:4:6808:6652:1501:6646:1:28:1279:::|h[Хауберк радужной тени]|h|r 1 Руко-Гордунни DRUID", -- [1287]
+			"<07:15:57><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183266 |cffff8000|Hitem:183266::::::::60:581::16::1:28:1279:::|h[Воспоминание о четком распорядке]|h|r 1 Arcanestein-Hellscream MAGE", -- [1288]
+			"<07:15:59><DEBUG>	 Event: LOOT_READY true", -- [1289]
+			"<07:15:59><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3768-2290-12885-354972-00002F4976 537791", -- [1290]
+			"<07:15:59><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r 3 1 GameObject-0-3768-2290-12885-354972-00002F4976 1", -- [1291]
+			"<07:15:59><DEBUG>	 Event: LOOT_READY true", -- [1292]
+			"<07:15:59><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3768-2290-12885-354972-00002F4976 537791", -- [1293]
+			"<07:15:59><DEBUG>	 Adding to self.lootSlotInfo 2 |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r 3 1 GameObject-0-3768-2290-12885-354972-00002F4976 1", -- [1294]
+			"<07:15:59><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1295]
+			"<07:15:59><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183623 |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r 1 Парвинка-Гордунни WARRIOR", -- [1296]
+			"<07:15:59><DEBUG>	 OnLootSlotCleared() 2 |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r 3", -- [1297]
+			"<07:15:59><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183623 |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r 1 Дэлери DEMONHUNTER", -- [1298]
+			"<07:16:00><DEBUG>	 Event: LOOT_CLOSED", -- [1299]
+			"<07:16:00><DEBUG>	 Event: LOOT_CLOSED", -- [1300]
+			"<07:16:00><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 184382 |cff0070dd|Hitem:184382::::::::60:581:::::::|h[Светящаяся рощаника]|h|r 2 Дэлери DEMONHUNTER", -- [1301]
+			"<07:16:00><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY дэлери-Борейскаятундра", -- [1302]
+			"<07:16:00><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY дэлери-Борейскаятундра", -- [1303]
+			"<07:16:01><DEBUG>	 Storage:New |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r temp", -- [1304]
+			"<07:16:01><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:183623::::::::60:581::16::1:28:373:::||h[Гормлинг-иглобрюх]||h||r 5", -- [1305]
+			"<07:16:01><DEBUG>	 Found item at 0 1", -- [1306]
+			"<07:16:02><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:183623::::::::60:581::16::1:28:373:::||h[Гормлинг-иглобрюх]||h||r 5", -- [1307]
+			"<07:16:02><DEBUG>	 Found item at 0 1", -- [1308]
+			"<07:16:03><Comm>	 ^1^Stradable^T^N1^S|cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r^N2^S354972^t^^ PARTY дэлери-Борейскаятундра", -- [1309]
+			"<07:16:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178706 |cffa335ee|Hitem:178706::::::::60:581::16:4:6808:6652:1501:6646:1:28:1279:::|h[Рукавицы ткача туманов]|h|r 1 Ророру-Азурегос PALADIN", -- [1310]
+			"<07:17:08><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1311]
+			"<07:17:09><DEBUG>	 GetML()", -- [1312]
+			"<07:17:28><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1313]
+			"<07:17:30><DEBUG>	 GetML()", -- [1314]
+			"<07:21:18><DEBUG>	 Event: RAID_INSTANCE_WELCOME Кровавые катакомбы (Эпохальный) 437921 0 0", -- [1315]
+			"<07:21:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1316]
+			"<07:21:20><DEBUG>	 GetML()", -- [1317]
+			"<07:27:38><DEBUG>	 Event: ENCOUNTER_START 2360 Криксис Ненасытный 8 5", -- [1318]
+			"<07:27:38><INFO>	 UpdatePlayersData()", -- [1319]
+			"<07:29:23><DEBUG>	 Event: ENCOUNTER_END 2360 Криксис Ненасытный 8 5 1", -- [1320]
+			"<07:40:10><DEBUG>	 Event: ENCOUNTER_START 2361 Вершитель Тарвольд 8 5", -- [1321]
+			"<07:40:10><INFO>	 UpdatePlayersData()", -- [1322]
+			"<07:41:22><DEBUG>	 Event: ENCOUNTER_END 2361 Вершитель Тарвольд 8 5 1", -- [1323]
+			"<07:44:40><DEBUG>	 Event: ENCOUNTER_START 2362 Верховная надзирательница Бериллия 8 5", -- [1324]
+			"<07:44:40><INFO>	 UpdatePlayersData()", -- [1325]
+			"<07:46:47><DEBUG>	 Event: ENCOUNTER_END 2362 Верховная надзирательница Бериллия 8 5 1", -- [1326]
+			"<07:55:10><DEBUG>	 Event: ENCOUNTER_START 2363 Генерал Кааль 8 5", -- [1327]
+			"<07:55:10><INFO>	 UpdatePlayersData()", -- [1328]
+			"<07:57:09><DEBUG>	 Event: ENCOUNTER_END 2363 Генерал Кааль 8 5 1", -- [1329]
+			"<07:57:25><DEBUG>	 Event: LOOT_READY true", -- [1330]
+			"<07:57:25><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3895-2284-28701-354988-00002F5336 523234", -- [1331]
+			"<07:57:25><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Боевые клинки голодного пожирателя]|h|r 4 1 GameObject-0-3895-2284-28701-354988-00002F5336 1", -- [1332]
+			"<07:57:25><DEBUG>	 Event: LOOT_READY true", -- [1333]
+			"<07:57:25><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3895-2284-28701-354988-00002F5336 523234", -- [1334]
+			"<07:57:25><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Боевые клинки голодного пожирателя]|h|r 4 1 GameObject-0-3895-2284-28701-354988-00002F5336 1", -- [1335]
+			"<07:57:26><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1336]
+			"<07:57:26><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Боевые клинки голодного пожирателя]|h|r 4", -- [1337]
+			"<07:57:26><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 178854 |cffa335ee|Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Боевые клинки голодного пожирателя]|h|r 1 Дэлери DEMONHUNTER", -- [1338]
+			"<07:57:26><DEBUG>	 Event: LOOT_CLOSED", -- [1339]
+			"<07:57:26><DEBUG>	 Event: LOOT_CLOSED", -- [1340]
+			"<07:57:26><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 181546 |cff0070dd|Hitem:181546::::::::60:581:::::::|h[Распустившийся склепоцвет]|h|r 2 Дэлери DEMONHUNTER", -- [1341]
+			"<07:57:26><Comm>	 ^1^Sl^T^N1^S354988^t^^ PARTY дэлери-Борейскаятундра", -- [1342]
+			"<07:57:26><Comm>	 ^1^Sl^T^N1^S354988^t^^ PARTY дэлери-Борейскаятундра", -- [1343]
+			"<07:57:28><DEBUG>	 Storage:New |cffa335ee|Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Боевые клинки голодного пожирателя]|h|r temp", -- [1344]
+			"<07:57:28><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::||h[Боевые клинки голодного пожирателя]||h||r 5", -- [1345]
+			"<07:57:28><DEBUG>	 Found item at 2 1", -- [1346]
+			"<07:57:28><DEBUG>	 Found: 2 1 0", -- [1347]
+			"<07:57:29><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 178851 |cffa335ee|Hitem:178851::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Плащ окутывающих воплощений]|h|r 1 Arcanestein-Hellscream MAGE", -- [1348]
+			"<07:57:29><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 181506 |cffa335ee|Hitem:181506::::::::60:581::16:2:1511:7245:2:28:1279:37:4:::|h[Великий огонь]|h|r 1 Arcanestein-Hellscream MAGE", -- [1349]
+			"<07:57:29><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::||h[Боевые клинки голодного пожирателя]||h||r 5", -- [1350]
+			"<07:57:29><DEBUG>	 Found item at 2 1", -- [1351]
+			"<07:57:29><DEBUG>	 Found: 2 1 0", -- [1352]
+			"<07:57:29><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:178854::::::::60:581::16:5:7204:6652:1501:5852:6646:1:28:1279:::|h[Боевые~`клинки~`голодного~`пожирателя]|h|r^N2^S354988^t^^ PARTY дэлери-Борейскаятундра", -- [1353]
+			"<07:57:30><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 182608 |cffa335ee|Hitem:182608::::::::60:581::16:2:1511:7245:2:28:1279:37:4:::|h[Благочестивый приказ]|h|r 1 Ророру-Азурегос PALADIN", -- [1354]
+			"<07:57:32><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2363 183303 |cffff8000|Hitem:183303::::::::60:581::16::1:28:1279:::|h[Воспоминание о предсмертном вздохе Мараада]|h|r 1 Ророру-Азурегос PALADIN", -- [1355]
+			"<07:59:31><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1356]
+			"<07:59:33><DEBUG>	 GetML()", -- [1357]
+			"<08:00:01><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1358]
+			"<08:00:03><DEBUG>	 GetML()", -- [1359]
+			"<08:04:07><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1360]
+			"<08:04:09><DEBUG>	 GetML()", -- [1361]
+			"<08:05:26><DEBUG>	 Event: RAID_INSTANCE_WELCOME Шпили Перерождения (Эпохальный) 435273 1 0", -- [1362]
+			"<08:05:26><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1363]
+			"<08:05:28><DEBUG>	 GetML()", -- [1364]
+			"<08:10:48><DEBUG>	 Event: ENCOUNTER_START 2357 Кин-Тара 8 5", -- [1365]
+			"<08:10:48><INFO>	 UpdatePlayersData()", -- [1366]
+			"<08:12:09><DEBUG>	 Event: ENCOUNTER_END 2357 Кин-Тара 8 5 1", -- [1367]
+			"<08:22:08><DEBUG>	 Event: ENCOUNTER_START 2356 \"Вентунакс\" 8 5", -- [1368]
+			"<08:22:08><INFO>	 UpdatePlayersData()", -- [1369]
+			"<08:23:18><DEBUG>	 Event: ENCOUNTER_END 2356 \"Вентунакс\" 8 5 1", -- [1370]
+			"<08:26:43><DEBUG>	 Event: ENCOUNTER_START 2358 \"Орифрион\" 8 5", -- [1371]
+			"<08:26:43><INFO>	 UpdatePlayersData()", -- [1372]
+			"<08:28:49><DEBUG>	 Event: ENCOUNTER_END 2358 \"Орифрион\" 8 5 1", -- [1373]
+			"<08:35:27><DEBUG>	 Event: ENCOUNTER_START 2359 Девия, идеал Верности 8 5", -- [1374]
+			"<08:35:27><INFO>	 UpdatePlayersData()", -- [1375]
+			"<08:38:07><DEBUG>	 Event: ENCOUNTER_END 2359 Девия, идеал Верности 8 5 1", -- [1376]
+			"<08:38:34><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1377]
+			"<08:38:36><DEBUG>	 GetML()", -- [1378]
+			"<08:38:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1379]
+			"<08:38:47><DEBUG>	 GetML()", -- [1380]
+			"<08:40:40><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 183392 |cffff8000|Hitem:183392::::::::60:581::16::1:28:1279:::|h[Воспоминание о владыке грома]|h|r 1 Парвинка-Гордунни WARRIOR", -- [1381]
+			"<08:40:44><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180106 |cffa335ee|Hitem:180106::::::::60:581::16:6:7205:6652:7193:1501:5855:6646:1:28:1279:::|h[Боевая маска жестокого импульса]|h|r 1 Руко-Гордунни DRUID", -- [1382]
+			"<08:40:46><DEBUG>	 Event: LOOT_READY true", -- [1383]
+			"<08:40:46><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3151-2285-22973-354989-00002F5D37 530558", -- [1384]
+			"<08:40:46><DEBUG>	 Event: LOOT_READY true", -- [1385]
+			"<08:40:46><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3151-2285-22973-354989-00002F5D37 530558", -- [1386]
+			"<08:40:47><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1387]
+			"<08:40:47><DEBUG>	 Event: LOOT_CLOSED", -- [1388]
+			"<08:40:47><DEBUG>	 Event: LOOT_CLOSED", -- [1389]
+			"<08:40:47><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 184768 |cff0070dd|Hitem:184768::::::::60:581:::::::|h[Кадило с сушеным благолистом]|h|r 2 Дэлери DEMONHUNTER", -- [1390]
+			"<08:40:47><Comm>	 ^1^Sl^T^N1^S354989^t^^ PARTY дэлери-Борейскаятундра", -- [1391]
+			"<08:40:47><Comm>	 ^1^Sl^T^N1^S354989^t^^ PARTY дэлери-Борейскаятундра", -- [1392]
+			"<08:42:06><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180115 |cffa335ee|Hitem:180115::::::::60:581::16:6:7205:6652:7193:1501:5855:6646:1:28:1279:::|h[Колье лазурного яда]|h|r 1 Johnnyboy-Magtheridon DRUID", -- [1393]
+			"<08:42:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2359 180653 |cffa335ee|Hitem:180653::::::::60:581::::6:28:1279:17:375:18:7:19:10:20:8:21:12:::|h[Эпохальный ключ]|h|r 1 Johnnyboy-Magtheridon DRUID", -- [1394]
+			"<08:43:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1395]
+			"<08:43:55><DEBUG>	 GetML()", -- [1396]
+			"<08:44:31><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1397]
+			"<08:44:33><DEBUG>	 GetML()", -- [1398]
+			"<08:46:05><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1399]
+			"<08:46:07><DEBUG>	 GetML()", -- [1400]
+			"<08:46:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1401]
+			"<08:46:47><DEBUG>	 GetML()", -- [1402]
+			"<08:49:38><DEBUG>	 Event: GROUP_LEFT 1 Party-1602-1-00003E2482D5", -- [1403]
+			"<08:49:38><DEBUG>	 GetML()", -- [1404]
+			"<08:50:02><INFO>	 Logged In", -- [1405]
+			"<08:50:02>[ML]<INFO>	 Init", -- [1406]
+			"<08:50:02><INFO>	 RCLootCouncil TradeUI enabled", -- [1407]
+			"<08:50:16><INFO>	 ниэтта-Гордунни 3.1.4 nil", -- [1408]
+			"<08:50:16><DEBUG>	 ActivateSkin bfa", -- [1409]
+			"<08:50:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1410]
+			"<08:50:16><INFO>	 UpdatePlayersData()", -- [1411]
+			"<08:50:17><DEBUG>	 GetPlayersGuildRank()", -- [1412]
+			"<08:50:17><DEBUG>	 GetPlayersGuildRank()", -- [1413]
+			"<08:50:17><DEBUG>	 Found Guild Rank: Резервист", -- [1414]
+			"<08:50:21><DEBUG>	 GetML()", -- [1415]
+			"<08:50:21><DEBUG>	 Storage:New |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r temp restored table: 000001D6BB758760", -- [1416]
+			"<08:50:21><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::||h[Забрызганная кровью чешуйка]||h||r 5", -- [1417]
+			"<08:50:21><DEBUG>	 Found: nil nil nil", -- [1418]
+			"<08:50:21><WARNING>	 ItemStorage, db item no longer in bags |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r", -- [1419]
+			"<08:50:21><DEBUG>	 Storage:RemoveItem |cff0070dd|Hitem:179331::::::::60:581::2:4:6806:6652:1485:4785:1:28:748:::|h[Забрызганная кровью чешуйка]|h|r", -- [1420]
+			"<08:50:33><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1421]
+			"<08:50:35><DEBUG>	 GetML()", -- [1422]
+			"<08:50:35><DEBUG>	 Resetting council as we have a new ML!", -- [1423]
+			"<08:50:35><INFO>	 MasterLooter =  руко-Гордунни", -- [1424]
+			"<08:50:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1425]
+			"<08:50:52><DEBUG>	 Timer MLdb_check passed", -- [1426]
+			"<08:50:52><Comm>	 ^1^Sxrealm^T^N1^Sруко-Гордунни^N2^SMLdb_request^t^^ PARTY ниэтта-Гордунни", -- [1427]
+			"<08:50:52><Comm>	 ^1^Sxrealm^T^N1^Sруко-Гордунни^N2^Scouncil_request^t^^ PARTY ниэтта-Гордунни", -- [1428]
+			"<08:50:52><DEBUG>	 GetML()", -- [1429]
+			"<08:50:58><DEBUG>	 Event: RAID_INSTANCE_WELCOME Туманы Тирна Скитта (Эпохальный) 432541 0 0", -- [1430]
+			"<08:50:59><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1431]
+			"<08:51:00><DEBUG>	 GetML()", -- [1432]
+			"<08:57:34><DEBUG>	 Event: ENCOUNTER_START 2397 Ингра Малох 8 5", -- [1433]
+			"<08:57:34><INFO>	 UpdatePlayersData()", -- [1434]
+			"<08:59:21><DEBUG>	 Event: ENCOUNTER_END 2397 Ингра Малох 8 5 1", -- [1435]
+			"<09:04:55><DEBUG>	 Event: ENCOUNTER_START 2392 Призывательница Туманов 8 5", -- [1436]
+			"<09:04:55><INFO>	 UpdatePlayersData()", -- [1437]
+			"<09:07:09><DEBUG>	 Event: ENCOUNTER_END 2392 Призывательница Туманов 8 5 1", -- [1438]
+			"<09:12:02><DEBUG>	 Event: ENCOUNTER_START 2393 Тред'ова 8 5", -- [1439]
+			"<09:12:02><INFO>	 UpdatePlayersData()", -- [1440]
+			"<09:14:11><DEBUG>	 Event: ENCOUNTER_END 2393 Тред'ова 8 5 1", -- [1441]
+			"<09:14:48><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178708 |cffa335ee|Hitem:178708::::::::60:66::16:6:7206:6652:6917:1501:5858:6646:1:28:1279:::|h[Освобожденный подменыш]|h|r 1 Arcanestein-Hellscream MAGE", -- [1442]
+			"<09:14:54><DEBUG>	 Event: LOOT_READY true", -- [1443]
+			"<09:14:54><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3768-2290-13666-354972-00002F655F 511750", -- [1444]
+			"<09:14:54><DEBUG>	 Event: LOOT_READY true", -- [1445]
+			"<09:14:54><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3768-2290-13666-354972-00002F655F 511750", -- [1446]
+			"<09:14:54><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1447]
+			"<09:14:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 180653 |cffa335ee|Hitem:180653::::::::60:66::::7:28:1279:17:376:18:17:19:10:20:8:21:12:22:121:::|h[Эпохальный ключ]|h|r 1 Ниэтта PALADIN", -- [1448]
+			"<09:14:55><DEBUG>	 Event: LOOT_CLOSED", -- [1449]
+			"<09:14:55><DEBUG>	 Event: LOOT_CLOSED", -- [1450]
+			"<09:14:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 184382 |cff0070dd|Hitem:184382::::::::60:66:::::::|h[Светящаяся рощаника]|h|r 3 Ниэтта PALADIN", -- [1451]
+			"<09:14:55><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY ниэтта-Гордунни", -- [1452]
+			"<09:14:55><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY ниэтта-Гордунни", -- [1453]
+			"<09:14:56><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178701 |cffa335ee|Hitem:178701::::::::60:66::16:5:7206:6652:1501:5858:6646:1:28:1279:::|h[Наголенники из панциря горма]|h|r 1 Парвинка WARRIOR", -- [1454]
+			"<09:14:56><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183491 |cffa335ee|Hitem:183491::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Готовность ко всему]|h|r 1 Руко DRUID", -- [1455]
+			"<09:14:56><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 180935 |cffa335ee|Hitem:180935::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Сокрушение укреплений]|h|r 1 Парвинка WARRIOR", -- [1456]
+			"<09:15:03><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 183485 |cffa335ee|Hitem:183485::::::::60:66::16:2:1527:7245:2:28:1279:37:5:::|h[Свирепый боец]|h|r 1 Сакуродзима DRUID", -- [1457]
+			"<09:15:47><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1458]
+			"<09:15:49><DEBUG>	 GetML()", -- [1459]
+			"<09:15:49><DEBUG>	 Resetting council as we have a new ML!", -- [1460]
+			"<09:15:49><INFO>	 MasterLooter =  парвинка-Гордунни", -- [1461]
+			"<09:16:04><DEBUG>	 Timer MLdb_check passed", -- [1462]
+			"<09:16:04><Comm>	 ^1^Sxrealm^T^N1^Sпарвинка-Гордунни^N2^SMLdb_request^t^^ PARTY ниэтта-Гордунни", -- [1463]
+			"<09:16:04><Comm>	 ^1^Sxrealm^T^N1^Sпарвинка-Гордунни^N2^Scouncil_request^t^^ PARTY ниэтта-Гордунни", -- [1464]
+			"<09:16:18><DEBUG>	 Event: GROUP_LEFT 1 Party-1602-1-00003E2482D5", -- [1465]
+			"<09:16:18><DEBUG>	 GetML()", -- [1466]
+			"<09:18:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1467]
+			"<09:18:47><DEBUG>	 GetML()", -- [1468]
+			"<10:08:52><INFO>	 Logged In", -- [1469]
+			"<10:08:52>[ML]<INFO>	 Init", -- [1470]
+			"<10:08:52><INFO>	 RCLootCouncil TradeUI enabled", -- [1471]
+			"<10:08:59><INFO>	 дэлери-Борейскаятундра 3.1.4 nil", -- [1472]
+			"<10:08:59><DEBUG>	 ActivateSkin bfa", -- [1473]
+			"<10:09:00><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1474]
+			"<10:09:00><INFO>	 UpdatePlayersData()", -- [1475]
+			"<10:09:04><DEBUG>	 GetML()", -- [1476]
+			"<10:09:04><DEBUG>	 Storage:New |cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r temp restored table: 000001644B6E1C50", -- [1477]
+			"<10:09:04><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:183623::::::::60:581::16::1:28:373:::||h[Гормлинг-иглобрюх]||h||r 5", -- [1478]
+			"<10:09:04><DEBUG>	 Found item at 0 1", -- [1479]
+			"<10:11:34><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1480]
+			"<10:11:36><DEBUG>	 GetML()", -- [1481]
+			"<10:11:38><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1482]
+			"<10:11:40><DEBUG>	 GetML()", -- [1483]
+			"<10:12:03><DEBUG>	 Event: LOOT_READY true", -- [1484]
+			"<10:12:03><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00002F72B9 20521", -- [1485]
+			"<10:12:03><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:2|h[Фантазма]|h|r as it's a currency", -- [1486]
+			"<10:12:03><DEBUG>	 Event: LOOT_READY true", -- [1487]
+			"<10:12:03><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00002F72B9 20521", -- [1488]
+			"<10:12:03><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:2|h[Фантазма]|h|r as it's a currency", -- [1489]
+			"<10:12:03><DEBUG>	 Event: LOOT_CLOSED", -- [1490]
+			"<10:12:03><Comm>	 ^1^Sl^T^N1^S157634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1491]
+			"<10:12:28><DEBUG>	 Event: LOOT_READY true", -- [1492]
+			"<10:12:28><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-0001AF72B9 5496 Creature-0-3896-2162-27535-157572-00002F72B9 15907 Creature-0-3896-2162-27535-157583-00012F72B9 8042 Creature-0-3896-2162-27535-157583-0001AF72B9 15288 Creature-0-3896-2162-27535-157583-00022F72B9 15820", -- [1493]
+			"<10:12:28><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [1494]
+			"<10:12:28><DEBUG>	 Event: LOOT_READY true", -- [1495]
+			"<10:12:28><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-0001AF72B9 5496 Creature-0-3896-2162-27535-157572-00002F72B9 15907 Creature-0-3896-2162-27535-157583-00012F72B9 8042 Creature-0-3896-2162-27535-157583-0001AF72B9 15288 Creature-0-3896-2162-27535-157583-00022F72B9 15820", -- [1496]
+			"<10:12:28><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [1497]
+			"<10:12:28><DEBUG>	 Event: LOOT_CLOSED", -- [1498]
+			"<10:12:28><Comm>	 ^1^Sl^T^N1^S153874^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1499]
+			"<10:12:40><DEBUG>	 Event: LOOT_READY true", -- [1500]
+			"<10:12:40><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-0002AF72B9 16668 Creature-0-3896-2162-27535-153874-0000AF72B9 16408 Creature-0-3896-2162-27535-153874-00012F72B9 16437", -- [1501]
+			"<10:12:40><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:13|h[Фантазма]|h|r as it's a currency", -- [1502]
+			"<10:12:41><DEBUG>	 Event: LOOT_READY true", -- [1503]
+			"<10:12:41><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-0002AF72B9 16668 Creature-0-3896-2162-27535-153874-0000AF72B9 16408 Creature-0-3896-2162-27535-153874-00012F72B9 16437", -- [1504]
+			"<10:12:41><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:13|h[Фантазма]|h|r as it's a currency", -- [1505]
+			"<10:12:41><DEBUG>	 Event: LOOT_CLOSED", -- [1506]
+			"<10:12:41><Comm>	 ^1^Sl^T^N1^S153874^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1507]
+			"<10:13:29><DEBUG>	 Event: LOOT_READY true", -- [1508]
+			"<10:13:29><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-00002F72B9 12848 Creature-0-3896-2162-27535-152661-00002F72B9 2968 Creature-0-3896-2162-27535-152661-0000AF72B9 4657 Creature-0-3896-2162-27535-152708-00002F72B9 7570", -- [1509]
+			"<10:13:29><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:10|h[Фантазма]|h|r as it's a currency", -- [1510]
+			"<10:13:29><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:179370::::::::60:577:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-3896-2162-27535-152708-00002F72B9 1", -- [1511]
+			"<10:13:30><DEBUG>	 Event: LOOT_READY true", -- [1512]
+			"<10:13:30><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-00002F72B9 12848 Creature-0-3896-2162-27535-152661-00002F72B9 2968 Creature-0-3896-2162-27535-152661-0000AF72B9 4657 Creature-0-3896-2162-27535-152708-00002F72B9 7570", -- [1513]
+			"<10:13:30><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:10|h[Фантазма]|h|r as it's a currency", -- [1514]
+			"<10:13:30><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:179370::::::::60:577:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-3896-2162-27535-152708-00002F72B9 1", -- [1515]
+			"<10:13:30><DEBUG>	 Event: LOOT_CLOSED", -- [1516]
+			"<10:13:30><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:179370::::::::60:577:::::::|h[Инертная печать перехода]|h|r 0", -- [1517]
+			"<10:13:30><DEBUG>	 Event: LOOT_CLOSED", -- [1518]
+			"<10:13:30><Comm>	 ^1^Sl^T^N1^S152708^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1519]
+			"<10:13:38><DEBUG>	 Event: LOOT_READY true", -- [1520]
+			"<10:13:38><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-168105-00002F72B9 61517", -- [1521]
+			"<10:13:38><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:15|h[Фантазма]|h|r as it's a currency", -- [1522]
+			"<10:13:38><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-3896-2162-27535-168105-00002F72B9 1", -- [1523]
+			"<10:13:38><DEBUG>	 Event: LOOT_READY true", -- [1524]
+			"<10:13:38><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-168105-00002F72B9 61517", -- [1525]
+			"<10:13:38><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:15|h[Фантазма]|h|r as it's a currency", -- [1526]
+			"<10:13:38><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-3896-2162-27535-168105-00002F72B9 1", -- [1527]
+			"<10:13:39><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1528]
+			"<10:13:39><DEBUG>	 Event: LOOT_CLOSED", -- [1529]
+			"<10:13:39><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0", -- [1530]
+			"<10:13:39><DEBUG>	 Event: LOOT_CLOSED", -- [1531]
+			"<10:13:39><Comm>	 ^1^Sl^T^N1^S168105^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1532]
+			"<10:14:11><DEBUG>	 Event: LOOT_READY true", -- [1533]
+			"<10:14:11><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-00042F7345 11943 Creature-0-3896-2162-27535-153874-0000AF7345 5578 Creature-0-3896-2162-27535-157572-00032F7345 9423 Creature-0-3896-2162-27535-157572-0003AF7345 7075 Creature-0-3896-2162-27535-157583-0004AF7345 14690", -- [1534]
+			"<10:14:11><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:18|h[Фантазма]|h|r as it's a currency", -- [1535]
+			"<10:14:11><DEBUG>	 Event: LOOT_READY true", -- [1536]
+			"<10:14:11><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-00042F7345 11943 Creature-0-3896-2162-27535-153874-0000AF7345 5578 Creature-0-3896-2162-27535-157572-00032F7345 9423 Creature-0-3896-2162-27535-157572-0003AF7345 7075 Creature-0-3896-2162-27535-157583-0004AF7345 14690", -- [1537]
+			"<10:14:11><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:18|h[Фантазма]|h|r as it's a currency", -- [1538]
+			"<10:14:12><DEBUG>	 Event: LOOT_CLOSED", -- [1539]
+			"<10:14:12><Comm>	 ^1^Sl^T^N1^S157583^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1540]
+			"<10:14:18><DEBUG>	 Event: LOOT_READY true", -- [1541]
+			"<10:14:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157572-0002AF7345 13520 Creature-0-3896-2162-27535-157572-00042F7345 11878", -- [1542]
+			"<10:14:18><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:9|h[Фантазма]|h|r as it's a currency", -- [1543]
+			"<10:14:19><DEBUG>	 Event: LOOT_READY true", -- [1544]
+			"<10:14:19><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157572-0002AF7345 13520 Creature-0-3896-2162-27535-157572-00042F7345 11878", -- [1545]
+			"<10:14:19><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:9|h[Фантазма]|h|r as it's a currency", -- [1546]
+			"<10:14:19><DEBUG>	 Event: LOOT_CLOSED", -- [1547]
+			"<10:14:19><Comm>	 ^1^Sl^T^N1^S157572^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1548]
+			"<10:14:29><DEBUG>	 Event: LOOT_READY true", -- [1549]
+			"<10:14:29><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-00052F7345 9438 Creature-0-3896-2162-27535-152661-0000AF7345 2846", -- [1550]
+			"<10:14:29><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:5|h[Фантазма]|h|r as it's a currency", -- [1551]
+			"<10:14:29><DEBUG>	 Event: LOOT_READY true", -- [1552]
+			"<10:14:29><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-00052F7345 9438 Creature-0-3896-2162-27535-152661-0000AF7345 2846", -- [1553]
+			"<10:14:29><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:5|h[Фантазма]|h|r as it's a currency", -- [1554]
+			"<10:14:29><DEBUG>	 Event: LOOT_CLOSED", -- [1555]
+			"<10:14:29><Comm>	 ^1^Sl^T^N1^S157583^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1556]
+			"<10:14:48><DEBUG>	 Event: LOOT_READY true", -- [1557]
+			"<10:14:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-0000AF7345 17512 Creature-0-3896-2162-27535-157583-00012F7345 17058 Creature-0-3896-2162-27535-157583-0001AF7345 21484 Creature-0-3896-2162-27535-157583-00022F7345 8574", -- [1558]
+			"<10:14:48><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [1559]
+			"<10:14:48><DEBUG>	 Event: LOOT_READY true", -- [1560]
+			"<10:14:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157583-0000AF7345 17512 Creature-0-3896-2162-27535-157583-00012F7345 17058 Creature-0-3896-2162-27535-157583-0001AF7345 21484 Creature-0-3896-2162-27535-157583-00022F7345 8574", -- [1561]
+			"<10:14:48><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [1562]
+			"<10:14:48><DEBUG>	 Event: LOOT_CLOSED", -- [1563]
+			"<10:14:49><Comm>	 ^1^Sl^T^N1^S157583^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1564]
+			"<10:15:07><DEBUG>	 Event: LOOT_READY true", -- [1565]
+			"<10:15:07><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00002F7345 19182", -- [1566]
+			"<10:15:07><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:3|h[Фантазма]|h|r as it's a currency", -- [1567]
+			"<10:15:08><DEBUG>	 Event: LOOT_READY true", -- [1568]
+			"<10:15:08><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00002F7345 19182", -- [1569]
+			"<10:15:08><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:3|h[Фантазма]|h|r as it's a currency", -- [1570]
+			"<10:15:08><DEBUG>	 Event: LOOT_CLOSED", -- [1571]
+			"<10:15:08><Comm>	 ^1^Sl^T^N1^S157634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1572]
+			"<10:15:14><DEBUG>	 Event: LOOT_READY true", -- [1573]
+			"<10:15:14><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-0001AF7345 15062", -- [1574]
+			"<10:15:14><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:4|h[Фантазма]|h|r as it's a currency", -- [1575]
+			"<10:15:14><DEBUG>	 Event: LOOT_READY true", -- [1576]
+			"<10:15:14><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-0001AF7345 15062", -- [1577]
+			"<10:15:14><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:4|h[Фантазма]|h|r as it's a currency", -- [1578]
+			"<10:15:14><DEBUG>	 Event: LOOT_CLOSED", -- [1579]
+			"<10:15:15><Comm>	 ^1^Sl^T^N1^S153874^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1580]
+			"<10:16:00><DEBUG>	 Event: LOOT_READY true", -- [1581]
+			"<10:16:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-150958-0000AF7345 21321", -- [1582]
+			"<10:16:00><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-3896-2162-27535-150958-0000AF7345 1", -- [1583]
+			"<10:16:00><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:5|h[Фантазма]|h|r as it's a currency", -- [1584]
+			"<10:16:00><DEBUG>	 Event: LOOT_READY true", -- [1585]
+			"<10:16:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-150958-0000AF7345 21321", -- [1586]
+			"<10:16:00><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-3896-2162-27535-150958-0000AF7345 1", -- [1587]
+			"<10:16:00><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:5|h[Фантазма]|h|r as it's a currency", -- [1588]
+			"<10:16:00><DEBUG>	 Event: LOOT_CLOSED", -- [1589]
+			"<10:16:00><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0", -- [1590]
+			"<10:16:00><DEBUG>	 Event: LOOT_CLOSED", -- [1591]
+			"<10:16:00><Comm>	 ^1^Sl^T^N1^S150958^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1592]
+			"<10:16:18><DEBUG>	 Event: LOOT_READY true", -- [1593]
+			"<10:16:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-00002F7345 17635 Creature-0-3896-2162-27535-152661-00002F7345 4354 Creature-0-3896-2162-27535-157572-00022F7345 13946 Creature-0-3896-2162-27535-157583-0002AF7345 21120 Creature-0-3896-2162-27535-157583-00032F7345 11167 Creature-0-3896-2162-27535-157583-0003AF7345 20577", -- [1594]
+			"<10:16:18><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [1595]
+			"<10:16:18><DEBUG>	 Event: LOOT_READY true", -- [1596]
+			"<10:16:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-00002F7345 17635 Creature-0-3896-2162-27535-152661-00002F7345 4354 Creature-0-3896-2162-27535-157572-00022F7345 13946 Creature-0-3896-2162-27535-157583-0002AF7345 21120 Creature-0-3896-2162-27535-157583-00032F7345 11167 Creature-0-3896-2162-27535-157583-0003AF7345 20577", -- [1597]
+			"<10:16:18><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:19|h[Фантазма]|h|r as it's a currency", -- [1598]
+			"<10:16:19><DEBUG>	 Event: LOOT_CLOSED", -- [1599]
+			"<10:16:19><Comm>	 ^1^Sl^T^N1^S153874^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1600]
+			"<10:16:51><DEBUG>	 Event: LOOT_READY true", -- [1601]
+			"<10:16:51><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-00022F7345 20534 Creature-0-3896-2162-27535-152661-0001AF7345 1962 Creature-0-3896-2162-27535-153874-0002AF7345 16420 Creature-0-3896-2162-27535-153874-00032F7345 7720 Creature-0-3896-2162-27535-157572-0005AF7345 12522 Creature-0-3896-2162-27535-157583-00062F7345 18436", -- [1602]
+			"<10:16:51><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179370::::::::60:577:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-3896-2162-27535-153874-00022F7345 1", -- [1603]
+			"<10:16:51><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:22|h[Фантазма]|h|r as it's a currency", -- [1604]
+			"<10:16:52><DEBUG>	 Event: LOOT_READY true", -- [1605]
+			"<10:16:52><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-153874-00022F7345 20534 Creature-0-3896-2162-27535-152661-0001AF7345 1962 Creature-0-3896-2162-27535-153874-0002AF7345 16420 Creature-0-3896-2162-27535-153874-00032F7345 7720 Creature-0-3896-2162-27535-157572-0005AF7345 12522 Creature-0-3896-2162-27535-157583-00062F7345 18436", -- [1606]
+			"<10:16:52><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:179370::::::::60:577:::::::|h[Инертная печать перехода]|h|r 0 1 Creature-0-3896-2162-27535-153874-00022F7345 1", -- [1607]
+			"<10:16:52><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:22|h[Фантазма]|h|r as it's a currency", -- [1608]
+			"<10:16:52><DEBUG>	 Event: LOOT_CLOSED", -- [1609]
+			"<10:16:52><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:179370::::::::60:577:::::::|h[Инертная печать перехода]|h|r 0", -- [1610]
+			"<10:16:52><DEBUG>	 Event: LOOT_CLOSED", -- [1611]
+			"<10:16:52><Comm>	 ^1^Sl^T^N1^S153874^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1612]
+			"<10:17:23><DEBUG>	 Event: LOOT_READY true", -- [1613]
+			"<10:17:23><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-168105-00002F7345 54957", -- [1614]
+			"<10:17:23><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:14|h[Фантазма]|h|r as it's a currency", -- [1615]
+			"<10:17:23><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:176949::::::::60:577::9:1:6909:1:28:709:::|h[Истлевшие тканевые захваты]|h|r 0 1 Creature-0-3896-2162-27535-168105-00002F7345 1", -- [1616]
+			"<10:17:23><DEBUG>	 Event: LOOT_READY true", -- [1617]
+			"<10:17:23><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-168105-00002F7345 54957", -- [1618]
+			"<10:17:23><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:14|h[Фантазма]|h|r as it's a currency", -- [1619]
+			"<10:17:23><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:176949::::::::60:577::9:1:6909:1:28:709:::|h[Истлевшие тканевые захваты]|h|r 0 1 Creature-0-3896-2162-27535-168105-00002F7345 1", -- [1620]
+			"<10:17:23><DEBUG>	 Event: LOOT_CLOSED", -- [1621]
+			"<10:17:23><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:176949::::::::60:577::9:1:6909:1:28:709:::|h[Истлевшие тканевые захваты]|h|r 0", -- [1622]
+			"<10:17:23><DEBUG>	 Event: LOOT_CLOSED", -- [1623]
+			"<10:17:23><Comm>	 ^1^Sl^T^N1^S168105^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1624]
+			"<10:19:13><DEBUG>	 Event: LOOT_READY true", -- [1625]
+			"<10:19:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157584-0000AF7475 4868 Creature-0-3896-2162-27535-157634-00012F7475 16246", -- [1626]
+			"<10:19:13><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:6|h[Фантазма]|h|r as it's a currency", -- [1627]
+			"<10:19:14><DEBUG>	 Event: LOOT_READY true", -- [1628]
+			"<10:19:14><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157584-0000AF7475 4868 Creature-0-3896-2162-27535-157634-00012F7475 16246", -- [1629]
+			"<10:19:14><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:6|h[Фантазма]|h|r as it's a currency", -- [1630]
+			"<10:19:14><DEBUG>	 Event: LOOT_CLOSED", -- [1631]
+			"<10:19:14><Comm>	 ^1^Sl^T^N1^S157584^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1632]
+			"<10:19:53><DEBUG>	 Event: LOOT_READY true", -- [1633]
+			"<10:19:53><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-0000AF7475 9468 Creature-0-3896-2162-27535-157572-0000AF7475 10482 Creature-0-3896-2162-27535-157584-00002F7475 9000", -- [1634]
+			"<10:19:53><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:7|h[Фантазма]|h|r as it's a currency", -- [1635]
+			"<10:19:53><DEBUG>	 Event: LOOT_READY true", -- [1636]
+			"<10:19:53><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-0000AF7475 9468 Creature-0-3896-2162-27535-157572-0000AF7475 10482 Creature-0-3896-2162-27535-157584-00002F7475 9000", -- [1637]
+			"<10:19:53><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:7|h[Фантазма]|h|r as it's a currency", -- [1638]
+			"<10:19:54><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1639]
+			"<10:19:54><DEBUG>	 Event: LOOT_CLOSED", -- [1640]
+			"<10:19:54><DEBUG>	 Event: LOOT_CLOSED", -- [1641]
+			"<10:19:54><Comm>	 ^1^Sl^T^N1^S157634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1642]
+			"<10:19:54><Comm>	 ^1^Sl^T^N1^S157634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1643]
+			"<10:20:34><DEBUG>	 Event: LOOT_READY true", -- [1644]
+			"<10:20:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00002F7475 6496 Creature-0-3896-2162-27535-153874-00002F7475 8872 Creature-0-3896-2162-27535-168104-00002F7475 44250", -- [1645]
+			"<10:20:34><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:23|h[Фантазма]|h|r as it's a currency", -- [1646]
+			"<10:20:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-3896-2162-27535-168104-00002F7475 1", -- [1647]
+			"<10:20:34><DEBUG>	 Event: LOOT_READY true", -- [1648]
+			"<10:20:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00002F7475 6496 Creature-0-3896-2162-27535-153874-00002F7475 8872 Creature-0-3896-2162-27535-168104-00002F7475 44250", -- [1649]
+			"<10:20:34><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:23|h[Фантазма]|h|r as it's a currency", -- [1650]
+			"<10:20:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0 1 Creature-0-3896-2162-27535-168104-00002F7475 1", -- [1651]
+			"<10:20:35><DEBUG>	 Event: LOOT_CLOSED", -- [1652]
+			"<10:20:35><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:179369::::::::60:577:::::::|h[Призрачный ключ]|h|r 0", -- [1653]
+			"<10:20:35><DEBUG>	 Event: LOOT_CLOSED", -- [1654]
+			"<10:20:35><Comm>	 ^1^Sl^T^N1^S168104^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1655]
+			"<10:21:15><DEBUG>	 Event: LOOT_READY true", -- [1656]
+			"<10:21:15><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157571-00002F74E2 6620 Creature-0-3896-2162-27535-157572-00002F74E2 7976 Creature-0-3896-2162-27535-157572-0000AF74E2 4855 Creature-0-3896-2162-27535-157572-00012F74E2 5883", -- [1657]
+			"<10:21:15><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:14|h[Фантазма]|h|r as it's a currency", -- [1658]
+			"<10:21:15><DEBUG>	 Event: LOOT_READY true", -- [1659]
+			"<10:21:15><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157571-00002F74E2 6620 Creature-0-3896-2162-27535-157572-00002F74E2 7976 Creature-0-3896-2162-27535-157572-0000AF74E2 4855 Creature-0-3896-2162-27535-157572-00012F74E2 5883", -- [1660]
+			"<10:21:15><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:14|h[Фантазма]|h|r as it's a currency", -- [1661]
+			"<10:21:15><DEBUG>	 Event: LOOT_CLOSED", -- [1662]
+			"<10:21:15><Comm>	 ^1^Sl^T^N1^S157571^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1663]
+			"<10:21:26><DEBUG>	 Event: LOOT_READY true", -- [1664]
+			"<10:21:26><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00012F74E2 9920 Creature-0-3896-2162-27535-157634-00022F74E2 7697", -- [1665]
+			"<10:21:26><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:6|h[Фантазма]|h|r as it's a currency", -- [1666]
+			"<10:21:26><DEBUG>	 Event: LOOT_READY true", -- [1667]
+			"<10:21:26><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157634-00012F74E2 9920 Creature-0-3896-2162-27535-157634-00022F74E2 7697", -- [1668]
+			"<10:21:26><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:6|h[Фантазма]|h|r as it's a currency", -- [1669]
+			"<10:21:26><DEBUG>	 Event: LOOT_CLOSED", -- [1670]
+			"<10:21:26><Comm>	 ^1^Sl^T^N1^S157634^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1671]
+			"<10:21:55><DEBUG>	 Event: LOOT_READY true", -- [1672]
+			"<10:21:55><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157572-00022F74E2 9062 Creature-0-3896-2162-27535-150958-00002F74E2 5740 Creature-0-3896-2162-27535-150958-0000AF74E2 17010 Creature-0-3896-2162-27535-152661-00002F74E2 5360 Creature-0-3896-2162-27535-152661-0000AF74E2 2388 Creature-0-3896-2162-27535-152661-00012F74E2 4532 Creature-0-3896-2162-27535-152661-0001AF74E2 2383 Creature-0-3896-2162-27535-157572-0001AF74E2 16478 Creature-0-3896-2162-27535-157572-0002AF74E2 17133 Creature-0-3896-2162-27535-157572-00032F74E2 11080 Creature-0-3896-2162-27535-157634-00002F74E2 13043", -- [1673]
+			"<10:21:55><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:30|h[Фантазма]|h|r as it's a currency", -- [1674]
+			"<10:21:55><DEBUG>	 Event: LOOT_READY true", -- [1675]
+			"<10:21:55><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157572-00022F74E2 9062 Creature-0-3896-2162-27535-150958-00002F74E2 5740 Creature-0-3896-2162-27535-150958-0000AF74E2 17010 Creature-0-3896-2162-27535-152661-00002F74E2 5360 Creature-0-3896-2162-27535-152661-0000AF74E2 2388 Creature-0-3896-2162-27535-152661-00012F74E2 4532 Creature-0-3896-2162-27535-152661-0001AF74E2 2383 Creature-0-3896-2162-27535-157572-0001AF74E2 16478 Creature-0-3896-2162-27535-157572-0002AF74E2 17133 Creature-0-3896-2162-27535-157572-00032F74E2 11080 Creature-0-3896-2162-27535-157634-00002F74E2 13043", -- [1676]
+			"<10:21:55><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:30|h[Фантазма]|h|r as it's a currency", -- [1677]
+			"<10:21:55><DEBUG>	 Event: LOOT_CLOSED", -- [1678]
+			"<10:21:56><Comm>	 ^1^Sl^T^N1^S157572^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1679]
+			"<10:22:48><DEBUG>	 Event: LOOT_READY true", -- [1680]
+			"<10:22:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157584-00002F74E2 8771 Creature-0-3896-2162-27535-150959-00002F74E2 10629 Creature-0-3896-2162-27535-152708-00002F74E2 17844", -- [1681]
+			"<10:22:48><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:12|h[Фантазма]|h|r as it's a currency", -- [1682]
+			"<10:22:48><DEBUG>	 Event: LOOT_READY true", -- [1683]
+			"<10:22:48><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-157584-00002F74E2 8771 Creature-0-3896-2162-27535-150959-00002F74E2 10629 Creature-0-3896-2162-27535-152708-00002F74E2 17844", -- [1684]
+			"<10:22:48><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:12|h[Фантазма]|h|r as it's a currency", -- [1685]
+			"<10:22:49><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1686]
+			"<10:22:49><DEBUG>	 Event: LOOT_CLOSED", -- [1687]
+			"<10:22:49><DEBUG>	 Event: LOOT_CLOSED", -- [1688]
+			"<10:22:49><Comm>	 ^1^Sl^T^N1^S157584^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1689]
+			"<10:22:49><Comm>	 ^1^Sl^T^N1^S157584^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1690]
+			"<10:23:30><DEBUG>	 Event: LOOT_READY true", -- [1691]
+			"<10:23:30><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-168104-00002F74E2 65422", -- [1692]
+			"<10:23:30><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:11|h[Фантазма]|h|r as it's a currency", -- [1693]
+			"<10:23:31><DEBUG>	 Event: LOOT_READY true", -- [1694]
+			"<10:23:31><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-168104-00002F74E2 65422", -- [1695]
+			"<10:23:31><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1728:11|h[Фантазма]|h|r as it's a currency", -- [1696]
+			"<10:23:31><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1697]
+			"<10:23:31><DEBUG>	 Event: LOOT_CLOSED", -- [1698]
+			"<10:23:31><DEBUG>	 Event: LOOT_CLOSED", -- [1699]
+			"<10:23:31><Comm>	 ^1^Sl^T^N1^S168104^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1700]
+			"<10:23:31><Comm>	 ^1^Sl^T^N1^S168104^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1701]
+			"<10:24:57><DEBUG>	 Event: LOOT_READY true", -- [1702]
+			"<10:24:57><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-175234-00002F758C 36866", -- [1703]
+			"<10:24:58><DEBUG>	 Event: LOOT_READY true", -- [1704]
+			"<10:24:58><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-3896-2162-27535-175234-00002F758C 36866", -- [1705]
+			"<10:24:58><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1706]
+			"<10:24:58><DEBUG>	 Event: LOOT_CLOSED", -- [1707]
+			"<10:24:58><DEBUG>	 Event: LOOT_CLOSED", -- [1708]
+			"<10:24:58><Comm>	 ^1^Sl^T^N1^S175234^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1709]
+			"<10:24:58><Comm>	 ^1^Sl^T^N1^S175234^t^^ INSTANCE_CHAT дэлери-Борейскаятундра", -- [1710]
+			"<10:25:29><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1711]
+			"<10:25:30><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-000056A3B7E5", -- [1712]
+			"<10:25:30><DEBUG>	 GetML()", -- [1713]
+			"<10:25:30><DEBUG>	 GetML()", -- [1714]
+			"<10:25:54><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1715]
+			"<10:25:56><DEBUG>	 GetML()", -- [1716]
+			"<10:26:22><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1717]
+			"<10:26:24><DEBUG>	 GetML()", -- [1718]
+			"<10:32:32><DEBUG>	 Event: LOOT_READY true", -- [1719]
+			"<10:32:32><DEBUG>	 Event: LOOT_READY true", -- [1720]
+			"<10:34:17><DEBUG>	 Event: LOOT_READY true", -- [1721]
+			"<10:34:17><DEBUG>	 Event: LOOT_READY true", -- [1722]
+			"<10:34:17><DEBUG>	 Event: LOOT_READY true", -- [1723]
+			"<10:34:42><DEBUG>	 Event: LOOT_READY true", -- [1724]
+			"<10:34:42><DEBUG>	 Event: LOOT_READY true", -- [1725]
+			"<10:34:44><DEBUG>	 Event: LOOT_READY true", -- [1726]
+			"<10:34:44><DEBUG>	 Event: LOOT_READY true", -- [1727]
+			"<10:34:46><DEBUG>	 Event: LOOT_READY true", -- [1728]
+			"<10:34:46><DEBUG>	 Event: LOOT_READY true", -- [1729]
+			"<10:34:48><DEBUG>	 Event: LOOT_READY true", -- [1730]
+			"<10:34:48><DEBUG>	 Event: LOOT_READY true", -- [1731]
+			"<10:34:50><DEBUG>	 Event: LOOT_READY true", -- [1732]
+			"<10:34:50><DEBUG>	 Event: LOOT_READY true", -- [1733]
+			"<10:34:58><DEBUG>	 Event: LOOT_READY true", -- [1734]
+			"<10:34:58><DEBUG>	 Event: LOOT_READY true", -- [1735]
+			"<10:35:00><DEBUG>	 Event: LOOT_READY true", -- [1736]
+			"<10:35:00><DEBUG>	 Event: LOOT_READY true", -- [1737]
+			"<10:35:05><DEBUG>	 Event: LOOT_READY true", -- [1738]
+			"<10:35:05><DEBUG>	 Event: LOOT_READY true", -- [1739]
+			"<10:35:19><DEBUG>	 Event: LOOT_READY true", -- [1740]
+			"<10:35:19><DEBUG>	 Event: LOOT_READY true", -- [1741]
+			"<10:36:48><DEBUG>	 Event: LOOT_READY true", -- [1742]
+			"<10:36:48><DEBUG>	 Event: LOOT_READY true", -- [1743]
+			"<10:36:50><DEBUG>	 Event: LOOT_READY true", -- [1744]
+			"<10:36:50><DEBUG>	 Event: LOOT_READY true", -- [1745]
+			"<10:36:52><DEBUG>	 Event: LOOT_READY true", -- [1746]
+			"<10:36:52><DEBUG>	 Event: LOOT_READY true", -- [1747]
+			"<10:36:56><DEBUG>	 Event: LOOT_READY true", -- [1748]
+			"<10:36:56><DEBUG>	 Event: LOOT_READY true", -- [1749]
+			"<10:36:57><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 172097 |cff0070dd|Hitem:172097::::::::60:577:::::::|h[Толстая загрубевшая шкура]|h|r 1 Дэлери DEMONHUNTER", -- [1750]
+			"<10:36:58><DEBUG>	 Event: LOOT_READY true", -- [1751]
+			"<10:36:58><DEBUG>	 Event: LOOT_READY true", -- [1752]
+			"<10:37:00><DEBUG>	 Event: LOOT_READY true", -- [1753]
+			"<10:37:00><DEBUG>	 Event: LOOT_READY true", -- [1754]
+			"<10:37:02><DEBUG>	 Event: LOOT_READY true", -- [1755]
+			"<10:37:02><DEBUG>	 Event: LOOT_READY true", -- [1756]
+			"<10:37:06><DEBUG>	 Event: LOOT_READY true", -- [1757]
+			"<10:37:06><DEBUG>	 Event: LOOT_READY true", -- [1758]
+			"<10:37:23><DEBUG>	 Event: LOOT_READY true", -- [1759]
+			"<10:37:23><DEBUG>	 Event: LOOT_READY true", -- [1760]
+			"<10:37:43><DEBUG>	 Event: LOOT_READY true", -- [1761]
+			"<10:37:43><DEBUG>	 Event: LOOT_READY true", -- [1762]
+			"<10:37:48><DEBUG>	 Event: LOOT_READY true", -- [1763]
+			"<10:37:48><DEBUG>	 Event: LOOT_READY true", -- [1764]
+			"<10:37:50><DEBUG>	 Event: LOOT_READY true", -- [1765]
+			"<10:37:50><DEBUG>	 Event: LOOT_READY true", -- [1766]
+			"<10:37:58><DEBUG>	 Event: LOOT_READY true", -- [1767]
+			"<10:37:58><DEBUG>	 Event: LOOT_READY true", -- [1768]
+			"<10:37:59><DEBUG>	 Event: LOOT_READY true", -- [1769]
+			"<10:38:00><DEBUG>	 Event: LOOT_READY true", -- [1770]
+			"<10:38:01><DEBUG>	 Event: LOOT_READY true", -- [1771]
+			"<10:38:02><DEBUG>	 Event: LOOT_READY true", -- [1772]
+			"<10:38:04><DEBUG>	 Event: LOOT_READY true", -- [1773]
+			"<10:38:04><DEBUG>	 Event: LOOT_READY true", -- [1774]
+			"<10:38:07><DEBUG>	 Event: LOOT_READY true", -- [1775]
+			"<10:38:07><DEBUG>	 Event: LOOT_READY true", -- [1776]
+			"<10:38:09><DEBUG>	 Event: LOOT_READY true", -- [1777]
+			"<10:38:09><DEBUG>	 Event: LOOT_READY true", -- [1778]
+			"<10:39:11><DEBUG>	 Event: LOOT_READY true", -- [1779]
+			"<10:39:11><DEBUG>	 Event: LOOT_READY true", -- [1780]
+			"<10:39:19><DEBUG>	 Event: LOOT_READY true", -- [1781]
+			"<10:39:20><DEBUG>	 Event: LOOT_READY true", -- [1782]
+			"<10:39:42><DEBUG>	 Event: LOOT_READY true", -- [1783]
+			"<10:39:42><DEBUG>	 Event: LOOT_READY true", -- [1784]
+			"<10:39:44><DEBUG>	 Event: LOOT_READY true", -- [1785]
+			"<10:39:45><DEBUG>	 Event: LOOT_READY true", -- [1786]
+			"<10:39:46><DEBUG>	 Event: LOOT_READY true", -- [1787]
+			"<10:39:47><DEBUG>	 Event: LOOT_READY true", -- [1788]
+			"<10:39:48><DEBUG>	 Event: LOOT_READY true", -- [1789]
+			"<10:39:49><DEBUG>	 Event: LOOT_READY true", -- [1790]
+			"<10:40:27><DEBUG>	 Event: LOOT_READY true", -- [1791]
+			"<10:40:28><DEBUG>	 Event: LOOT_READY true", -- [1792]
+			"<10:40:29><DEBUG>	 Event: LOOT_READY true", -- [1793]
+			"<10:40:30><DEBUG>	 Event: LOOT_READY true", -- [1794]
+			"<10:40:31><DEBUG>	 Event: LOOT_READY true", -- [1795]
+			"<10:40:32><DEBUG>	 Event: LOOT_READY true", -- [1796]
+			"<10:40:40><DEBUG>	 Event: LOOT_READY true", -- [1797]
+			"<10:40:40><DEBUG>	 Event: LOOT_READY true", -- [1798]
+			"<10:45:04><DEBUG>	 Event: LOOT_READY true", -- [1799]
+			"<10:45:04><DEBUG>	 Event: LOOT_READY true", -- [1800]
+			"<10:45:47><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1801]
+			"<10:45:48><DEBUG>	 GetML()", -- [1802]
+			"<11:02:05><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1803]
+			"<11:02:07><DEBUG>	 GetML()", -- [1804]
+			"<11:03:42><DEBUG>	 Event: LOOT_READY true", -- [1805]
+			"<11:03:42><DEBUG>	 Event: LOOT_READY true", -- [1806]
+			"<11:04:04><DEBUG>	 Event: LOOT_READY true", -- [1807]
+			"<11:04:04><DEBUG>	 Event: LOOT_READY true", -- [1808]
+			"<11:04:06><DEBUG>	 Event: LOOT_READY true", -- [1809]
+			"<11:04:06><DEBUG>	 Event: LOOT_READY true", -- [1810]
+			"<11:04:42><DEBUG>	 Event: LOOT_READY true", -- [1811]
+			"<11:04:42><DEBUG>	 Event: LOOT_READY true", -- [1812]
+			"<11:04:44><DEBUG>	 Event: LOOT_READY true", -- [1813]
+			"<11:04:44><DEBUG>	 Event: LOOT_READY true", -- [1814]
+			"<11:04:58><DEBUG>	 Event: LOOT_READY true", -- [1815]
+			"<11:04:58><DEBUG>	 Event: LOOT_READY true", -- [1816]
+			"<11:04:59><DEBUG>	 Event: LOOT_READY true", -- [1817]
+			"<11:05:00><DEBUG>	 Event: LOOT_READY true", -- [1818]
+			"<11:05:01><DEBUG>	 Event: LOOT_READY true", -- [1819]
+			"<11:05:02><DEBUG>	 Event: LOOT_READY true", -- [1820]
+			"<11:05:04><DEBUG>	 Event: LOOT_READY true", -- [1821]
+			"<11:05:05><DEBUG>	 Event: LOOT_READY true", -- [1822]
+			"<11:05:25><DEBUG>	 Event: LOOT_READY true", -- [1823]
+			"<11:05:25><DEBUG>	 Event: LOOT_READY true", -- [1824]
+			"<11:05:50><DEBUG>	 Event: LOOT_READY true", -- [1825]
+			"<11:05:50><DEBUG>	 Event: LOOT_READY true", -- [1826]
+			"<11:05:54><DEBUG>	 Event: LOOT_READY true", -- [1827]
+			"<11:05:54><DEBUG>	 Event: LOOT_READY true", -- [1828]
+			"<11:05:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 172097 |cff0070dd|Hitem:172097::::::::60:577:::::::|h[Толстая загрубевшая шкура]|h|r 1 Дэлери DEMONHUNTER", -- [1829]
+			"<11:05:56><DEBUG>	 Event: LOOT_READY true", -- [1830]
+			"<11:05:56><DEBUG>	 Event: LOOT_READY true", -- [1831]
+			"<11:06:39><DEBUG>	 Event: LOOT_READY true", -- [1832]
+			"<11:06:39><DEBUG>	 Event: LOOT_READY true", -- [1833]
+			"<11:06:41><DEBUG>	 Event: LOOT_READY true", -- [1834]
+			"<11:06:41><DEBUG>	 Event: LOOT_READY true", -- [1835]
+			"<11:06:43><DEBUG>	 Event: LOOT_READY true", -- [1836]
+			"<11:06:43><DEBUG>	 Event: LOOT_READY true", -- [1837]
+			"<11:06:45><DEBUG>	 Event: LOOT_READY true", -- [1838]
+			"<11:06:46><DEBUG>	 Event: LOOT_READY true", -- [1839]
+			"<11:06:47><DEBUG>	 Event: LOOT_READY true", -- [1840]
+			"<11:06:48><DEBUG>	 Event: LOOT_READY true", -- [1841]
+			"<11:06:49><DEBUG>	 Event: LOOT_READY true", -- [1842]
+			"<11:06:50><DEBUG>	 Event: LOOT_READY true", -- [1843]
+			"<11:06:53><DEBUG>	 Event: LOOT_READY true", -- [1844]
+			"<11:06:54><DEBUG>	 Event: LOOT_READY true", -- [1845]
+			"<11:07:17><DEBUG>	 Event: LOOT_READY true", -- [1846]
+			"<11:07:18><DEBUG>	 Event: LOOT_READY true", -- [1847]
+			"<11:07:19><DEBUG>	 Event: LOOT_READY true", -- [1848]
+			"<11:07:19><DEBUG>	 Event: LOOT_READY true", -- [1849]
+			"<11:07:21><DEBUG>	 Event: LOOT_READY true", -- [1850]
+			"<11:07:21><DEBUG>	 Event: LOOT_READY true", -- [1851]
+			"<11:07:23><DEBUG>	 Event: LOOT_READY true", -- [1852]
+			"<11:07:23><DEBUG>	 Event: LOOT_READY true", -- [1853]
+			"<11:07:46><DEBUG>	 Event: LOOT_READY true", -- [1854]
+			"<11:07:46><DEBUG>	 Event: LOOT_READY true", -- [1855]
+			"<11:07:49><DEBUG>	 Event: LOOT_READY true", -- [1856]
+			"<11:07:49><DEBUG>	 Event: LOOT_READY true", -- [1857]
+			"<11:07:59><DEBUG>	 Event: LOOT_READY true", -- [1858]
+			"<11:07:59><DEBUG>	 Event: LOOT_READY true", -- [1859]
+			"<11:08:01><DEBUG>	 Event: LOOT_READY true", -- [1860]
+			"<11:08:01><DEBUG>	 Event: LOOT_READY true", -- [1861]
+			"<11:08:41><DEBUG>	 Event: LOOT_READY true", -- [1862]
+			"<11:08:41><DEBUG>	 Event: LOOT_READY true", -- [1863]
+			"<11:08:42><DEBUG>	 Event: LOOT_READY true", -- [1864]
+			"<11:08:43><DEBUG>	 Event: LOOT_READY true", -- [1865]
+			"<11:08:51><DEBUG>	 Event: LOOT_READY true", -- [1866]
+			"<11:08:52><DEBUG>	 Event: LOOT_READY true", -- [1867]
+			"<11:08:53><DEBUG>	 Event: LOOT_READY true", -- [1868]
+			"<11:08:53><DEBUG>	 Event: LOOT_READY true", -- [1869]
+			"<11:09:27><DEBUG>	 Event: LOOT_READY true", -- [1870]
+			"<11:09:27><DEBUG>	 Event: LOOT_READY true", -- [1871]
+			"<11:09:29><DEBUG>	 Event: LOOT_READY true", -- [1872]
+			"<11:09:29><DEBUG>	 Event: LOOT_READY true", -- [1873]
+			"<11:09:36><DEBUG>	 Event: LOOT_READY true", -- [1874]
+			"<11:09:36><DEBUG>	 Event: LOOT_READY true", -- [1875]
+			"<11:09:53><DEBUG>	 Event: LOOT_READY true", -- [1876]
+			"<11:09:54><DEBUG>	 Event: LOOT_READY true", -- [1877]
+			"<11:09:55><DEBUG>	 Event: LOOT_READY true", -- [1878]
+			"<11:09:55><DEBUG>	 Event: LOOT_READY true", -- [1879]
+			"<11:10:24><DEBUG>	 Event: LOOT_READY true", -- [1880]
+			"<11:10:24><DEBUG>	 Event: LOOT_READY true", -- [1881]
+			"<11:10:33><DEBUG>	 Event: LOOT_READY true", -- [1882]
+			"<11:10:33><DEBUG>	 Event: LOOT_READY true", -- [1883]
+			"<11:10:52><DEBUG>	 Event: LOOT_READY true", -- [1884]
+			"<11:10:53><DEBUG>	 Event: LOOT_READY true", -- [1885]
+			"<11:10:54><DEBUG>	 Event: LOOT_READY true", -- [1886]
+			"<11:10:54><DEBUG>	 Event: LOOT_READY true", -- [1887]
+			"<11:11:08><DEBUG>	 Event: LOOT_READY true", -- [1888]
+			"<11:11:08><DEBUG>	 Event: LOOT_READY true", -- [1889]
+			"<11:11:10><DEBUG>	 Event: LOOT_READY true", -- [1890]
+			"<11:11:10><DEBUG>	 Event: LOOT_READY true", -- [1891]
+			"<11:11:31><DEBUG>	 Event: LOOT_READY true", -- [1892]
+			"<11:11:31><DEBUG>	 Event: LOOT_READY true", -- [1893]
+			"<11:11:34><DEBUG>	 Event: LOOT_READY true", -- [1894]
+			"<11:11:35><DEBUG>	 Event: LOOT_READY true", -- [1895]
+			"<11:11:36><DEBUG>	 Event: LOOT_READY true", -- [1896]
+			"<11:11:36><DEBUG>	 Event: LOOT_READY true", -- [1897]
+			"<11:12:04><DEBUG>	 Event: LOOT_READY true", -- [1898]
+			"<11:12:04><DEBUG>	 Event: LOOT_READY true", -- [1899]
+			"<11:12:06><DEBUG>	 Event: LOOT_READY true", -- [1900]
+			"<11:12:06><DEBUG>	 Event: LOOT_READY true", -- [1901]
+			"<11:12:08><DEBUG>	 Event: LOOT_READY true", -- [1902]
+			"<11:12:08><DEBUG>	 Event: LOOT_READY true", -- [1903]
+			"<11:12:14><DEBUG>	 Event: LOOT_READY true", -- [1904]
+			"<11:12:14><DEBUG>	 Event: LOOT_READY true", -- [1905]
+			"<11:12:16><DEBUG>	 Event: LOOT_READY true", -- [1906]
+			"<11:12:16><DEBUG>	 Event: LOOT_READY true", -- [1907]
+			"<11:12:17><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 172097 |cff0070dd|Hitem:172097::::::::60:577:::::::|h[Толстая загрубевшая шкура]|h|r 1 Дэлери DEMONHUNTER", -- [1908]
+			"<11:12:19><DEBUG>	 Event: LOOT_READY true", -- [1909]
+			"<11:12:19><DEBUG>	 Event: LOOT_READY true", -- [1910]
+			"<11:12:20><DEBUG>	 Event: LOOT_READY true", -- [1911]
+			"<11:12:21><DEBUG>	 Event: LOOT_READY true", -- [1912]
+			"<11:12:25><DEBUG>	 Event: LOOT_READY true", -- [1913]
+			"<11:12:25><DEBUG>	 Event: LOOT_READY true", -- [1914]
+			"<11:12:28><DEBUG>	 Event: LOOT_READY true", -- [1915]
+			"<11:12:28><DEBUG>	 Event: LOOT_READY true", -- [1916]
+			"<11:13:10><DEBUG>	 Event: LOOT_READY true", -- [1917]
+			"<11:13:10><DEBUG>	 Event: LOOT_READY true", -- [1918]
+			"<11:13:12><DEBUG>	 Event: LOOT_READY true", -- [1919]
+			"<11:13:12><DEBUG>	 Event: LOOT_READY true", -- [1920]
+			"<11:13:14><DEBUG>	 Event: LOOT_READY true", -- [1921]
+			"<11:13:14><DEBUG>	 Event: LOOT_READY true", -- [1922]
+			"<11:17:08><DEBUG>	 Event: LOOT_READY true", -- [1923]
+			"<11:17:08><DEBUG>	 Event: LOOT_READY true", -- [1924]
+			"<11:17:32><DEBUG>	 Event: LOOT_READY true", -- [1925]
+			"<11:17:33><DEBUG>	 Event: LOOT_READY true", -- [1926]
+			"<11:17:39><DEBUG>	 Event: LOOT_READY true", -- [1927]
+			"<11:17:39><DEBUG>	 Event: LOOT_READY true", -- [1928]
+			"<11:17:44><DEBUG>	 Event: LOOT_READY true", -- [1929]
+			"<11:17:44><DEBUG>	 Event: LOOT_READY true", -- [1930]
+			"<11:17:58><DEBUG>	 Event: LOOT_READY true", -- [1931]
+			"<11:17:59><DEBUG>	 Event: LOOT_READY true", -- [1932]
+			"<11:18:13><DEBUG>	 Event: LOOT_READY true", -- [1933]
+			"<11:18:13><DEBUG>	 Event: LOOT_READY true", -- [1934]
+			"<11:18:13><DEBUG>	 Event: LOOT_READY true", -- [1935]
+			"<11:18:13><DEBUG>	 Event: LOOT_READY true", -- [1936]
+			"<11:18:39><DEBUG>	 Event: LOOT_READY true", -- [1937]
+			"<11:18:39><DEBUG>	 Event: LOOT_READY true", -- [1938]
+			"<11:19:11><DEBUG>	 Event: LOOT_READY true", -- [1939]
+			"<11:19:11><DEBUG>	 Event: LOOT_READY true", -- [1940]
+			"<11:19:19><DEBUG>	 Event: LOOT_READY true", -- [1941]
+			"<11:19:19><DEBUG>	 Event: LOOT_READY true", -- [1942]
+			"<11:19:34><DEBUG>	 Event: LOOT_READY true", -- [1943]
+			"<11:19:34><DEBUG>	 Event: LOOT_READY true", -- [1944]
+			"<11:19:36><DEBUG>	 Event: LOOT_READY true", -- [1945]
+			"<11:19:37><DEBUG>	 Event: LOOT_READY true", -- [1946]
+			"<11:19:45><DEBUG>	 Event: LOOT_READY true", -- [1947]
+			"<11:19:45><DEBUG>	 Event: LOOT_READY true", -- [1948]
+			"<11:20:07><DEBUG>	 Event: LOOT_READY true", -- [1949]
+			"<11:20:07><DEBUG>	 Event: LOOT_READY true", -- [1950]
+			"<11:20:26><DEBUG>	 Event: LOOT_READY true", -- [1951]
+			"<11:20:26><DEBUG>	 Event: LOOT_READY true", -- [1952]
+			"<11:20:41><DEBUG>	 Event: LOOT_READY true", -- [1953]
+			"<11:20:42><DEBUG>	 Event: LOOT_READY true", -- [1954]
+			"<11:21:20><DEBUG>	 Event: LOOT_READY true", -- [1955]
+			"<11:21:21><DEBUG>	 Event: LOOT_READY true", -- [1956]
+			"<11:21:49><DEBUG>	 Event: LOOT_READY true", -- [1957]
+			"<11:21:49><DEBUG>	 Event: LOOT_READY true", -- [1958]
+			"<11:22:11><DEBUG>	 Event: LOOT_READY true", -- [1959]
+			"<11:22:11><DEBUG>	 Event: LOOT_READY true", -- [1960]
+			"<11:23:11><DEBUG>	 Event: LOOT_READY true", -- [1961]
+			"<11:23:11><DEBUG>	 Event: LOOT_READY true", -- [1962]
+			"<11:23:21><DEBUG>	 Event: LOOT_READY true", -- [1963]
+			"<11:23:21><DEBUG>	 Event: LOOT_READY true", -- [1964]
+			"<11:23:33><DEBUG>	 Event: LOOT_READY true", -- [1965]
+			"<11:23:33><DEBUG>	 Event: LOOT_READY true", -- [1966]
+			"<11:23:43><DEBUG>	 Event: LOOT_READY true", -- [1967]
+			"<11:23:43><DEBUG>	 Event: LOOT_READY true", -- [1968]
+			"<11:24:21><DEBUG>	 Event: LOOT_READY true", -- [1969]
+			"<11:24:21><DEBUG>	 Event: LOOT_READY true", -- [1970]
+			"<11:24:35><DEBUG>	 Event: LOOT_READY true", -- [1971]
+			"<11:24:35><DEBUG>	 Event: LOOT_READY true", -- [1972]
+			"<11:25:09><DEBUG>	 Event: LOOT_READY true", -- [1973]
+			"<11:25:09><DEBUG>	 Event: LOOT_READY true", -- [1974]
+			"<11:25:45><DEBUG>	 Event: LOOT_READY true", -- [1975]
+			"<11:25:45><DEBUG>	 Event: LOOT_READY true", -- [1976]
+			"<11:25:56><DEBUG>	 Event: LOOT_READY true", -- [1977]
+			"<11:25:56><DEBUG>	 Event: LOOT_READY true", -- [1978]
+			"<11:28:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1979]
+			"<11:28:54><DEBUG>	 GetML()", -- [1980]
+			"<11:29:33><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1981]
+			"<11:29:35><DEBUG>	 GetML()", -- [1982]
+			"<11:30:56><DEBUG>	 Event: LOOT_READY true", -- [1983]
+			"<11:30:56><DEBUG>	 Event: LOOT_READY true", -- [1984]
+			"<11:31:13><DEBUG>	 Event: LOOT_READY true", -- [1985]
+			"<11:31:14><DEBUG>	 Event: LOOT_READY true", -- [1986]
+			"<11:31:54><DEBUG>	 Event: LOOT_READY true", -- [1987]
+			"<11:31:54><DEBUG>	 Event: LOOT_READY true", -- [1988]
+			"<11:32:58><DEBUG>	 Event: LOOT_READY true", -- [1989]
+			"<11:32:59><DEBUG>	 Event: LOOT_READY true", -- [1990]
+			"<11:33:18><DEBUG>	 Event: LOOT_READY true", -- [1991]
+			"<11:33:18><DEBUG>	 Event: LOOT_READY true", -- [1992]
+			"<11:34:03><DEBUG>	 Event: LOOT_READY true", -- [1993]
+			"<11:34:03><DEBUG>	 Event: LOOT_READY true", -- [1994]
+			"<11:35:16><DEBUG>	 Event: LOOT_READY true", -- [1995]
+			"<11:35:16><DEBUG>	 Event: LOOT_READY true", -- [1996]
+			"<11:37:21><DEBUG>	 Event: LOOT_READY true", -- [1997]
+			"<11:37:22><DEBUG>	 Event: LOOT_READY true", -- [1998]
+			"<11:39:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1999]
+			"<11:39:04><DEBUG>	 GetML()", -- [2000]
 		},
 		["cache"] = {
 			["player"] = {
-				["Player-1597-0775A117"] = {
-					["name"] = "Oykas-Auchindoun",
-					["guid"] = "Player-1597-0775A117",
-					["class"] = "WARRIOR",
-					["cache_time"] = 1605419432,
-					["realm"] = "Auchindoun",
+				["Player-1602-0ACBA7A4"] = {
+					["name"] = "кнесия-Гордунни",
+					["guid"] = "Player-1602-0ACBA7A4",
+					["class"] = "PRIEST",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
 				},
 				["Player-1602-09C597B2"] = {
 					["name"] = "лимпер-Гордунни",
@@ -2047,27 +2047,19 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
-				["Player-1602-022A92CE"] = {
-					["ilvl"] = 214.9375,
-					["guid"] = "Player-1602-022A92CE",
-					["class"] = "SHAMAN",
-					["rank"] = "Пирожок",
-					["role"] = "HEALER",
-					["cache_time"] = 1610497700,
-					["name"] = "зелебобо-Гордунни",
-					["enchanter"] = true,
-					["specID"] = 264,
-					["enchantingLvl"] = 115,
-					["realm"] = "",
-				},
-				["Player-1602-05AC12A8"] = {
-					["role"] = "HEALER",
-					["name"] = "хлёсткий-Гордунни",
-					["guid"] = "Player-1602-05AC12A8",
-					["rank"] = "Основа",
-					["class"] = "PALADIN",
+				["Player-1602-0642397C"] = {
+					["name"] = "вейнат-Гордунни",
+					["guid"] = "Player-1602-0642397C",
+					["class"] = "DEATHKNIGHT",
 					["cache_time"] = 1610652019,
 					["realm"] = "",
+				},
+				["Player-3696-0579DAB9"] = {
+					["name"] = "Timmygobbels-Proudmoore",
+					["guid"] = "Player-3696-0579DAB9",
+					["class"] = "PALADIN",
+					["cache_time"] = 1611805490,
+					["realm"] = "Proudmoore",
 				},
 				["Player-3686-0497FB40"] = {
 					["name"] = "Safor-Antonidas",
@@ -2076,19 +2068,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610319231,
 					["realm"] = "Antonidas",
 				},
-				["Player-1602-0B1DB26C"] = {
-					["name"] = "ишник-Гордунни",
-					["guid"] = "Player-1602-0B1DB26C",
+				["Player-3686-0966675C"] = {
+					["name"] = "Lèvíathan-Antonidas",
+					["guid"] = "Player-3686-0966675C",
 					["class"] = "ROGUE",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1331-062A3489"] = {
-					["name"] = "Manla-Suramar",
-					["guid"] = "Player-1331-062A3489",
-					["class"] = "PRIEST",
-					["cache_time"] = 1610400940,
-					["realm"] = "Suramar",
+					["cache_time"] = 1613256995,
+					["realm"] = "Antonidas",
 				},
 				["Player-1929-0E2E5672"] = {
 					["name"] = "зонна-Борейскаятундра",
@@ -2097,20 +2082,13 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606123910,
 					["realm"] = "Борейскаятундра",
 				},
-				["Player-1602-0E74708D"] = {
-					["name"] = "выживший-Гордунни",
-					["guid"] = "Player-1602-0E74708D",
-					["class"] = "MAGE",
-					["cache_time"] = 1611805831,
-					["realm"] = "",
-				},
 				["Player-1602-0C734AC9"] = {
 					["role"] = "TANK",
 					["name"] = "ниэтта-Гордунни",
 					["guid"] = "Player-1602-0C734AC9",
 					["realm"] = "",
 					["class"] = "PALADIN",
-					["cache_time"] = 1612492433,
+					["cache_time"] = 1613717415,
 					["rank"] = "Резервист",
 				},
 				["Player-3391-0BAD4E2E"] = {
@@ -2120,13 +2098,6 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611053210,
 					["realm"] = "Silvermoon",
 				},
-				["Player-1602-0C1682C5"] = {
-					["name"] = "блейдданс-Гордунни",
-					["guid"] = "Player-1602-0C1682C5",
-					["class"] = "DEMONHUNTER",
-					["cache_time"] = 1606150455,
-					["realm"] = "Гордунни",
-				},
 				["Player-1316-09E9A022"] = {
 					["name"] = "Salai-Nemesis",
 					["guid"] = "Player-1316-09E9A022",
@@ -2134,77 +2105,19 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606150438,
 					["realm"] = "Nemesis",
 				},
-				["Player-1929-0E2E5E1D"] = {
-					["ilvl"] = 99.4375,
-					["guid"] = "Player-1929-0E2E5E1D",
-					["class"] = "ROGUE",
-					["role"] = "DAMAGER",
-					["cache_time"] = 1606151302,
-					["realm"] = "Борейскаятундра",
-					["name"] = "алтери-Борейскаятундра",
-					["specID"] = 259,
-					["enchantingLvl"] = 0,
-					["rank"] = "Друг крабов",
-				},
-				["Player-1929-0E2E5712"] = {
-					["name"] = "алоиза-Борейскаятундра",
-					["guid"] = "Player-1929-0E2E5712",
-					["class"] = "PRIEST",
-					["cache_time"] = 1612325767,
+				["Player-1602-0ED9AC95"] = {
+					["name"] = "руко-Гордунни",
+					["guid"] = "Player-1602-0ED9AC95",
+					["class"] = "DRUID",
+					["cache_time"] = 1613717459,
 					["realm"] = "",
 				},
-				["Player-1301-0B9977C4"] = {
-					["name"] = "Hobakok-Outland",
-					["guid"] = "Player-1301-0B9977C4",
-					["class"] = "PRIEST",
-					["cache_time"] = 1610479055,
-					["realm"] = "Outland",
-				},
-				["Player-1602-0A42FAAB"] = {
-					["role"] = "DAMAGER",
-					["name"] = "освирия-Гордунни",
-					["guid"] = "Player-1602-0A42FAAB",
-					["rank"] = "Триал",
-					["class"] = "DRUID",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-3391-0B0F41F5"] = {
-					["name"] = "Mkenzie-Silvermoon",
-					["guid"] = "Player-3391-0B0F41F5",
-					["class"] = "DRUID",
-					["cache_time"] = 1612498052,
-					["realm"] = "Silvermoon",
-				},
-				["Player-1385-0A5085C7"] = {
-					["name"] = "Arzanita-Minahonda",
-					["guid"] = "Player-1385-0A5085C7",
-					["class"] = "PRIEST",
-					["cache_time"] = 1610316816,
-					["realm"] = "Minahonda",
-				},
-				["Player-1602-0AE5A5A9"] = {
-					["name"] = "альфыч-Гордунни",
-					["guid"] = "Player-1602-0AE5A5A9",
+				["Player-1929-0D66030E"] = {
+					["name"] = "эрника-Борейскаятундра",
+					["guid"] = "Player-1929-0D66030E",
 					["class"] = "MAGE",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1127-09A8243A"] = {
-					["name"] = "Myast-KirinTor",
-					["guid"] = "Player-1127-09A8243A",
-					["class"] = "ROGUE",
-					["cache_time"] = 1610319223,
-					["realm"] = "KirinTor",
-				},
-				["Player-1602-08336BE1"] = {
-					["role"] = "DAMAGER",
-					["name"] = "чаррон-Гордунни",
-					["guid"] = "Player-1602-08336BE1",
-					["rank"] = "Триал",
-					["class"] = "DRUID",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
+					["cache_time"] = 1606155053,
+					["realm"] = "Борейскаятундра",
 				},
 				["Player-1602-0B4E1640"] = {
 					["role"] = "HEALER",
@@ -2229,40 +2142,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611805386,
 					["realm"] = "Tyrande",
 				},
-				["Player-1602-0AC845CD"] = {
-					["name"] = "феанорчик-Гордунни",
-					["guid"] = "Player-1602-0AC845CD",
-					["class"] = "DEATHKNIGHT",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1614-0890F7D5"] = {
-					["name"] = "ундервульф-Галакронд",
-					["guid"] = "Player-1614-0890F7D5",
-					["class"] = "ROGUE",
-					["cache_time"] = 1606150171,
-					["realm"] = "Галакронд",
-				},
-				["Player-1121-0954A276"] = {
-					["name"] = "Gaknig-DieewigeWacht",
-					["guid"] = "Player-1121-0954A276",
-					["class"] = "PALADIN",
-					["cache_time"] = 1611805823,
-					["realm"] = "DieewigeWacht",
-				},
-				["Player-1602-06F838AD"] = {
-					["name"] = "изумия-Гордунни",
-					["guid"] = "Player-1602-06F838AD",
-					["class"] = "HUNTER",
-					["cache_time"] = 1610567207,
-					["realm"] = "",
-				},
-				["Player-570-09B9359D"] = {
-					["name"] = "Erzfreundin-Krag'jin",
-					["guid"] = "Player-570-09B9359D",
-					["class"] = "MAGE",
-					["cache_time"] = 1606151953,
-					["realm"] = "Krag'jin",
+				["Player-1923-0EDA3817"] = {
+					["name"] = "питучх-Ясеневыйлес",
+					["guid"] = "Player-1923-0EDA3817",
+					["class"] = "DRUID",
+					["cache_time"] = 1613625599,
+					["realm"] = "Ясеневыйлес",
 				},
 				["Player-1602-09FAA09A"] = {
 					["name"] = "такилион-Гордунни",
@@ -2277,6 +2162,433 @@ RCLootCouncilDB = {
 					["class"] = "HUNTER",
 					["cache_time"] = 1610652019,
 					["realm"] = "",
+				},
+				["Player-1396-0A4A72A5"] = {
+					["name"] = "Luxipher-AzjolNerub",
+					["guid"] = "Player-1396-0A4A72A5",
+					["class"] = "PALADIN",
+					["cache_time"] = 1605302003,
+					["realm"] = "AzjolNerub",
+				},
+				["Player-1602-037CE51D"] = {
+					["name"] = "реджеки-Гордунни",
+					["guid"] = "Player-1602-037CE51D",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1610563579,
+					["realm"] = "",
+				},
+				["Player-1301-0B387351"] = {
+					["name"] = "Talerya-Outland",
+					["guid"] = "Player-1301-0B387351",
+					["class"] = "DRUID",
+					["cache_time"] = 1612833671,
+					["realm"] = "Outland",
+				},
+				["Player-1602-0EADA0F1"] = {
+					["role"] = "DAMAGER",
+					["name"] = "кармичный-Гордунни",
+					["guid"] = "Player-1602-0EADA0F1",
+					["rank"] = "Твинк Ветерана",
+					["class"] = "DEATHKNIGHT",
+					["cache_time"] = 1611610368,
+					["realm"] = "",
+				},
+				["Player-1602-0EB2A228"] = {
+					["name"] = "серикан-Гордунни",
+					["guid"] = "Player-1602-0EB2A228",
+					["class"] = "HUNTER",
+					["cache_time"] = 1612213964,
+					["realm"] = "",
+				},
+				["Player-1602-020E07C1"] = {
+					["name"] = "единица-Гордунни",
+					["guid"] = "Player-1602-020E07C1",
+					["class"] = "ROGUE",
+					["cache_time"] = 1613238067,
+					["realm"] = "",
+				},
+				["Player-1602-07ACA56E"] = {
+					["name"] = "рафит-Гордунни",
+					["guid"] = "Player-1602-07ACA56E",
+					["class"] = "HUNTER",
+					["cache_time"] = 1612127823,
+					["realm"] = "",
+				},
+				["Player-1929-0E21F0D3"] = {
+					["name"] = "элави-Борейскаятундра",
+					["guid"] = "Player-1929-0E21F0D3",
+					["class"] = "WARLOCK",
+					["cache_time"] = 1606154748,
+					["realm"] = "Борейскаятундра",
+				},
+				["Player-1623-0A2F3BEF"] = {
+					["name"] = "яприсяду-Дракономор",
+					["guid"] = "Player-1623-0A2F3BEF",
+					["class"] = "DRUID",
+					["cache_time"] = 1610485095,
+					["realm"] = "Дракономор",
+				},
+				["Player-1602-0EA13305"] = {
+					["ilvl"] = 212,
+					["guid"] = "Player-1602-0EA13305",
+					["class"] = "DRUID",
+					["role"] = "DAMAGER",
+					["cache_time"] = 1610567207,
+					["rank"] = "Триал",
+					["name"] = "двадвавосём-Гордунни",
+					["enchanter"] = true,
+					["enchantingLvl"] = 115,
+					["realm"] = "",
+				},
+				["Player-1329-097C845D"] = {
+					["name"] = "Fireflÿ-Ravencrest",
+					["guid"] = "Player-1329-097C845D",
+					["class"] = "PRIEST",
+					["cache_time"] = 1610812685,
+					["realm"] = "Ravencrest",
+				},
+				["Player-3391-0B0F41F5"] = {
+					["name"] = "Mkenzie-Silvermoon",
+					["guid"] = "Player-3391-0B0F41F5",
+					["class"] = "DRUID",
+					["cache_time"] = 1612498052,
+					["realm"] = "Silvermoon",
+				},
+				["Player-1313-091BBB28"] = {
+					["name"] = "Mourgos-Thunderhorn",
+					["guid"] = "Player-1313-091BBB28",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1612564148,
+					["realm"] = "Thunderhorn",
+				},
+				["Player-1922-0B53E7F3"] = {
+					["name"] = "волхидан-Азурегос",
+					["guid"] = "Player-1922-0B53E7F3",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1613632277,
+					["realm"] = "Азурегос",
+				},
+				["Player-1325-03C6181B"] = {
+					["name"] = "Awizarddidit-Aggramar",
+					["guid"] = "Player-1325-03C6181B",
+					["class"] = "WARRIOR",
+					["cache_time"] = 1605418025,
+					["realm"] = "Aggramar",
+				},
+				["Player-1929-0E2E0939"] = {
+					["name"] = "свойчел-Борейскаятундра",
+					["guid"] = "Player-1929-0E2E0939",
+					["class"] = "MONK",
+					["cache_time"] = 1604863807,
+					["realm"] = "Борейскаятундра",
+				},
+				["Player-1602-0B4F5AAB"] = {
+					["name"] = "зондрик-Гордунни",
+					["guid"] = "Player-1602-0B4F5AAB",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-09F71C01"] = {
+					["name"] = "акримка-Гордунни",
+					["guid"] = "Player-1602-09F71C01",
+					["class"] = "DRUID",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-07E0A70F"] = {
+					["name"] = "камели-Гордунни",
+					["guid"] = "Player-1602-07E0A70F",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1610567207,
+					["realm"] = "",
+				},
+				["Player-1929-0E2E5070"] = {
+					["ilvl"] = 130.375,
+					["guid"] = "Player-1929-0E2E5070",
+					["class"] = "DEMONHUNTER",
+					["role"] = "DAMAGER",
+					["cache_time"] = 1613722138,
+					["realm"] = "",
+					["name"] = "дэлери-Борейскаятундра",
+					["specID"] = 577,
+					["enchantingLvl"] = 0,
+					["rank"] = "Не в гильдии",
+				},
+				["Player-1602-09FC5E89"] = {
+					["name"] = "джонстронг-Гордунни",
+					["guid"] = "Player-1602-09FC5E89",
+					["class"] = "WARRIOR",
+					["cache_time"] = 1613321683,
+					["realm"] = "",
+				},
+				["Player-1602-0B1B3437"] = {
+					["name"] = "бубубуша-Гордунни",
+					["guid"] = "Player-1602-0B1B3437",
+					["class"] = "DRUID",
+					["cache_time"] = 1611610322,
+					["realm"] = "",
+				},
+				["Player-1597-0E41DC69"] = {
+					["name"] = "Ntcmesenpai-Auchindoun",
+					["guid"] = "Player-1597-0E41DC69",
+					["class"] = "HUNTER",
+					["cache_time"] = 1606150162,
+					["realm"] = "Auchindoun",
+				},
+				["Player-1602-0A2B53F4"] = {
+					["name"] = "лимбра-Гордунни",
+					["guid"] = "Player-1602-0A2B53F4",
+					["class"] = "MONK",
+					["cache_time"] = 1605417975,
+					["realm"] = "Гордунни",
+				},
+				["Player-1329-093021CC"] = {
+					["name"] = "Masikadh-Ravencrest",
+					["guid"] = "Player-1329-093021CC",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1613330634,
+					["realm"] = "Ravencrest",
+				},
+				["Player-1602-0BE20D17"] = {
+					["name"] = "уххастик-Гордунни",
+					["guid"] = "Player-1602-0BE20D17",
+					["class"] = "MONK",
+					["cache_time"] = 1613329562,
+					["realm"] = "",
+				},
+				["Player-1602-09D3FD64"] = {
+					["role"] = "DAMAGER",
+					["name"] = "кииллуа-Гордунни",
+					["guid"] = "Player-1602-09D3FD64",
+					["realm"] = "",
+					["class"] = "HUNTER",
+					["cache_time"] = 1610652282,
+					["rank"] = "Пуська",
+				},
+				["Player-633-0989C33E"] = {
+					["name"] = "Samotrakia-ShatteredHand",
+					["guid"] = "Player-633-0989C33E",
+					["class"] = "PRIEST",
+					["cache_time"] = 1606151908,
+					["realm"] = "ShatteredHand",
+				},
+				["Player-1602-0BEF2EBE"] = {
+					["ilvl"] = 218,
+					["guid"] = "Player-1602-0BEF2EBE",
+					["class"] = "MAGE",
+					["rank"] = "Рейдер",
+					["role"] = "DAMAGER",
+					["cache_time"] = 1612822602,
+					["name"] = "чармис-Гордунни",
+					["enchanter"] = true,
+					["specID"] = 63,
+					["enchantingLvl"] = 115,
+					["realm"] = "",
+				},
+				["Player-1396-074CBC71"] = {
+					["name"] = "Dexterity-AzjolNerub",
+					["guid"] = "Player-1396-074CBC71",
+					["class"] = "HUNTER",
+					["cache_time"] = 1612726285,
+					["realm"] = "AzjolNerub",
+				},
+				["Player-3679-0BAEECDD"] = {
+					["name"] = "Algúroth-Aegwynn",
+					["guid"] = "Player-3679-0BAEECDD",
+					["class"] = "PRIEST",
+					["cache_time"] = 1613704061,
+					["realm"] = "Aegwynn",
+				},
+				["Player-1602-0AFD078C"] = {
+					["name"] = "латоссии-Гордунни",
+					["guid"] = "Player-1602-0AFD078C",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1621-0A594919"] = {
+					["name"] = "Nopha-Cho'gall",
+					["guid"] = "Player-1621-0A594919",
+					["class"] = "HUNTER",
+					["cache_time"] = 1612826135,
+					["realm"] = "Cho'gall",
+				},
+				["Player-1329-0419690B"] = {
+					["name"] = "Yawkie-Ravencrest",
+					["guid"] = "Player-1329-0419690B",
+					["class"] = "MONK",
+					["cache_time"] = 1613332722,
+					["realm"] = "Ravencrest",
+				},
+				["Player-1602-0E790458"] = {
+					["name"] = "лайтфит-Гордунни",
+					["guid"] = "Player-1602-0E790458",
+					["class"] = "ROGUE",
+					["cache_time"] = 1612899676,
+					["realm"] = "",
+				},
+				["Player-1597-0D476D50"] = {
+					["name"] = "Lukeze-Sylvanas",
+					["guid"] = "Player-1597-0D476D50",
+					["class"] = "PRIEST",
+					["cache_time"] = 1612727283,
+					["realm"] = "Sylvanas",
+				},
+				["Player-1602-0EBBBBA9"] = {
+					["name"] = "парвинка-Гордунни",
+					["guid"] = "Player-1602-0EBBBBA9",
+					["class"] = "WARRIOR",
+					["cache_time"] = 1613718948,
+					["realm"] = "",
+				},
+				["Player-3391-09D6AA8F"] = {
+					["name"] = "Spriing-Silvermoon",
+					["guid"] = "Player-3391-09D6AA8F",
+					["class"] = "PALADIN",
+					["cache_time"] = 1606150470,
+					["realm"] = "Silvermoon",
+				},
+				["Player-1597-0775A117"] = {
+					["name"] = "Oykas-Auchindoun",
+					["guid"] = "Player-1597-0775A117",
+					["class"] = "WARRIOR",
+					["cache_time"] = 1605419432,
+					["realm"] = "Auchindoun",
+				},
+				["Player-1602-0B1DB26C"] = {
+					["name"] = "ишник-Гордунни",
+					["guid"] = "Player-1602-0B1DB26C",
+					["class"] = "ROGUE",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1080-0A24AE99"] = {
+					["name"] = "Ammit-Bloodhoof",
+					["guid"] = "Player-1080-0A24AE99",
+					["class"] = "ROGUE",
+					["cache_time"] = 1613703885,
+					["realm"] = "Bloodhoof",
+				},
+				["Player-1309-050D3AB1"] = {
+					["name"] = "Elenid-Pozzodell'Eternità",
+					["guid"] = "Player-1309-050D3AB1",
+					["class"] = "WARLOCK",
+					["cache_time"] = 1605420334,
+					["realm"] = "Pozzodell'Eternità",
+				},
+				["Player-1602-0E74708D"] = {
+					["name"] = "выживший-Гордунни",
+					["guid"] = "Player-1602-0E74708D",
+					["class"] = "MAGE",
+					["cache_time"] = 1611805831,
+					["realm"] = "",
+				},
+				["Player-1303-0B643348"] = {
+					["role"] = "DAMAGER",
+					["name"] = "Michaél-Frostmane",
+					["guid"] = "Player-1303-0B643348",
+					["rank"] = "Trial",
+					["class"] = "WARRIOR",
+					["cache_time"] = 1613333601,
+					["realm"] = "Frostmane",
+				},
+				["Player-1602-06F838AD"] = {
+					["name"] = "изумия-Гордунни",
+					["guid"] = "Player-1602-06F838AD",
+					["class"] = "HUNTER",
+					["cache_time"] = 1610567207,
+					["realm"] = "",
+				},
+				["Player-1602-0C1682C5"] = {
+					["name"] = "блейдданс-Гордунни",
+					["guid"] = "Player-1602-0C1682C5",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1606150455,
+					["realm"] = "Гордунни",
+				},
+				["Player-1929-0E2E1E12"] = {
+					["ilvl"] = 204.375,
+					["guid"] = "Player-1929-0E2E1E12",
+					["class"] = "HUNTER",
+					["rank"] = "Друг крабов",
+					["role"] = "DAMAGER",
+					["cache_time"] = 1612564428,
+					["name"] = "недаю-Борейскаятундра",
+					["enchanter"] = true,
+					["specID"] = 254,
+					["enchantingLvl"] = 100,
+					["realm"] = "Борейскаятундра",
+				},
+				["Player-1929-0E2E5E1D"] = {
+					["ilvl"] = 99.4375,
+					["guid"] = "Player-1929-0E2E5E1D",
+					["class"] = "ROGUE",
+					["role"] = "DAMAGER",
+					["cache_time"] = 1613505007,
+					["realm"] = "",
+					["name"] = "алтери-Борейскаятундра",
+					["specID"] = 259,
+					["enchantingLvl"] = 0,
+					["rank"] = "Друг крабов",
+				},
+				["Player-1929-0E218FE3"] = {
+					["name"] = "ниоши-Борейскаятундра",
+					["guid"] = "Player-1929-0E218FE3",
+					["class"] = "MAGE",
+					["cache_time"] = 1606154893,
+					["realm"] = "Борейскаятундра",
+				},
+				["Player-1301-0B9977C4"] = {
+					["name"] = "Hobakok-Outland",
+					["guid"] = "Player-1301-0B9977C4",
+					["class"] = "PRIEST",
+					["cache_time"] = 1610479055,
+					["realm"] = "Outland",
+				},
+				["Player-1602-0224EDBB"] = {
+					["name"] = "сочувствие-Гордунни",
+					["guid"] = "Player-1602-0224EDBB",
+					["class"] = "PALADIN",
+					["cache_time"] = 1613513016,
+					["realm"] = "Гордунни",
+				},
+				["Player-1385-0A5085C7"] = {
+					["name"] = "Arzanita-Minahonda",
+					["guid"] = "Player-1385-0A5085C7",
+					["class"] = "PRIEST",
+					["cache_time"] = 1610316816,
+					["realm"] = "Minahonda",
+				},
+				["Player-1602-0AC845CD"] = {
+					["name"] = "феанорчик-Гордунни",
+					["guid"] = "Player-1602-0AC845CD",
+					["class"] = "DEATHKNIGHT",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-08336BE1"] = {
+					["role"] = "DAMAGER",
+					["name"] = "чаррон-Гордунни",
+					["guid"] = "Player-1602-08336BE1",
+					["rank"] = "Триал",
+					["class"] = "DRUID",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1121-0954A276"] = {
+					["name"] = "Gaknig-DieewigeWacht",
+					["guid"] = "Player-1121-0954A276",
+					["class"] = "PALADIN",
+					["cache_time"] = 1611805823,
+					["realm"] = "DieewigeWacht",
+				},
+				["Player-1417-058C8F62"] = {
+					["name"] = "Sigourneyw-Stormrage",
+					["guid"] = "Player-1417-058C8F62",
+					["class"] = "DRUID",
+					["cache_time"] = 1613627087,
+					["realm"] = "Stormrage",
 				},
 				["Player-1929-0E2E33F1"] = {
 					["ilvl"] = 211.625,
@@ -2300,26 +2612,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610652019,
 					["rank"] = "Рейдер",
 				},
-				["Player-1929-0D66034B"] = {
-					["name"] = "нирейя-Борейскаятундра",
-					["guid"] = "Player-1929-0D66034B",
-					["class"] = "DRUID",
-					["cache_time"] = 1606155006,
-					["realm"] = "Борейскаятундра",
-				},
-				["Player-1602-09EEA73B"] = {
-					["name"] = "фралити-Гордунни",
-					["guid"] = "Player-1602-09EEA73B",
-					["class"] = "ROGUE",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1602-037CE51D"] = {
-					["name"] = "реджеки-Гордунни",
-					["guid"] = "Player-1602-037CE51D",
-					["class"] = "SHAMAN",
-					["cache_time"] = 1610563579,
-					["realm"] = "",
+				["Player-3686-04478018"] = {
+					["name"] = "Nandieb-Antonidas",
+					["guid"] = "Player-3686-04478018",
+					["class"] = "PRIEST",
+					["cache_time"] = 1605419049,
+					["realm"] = "Antonidas",
 				},
 				["Player-1602-070B259C"] = {
 					["name"] = "агореса-Гордунни",
@@ -2344,55 +2642,25 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
-				["Player-1602-0642397C"] = {
-					["name"] = "вейнат-Гордунни",
-					["guid"] = "Player-1602-0642397C",
-					["class"] = "DEATHKNIGHT",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1929-0D66030E"] = {
-					["name"] = "эрника-Борейскаятундра",
-					["guid"] = "Player-1929-0D66030E",
-					["class"] = "MAGE",
-					["cache_time"] = 1606155053,
-					["realm"] = "Борейскаятундра",
-				},
-				["Player-1602-0EADA0F1"] = {
-					["role"] = "DAMAGER",
-					["name"] = "кармичный-Гордунни",
-					["guid"] = "Player-1602-0EADA0F1",
-					["rank"] = "Твинк Ветерана",
-					["class"] = "DEATHKNIGHT",
-					["cache_time"] = 1611610368,
-					["realm"] = "",
-				},
 				["Player-1929-0E2E1E33"] = {
-					["ilvl"] = 198,
+					["ilvl"] = 207.5625,
 					["guid"] = "Player-1929-0E2E1E33",
 					["class"] = "PALADIN",
 					["rank"] = "Друг крабов",
 					["role"] = "DAMAGER",
-					["cache_time"] = 1611160010,
+					["cache_time"] = 1612557902,
 					["name"] = "свитминт-Борейскаятундра",
 					["enchanter"] = true,
 					["specID"] = 70,
-					["enchantingLvl"] = 10,
+					["enchantingLvl"] = 15,
 					["realm"] = "Борейскаятундра",
 				},
-				["Player-1602-0EA5C220"] = {
-					["name"] = "швартсон-Гордунни",
-					["guid"] = "Player-1602-0EA5C220",
-					["class"] = "MAGE",
-					["cache_time"] = 1610485083,
-					["realm"] = "",
-				},
-				["Player-1929-0E21F0D3"] = {
-					["name"] = "элави-Борейскаятундра",
-					["guid"] = "Player-1929-0E21F0D3",
-					["class"] = "WARLOCK",
-					["cache_time"] = 1606154748,
-					["realm"] = "Борейскаятундра",
+				["Player-1405-08DA824F"] = {
+					["name"] = "Irâna-DieNachtwache",
+					["guid"] = "Player-1405-08DA824F",
+					["class"] = "MONK",
+					["cache_time"] = 1613511793,
+					["realm"] = "DieNachtwache",
 				},
 				["Player-1390-09EDEEFF"] = {
 					["name"] = "Nissrîne-Hyjal",
@@ -2408,25 +2676,11 @@ RCLootCouncilDB = {
 					["cache_time"] = 1612298950,
 					["realm"] = "",
 				},
-				["Player-578-0950577D"] = {
-					["name"] = "Xynnmage-Durotan",
-					["guid"] = "Player-578-0950577D",
+				["Player-1602-0EA5C220"] = {
+					["name"] = "швартсон-Гордунни",
+					["guid"] = "Player-1602-0EA5C220",
 					["class"] = "MAGE",
-					["cache_time"] = 1611404175,
-					["realm"] = "Durotan",
-				},
-				["Player-1602-07ACA56E"] = {
-					["name"] = "рафит-Гордунни",
-					["guid"] = "Player-1602-07ACA56E",
-					["class"] = "HUNTER",
-					["cache_time"] = 1612127823,
-					["realm"] = "",
-				},
-				["Player-1602-0B234A70"] = {
-					["name"] = "пайфей-Гордунни",
-					["guid"] = "Player-1602-0B234A70",
-					["class"] = "MAGE",
-					["cache_time"] = 1610652019,
+					["cache_time"] = 1610485083,
 					["realm"] = "",
 				},
 				["Player-1602-0E9C15B6"] = {
@@ -2445,33 +2699,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
-				["Player-1623-0A2F3BEF"] = {
-					["name"] = "яприсяду-Дракономор",
-					["guid"] = "Player-1623-0A2F3BEF",
-					["class"] = "DRUID",
-					["cache_time"] = 1610485095,
-					["realm"] = "Дракономор",
-				},
-				["Player-1602-0E761C40"] = {
-					["name"] = "шоменх-Гордунни",
-					["guid"] = "Player-1602-0E761C40",
-					["class"] = "SHAMAN",
-					["cache_time"] = 1610482160,
-					["realm"] = "",
-				},
-				["Player-1329-097C845D"] = {
-					["name"] = "Fireflÿ-Ravencrest",
-					["guid"] = "Player-1329-097C845D",
-					["class"] = "PRIEST",
-					["cache_time"] = 1610812685,
-					["realm"] = "Ravencrest",
-				},
-				["Player-1096-09D9B30E"] = {
-					["name"] = "Deiopea-EarthenRing",
-					["guid"] = "Player-1096-09D9B30E",
+				["Player-578-0950577D"] = {
+					["name"] = "Xynnmage-Durotan",
+					["guid"] = "Player-578-0950577D",
 					["class"] = "MAGE",
-					["cache_time"] = 1605420281,
-					["realm"] = "EarthenRing",
+					["cache_time"] = 1611404175,
+					["realm"] = "Durotan",
 				},
 				["Player-1303-0BA78EFD"] = {
 					["name"] = "Lockvoid-Aggra(Português)",
@@ -2487,12 +2720,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606151948,
 					["realm"] = "LaCroisadeécarlate",
 				},
-				["Player-1929-0E218FE3"] = {
-					["name"] = "ниоши-Борейскаятундра",
-					["guid"] = "Player-1929-0E218FE3",
-					["class"] = "MAGE",
-					["cache_time"] = 1606154893,
-					["realm"] = "Борейскаятундра",
+				["Player-1587-0C853B81"] = {
+					["name"] = "Schannara-Runetotem",
+					["guid"] = "Player-1587-0C853B81",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1606151291,
+					["realm"] = "Runetotem",
 				},
 				["Player-1602-09EC59A7"] = {
 					["role"] = "DAMAGER",
@@ -2503,26 +2736,21 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611404180,
 					["rank"] = "Рейдер",
 				},
-				["Player-1602-0ADEA3B0"] = {
-					["name"] = "яхазугири-Гордунни",
-					["guid"] = "Player-1602-0ADEA3B0",
+				["Player-1602-0972F860"] = {
+					["role"] = "HEALER",
+					["name"] = "шошин-Гордунни",
+					["guid"] = "Player-1602-0972F860",
+					["realm"] = "",
 					["class"] = "PRIEST",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
+					["cache_time"] = 1610492417,
+					["rank"] = "Основа",
 				},
-				["Player-1309-050D3AB1"] = {
-					["name"] = "Elenid-Pozzodell'Eternità",
-					["guid"] = "Player-1309-050D3AB1",
-					["class"] = "WARLOCK",
-					["cache_time"] = 1605420334,
-					["realm"] = "Pozzodell'Eternità",
-				},
-				["Player-1602-068EF163"] = {
-					["name"] = "омбро-Гордунни",
-					["guid"] = "Player-1602-068EF163",
-					["class"] = "MONK",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
+				["Player-1621-05502DA6"] = {
+					["name"] = "Detox-Dalaran",
+					["guid"] = "Player-1621-05502DA6",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1613513491,
+					["realm"] = "Dalaran",
 				},
 				["Player-1602-08113BDE"] = {
 					["name"] = "роденор-Гордунни",
@@ -2531,10 +2759,100 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611434985,
 					["realm"] = "",
 				},
+				["Player-1309-0A3383A8"] = {
+					["ilvl"] = 214.5625,
+					["guid"] = "Player-1309-0A3383A8",
+					["class"] = "DEATHKNIGHT",
+					["realm"] = "Pozzodell'Eternità",
+					["role"] = "DAMAGER",
+					["cache_time"] = 1611055970,
+					["name"] = "Sherlôck-Pozzodell'Eternità",
+					["specID"] = 252,
+					["enchanter"] = true,
+					["enchantingLvl"] = 115,
+					["rank"] = "Raider",
+				},
+				["Player-570-09B9359D"] = {
+					["name"] = "Erzfreundin-Krag'jin",
+					["guid"] = "Player-570-09B9359D",
+					["class"] = "MAGE",
+					["cache_time"] = 1606151953,
+					["realm"] = "Krag'jin",
+				},
+				["Player-1614-0890F7D5"] = {
+					["name"] = "ундервульф-Галакронд",
+					["guid"] = "Player-1614-0890F7D5",
+					["class"] = "ROGUE",
+					["cache_time"] = 1606150171,
+					["realm"] = "Галакронд",
+				},
+				["Player-1602-09EEA73B"] = {
+					["name"] = "фралити-Гордунни",
+					["guid"] = "Player-1602-09EEA73B",
+					["class"] = "ROGUE",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-0B314F8E"] = {
+					["name"] = "агрюнеори-Гордунни",
+					["guid"] = "Player-1602-0B314F8E",
+					["class"] = "WARRIOR",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-068EF163"] = {
+					["name"] = "омбро-Гордунни",
+					["guid"] = "Player-1602-068EF163",
+					["class"] = "MONK",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-0AE5A5A9"] = {
+					["name"] = "альфыч-Гордунни",
+					["guid"] = "Player-1602-0AE5A5A9",
+					["class"] = "MAGE",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1929-0D66034B"] = {
+					["name"] = "нирейя-Борейскаятундра",
+					["guid"] = "Player-1929-0D66034B",
+					["class"] = "DRUID",
+					["cache_time"] = 1606155006,
+					["realm"] = "Борейскаятундра",
+				},
+				["Player-1329-0611DE8E"] = {
+					["name"] = "Roksalia-Ravencrest",
+					["guid"] = "Player-1329-0611DE8E",
+					["class"] = "MAGE",
+					["cache_time"] = 1612672863,
+					["realm"] = "Ravencrest",
+				},
+				["Player-1082-096D62BC"] = {
+					["name"] = "Davikiin-KulTiras",
+					["guid"] = "Player-1082-096D62BC",
+					["class"] = "PALADIN",
+					["cache_time"] = 1611966762,
+					["realm"] = "KulTiras",
+				},
+				["Player-1602-02304928"] = {
+					["name"] = "сострадание-Гордунни",
+					["guid"] = "Player-1602-02304928",
+					["class"] = "DRUID",
+					["cache_time"] = 1613509079,
+					["realm"] = "Гордунни",
+				},
 				["Player-1602-05687E42"] = {
 					["name"] = "рейгас-Гордунни",
 					["guid"] = "Player-1602-05687E42",
 					["class"] = "DEATHKNIGHT",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-0C1E60A0"] = {
+					["name"] = "сакредру-Гордунни",
+					["guid"] = "Player-1602-0C1E60A0",
+					["class"] = "DRUID",
 					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
@@ -2551,67 +2869,12 @@ RCLootCouncilDB = {
 					["enchantingLvl"] = 115,
 					["rank"] = "Основа",
 				},
-				["Player-1309-0A3383A8"] = {
-					["ilvl"] = 214.5625,
-					["guid"] = "Player-1309-0A3383A8",
+				["Player-1929-0D66036B"] = {
+					["name"] = "сайбил-Борейскаятундра",
+					["guid"] = "Player-1929-0D66036B",
 					["class"] = "DEATHKNIGHT",
-					["realm"] = "Pozzodell'Eternità",
-					["role"] = "DAMAGER",
-					["cache_time"] = 1611055970,
-					["name"] = "Sherlôck-Pozzodell'Eternità",
-					["specID"] = 252,
-					["enchanter"] = true,
-					["enchantingLvl"] = 115,
-					["rank"] = "Raider",
-				},
-				["Player-1602-0B314F8E"] = {
-					["name"] = "агрюнеори-Гордунни",
-					["guid"] = "Player-1602-0B314F8E",
-					["class"] = "WARRIOR",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1929-0E2E0939"] = {
-					["name"] = "свойчел-Борейскаятундра",
-					["guid"] = "Player-1929-0E2E0939",
-					["class"] = "MONK",
-					["cache_time"] = 1604863807,
+					["cache_time"] = 1606154400,
 					["realm"] = "Борейскаятундра",
-				},
-				["Player-1602-0B4F5AAB"] = {
-					["name"] = "зондрик-Гордунни",
-					["guid"] = "Player-1602-0B4F5AAB",
-					["class"] = "SHAMAN",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1602-09F71C01"] = {
-					["name"] = "акримка-Гордунни",
-					["guid"] = "Player-1602-09F71C01",
-					["class"] = "DRUID",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1602-09E19B73"] = {
-					["name"] = "аригнис-Гордунни",
-					["guid"] = "Player-1602-09E19B73",
-					["class"] = "WARLOCK",
-					["cache_time"] = 1610648623,
-					["realm"] = "",
-				},
-				["Player-1602-07E0A70F"] = {
-					["name"] = "камели-Гордунни",
-					["guid"] = "Player-1602-07E0A70F",
-					["class"] = "SHAMAN",
-					["cache_time"] = 1610567207,
-					["realm"] = "",
-				},
-				["Player-1602-02304928"] = {
-					["name"] = "сострадание-Гордунни",
-					["guid"] = "Player-1602-02304928",
-					["class"] = "DRUID",
-					["cache_time"] = 1612119300,
-					["realm"] = "",
 				},
 				["Player-1614-07E7EB77"] = {
 					["name"] = "киракуинн-Галакронд",
@@ -2619,6 +2882,13 @@ RCLootCouncilDB = {
 					["class"] = "MONK",
 					["cache_time"] = 1606150459,
 					["realm"] = "Галакронд",
+				},
+				["Player-1587-072AE4FA"] = {
+					["name"] = "Szovi-Arathor",
+					["guid"] = "Player-1587-072AE4FA",
+					["class"] = "HUNTER",
+					["cache_time"] = 1612726750,
+					["realm"] = "Arathor",
 				},
 				["Player-3391-0AEB5259"] = {
 					["role"] = "DAMAGER",
@@ -2629,66 +2899,21 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611515209,
 					["rank"] = "Budget Sanctum",
 				},
-				["Player-1082-096D62BC"] = {
-					["name"] = "Davikiin-KulTiras",
-					["guid"] = "Player-1082-096D62BC",
-					["class"] = "PALADIN",
-					["cache_time"] = 1611966762,
-					["realm"] = "KulTiras",
-				},
-				["Player-1587-0C853B81"] = {
-					["name"] = "Schannara-Runetotem",
-					["guid"] = "Player-1587-0C853B81",
-					["class"] = "DEMONHUNTER",
-					["cache_time"] = 1606151291,
-					["realm"] = "Runetotem",
-				},
-				["Player-1597-0E41DC69"] = {
-					["name"] = "Ntcmesenpai-Auchindoun",
-					["guid"] = "Player-1597-0E41DC69",
-					["class"] = "HUNTER",
-					["cache_time"] = 1606150162,
-					["realm"] = "Auchindoun",
-				},
-				["Player-1602-0A2B53F4"] = {
-					["name"] = "лимбра-Гордунни",
-					["guid"] = "Player-1602-0A2B53F4",
-					["class"] = "MONK",
-					["cache_time"] = 1605417975,
-					["realm"] = "Гордунни",
-				},
-				["Player-1602-0BC5D88C"] = {
-					["name"] = "виллер-Гордунни",
-					["guid"] = "Player-1602-0BC5D88C",
-					["class"] = "PALADIN",
-					["cache_time"] = 1611055941,
+				["Player-1602-0E761C40"] = {
+					["name"] = "шоменх-Гордунни",
+					["guid"] = "Player-1602-0E761C40",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1610482160,
 					["realm"] = "",
 				},
-				["Player-1602-0ACBA7A4"] = {
-					["name"] = "кнесия-Гордунни",
-					["guid"] = "Player-1602-0ACBA7A4",
-					["class"] = "PRIEST",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
-				},
-				["Player-1929-0E2E5070"] = {
-					["ilvl"] = 130.375,
-					["guid"] = "Player-1929-0E2E5070",
-					["class"] = "DEMONHUNTER",
+				["Player-1602-099A18C9"] = {
 					["role"] = "DAMAGER",
-					["cache_time"] = 1612391957,
+					["name"] = "хеллекс-Гордунни",
+					["guid"] = "Player-1602-099A18C9",
 					["realm"] = "",
-					["name"] = "дэлери-Борейскаятундра",
-					["specID"] = 577,
-					["enchantingLvl"] = 0,
-					["rank"] = "Боевая креветка",
-				},
-				["Player-1602-0BE20D17"] = {
-					["name"] = "уххастик-Гордунни",
-					["guid"] = "Player-1602-0BE20D17",
-					["class"] = "MONK",
-					["cache_time"] = 1612039908,
-					["realm"] = "",
+					["class"] = "DRUID",
+					["cache_time"] = 1612298955,
+					["rank"] = "Рейд Киркоры",
 				},
 				["Player-1929-0E2E5479"] = {
 					["name"] = "эстрея-Борейскаятундра",
@@ -2696,6 +2921,13 @@ RCLootCouncilDB = {
 					["class"] = "DRUID",
 					["cache_time"] = 1606151759,
 					["realm"] = "Борейскаятундра",
+				},
+				["Player-1122-09B4F2F7"] = {
+					["name"] = "Rethna-Uldaman",
+					["guid"] = "Player-1122-09B4F2F7",
+					["class"] = "DEATHKNIGHT",
+					["cache_time"] = 1613509376,
+					["realm"] = "Uldaman",
 				},
 				["Player-1378-078835FE"] = {
 					["name"] = "Yarima-DunModr",
@@ -2711,39 +2943,35 @@ RCLootCouncilDB = {
 					["cache_time"] = 1605416881,
 					["realm"] = "Nozdormu",
 				},
-				["Player-633-0989C33E"] = {
-					["name"] = "Samotrakia-ShatteredHand",
-					["guid"] = "Player-633-0989C33E",
-					["class"] = "PRIEST",
-					["cache_time"] = 1606151908,
-					["realm"] = "ShatteredHand",
+				["Player-3702-07B2A732"] = {
+					["name"] = "Lucréthia-ArgentDawn",
+					["guid"] = "Player-3702-07B2A732",
+					["class"] = "PALADIN",
+					["cache_time"] = 1611805384,
+					["realm"] = "ArgentDawn",
 				},
-				["Player-1602-09D3FD64"] = {
+				["Player-1602-0BEE86FB"] = {
 					["role"] = "DAMAGER",
-					["name"] = "кииллуа-Гордунни",
-					["guid"] = "Player-1602-09D3FD64",
+					["name"] = "алафине-Гордунни",
+					["guid"] = "Player-1602-0BEE86FB",
+					["rank"] = "Рейдер",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1612822602,
 					["realm"] = "",
-					["class"] = "HUNTER",
-					["cache_time"] = 1610652282,
-					["rank"] = "Пуська",
 				},
-				["Player-1602-0972F860"] = {
-					["role"] = "HEALER",
-					["name"] = "шошин-Гордунни",
-					["guid"] = "Player-1602-0972F860",
-					["realm"] = "",
+				["Player-1602-0ADEA3B0"] = {
+					["name"] = "яхазугири-Гордунни",
+					["guid"] = "Player-1602-0ADEA3B0",
 					["class"] = "PRIEST",
-					["cache_time"] = 1610492417,
-					["rank"] = "Основа",
-				},
-				["Player-1602-099A18C9"] = {
-					["role"] = "DAMAGER",
-					["name"] = "хеллекс-Гордунни",
-					["guid"] = "Player-1602-099A18C9",
+					["cache_time"] = 1610652019,
 					["realm"] = "",
+				},
+				["Player-1378-0A95267A"] = {
+					["name"] = "Walmer-DunModr",
+					["guid"] = "Player-1378-0A95267A",
 					["class"] = "DRUID",
-					["cache_time"] = 1612298955,
-					["rank"] = "Рейд Киркоры",
+					["cache_time"] = 1613513339,
+					["realm"] = "DunModr",
 				},
 				["Player-1929-0E2E1DB5"] = {
 					["ilvl"] = 216.25,
@@ -2767,26 +2995,26 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610381793,
 					["realm"] = "Борейскаятундра",
 				},
-				["Player-1602-0B1B3437"] = {
-					["name"] = "бубубуша-Гордунни",
-					["guid"] = "Player-1602-0B1B3437",
-					["class"] = "DRUID",
-					["cache_time"] = 1611610322,
+				["Player-1602-09E19B73"] = {
+					["name"] = "аригнис-Гордунни",
+					["guid"] = "Player-1602-09E19B73",
+					["class"] = "WARLOCK",
+					["cache_time"] = 1610648623,
 					["realm"] = "",
 				},
-				["Player-1098-0939E1C6"] = {
-					["name"] = "Chýra-Malygos",
-					["guid"] = "Player-1098-0939E1C6",
-					["class"] = "DRUID",
-					["cache_time"] = 1605306997,
-					["realm"] = "Malygos",
+				["Player-1096-09D9B30E"] = {
+					["name"] = "Deiopea-EarthenRing",
+					["guid"] = "Player-1096-09D9B30E",
+					["class"] = "MAGE",
+					["cache_time"] = 1605420281,
+					["realm"] = "EarthenRing",
 				},
-				["Player-1602-0AFD078C"] = {
-					["name"] = "латоссии-Гордунни",
-					["guid"] = "Player-1602-0AFD078C",
-					["class"] = "DEMONHUNTER",
-					["cache_time"] = 1610652019,
-					["realm"] = "",
+				["Player-512-0575076E"] = {
+					["name"] = "Shikyø-Kael'thas",
+					["guid"] = "Player-512-0575076E",
+					["class"] = "ROGUE",
+					["cache_time"] = 1613100909,
+					["realm"] = "Kael'thas",
 				},
 				["Player-1602-080F9A35"] = {
 					["role"] = "DAMAGER",
@@ -2797,18 +3025,18 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
-				["Player-1325-03C6181B"] = {
-					["name"] = "Awizarddidit-Aggramar",
-					["guid"] = "Player-1325-03C6181B",
-					["class"] = "WARRIOR",
-					["cache_time"] = 1605418025,
-					["realm"] = "Aggramar",
-				},
-				["Player-1602-0C1E60A0"] = {
-					["name"] = "сакредру-Гордунни",
-					["guid"] = "Player-1602-0C1E60A0",
-					["class"] = "DRUID",
+				["Player-1602-0B234A70"] = {
+					["name"] = "пайфей-Гордунни",
+					["guid"] = "Player-1602-0B234A70",
+					["class"] = "MAGE",
 					["cache_time"] = 1610652019,
+					["realm"] = "",
+				},
+				["Player-1602-0BC5D88C"] = {
+					["name"] = "виллер-Гордунни",
+					["guid"] = "Player-1602-0BC5D88C",
+					["class"] = "PALADIN",
+					["cache_time"] = 1611055941,
 					["realm"] = "",
 				},
 				["Player-580-0A0E7523"] = {
@@ -2818,17 +3046,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611805794,
 					["realm"] = "Blackmoore",
 				},
-				["Player-1602-0EA13305"] = {
-					["ilvl"] = 212,
-					["guid"] = "Player-1602-0EA13305",
+				["Player-1098-0939E1C6"] = {
+					["name"] = "Chýra-Malygos",
+					["guid"] = "Player-1098-0939E1C6",
 					["class"] = "DRUID",
-					["role"] = "DAMAGER",
-					["cache_time"] = 1610567207,
-					["rank"] = "Триал",
-					["name"] = "двадвавосём-Гордунни",
-					["enchanter"] = true,
-					["enchantingLvl"] = 115,
-					["realm"] = "",
+					["cache_time"] = 1605306997,
+					["realm"] = "Malygos",
 				},
 				["Player-1614-0A1E93EC"] = {
 					["name"] = "моор-Подземье",
@@ -2844,19 +3067,21 @@ RCLootCouncilDB = {
 					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
-				["Player-1602-0EB2A228"] = {
-					["name"] = "серикан-Гордунни",
-					["guid"] = "Player-1602-0EB2A228",
-					["class"] = "HUNTER",
-					["cache_time"] = 1612213964,
+				["Player-1602-0A42FAAB"] = {
+					["role"] = "DAMAGER",
+					["name"] = "освирия-Гордунни",
+					["guid"] = "Player-1602-0A42FAAB",
+					["rank"] = "Триал",
+					["class"] = "DRUID",
+					["cache_time"] = 1610652019,
 					["realm"] = "",
 				},
-				["Player-1396-0A4A72A5"] = {
-					["name"] = "Luxipher-AzjolNerub",
-					["guid"] = "Player-1396-0A4A72A5",
-					["class"] = "PALADIN",
-					["cache_time"] = 1605302003,
-					["realm"] = "AzjolNerub",
+				["Player-1929-0E2E5712"] = {
+					["name"] = "алоиза-Борейскаятундра",
+					["guid"] = "Player-1929-0E2E5712",
+					["class"] = "PRIEST",
+					["cache_time"] = 1613172524,
+					["realm"] = "",
 				},
 				["Player-1621-088D45B7"] = {
 					["name"] = "Ysma-Dalaran",
@@ -2865,12 +3090,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1611087981,
 					["realm"] = "Dalaran",
 				},
-				["Player-3686-04478018"] = {
-					["name"] = "Nandieb-Antonidas",
-					["guid"] = "Player-3686-04478018",
+				["Player-1331-062A3489"] = {
+					["name"] = "Manla-Suramar",
+					["guid"] = "Player-1331-062A3489",
 					["class"] = "PRIEST",
-					["cache_time"] = 1605419049,
-					["realm"] = "Antonidas",
+					["cache_time"] = 1610400940,
+					["realm"] = "Suramar",
 				},
 				["Player-1602-0B556A9B"] = {
 					["name"] = "главкур-Гордунни",
@@ -2879,42 +3104,50 @@ RCLootCouncilDB = {
 					["cache_time"] = 1612210672,
 					["realm"] = "",
 				},
-				["Player-3702-07B2A732"] = {
-					["name"] = "Lucréthia-ArgentDawn",
-					["guid"] = "Player-3702-07B2A732",
-					["class"] = "PALADIN",
-					["cache_time"] = 1611805384,
-					["realm"] = "ArgentDawn",
+				["Player-1602-022A92CE"] = {
+					["ilvl"] = 214.9375,
+					["guid"] = "Player-1602-022A92CE",
+					["class"] = "SHAMAN",
+					["rank"] = "Пирожок",
+					["role"] = "HEALER",
+					["cache_time"] = 1610497700,
+					["name"] = "зелебобо-Гордунни",
+					["enchanter"] = true,
+					["specID"] = 264,
+					["enchantingLvl"] = 115,
+					["realm"] = "",
 				},
-				["Player-1929-0D66036B"] = {
-					["name"] = "сайбил-Борейскаятундра",
-					["guid"] = "Player-1929-0D66036B",
-					["class"] = "DEATHKNIGHT",
-					["cache_time"] = 1606154400,
-					["realm"] = "Борейскаятундра",
-				},
-				["Player-3391-09D6AA8F"] = {
-					["name"] = "Spriing-Silvermoon",
-					["guid"] = "Player-3391-09D6AA8F",
+				["Player-1602-05AC12A8"] = {
+					["role"] = "HEALER",
+					["name"] = "хлёсткий-Гордунни",
+					["guid"] = "Player-1602-05AC12A8",
+					["rank"] = "Основа",
 					["class"] = "PALADIN",
-					["cache_time"] = 1606150470,
-					["realm"] = "Silvermoon",
+					["cache_time"] = 1610652019,
+					["realm"] = "",
 				},
-				["Player-3696-0579DAB9"] = {
-					["name"] = "Timmygobbels-Proudmoore",
-					["guid"] = "Player-3696-0579DAB9",
-					["class"] = "PALADIN",
-					["cache_time"] = 1611805490,
-					["realm"] = "Proudmoore",
+				["Player-1127-09A8243A"] = {
+					["name"] = "Myast-KirinTor",
+					["guid"] = "Player-1127-09A8243A",
+					["class"] = "ROGUE",
+					["cache_time"] = 1610319223,
+					["realm"] = "KirinTor",
+				},
+				["Player-1602-0A1CA42F"] = {
+					["name"] = "амилинари-Гордунни",
+					["guid"] = "Player-1602-0A1CA42F",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1613626873,
+					["realm"] = "Гордунни",
 				},
 			},
 		},
 		["locale"] = "ruRU",
 		["verTestCandidates"] = {
-			["хеллекс-Гордунни"] = {
+			["оливиэль-Гордунни"] = {
 				"3.1.4", -- [1]
 				nil, -- [2]
-				1612214070, -- [3]
+				1613260429, -- [3]
 			},
 		},
 		["version"] = "3.1.4",
@@ -2929,6 +3162,17 @@ RCLootCouncilDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["itemStorage"] = {
+				{
+					["inBags"] = true,
+					["type"] = "temp",
+					["link"] = "|cff0070dd|Hitem:183623::::::::60:581::16::1:28:373:::|h[Гормлинг-иглобрюх]|h|r",
+					["time_remaining"] = 7140,
+					["args"] = {
+					},
+					["time_added"] = 1613711762,
+				}, -- [1]
+			},
 			["modules"] = {
 				["RCVotingFrame"] = {
 					["moreInfo"] = true,
@@ -3038,13 +3282,13 @@ RCLootCouncilLootDB = {
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
@@ -7797,6 +8041,32 @@ RCLootCouncilLootDB = {
 					["instance"] = "Ни'алота, Пробуждающийся Город-Эпохальный",
 				}, -- [1]
 			},
+			["вусиаоли-Гордунни"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "05/04/20",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["groupSize"] = 29,
+					["isAwardReason"] = false,
+					["time"] = "21:56:45",
+					["iClass"] = 15,
+					["id"] = "1586102205-4",
+					["owner"] = "вусиаоли-Гордунни",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:262::5::::|h[Ядро пагубы]|h|r",
+					["boss"] = "Н'Зот Заразитель",
+					["responseID"] = "PL",
+					["instance"] = "Ни'алота, Пробуждающийся Город-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+			},
 			["десфростт-Гордунни"] = {
 				{
 					["mapID"] = 2217,
@@ -7825,87 +8095,6 @@ RCLootCouncilLootDB = {
 					["id"] = "1585752573-7",
 					["typeCode"] = "default",
 				}, -- [1]
-			},
-			["зикун-Гордунни"] = {
-				{
-					["mapID"] = 2296,
-					["date"] = "14/01/21",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 4,
-					["groupSize"] = 30,
-					["isAwardReason"] = false,
-					["time"] = "20:21:38",
-					["iClass"] = 4,
-					["id"] = "1610641298-6",
-					["owner"] = "зикун-Гордунни",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:182994::::::::60:252::5:4:7188:6652:1485:6646:1:28:752:::|h[Эполеты сокрушающей мощи]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "PL",
-					["instance"] = "Замок Нафрия-Героический",
-					["boss"] = "Алчущий разрушитель",
-				}, -- [1]
-				{
-					["mapID"] = 2296,
-					["date"] = "14/01/21",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 0,
-					["groupSize"] = 30,
-					["boss"] = "Изобретатель Зи'мокс",
-					["time"] = "20:57:38",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:178442::::::::60:254::38:5:6618:6652:7194:1479:6646::::|h[Печатка грешного гладиатора]|h|r",
-					["typeCode"] = "default",
-					["owner"] = "аннасстасия-Гордунни",
-					["votes"] = 0,
-					["response"] = "Бис",
-					["id"] = "1610643458-19",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:183038::::::::60:254::5:5:7188:6652:7193:1485:6646:1:28:753:::|h[Кольцо гиперсвета]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:183037:6168:::::::60:254::5:5:7188:40:7193:1485:6646::::|h[Ценное кольцо ритуалиста]|h|r",
-					["instance"] = "Замок Нафрия-Героический",
-				}, -- [2]
-				{
-					["mapID"] = 2296,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 1,
-					["groupSize"] = 30,
-					["boss"] = "Спасение Солнечного короля",
-					["time"] = "21:08:13",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:178414:6202:::::::60:254::14:3:6618:1479:6646:1:28:807:::|h[Шаль грешного гладиатора]|h|r",
-					["instance"] = "Замок Нафрия-Героический",
-					["owner"] = "вейнат-Гордунни",
-					["response"] = "Бис",
-					["isAwardReason"] = false,
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:183033::::::::60:254::5:4:7188:6652:1485:6646:1:28:753:::|h[Накидка воплощенных грехов]|h|r",
-					["votes"] = 0,
-					["date"] = "14/01/21",
-					["responseID"] = 1,
-					["id"] = "1610644093-23",
-					["typeCode"] = "default",
-				}, -- [3]
 			},
 			["бетэльгеизе-Гордунни"] = {
 				{
@@ -8040,31 +8229,86 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [1]
 			},
-			["вусиаоли-Гордунни"] = {
+			["зикун-Гордунни"] = {
 				{
-					["mapID"] = 2217,
-					["date"] = "05/04/20",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["groupSize"] = 29,
+					["mapID"] = 2296,
+					["date"] = "14/01/21",
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 4,
+					["groupSize"] = 30,
 					["isAwardReason"] = false,
-					["time"] = "21:56:45",
-					["iClass"] = 15,
-					["id"] = "1586102205-4",
-					["owner"] = "вусиаоли-Гордунни",
+					["time"] = "20:21:38",
+					["iClass"] = 4,
+					["id"] = "1610641298-6",
+					["owner"] = "зикун-Гордунни",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:262::5::::|h[Ядро пагубы]|h|r",
-					["boss"] = "Н'Зот Заразитель",
-					["responseID"] = "PL",
-					["instance"] = "Ни'алота, Пробуждающийся Город-Героический",
+					["lootWon"] = "|cffa335ee|Hitem:182994::::::::60:252::5:4:7188:6652:1485:6646:1:28:752:::|h[Эполеты сокрушающей мощи]|h|r",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["responseID"] = "PL",
+					["instance"] = "Замок Нафрия-Героический",
+					["boss"] = "Алчущий разрушитель",
 				}, -- [1]
+				{
+					["mapID"] = 2296,
+					["date"] = "14/01/21",
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 0,
+					["groupSize"] = 30,
+					["boss"] = "Изобретатель Зи'мокс",
+					["time"] = "20:57:38",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:178442::::::::60:254::38:5:6618:6652:7194:1479:6646::::|h[Печатка грешного гладиатора]|h|r",
+					["typeCode"] = "default",
+					["owner"] = "аннасстасия-Гордунни",
+					["votes"] = 0,
+					["response"] = "Бис",
+					["id"] = "1610643458-19",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:183038::::::::60:254::5:5:7188:6652:7193:1485:6646:1:28:753:::|h[Кольцо гиперсвета]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:183037:6168:::::::60:254::5:5:7188:40:7193:1485:6646::::|h[Ценное кольцо ритуалиста]|h|r",
+					["instance"] = "Замок Нафрия-Героический",
+				}, -- [2]
+				{
+					["mapID"] = 2296,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 1,
+					["groupSize"] = 30,
+					["boss"] = "Спасение Солнечного короля",
+					["time"] = "21:08:13",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:178414:6202:::::::60:254::14:3:6618:1479:6646:1:28:807:::|h[Шаль грешного гладиатора]|h|r",
+					["instance"] = "Замок Нафрия-Героический",
+					["owner"] = "вейнат-Гордунни",
+					["response"] = "Бис",
+					["isAwardReason"] = false,
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:183033::::::::60:254::5:4:7188:6652:1485:6646:1:28:753:::|h[Накидка воплощенных грехов]|h|r",
+					["votes"] = 0,
+					["date"] = "14/01/21",
+					["responseID"] = 1,
+					["id"] = "1610644093-23",
+					["typeCode"] = "default",
+				}, -- [3]
 			},
 			["альфыч-Гордунни"] = {
 				{
@@ -8807,16 +9051,16 @@ RCLootCouncilLootDB = {
 		["Alliance - Борейская тундра"] = {
 			["дуо-Азурегос"] = {
 				{
+					["id"] = "1544978130-2",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "16/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544978130-2",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -8827,7 +9071,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "16/12/18",
 				}, -- [1]
 			},
 			["фуразипам-Борейскаятундра"] = {
@@ -8935,11 +9179,16 @@ RCLootCouncilLootDB = {
 			},
 			["джэдмозга-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1537976961-8",
+					["date"] = "26/09/18",
 					["class"] = "MONK",
 					["iSubClass"] = 1,
 					["groupSize"] = 24,
@@ -8949,20 +9198,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537976961-8",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Обычный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1537983093-28",
+					["date"] = "26/09/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 16,
@@ -8972,13 +9221,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537983093-28",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -9059,16 +9303,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [2]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "09/12/18",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Г'уун",
-					["id"] = "1544373691-13",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "MAGE",
 					["iSubClass"] = 10,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9078,22 +9317,22 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "09/12/18",
-				}, -- [3]
-			},
-			["лямп-Борейскаятундра"] = {
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
+					["id"] = "1544373691-13",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [3]
+			},
+			["лямп-Борейскаятундра"] = {
+				{
 					["id"] = "1545237510-9",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -9104,7 +9343,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "19/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 2070,
@@ -9233,16 +9477,11 @@ RCLootCouncilLootDB = {
 			},
 			["троя-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543507145-7",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -9253,19 +9492,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "29/11/18",
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [1]
+				{
 					["id"] = "1543507342-8",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -9276,16 +9515,26 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "29/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 			},
 			["бамблфут-Борейскаятундра"] = {
 				{
-					["date"] = "23/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1545579261-0",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "23/12/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["groupSize"] = 15,
@@ -9296,26 +9545,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 			},
 			["нитрин-Борейскаятундра"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "23/09/18",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Зек'воз",
-					["id"] = "1537718984-0",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "PRIEST",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9325,15 +9564,25 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "23/09/18",
+					["id"] = "1537718984-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Вектис",
-					["id"] = "1537979537-15",
+					["date"] = "26/09/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 24,
@@ -9343,13 +9592,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537979537-15",
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -9379,11 +9623,16 @@ RCLootCouncilLootDB = {
 			},
 			["зозуль-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537975867-5",
+					["date"] = "26/09/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 24,
@@ -9393,20 +9642,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537975867-5",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Обычный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537982499-26",
+					["date"] = "26/09/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 17,
@@ -9416,13 +9665,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL_REJECT",
-					["date"] = "26/09/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537982499-26",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -9450,16 +9694,11 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1538067431-1",
+					["mapID"] = 1861,
+					["date"] = "27/09/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -9470,7 +9709,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "27/09/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -9498,16 +9742,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [5]
 				{
+					["id"] = "1539795663-19",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539795663-19",
 					["class"] = "DRUID",
 					["iSubClass"] = 15,
 					["groupSize"] = 18,
@@ -9518,7 +9762,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -9547,16 +9791,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [7]
 				{
+					["id"] = "1541001734-19",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541001734-19",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9567,14 +9811,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [8]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 19,
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1541607782-12",
+					["date"] = "07/11/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -9584,20 +9833,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/11/18",
+					["id"] = "1541607782-12",
+					["instance"] = "Ульдир-Героический",
+				}, -- [9]
+				{
+					["instance"] = "Ульдир-Героический",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Rejected Trade",
+					["boss"] = "Г'уун",
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [9]
-				{
-					["date"] = "11/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Rejected Trade",
-					["boss"] = "Г'уун",
-					["id"] = "1541951742-3",
 					["class"] = "DRUID",
 					["iSubClass"] = 10,
 					["groupSize"] = 21,
@@ -9607,25 +9856,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1541951742-3",
+					["date"] = "11/11/18",
 				}, -- [10]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542817824-19",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DRUID",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9636,14 +9875,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [11]
 				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1543158801-0",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "25/11/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9654,19 +9903,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Неизвестно",
 					["responseID"] = "PL",
 					["groupSize"] = 25,
+					["instance"] = "Ульдир-Героический",
+				}, -- [12]
+				{
+					["id"] = "1543160920-6",
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [12]
-				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1543160920-6",
+					["date"] = "25/11/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9677,12 +9926,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL",
 					["groupSize"] = 25,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [13]
 				{
 					["mapID"] = 1861,
@@ -9711,16 +9955,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [14]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1544023707-2",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -9731,19 +9970,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "05/12/18",
-				}, -- [15]
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
+				}, -- [15]
+				{
 					["id"] = "1548257822-3",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -9754,7 +9998,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Воительница Света",
 					["responseID"] = "PL",
 					["groupSize"] = 21,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [16]
 				{
 					["mapID"] = 2070,
@@ -9781,16 +10025,11 @@ RCLootCouncilLootDB = {
 					["instance"] = "Битва за Дазар'алор-Обычный",
 				}, -- [17]
 				{
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-					["mapID"] = 1877,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1549201484-3",
+					["mapID"] = 1877,
+					["date"] = "03/02/19",
+					["difficultyID"] = 8,
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -9801,7 +10040,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Аватара Сетралисс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "03/02/19",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [18]
 				{
 					["mapID"] = 2070,
@@ -10099,16 +10343,11 @@ RCLootCouncilLootDB = {
 			},
 			["жутетварь-Борейскаятундра"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "23/09/18",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Зек'воз",
-					["id"] = "1537718992-1",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -10118,15 +10357,25 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "23/09/18",
+					["id"] = "1537718992-1",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
-					["date"] = "27/10/18",
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["mapID"] = 1877,
 					["groupSize"] = 5,
 					["boss"] = "Аватара Сетралисс",
-					["id"] = "1540662475-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -10136,20 +10385,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
+					["id"] = "1540662475-0",
+					["date"] = "27/10/18",
+				}, -- [2]
+				{
+					["instance"] = "Ульдир-Героический",
+					["mapID"] = 1861,
+					["groupSize"] = 18,
+					["boss"] = "Г'уун",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-				}, -- [2]
-				{
-					["date"] = "28/10/18",
-					["mapID"] = 1861,
-					["groupSize"] = 18,
-					["boss"] = "Г'уун",
-					["id"] = "1540742025-1",
 					["class"] = "DRUID",
 					["iSubClass"] = 10,
 					["response"] = "Personal Loot - Non tradeable",
@@ -10159,20 +10408,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1540742025-1",
+					["date"] = "28/10/18",
 				}, -- [3]
 				{
-					["date"] = "11/11/18",
+					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Митракс",
-					["id"] = "1541950764-1",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 22,
@@ -10182,20 +10431,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1541950764-1",
+					["date"] = "11/11/18",
 				}, -- [4]
 				{
-					["date"] = "11/11/18",
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["mapID"] = 1877,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Аватара Сетралисс",
-					["id"] = "1541964901-1",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 5,
@@ -10205,25 +10454,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
+					["id"] = "1541964901-1",
+					["date"] = "11/11/18",
 				}, -- [5]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542209632-6",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -10234,7 +10473,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -10336,16 +10580,11 @@ RCLootCouncilLootDB = {
 			},
 			["ххболторнхх-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542208759-2",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["groupSize"] = 21,
@@ -10356,7 +10595,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -10384,11 +10628,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [2]
 				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1543159977-3",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "25/11/18",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -10399,12 +10648,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL",
 					["groupSize"] = 25,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -10432,16 +10676,11 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 				}, -- [4]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1545234001-0",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -10452,21 +10691,26 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "19/12/18",
-				}, -- [5]
-			},
-			["кейстут-Борейскаятундра"] = {
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1864,
-					["date"] = "15/09/18",
-					["difficultyID"] = 8,
+				}, -- [5]
+			},
+			["кейстут-Борейскаятундра"] = {
+				{
 					["id"] = "1537027374-0",
+					["mapID"] = 1864,
+					["instance"] = "Святилище Штормов-Эпохальный ключ",
+					["difficultyID"] = 8,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -10477,14 +10721,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вол'зит Шепчущая",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Святилище Штормов-Эпохальный ключ",
+					["date"] = "15/09/18",
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Вектис",
-					["id"] = "1537979536-13",
+					["date"] = "26/09/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 24,
@@ -10494,13 +10743,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537979536-13",
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -10528,16 +10772,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [3]
 				{
+					["id"] = "1539792659-10",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539792659-10",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["groupSize"] = 16,
@@ -10548,19 +10792,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [4]
 				{
+					["id"] = "1539792728-14",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539792728-14",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 16,
@@ -10571,7 +10815,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -10599,16 +10843,11 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 				}, -- [6]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1545237504-8",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -10619,7 +10858,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "19/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -10647,11 +10891,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [8]
 				{
-					["instance"] = "Кул-Тирас-",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1643,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Неизвестно",
-					["id"] = "1547307039-0",
+					["date"] = "12/01/19",
 					["class"] = "PALADIN",
 					["iSubClass"] = 1,
 					["groupSize"] = 0,
@@ -10661,20 +10910,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 0,
 					["responseID"] = "PL",
-					["date"] = "12/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1547307039-0",
+					["instance"] = "Кул-Тирас-",
 				}, -- [9]
 				{
-					["instance"] = "Кул-Тирас-",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1643,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Неизвестно",
-					["id"] = "1547307039-1",
+					["date"] = "12/01/19",
 					["class"] = "PALADIN",
 					["iSubClass"] = 1,
 					["groupSize"] = 0,
@@ -10684,20 +10933,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 0,
 					["responseID"] = "PL",
-					["date"] = "12/01/19",
+					["id"] = "1547307039-1",
+					["instance"] = "Кул-Тирас-",
+				}, -- [10]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [10]
-				{
-					["instance"] = "Кул-Тирас-",
 					["mapID"] = 1643,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Неизвестно",
-					["id"] = "1547307040-2",
+					["date"] = "12/01/19",
 					["class"] = "PALADIN",
 					["iSubClass"] = 2,
 					["groupSize"] = 0,
@@ -10707,13 +10956,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 0,
 					["responseID"] = "PL",
-					["date"] = "12/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1547307040-2",
+					["instance"] = "Кул-Тирас-",
 				}, -- [11]
 				{
 					["mapID"] = 1754,
@@ -10793,16 +11037,16 @@ RCLootCouncilLootDB = {
 			},
 			["криворожка-Борейскаятундра"] = {
 				{
+					["id"] = "1540485034-21",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540485034-21",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -10813,7 +11057,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -10867,11 +11111,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Зул",
-					["id"] = "1541610607-21",
+					["date"] = "07/11/18",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -10881,13 +11130,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541610607-21",
+					["instance"] = "Ульдир-Героический",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -10966,16 +11210,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [7]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542817281-15",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 9,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -10986,7 +11225,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [8]
 				{
 					["mapID"] = 1861,
@@ -11092,16 +11336,11 @@ RCLootCouncilLootDB = {
 			},
 			["шайдей-Азурегос"] = {
 				{
-					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный ключ",
-					["mapID"] = 1594,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1544031914-10",
+					["mapID"] = 1594,
+					["date"] = "05/12/18",
+					["difficultyID"] = 8,
+					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный ключ",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -11112,7 +11351,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Шеф Разданк",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "05/12/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -11140,16 +11384,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [2]
 				{
+					["id"] = "1544978168-4",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "16/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544978168-4",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -11160,19 +11404,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "16/12/18",
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1545237526-10",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -11183,7 +11422,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "19/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
 					["mapID"] = 1864,
@@ -11262,16 +11506,11 @@ RCLootCouncilLootDB = {
 			},
 			["мистеробод-Гордунни"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "09/12/18",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Г'уун",
-					["id"] = "1544373690-12",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 13,
 					["response"] = "Personal Loot - Non tradeable",
@@ -11281,8 +11520,13 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "09/12/18",
+					["id"] = "1544373690-12",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 			},
 			["Shamary-Blackmoore"] = {
@@ -11313,11 +11557,16 @@ RCLootCouncilLootDB = {
 			},
 			["половик-Гордунни"] = {
 				{
-					["date"] = "15/10/18",
-					["mapID"] = 1862,
-					["instance"] = "Усадьба Уэйкрестов-Эпохальный ключ",
-					["difficultyID"] = 8,
 					["id"] = "1539613006-0",
+					["mapID"] = 1862,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 8,
+					["date"] = "15/10/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -11328,12 +11577,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Горак Тул",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Усадьба Уэйкрестов-Эпохальный ключ",
 				}, -- [1]
 			},
 			["орбдх-Борейскаятундра"] = {
@@ -11718,16 +11962,11 @@ RCLootCouncilLootDB = {
 			},
 			["дэймбэг-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542208234-0",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -11738,7 +11977,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -11916,11 +12160,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 				}, -- [1]
 				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1542299219-14",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "15/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -11931,12 +12180,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -11990,16 +12234,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542818638-25",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -12010,7 +12249,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -12039,11 +12283,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [6]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1543419886-4",
+					["date"] = "28/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 29,
@@ -12053,20 +12302,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "28/11/18",
+					["id"] = "1543419886-4",
+					["instance"] = "Ульдир-Героический",
+				}, -- [7]
+				{
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [7]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Вектис",
-					["id"] = "1543421239-7",
+					["date"] = "28/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 29,
@@ -12076,20 +12325,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
+					["id"] = "1543421239-7",
+					["instance"] = "Ульдир-Героический",
+				}, -- [8]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [8]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зул",
-					["id"] = "1543423242-8",
+					["date"] = "28/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 15,
 					["groupSize"] = 28,
@@ -12099,20 +12348,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
+					["id"] = "1543423242-8",
+					["instance"] = "Ульдир-Героический",
+				}, -- [9]
+				{
+					["id"] = "1543763555-0",
+					["mapID"] = 1861,
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [9]
-				{
-					["date"] = "02/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
 					["difficultyID"] = 16,
-					["id"] = "1543763555-0",
+					["date"] = "02/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -12123,19 +12372,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Неизвестно",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [10]
+				{
+					["id"] = "1545839441-3",
+					["mapID"] = 1861,
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [10]
-				{
-					["date"] = "26/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
 					["difficultyID"] = 16,
-					["id"] = "1545839441-3",
+					["date"] = "26/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -12146,19 +12395,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [11]
+				{
+					["id"] = "1545841704-8",
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [11]
-				{
-					["date"] = "26/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
 					["difficultyID"] = 16,
-					["id"] = "1545841704-8",
+					["date"] = "26/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -12169,24 +12418,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [12]
 				{
+					["id"] = "1548257817-1",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
-					["id"] = "1548257817-1",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -12197,7 +12441,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Воительница Света",
 					["responseID"] = "PL",
 					["groupSize"] = 21,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [13]
 				{
 					["mapID"] = 2070,
@@ -12252,11 +12496,16 @@ RCLootCouncilLootDB = {
 			},
 			["хазред-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Вектис",
-					["id"] = "1537979569-18",
+					["date"] = "26/09/18",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["groupSize"] = 24,
@@ -12266,25 +12515,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "26/09/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537979569-18",
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1540223002-0",
+					["mapID"] = 1861,
+					["date"] = "22/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "HUNTER",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -12295,14 +12534,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
-					["date"] = "22/10/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
-					["date"] = "24/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Талок",
-					["id"] = "1540396483-3",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["groupSize"] = 20,
@@ -12312,25 +12561,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540396483-3",
+					["date"] = "24/10/18",
 				}, -- [3]
 				{
+					["id"] = "1541002609-25",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541002609-25",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -12341,14 +12585,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [4]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1541604120-2",
+					["date"] = "07/11/18",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -12358,25 +12607,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/11/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541604120-2",
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [5]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542211924-10",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["groupSize"] = 20,
@@ -12387,14 +12626,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [6]
 				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1542296238-6",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "15/11/18",
 					["class"] = "HUNTER",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -12405,12 +12654,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -12708,16 +12952,11 @@ RCLootCouncilLootDB = {
 			},
 			["эгтауэр-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542211939-12",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "ROGUE",
 					["iSubClass"] = 15,
 					["groupSize"] = 20,
@@ -12728,19 +12967,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [1]
+				{
 					["id"] = "1542816068-6",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "ROGUE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -12751,19 +12990,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
-				}, -- [2]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [2]
+				{
 					["id"] = "1547652364-0",
+					["mapID"] = 1861,
+					["date"] = "16/01/19",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -12774,7 +13013,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "16/01/19",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
 					["mapID"] = 1643,
@@ -13000,11 +13244,16 @@ RCLootCouncilLootDB = {
 			},
 			["акианрод-Борейскаятундра"] = {
 				{
-					["date"] = "24/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1540401046-5",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -13014,25 +13263,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540401046-5",
+					["date"] = "24/10/18",
 				}, -- [1]
 				{
+					["id"] = "1540481822-5",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540481822-5",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13043,7 +13287,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [2]
 			},
 			["душасовы-Борейскаятундра"] = {
@@ -13098,11 +13342,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [2]
 				{
-					["date"] = "21/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1540135352-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13112,20 +13361,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
+					["id"] = "1540135352-0",
+					["date"] = "21/10/18",
+				}, -- [3]
+				{
+					["instance"] = "Ульдир-Эпохальный",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "МАТРИАРХ",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Ульдир-Эпохальный",
-				}, -- [3]
-				{
-					["date"] = "24/10/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "МАТРИАРХ",
-					["id"] = "1540401052-7",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -13135,13 +13384,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540401052-7",
+					["date"] = "24/10/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -13195,11 +13439,16 @@ RCLootCouncilLootDB = {
 					["id"] = "1540742095-3",
 				}, -- [6]
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1541086655-0",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "01/11/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13210,12 +13459,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 17,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -13295,11 +13539,16 @@ RCLootCouncilLootDB = {
 			},
 			["альмагорн-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1537976960-7",
+					["date"] = "26/09/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 1,
 					["groupSize"] = 24,
@@ -13309,25 +13558,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537976960-7",
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1540223005-1",
+					["mapID"] = 1861,
+					["date"] = "22/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -13338,19 +13577,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "22/10/18",
-				}, -- [2]
-				{
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
+				}, -- [2]
+				{
 					["id"] = "1541001019-15",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -13361,19 +13605,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [3]
 				{
+					["id"] = "1541002605-23",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541002605-23",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13384,7 +13628,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -13412,11 +13656,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 				}, -- [5]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1541605537-4",
+					["date"] = "07/11/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13426,20 +13675,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
+					["id"] = "1541605537-4",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [6]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [6]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Вектис",
-					["id"] = "1541608532-15",
+					["date"] = "07/11/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13449,13 +13698,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541608532-15",
+					["instance"] = "Ульдир-Героический",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -13483,16 +13727,11 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 				}, -- [8]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542814336-1",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -13503,19 +13742,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
-				}, -- [9]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 15,
+				}, -- [9]
+				{
 					["id"] = "1542818214-23",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -13526,14 +13765,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [10]
 				{
-					["date"] = "26/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
-					["difficultyID"] = 16,
 					["id"] = "1545838905-2",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 16,
+					["date"] = "26/12/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -13544,24 +13793,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [11]
 				{
+					["id"] = "1548263630-5",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
-					["id"] = "1548263630-5",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13572,7 +13816,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Мастера Огня и Нефрита",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [12]
 				{
 					["mapID"] = 2070,
@@ -13865,11 +14109,16 @@ RCLootCouncilLootDB = {
 			},
 			["аркадрон-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Обычный",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537982481-25",
+					["date"] = "26/09/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["groupSize"] = 17,
@@ -13879,20 +14128,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL_REJECT",
-					["date"] = "26/09/18",
+					["id"] = "1537982481-25",
+					["instance"] = "Ульдир-Обычный",
+				}, -- [1]
+				{
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Обычный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537982529-27",
+					["date"] = "26/09/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 16,
@@ -13902,20 +14151,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL_REJECT",
-					["date"] = "26/09/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537982529-27",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [2]
 				{
-					["date"] = "21/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1540135361-4",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PALADIN",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -13925,25 +14174,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540135361-4",
+					["date"] = "21/10/18",
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1540223013-3",
+					["mapID"] = 1861,
+					["date"] = "22/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -13954,7 +14193,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "22/10/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -13983,16 +14227,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [5]
 				{
+					["id"] = "1540482550-13",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540482550-13",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -14003,19 +14247,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [6]
 				{
+					["id"] = "1540485047-23",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540485047-23",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -14026,19 +14270,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [7]
 				{
+					["id"] = "1541002611-26",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541002611-26",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -14049,7 +14293,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [8]
 				{
 					["mapID"] = 1861,
@@ -14128,16 +14372,11 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 				}, -- [11]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542211962-14",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -14148,7 +14387,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [12]
 				{
 					["mapID"] = 1861,
@@ -14177,16 +14421,11 @@ RCLootCouncilLootDB = {
 					["id"] = "1543423335-9",
 				}, -- [13]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543505724-3",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -14197,19 +14436,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
-				}, -- [14]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [14]
+				{
 					["id"] = "1543507137-5",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -14220,7 +14459,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [15]
 				{
 					["mapID"] = 1861,
@@ -14248,16 +14492,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [16]
 				{
+					["id"] = "1548263642-6",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
-					["id"] = "1548263642-6",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -14268,7 +14512,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Мастера Огня и Нефрита",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [17]
 				{
 					["mapID"] = 2070,
@@ -14643,11 +14887,16 @@ RCLootCouncilLootDB = {
 			},
 			["решалаауе-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Вектис",
-					["id"] = "1537979536-14",
+					["date"] = "26/09/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
 					["groupSize"] = 24,
@@ -14657,13 +14906,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537979536-14",
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -14717,16 +14961,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542209633-7",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -14737,14 +14976,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1542295407-0",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "15/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -14755,12 +15004,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -14788,11 +15032,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 				}, -- [4]
 				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1542299192-12",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "15/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -14803,12 +15052,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [5]
 			},
 			["саджера-Борейскаятундра"] = {
@@ -15009,16 +15253,16 @@ RCLootCouncilLootDB = {
 			},
 			["вц-Борейскаятундра"] = {
 				{
+					["id"] = "1545769679-0",
+					["mapID"] = 1594,
+					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный",
+					["difficultyID"] = 23,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1594,
-					["date"] = "26/12/18",
-					["difficultyID"] = 23,
-					["id"] = "1545769679-0",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15029,19 +15273,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Рикса Огневерт",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный",
+					["date"] = "26/12/18",
 				}, -- [1]
 				{
+					["id"] = "1545770423-1",
+					["mapID"] = 1763,
+					["instance"] = "Атал'Дазар-Эпохальный",
+					["difficultyID"] = 23,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1763,
-					["date"] = "26/12/18",
-					["difficultyID"] = 23,
-					["id"] = "1545770423-1",
 					["class"] = "HUNTER",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15052,19 +15296,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Резан",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["instance"] = "Атал'Дазар-Эпохальный",
+					["date"] = "26/12/18",
 				}, -- [2]
 				{
+					["id"] = "1545771168-2",
+					["mapID"] = 1763,
+					["instance"] = "Атал'Дазар-Эпохальный",
+					["difficultyID"] = 23,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1763,
-					["date"] = "26/12/18",
-					["difficultyID"] = 23,
-					["id"] = "1545771168-2",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15075,19 +15319,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Жрица Алун'за",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["instance"] = "Атал'Дазар-Эпохальный",
+					["date"] = "26/12/18",
 				}, -- [3]
 				{
+					["id"] = "1545772888-3",
+					["mapID"] = 1762,
+					["instance"] = "Гробница королей-Эпохальный",
+					["difficultyID"] = 23,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1762,
-					["date"] = "26/12/18",
-					["difficultyID"] = 23,
-					["id"] = "1545772888-3",
 					["class"] = "HUNTER",
 					["iSubClass"] = 18,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15098,19 +15342,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Совет племен",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["instance"] = "Гробница королей-Эпохальный",
+					["date"] = "26/12/18",
 				}, -- [4]
 				{
+					["id"] = "1545775414-4",
+					["mapID"] = 1822,
+					["instance"] = "Осада Боралуса-Эпохальный",
+					["difficultyID"] = 23,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1822,
-					["date"] = "26/12/18",
-					["difficultyID"] = 23,
-					["id"] = "1545775414-4",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15121,16 +15365,21 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вик'Гот",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["instance"] = "Осада Боралуса-Эпохальный",
+					["date"] = "26/12/18",
 				}, -- [5]
 			},
 			["челеста-Азурегос"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1543420446-5",
+					["date"] = "28/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 29,
@@ -15140,20 +15389,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
+					["id"] = "1543420446-5",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Г'уун",
-					["id"] = "1543424820-16",
+					["date"] = "28/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 15,
@@ -15163,25 +15412,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "28/11/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543424820-16",
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "09/12/18",
 					["mapID"] = 1861,
 					["groupSize"] = 15,
 					["boss"] = "Г'уун",
-					["id"] = "1544373766-14",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 6,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -15191,20 +15430,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "09/12/18",
-				}, -- [3]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
+					["id"] = "1544373766-14",
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [3]
+				{
 					["id"] = "1545234683-5",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -15215,7 +15454,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "19/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 			},
 			["страпонэла-Борейскаятундра"] = {
@@ -15272,11 +15516,16 @@ RCLootCouncilLootDB = {
 			},
 			["изадор-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537975848-3",
+					["date"] = "26/09/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 4,
 					["groupSize"] = 24,
@@ -15286,20 +15535,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537975848-3",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Обычный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1537983100-29",
+					["date"] = "26/09/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
 					["groupSize"] = 16,
@@ -15309,25 +15558,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL_REJECT",
-					["date"] = "26/09/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537983100-29",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [2]
 				{
+					["id"] = "1539790400-2",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539790400-2",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 4,
 					["groupSize"] = 16,
@@ -15338,7 +15582,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -15366,11 +15610,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [4]
 				{
-					["date"] = "21/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1540135352-1",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15380,13 +15629,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540135352-1",
+					["date"] = "21/10/18",
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -15464,11 +15708,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [8]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1541605541-7",
+					["date"] = "07/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15478,25 +15727,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541605541-7",
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [9]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542817818-18",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15507,14 +15746,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [10]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1543419860-2",
+					["date"] = "28/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
 					["groupSize"] = 29,
@@ -15524,13 +15773,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543419860-2",
+					["instance"] = "Ульдир-Героический",
 				}, -- [11]
 				{
 					["mapID"] = 1861,
@@ -15558,11 +15802,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 				}, -- [12]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Г'уун",
-					["id"] = "1543424706-14",
+					["date"] = "28/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 28,
@@ -15572,25 +15821,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543424706-14",
+					["instance"] = "Ульдир-Героический",
 				}, -- [13]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1544023694-1",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -15601,19 +15840,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "05/12/18",
-				}, -- [14]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [14]
+				{
 					["id"] = "1544024551-6",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -15624,7 +15863,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "05/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [15]
 				{
 					["mapID"] = 1861,
@@ -15652,16 +15896,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [16]
 				{
+					["id"] = "1544978119-1",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "16/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544978119-1",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 20,
@@ -15672,7 +15916,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "16/12/18",
 				}, -- [17]
 				{
 					["mapID"] = 1861,
@@ -15800,16 +16044,11 @@ RCLootCouncilLootDB = {
 			},
 			["теодорра-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542816766-11",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15820,7 +16059,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -15849,16 +16093,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [2]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542819353-29",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -15869,7 +16108,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
 					["mapID"] = 1754,
@@ -15946,9 +16190,61 @@ RCLootCouncilLootDB = {
 					["instance"] = "Атал'Дазар-Эпохальный ключ",
 				}, -- [2]
 			},
-			["Hansbaum-Blackmoore"] = {
+			["баронь-Борейскаятундра"] = {
 				{
-					["mapID"] = 1712,
+					["id"] = "1539790400-3",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160625::::::::120:250::5:3:4799:1492:4786:::|h[Патогенные бриджи]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "21:33:20",
+					["iClass"] = 4,
+					["boss"] = "МАТРИАРХ",
+					["responseID"] = "PL_REJECT",
+					["response"] = "Personal Loot - Rejected Trade",
+					["date"] = "17/10/18",
+				}, -- [1]
+				{
+					["mapID"] = 1861,
+					["date"] = "17/10/18",
+					["class"] = "DRUID",
+					["iSubClass"] = 0,
+					["groupSize"] = 16,
+					["boss"] = "МАТРИАРХ",
+					["time"] = "21:34:49",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:159461:5939:154127::::::120:250::16:4:5006:4802:1527:4786:::|h[Кольцо древнего черпальщика]|h|r",
+					["instance"] = "Ульдир-Героический",
+					["response"] = "Основной спек/Нужно",
+					["isAwardReason"] = false,
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:250::5:3:4799:1492:4786:::|h[Кольцо гноящегося ожога]|h|r",
+					["id"] = "1539790489-5",
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:158314:5939:::::::120:250::16:4:5009:42:1537:4786:::|h[Печать изменчивой лояльности]|h|r",
+					["votes"] = 0,
+				}, -- [2]
+				{
+					["instance"] = "Ульдир-Эпохальный",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Талок",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
@@ -15956,63 +16252,128 @@ RCLootCouncilLootDB = {
 						1, -- [4]
 					},
 					["class"] = "DRUID",
-					["iSubClass"] = 4,
-					["groupSize"] = 20,
-					["boss"] = "Kin'garoth",
-					["time"] = "20:55:59",
-					["iClass"] = 15,
-					["instance"] = "Antorus, der Brennende Thron-Mythisch",
-					["owner"] = "Hansbaum-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cff1eff00|Hitem:140220::::::::120:102::6::::|h[Geplünderter Stoff]|h|r",
-					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["date"] = "06/04/19",
-					["id"] = "1554573359-1",
-				}, -- [1]
-			},
-			["изщадье-Галакронд"] = {
-				{
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
-					["groupSize"] = 17,
-					["votes"] = 0,
-					["time"] = "23:12:24",
+					["groupSize"] = 20,
+					["time"] = "21:54:36",
+					["isAwardReason"] = false,
+					["lootWon"] = "|cffa335ee|Hitem:160622::::::::120:250::6:4:4800:1808:1507:4786:::|h[Ремень кровавой бури]|h|r",
 					["iClass"] = 4,
-					["id"] = "1539796344-25",
-					["response"] = "Вышел из сети или RCLootCouncil не установлен",
+					["difficultyID"] = 16,
+					["responseID"] = "PL",
+					["id"] = "1540396476-2",
+					["date"] = "24/10/18",
+				}, -- [3]
+				{
+					["id"] = "1540483390-16",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:163596::::::::120:250::5:3:4823:1492:4786:::|h[Клобук мрачного предвестия]|h|r",
 					["color"] = {
-						0.5, -- [1]
-						0.5, -- [2]
-						0.5, -- [3]
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Ульдир-Героический",
-					["responseID"] = "NOTHING",
-					["boss"] = "Митракс",
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Rejected Trade",
+					["lootWon"] = "|cffa335ee|Hitem:160621::::::::120:250::5:4:4799:1808:1492:4786:::|h[Напульсники ползучих миазмов]|h|r",
 					["isAwardReason"] = false,
+					["time"] = "22:03:10",
+					["iClass"] = 4,
+					["boss"] = "Вектис",
+					["responseID"] = "PL_REJECT",
+					["groupSize"] = 22,
+					["date"] = "25/10/18",
+				}, -- [4]
+				{
+					["id"] = "1541001030-16",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Rejected Trade",
+					["lootWon"] = "|cffa335ee|Hitem:161075::::::::120:250::5:3:4799:1492:4786:::|h[Антисептические перчатки для опытов]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "21:50:30",
+					["iClass"] = 4,
+					["boss"] = "Вектис",
+					["responseID"] = "PL_REJECT",
+					["groupSize"] = 16,
+					["date"] = "31/10/18",
+				}, -- [5]
+				{
+					["id"] = "1541001736-20",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DRUID",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["lootWon"] = "|cffa335ee|Hitem:160651::::::::120:250::6:4:4800:41:1512:4783:::|h[Кроводел стража]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "22:02:16",
+					["iClass"] = 4,
+					["boss"] = "Талок",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "31/10/18",
+				}, -- [6]
+			},
+			["альмафлора-Борейскаятундра"] = {
+				{
+					["mapID"] = 2070,
+					["date"] = "17/03/19",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 10,
+					["groupSize"] = 20,
+					["boss"] = "Король Растахан",
+					["time"] = "22:48:27",
+					["iClass"] = 2,
+					["id"] = "1552841307-5",
+					["owner"] = "альмафлора-Борейскаятундра",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165597::::::::120:264::5:3:4799:1522:4786:::|h[Шпиль вестника смерти]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["instance"] = "Битва за Дазар'алор-Героический",
 				}, -- [1]
 			},
-			["солвеи-Борейскаятундра"] = {
+			["сиенна-Борейскаятундра"] = {
 				{
 					["mapID"] = 2164,
 					["date"] = "23/10/19",
-					["class"] = "PALADIN",
-					["iSubClass"] = 4,
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
 					["groupSize"] = 20,
 					["boss"] = "Темноводный левиафан",
-					["time"] = "21:43:21",
+					["time"] = "21:40:21",
 					["iClass"] = 4,
-					["id"] = "1571845401-12",
-					["owner"] = "солвеи-Борейскаятундра",
+					["id"] = "1571845221-8",
+					["owner"] = "сиенна-Борейскаятундра",
 					["response"] = "Personal Loot - Rejected Trade",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:169936::::::::120:70::6:3:4800:1517:4786:::|h[Перчатки сокрушительных потоков]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:168342::::::::120:257::6:4:4824:1517:4786:6271:::|h[Накидка глубоководного хищника]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL_REJECT",
 					["color"] = {
@@ -16026,11 +16387,16 @@ RCLootCouncilLootDB = {
 			},
 			["жутикк-Борейскаятундра"] = {
 				{
-					["date"] = "13/10/18",
-					["mapID"] = 1763,
-					["instance"] = "Атал'Дазар-Эпохальный ключ",
-					["difficultyID"] = 8,
 					["id"] = "1539446298-0",
+					["mapID"] = 1763,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 8,
+					["date"] = "13/10/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16041,19 +16407,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Язма",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
+					["instance"] = "Атал'Дазар-Эпохальный ключ",
+				}, -- [1]
+				{
+					["id"] = "1542296190-5",
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1542296190-5",
+					["date"] = "15/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16064,12 +16430,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -16097,16 +16458,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542816765-10",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16117,19 +16473,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["date"] = "21/11/18",
-				}, -- [4]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 15,
+				}, -- [4]
+				{
 					["id"] = "1542819334-27",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16140,7 +16496,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [5]
 				{
 					["mapID"] = 1862,
@@ -16169,11 +16530,16 @@ RCLootCouncilLootDB = {
 			},
 			["анной-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537975847-2",
+					["date"] = "26/09/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 24,
@@ -16183,20 +16549,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537975847-2",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зек'воз",
-					["id"] = "1537981323-23",
+					["date"] = "26/09/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 23,
@@ -16206,25 +16572,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537981323-23",
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1538067427-0",
+					["mapID"] = 1861,
+					["date"] = "27/09/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -16235,7 +16591,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "27/09/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 			},
 			["шерри-Борейскаятундра"] = {
@@ -16291,16 +16652,11 @@ RCLootCouncilLootDB = {
 			},
 			["зелисвет-Азурегос"] = {
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1547653348-3",
+					["mapID"] = 1861,
+					["date"] = "16/01/19",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -16311,7 +16667,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "16/01/19",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -16339,46 +16700,48 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 				}, -- [2]
 			},
-			["баронь-Борейскаятундра"] = {
+			["шашель-Борейскаятундра"] = {
 				{
+					["mapID"] = 1861,
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						0, -- [1]
+						1, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539790400-3",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["groupSize"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160625::::::::120:250::5:3:4799:1492:4786:::|h[Патогенные бриджи]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "21:33:20",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 18,
+					["votes"] = 0,
+					["time"] = "21:38:17",
 					["iClass"] = 4,
-					["boss"] = "МАТРИАРХ",
-					["responseID"] = "PL_REJECT",
-					["response"] = "Personal Loot - Rejected Trade",
+					["itemReplaced1"] = "|cffa335ee|Hitem:160644::::::::120:250::3:4:4798:40:1477:4786:::|h[Запятнанный плазмой теплый плащ]|h|r",
 					["instance"] = "Ульдир-Героический",
+					["response"] = "Основной спек/Нужно",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:250::5:3:4799:1492:4786:::|h[Запятнанный плазмой теплый плащ]|h|r",
+					["id"] = "1542296297-7",
+					["date"] = "15/11/18",
+					["responseID"] = 1,
+					["isAwardReason"] = false,
+					["boss"] = "Вектис",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["class"] = "DRUID",
+					["date"] = "15/11/18",
+					["class"] = "MAGE",
 					["iSubClass"] = 0,
-					["groupSize"] = 16,
-					["boss"] = "МАТРИАРХ",
-					["time"] = "21:34:49",
+					["groupSize"] = 18,
+					["boss"] = "Зек'воз",
+					["time"] = "21:53:41",
 					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:159461:5939:154127::::::120:250::16:4:5006:4802:1527:4786:::|h[Кольцо древнего черпальщика]|h|r",
+					["itemReplaced1"] = "|cffa335ee|Hitem:160647:5942:::::::120:250::3:3:4798:1477:4786:::|h[Кольцо вечной Бездны]|h|r",
 					["instance"] = "Ульдир-Героический",
 					["response"] = "Основной спек/Нужно",
 					["isAwardReason"] = false,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:250::5:3:4799:1492:4786:::|h[Кольцо гноящегося ожога]|h|r",
-					["id"] = "1539790489-5",
+					["lootWon"] = "|cffa335ee|Hitem:160647::::::::120:250::5:3:4799:1492:4786:::|h[Кольцо вечной Бездны]|h|r",
+					["id"] = "1542297221-10",
 					["color"] = {
 						0, -- [1]
 						1, -- [2]
@@ -16386,101 +16749,152 @@ RCLootCouncilLootDB = {
 						1, -- [4]
 					},
 					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:158314:5939:::::::120:250::16:4:5009:42:1537:4786:::|h[Печать изменчивой лояльности]|h|r",
+					["itemReplaced2"] = "|cffa335ee|Hitem:161359:5942:::::::120:250::3:3:4798:1477:4786:::|h[Кольцо повышенной гравитации]|h|r",
 					["votes"] = 0,
 				}, -- [2]
 				{
-					["date"] = "24/10/18",
+					["id"] = "1542299192-13",
 					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Талок",
-					["id"] = "1540396476-2",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["time"] = "21:54:36",
-					["isAwardReason"] = false,
-					["lootWon"] = "|cffa335ee|Hitem:160622::::::::120:250::6:4:4800:1808:1507:4786:::|h[Ремень кровавой бури]|h|r",
-					["iClass"] = 4,
-					["difficultyID"] = 16,
-					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Ульдир-Эпохальный",
-				}, -- [3]
-				{
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
 					["difficultyID"] = 15,
-					["id"] = "1540483390-16",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Rejected Trade",
-					["lootWon"] = "|cffa335ee|Hitem:160621::::::::120:250::5:4:4799:1808:1492:4786:::|h[Напульсники ползучих миазмов]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "22:03:10",
-					["iClass"] = 4,
-					["boss"] = "Вектис",
-					["responseID"] = "PL_REJECT",
-					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
-				}, -- [4]
-				{
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1541001030-16",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Rejected Trade",
-					["lootWon"] = "|cffa335ee|Hitem:161075::::::::120:250::5:3:4799:1492:4786:::|h[Антисептические перчатки для опытов]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "21:50:30",
-					["iClass"] = 4,
-					["boss"] = "Вектис",
-					["responseID"] = "PL_REJECT",
-					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
-				}, -- [5]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541001736-20",
-					["class"] = "DRUID",
+					["date"] = "15/11/18",
+					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
-					["lootWon"] = "|cffa335ee|Hitem:160651::::::::120:250::6:4:4800:41:1512:4783:::|h[Кроводел стража]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:160696::::::::120:250::5:3:4799:1492:4786:::|h[Фолиант неизбежного уничтожения]|h|r",
 					["isAwardReason"] = false,
-					["time"] = "22:02:16",
+					["time"] = "22:26:32",
 					["iClass"] = 4,
-					["boss"] = "Талок",
+					["boss"] = "Митракс",
 					["responseID"] = "PL",
+					["groupSize"] = 18,
+					["instance"] = "Ульдир-Героический",
+				}, -- [3]
+				{
+					["id"] = "1542817275-14",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Rejected Trade",
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:250::5:4:4799:40:1492:4786:::|h[Кольцо гноящегося ожога]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "22:21:15",
+					["iClass"] = 4,
+					["boss"] = "МАТРИАРХ",
+					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [4]
+				{
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 13,
+					["boss"] = "Зек'воз",
+					["time"] = "22:57:38",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:161349::::::::120:250::3:3:4822:1477:4786:::|h[Нарамник раздирающей пучины]|h|r",
+					["id"] = "1542819458-30",
+					["response"] = "Оффспек/Не откажусь",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160613::::::::120:250::5:3:4823:1492:4786:::|h[Оплечье усмиренной порчи]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.5, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["instance"] = "Ульдир-Героический",
+					["responseID"] = 2,
+					["votes"] = 0,
+					["isAwardReason"] = false,
+				}, -- [5]
+				{
+					["mapID"] = 1861,
+					["date"] = "26/12/18",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Зек'воз",
+					["time"] = "22:01:00",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:160647::::::::120:250::5:3:4799:1502:4783:::|h[Кольцо вечной Бездны]|h|r",
 					["instance"] = "Ульдир-Эпохальный",
+					["response"] = "Основной спек/Нужно",
+					["isAwardReason"] = false,
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:250::6:3:4800:1507:4786:::|h[Кольцо гноящегося ожога]|h|r",
+					["id"] = "1545840060-5",
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:160645::::::::120:250::5:4:4799:40:1492:4786:::|h[Кольцо гноящегося ожога]|h|r",
+					["votes"] = 0,
 				}, -- [6]
+				{
+					["id"] = "1545841689-7",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 16,
+					["date"] = "26/12/18",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["lootWon"] = "|cffa335ee|Hitem:160613::::::::120:250::6:4:4824:1507:4786:5403:::|h[Оплечье усмиренной порчи]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "22:28:09",
+					["iClass"] = 4,
+					["boss"] = "Зек'воз",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [7]
+				{
+					["id"] = "1547652373-1",
+					["mapID"] = 1861,
+					["date"] = "16/01/19",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["lootWon"] = "|cffa335ee|Hitem:160714::::::::120:250::6:3:4800:1507:4786:::|h[Нестабильные ботинки]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "21:26:13",
+					["iClass"] = 4,
+					["boss"] = "МАТРИАРХ",
+					["responseID"] = "PL_REJECT",
+					["response"] = "Personal Loot - Rejected Trade",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [8]
 			},
 			["шедоухиллер-Гордунни"] = {
 				{
@@ -16532,126 +16946,31 @@ RCLootCouncilLootDB = {
 					["id"] = "1549472001-14",
 				}, -- [2]
 			},
-			["нелиал-Борейскаятундра"] = {
+			["солвеи-Борейскаятундра"] = {
 				{
-					["mapID"] = 1861,
-					["date"] = "26/09/18",
-					["class"] = "HUNTER",
-					["iSubClass"] = 1,
-					["groupSize"] = 23,
-					["isAwardReason"] = false,
-					["time"] = "21:54:54",
+					["mapID"] = 2164,
+					["date"] = "23/10/19",
+					["class"] = "PALADIN",
+					["iSubClass"] = 4,
+					["groupSize"] = 20,
+					["boss"] = "Темноводный левиафан",
+					["time"] = "21:43:21",
 					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:160642::::::::120:250::3:4:4798:41:1477:4786:::|h[Накидка пульсирующего шепота]|h|r",
-					["id"] = "1537977294-12",
-					["response"] = "Основной спек/Нужно",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:250::5:3:4799:1492:4786:::|h[Плащ зловонного ужаса]|h|r",
+					["id"] = "1571845401-12",
+					["owner"] = "солвеи-Борейскаятундра",
+					["response"] = "Personal Loot - Rejected Trade",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:169936::::::::120:70::6:3:4800:1517:4786:::|h[Перчатки сокрушительных потоков]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL_REJECT",
 					["color"] = {
-						0, -- [1]
-						1, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Ульдир-Героический",
-					["responseID"] = 1,
-					["votes"] = 0,
-					["boss"] = "Зловонный пожиратель",
+					["instance"] = "Вечный дворец-Эпохальный",
 				}, -- [1]
-				{
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539789474-1",
-					["class"] = "HUNTER",
-					["iSubClass"] = 3,
-					["groupSize"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:161076::::::::120:250::5:3:4799:1497:4783:::|h[Цепкие перчатки для опытов]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "21:17:54",
-					["iClass"] = 4,
-					["boss"] = "Талок",
-					["responseID"] = "PL_REJECT",
-					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
-				}, -- [2]
-				{
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539796301-23",
-					["class"] = "HUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 18,
-					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:250::5:3:4799:1492:4786:::|h[Кольцо неминуемого уничтожения]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "23:11:41",
-					["iClass"] = 4,
-					["boss"] = "Митракс",
-					["responseID"] = "PL_REJECT",
-					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
-				}, -- [3]
-				{
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["class"] = "HUNTER",
-					["iSubClass"] = 3,
-					["groupSize"] = 22,
-					["boss"] = "МАТРИАРХ",
-					["time"] = "21:38:55",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:161612:5932:::::::120:250::56:4:5071:5128:1567:4783:::|h[Плетеные рукавицы ужасающего гладиатора]|h|r",
-					["id"] = "1540481935-7",
-					["response"] = "Отказаться",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160626::::::::120:250::5:3:4799:1492:4786:::|h[Перчатки невольной ампутации]|h|r",
-					["color"] = {
-						0.7, -- [1]
-						0.7, -- [2]
-						0.7, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
-					["responseID"] = "PASS",
-					["votes"] = 0,
-					["isAwardReason"] = false,
-				}, -- [4]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540482528-11",
-					["class"] = "HUNTER",
-					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["lootWon"] = "|cffa335ee|Hitem:160628::::::::120:250::5:3:4799:1492:4786:::|h[Высокие ботинки чудовищного слияния]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "21:48:48",
-					["iClass"] = 4,
-					["boss"] = "Зловонный пожиратель",
-					["responseID"] = "PL",
-					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
-				}, -- [5]
 			},
 			["вельферон-Борейскаятундра"] = {
 				{
@@ -16680,11 +16999,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [1]
 				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1543158823-1",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "25/11/18",
 					["class"] = "PALADIN",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16695,12 +17019,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Неизвестно",
 					["responseID"] = "PL",
 					["groupSize"] = 25,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -16752,16 +17071,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "09/12/18",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Зек'воз",
-					["id"] = "1544371466-6",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16771,8 +17085,13 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "09/12/18",
+					["id"] = "1544371466-6",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -16800,16 +17119,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [6]
 				{
+					["id"] = "1548257819-2",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
-					["id"] = "1548257819-2",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16820,7 +17139,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Воительница Света",
 					["responseID"] = "PL",
 					["groupSize"] = 21,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [7]
 			},
 			["йаоси-Гордунни"] = {
@@ -16925,11 +17244,16 @@ RCLootCouncilLootDB = {
 			},
 			["айсли-Борейскаятундра"] = {
 				{
-					["date"] = "23/09/18",
+					["instance"] = "Святилище Штормов-Эпохальный ключ",
 					["mapID"] = 1864,
 					["groupSize"] = 5,
 					["boss"] = "Вол'зит Шепчущая",
-					["id"] = "1537642911-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -16939,25 +17263,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Святилище Штормов-Эпохальный ключ",
+					["id"] = "1537642911-0",
+					["date"] = "23/09/18",
 				}, -- [1]
 				{
+					["id"] = "1539791094-7",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539791094-7",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 16,
@@ -16968,19 +17287,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [2]
 				{
+					["id"] = "1539796310-24",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539796310-24",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 18,
@@ -16991,14 +17310,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [3]
 				{
-					["date"] = "24/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Талок",
-					["id"] = "1540396472-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -17008,13 +17332,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540396472-0",
+					["date"] = "24/10/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -17042,16 +17361,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [5]
 				{
+					["id"] = "1540482547-12",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540482547-12",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17062,19 +17381,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [6]
 				{
+					["id"] = "1541002606-24",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541002606-24",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -17085,14 +17404,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [7]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1541604105-1",
+					["date"] = "07/11/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17102,20 +17426,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/11/18",
+					["id"] = "1541604105-1",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [8]
+				{
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [8]
-				{
-					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1541605539-6",
+					["date"] = "07/11/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -17125,20 +17449,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
+					["id"] = "1541605539-6",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [9]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [9]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Вектис",
-					["id"] = "1541608534-16",
+					["date"] = "07/11/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -17148,13 +17472,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541608534-16",
+					["instance"] = "Ульдир-Героический",
 				}, -- [10]
 				{
 					["mapID"] = 1861,
@@ -17182,16 +17501,11 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [11]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542556660-3",
+					["mapID"] = 1861,
+					["date"] = "18/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17202,19 +17516,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "18/11/18",
-				}, -- [12]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [12]
+				{
 					["id"] = "1542816081-8",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17225,7 +17539,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [13]
 				{
 					["mapID"] = 1861,
@@ -17254,11 +17573,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [14]
 				{
-					["date"] = "06/12/18",
-					["mapID"] = 1754,
-					["instance"] = "Вольная Гавань-Эпохальный ключ",
-					["difficultyID"] = 8,
 					["id"] = "1544034594-11",
+					["mapID"] = 1754,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 8,
+					["date"] = "06/12/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17269,24 +17593,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Йо-хо-хо-лизей",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 5,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Вольная Гавань-Эпохальный ключ",
 				}, -- [15]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1545234003-1",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -17297,14 +17611,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "19/12/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [16]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1546876916-0",
+					["date"] = "07/01/19",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -17314,25 +17638,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/01/19",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1546876916-0",
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [17]
 				{
+					["id"] = "1548263585-4",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
-					["id"] = "1548263585-4",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -17343,7 +17662,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Мастера Огня и Нефрита",
 					["responseID"] = "PL",
 					["groupSize"] = 21,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [18]
 				{
 					["mapID"] = 2070,
@@ -17689,11 +18008,16 @@ RCLootCouncilLootDB = {
 			},
 			["пуфка-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537975847-1",
+					["date"] = "26/09/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 24,
@@ -17703,13 +18027,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537975847-1",
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -17737,11 +18056,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 				}, -- [2]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зек'воз",
-					["id"] = "1537981320-20",
+					["date"] = "26/09/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 23,
@@ -17751,25 +18075,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537981320-20",
+					["instance"] = "Ульдир-Героический",
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1539274394-1",
+					["mapID"] = 1861,
+					["date"] = "11/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 16,
@@ -17780,14 +18094,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "11/10/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
-					["date"] = "21/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1540135353-3",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -17797,25 +18121,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540135353-3",
+					["date"] = "21/10/18",
 				}, -- [5]
 				{
+					["id"] = "1541001744-21",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541001744-21",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17826,7 +18145,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -17855,11 +18174,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [7]
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1541089937-9",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "01/11/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17870,19 +18194,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
+					["instance"] = "Ульдир-Героический",
+				}, -- [8]
+				{
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [8]
-				{
-					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1541605537-5",
+					["date"] = "07/11/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -17892,25 +18216,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541605537-5",
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [9]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542556656-2",
+					["mapID"] = 1861,
+					["date"] = "18/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "MONK",
 					["iSubClass"] = 13,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -17921,19 +18235,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "18/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [10]
 				{
+					["id"] = "1544629004-1",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "12/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544629004-1",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -17944,7 +18263,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "12/12/18",
 				}, -- [11]
 				{
 					["mapID"] = 2070,
@@ -18220,16 +18539,11 @@ RCLootCouncilLootDB = {
 			},
 			["подобиемага-Борейскаятундра"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "14/10/18",
 					["mapID"] = 1763,
 					["groupSize"] = 5,
 					["boss"] = "Язма",
-					["id"] = "1539505876-0",
+					["instance"] = "Атал'Дазар-Эпохальный ключ",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -18239,15 +18553,25 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["instance"] = "Атал'Дазар-Эпохальный ключ",
-					["date"] = "14/10/18",
+					["id"] = "1539505876-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Г'уун",
-					["id"] = "1539624626-0",
+					["date"] = "15/10/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
 					["groupSize"] = 17,
@@ -18257,20 +18581,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "15/10/18",
+					["id"] = "1539624626-0",
+					["instance"] = "Ульдир-Героический",
+				}, -- [2]
+				{
+					["id"] = "1541096681-0",
+					["mapID"] = 1754,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [2]
-				{
-					["date"] = "02/11/18",
-					["mapID"] = 1754,
-					["instance"] = "Вольная Гавань-Эпохальный ключ",
 					["difficultyID"] = 8,
-					["id"] = "1541096681-0",
+					["date"] = "02/11/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -18281,24 +18605,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Красавчик Харлан",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 5,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Вольная Гавань-Эпохальный ключ",
 				}, -- [3]
 				{
-					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный ключ",
-					["mapID"] = 1594,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1541355754-2",
+					["mapID"] = 1594,
+					["date"] = "04/11/18",
+					["difficultyID"] = 8,
+					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный ключ",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
 					["groupSize"] = 5,
@@ -18309,7 +18623,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Шеф Разданк",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "04/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
 					["mapID"] = 1594,
@@ -18336,214 +18655,44 @@ RCLootCouncilLootDB = {
 					["id"] = "1556458957-2",
 				}, -- [5]
 			},
-			["шашель-Борейскаятундра"] = {
+			["Hansbaum-Blackmoore"] = {
 				{
-					["mapID"] = 1861,
+					["mapID"] = 1712,
 					["color"] = {
-						0, -- [1]
-						1, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["groupSize"] = 18,
-					["votes"] = 0,
-					["time"] = "21:38:17",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:160644::::::::120:250::3:4:4798:40:1477:4786:::|h[Запятнанный плазмой теплый плащ]|h|r",
-					["instance"] = "Ульдир-Героический",
-					["response"] = "Основной спек/Нужно",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:250::5:3:4799:1492:4786:::|h[Запятнанный плазмой теплый плащ]|h|r",
-					["id"] = "1542296297-7",
-					["date"] = "15/11/18",
-					["responseID"] = 1,
+					["class"] = "DRUID",
+					["iSubClass"] = 4,
+					["groupSize"] = 20,
+					["boss"] = "Kin'garoth",
+					["time"] = "20:55:59",
+					["iClass"] = 15,
+					["instance"] = "Antorus, der Brennende Thron-Mythisch",
+					["owner"] = "Hansbaum-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cff1eff00|Hitem:140220::::::::120:102::6::::|h[Geplünderter Stoff]|h|r",
 					["isAwardReason"] = false,
-					["boss"] = "Вектис",
+					["responseID"] = "PL",
+					["date"] = "06/04/19",
+					["id"] = "1554573359-1",
 				}, -- [1]
-				{
-					["mapID"] = 1861,
-					["date"] = "15/11/18",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 18,
-					["boss"] = "Зек'воз",
-					["time"] = "21:53:41",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:160647:5942:::::::120:250::3:3:4798:1477:4786:::|h[Кольцо вечной Бездны]|h|r",
-					["instance"] = "Ульдир-Героический",
-					["response"] = "Основной спек/Нужно",
-					["isAwardReason"] = false,
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160647::::::::120:250::5:3:4799:1492:4786:::|h[Кольцо вечной Бездны]|h|r",
-					["id"] = "1542297221-10",
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:161359:5942:::::::120:250::3:3:4798:1477:4786:::|h[Кольцо повышенной гравитации]|h|r",
-					["votes"] = 0,
-				}, -- [2]
-				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
-					["id"] = "1542299192-13",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["lootWon"] = "|cffa335ee|Hitem:160696::::::::120:250::5:3:4799:1492:4786:::|h[Фолиант неизбежного уничтожения]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "22:26:32",
-					["iClass"] = 4,
-					["boss"] = "Митракс",
-					["responseID"] = "PL",
-					["groupSize"] = 18,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [3]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
-					["id"] = "1542817275-14",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Rejected Trade",
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:250::5:4:4799:40:1492:4786:::|h[Кольцо гноящегося ожога]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "22:21:15",
-					["iClass"] = 4,
-					["boss"] = "МАТРИАРХ",
-					["responseID"] = "PL_REJECT",
-					["groupSize"] = 20,
-					["date"] = "21/11/18",
-				}, -- [4]
-				{
-					["mapID"] = 1861,
-					["date"] = "21/11/18",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["groupSize"] = 13,
-					["boss"] = "Зек'воз",
-					["time"] = "22:57:38",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:161349::::::::120:250::3:3:4822:1477:4786:::|h[Нарамник раздирающей пучины]|h|r",
-					["id"] = "1542819458-30",
-					["response"] = "Оффспек/Не откажусь",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160613::::::::120:250::5:3:4823:1492:4786:::|h[Оплечье усмиренной порчи]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.5, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
-					["responseID"] = 2,
-					["votes"] = 0,
-					["isAwardReason"] = false,
-				}, -- [5]
-				{
-					["mapID"] = 1861,
-					["date"] = "26/12/18",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Зек'воз",
-					["time"] = "22:01:00",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:160647::::::::120:250::5:3:4799:1502:4783:::|h[Кольцо вечной Бездны]|h|r",
-					["instance"] = "Ульдир-Эпохальный",
-					["response"] = "Основной спек/Нужно",
-					["isAwardReason"] = false,
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:250::6:3:4800:1507:4786:::|h[Кольцо гноящегося ожога]|h|r",
-					["id"] = "1545840060-5",
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:160645::::::::120:250::5:4:4799:40:1492:4786:::|h[Кольцо гноящегося ожога]|h|r",
-					["votes"] = 0,
-				}, -- [6]
-				{
-					["date"] = "26/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
-					["difficultyID"] = 16,
-					["id"] = "1545841689-7",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["lootWon"] = "|cffa335ee|Hitem:160613::::::::120:250::6:4:4824:1507:4786:5403:::|h[Оплечье усмиренной порчи]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "22:28:09",
-					["iClass"] = 4,
-					["boss"] = "Зек'воз",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [7]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
-					["id"] = "1547652373-1",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["lootWon"] = "|cffa335ee|Hitem:160714::::::::120:250::6:3:4800:1507:4786:::|h[Нестабильные ботинки]|h|r",
-					["isAwardReason"] = false,
-					["time"] = "21:26:13",
-					["iClass"] = 4,
-					["boss"] = "МАТРИАРХ",
-					["responseID"] = "PL_REJECT",
-					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "16/01/19",
-				}, -- [8]
 			},
 			["кхорус-Борейскаятундра"] = {
 				{
+					["id"] = "1540481032-0",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540481032-0",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -18554,14 +18703,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 21,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [1]
 				{
-					["date"] = "11/11/18",
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["mapID"] = 1877,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Аватара Сетралисс",
-					["id"] = "1541964895-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 5,
@@ -18571,13 +18725,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
+					["id"] = "1541964895-0",
+					["date"] = "11/11/18",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -18657,11 +18806,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зек'воз",
-					["id"] = "1537981313-19",
+					["date"] = "26/09/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["groupSize"] = 23,
@@ -18671,20 +18825,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537981313-19",
+					["instance"] = "Ульдир-Героический",
+				}, -- [2]
+				{
+					["instance"] = "Ульдир-Эпохальный",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["boss"] = "Талок",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [2]
-				{
-					["date"] = "21/10/18",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["boss"] = "Талок",
-					["id"] = "1540135353-2",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -18694,25 +18848,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540135353-2",
+					["date"] = "21/10/18",
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1540223011-2",
+					["mapID"] = 1861,
+					["date"] = "22/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -18723,7 +18867,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "22/10/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -18751,11 +18900,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 				}, -- [5]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Вектис",
-					["id"] = "1541608553-17",
+					["date"] = "07/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -18765,25 +18919,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/11/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541608553-17",
+					["instance"] = "Ульдир-Героический",
 				}, -- [6]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542211944-13",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -18794,14 +18938,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "14/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [7]
 				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1543160916-5",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "25/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -18812,19 +18966,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 25,
+					["instance"] = "Ульдир-Героический",
+				}, -- [8]
+				{
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [8]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Митракс",
-					["id"] = "1543423767-12",
+					["date"] = "28/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["groupSize"] = 28,
@@ -18834,25 +18988,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "28/11/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543423767-12",
+					["instance"] = "Ульдир-Героический",
 				}, -- [9]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1544023693-0",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -18863,19 +19007,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "05/12/18",
-				}, -- [10]
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "12/12/18",
-					["difficultyID"] = 16,
+				}, -- [10]
+				{
 					["id"] = "1544629006-2",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARRIOR",
 					["iSubClass"] = 5,
 					["groupSize"] = 20,
@@ -18886,7 +19035,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "12/12/18",
 				}, -- [11]
 				{
 					["mapID"] = 2070,
@@ -18937,16 +19086,11 @@ RCLootCouncilLootDB = {
 					["instance"] = "Битва за Дазар'алор-Обычный",
 				}, -- [13]
 				{
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-					["mapID"] = 1877,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1549197395-0",
+					["mapID"] = 1877,
+					["date"] = "03/02/19",
+					["difficultyID"] = 8,
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -18957,7 +19101,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Аватара Сетралисс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "03/02/19",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [14]
 				{
 					["mapID"] = 2070,
@@ -19392,39 +19541,139 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [32]
 			},
-			["сиенна-Борейскаятундра"] = {
+			["нелиал-Борейскаятундра"] = {
 				{
-					["mapID"] = 2164,
-					["date"] = "23/10/19",
-					["class"] = "PRIEST",
+					["mapID"] = 1861,
+					["date"] = "26/09/18",
+					["class"] = "HUNTER",
 					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["boss"] = "Темноводный левиафан",
-					["time"] = "21:40:21",
-					["iClass"] = 4,
-					["id"] = "1571845221-8",
-					["owner"] = "сиенна-Борейскаятундра",
-					["response"] = "Personal Loot - Rejected Trade",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:168342::::::::120:257::6:4:4824:1517:4786:6271:::|h[Накидка глубоководного хищника]|h|r",
+					["groupSize"] = 23,
 					["isAwardReason"] = false,
-					["responseID"] = "PL_REJECT",
+					["time"] = "21:54:54",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:160642::::::::120:250::3:4:4798:41:1477:4786:::|h[Накидка пульсирующего шепота]|h|r",
+					["id"] = "1537977294-12",
+					["response"] = "Основной спек/Нужно",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:250::5:3:4799:1492:4786:::|h[Плащ зловонного ужаса]|h|r",
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["instance"] = "Ульдир-Героический",
+					["responseID"] = 1,
+					["votes"] = 0,
+					["boss"] = "Зловонный пожиратель",
+				}, -- [1]
+				{
+					["id"] = "1539789474-1",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Вечный дворец-Эпохальный",
-				}, -- [1]
+					["class"] = "HUNTER",
+					["iSubClass"] = 3,
+					["groupSize"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:161076::::::::120:250::5:3:4799:1497:4783:::|h[Цепкие перчатки для опытов]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "21:17:54",
+					["iClass"] = 4,
+					["boss"] = "Талок",
+					["responseID"] = "PL_REJECT",
+					["response"] = "Personal Loot - Rejected Trade",
+					["date"] = "17/10/18",
+				}, -- [2]
+				{
+					["id"] = "1539796301-23",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "HUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 18,
+					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:250::5:3:4799:1492:4786:::|h[Кольцо неминуемого уничтожения]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "23:11:41",
+					["iClass"] = 4,
+					["boss"] = "Митракс",
+					["responseID"] = "PL_REJECT",
+					["response"] = "Personal Loot - Rejected Trade",
+					["date"] = "17/10/18",
+				}, -- [3]
+				{
+					["mapID"] = 1861,
+					["date"] = "25/10/18",
+					["class"] = "HUNTER",
+					["iSubClass"] = 3,
+					["groupSize"] = 22,
+					["boss"] = "МАТРИАРХ",
+					["time"] = "21:38:55",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:161612:5932:::::::120:250::56:4:5071:5128:1567:4783:::|h[Плетеные рукавицы ужасающего гладиатора]|h|r",
+					["id"] = "1540481935-7",
+					["response"] = "Отказаться",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160626::::::::120:250::5:3:4799:1492:4786:::|h[Перчатки невольной ампутации]|h|r",
+					["color"] = {
+						0.7, -- [1]
+						0.7, -- [2]
+						0.7, -- [3]
+						1, -- [4]
+					},
+					["instance"] = "Ульдир-Героический",
+					["responseID"] = "PASS",
+					["votes"] = 0,
+					["isAwardReason"] = false,
+				}, -- [4]
+				{
+					["id"] = "1540482528-11",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "HUNTER",
+					["iSubClass"] = 3,
+					["response"] = "Personal Loot - Non tradeable",
+					["lootWon"] = "|cffa335ee|Hitem:160628::::::::120:250::5:3:4799:1492:4786:::|h[Высокие ботинки чудовищного слияния]|h|r",
+					["isAwardReason"] = false,
+					["time"] = "21:48:48",
+					["iClass"] = 4,
+					["boss"] = "Зловонный пожиратель",
+					["responseID"] = "PL",
+					["groupSize"] = 22,
+					["date"] = "25/10/18",
+				}, -- [5]
 			},
 			["орбена-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Вектис",
-					["id"] = "1537979537-16",
+					["date"] = "26/09/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["groupSize"] = 24,
@@ -19434,20 +19683,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537979537-16",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Обычный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Вектис",
-					["id"] = "1537983929-33",
+					["date"] = "26/09/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 16,
@@ -19457,25 +19706,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL_REJECT",
-					["date"] = "26/09/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537983929-33",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [2]
 				{
+					["id"] = "1540998768-0",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540998768-0",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -19486,7 +19730,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -19514,16 +19758,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 				{
+					["id"] = "1541000149-12",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1541000149-12",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -19534,14 +19778,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [5]
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1541086997-3",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "01/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -19552,19 +19801,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 17,
+					["instance"] = "Ульдир-Героический",
+				}, -- [6]
+				{
+					["id"] = "1541088471-6",
+					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [6]
-				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1541088471-6",
+					["date"] = "01/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 8,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -19575,19 +19824,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
+					["instance"] = "Ульдир-Героический",
+				}, -- [7]
+				{
+					["id"] = "1541096699-1",
+					["mapID"] = 1754,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [7]
-				{
-					["date"] = "02/11/18",
-					["mapID"] = 1754,
-					["instance"] = "Вольная Гавань-Эпохальный ключ",
 					["difficultyID"] = 8,
-					["id"] = "1541096699-1",
+					["date"] = "02/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -19598,12 +19847,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Красавчик Харлан",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 5,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Вольная Гавань-Эпохальный ключ",
 				}, -- [8]
 				{
 					["mapID"] = 1861,
@@ -19631,11 +19875,16 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [9]
 				{
-					["date"] = "11/11/18",
+					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Митракс",
-					["id"] = "1541950756-0",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["groupSize"] = 22,
@@ -19645,20 +19894,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
+					["id"] = "1541950756-0",
+					["date"] = "11/11/18",
+				}, -- [10]
+				{
+					["id"] = "1542297118-8",
+					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Ульдир-Героический",
-				}, -- [10]
-				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1542297118-8",
+					["date"] = "15/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -19669,24 +19918,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [11]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542816063-5",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -19697,19 +19936,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
-				}, -- [12]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 15,
+				}, -- [12]
+				{
 					["id"] = "1542818621-24",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -19720,14 +19959,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [13]
 				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1543159968-2",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "25/11/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -19738,12 +19987,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL",
 					["groupSize"] = 25,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [14]
 				{
 					["mapID"] = 1861,
@@ -19797,11 +20041,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [16]
 				{
-					["date"] = "26/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
-					["difficultyID"] = 16,
 					["id"] = "1545838853-0",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 16,
+					["date"] = "26/12/18",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -19812,12 +20061,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [17]
 				{
 					["mapID"] = 1861,
@@ -20091,11 +20335,16 @@ RCLootCouncilLootDB = {
 			},
 			["томмийомми-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Обычный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зек'воз",
-					["id"] = "1537984682-37",
+					["date"] = "26/09/18",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["groupSize"] = 16,
@@ -20105,25 +20354,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537984682-37",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [1]
 				{
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-					["mapID"] = 1877,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1541347306-0",
+					["mapID"] = 1877,
+					["date"] = "04/11/18",
+					["difficultyID"] = 8,
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["class"] = "HUNTER",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -20134,7 +20373,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Аватара Сетралисс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "04/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -20162,16 +20406,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 				}, -- [3]
 				{
+					["id"] = "1544629585-4",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "12/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544629585-4",
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["groupSize"] = 20,
@@ -20182,7 +20426,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "12/12/18",
 				}, -- [4]
 			},
 			["дэлери-Борейскаятундра"] = {
@@ -20213,11 +20457,16 @@ RCLootCouncilLootDB = {
 			},
 			["ресточка-Борейскаятундра"] = {
 				{
-					["date"] = "24/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1540401047-6",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -20227,25 +20476,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540401047-6",
+					["date"] = "24/10/18",
 				}, -- [1]
 				{
+					["id"] = "1540482058-10",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540482058-10",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -20256,7 +20500,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 21,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -20284,16 +20528,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [3]
 				{
+					["id"] = "1540485027-20",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540485027-20",
 					["class"] = "DRUID",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -20304,7 +20548,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -20332,11 +20576,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [5]
 				{
-					["date"] = "28/10/18",
+					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Г'уун",
-					["id"] = "1540742008-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -20346,13 +20595,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1540742008-0",
+					["date"] = "28/10/18",
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -20380,16 +20624,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [7]
 				{
+					["id"] = "1541000204-14",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1541000204-14",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -20400,14 +20644,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 19,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [8]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "Талок",
-					["id"] = "1541604094-0",
+					["date"] = "07/11/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -20417,20 +20666,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
+					["id"] = "1541604094-0",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [9]
+				{
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [9]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Вектис",
-					["id"] = "1541608919-19",
+					["date"] = "07/11/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -20440,20 +20689,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/11/18",
+					["id"] = "1541608919-19",
+					["instance"] = "Ульдир-Героический",
+				}, -- [10]
+				{
+					["instance"] = "Ульдир-Героический",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Rejected Trade",
+					["boss"] = "Г'уун",
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [10]
-				{
-					["date"] = "11/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Rejected Trade",
-					["boss"] = "Г'уун",
-					["id"] = "1541951749-4",
 					["class"] = "DRUID",
 					["iSubClass"] = 10,
 					["groupSize"] = 21,
@@ -20463,13 +20712,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1541951749-4",
+					["date"] = "11/11/18",
 				}, -- [11]
 				{
 					["mapID"] = 1861,
@@ -20498,16 +20742,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [12]
 				{
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-					["mapID"] = 1877,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1549197397-1",
+					["mapID"] = 1877,
+					["date"] = "03/02/19",
+					["difficultyID"] = 8,
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 5,
@@ -20518,7 +20757,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Аватара Сетралисс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "03/02/19",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [13]
 				{
 					["mapID"] = 1841,
@@ -20889,11 +21133,16 @@ RCLootCouncilLootDB = {
 			},
 			["вафовна-Борейскаятундра"] = {
 				{
-					["date"] = "22/09/18",
+					["instance"] = "Святилище Штормов-Эпохальный ключ",
 					["mapID"] = 1864,
 					["groupSize"] = 5,
 					["boss"] = "Вол'зит Шепчущая",
-					["id"] = "1537636708-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -20903,20 +21152,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
+					["id"] = "1537636708-0",
+					["date"] = "22/09/18",
+				}, -- [1]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Святилище Штормов-Эпохальный ключ",
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зловонный пожиратель",
-					["id"] = "1537976962-9",
+					["date"] = "26/09/18",
 					["class"] = "HUNTER",
 					["iSubClass"] = 1,
 					["groupSize"] = 24,
@@ -20926,27 +21175,17 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537976962-9",
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 			},
 			["рангрид-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542556646-0",
+					["mapID"] = 1861,
+					["date"] = "18/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -20957,19 +21196,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "18/11/18",
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [1]
+				{
 					["id"] = "1544024556-7",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -20980,7 +21219,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "05/12/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 			},
 			["фламиника-Борейскаятундра"] = {
@@ -21782,16 +22026,16 @@ RCLootCouncilLootDB = {
 			},
 			["друндег-Борейскаятундра"] = {
 				{
+					["id"] = "1548257817-0",
+					["mapID"] = 2070,
+					["instance"] = "Битва за Дазар'алор-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["date"] = "23/01/19",
-					["difficultyID"] = 15,
-					["id"] = "1548257817-0",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -21802,7 +22046,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Воительница Света",
 					["responseID"] = "PL",
 					["groupSize"] = 21,
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["date"] = "23/01/19",
 				}, -- [1]
 				{
 					["mapID"] = 1643,
@@ -22026,11 +22270,16 @@ RCLootCouncilLootDB = {
 			},
 			["цейлон-Борейскаятундра"] = {
 				{
-					["date"] = "23/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1545579747-1",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "23/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 15,
@@ -22041,12 +22290,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 			},
 			["ромеох-Борейскаятундра"] = {
@@ -22076,11 +22320,16 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [1]
 				{
-					["date"] = "11/11/18",
+					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "Митракс",
-					["id"] = "1541950769-2",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["groupSize"] = 22,
@@ -22090,25 +22339,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1541950769-2",
+					["date"] = "11/11/18",
 				}, -- [2]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542556650-1",
+					["mapID"] = 1861,
+					["date"] = "18/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -22119,7 +22358,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["date"] = "18/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -22147,16 +22391,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542816081-9",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -22167,19 +22406,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
-				}, -- [5]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 15,
+				}, -- [5]
+				{
 					["id"] = "1542816770-12",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -22190,19 +22429,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 19,
-					["date"] = "21/11/18",
-				}, -- [6]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 15,
+				}, -- [6]
+				{
 					["id"] = "1542817977-20",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -22213,7 +22452,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [7]
 				{
 					["mapID"] = 2070,
@@ -22388,16 +22632,11 @@ RCLootCouncilLootDB = {
 			},
 			["фаннианни-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542814329-0",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -22408,19 +22647,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 15,
+				}, -- [1]
+				{
 					["id"] = "1542819337-28",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -22431,7 +22670,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
 					["mapID"] = 2070,
@@ -22512,16 +22756,11 @@ RCLootCouncilLootDB = {
 			},
 			["рыбосенька-Гордунни"] = {
 				{
-					["instance"] = "Belagerung von Boralus-Mythischer Schlüsselstein",
-					["mapID"] = 1822,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1539433766-0",
+					["mapID"] = 1822,
+					["date"] = "13/10/18",
+					["difficultyID"] = 8,
+					["instance"] = "Belagerung von Boralus-Mythischer Schlüsselstein",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
 					["groupSize"] = 5,
@@ -22532,7 +22771,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Viq'Goth",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "13/10/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 			},
 			["момск-Борейскаятундра"] = {
@@ -22855,16 +23099,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [1]
 				{
+					["id"] = "1539796276-22",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539796276-22",
 					["class"] = "PALADIN",
 					["iSubClass"] = 0,
 					["groupSize"] = 18,
@@ -22875,7 +23119,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -22930,11 +23174,16 @@ RCLootCouncilLootDB = {
 			},
 			["алоиза-Борейскаятундра"] = {
 				{
-					["date"] = "16/09/18",
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["mapID"] = 1877,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Аватара Сетралисс",
-					["id"] = "1537103158-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 5,
@@ -22944,20 +23193,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
+					["id"] = "1537103158-0",
+					["date"] = "16/09/18",
+				}, -- [1]
+				{
+					["instance"] = "Вольная Гавань-Эпохальный ключ",
+					["mapID"] = 1754,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Красавчик Харлан",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-				}, -- [1]
-				{
-					["date"] = "16/09/18",
-					["mapID"] = 1754,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Красавчик Харлан",
-					["id"] = "1537105597-1",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 5,
@@ -22967,25 +23216,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Вольная Гавань-Эпохальный ключ",
+					["id"] = "1537105597-1",
+					["date"] = "16/09/18",
 				}, -- [2]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "24/09/18",
 					["mapID"] = 1864,
 					["groupSize"] = 5,
 					["boss"] = "Вол'зит Шепчущая",
-					["id"] = "1537726136-0",
+					["instance"] = "Святилище Штормов-Эпохальный ключ",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -22995,15 +23234,25 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["instance"] = "Святилище Штормов-Эпохальный ключ",
-					["date"] = "24/09/18",
+					["id"] = "1537726136-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Вектис",
-					["id"] = "1537979554-17",
+					["date"] = "26/09/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 24,
@@ -23013,13 +23262,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537979554-17",
+					["instance"] = "Ульдир-Героический",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -23047,16 +23291,11 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 				}, -- [5]
 				{
-					["instance"] = "Belagerung von Boralus-Mythischer Schlüsselstein",
-					["mapID"] = 1822,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1539433771-1",
+					["mapID"] = 1822,
+					["date"] = "13/10/18",
+					["difficultyID"] = 8,
+					["instance"] = "Belagerung von Boralus-Mythischer Schlüsselstein",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -23067,14 +23306,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Viq'Goth",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "13/10/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [6]
 				{
-					["date"] = "15/10/18",
+					["instance"] = "Гробница королей-Эпохальный ключ",
 					["mapID"] = 1762,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Король Дазар",
-					["id"] = "1539609856-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 15,
 					["groupSize"] = 5,
@@ -23084,13 +23333,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Гробница королей-Эпохальный ключ",
+					["id"] = "1539609856-0",
+					["date"] = "15/10/18",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -23119,11 +23363,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 				}, -- [8]
 				{
-					["date"] = "24/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1540401070-8",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -23133,25 +23382,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540401070-8",
+					["date"] = "24/10/18",
 				}, -- [9]
 				{
+					["id"] = "1540485041-22",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540485041-22",
 					["class"] = "PRIEST",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23162,14 +23406,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [10]
 				{
-					["date"] = "28/10/18",
+					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Г'уун",
-					["id"] = "1540742074-2",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -23179,25 +23428,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Героический",
+					["id"] = "1540742074-2",
+					["date"] = "28/10/18",
 				}, -- [11]
 				{
+					["id"] = "1540999032-4",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540999032-4",
 					["class"] = "PRIEST",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23208,19 +23452,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [12]
 				{
+					["id"] = "1540999034-5",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540999034-5",
 					["class"] = "PRIEST",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23231,19 +23475,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [13]
 				{
+					["id"] = "1540999036-6",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540999036-6",
 					["class"] = "PRIEST",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23254,19 +23498,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [14]
 				{
+					["id"] = "1540999051-7",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540999051-7",
 					["class"] = "PRIEST",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23277,19 +23521,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [15]
 				{
+					["id"] = "1540999052-8",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540999052-8",
 					["class"] = "PRIEST",
 					["iSubClass"] = 5,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23300,7 +23544,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [16]
 				{
 					["mapID"] = 1861,
@@ -23380,16 +23624,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [19]
 				{
-					["instance"] = "Подгнилье-Эпохальный ключ",
-					["mapID"] = 1841,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1541352216-1",
+					["mapID"] = 1841,
+					["date"] = "04/11/18",
+					["difficultyID"] = 8,
+					["instance"] = "Подгнилье-Эпохальный ключ",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 5,
@@ -23400,14 +23639,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Освобожденное чудовище",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "04/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [20]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Талок",
-					["id"] = "1541606538-9",
+					["date"] = "07/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -23417,25 +23666,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "07/11/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541606538-9",
+					["instance"] = "Ульдир-Героический",
 				}, -- [21]
 				{
+					["id"] = "1541709237-0",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709237-0",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23446,19 +23690,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель теней Искар",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [22]
 				{
+					["id"] = "1541709237-1",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709237-1",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23469,19 +23713,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель теней Искар",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [23]
 				{
+					["id"] = "1541709237-2",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709237-2",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23492,19 +23736,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель теней Искар",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [24]
 				{
+					["id"] = "1541709237-3",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709237-3",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23515,19 +23759,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель теней Искар",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [25]
 				{
+					["id"] = "1541709237-4",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709237-4",
 					["class"] = "PRIEST",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23538,19 +23782,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель теней Искар",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [26]
 				{
+					["id"] = "1541709526-5",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709526-5",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23561,19 +23805,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Сокретар Вечный",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [27]
 				{
+					["id"] = "1541709526-6",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709526-6",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23584,19 +23828,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Сокретар Вечный",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [28]
 				{
+					["id"] = "1541709527-7",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709527-7",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23607,19 +23851,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Сокретар Вечный",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [29]
 				{
+					["id"] = "1541709527-8",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709527-8",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23630,19 +23874,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Сокретар Вечный",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [30]
 				{
+					["id"] = "1541709527-9",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709527-9",
 					["class"] = "PRIEST",
 					["iSubClass"] = 7,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23653,19 +23897,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Сокретар Вечный",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [31]
 				{
+					["id"] = "1541709527-10",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709527-10",
 					["class"] = "PRIEST",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23676,19 +23920,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Сокретар Вечный",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [32]
 				{
+					["id"] = "1541709982-11",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709982-11",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23699,19 +23943,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Деспотичная Велари",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [33]
 				{
+					["id"] = "1541709982-12",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709982-12",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23722,19 +23966,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Деспотичная Велари",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [34]
 				{
+					["id"] = "1541709982-13",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709982-13",
 					["class"] = "PRIEST",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23745,19 +23989,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Деспотичная Велари",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [35]
 				{
+					["id"] = "1541709982-14",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709982-14",
 					["class"] = "PRIEST",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23768,19 +24012,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Деспотичная Велари",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [36]
 				{
+					["id"] = "1541709982-15",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541709982-15",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23791,19 +24035,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Деспотичная Велари",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [37]
 				{
+					["id"] = "1541710306-16",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710306-16",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23814,19 +24058,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель Скверны Закуун",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [38]
 				{
+					["id"] = "1541710306-17",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710306-17",
 					["class"] = "PRIEST",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23837,19 +24081,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель Скверны Закуун",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [39]
 				{
+					["id"] = "1541710307-18",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710307-18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23860,19 +24104,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель Скверны Закуун",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [40]
 				{
+					["id"] = "1541710307-19",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710307-19",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23883,19 +24127,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель Скверны Закуун",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [41]
 				{
+					["id"] = "1541710307-20",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710307-20",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23906,19 +24150,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Повелитель Скверны Закуун",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [42]
 				{
+					["id"] = "1541710526-21",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710526-21",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23929,19 +24173,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ксул'горак",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [43]
 				{
+					["id"] = "1541710526-22",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710526-22",
 					["class"] = "PRIEST",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23952,19 +24196,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ксул'горак",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [44]
 				{
+					["id"] = "1541710526-23",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710526-23",
 					["class"] = "PRIEST",
 					["iSubClass"] = 10,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23975,19 +24219,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ксул'горак",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [45]
 				{
+					["id"] = "1541710526-24",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710526-24",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -23998,19 +24242,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ксул'горак",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [46]
 				{
+					["id"] = "1541710526-25",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710526-25",
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -24021,19 +24265,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ксул'горак",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [47]
 				{
+					["id"] = "1541710527-26",
+					["mapID"] = 1448,
+					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1448,
-					["date"] = "09/11/18",
-					["difficultyID"] = 16,
-					["id"] = "1541710527-26",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -24044,14 +24288,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ксул'горак",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Цитадель Адского Пламени-Эпохальный",
+					["date"] = "09/11/18",
 				}, -- [48]
 				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1543160943-7",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "25/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -24062,19 +24311,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 25,
+					["instance"] = "Ульдир-Героический",
+				}, -- [49]
+				{
+					["id"] = "1543165955-11",
+					["mapID"] = 1861,
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [49]
-				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1543165955-11",
+					["date"] = "25/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -24085,24 +24334,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL",
 					["groupSize"] = 23,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [50]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543505706-1",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PRIEST",
 					["iSubClass"] = 19,
 					["groupSize"] = 20,
@@ -24113,19 +24352,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
-				}, -- [51]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [51]
+				{
 					["id"] = "1544024548-4",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -24136,14 +24375,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "05/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [52]
 				{
-					["date"] = "12/12/18",
-					["mapID"] = 1643,
-					["instance"] = "Кул-Тирас-",
-					["difficultyID"] = 0,
 					["id"] = "1544621472-0",
+					["mapID"] = 1643,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 0,
+					["date"] = "12/12/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -24154,24 +24403,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Неизвестно",
 					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Кул-Тирас-",
 				}, -- [53]
 				{
+					["id"] = "1544629002-0",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "12/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544629002-0",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -24182,7 +24426,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "12/12/18",
 				}, -- [54]
 				{
 					["mapID"] = 2070,
@@ -24211,16 +24455,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [55]
 				{
-					["instance"] = "Храм Сетралисс-Эпохальный ключ",
-					["mapID"] = 1877,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1549197401-2",
+					["mapID"] = 1877,
+					["date"] = "03/02/19",
+					["difficultyID"] = 8,
+					["instance"] = "Храм Сетралисс-Эпохальный ключ",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
 					["groupSize"] = 5,
@@ -24231,7 +24470,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Аватара Сетралисс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "03/02/19",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [56]
 				{
 					["mapID"] = 2070,
@@ -24524,11 +24768,16 @@ RCLootCouncilLootDB = {
 			},
 			["вилиолета-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537975847-0",
+					["date"] = "26/09/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 24,
@@ -24538,20 +24787,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537975847-0",
+					["instance"] = "Ульдир-Героический",
+				}, -- [1]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зек'воз",
-					["id"] = "1537981321-21",
+					["date"] = "26/09/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 23,
@@ -24561,20 +24810,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
+					["id"] = "1537981321-21",
+					["instance"] = "Ульдир-Героический",
+				}, -- [2]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [2]
-				{
-					["instance"] = "Ульдир-Обычный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537982466-24",
+					["date"] = "26/09/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 17,
@@ -24584,13 +24833,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537982466-24",
+					["instance"] = "Ульдир-Обычный",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -24722,16 +24966,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [1]
 				{
-					["instance"] = "Тол Дагор-Эпохальный ключ",
-					["mapID"] = 1771,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1540490737-29",
+					["mapID"] = 1771,
+					["date"] = "26/10/18",
+					["difficultyID"] = 8,
+					["instance"] = "Тол Дагор-Эпохальный ключ",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -24742,7 +24981,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Надзиратель Корги",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "26/10/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
 					["mapID"] = 1754,
@@ -24943,16 +25187,11 @@ RCLootCouncilLootDB = {
 			},
 			["натее-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1538067441-2",
+					["mapID"] = 1861,
+					["date"] = "27/09/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -24963,7 +25202,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "27/09/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -24991,16 +25235,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [2]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1545234684-6",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "WARRIOR",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -25011,7 +25250,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "19/12/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -25041,11 +25285,16 @@ RCLootCouncilLootDB = {
 			},
 			["ракотдемон-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Талок",
-					["id"] = "1541606407-8",
+					["date"] = "07/11/18",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -25055,13 +25304,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541606407-8",
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -25115,11 +25359,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 				}, -- [3]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1543419858-1",
+					["date"] = "28/11/18",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 0,
 					["groupSize"] = 29,
@@ -25129,25 +25378,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543419858-1",
+					["instance"] = "Ульдир-Героический",
 				}, -- [4]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543505703-0",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -25158,19 +25397,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
-				}, -- [5]
-				{
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+				}, -- [5]
+				{
+					["date"] = "09/12/18",
 					["mapID"] = 1861,
 					["groupSize"] = 18,
 					["boss"] = "Зул",
-					["id"] = "1544372242-8",
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -25180,8 +25419,13 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["instance"] = "Ульдир-Героический",
-					["date"] = "09/12/18",
+					["id"] = "1544372242-8",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -25209,16 +25453,16 @@ RCLootCouncilLootDB = {
 					["id"] = "1544373017-11",
 				}, -- [7]
 				{
+					["id"] = "1544978153-3",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "16/12/18",
-					["difficultyID"] = 16,
-					["id"] = "1544978153-3",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -25229,7 +25473,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "16/12/18",
 				}, -- [8]
 			},
 			["варнепал-Гордунни"] = {
@@ -25260,11 +25504,16 @@ RCLootCouncilLootDB = {
 			},
 			["эстрея-Борейскаятундра"] = {
 				{
-					["date"] = "13/10/18",
-					["mapID"] = 1763,
-					["instance"] = "Атал'Дазар-Эпохальный ключ",
-					["difficultyID"] = 8,
 					["id"] = "1539446306-1",
+					["mapID"] = 1763,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 8,
+					["date"] = "13/10/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -25275,19 +25524,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Язма",
 					["responseID"] = "PL",
 					["groupSize"] = 5,
+					["instance"] = "Атал'Дазар-Эпохальный ключ",
+				}, -- [1]
+				{
+					["id"] = "1539613008-1",
+					["mapID"] = 1862,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-				{
-					["date"] = "15/10/18",
-					["mapID"] = 1862,
-					["instance"] = "Усадьба Уэйкрестов-Эпохальный ключ",
 					["difficultyID"] = 8,
-					["id"] = "1539613008-1",
+					["date"] = "15/10/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -25298,24 +25547,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Горак Тул",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Усадьба Уэйкрестов-Эпохальный ключ",
 				}, -- [2]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "07/11/18",
 					["mapID"] = 1762,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Золотой Змей",
-					["id"] = "1541537735-0",
+					["instance"] = "Гробница королей-Эпохальный",
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
 					["groupSize"] = 5,
@@ -25325,17 +25564,27 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 23,
 					["responseID"] = "PL",
-					["instance"] = "Гробница королей-Эпохальный",
-					["date"] = "07/11/18",
+					["id"] = "1541537735-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 			},
 			["саджет-Борейскаятундра"] = {
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1537975850-4",
+					["date"] = "26/09/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 24,
@@ -25345,25 +25594,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537975850-4",
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1539274389-0",
+					["mapID"] = 1861,
+					["date"] = "11/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 16,
@@ -25374,7 +25613,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "11/10/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -25427,16 +25671,16 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [4]
 				{
+					["id"] = "1539795666-20",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539795666-20",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 18,
@@ -25447,7 +25691,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зул",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -25475,16 +25719,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [6]
 				{
+					["id"] = "1540483396-17",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "25/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540483396-17",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -25495,7 +25739,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL",
 					["groupSize"] = 22,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "25/10/18",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -25548,16 +25792,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [9]
 				{
+					["id"] = "1540999519-9",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1540999519-9",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -25568,7 +25812,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 17,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [10]
 				{
 					["mapID"] = 1861,
@@ -25622,16 +25866,11 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [12]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1542208778-3",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 21,
@@ -25642,7 +25881,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "14/11/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [13]
 				{
 					["mapID"] = 1861,
@@ -25670,16 +25914,11 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [14]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542816074-7",
+					["mapID"] = 1861,
+					["date"] = "21/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -25690,7 +25929,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "21/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [15]
 				{
 					["mapID"] = 1861,
@@ -25719,11 +25963,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [16]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Rejected Trade",
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1543419869-3",
+					["date"] = "28/11/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 29,
@@ -25733,25 +25982,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL_REJECT",
-					["date"] = "28/11/18",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543419869-3",
+					["instance"] = "Ульдир-Героический",
 				}, -- [17]
 				{
-					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный ключ",
-					["mapID"] = 1594,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 8,
 					["id"] = "1544031887-9",
+					["mapID"] = 1594,
+					["date"] = "05/12/18",
+					["difficultyID"] = 8,
+					["instance"] = "ЗОЛОТАЯ ЖИЛА!!!-Эпохальный ключ",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 1,
 					["groupSize"] = 5,
@@ -25762,7 +26001,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "Шеф Разданк",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "05/12/18",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [18]
 				{
 					["mapID"] = 1861,
@@ -25790,16 +26034,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 				}, -- [19]
 				{
+					["id"] = "1547398797-0",
+					["mapID"] = 967,
+					["instance"] = "Душа Дракона-25 игроков",
+					["difficultyID"] = 4,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 967,
-					["date"] = "13/01/19",
-					["difficultyID"] = 4,
-					["id"] = "1547398797-0",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 25,
@@ -25810,19 +26054,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ультраксион",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Душа Дракона-25 игроков",
+					["date"] = "13/01/19",
 				}, -- [20]
 				{
+					["id"] = "1547398798-1",
+					["mapID"] = 967,
+					["instance"] = "Душа Дракона-25 игроков",
+					["difficultyID"] = 4,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 967,
-					["date"] = "13/01/19",
-					["difficultyID"] = 4,
-					["id"] = "1547398798-1",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 25,
@@ -25833,19 +26077,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ультраксион",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Душа Дракона-25 игроков",
+					["date"] = "13/01/19",
 				}, -- [21]
 				{
+					["id"] = "1547398798-2",
+					["mapID"] = 967,
+					["instance"] = "Душа Дракона-25 игроков",
+					["difficultyID"] = 4,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 967,
-					["date"] = "13/01/19",
-					["difficultyID"] = 4,
-					["id"] = "1547398798-2",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 25,
@@ -25856,19 +26100,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ультраксион",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Душа Дракона-25 игроков",
+					["date"] = "13/01/19",
 				}, -- [22]
 				{
+					["id"] = "1547398798-3",
+					["mapID"] = 967,
+					["instance"] = "Душа Дракона-25 игроков",
+					["difficultyID"] = 4,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 967,
-					["date"] = "13/01/19",
-					["difficultyID"] = 4,
-					["id"] = "1547398798-3",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 25,
@@ -25879,19 +26123,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ультраксион",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Душа Дракона-25 игроков",
+					["date"] = "13/01/19",
 				}, -- [23]
 				{
+					["id"] = "1547398798-4",
+					["mapID"] = 967,
+					["instance"] = "Душа Дракона-25 игроков",
+					["difficultyID"] = 4,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 967,
-					["date"] = "13/01/19",
-					["difficultyID"] = 4,
-					["id"] = "1547398798-4",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 2,
 					["groupSize"] = 25,
@@ -25902,19 +26146,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Ультраксион",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Душа Дракона-25 игроков",
+					["date"] = "13/01/19",
 				}, -- [24]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "20/01/19",
 					["mapID"] = 1754,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Йо-хо-хо-лизей",
-					["id"] = "1548004094-0",
+					["instance"] = "Вольная Гавань-Эпохальный ключ",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
 					["groupSize"] = 5,
@@ -25924,8 +26163,13 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["instance"] = "Вольная Гавань-Эпохальный ключ",
-					["date"] = "20/01/19",
+					["id"] = "1548004094-0",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [25]
 				{
 					["mapID"] = 2070,
@@ -27065,11 +27309,16 @@ RCLootCouncilLootDB = {
 			},
 			["аэровафли-Борейскаятундра"] = {
 				{
-					["instance"] = "Усадьба Уэйкрестов-Эпохальный ключ",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1862,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Горак Тул",
-					["id"] = "1540651736-0",
+					["date"] = "27/10/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 5,
@@ -27079,39 +27328,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
-					["date"] = "27/10/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
-			},
-			["альмафлора-Борейскаятундра"] = {
-				{
-					["mapID"] = 2070,
-					["date"] = "17/03/19",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 10,
-					["groupSize"] = 20,
-					["boss"] = "Король Растахан",
-					["time"] = "22:48:27",
-					["iClass"] = 2,
-					["id"] = "1552841307-5",
-					["owner"] = "альмафлора-Борейскаятундра",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165597::::::::120:264::5:3:4799:1522:4786:::|h[Шпиль вестника смерти]|h|r",
-					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Битва за Дазар'алор-Героический",
+					["id"] = "1540651736-0",
+					["instance"] = "Усадьба Уэйкрестов-Эпохальный ключ",
 				}, -- [1]
 			},
 			["гриддис-Борейскаятундра"] = {
@@ -27140,18 +27358,44 @@ RCLootCouncilLootDB = {
 					["instance"] = "Битва за Дазар'алор-Героический",
 				}, -- [1]
 			},
+			["изщадье-Галакронд"] = {
+				{
+					["mapID"] = 1861,
+					["date"] = "17/10/18",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 17,
+					["votes"] = 0,
+					["time"] = "23:12:24",
+					["iClass"] = 4,
+					["id"] = "1539796344-25",
+					["response"] = "Вышел из сети или RCLootCouncil не установлен",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:163596::::::::120:250::5:3:4823:1492:4786:::|h[Клобук мрачного предвестия]|h|r",
+					["color"] = {
+						0.5, -- [1]
+						0.5, -- [2]
+						0.5, -- [3]
+						1, -- [4]
+					},
+					["instance"] = "Ульдир-Героический",
+					["responseID"] = "NOTHING",
+					["boss"] = "Митракс",
+					["isAwardReason"] = false,
+				}, -- [1]
+			},
 			["орбенлок-Борейскаятундра"] = {
 				{
+					["id"] = "1539789366-0",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539789366-0",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 16,
@@ -27162,19 +27406,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [1]
 				{
+					["id"] = "1539791089-6",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539791089-6",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 16,
@@ -27185,16 +27429,21 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [2]
 			},
 			["блэкмор-Борейскаятундра"] = {
 				{
-					["date"] = "23/09/18",
+					["instance"] = "Святилище Штормов-Эпохальный ключ",
 					["mapID"] = 1864,
 					["groupSize"] = 5,
 					["boss"] = "Вол'зит Шепчущая",
-					["id"] = "1537642930-1",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARLOCK",
 					["iSubClass"] = 10,
 					["response"] = "Personal Loot - Non tradeable",
@@ -27204,20 +27453,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 8,
 					["responseID"] = "PL",
+					["id"] = "1537642930-1",
+					["date"] = "23/09/18",
+				}, -- [1]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Святилище Штормов-Эпохальный ключ",
-				}, -- [1]
-				{
-					["instance"] = "Ульдир-Героический",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Зек'воз",
-					["id"] = "1537981321-22",
+					["date"] = "26/09/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 23,
@@ -27227,25 +27476,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "26/09/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1537981321-22",
+					["instance"] = "Ульдир-Героический",
 				}, -- [2]
 				{
-					["instance"] = "Ульдир-Героический",
-					["mapID"] = 1861,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 15,
 					["id"] = "1539274397-2",
+					["mapID"] = 1861,
+					["date"] = "11/10/18",
+					["difficultyID"] = 15,
+					["instance"] = "Ульдир-Героический",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 16,
@@ -27256,19 +27495,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "11/10/18",
-				}, -- [3]
-				{
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
+				}, -- [3]
+				{
 					["id"] = "1539793875-15",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 16,
@@ -27279,14 +27523,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [4]
 				{
-					["date"] = "24/10/18",
+					["instance"] = "Ульдир-Эпохальный",
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Талок",
-					["id"] = "1540396474-1",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARLOCK",
 					["iSubClass"] = 19,
 					["groupSize"] = 20,
@@ -27296,25 +27545,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Ульдир-Эпохальный",
+					["id"] = "1540396474-1",
+					["date"] = "24/10/18",
 				}, -- [5]
 				{
+					["id"] = "1541000151-13",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1541000151-13",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 10,
 					["response"] = "Personal Loot - Non tradeable",
@@ -27325,7 +27569,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зловонный пожиратель",
 					["responseID"] = "PL",
 					["groupSize"] = 19,
-					["instance"] = "Ульдир-Героический",
+					["date"] = "31/10/18",
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -27353,11 +27597,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [7]
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1541088474-7",
+					["mapID"] = 1861,
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "01/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -27368,12 +27617,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 18,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [8]
 				{
 					["mapID"] = 1861,
@@ -27401,11 +27645,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 				}, -- [9]
 				{
-					["instance"] = "Ульдир-Эпохальный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["groupSize"] = 20,
 					["boss"] = "МАТРИАРХ",
-					["id"] = "1541605534-3",
+					["date"] = "07/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -27415,13 +27664,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "07/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1541605534-3",
+					["instance"] = "Ульдир-Эпохальный",
 				}, -- [10]
 				{
 					["mapID"] = 1861,
@@ -27449,16 +27693,11 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [11]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1542211939-11",
+					["mapID"] = 1861,
+					["date"] = "14/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -27469,14 +27708,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "14/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [12]
 				{
-					["instance"] = "Ульдир-Героический",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
 					["boss"] = "Митракс",
-					["id"] = "1543423760-11",
+					["date"] = "28/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 28,
@@ -27486,25 +27735,15 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "28/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1543423760-11",
+					["instance"] = "Ульдир-Героический",
 				}, -- [13]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543505709-2",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -27515,19 +27754,24 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
-				}, -- [14]
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "16/12/18",
-					["difficultyID"] = 16,
+				}, -- [14]
+				{
 					["id"] = "1544978117-0",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
 					["groupSize"] = 20,
@@ -27538,7 +27782,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Зек'воз",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "16/12/18",
 				}, -- [15]
 				{
 					["mapID"] = 2070,
@@ -27807,11 +28051,16 @@ RCLootCouncilLootDB = {
 			},
 			["деенвер-Азурегос"] = {
 				{
-					["date"] = "26/12/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Эпохальный",
-					["difficultyID"] = 16,
 					["id"] = "1545838855-1",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 16,
+					["date"] = "26/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -27822,21 +28071,21 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Ульдир-Эпохальный",
+				}, -- [1]
+			},
+			["амерзула-Борейскаятундра"] = {
+				{
+					["id"] = "1537717489-0",
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
-			},
-			["амерзула-Борейскаятундра"] = {
-				{
-					["date"] = "23/09/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1537717489-0",
+					["date"] = "23/09/18",
 					["class"] = "HUNTER",
 					["iSubClass"] = 2,
 					["groupSize"] = 20,
@@ -27847,12 +28096,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [1]
 			},
 			["Cownter-TheMaelstrom"] = {
@@ -27908,16 +28152,16 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 				}, -- [1]
 				{
+					["id"] = "1539796260-21",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Героический",
+					["difficultyID"] = 15,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "17/10/18",
-					["difficultyID"] = 15,
-					["id"] = "1539796260-21",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 18,
@@ -27928,7 +28172,7 @@ RCLootCouncilLootDB = {
 					["boss"] = "Митракс",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["instance"] = "Ульдир-Героический",
+					["date"] = "17/10/18",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -27981,16 +28225,16 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 				{
+					["id"] = "1541001732-18",
+					["mapID"] = 1861,
+					["instance"] = "Ульдир-Эпохальный",
+					["difficultyID"] = 16,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["date"] = "31/10/18",
-					["difficultyID"] = 16,
-					["id"] = "1541001732-18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28001,14 +28245,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Талок",
 					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Ульдир-Эпохальный",
+					["date"] = "31/10/18",
 				}, -- [5]
 				{
-					["date"] = "15/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
-					["difficultyID"] = 15,
 					["id"] = "1542296182-4",
+					["mapID"] = 1861,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["difficultyID"] = 15,
+					["date"] = "15/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28019,19 +28268,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "Вектис",
 					["responseID"] = "PL",
 					["groupSize"] = 18,
+					["instance"] = "Ульдир-Героический",
+				}, -- [6]
+				{
+					["id"] = "1543165927-10",
+					["mapID"] = 1861,
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [6]
-				{
-					["date"] = "25/11/18",
-					["mapID"] = 1861,
-					["instance"] = "Ульдир-Героический",
 					["difficultyID"] = 15,
-					["id"] = "1543165927-10",
+					["date"] = "25/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Rejected Trade",
@@ -28042,24 +28291,14 @@ RCLootCouncilLootDB = {
 					["boss"] = "Г'уун",
 					["responseID"] = "PL_REJECT",
 					["groupSize"] = 23,
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["instance"] = "Ульдир-Героический",
 				}, -- [7]
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543507125-4",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 20,
@@ -28070,19 +28309,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
-				}, -- [8]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [8]
+				{
 					["id"] = "1544024549-5",
+					["mapID"] = 1861,
+					["date"] = "05/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -28093,19 +28332,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "05/12/18",
-				}, -- [9]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						1, -- [1]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [9]
+				{
 					["id"] = "1545234687-7",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 4,
 					["groupSize"] = 20,
@@ -28116,19 +28355,19 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "19/12/18",
-				}, -- [10]
-				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
 					["color"] = {
 						0.2, -- [1]
 						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["difficultyID"] = 16,
+				}, -- [10]
+				{
 					["id"] = "1547652480-2",
+					["mapID"] = 1861,
+					["date"] = "16/01/19",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
 					["groupSize"] = 20,
@@ -28139,7 +28378,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL_REJECT",
 					["response"] = "Personal Loot - Rejected Trade",
-					["date"] = "16/01/19",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [11]
 				{
 					["mapID"] = 1643,
@@ -28317,16 +28561,11 @@ RCLootCouncilLootDB = {
 			},
 			["скатина-Азурегос"] = {
 				{
-					["instance"] = "Ульдир-Эпохальный",
-					["mapID"] = 1861,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["difficultyID"] = 16,
 					["id"] = "1543507140-6",
+					["mapID"] = 1861,
+					["date"] = "29/11/18",
+					["difficultyID"] = 16,
+					["instance"] = "Ульдир-Эпохальный",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 20,
@@ -28337,7 +28576,12 @@ RCLootCouncilLootDB = {
 					["boss"] = "МАТРИАРХ",
 					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "29/11/18",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -28392,16 +28636,11 @@ RCLootCouncilLootDB = {
 			},
 			["алтери-Борейскаятундра"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["date"] = "17/09/18",
 					["mapID"] = 1841,
 					["groupSize"] = 5,
 					["boss"] = "Старейшина Ликса",
-					["id"] = "1537126696-0",
+					["instance"] = "Подгнилье-Эпохальный",
 					["class"] = "ROGUE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28411,20 +28650,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 23,
 					["responseID"] = "PL",
-					["instance"] = "Подгнилье-Эпохальный",
-					["date"] = "17/09/18",
-				}, -- [1]
-				{
+					["id"] = "1537126696-0",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+				}, -- [1]
+				{
+					["date"] = "17/09/18",
 					["mapID"] = 1841,
 					["groupSize"] = 5,
 					["boss"] = "Освобожденное чудовище",
-					["id"] = "1537128146-1",
+					["instance"] = "Подгнилье-Эпохальный",
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28434,15 +28673,25 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 23,
 					["responseID"] = "PL",
-					["instance"] = "Подгнилье-Эпохальный",
-					["date"] = "17/09/18",
+					["id"] = "1537128146-1",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
-					["instance"] = "Литейная клана Черной горы-Обычный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542917959-0",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 7,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28452,20 +28701,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1542917959-0",
+					["instance"] = "Литейная клана Черной горы-Обычный",
 				}, -- [3]
 				{
-					["instance"] = "Литейная клана Черной горы-Обычный",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542917959-1",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 7,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28475,20 +28724,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542917959-1",
+					["instance"] = "Литейная клана Черной горы-Обычный",
+				}, -- [4]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [4]
-				{
-					["instance"] = "Литейная клана Черной горы-Обычный",
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542917959-2",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28498,20 +28747,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542917959-2",
+					["instance"] = "Литейная клана Черной горы-Обычный",
+				}, -- [5]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [5]
-				{
-					["instance"] = "Литейная клана Черной горы-Обычный",
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542917959-3",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 7,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28521,20 +28770,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542917959-3",
+					["instance"] = "Литейная клана Черной горы-Обычный",
+				}, -- [6]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [6]
-				{
-					["instance"] = "Литейная клана Черной горы-Обычный",
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542917960-4",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28544,20 +28793,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 14,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542917960-4",
+					["instance"] = "Литейная клана Черной горы-Обычный",
+				}, -- [7]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [7]
-				{
-					["instance"] = "Литейная клана Черной горы-Героический",
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542918916-5",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28567,20 +28816,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542918916-5",
+					["instance"] = "Литейная клана Черной горы-Героический",
+				}, -- [8]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [8]
-				{
-					["instance"] = "Литейная клана Черной горы-Героический",
 					["mapID"] = 1205,
 					["groupSize"] = 10,
 					["boss"] = "Груул",
-					["id"] = "1542918916-6",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 4,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28590,20 +28839,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 15,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542918916-6",
+					["instance"] = "Литейная клана Черной горы-Героический",
+				}, -- [9]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [9]
-				{
-					["instance"] = "Литейная клана Черной горы-Эпохальный",
 					["mapID"] = 1205,
 					["groupSize"] = 20,
 					["boss"] = "Груул",
-					["id"] = "1542923439-7",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28613,20 +28862,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542923439-7",
+					["instance"] = "Литейная клана Черной горы-Эпохальный",
+				}, -- [10]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [10]
-				{
-					["instance"] = "Литейная клана Черной горы-Эпохальный",
 					["mapID"] = 1205,
 					["groupSize"] = 20,
 					["boss"] = "Груул",
-					["id"] = "1542923439-8",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28636,20 +28885,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542923439-8",
+					["instance"] = "Литейная клана Черной горы-Эпохальный",
+				}, -- [11]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [11]
-				{
-					["instance"] = "Литейная клана Черной горы-Эпохальный",
 					["mapID"] = 1205,
 					["groupSize"] = 20,
 					["boss"] = "Груул",
-					["id"] = "1542923440-9",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28659,20 +28908,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542923440-9",
+					["instance"] = "Литейная клана Черной горы-Эпохальный",
+				}, -- [12]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [12]
-				{
-					["instance"] = "Литейная клана Черной горы-Эпохальный",
 					["mapID"] = 1205,
 					["groupSize"] = 20,
 					["boss"] = "Груул",
-					["id"] = "1542923440-10",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 0,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28682,20 +28931,20 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
+					["id"] = "1542923440-10",
+					["instance"] = "Литейная клана Черной горы-Эпохальный",
+				}, -- [13]
+				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [13]
-				{
-					["instance"] = "Литейная клана Черной горы-Эпохальный",
 					["mapID"] = 1205,
 					["groupSize"] = 20,
 					["boss"] = "Груул",
-					["id"] = "1542923440-11",
+					["date"] = "23/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 1,
 					["response"] = "Personal Loot - Non tradeable",
@@ -28705,13 +28954,8 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["difficultyID"] = 16,
 					["responseID"] = "PL",
-					["date"] = "23/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["id"] = "1542923440-11",
+					["instance"] = "Литейная клана Черной горы-Эпохальный",
 				}, -- [14]
 			},
 			["рыбонькамоя-ВечнаяПесня"] = {

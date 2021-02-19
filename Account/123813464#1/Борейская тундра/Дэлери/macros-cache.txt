@@ -1,7 +1,15 @@
+VER 3 0100000000000009 "Elisium" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Элизийский декрет
+END
 VER 3 0100000000000005 "Enemy" "INV_MISC_QUESTIONMARK"
 #showtooltip Заклятый враг
 /use Рог доблести
 /cast Заклятый враг
+END
+VER 3 0100000000000008 "FireSeal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Печать огня
 END
 VER 3 0100000000000003 "Interrupt" "INV_MISC_QUESTIONMARK"
 #showtooltip Поглощение магии

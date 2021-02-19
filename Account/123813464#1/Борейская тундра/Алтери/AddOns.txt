@@ -210,3 +210,4 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 Gnosis: disabled
 UnitFramesImproved: disabled
+LittleWigs_Classic: enabled

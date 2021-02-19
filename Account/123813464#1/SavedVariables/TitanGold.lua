@@ -3,7 +3,7 @@ GoldSave = {
 	["Ниамэй_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниамэй",
-		["gold"] = 2340477756,
+		["gold"] = 2595009560,
 	},
 	["Нирейя_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -18,12 +18,12 @@ GoldSave = {
 	["Дэлери_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Дэлери",
-		["gold"] = 709428160,
+		["gold"] = 716776144,
 	},
 	["Алоиза_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алоиза",
-		["gold"] = 14048774586,
+		["gold"] = 14048972502,
 	},
 	["Сайбил_Борейская тундра::Horde"] = {
 		["show"] = true,
@@ -38,12 +38,12 @@ GoldSave = {
 	["Алоиза_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алоиза",
-		["gold"] = 451106569,
+		["gold"] = 457305224,
 	},
 	["Ниэтта_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниэтта",
-		["gold"] = 3885640398,
+		["gold"] = 4157344477,
 	},
 	["Элави_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -53,12 +53,12 @@ GoldSave = {
 	["Алтери_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алтери",
-		["gold"] = 1147181269,
+		["gold"] = 1151051179,
 	},
 	["Фламинника_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Фламинника",
-		["gold"] = 11519329245,
+		["gold"] = 11526188004,
 	},
 	["Altery_Durotan::Alliance"] = {
 		["show"] = true,
@@ -68,22 +68,22 @@ GoldSave = {
 	["Дэлери_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Дэлери",
-		["gold"] = 1228706309,
+		["gold"] = 1035261020,
 	},
-	["Elavi_Durotan::Alliance"] = {
+	["Delery_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Elavi",
-		["gold"] = 1728,
+		["name"] = "Delery",
+		["gold"] = 4444000,
 	},
 	["Эстрея_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Эстрея",
 		["gold"] = 4303602218,
 	},
-	["Хилопятьумер_Гордунни::Alliance"] = {
+	["Flaminika_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Хилопятьумер",
-		["gold"] = 0,
+		["name"] = "Flaminika",
+		["gold"] = 3021328,
 	},
 	["Ниоши_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -95,19 +95,19 @@ GoldSave = {
 		["name"] = "Эрника",
 		["gold"] = 3093208,
 	},
-	["Flaminika_Durotan::Alliance"] = {
+	["Хилопятьумер_Гордунни::Alliance"] = {
 		["show"] = true,
-		["name"] = "Flaminika",
-		["gold"] = 3021328,
+		["name"] = "Хилопятьумер",
+		["gold"] = 0,
 	},
 	["Эстрэя_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Эстрэя",
-		["gold"] = 2394198747,
+		["gold"] = 2208481833,
 	},
-	["Delery_Durotan::Alliance"] = {
+	["Elavi_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Delery",
-		["gold"] = 4444000,
+		["name"] = "Elavi",
+		["gold"] = 1728,
 	},
 }

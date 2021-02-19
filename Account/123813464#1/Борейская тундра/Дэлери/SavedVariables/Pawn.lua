@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Дэлери-Борейская тундра",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0414,
 	["ItemLevels"] = {
 		{
 			["ID"] = 155888,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:172197:5962:168642::::::120:577::5:8:4823:1808:6569:6578:6579:1502:4786:6513:::|h[Сочащийся проникатель]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Дэлери-Борейская тундра",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

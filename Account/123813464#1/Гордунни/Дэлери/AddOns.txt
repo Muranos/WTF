@@ -44,3 +44,15 @@ UnitFramesImproved: disabled
 Castbars: enabled
 Gnosis: disabled
 TwintopInsanityBar: disabled
+TomCats-ArathiHighlandsRares: disabled
+TomCats-DarkshoreRares: disabled
+TomCats-Mechagon: disabled
+TomCats-Nazjatar: disabled
+TomCats-WarfrontsCommandCenter: disabled
+TomCats-Complete: disabled
+TomCats-ChildrensWeek: disabled
+TomCats-HallowsEnd: disabled
+TomCats-LoveIsInTheAir: disabled
+TomCats-LunarFestival: disabled
+TomCats-Noblegarden: disabled
+LittleWigs_Classic: enabled

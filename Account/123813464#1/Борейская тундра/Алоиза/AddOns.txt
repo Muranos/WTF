@@ -217,3 +217,14 @@ Gnosis: disabled
 UnitFramesImproved: disabled
 TwintopInsanityBar: disabled
 TomCats-Nzoth: disabled
+TomCats-ArathiHighlandsRares: disabled
+TomCats-Mechagon: disabled
+TomCats-Nazjatar: disabled
+TomCats-WarfrontsCommandCenter: disabled
+TomCats-Complete: disabled
+TomCats-ChildrensWeek: disabled
+TomCats-HallowsEnd: disabled
+TomCats-LoveIsInTheAir: disabled
+TomCats-LunarFestival: disabled
+TomCats-Noblegarden: disabled
+LittleWigs_Classic: enabled

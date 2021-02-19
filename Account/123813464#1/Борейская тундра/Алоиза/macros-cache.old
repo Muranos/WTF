@@ -69,8 +69,8 @@ VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
 /dismount [mounted]
 END
 VER 3 010000000000001D "VuhDoDCShieldData" "Ability_Repair"
-R1WM1WM1IR1WM1DR2DR2HM2MR2OH2WM3DH3RM3EM[x]3PT4HR4OM4WM4HR5PM5PM5PM6PM6PM6PH6LR7LR7NM7DR7NT8DR8OM8NT8PM[x][x][x][x][x][x]3IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 010000000000001E "VuhDoDCShieldNames" "Ability_Repair"
-NAwiMalNanThoYulHorAmiJacAstColTelLilDel[x]MirSnoMotNigBarPalSîrÐaiValГарKarFeaГачAviXvoAbrKhaBarArnMai[x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Spi[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

@@ -166,7 +166,7 @@ Scrap: enabled
 SexyMap: enabled
 Simulationcraft: enabled
 TidyPlates_ThreatPlates: enabled
-TomCats: disabled
+TomCats: enabled
 DBM-Azeroth-BfA: disabled
 DBM-ZuldazarRaid: disabled
 DBM-Party-BfA: disabled
@@ -215,3 +215,17 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 UnitFramesImproved: disabled
 Gnosis: disabled
+TomCats-ArathiHighlandsRares: disabled
+TomCats-Mechagon: disabled
+TomCats-Nazjatar: disabled
+TomCats-Nzoth: disabled
+TomCats-WarfrontsCommandCenter: disabled
+TomCats-Complete: disabled
+TomCats-ChildrensWeek: disabled
+TomCats-HallowsEnd: disabled
+TomCats-LoveIsInTheAir: disabled
+TomCats-LunarFestival: disabled
+TomCats-Noblegarden: disabled
+LittleWigs_Classic: enabled
+BigWigs_Shadowlands: enabled
+LittleWigs_MistsOfPandaria: enabled

@@ -11,12 +11,12 @@ Details_StreamerDB = {
 		["Дэлери - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Фламиника - Борейская тундра",
-		["Elavi - Durotan"] = "Фламиника - Борейская тундра",
-		["Эрника - Борейская тундра"] = "Фламиника - Борейская тундра",
-		["Delery - Durotan"] = "Фламиника - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Flaminika - Durotan"] = "Фламиника - Борейская тундра",
 		["Элави - Борейская тундра"] = "Фламиника - Борейская тундра",
+		["Elavi - Durotan"] = "Фламиника - Борейская тундра",
+		["Эрника - Борейская тундра"] = "Фламиника - Борейская тундра",
+		["Delery - Durotan"] = "Фламиника - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Flaminika - Silvermoon"] = "Фламиника - Борейская тундра",
 		["Ниоши - Борейская тундра"] = "Фламиника - Борейская тундра",
@@ -56,22 +56,6 @@ Details_StreamerDB = {
 			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
-			["y"] = 4.57763671875e-05,
-			["main_frame_strata"] = "LOW",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["use_spark"] = true,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -83,6 +67,22 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["main_frame_strata"] = "LOW",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["y"] = 4.57763671875e-05,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
