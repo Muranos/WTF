@@ -6,13 +6,13 @@ OmniCDDB = {
 		["Фламинника - Гордунни"] = "Default",
 		["Эстрэя - Гордунни"] = "Default",
 		["Алоиза - Борейская тундра"] = "Default",
-		["Эстрея - Борейская тундра"] = "Default",
-		["Алоиза - Гордунни"] = "Default",
+		["Дэлери - Гордунни"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
 		["Дэлери - Борейская тундра"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Сайбил - Борейская тундра"] = "Default",
-		["Дэлери - Гордунни"] = "Default",
+		["Алоиза - Гордунни"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
 	},
 	["global"] = {
 		["disableElvMsg"] = true,
@@ -23,30 +23,23 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["version"] = 2.51,
 	["cooldowns"] = {
 	},
+	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["extraBars"] = {
-						["raidCDBar"] = {
+						["interruptBar"] = {
 							["enabled"] = false,
 						},
-						["interruptBar"] = {
+						["raidCDBar"] = {
 							["enabled"] = false,
 						},
 					},
-					["manualPos"] = {
-						["interruptBar"] = {
-							["y"] = 683.0222821639654,
-							["x"] = 92.79926439985502,
-						},
-						["raidCDBar"] = {
-							["y"] = 598.4001881010045,
-							["x"] = 92.80023011168396,
-						},
+					["general"] = {
+						["showPlayer"] = true,
 					},
 					["spells"] = {
 						["58984"] = true,
@@ -69,8 +62,15 @@ OmniCDDB = {
 						["offsetY"] = 87,
 						["anchorMore"] = "BOTTOMLEFT",
 					},
-					["general"] = {
-						["showPlayer"] = true,
+					["manualPos"] = {
+						["raidCDBar"] = {
+							["y"] = 598.4001881010045,
+							["x"] = 92.80023011168396,
+						},
+						["interruptBar"] = {
+							["y"] = 683.0222821639654,
+							["x"] = 92.79926439985502,
+						},
 					},
 				},
 			},

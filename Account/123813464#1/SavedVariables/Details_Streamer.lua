@@ -11,12 +11,12 @@ Details_StreamerDB = {
 		["Дэлери - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Фламиника - Борейская тундра",
-		["Elavi - Durotan"] = "Фламиника - Борейская тундра",
-		["Эрника - Борейская тундра"] = "Фламиника - Борейская тундра",
-		["Delery - Durotan"] = "Фламиника - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Flaminika - Durotan"] = "Фламиника - Борейская тундра",
 		["Элави - Борейская тундра"] = "Фламиника - Борейская тундра",
+		["Elavi - Durotan"] = "Фламиника - Борейская тундра",
+		["Эрника - Борейская тундра"] = "Фламиника - Борейская тундра",
+		["Delery - Durotan"] = "Фламиника - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Flaminika - Silvermoon"] = "Фламиника - Борейская тундра",
 		["Ниоши - Борейская тундра"] = "Фламиника - Борейская тундра",
@@ -51,18 +51,13 @@ Details_StreamerDB = {
 				["radius"] = 160,
 				["hide"] = true,
 			},
-			["scale"] = 1,
+			["point"] = "CENTER",
 			["arrow_anchor_x"] = 0,
 			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
-			["point"] = "CENTER",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
+			["scale"] = 1,
+			["use_square_mode"] = false,
+			["author"] = "Details! Team",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
@@ -74,7 +69,7 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
@@ -87,14 +82,19 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["font_size"] = 10,
+			["y"] = 4.57763671875e-05,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["y"] = 4.57763671875e-05,
-			["arrow_anchor_y"] = 0,
+			["font_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["main_frame_locked"] = false,
-			["use_square_mode"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }

@@ -27,13 +27,6 @@ X: -231
 Y: -116
 W: 300
 H: 427
-Frame: PetCastingBarFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: 7
-Y: 107
-W: 150
-H: 12
 Frame: FloatingBattlePetTooltip
 FrameLevel: 1
 Anchor: BOTTOM
@@ -125,6 +118,13 @@ X: 6
 Y: -204
 W: 570
 H: 155
+Frame: PetCastingBarFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 7
+Y: 107
+W: 150
+H: 12
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: CENTER

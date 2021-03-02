@@ -144,7 +144,7 @@ PremadeGroupsFilterState = {
 		["noilvl"] = {
 			["act"] = false,
 		},
-		["expression"] = "",
+		["expression"] = "ыыыыыыы",
 		["difficulty"] = {
 			["act"] = false,
 			["val"] = 3,

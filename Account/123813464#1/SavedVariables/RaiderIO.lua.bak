@@ -1,25 +1,29 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
 	["disableScoreColors"] = false,
 	["showDropDownCopyURL"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
 RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Руко-gordunni"] = true,
-	["eu-Парвинка-gordunni"] = true,
-	["eu-Сакуродзима-gordunni"] = true,
-	["eu-Arcanestein-hellscream"] = true,
+	["eu-Люцеон-gordunni"] = true,
+	["eu-Неизвестно-gordunni"] = true,
+	["eu-Криваяпятка-gordunni"] = true,
+	["eu-Драго-gordunni"] = true,
+	["eu-Зипус-gordunni"] = true,
+	["eu-Кзонн-gordunni"] = true,
+	["eu-Гесай-gordunni"] = true,
+	["eu-Бельфигорас-gordunni"] = true,
 }
 RaiderIO_CachedRuns = nil

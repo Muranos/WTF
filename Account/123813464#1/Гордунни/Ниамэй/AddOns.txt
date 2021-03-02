@@ -55,3 +55,4 @@ TomCats-LoveIsInTheAir: disabled
 TomCats-LunarFestival: disabled
 TomCats-Noblegarden: disabled
 LittleWigs_Classic: enabled
+LittleWigs_BurningCrusade: enabled

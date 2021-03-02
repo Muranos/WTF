@@ -229,3 +229,5 @@ TomCats-Noblegarden: disabled
 LittleWigs_Classic: enabled
 BigWigs_Shadowlands: enabled
 LittleWigs_MistsOfPandaria: enabled
+BigWigs_CastleNathria: enabled
+LittleWigs_BurningCrusade: enabled

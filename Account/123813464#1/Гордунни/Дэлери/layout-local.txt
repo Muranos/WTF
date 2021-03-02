@@ -20,13 +20,6 @@ X: -291
 Y: -176
 W: 232
 H: 100
-Frame: CastingBarFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: 8
-Y: 99
-W: 250
-H: 24
 Frame: AllTheThings-Window-Prime
 FrameLevel: 1
 Anchor: CENTER
@@ -125,6 +118,13 @@ X: 6
 Y: -204
 W: 570
 H: 155
+Frame: CastingBarFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 8
+Y: 99
+W: 250
+H: 24
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: CENTER

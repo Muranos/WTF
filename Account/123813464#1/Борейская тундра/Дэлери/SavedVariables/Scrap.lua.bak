@@ -6,6 +6,7 @@ Scrap_CharSets = {
 		[49857] = true,
 		[49859] = true,
 		[49861] = true,
+		[183623] = true,
 		[153139] = true,
 		[113980] = true,
 		[127781] = true,

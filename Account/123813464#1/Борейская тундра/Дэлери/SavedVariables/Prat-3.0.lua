@@ -538,7 +538,7 @@ Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
+			["headIndex"] = 88,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -551,1902 +551,1902 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[07:57:56]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1342:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: This is actually the best group I ever had in sub-ten keys",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714275,
+					["message"] = "|Hpratcopy|h[15:12:30]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:94:PARTY|h|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: hi",
+					["serverTime"] = 1614604350,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354750.887,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[07:57:59]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1343:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: russians names cant see who you are",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:12:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:95:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: hi",
+					["serverTime"] = 1614604357,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714278,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354757.138,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[07:58:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1344:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: You guys rock",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:12:46]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:96:PARTY|h|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 1 more wm on to summ",
+					["serverTime"] = 1614604366,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714280,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						31, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354766.671,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[07:58:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1345:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:14:09]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:104:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: |cffa5a5a5Awq|r, can you take spears 2 and 3? For the 2nd and 3rd bosses respectively",
+					["serverTime"] = 1614604449,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714280,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354849.689,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[07:58:03]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1346:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: just trade me ^^",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714282,
+					["message"] = "|Hpratcopy|h[15:14:11]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:105:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: im wm off so",
+					["serverTime"] = 1614604451,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354851.456,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[07:58:09]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1347:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Warrior won",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:14:29]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:108:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I'll take first spear and first orb, both for the last boss",
+					["serverTime"] = 1614604469,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714288,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354869.44,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[07:58:12]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1348:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :(",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:14:38]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:109:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: sure",
+					["serverTime"] = 1614604478,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714291,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354878.706,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[07:58:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Ророру-Азурегос:1349:PARTY|h|cffd8bc3f60|r:|cfff38bb9Ророру|r-|cfff288d1Азу|r|h|cffd8d8d8]|r: Лан всем удачи",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:14:56]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:110:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: |cffa5a5a5Paytax|r, take the 2nd orb please",
+					["serverTime"] = 1614604496,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714300,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						50, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354896.207,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[07:58:27]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1351:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: take care",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:15:05]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:111:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: @2nd boss?w",
+					["serverTime"] = 1614604505,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714306,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354906.04,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[07:58:34]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1352:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:381:6:10:8:0:0|h[Ключ: Шпили Перерождения (6)]|h|r",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714313,
+					["message"] = "|Hpratcopy|h[15:15:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:112:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: or u want me to save it ?",
+					["serverTime"] = 1614604521,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354922.09,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[07:58:36]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1353:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714315,
+					["message"] = "|Hpratcopy|h[15:15:25]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:113:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I'm tempted to use it for 4th boss",
+					["serverTime"] = 1614604525,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354925.324,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[07:58:38]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1354:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: im in",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:15:34]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:114:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: one spear should be enough for Amarth",
+					["serverTime"] = 1614604534,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714317,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354934.557,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[07:58:41]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1355:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: ez key",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:15:50]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yennyfer-Outland:115:PARTY|h|cffd8bc3f60|r:|cff3ec6eaYennyfer|r-|cff56f719Out|r|h|cffd8d8d8]|r: relog",
+					["serverTime"] = 1614604550,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714320,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354950.324,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[07:58:42]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1356:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: last",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714321,
+					["message"] = "|Hpratcopy|h[15:16:30]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:118:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: click click",
+					["serverTime"] = 1614604590,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 354990.891,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[07:58:47]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1357:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: may be?",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714326,
+					["message"] = "|Hpratcopy|h[15:16:51]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:119:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: And I'll also take the hammers, we'll use them on prides",
+					["serverTime"] = 1614604611,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355011.808,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[07:58:54]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1358:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: We can do it",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:17:20]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:120:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: alright",
+					["serverTime"] = 1614604640,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714333,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355040.292,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[07:58:56]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1359:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: k",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:18:15]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:122:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: just grabbing a drink, brb",
+					["serverTime"] = 1614604695,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714335,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355096.077,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[07:59:35]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1362:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: brb while we find last",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:18:44]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:125:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: any1 got mailbox?",
+					["serverTime"] = 1614604724,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714374,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355124.794,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[07:59:39]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1363:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: water break ^^",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:18:53]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:127:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: wait, i can't take the first hammer, there will be spear on top >< |cffa5a5a5Awq|r take the first hammer please",
+					["serverTime"] = 1614604733,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714378,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355133.46,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [19]
 				{
-					["message"] = "|Hpratcopy|h[08:01:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Johnnyboy-Magtheridon:1371:PARTY|h|cfffe7b09Johnnyboy|r-|cff92ccbdMag|r|h|cffd8d8d8]|r: hey",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:19:34]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:130:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: actually nevermind, the pride will be right here so it'sok",
+					["serverTime"] = 1614604774,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714496,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						73, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355174.229,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [20]
 				{
-					["message"] = "|Hpratcopy|h[08:01:42]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1374:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: bakc",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:19:48]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:132:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Here's your mailbox",
+					["serverTime"] = 1614604788,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714501,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355188.411,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [21]
 				{
-					["message"] = "|Hpratcopy|h[08:01:44]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1376:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: yo",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:19:54]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yennyfer-Outland:133:PARTY|h|cffd8bc3f60|r:|cff3ec6eaYennyfer|r-|cff56f719Out|r|h|cffd8d8d8]|r: i cant enter instance need to relog",
+					["serverTime"] = 1614604794,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714503,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355194.678,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [22]
 				{
-					["message"] = "|Hpratcopy|h[08:01:45]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1377:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: hi there",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:21:01]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:136:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: big pull at start?",
+					["serverTime"] = 1614604861,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714504,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355261.612,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [23]
 				{
-					["message"] = "|Hpratcopy|h[08:05:40]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1394:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: дх кирия?",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:21:26]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:137:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: |cfff49d38|Hgarrmission:mdt-Awq+Ravencrest|h[The Necrotic Wake: Tyrannical 2 2]|h|r",
+					["serverTime"] = 1614604886,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714739,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355286.746,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [24]
 				{
-					["message"] = "|Hpratcopy|h[08:05:59]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1395:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: угумс",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:21:35]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:138:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: G1+G2+the harvester",
+					["serverTime"] = 1614604895,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714758,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355295.48,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [25]
 				{
-					["message"] = "|Hpratcopy|h[08:06:03]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1396:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: найс",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:21:51]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:139:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: dont want the other bag pack?:)",
+					["serverTime"] = 1614604911,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714762,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355311.647,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [26]
 				{
-					["message"] = "|Hpratcopy|h[08:06:08]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1398:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: tank  you want to do the double pull without goliath ?",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714767,
+					["message"] = "|Hpratcopy|h[15:22:20]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:140:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: maybe replace mage",
+					["serverTime"] = 1614604940,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355340.797,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [27]
 				{
-					["message"] = "|Hpratcopy|h[08:06:23]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1399:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: double pull but without goliath",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714782,
+					["message"] = "|Hpratcopy|h[15:22:25]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:141:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: still offline",
+					["serverTime"] = 1614604945,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355345.981,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [28]
 				{
-					["message"] = "|Hpratcopy|h[08:06:28]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1400:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: yeye",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:22:30]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:142:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: give him 1 min",
+					["serverTime"] = 1614604950,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714787,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355350.864,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [29]
 				{
-					["message"] = "|Hpratcopy|h[08:06:30]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1401:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: cool",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:22:34]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:143:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: he was just on again",
+					["serverTime"] = 1614604954,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714789,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355354.964,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [30]
 				{
-					["message"] = "|Hpratcopy|h[08:06:48]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1402:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: los",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714807,
+					["message"] = "|Hpratcopy|h[15:22:50]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:144:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: can u link ur route btw",
+					["serverTime"] = 1614604970,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355370.964,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [31]
 				{
-					["message"] = "|Hpratcopy|h[08:06:49]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1403:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: los and wait here",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:22:58]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:145:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: or replace actually idc :D",
+					["serverTime"] = 1614604978,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714808,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355378.548,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [32]
 				{
-					["message"] = "|Hpratcopy|h[08:12:14]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1420:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: wait here",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:22:58]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:146:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: |cfff49d38|Hgarrmission:mdt-Дэлери+Борейскаятундра|h[Смертельная тризна: Tyr Burst Exp]|h|r",
+					["serverTime"] = 1614604978,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715133,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355378.548,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [33]
 				{
-					["message"] = "|Hpratcopy|h[08:12:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1421:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: behind pillar",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:24:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:148:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: yeh kick him",
+					["serverTime"] = 1614605077,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715140,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355477.849,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [34]
 				{
-					["message"] = "|Hpratcopy|h[08:12:26]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1422:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: they can hit you there",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:27:47]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:150:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: wc 1 min",
+					["serverTime"] = 1614605267,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715145,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355667.119,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [35]
 				{
-					["message"] = "|Hpratcopy|h[08:12:48]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1423:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: 3rd one decided to not come today",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:30:40]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:151:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: gat damn hard to find a dps :D",
+					["serverTime"] = 1614605440,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715167,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355840.589,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [36]
 				{
-					["message"] = "|Hpratcopy|h[08:12:58]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1424:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: day off mate",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:31:50]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:152:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Sub 14 keys are a quite hard to pub",
+					["serverTime"] = 1614605510,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715177,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355910.873,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [37]
 				{
-					["message"] = "|Hpratcopy|h[08:13:18]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1426:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: can't blame him for that",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:32:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:153:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Sub 10 keys are absolute nightmare",
+					["serverTime"] = 1614605521,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715197,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355921.157,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [38]
 				{
-					["message"] = "|Hpratcopy|h[08:14:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1428:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I too wouldn't come if i knew i'm about to be killed",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715276,
+					["message"] = "|Hpratcopy|h[15:32:08]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:154:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: yep x)",
+					["serverTime"] = 1614605528,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355928.573,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [39]
 				{
-					["message"] = "|Hpratcopy|h[08:16:31]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1432:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :)",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715390,
+					["message"] = "|Hpratcopy|h[15:32:23]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:155:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I've seen things that have scared me shelless",
+					["serverTime"] = 1614605543,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 355943.574,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [40]
 				{
-					["message"] = "|Hpratcopy|h[08:21:53]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1437:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: whoever invented this mob",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715712,
+					["message"] = "|Hpratcopy|h[15:33:25]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:156:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 218 mage, 92 rio hmmm",
+					["serverTime"] = 1614605605,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356005.875,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [41]
 				{
-					["message"] = "|Hpratcopy|h[08:22:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1438:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I wish him a week long diahharea",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:34:14]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:157:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: His profile says 204",
+					["serverTime"] = 1614605654,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715720,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356054.259,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [42]
 				{
-					["message"] = "|Hpratcopy|h[08:22:13]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1440:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: D:",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715732,
+					["message"] = "|Hpratcopy|h[15:34:46]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:158:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Looks like he somehow got +14 ilvls since he last logged off",
+					["serverTime"] = 1614605686,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356086.409,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [43]
 				{
-					["message"] = "|Hpratcopy|h[08:23:51]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1450:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: let's skip helion",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:41:48]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:164:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Серж, оружие не поднимай, плиз, мы тут уже всё распределили",
+					["serverTime"] = 1614606108,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715830,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356508.383,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [44]
 				{
-					["message"] = "|Hpratcopy|h[08:23:57]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1451:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Jump over the lantern",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:41:57]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:168:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: ок",
+					["serverTime"] = 1614606117,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715836,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356517.416,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [45]
 				{
-					["message"] = "|Hpratcopy|h[08:23:58]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1452:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: k",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:42:09]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:169:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: dont take any weapons hunter;)",
+					["serverTime"] = 1614606129,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715837,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356529.283,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [46]
 				{
-					["message"] = "|Hpratcopy|h[08:24:06]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1453:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Do not try to walk around it",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:42:15]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:170:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I told him",
+					["serverTime"] = 1614606135,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715845,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356535.633,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [47]
 				{
-					["message"] = "|Hpratcopy|h[08:24:34]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1455:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: or use cat invis",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:42:16]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:171:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: kk))",
+					["serverTime"] = 1614606136,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715873,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 356537.05,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [48]
 				{
-					["message"] = "|Hpratcopy|h[08:25:05]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1456:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: die and rez",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715904,
+					["message"] = "|Hpratcopy|h[15:51:17]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:216:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: soothe",
+					["serverTime"] = 1614606677,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357077.425,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [49]
 				{
-					["message"] = "|Hpratcopy|h[08:25:20]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1458:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: wipe druid  fufu",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715919,
+					["message"] = "|Hpratcopy|h[15:51:17]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:217:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: star",
+					["serverTime"] = 1614606677,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357078.042,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [50]
 				{
-					["message"] = "|Hpratcopy|h[08:25:49]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1459:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: orbs on marker please",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:51:18]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:218:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: soothe please, Teapot",
+					["serverTime"] = 1614606678,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715948,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357078.559,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [51]
 				{
-					["message"] = "|Hpratcopy|h[08:25:54]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1460:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: other side on not ebough is it ?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:53:16]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:235:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: После этого пака отзови пэтов",
+					["serverTime"] = 1614606796,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715953,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357196.277,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [52]
 				{
-					["message"] = "|Hpratcopy|h[08:26:07]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1461:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: nope",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715966,
+					["message"] = "|Hpratcopy|h[15:53:27]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:236:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: иначе они вокруг побегут",
+					["serverTime"] = 1614606807,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357207.494,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [53]
 				{
-					["message"] = "|Hpratcopy|h[08:26:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1462:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: more after boss",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:53:33]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:237:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Dont' forget to dismiss pets",
+					["serverTime"] = 1614606813,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613715996,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357213.128,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [54]
 				{
-					["message"] = "|Hpratcopy|h[08:28:58]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1474:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: mid one esyaer",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716137,
+					["message"] = "|Hpratcopy|h[15:53:33]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:238:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: i take after boss",
+					["serverTime"] = 1614606813,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357213.507,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [55]
 				{
-					["message"] = "|Hpratcopy|h[08:30:23]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1483:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: relese",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716222,
+					["message"] = "|Hpratcopy|h[15:53:34]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:239:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: spear",
+					["serverTime"] = 1614606814,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357214.31,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [56]
 				{
-					["message"] = "|Hpratcopy|h[08:32:19]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1486:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: still not enough ><",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:53:38]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:242:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: after",
+					["serverTime"] = 1614606818,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716338,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357218.261,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [57]
 				{
-					["message"] = "|Hpratcopy|h[08:32:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1487:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: better do the other side from first boss next time tank :D",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716340,
+					["message"] = "|Hpratcopy|h[15:54:32]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:253:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: hunter",
+					["serverTime"] = 1614606872,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357272.395,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [58]
 				{
-					["message"] = "|Hpratcopy|h[08:32:25]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1488:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: 88%",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:54:35]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:254:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: u bl next boss",
+					["serverTime"] = 1614606875,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716344,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357275.262,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [59]
 				{
-					["message"] = "|Hpratcopy|h[08:32:29]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1489:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: yikes ^^",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:56:36]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:275:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Не улетаем после босса",
+					["serverTime"] = 1614606996,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716348,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357396.847,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [60]
 				{
-					["message"] = "|Hpratcopy|h[08:32:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1490:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: we can fly down",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[15:56:39]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:276:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: еще пак тут",
+					["serverTime"] = 1614606999,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716356,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357399.897,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [61]
 				{
-					["message"] = "|Hpratcopy|h[08:32:42]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1491:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: н",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[15:59:45]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:306:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: got cds",
+					["serverTime"] = 1614607185,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716361,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357585.75,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [62]
 				{
-					["message"] = "|Hpratcopy|h[08:32:44]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1492:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: y",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[16:00:16]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:324:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: doubl epack",
+					["serverTime"] = 1614607216,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716363,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357616.701,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [63]
 				{
-					["message"] = "|Hpratcopy|h[08:38:26]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1541:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: talk to angel",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:00:59]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:332:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: holly molly",
+					["serverTime"] = 1614607259,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716705,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357659.885,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [64]
 				{
-					["message"] = "|Hpratcopy|h[08:38:27]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1542:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: go down",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:01:03]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:333:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: don't do that ><",
+					["serverTime"] = 1614607263,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716706,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357663.718,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [65]
 				{
-					["message"] = "|Hpratcopy|h[08:38:43]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1545:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: jump",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716722,
+					["message"] = "|Hpratcopy|h[16:01:12]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:335:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: pride buff and cds))",
+					["serverTime"] = 1614607272,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357672.968,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [66]
 				{
-					["message"] = "|Hpratcopy|h[08:38:52]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1548:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: leap wings ect",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:01:16]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:336:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I was not ready",
+					["serverTime"] = 1614607276,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716731,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357676.235,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [67]
 				{
-					["message"] = "|Hpratcopy|h[08:38:55]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1549:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: faster :D",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:02:06]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:339:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: burned the orb on that because I was so scared",
+					["serverTime"] = 1614607326,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716734,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357726.136,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [68]
 				{
-					["message"] = "|Hpratcopy|h[08:39:57]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1551:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716796,
+					["message"] = "|Hpratcopy|h[16:02:20]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:341:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: want my orb here or last?",
+					["serverTime"] = 1614607340,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357740.886,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [69]
 				{
-					["message"] = "|Hpratcopy|h[08:40:08]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1552:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: gg :D",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:02:26]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:342:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: last",
+					["serverTime"] = 1614607346,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716807,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357746.553,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [70]
 				{
-					["message"] = "|Hpratcopy|h[08:40:16]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1554:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:375:7:10:8:12:0|h[Ключ: Туманы Тирна Скитта (7)]|h|r soooo ez",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716815,
+					["message"] = "|Hpratcopy|h[16:02:31]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:343:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: definitely",
+					["serverTime"] = 1614607351,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357751.203,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [71]
 				{
-					["message"] = "|Hpratcopy|h[08:40:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1555:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: ;D",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716820,
+					["message"] = "|Hpratcopy|h[16:02:56]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:344:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: sry",
+					["serverTime"] = 1614607376,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 357776.404,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [72]
 				{
-					["message"] = "|Hpratcopy|h[08:40:24]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1556:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: XDDDDD",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716823,
+					["message"] = "|Hpratcopy|h[16:07:11]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:398:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: i waited for u to come up for BL xD",
+					["serverTime"] = 1614607631,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358031.741,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [73]
 				{
-					["message"] = "|Hpratcopy|h[08:40:25]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1557:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: im in",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:07:44]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:407:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: New Keystone: |cffa335ee|Hkeystone:180653:380:14:9:6:14:121|h[Keystone: Sanguine Depths (14)]|h|r",
+					["serverTime"] = 1614607664,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716824,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358065.008,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [74]
 				{
-					["message"] = "|Hpratcopy|h[08:40:28]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1558:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716827,
+					["message"] = "|Hpratcopy|h[16:07:46]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:408:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: gg",
+					["serverTime"] = 1614607666,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358067.075,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [75]
 				{
-					["message"] = "|Hpratcopy|h[08:40:29]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1559:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: tank ?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:08:02]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:415:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:178781::::::::60:254::16:6:7211:6652:7193:1501:5865:6646:1:28:1279:::|h[Ритуальный перстень командира]|h|r",
+					["serverTime"] = 1614607682,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716828,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358082.675,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [76]
 				{
-					["message"] = "|Hpratcopy|h[08:40:30]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1560:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: Okey",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[16:08:32]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:418:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: ty",
+					["serverTime"] = 1614607712,
 					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716829,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358112.092,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [77]
 				{
-					["message"] = "|Hpratcopy|h[08:40:33]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1561:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: this one",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716832,
+					["message"] = "|Hpratcopy|h[16:08:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:419:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: np",
+					["serverTime"] = 1614607717,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358117.976,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [78]
 				{
-					["message"] = "|Hpratcopy|h[08:40:37]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1562:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: agree too",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716836,
+					["message"] = "|Hpratcopy|h[16:08:43]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:420:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: If you're doing SD I could come on main",
+					["serverTime"] = 1614607723,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358124.059,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [79]
 				{
-					["message"] = "|Hpratcopy|h[08:40:47]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1565:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: coming dudu ?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:08:52]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:421:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:379:11:9:6:14:121|h[Ключ: Чумные каскады (11)]|h|r",
+					["serverTime"] = 1614607732,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716846,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358133.076,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [80]
 				{
-					["message"] = "|Hpratcopy|h[08:40:53]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1568:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: johnyboy ?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:09:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:422:PARTY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:375:13:9:6:14:121|h[Keystone: Mists of Tirna Scithe (13)]|h|r",
+					["serverTime"] = 1614607741,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716852,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						31, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358141.576,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [81]
 				{
-					["message"] = "|Hpratcopy|h[08:41:04]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1569:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: ok I'm in too",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:09:02]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:423:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: sure m8",
+					["serverTime"] = 1614607742,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716863,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358142.143,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [82]
 				{
-					["message"] = "|Hpratcopy|h[08:41:13]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Johnnyboy-Magtheridon:1570:PARTY|h|cffd8bc3f60|r:|cfffe7b09Johnnyboy|r-|cff92ccbdMag|r|h|cffd8d8d8]|r: gotta go sleep :S",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:09:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:427:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: ?",
+					["serverTime"] = 1614607777,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716872,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						73, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358177.61,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [83]
 				{
-					["message"] = "|Hpratcopy|h[08:41:16]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1571:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: gl",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716875,
+					["message"] = "|Hpratcopy|h[16:09:49]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:430:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Идем дальше в катакомбы",
+					["serverTime"] = 1614607789,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358189.477,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [84]
 				{
-					["message"] = "|Hpratcopy|h[08:41:20]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1572:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: ty for run",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716879,
+					["message"] = "|Hpratcopy|h[16:09:53]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:431:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Сейчас релогнусь только",
+					["serverTime"] = 1614607793,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358193.91,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [85]
 				{
-					["message"] = "|Hpratcopy|h[08:41:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Johnnyboy-Magtheridon:1573:PARTY|h|cffd8bc3f60|r:|cfffe7b09Johnnyboy|r-|cff92ccbdMag|r|h|cffd8d8d8]|r: ty ;)",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:10:08]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:433:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Ok, we're doing it, let me relog real quick",
+					["serverTime"] = 1614607808,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716880,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						73, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358208.577,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [86]
 				{
-					["message"] = "|Hpratcopy|h[08:41:23]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1574:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Wasn't MotS the one we started with?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:10:12]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:434:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: какой ключ?",
+					["serverTime"] = 1614607812,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716882,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358212.144,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [87]
 				{
-					["message"] = "|Hpratcopy|h[08:41:25]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1575:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: good night mate",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[16:10:18]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:435:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Катакомбы 14",
+					["serverTime"] = 1614607818,
 					["r"] = 0.4313725829124451,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716884,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 358218.194,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [88]
 				{
-					["message"] = "|Hpratcopy|h[08:41:30]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1576:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: yeah",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
+					["message"] = "|Hpratcopy|h[22:32:47]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Cretius-Pozzodell'Eternità:5606:PARTY|h|cffd8bc3f60|r:|cfffef367Cretius|r-|cffd7ab4cPoz|r|h|cffd8d8d8]|r: and 5 sec",
+					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716889,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						152, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544366,
 				}, -- [89]
 				{
-					["message"] = "|Hpratcopy|h[08:41:33]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1577:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: its was 1st",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[22:32:59]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5608:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: don't release",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716892,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544378,
 				}, -- [90]
 				{
-					["message"] = "|Hpratcopy|h[08:41:33]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1578:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: gl",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[22:33:02]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5609:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: we'll get ress",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716892,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544381,
 				}, -- [91]
 				{
-					["message"] = "|Hpratcopy|h[08:41:34]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1579:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: )",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[22:36:01]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5632:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: don't release",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716893,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544560,
 				}, -- [92]
 				{
-					["message"] = "|Hpratcopy|h[08:41:36]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Johnnyboy-Magtheridon:1580:PARTY|h|cffd8bc3f60|r:|cfffe7b09Johnnyboy|r-|cff92ccbdMag|r|h|cffd8d8d8]|r: have fun :)",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[22:36:10]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5638:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: не встаём",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716895,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						73, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544569,
 				}, -- [93]
 				{
-					["message"] = "|Hpratcopy|h[08:42:26]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Johnnyboy-Magtheridon:1583:PARTY|h|cffd8bc3f60|r:|cfffe7b09Johnnyboy|r-|cff92ccbdMag|r|h|cffd8d8d8]|r: anyone |cffa335ee|Hitem:180115::::::::60:102::16:6:7205:6652:7193:1501:5855:6646:1:28:1279:::|h[Azure-Venom Choker]|h|r ?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[22:36:24]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Форстайт-ВечнаяПесня:5639:PARTY|h|cffd8bc3f60|r:|cfff38bb9Форстайт|r-|cffe8dfccВеч|r|h|cffd8d8d8]|r: сор",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716945,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						73, -- [4]
+						3, -- [3]
+						150, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544583,
 				}, -- [94]
 				{
-					["message"] = "|Hpratcopy|h[08:42:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1584:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: +",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[22:36:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Форстайт-ВечнаяПесня:5640:PARTY|h|cffd8bc3f60|r:|cfff38bb9Форстайт|r-|cffe8dfccВеч|r|h|cffd8d8d8]|r: у меня инвиз",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716956,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						3, -- [3]
+						150, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544596,
 				}, -- [95]
 				{
-					["message"] = "|Hpratcopy|h[08:42:41]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1585:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: it will be with 3 affics",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[22:37:26]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5641:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Когда адд умирает отходи от него сразу",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716960,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544645,
 				}, -- [96]
 				{
-					["message"] = "|Hpratcopy|h[08:42:45]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1586:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: me to",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[22:37:32]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Форстайт-ВечнаяПесня:5642:PARTY|h|cffd8bc3f60|r:|cfff38bb9Форстайт|r-|cffe8dfccВеч|r|h|cffd8d8d8]|r: к",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716964,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						150, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544651,
 				}, -- [97]
 				{
-					["message"] = "|Hpratcopy|h[08:42:51]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1589:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: but pain to trade you re so far no XD",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[22:37:35]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5643:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Ты умираешь в луже, которая остаётся от адда",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716970,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544654,
 				}, -- [98]
 				{
-					["message"] = "|Hpratcopy|h[08:43:52]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1590:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: ty mate",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[22:37:44]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5644:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: When small add dies - move away",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717031,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544663,
 				}, -- [99]
 				{
-					["message"] = "|Hpratcopy|h[08:43:58]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Johnnyboy-Magtheridon:1593:PARTY|h|cffd8bc3f60|r:|cfffe7b09Johnnyboy|r-|cff92ccbdMag|r|h|cffd8d8d8]|r: ur welcome, bb :)",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[22:37:48]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Marlonn-Pozzodell'Eternità:5645:PARTY|h|cffd8bc3f60|r:|cff8687edMarlonn|r-|cffd7ab4cPoz|r|h|cffd8d8d8]|r: last try guys",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717037,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						73, -- [4]
+						3, -- [3]
+						153, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544667,
 				}, -- [100]
 				{
-					["message"] = "|Hpratcopy|h[08:44:03]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1595:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: see ya",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[22:38:05]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5646:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: |cffa5a5a5Cretius|r, you died to the puddle left behind after the add",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717042,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614544684,
 				}, -- [101]
 				{
-					["message"] = "|Hpratcopy|h[08:44:31]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1596:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: now my ilvl huge as fuck",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:10:31]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5730:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: hi",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717070,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						3, -- [3]
+						53, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546630,
 				}, -- [102]
 				{
-					["message"] = "|Hpratcopy|h[08:44:32]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1600:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: XD",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[23:10:36]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Troum-Silvermoon:5731:PARTY|h|cffd8bc3f60|r:|cfffef367Troum|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: yo",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717071,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						160, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546635,
 				}, -- [103]
 				{
-					["message"] = "|Hpratcopy|h[08:44:42]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1602:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: better beat me know then :P",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:12:30]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5735:PARTY|h|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: hi",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717081,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546749,
 				}, -- [104]
 				{
-					["message"] = "|Hpratcopy|h[08:44:53]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1605:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
+					["message"] = "|Hpratcopy|h[23:13:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5738:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: hey",
+					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717092,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
+						3, -- [3]
 						53, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546780,
 				}, -- [105]
 				{
-					["message"] = "|Hpratcopy|h[08:45:51]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1613:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I'm even going to craft a legendary for this one",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:13:35]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Викторовский-Гордунни:5740:PARTY|h|cffd8bc3f60|r:|cffc59a6cВикторовский|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: hi",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717150,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						3, -- [3]
+						162, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546814,
 				}, -- [106]
 				{
-					["message"] = "|Hpratcopy|h[08:45:56]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1614:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: XDDD",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:13:38]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5741:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: We'll go in a straight line, no skips, no shrouds",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717155,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						53, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546817,
 				}, -- [107]
 				{
-					["message"] = "|Hpratcopy|h[08:46:00]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1615:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: D:",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
+					["message"] = "|Hpratcopy|h[23:13:56]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5744:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I have traumatic flashbacks about doing shrouds in a pug with quacking",
+					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717159,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						50, -- [1]
+						3, -- [1]
 						false, -- [2]
-						48, -- [3]
+						3, -- [3]
 						53, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546835,
 				}, -- [108]
 				{
-					["message"] = "|Hpratcopy|h[08:46:05]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1616:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: tthat some dedicatiion",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:14:09]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5748:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: *attempting to do shroud, that is",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717164,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						53, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546848,
 				}, -- [109]
 				{
-					["message"] = "|Hpratcopy|h[08:46:18]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1624:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Mate I signed up for a +2",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:14:20]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5749:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: Termino ésta",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717177,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614546859,
 				}, -- [110]
 				{
-					["message"] = "|Hpratcopy|h[08:46:19]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1625:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: im rolling",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:17:33]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5755:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: ty",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717178,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547052,
 				}, -- [111]
 				{
-					["message"] = "|Hpratcopy|h[08:46:25]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1626:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: hehe me to bro",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:18:25]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5760:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: +",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717184,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547104,
 				}, -- [112]
 				{
-					["message"] = "|Hpratcopy|h[08:46:29]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1627:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: No-one told me there'll be a 7",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[23:18:51]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5764:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 10 сек.",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717188,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547130,
 				}, -- [113]
 				{
-					["message"] = "|Hpratcopy|h[08:46:33]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1628:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:18:54]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5765:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 7 сек.",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717192,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547133,
 				}, -- [114]
 				{
-					["message"] = "|Hpratcopy|h[08:46:45]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1629:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: we take 60 yesterday",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:18:56]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5766:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 5 сек.",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717204,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547135,
 				}, -- [115]
 				{
-					["message"] = "|Hpratcopy|h[08:46:49]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1630:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: but it was ez to 7",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:18:57]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5767:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 4 сек.",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717208,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547136,
 				}, -- [116]
 				{
-					["message"] = "|Hpratcopy|h[08:46:57]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1631:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: all with 1.2k elo min",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:18:58]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5768:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 3 сек.",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717216,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547137,
 				}, -- [117]
 				{
-					["message"] = "|Hpratcopy|h[08:47:01]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1632:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: rio",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:18:59]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5769:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 2 сек.",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717220,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547138,
 				}, -- [118]
 				{
-					["message"] = "|Hpratcopy|h[08:47:38]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1636:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: but idk can i heal it with 3 affics",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:19:00]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5770:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Атака через 1 сек.",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717257,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547139,
 				}, -- [119]
 				{
-					["message"] = "|Hpratcopy|h[08:48:09]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1637:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: i thonk we are gucci",
-					["b"] = 0.4745098352432251,
-					["r"] = 0.4313725829124451,
+					["message"] = "|Hpratcopy|h[23:19:01]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5771:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: >>> Атака <<<",
+					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717288,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						3, -- [1]
+						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547140,
 				}, -- [120]
 				{
-					["message"] = "|Hpratcopy|h[08:48:21]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1640:PARTY|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: try +2?",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:22:56]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5775:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: r",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717300,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						64, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614547375,
 				}, -- [121]
 				{
-					["message"] = "|Hpratcopy|h[08:48:35]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1648:PARTY|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: just try our best",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:34:03]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5812:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: rest",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717314,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						51, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614548042,
 				}, -- [122]
 				{
-					["message"] = "|Hpratcopy|h[08:49:19]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1658:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: You know what, I can make this easier. Let me relog on a more durable tank",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:45:58]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5845:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: r",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717358,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614548757,
 				}, -- [123]
 				{
-					["message"] = "|Hpratcopy|h[08:49:25]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1659:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: :D",
-					["b"] = 0.5490196347236633,
-					["r"] = 0.4196078777313232,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717364,
-					["extraData"] = {
-						50, -- [1]
-						false, -- [2]
-						48, -- [3]
-						53, -- [4]
-						["n"] = 4,
-					},
-				}, -- [124]
-				{
-					["message"] = "|Hpratcopy|h[08:49:34]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1660:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: |cffa5a5a5Руко|r, I'll message you",
-					["b"] = 0.4745098352432251,
+					["message"] = "|Hpratcopy|h[23:48:39]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Guilaila-Tyrande:5876:PARTY|h|cffd8bc3f60|r:|cff006fdcGuilaila|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: ty",
 					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717373,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						48, -- [3]
-						49, -- [4]
+						3, -- [3]
+						161, -- [4]
 						["n"] = 4,
 					},
-				}, -- [125]
+					["serverTime"] = 1614548918,
+				}, -- [124]
 				{
-					["message"] = "|Hpratcopy|h[08:49:37]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Руко-Гордунни:1661:PARTY|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: k",
-					["b"] = 0.5490196347236633,
+					["message"] = "|Hpratcopy|h[23:49:04]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:5885:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Thanks for the run guys",
 					["r"] = 0.4196078777313232,
+					["b"] = 0.5490196347236633,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717376,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						50, -- [1]
 						false, -- [2]
-						48, -- [3]
-						53, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614548943,
+				}, -- [125]
+				{
+					["message"] = "|Hpratcopy|h[23:49:16]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Викторовский-Гордунни:5886:PARTY|h|cffd8bc3f60|r:|cffc59a6cВикторовский|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: gl",
+					["r"] = 0.4313725829124451,
+					["b"] = 0.4745098352432251,
+					["g"] = 1,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						3, -- [3]
+						162, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614548955,
 				}, -- [126]
 				{
-					["message"] = "0 |4день:дня:дней;, 1 |4час:часа:часов;, 19 |4минута:минуты:минут;, 22 |4секунда:секунды:секунд;.",
-					["timestamp"] = 31350.591,
+					["message"] = "0 |4день:дня:дней;, 14 |4час:часа:часов;, 56 |4минута:минуты:минут;, 58 |4секунда:секунды:секунд;.",
+					["timestamp"] = 353173.142,
 				}, -- [127]
 				{
 					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 				}, -- [128]
 			},
 			["maxElements"] = 128,
@@ -2480,7 +2480,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 19,
+			["headIndex"] = 40,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -2493,268 +2493,583 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[11:30:35]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq3|k:16:0:BN_WHISPER:|Kq3|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq3|k|r|h|cffd8d8d8]|r: Thats like the best combination :) But i felt DH lacked damage in thorgast. There was like nothing that amped up my dmg",
-					["r"] = 0.8823530077934265,
-					["b"] = 1,
-					["g"] = 0.3176470696926117,
-					["timestamp"] = 31350.591,
+					["message"] = "|Hpratcopy|h[16:02:51]|h [W To] |cffd8d8d8[|r|Hplayer:Halung-Antonidas:2955:WHISPER:HALUNG-ANTONIDAS|h|cffd8bc3f60|r:|cffa9d271Halung|r-|cfffda266Ant|r|h|cffd8d8d8]|r: why the fuck did you sign up for a weekly no leaver group?",
+					["r"] = 0.8352941870689392,
+					["b"] = 0.8352941870689392,
+					["g"] = 0.4196078777313232,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						52, -- [1]
+						10, -- [1]
 						false, -- [2]
-						54, -- [3]
-						55, -- [4]
+						50, -- [3]
+						51, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613640635,
+					["serverTime"] = 1614520970,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[11:30:55]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq3|k:16:0:BN_WHISPER:|Kq3|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq3|k|r|h|cffd8d8d8]|r: Sry my chat broke yesterday, always got an error",
+					["message"] = "|Hpratcopy|h[16:51:23]|h [W To] |cffd8d8d8[|r|Hplayer:Aeeria-Dalaran:3213:WHISPER:AEERIA-DALARAN|h|cffd8bc3f60|r:|cfffe7b09Aeeria|r-|cff00fc9cDal|r|h|cffd8d8d8]|r: Thanks for boosting me :)",
+					["r"] = 0.8352941870689392,
+					["b"] = 0.8352941870689392,
+					["g"] = 0.4196078777313232,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						68, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614523882,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[16:51:30]|h [W From] |cffd8d8d8[|r|Hplayer:Aeeria-Dalaran:3214:WHISPER:AEERIA-DALARAN|h|cffd8bc3f60|r:|cfffe7b09Aeeria|r-|cff00fc9cDal|r|h|cffd8d8d8]|r: np )",
+					["r"] = 0.8352941870689392,
+					["b"] = 0.8352941870689392,
+					["g"] = 0.4196078777313232,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						68, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614523889,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[19:50:19]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq7|k:73:0:BN_WHISPER:|Kq7|k:Сашке#21941|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq7|k|r|h|cffd8d8d8]|r: я готов",
 					["r"] = 0.8823530077934265,
 					["b"] = 1,
 					["g"] = 0.3176470696926117,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
-						54, -- [3]
-						55, -- [4]
+						100, -- [3]
+						101, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613640655,
-				}, -- [2]
-				{
-					["message"] = "|Hpratcopy|h[07:18:31]|h [W To] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1176:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: Please try to not pull ahead of me if that's possible",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711910,
-					["extraData"] = {
-						10, -- [1]
-						false, -- [2]
-						65, -- [3]
-						66, -- [4]
-						["n"] = 4,
-					},
-				}, -- [3]
-				{
-					["message"] = "|Hpratcopy|h[07:18:48]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1182:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: yeah sorry its just when my instant flamestrike proc is about to fade out",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711927,
-					["extraData"] = {
-						0, -- [1]
-						false, -- [2]
-						65, -- [3]
-						67, -- [4]
-						["n"] = 4,
-					},
+					["serverTime"] = 1614534618,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[07:19:20]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1183:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: feels bad to waste them but ill stop :P",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711959,
+					["message"] = "|Hpratcopy|h[19:51:15]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq7|k:73:0:BN_WHISPER:|Kq7|k:Сашке#21941|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq7|k|r|h|cffd8d8d8]|r: Cпасибо)",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						0, -- [1]
+						53, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						100, -- [3]
+						104, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614534674,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[07:19:36]|h [W To] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1184:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: It would be a bigger dps loss if I don't take the mobss off in time and you die",
-					["b"] = 0.8352941870689392,
+					["message"] = "|Hpratcopy|h[19:54:12]|h [W From] |cffd8d8d8[|r|Hplayer:Язвёздочка-ЧерныйШрам:4782:WHISPER:ЯЗВЁЗДОЧКА-ЧЕРНЫЙШРАМ|h|cfffe7b09Язвёздочка|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: Привет |cff00ff00Дэлери|r-Борейскаятундра!) Присоединйся к нам, закрываем ключики, рейды (10/10 об, 10/10 гер, 1/10 мифик), рассматриваем все вакансии в статик)",
 					["r"] = 0.8352941870689392,
+					["b"] = 0.8352941870689392,
 					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711975,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						10, -- [1]
+						0, -- [1]
 						false, -- [2]
-						65, -- [3]
-						66, -- [4]
+						105, -- [3]
+						106, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614534851,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[07:19:54]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1185:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: hehe thats for sure",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711993,
+					["message"] = "|Hpratcopy|h[20:27:51]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq9|k|r|h|cffd8d8d8]|r: Is your DH up for an SD13?)",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						0, -- [1]
+						53, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						125, -- [3]
+						126, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614536870,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[07:19:57]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1186:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: but mages never die",
-					["b"] = 0.8352941870689392,
+					["message"] = "|Hpratcopy|h[20:39:56]|h [W From] |cffd8d8d8[|r|Hplayer:Архлайтер-Борейскаятундра:5139:WHISPER:АРХЛАЙТЕР-БОРЕЙСКАЯТУНДРА|h|cffd84e4e120|r:|cfff38bb9Архлайтер|r|h|cffd8d8d8]|r: Привет |cff00ff00Дэлери|r. В казуальную гильдию |cffffffff<|r|cff00ff00Трискель|r|cffffffff>|r требуются милые и общительные люди, мы рады всем))",
 					["r"] = 0.8352941870689392,
+					["b"] = 0.8352941870689392,
 					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711996,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						130, -- [3]
+						131, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614537595,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[07:20:36]|h [W To] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1187:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: There's always a first time for everything",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712035,
+					["message"] = "|Hpratcopy|h[21:07:47]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq9|k|r|h|cffd8d8d8]|r: Playing some spontanous AoE witht he boys :)",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						10, -- [1]
+						52, -- [1]
 						false, -- [2]
-						65, -- [3]
-						66, -- [4]
+						125, -- [3]
+						137, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614539266,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[07:21:24]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1193:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: DB, nova , alter time, block, invis",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712083,
+					["message"] = "|Hpratcopy|h[21:07:52]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq9|k|r|h|cffd8d8d8]|r: Gonna join later for some keys",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						0, -- [1]
+						52, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						125, -- [3]
+						137, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614539271,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[07:21:29]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1194:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: this class is broken man XD",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712088,
+					["message"] = "|Hpratcopy|h[21:19:58]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq9|k|r|h|cffd8d8d8]|r: Everyone's raiding today anyway)",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						0, -- [1]
+						53, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						125, -- [3]
+						126, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614539997,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[07:21:38]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1195:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: more tanky than any dps",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712097,
+					["message"] = "|Hpratcopy|h[21:20:08]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq9|k|r|h|cffd8d8d8]|r: would've been hard to assemble a nice group",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						0, -- [1]
+						53, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						125, -- [3]
+						126, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614540007,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[07:21:44]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1196:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: but ill stop to pull dont worry :D",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712103,
+					["message"] = "|Hpratcopy|h[21:33:15]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: E nt,z ndbyrb e;t dct dsuekzys&",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						0, -- [1]
+						53, -- [1]
 						false, -- [2]
-						65, -- [3]
-						67, -- [4]
+						144, -- [3]
+						145, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614540794,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[07:21:47]|h [W To] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1197:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: Ok I'll take your word for it)",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712106,
+					["message"] = "|Hpratcopy|h[21:33:22]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: Ну ты понял, да?",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						10, -- [1]
+						53, -- [1]
 						false, -- [2]
-						65, -- [3]
-						66, -- [4]
+						144, -- [3]
+						145, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614540801,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[07:22:01]|h [W To] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1198:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: about mage being broken)",
+					["message"] = "|Hpratcopy|h[21:33:38]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: не очень)",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540817,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[21:33:57]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: Твинки, говорю, все выгуляны уже?",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						144, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540836,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[21:34:05]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: да",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540844,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[21:34:12]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: вара докачаю",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540851,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[21:34:15]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: завтра",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540854,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[21:34:21]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: может сходим",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540860,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[21:34:26]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: один ключ",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540865,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[21:34:31]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: но я не хочу его одевать",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540870,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[21:34:36]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: просто пару шмоток",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540875,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[21:34:43]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: чтобы легче квестики делались",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540882,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[21:34:50]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: :D",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						144, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540889,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[21:34:57]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq19|k:23:0:BN_WHISPER:|Kq19|k:vaf#2388|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq19|k|r|h|cffd8d8d8]|r: кампанию вентирскую пройти",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						144, -- [3]
+						146, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614540896,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[22:03:49]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq7|k:73:0:BN_WHISPER:|Kq7|k:Сашке#21941|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq7|k|r|h|cffd8d8d8]|r: Саша, кис-кис",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						100, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614542628,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[23:27:44]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq9|k|r|h|cffd8d8d8]|r: We are done. If there are any alt keys going, i am down to it",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						125, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614547663,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[23:51:15]|h [W To] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa22fc8|Kq9|k|r|h|cffd8d8d8]|r: It's getting pretty late, think I'll call it a night",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						125, -- [3]
+						126, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614549074,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[23:51:42]|h [W From] |cffd8d8d8[|r|HBNplayer:|Kq9|k:16:0:BN_WHISPER:|Kq9|k:Oranyx#2498|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa22fc8|Kq9|k|r|h|cffd8d8d8]|r: Alright :)",
+					["r"] = 0.8823530077934265,
+					["b"] = 1,
+					["g"] = 0.3176470696926117,
+					["timestamp"] = 353173.142,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						125, -- [3]
+						137, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1614549101,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[12:34:55]|h [W To] |cffd8d8d8[|r|Hplayer:Erzack-Tyrande:479:WHISPER:ERZACK-TYRANDE|h|cffa22fc8Erzack|r-|cff1194f0Tyr|r|h|cffd8d8d8]|r: Dude you forgot to include the level of the key",
 					["b"] = 0.8352941870689392,
 					["r"] = 0.8352941870689392,
 					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712120,
+					["timestamp"] = 353173.142,
+					["serverTime"] = 1614594895,
 					["extraData"] = {
 						10, -- [1]
 						false, -- [2]
-						65, -- [3]
-						66, -- [4]
+						17, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
-				}, -- [15]
+				}, -- [31]
 				{
-					["message"] = "|Hpratcopy|h[07:22:06]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1199:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: yeah",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712125,
-					["extraData"] = {
-						0, -- [1]
-						false, -- [2]
-						65, -- [3]
-						67, -- [4]
-						["n"] = 4,
-					},
-				}, -- [16]
-				{
-					["message"] = "|Hpratcopy|h[07:22:45]|h [W From] |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1201:WHISPER:ARCANESTEIN-HELLSCREAM|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r: dont flame me if i die tho XD class broken but not me",
-					["b"] = 0.8352941870689392,
-					["r"] = 0.8352941870689392,
-					["g"] = 0.4196078777313232,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613712164,
-					["extraData"] = {
-						0, -- [1]
-						false, -- [2]
-						65, -- [3]
-						67, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "0 |4день:дня:дней;, 2 |4час:часа:часов;, 46 |4минута:минуты:минут;, 14 |4секунда:секунды:секунд;.",
-					["timestamp"] = 31350.591,
-				}, -- [18]
+					["message"] = "0 |4день:дня:дней;, 2 |4час:часа:часов;, 11 |4минута:минуты:минут;, 18 |4секунда:секунды:секунд;.",
+					["timestamp"] = 353173.142,
+				}, -- [32]
 				{
 					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 31350.591,
-				}, -- [19]
+					["timestamp"] = 353173.142,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[14:53:37]|h [W To] |cffd8d8d8[|r|Hplayer:Кеннсис-ЧерныйШрам:30:WHISPER:КЕННСИС-ЧЕРНЫЙШРАМ|h|cfffe7b09Кеннсис|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: [Global Ignore List] You are being ignored.",
+					["serverTime"] = 1614603217,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 353617.902,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[16:09:07]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:424:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: me and warrior are up for more but dunno about heal and hunter",
+					["serverTime"] = 1614607747,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358147.61,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[16:09:20]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:425:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: ur call about healer but i would like to replace hunter for a mage maybe",
+					["serverTime"] = 1614607760,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358160.976,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[16:09:29]|h [W To] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:426:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: why not? Let people play)",
+					["serverTime"] = 1614607769,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						51, -- [3]
+						53, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358169.877,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[16:09:37]|h [W To] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:428:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: I'll relog and message you",
+					["serverTime"] = 1614607777,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						51, -- [3]
+						53, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358177.61,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[16:09:42]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:429:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: ok",
+					["serverTime"] = 1614607782,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358182.577,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[16:09:58]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:432:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: but he has to be on BL duty:)",
+					["serverTime"] = 1614607798,
+					["r"] = 0.8352941870689392,
+					["extraData"] = {
+						0, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358198.96,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
+				}, -- [40]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -3310,7 +3625,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 48,
+			["headIndex"] = 25,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -3323,703 +3638,358 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[10:41:04]|h |cffd8d8d8[|r|Hplayer:Ромун-Седогрив:174:ACHIEVEMENT|h|cffd84e4e60|r:|cfff38bb9Ромун|r-|cffdf5045Сед|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:6758:Player-1928-0E48185D:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Храм Нефритовой Змеи (героич.)]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[15:55:49]|h [Y] |cffd8d8d8[|r|Hplayer:Вафовна-Борейскаятундра:2916:YELL|h|cffd8bc3f60|r:|cffa9d271Вафовна|r|h|cffd8d8d8]|r: ЧЕРЕПАХА ДОБРАЛАСЬ ДО ВОДЫ",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						35, -- [4]
+						47, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613637664,
+					["serverTime"] = 1614520548,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[10:41:04]|h |cffd8d8d8[|r|Hplayer:Рофард-Гордунни:175:ACHIEVEMENT|h|cffd84e4e60|r:|cff006fdcРофард|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:6757:Player-1602-0E5F944F:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Храм Нефритовой Змеи]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[15:55:52]|h [Y] |cffd8d8d8[|r|Hplayer:Вафовна-Борейскаятундра:2917:YELL|h|cffd8bc3f60|r:|cffa9d271Вафовна|r|h|cffd8d8d8]|r: ЧЕРЕПАХА ДОБРАЛАСЬ ДО ВОДЫ",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						36, -- [4]
+						47, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613637664,
+					["serverTime"] = 1614520551,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[10:41:04]|h |cffd8d8d8[|r|Hplayer:Рофард-Гордунни:176:ACHIEVEMENT|h|cffd84e4e60|r:|cff006fdcРофард|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:6758:Player-1602-0E5F944F:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Храм Нефритовой Змеи (героич.)]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[15:56:21]|h [Y] |cffd8d8d8[|r|Hplayer:Вафовна-Борейскаятундра:2921:YELL|h|cffd8bc3f60|r:|cffa9d271Вафовна|r|h|cffd8d8d8]|r: ЧЕРЕПАХА ДОБРАЛАСЬ ДО ВОДЫ",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						36, -- [4]
+						47, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613637664,
+					["serverTime"] = 1614520580,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[10:41:04]|h |cffd8d8d8[|r|Hplayer:Рофард-Гордунни:177:ACHIEVEMENT|h|cffd84e4e60|r:|cff006fdcРофард|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:4477:Player-1602-0E5F944F:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Ищу вас!]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[16:02:08]|h [Y] |cffd8d8d8[|r|Hplayer:Вафовна-Борейскаятундра:2946:YELL|h|cffd8bc3f60|r:|cffa9d271Вафовна|r|h|cffd8d8d8]|r: ЧЕРЕПАХА ДОБРАЛАСЬ ДО ВОДЫ",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						36, -- [4]
+						47, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613637664,
+					["serverTime"] = 1614520927,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[10:41:04]|h |cffd8d8d8[|r|Hplayer:Пижмак-Борейскаятундра:178:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Пижмак|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:4478:Player-1929-0E2DFD17:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Ищу всех!]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[16:39:33]|h [Y] |cffd8d8d8[|r|Hplayer:Вафовна-Борейскаятундра:3131:YELL|h|cffd8bc3f60|r:|cffa9d271Вафовна|r|h|cffd8d8d8]|r: ЧЕРЕПАХА ДОБРАЛАСЬ ДО ВОДЫ",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						37, -- [4]
+						47, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613637664,
+					["serverTime"] = 1614523172,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[11:04:59]|h |cffd8d8d8[|r|Hplayer:Джинчурикх-Гордунни:319:ACHIEVEMENT|h|cffd84e4e52|r:|cff00fe97Джинчурикх|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6688:Player-1602-0ECC8FD2:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Где поддержка с воздуха?]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[16:39:38]|h [Y] |cffd8d8d8[|r|Hplayer:Вафовна-Борейскаятундра:3132:YELL|h|cffd8bc3f60|r:|cffa9d271Вафовна|r|h|cffd8d8d8]|r: ЧЕРЕПАХА ДОБРАЛАСЬ ДО ВОДЫ",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						42, -- [4]
+						47, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639099,
+					["serverTime"] = 1614523177,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[11:04:59]|h |cffd8d8d8[|r|Hplayer:Скованна-Гордунни:320:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Скованна|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6688:Player-1602-0B3F2881:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Где поддержка с воздуха?]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[19:05:04]|h |cffd8d8d8[|r|Hplayer:Уруч-Борейскаятундра:4622:ACHIEVEMENT|h|cff8687edУруч|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:505:Player-1929-0EDFB48E:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[250 заданий]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
 					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						34, -- [3]
-						43, -- [4]
+						87, -- [3]
+						88, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639099,
+					["serverTime"] = 1614531903,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[11:10:06]|h |cffd8d8d8[|r|Hplayer:Гефия-СтражСмерти:349:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Гефия|r-|cff7f6badСтр|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6485:Player-1605-0B3B4D81:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Вернуть отправителю]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[19:14:53]|h |cffd8d8d8[|r|Hplayer:Пуз-ЧерныйШрам:4624:ACHIEVEMENT|h|cfffef367Пуз|r-|cff32caf5Чер|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:506:Player-1929-0E78CDF2:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[500 заданий]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
 					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						34, -- [3]
-						46, -- [4]
+						87, -- [3]
+						89, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639406,
+					["serverTime"] = 1614532492,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[11:10:06]|h |cffd8d8d8[|r|Hplayer:Джинчурикх-Гордунни:350:ACHIEVEMENT|h|cffd84e4e52|r:|cff00fe97Джинчурикх|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6485:Player-1602-0ECC8FD2:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Вернуть отправителю]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[20:14:15]|h |cffd8d8d8[|r|Hplayer:Виндфуриа-Гордунни:4893:ACHIEVEMENT|h|cffd8bc3f60|r:|cff006fdcВиндфуриа|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14374:Player-1602-0E9AD420:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Семейная терапия]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
 					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						34, -- [3]
-						42, -- [4]
+						87, -- [3]
+						122, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639406,
+					["serverTime"] = 1614536054,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[11:10:06]|h |cffd8d8d8[|r|Hplayer:Скованна-Гордунни:351:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Скованна|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6485:Player-1602-0B3F2881:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Вернуть отправителю]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[20:25:36]|h |cffd8d8d8[|r|Hplayer:Виндфуриа-Гордунни:5046:ACHIEVEMENT|h|cffd8bc3f60|r:|cff006fdcВиндфуриа|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14373:Player-1602-0E9AD420:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Та Сторона]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
 					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						34, -- [3]
-						43, -- [4]
+						87, -- [3]
+						122, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639406,
+					["serverTime"] = 1614536735,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[11:13:02]|h |cffd8d8d8[|r|Hplayer:Гефия-СтражСмерти:373:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Гефия|r-|cff7f6badСтр|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:10011:Player-1605-0B3B4D81:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Осада храма Нюцзао]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[20:25:36]|h |cffd8d8d8[|r|Hplayer:Виндфуриа-Гордунни:5047:ACHIEVEMENT|h|cffd8bc3f60|r:|cff006fdcВиндфуриа|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14408:Player-1602-0E9AD420:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Героический режим: Та Сторона]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
 					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						34, -- [3]
-						46, -- [4]
+						87, -- [3]
+						122, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639582,
+					["serverTime"] = 1614536735,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[11:13:02]|h |cffd8d8d8[|r|Hplayer:Гефия-СтражСмерти:374:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Гефия|r-|cff7f6badСтр|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6763:Player-1605-0B3B4D81:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Осада храма Нюцзао (героич.)]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[20:25:36]|h |cffd8d8d8[|r|Hplayer:Виндфуриа-Гордунни:5048:ACHIEVEMENT|h|cffd8bc3f60|r:|cff006fdcВиндфуриа|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14409:Player-1602-0E9AD420:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: Та Сторона]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
 					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						34, -- [3]
-						46, -- [4]
+						87, -- [3]
+						122, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639582,
+					["serverTime"] = 1614536735,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[11:13:02]|h |cffd8d8d8[|r|Hplayer:Скованна-Гордунни:375:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Скованна|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:10011:Player-1602-0B3F2881:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Осада храма Нюцзао]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:41:35]|h [Y]  Стража! Убейте их!",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						43, -- [4]
+						47, -- [3]
+						169, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639582,
+					["serverTime"] = 1614548494,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[11:13:02]|h |cffd8d8d8[|r|Hplayer:Скованна-Гордунни:376:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Скованна|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6763:Player-1602-0B3F2881:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Осада храма Нюцзао (героич.)]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:41:35]|h [Y]  Стража! Убейте их!",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						43, -- [4]
+						47, -- [3]
+						169, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613639582,
+					["serverTime"] = 1614548494,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[11:49:14]|h |cffd8d8d8[|r|Hplayer:Лайтбокс-Борейскаятундра:609:ACHIEVEMENT|h|cfff38bb9Лайтбокс|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14629:Player-1929-0E2D7737:1:2:18:21:4294967295:4294967295:4294967295:4294967295|h[Заслуженное уважение]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:43:07]|h [Y]  Это пленница Владыки. Вам ее не увести!",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						34, -- [3]
-						61, -- [4]
+						47, -- [3]
+						169, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1613641754,
+					["serverTime"] = 1614548586,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[04:19:54]|h |cffd8d8d8[|r|Hplayer:Саинтлайнс-Гордунни:87:ACHIEVEMENT|h|cffd84e4e60|r:|cff8687edСаинтлайнс|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6469:Player-1602-0E879A31:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Монастырь Шадо-Пан]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:43:07]|h [Y]  Это пленница Владыки. Вам ее не увести!",
+					["r"] = 1,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						29, -- [3]
-						30, -- [4]
+						47, -- [3]
+						169, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1613701193,
-					["timestamp"] = 31350.591,
-					["g"] = 1,
-					["r"] = 1,
+					["serverTime"] = 1614548586,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[04:19:54]|h |cffd8d8d8[|r|Hplayer:Саинтлайнс-Гордунни:88:ACHIEVEMENT|h|cffd84e4e60|r:|cff8687edСаинтлайнс|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:6470:Player-1602-0E879A31:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Монастырь Шадо-Пан (героич.)]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:44:19]|h [Y]  Эти чертоги станут вашей могилой!",
+					["r"] = 1,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						29, -- [3]
-						30, -- [4]
+						47, -- [3]
+						169, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1613701193,
-					["timestamp"] = 31350.591,
-					["g"] = 1,
-					["r"] = 1,
+					["serverTime"] = 1614548658,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[04:19:54]|h |cffd8d8d8[|r|Hplayer:Взялдалушёл-ВечнаяПесня:89:ACHIEVEMENT|h|cffd84e4e52|r:|cff8687edВзялдалушёл|r-|cffe8dfccВеч|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:6469:Player-1925-0ED5260C:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Монастырь Шадо-Пан]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:44:19]|h [Y]  Эти чертоги станут вашей могилой!",
+					["r"] = 1,
+					["b"] = 0.250980406999588,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
-						47, -- [1]
+						7, -- [1]
 						false, -- [2]
-						29, -- [3]
-						31, -- [4]
+						47, -- [3]
+						169, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1613701193,
-					["timestamp"] = 31350.591,
-					["g"] = 1,
-					["r"] = 1,
+					["serverTime"] = 1614548658,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[04:19:54]|h |cffd8d8d8[|r|Hplayer:Взялдалушёл-ВечнаяПесня:90:ACHIEVEMENT|h|cffd84e4e52|r:|cff8687edВзялдалушёл|r-|cffe8dfccВеч|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:6470:Player-1925-0ED5260C:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Монастырь Шадо-Пан (героич.)]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[23:48:27]|h |cffd8d8d8[|r|Hplayer:Varragoth-Silvermoon:5872:ACHIEVEMENT|h|cffd8bc3f60|r:|cff8687edVarragoth|r-|cffd04c7eSil|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14197:Player-3391-0BE080FB:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						29, -- [3]
-						31, -- [4]
+						87, -- [3]
+						171, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1613701193,
-					["timestamp"] = 31350.591,
-					["g"] = 1,
-					["r"] = 1,
+					["serverTime"] = 1614548906,
 				}, -- [19]
 				{
-					["message"] = "|Hpratcopy|h[05:07:28]|h |cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:364:ACHIEVEMENT|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14629:Player-1929-0E2E5070:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Заслуженное уважение]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[23:48:27]|h |cffd8d8d8[|r|Hplayer:Varragoth-Silvermoon:5873:ACHIEVEMENT|h|cffd8bc3f60|r:|cff8687edVarragoth|r-|cffd04c7eSil|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14198:Player-3391-0BE080FB:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Героический режим: Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
+					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613704047,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						27, -- [3]
-						28, -- [4]
+						87, -- [3]
+						171, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614548906,
 				}, -- [20]
 				{
-					["message"] = "|Hpratcopy|h[05:07:28]|h |cffd8d8d8[|r|Hplayer:Molra-Sylvanas:365:ACHIEVEMENT|h|cfffefefeMolra|r-|cffe04560Syl|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14629:Player-1597-0CF0A4C1:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Заслуженное уважение]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[23:48:27]|h |cffd8d8d8[|r|Hplayer:Varragoth-Silvermoon:5874:ACHIEVEMENT|h|cffd8bc3f60|r:|cff8687edVarragoth|r-|cffd04c7eSil|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14199:Player-3391-0BE080FB:1:2:28:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["r"] = 1,
+					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613704047,
+					["timestamp"] = 353173.142,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						27, -- [3]
-						29, -- [4]
+						87, -- [3]
+						171, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1614548906,
 				}, -- [21]
 				{
-					["message"] = "|Hpratcopy|h[06:52:04]|h |cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:989:ACHIEVEMENT|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14671:Player-1929-0E2E5070:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Что-то здесь не так...]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613710323,
+					["message"] = "|Hpratcopy|h[08:27:21]|h |cffd8d8d8[|r|Hplayer:Светлый-ПиратскаяБухта:28:ACHIEVEMENT|h|cfff38bb9Светлый|r-|cff3be3ceПир|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14630:Player-1929-0E647D11:1:3:1:21:4294967295:4294967295:4294967295:4294967295|h[Признание героя]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						27, -- [3]
-						28, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0,
+					["serverTime"] = 1614580041,
+					["timestamp"] = 353173.142,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [22]
 				{
-					["message"] = "|Hpratcopy|h[07:14:20]|h |cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1129:ACHIEVEMENT|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14412:Player-1929-0E2E5070:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Героический режим: туманы Тирна Скитта]|h|r |cffffffff(|rсделано|cffffffff)|r!",
+					["message"] = "|Hpratcopy|h[12:34:20]|h |cffd8d8d8[|r|Hplayer:Востед-Борейскаятундра:478:ACHIEVEMENT|h|cff00fe97Востед|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:11213:Player-1929-0E892A51:1:3:1:21:4294967295:4294967295:4294967295:4294967295|h[Командующий легионом]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711659,
+					["timestamp"] = 353173.142,
+					["serverTime"] = 1614594860,
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						27, -- [3]
-						28, -- [4]
+						15, -- [3]
+						16, -- [4]
 						["n"] = 4,
 					},
 				}, -- [23]
 				{
-					["message"] = "|Hpratcopy|h[07:14:20]|h |cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1130:ACHIEVEMENT|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14413:Player-1929-0E2E5070:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: туманы Тирна Скитта]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711659,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						28, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "0 |4день:дня:дней;, 2 |4час:часа:часов;, 11 |4минута:минуты:минут;, 53 |4секунда:секунды:секунд;.",
+					["timestamp"] = 353173.142,
 				}, -- [24]
 				{
-					["message"] = "|Hpratcopy|h[07:14:20]|h |cffd8d8d8[|r|Hplayer:Ророру-Азурегос:1131:ACHIEVEMENT|h|cffd8bc3f60|r:|cfff38bb9Ророру|r-|cfff288d1Азу|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14413:Player-1922-0ED9E9FA:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: туманы Тирна Скитта]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711659,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						57, -- [4]
-						["n"] = 4,
-					},
-				}, -- [25]
-				{
-					["message"] = "|Hpratcopy|h[07:15:33]|h |cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1137:ACHIEVEMENT|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:11183:Player-1602-0EBBBBA9:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Начинающий ключник]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711732,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						58, -- [4]
-						["n"] = 4,
-					},
-				}, -- [26]
-				{
-					["message"] = "|Hpratcopy|h[07:15:33]|h |cffd8d8d8[|r|Hplayer:Руко-Гордунни:1138:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:11183:Player-1602-0ED9AC95:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Начинающий ключник]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613711732,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [27]
-				{
-					["message"] = "|Hpratcopy|h[07:49:32]|h [Y]  Стража! Убейте их!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613713771,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						70, -- [3]
-						71, -- [4]
-						["n"] = 4,
-					},
-				}, -- [28]
-				{
-					["message"] = "|Hpratcopy|h[07:49:32]|h [Y]  Стража! Убейте их!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613713771,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						70, -- [3]
-						71, -- [4]
-						["n"] = 4,
-					},
-				}, -- [29]
-				{
-					["message"] = "|Hpratcopy|h[07:51:07]|h [Y]  Это пленница Владыки. Вам ее не увести!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613713866,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						70, -- [3]
-						71, -- [4]
-						["n"] = 4,
-					},
-				}, -- [30]
-				{
-					["message"] = "|Hpratcopy|h[07:51:07]|h [Y]  Это пленница Владыки. Вам ее не увести!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613713866,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						70, -- [3]
-						71, -- [4]
-						["n"] = 4,
-					},
-				}, -- [31]
-				{
-					["message"] = "|Hpratcopy|h[07:52:51]|h [Y]  Эти чертоги станут вашей могилой!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613713970,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						70, -- [3]
-						71, -- [4]
-						["n"] = 4,
-					},
-				}, -- [32]
-				{
-					["message"] = "|Hpratcopy|h[07:52:51]|h [Y]  Эти чертоги станут вашей могилой!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613713970,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						70, -- [3]
-						71, -- [4]
-						["n"] = 4,
-					},
-				}, -- [33]
-				{
-					["message"] = "|Hpratcopy|h[07:57:09]|h |cffd8d8d8[|r|Hplayer:Руко-Гордунни:1315:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14197:Player-1602-0ED9AC95:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714228,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [34]
-				{
-					["message"] = "|Hpratcopy|h[07:57:09]|h |cffd8d8d8[|r|Hplayer:Руко-Гордунни:1316:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14198:Player-1602-0ED9AC95:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Героический режим: Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714228,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [35]
-				{
-					["message"] = "|Hpratcopy|h[07:57:09]|h |cffd8d8d8[|r|Hplayer:Руко-Гордунни:1317:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14199:Player-1602-0ED9AC95:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714228,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [36]
-				{
-					["message"] = "|Hpratcopy|h[07:57:09]|h |cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1318:ACHIEVEMENT|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14197:Player-1602-0EBBBBA9:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714228,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						58, -- [4]
-						["n"] = 4,
-					},
-				}, -- [37]
-				{
-					["message"] = "|Hpratcopy|h[07:57:09]|h |cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1319:ACHIEVEMENT|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14198:Player-1602-0EBBBBA9:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Героический режим: Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714228,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						58, -- [4]
-						["n"] = 4,
-					},
-				}, -- [38]
-				{
-					["message"] = "|Hpratcopy|h[07:57:09]|h |cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1320:ACHIEVEMENT|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14199:Player-1602-0EBBBBA9:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: Кровавые катакомбы]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714228,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						58, -- [4]
-						["n"] = 4,
-					},
-				}, -- [39]
-				{
-					["message"] = "|Hpratcopy|h[07:57:10]|h |cffd8d8d8[|r|Hplayer:Парвинка-Гордунни:1321:ACHIEVEMENT|h|cffd8bc3f60|r:|cffc59a6cПарвинка|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:11184:Player-1602-0EBBBBA9:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Ключник-претендент]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714229,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						58, -- [4]
-						["n"] = 4,
-					},
-				}, -- [40]
-				{
-					["message"] = "|Hpratcopy|h[07:57:10]|h |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1322:ACHIEVEMENT|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:11184:Player-1325-092DD760:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Ключник-претендент]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714229,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						72, -- [4]
-						["n"] = 4,
-					},
-				}, -- [41]
-				{
-					["message"] = "|Hpratcopy|h[07:57:10]|h |cffd8d8d8[|r|Hplayer:Ророру-Азурегос:1323:ACHIEVEMENT|h|cffd8bc3f60|r:|cfff38bb9Ророру|r-|cfff288d1Азу|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:11184:Player-1922-0ED9E9FA:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Ключник-претендент]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714229,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						57, -- [4]
-						["n"] = 4,
-					},
-				}, -- [42]
-				{
-					["message"] = "|Hpratcopy|h[07:57:10]|h |cffd8d8d8[|r|Hplayer:Руко-Гордунни:1324:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Руко|r-|cff8dec6aГор|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:11184:Player-1602-0ED9AC95:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Ключник-претендент]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613714229,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [43]
-				{
-					["message"] = "|Hpratcopy|h[08:38:07]|h |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1538:ACHIEVEMENT|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14324:Player-1325-092DD760:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Героический режим: Шпили Перерождения]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716686,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						72, -- [4]
-						["n"] = 4,
-					},
-				}, -- [44]
-				{
-					["message"] = "|Hpratcopy|h[08:38:07]|h |cffd8d8d8[|r|Hplayer:Arcanestein-Hellscream:1539:ACHIEVEMENT|h|cffd8bc3f60|r:|cff3ec6eaArcanestein|r-|cfff88e8fHel|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14325:Player-1325-092DD760:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Эпохальный режим: Шпили Перерождения]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613716686,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						72, -- [4]
-						["n"] = 4,
-					},
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[08:47:30]|h |cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:1635:ACHIEVEMENT|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14755:Player-1929-0E2E5070:1:2:19:21:4294967295:4294967295:4294967295:4294967295|h[Легендарное единство]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 31350.591,
-					["serverTime"] = 1613717249,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						27, -- [3]
-						28, -- [4]
-						["n"] = 4,
-					},
-				}, -- [46]
-				{
-					["message"] = "0 |4день:дня:дней;, 1 |4час:часа:часов;, 21 |4минута:минуты:минут;, 29 |4секунда:секунды:секунд;.",
-					["timestamp"] = 31350.591,
-				}, -- [47]
-				{
 					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 31350.591,
-				}, -- [48]
+					["timestamp"] = 353173.142,
+				}, -- [25]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -4080,7 +4050,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 122,
+			["headIndex"] = 76,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -4093,1289 +4063,1053 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[11:27:09]|h Хелия говорит: Брось игрушку, дорогая. У нас много работы.",
-					["serverTime"] = 1613726828,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36041.787,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[16:04:28]|h |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:204197:0|h[Очищение зла]|h|r from Teapott-Silvermoon |cFFFFBB00Boss First Target|r: Дэлери    ",
+					["timestamp"] = 357868.922,
+					["serverTime"] = 1614607468,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[11:27:17]|h Лисония говорит: А-р-р! Идем, Утер. Наша цель важнее этих глупцов.",
-					["serverTime"] = 1613726836,
+					["message"] = "|Hpratcopy|h[16:04:30]|h Хирург Трупошов кричит: Стежок за стежком!",
+					["serverTime"] = 1614607470,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36049.287,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 357870.706,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[11:27:24]|h Утер говорит: Мой взор... застилает тьма...",
-					["serverTime"] = 1613726843,
+					["message"] = "|Hpratcopy|h[16:04:38]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:363:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Embalming Ichor on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607478,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36056.737,
+					["timestamp"] = 357878.638,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[11:27:32]|h Задание \"План Лисонии\" выполнено.",
-					["serverTime"] = 1613726851,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:39]|h [S] |cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:364:SAY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: Мясницкий крюк на |cffa5a5a5Сержсупер|r!",
+					["serverTime"] = 1614607479,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36064.054,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357879.305,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[11:27:32]|h Получено: 12 |4золотая:золотые:золотых;, 87 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613726851,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:40]|h Хирург Трупошов кричит: Так ваши органы не испортятся!",
+					["serverTime"] = 1614607480,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36064.054,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357880.506,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[11:27:35]|h Вы получили задание \"Сила Утробы\".",
-					["serverTime"] = 1613726854,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:41]|h [S] |cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:366:SAY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: 2",
+					["serverTime"] = 1614607481,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36066.888,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357881.289,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[11:27:36]|h Клейя говорит: Я возьму Сострадание с собой. Встретимся в Орибосе. Мне нужно подготовиться. Немногие кирии проделывают такой путь...",
-					["serverTime"] = 1613726855,
+					["message"] = "|Hpratcopy|h[16:04:42]|h [S] |cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:367:SAY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: 1",
+					["serverTime"] = 1614607482,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36068.471,
+					["timestamp"] = 357882.275,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[11:28:52]|h Вы будете получать добычу для специализации \"Месть\".",
-					["serverTime"] = 1613726931,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:47]|h Хирург Трупошов кричит: Идиот! Я твой создатель!",
+					["serverTime"] = 1614607487,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 36143.956,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357887.422,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[11:28:53]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Орибос]|h.",
-					["serverTime"] = 1613726932,
+					["message"] = "|Hpratcopy|h[16:04:57]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:370:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Meat Hook on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607497,
 					["r"] = 1,
 					["extraData"] = {
-						67, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36144.992,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357897.856,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[11:28:53]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
-					["serverTime"] = 1613726932,
+					["message"] = "|Hpratcopy|h[16:04:57]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:371:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Meat Hook on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607497,
 					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						2, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36144.992,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357897.856,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[11:29:17]|h Служитель-чиновник говорит: Верно. Хотя порой мне удается только пресекать их самые безумные проекты.",
-					["serverTime"] = 1613726956,
+					["message"] = "|Hpratcopy|h[16:04:58]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:372:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1614607498,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36169.673,
+					["timestamp"] = 357898.883,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[11:29:22]|h Клейя говорит: То есть мы просто... прыгнем туда? В бездну, полную проклятых душ без надежды на свободу и искупление?",
-					["serverTime"] = 1613726961,
+					["message"] = "|Hpratcopy|h[16:04:58]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:373:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1614607498,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36174.039,
+					["timestamp"] = 357898.883,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[11:29:22]|h Служитель-чиновник говорит: Верно. Хотя порой мне удается только пресекать их самые безумные проекты.",
-					["serverTime"] = 1613726961,
+					["message"] = "|Hpratcopy|h[16:04:59]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:374:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 2",
+					["serverTime"] = 1614607499,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36174.489,
+					["timestamp"] = 357899.806,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[11:29:33]|h Вы будете получать добычу для специализации \"Месть\".",
-					["serverTime"] = 1613726972,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:59]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:375:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 2",
+					["serverTime"] = 1614607499,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						2, -- [1]
+						false, -- [2]
+						40, -- [3]
+						45, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 36185.24,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357899.806,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[11:29:34]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Утроба]|h.",
-					["serverTime"] = 1613726973,
+					["message"] = "|Hpratcopy|h[16:05:00]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:376:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 1",
+					["serverTime"] = 1614607500,
 					["r"] = 1,
 					["extraData"] = {
-						67, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36186.209,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357900.672,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[11:29:34]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
-					["serverTime"] = 1613726973,
+					["message"] = "|Hpratcopy|h[16:05:00]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:377:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: 1",
+					["serverTime"] = 1614607500,
 					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						2, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36186.209,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357900.672,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[11:30:31]|h Клейя говорит: Следуя за Лисонией, я прошла за эти ворота. И там я узнала... нечто ужасное.",
-					["serverTime"] = 1613727030,
+					["message"] = "|Hpratcopy|h[16:05:02]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:378:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Morbid Fixation on |cffa5a5a5Awq|r",
+					["serverTime"] = 1614607502,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36243.541,
+					["timestamp"] = 357902.372,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[11:30:32]|h Задание \"Сила Утробы\" выполнено.",
-					["serverTime"] = 1613727031,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:05:04]|h Хирург Трупошов кричит: Простенькая модель, зато с большим потенциалом!",
+					["serverTime"] = 1614607504,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36244.474,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357904.272,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[11:30:32]|h Получено: 12 |4золотая:золотые:золотых;, 87 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613727031,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:05:14]|h Хирург Трупошов кричит: Из вас... получился бы... шедевр...",
+					["serverTime"] = 1614607514,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36244.474,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357914.139,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [19]
 				{
-					["message"] = "|Hpratcopy|h[11:30:32]|h |TInterface\\ICONS\\Spell_AnimaMaw_Buff.BLP:20|t Противники в цитадели Вечных Мук чувствуют вашу |cFFFF0000|Hspell:336990|h[открытую аниму]|h|r!",
-					["serverTime"] = 1613727031,
-					["r"] = 1,
-					["extraData"] = {
-						43, -- [1]
-						false, -- [2]
-						33, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36244.474,
-					["g"] = 0.8666667342185974,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[16:05:14]|h BigWigs: |cffffff00'Хирург Трупошов' терпит поражение спустя 45 с.|r",
+					["timestamp"] = 357914.956,
+					["serverTime"] = 1614607514,
 				}, -- [20]
 				{
-					["message"] = "|Hpratcopy|h[11:30:32]|h Ве'нари говорит: В цитадели Вечных Мук запах анимы выдаст тебя, смертное существо. Остановись!",
-					["serverTime"] = 1613727031,
+					["message"] = "|Hpratcopy|h[16:05:31]|h Налтор Криомант кричит: Мы разрушим Бастион до основания!",
+					["serverTime"] = 1614607531,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36244.807,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 357932.056,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [21]
 				{
-					["message"] = "|Hpratcopy|h[11:30:38]|h Вы получили задание \"Шаг за грань\".",
-					["serverTime"] = 1613727037,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36250.441,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[16:05:32]|h |cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Дэлери    ",
+					["timestamp"] = 357932.356,
+					["serverTime"] = 1614607532,
 				}, -- [22]
 				{
-					["message"] = "|Hpratcopy|h[11:30:43]|h Вы получили задание \"Больше не кирии\".",
-					["serverTime"] = 1613727042,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:05:41]|h [S] |cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:383:SAY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: Ледяные путы на |cffa5a5a5Сержсупер|r!",
+					["serverTime"] = 1614607541,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36255.041,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357941.173,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [23]
 				{
-					["message"] = "|Hpratcopy|h[11:30:57]|h Ваша добыча: |cffffffff|Hitem:184485::::::::60:577:::::::|h[Выкованный в Утробе ключ]|h|r.",
-					["serverTime"] = 1613727056,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:05:48]|h Налтор Криомант кричит: Никто не убежит от бури.",
+					["serverTime"] = 1614607548,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						15, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36269.208,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 357948.691,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [24]
 				{
-					["message"] = "|Hpratcopy|h[11:30:58]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 1 шт.",
-					["serverTime"] = 1613727057,
-					["r"] = 0.6823529601097107,
+					["message"] = "|Hpratcopy|h[16:05:59]|h Налтор Криомант кричит: Вы мне надоели!",
+					["serverTime"] = 1614607559,
+					["r"] = 1,
 					["extraData"] = {
-						59, -- [1]
+						15, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36270.108,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 357959.694,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [25]
 				{
-					["message"] = "|Hpratcopy|h[11:30:58]|h Ваша добыча: 1 |4золотая:золотые:золотых;, 98 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727057,
+					["message"] = "|Hpratcopy|h[16:06:06]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:387:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Frozen Binds on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607566,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						2, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36270.24,
+					["timestamp"] = 357966.657,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 1,
 				}, -- [26]
 				{
-					["message"] = "|Hpratcopy|h[11:31:15]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 1 шт.",
-					["serverTime"] = 1613727074,
-					["r"] = 0.6823529601097107,
+					["message"] = "|Hpratcopy|h[16:06:06]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:388:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Frozen Binds on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607566,
+					["r"] = 1,
 					["extraData"] = {
-						59, -- [1]
+						2, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36287.008,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 357966.657,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [27]
 				{
-					["message"] = "|Hpratcopy|h[11:31:15]|h Ваша добыча: 2 |4золотая:золотые:золотых;, 51 |4серебряная:серебряные:серебряных;, 56 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727074,
+					["message"] = "|Hpratcopy|h[16:06:14]|h Налтор Криомант кричит: Никто не убежит от бури.",
+					["serverTime"] = 1614607574,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						15, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36287.025,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 357974.123,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [28]
 				{
-					["message"] = "|Hpratcopy|h[11:31:55]|h Ваша добыча: |cffffffff|Hitem:184485::::::::60:577:::::::|h[Выкованный в Утробе ключ]|h|r.",
-					["serverTime"] = 1613727114,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:06:30]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:391:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Frozen Binds on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607590,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						2, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36326.925,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 357990.79,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [29]
 				{
-					["message"] = "|Hpratcopy|h[11:31:56]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 3 шт.",
-					["serverTime"] = 1613727115,
-					["r"] = 0.6823529601097107,
+					["message"] = "|Hpratcopy|h[16:06:30]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:392:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Frozen Binds on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607590,
+					["r"] = 1,
 					["extraData"] = {
-						59, -- [1]
+						2, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36327.932,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 357990.79,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [30]
 				{
-					["message"] = "|Hpratcopy|h[11:31:56]|h Ваша добыча: 7 |4золотая:золотые:золотых;, 83 |4серебряная:серебряные:серебряных;, 20 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727115,
+					["message"] = "|Hpratcopy|h[16:06:36]|h Налтор Криомант кричит: Вы мне надоели!",
+					["serverTime"] = 1614607596,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						15, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36327.932,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 357996.174,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [31]
 				{
-					["message"] = "|Hpratcopy|h[11:31:59]|h Пленный раскольник говорит: Лисония в своей жажде власти зашла слишком далеко. Я не знаю, что теперь... но я больше не хочу ей служить.",
-					["serverTime"] = 1613727118,
+					["message"] = "|Hpratcopy|h[16:06:38]|h Налтор Криомант кричит: Никто не убежит от бури.",
+					["serverTime"] = 1614607598,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36331.342,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 357998.64,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [32]
 				{
-					["message"] = "|Hpratcopy|h[11:32:17]|h Пленный раскольник говорит: Пилигрим... не думай, что мы теперь друзья. Наши цели и помыслы по-прежнему не совпадают.",
-					["serverTime"] = 1613727136,
+					["message"] = "|Hpratcopy|h[16:06:56]|h [S] |cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:396:SAY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: Ледяные путы на |cffa5a5a5Сержсупер|r!",
+					["serverTime"] = 1614607616,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36349.176,
+					["timestamp"] = 358016.457,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [33]
 				{
-					["message"] = "|Hpratcopy|h[11:33:00]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 3 шт.",
-					["serverTime"] = 1613727179,
-					["r"] = 0.6823529601097107,
+					["message"] = "|Hpratcopy|h[16:07:03]|h Налтор Криомант кричит: Никто не убежит от бури.",
+					["serverTime"] = 1614607623,
+					["r"] = 1,
 					["extraData"] = {
-						59, -- [1]
+						15, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36392.126,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 358024.091,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [34]
 				{
-					["message"] = "|Hpratcopy|h[11:33:00]|h Ваша добыча: 4 |4золотая:золотые:золотых;, 47 |4серебряная:серебряные:серебряных;, 14 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727179,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:07:11]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:398:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: i waited for u to come up for BL xD",
+					["serverTime"] = 1614607631,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						29, -- [1]
+						50, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36392.143,
+					["timestamp"] = 358031.741,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.5490196347236633,
 				}, -- [35]
 				{
-					["message"] = "|Hpratcopy|h[11:33:04]|h Пленная раскольница говорит: Никто не говорил мне, что раскольники связаны с Утробой! С меня хватит.",
-					["serverTime"] = 1613727183,
+					["message"] = "|Hpratcopy|h[16:07:12]|h Налтор Криомант кричит: Вы мне надоели!",
+					["serverTime"] = 1614607632,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36396.693,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 358032.608,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [36]
 				{
-					["message"] = "|Hpratcopy|h[11:33:18]|h Ваша добыча: |cffffffff|Hitem:184485::::::::60:577:::::::|h[Выкованный в Утробе ключ]|h|r.",
-					["serverTime"] = 1613727197,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:07:21]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:402:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Frozen Binds on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607641,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						2, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36410.66,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 358041.924,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [37]
 				{
-					["message"] = "|Hpratcopy|h[11:33:19]|h Ваша добыча: 1 |4золотая:золотые:золотых;, 93 |4серебряная:серебряные:серебряных;, 15 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727198,
+					["message"] = "|Hpratcopy|h[16:07:21]|h [S] |cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:403:SAY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: Frozen Binds on |cffa5a5a5Teapott|r",
+					["serverTime"] = 1614607641,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						2, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						40, -- [3]
+						45, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36411.493,
+					["timestamp"] = 358041.924,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 1,
 				}, -- [38]
 				{
-					["message"] = "|Hpratcopy|h[11:33:19]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 2 шт.",
-					["serverTime"] = 1613727198,
-					["r"] = 0.6823529601097107,
+					["message"] = "|Hpratcopy|h[16:07:29]|h Налтор Криомант кричит: Никто не убежит от бури.",
+					["serverTime"] = 1614607649,
+					["r"] = 1,
 					["extraData"] = {
-						59, -- [1]
+						15, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36411.827,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 358049.629,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [39]
 				{
-					["message"] = "|Hpratcopy|h[11:34:04]|h Ваша добыча: |cffffffff|Hitem:173202::::::::60:577:::::::|h[Сумеречная ткань]|h|rx6.",
-					["serverTime"] = 1613727243,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:07:42]|h Налтор Криомант кричит: Временная победа... над малой частью наших сил...",
+					["serverTime"] = 1614607662,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						15, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36456.246,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 358062.533,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [40]
 				{
-					["message"] = "|Hpratcopy|h[11:34:04]|h Ваша добыча: |cff1eff00|Hitem:173204::::::::60:577:::::::|h[Сумрачный шелк]|h|rx2.",
-					["serverTime"] = 1613727243,
-					["r"] = 0.9686275124549866,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						13, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36456.246,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:07:42]|h |T3849264:15:15:0:0:64:64:4:60:4:60|tПоводья Костезубки: 40 попыток",
+					["r"] = 1,
+					["serverTime"] = 1614607662,
+					["timestamp"] = 358062.832,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [41]
 				{
-					["message"] = "|Hpratcopy|h[11:34:04]|h Ваша добыча: |cffffffff|Hitem:184485::::::::60:577:::::::|h[Выкованный в Утробе ключ]|h|r.",
-					["serverTime"] = 1613727243,
+					["message"] = "|Hpratcopy|h[16:07:42]|h Сир Денатрий шепчет: Впечатляет. И все же мне не терпится оборвать ваши жалкие жизни.",
+					["serverTime"] = 1614607662,
+					["r"] = 1,
+					["extraData"] = {
+						16, -- [1]
+						false, -- [2]
+						38, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358062.981,
+					["g"] = 0.7098039388656616,
+					["b"] = 0.9215686917304993,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[16:07:43]|h BigWigs: |cffffff00'Налтор Криомант' терпит поражение спустя 2 мин. 10 с.|r",
+					["timestamp"] = 358063.492,
+					["serverTime"] = 1614607663,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[16:07:44]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:407:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: New Keystone: |cffa335ee|Hkeystone:180653:380:14:9:6:14:121|h[Keystone: Sanguine Depths (14)]|h|r",
+					["serverTime"] = 1614607664,
+					["r"] = 0.4313725829124451,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						28, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358065.008,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[16:07:46]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:408:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: gg",
+					["serverTime"] = 1614607666,
+					["r"] = 0.4313725829124451,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						28, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358067.075,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[16:07:52]|h Teapott-Silvermoon получает добычу: |cffa335ee|Hitem:178736::::::::60:581::16:6:7211:6652:7194:1501:5865:6646:1:28:1279:::|h[Потерянная печатка Трупошва]|h|r.",
+					["serverTime"] = 1614607672,
 					["r"] = 0.9686275124549866,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						14, -- [3]
+						47, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36456.246,
+					["timestamp"] = 358072.275,
 					["g"] = 0.9843137860298157,
 					["b"] = 0.9686275124549866,
-				}, -- [42]
-				{
-					["message"] = "|Hpratcopy|h[11:34:05]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 9 шт.",
-					["serverTime"] = 1613727244,
-					["r"] = 0.6823529601097107,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						15, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36457.094,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
-				}, -- [43]
-				{
-					["message"] = "|Hpratcopy|h[11:34:05]|h Ваша добыча: 12 |4золотая:золотые:золотых;, 66 |4серебряная:серебряные:серебряных;, 97 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727244,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						17, -- [3]
-						18, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36457.261,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [44]
-				{
-					["message"] = "|Hpratcopy|h[11:34:09]|h Пленный раскольник говорит: Лисония в своей жажде власти зашла слишком далеко. Я не знаю, что теперь... но я больше не хочу ей служить.",
-					["serverTime"] = 1613727248,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36461.761,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[11:35:17]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 2 шт.",
-					["serverTime"] = 1613727316,
-					["r"] = 0.6823529601097107,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						15, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36529.679,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
 				}, -- [46]
 				{
-					["message"] = "|Hpratcopy|h[11:35:17]|h Ваша добыча: 8 |4золотая:золотые:золотых;, 71 |4серебряная:серебряные:серебряных;, 77 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727316,
+					["message"] = "|Hpratcopy|h[16:07:52]|h Awq-Ravencrest получает добычу: |cffa335ee|Hitem:183402::::::::60:581::16:2:1527:7245:2:28:1279:37:5:::|h[Кровопускание]|h|r.",
+					["serverTime"] = 1614607672,
+					["r"] = 0.9686275124549866,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						14, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358072.308,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[16:07:53]|h Ваша добыча: |cffffffff|Hitem:178577::::::::60:581:::::::|h[Инструкция по созданию филактерии Налтора]|h|r.",
+					["serverTime"] = 1614607673,
+					["r"] = 0.9686275124549866,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358073.192,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[16:07:53]|h Ваша добыча: |cff0070dd|Hitem:184362::::::::60:581:::::::|h[Раздумья о чистоте]|h|rx3.",
+					["serverTime"] = 1614607673,
+					["r"] = 0.9686275124549866,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358073.342,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[16:07:53]|h Сержсупер-Гордунни получает добычу: |cffa335ee|Hitem:178781::::::::60:581::16:6:7211:6652:7193:1501:5865:6646:1:28:1279:::|h[Ритуальный перстень командира]|h|r.",
+					["serverTime"] = 1614607673,
+					["r"] = 0.9686275124549866,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						14, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358073.367,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[16:07:53]|h Ваша добыча: 51 |4золотая:золотые:золотых;, 88 |4серебряная:серебряные:серебряных;, 30 |4медная монета:медные монеты:медных монет;.",
+					["serverTime"] = 1614607673,
 					["r"] = 1,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36529.679,
+					["timestamp"] = 358074.025,
 					["g"] = 1,
 					["b"] = 0,
-				}, -- [47]
-				{
-					["message"] = "|Hpratcopy|h[11:35:21]|h Утер говорит: Моя душа... отмечена Утробой?",
-					["serverTime"] = 1613727320,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36533.229,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [48]
-				{
-					["message"] = "|Hpratcopy|h[11:35:22]|h Пленная раскольница говорит: Никто не говорил мне, что раскольники связаны с Утробой! С меня хватит.",
-					["serverTime"] = 1613727321,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36534.229,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [49]
-				{
-					["message"] = "|Hpratcopy|h[11:35:25]|h Задание \"Больше не кирии\" выполнено.",
-					["serverTime"] = 1613727324,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36537.095,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [50]
-				{
-					["message"] = "|Hpratcopy|h[11:35:25]|h Получено: 25 |4золотая:золотые:золотых;, 74 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613727324,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36537.095,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
 				}, -- [51]
 				{
-					["message"] = "|Hpratcopy|h[11:35:26]|h Задание \"Шаг за грань\" выполнено.",
-					["serverTime"] = 1613727325,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:08:02]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:415:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:178781::::::::60:254::16:6:7211:6652:7193:1501:5865:6646:1:28:1279:::|h[Ритуальный перстень командира]|h|r",
+					["serverTime"] = 1614607682,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						1, -- [1]
+						3, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36538.704,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 358082.675,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [52]
 				{
-					["message"] = "|Hpratcopy|h[11:35:26]|h Получено: 25 |4золотая:золотые:золотых;, 74 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613727325,
+					["message"] = "|Hpratcopy|h[16:08:09]|h |cffa5a5a5Awq|r выбрасывает 84 (1-100)",
+					["serverTime"] = 1614607689,
 					["r"] = 0.9960784912109375,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						12, -- [3]
+						13, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36538.704,
+					["timestamp"] = 358089.492,
 					["g"] = 0.9137255549430847,
 					["b"] = 1,
 				}, -- [53]
 				{
-					["message"] = "|Hpratcopy|h[11:35:28]|h Вы получили задание \"Да исполнится ее воля\".",
-					["serverTime"] = 1613727327,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:08:30]|h Paytax-ArgentDawn получает добычу: |cffa335ee|Hitem:181709::::::::60:581::16:2:1527:7245:2:28:1279:37:5:::|h[Пугающая сосредоточенность]|h|r.",
+					["serverTime"] = 1614607710,
+					["r"] = 0.9686275124549866,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						14, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36540.429,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 358110.109,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
 				}, -- [54]
 				{
-					["message"] = "|Hpratcopy|h[11:35:28]|h Клейя говорит: Знакомая энергия манит меня на запад. Мы должны помешать планам Лисонии и ее госпожи.",
-					["serverTime"] = 1613727327,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:08:32]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:418:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: ty",
+					["serverTime"] = 1614607712,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						13, -- [1]
+						50, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36540.545,
+					["timestamp"] = 358112.092,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.5490196347236633,
 				}, -- [55]
 				{
-					["message"] = "|Hpratcopy|h[11:35:28]|h Лисония говорит: Теперь я вижу отведенную тебе роль. Ты – ключ к истинной судьбе. Моей судьбе!",
-					["serverTime"] = 1613727327,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:08:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:419:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: np",
+					["serverTime"] = 1614607717,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36540.779,
+					["timestamp"] = 358117.976,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [56]
 				{
-					["message"] = "|Hpratcopy|h[11:36:09]|h Хелия говорит: Возьми его силу, Лисония. Используй его для превращения.",
-					["serverTime"] = 1613727368,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:08:43]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:420:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: If you're doing SD I could come on main",
+					["serverTime"] = 1614607723,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36581.53,
+					["timestamp"] = 358124.059,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [57]
 				{
-					["message"] = "|Hpratcopy|h[11:36:17]|h Лисония говорит: Ты был полезной пешкой, Утер. Хоть Девия и дорожила тобой... мне ты больше не нужен.",
-					["serverTime"] = 1613727376,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:08:52]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:421:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:379:11:9:6:14:121|h[Ключ: Чумные каскады (11)]|h|r",
+					["serverTime"] = 1614607732,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36588.896,
+					["timestamp"] = 358133.076,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [58]
 				{
-					["message"] = "|Hpratcopy|h[11:36:27]|h Утер кричит: А-а-а!",
-					["serverTime"] = 1613727386,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:01]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Teapott-Silvermoon:422:PARTY|h|cffd8bc3f60|r:|cfffefefeTeapott|r-|cffd04c7eSil|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:375:13:9:6:14:121|h[Keystone: Mists of Tirna Scithe (13)]|h|r",
+					["serverTime"] = 1614607741,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						15, -- [1]
+						3, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						28, -- [3]
+						31, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36599.38,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
+					["timestamp"] = 358141.576,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [59]
 				{
-					["message"] = "|Hpratcopy|h[11:36:31]|h Лисония кричит: Я вижу свое будущее. Я сражу Архонта своим мечом, и Бастион будет моим!",
-					["serverTime"] = 1613727390,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:02]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:423:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: sure m8",
+					["serverTime"] = 1614607742,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						15, -- [1]
+						3, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36603.313,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
+					["timestamp"] = 358142.143,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [60]
 				{
-					["message"] = "|Hpratcopy|h[11:36:42]|h Хелия говорит: Кажется, у тебя гости, идеал. Разберись с ними.",
-					["serverTime"] = 1613727401,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:07]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:424:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: me and warrior are up for more but dunno about heal and hunter",
+					["serverTime"] = 1614607747,
+					["r"] = 0.8352941870689392,
 					["extraData"] = {
-						13, -- [1]
+						0, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36614.613,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 358147.61,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
 				}, -- [61]
 				{
-					["message"] = "|Hpratcopy|h[11:36:51]|h Лисония кричит: Недостойные кирии. Я – идеал Сомнения, и ваше постоянное вмешательство мне надоело!",
-					["serverTime"] = 1613727410,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:20]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:425:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: ur call about healer but i would like to replace hunter for a mage maybe",
+					["serverTime"] = 1614607760,
+					["r"] = 0.8352941870689392,
 					["extraData"] = {
-						15, -- [1]
+						0, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36623.164,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
+					["timestamp"] = 358160.976,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
 				}, -- [62]
 				{
-					["message"] = "|Hpratcopy|h[11:37:00]|h Лисония говорит: В атаку!",
-					["serverTime"] = 1613727419,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:29]|h [W To] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:426:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: why not? Let people play)",
+					["serverTime"] = 1614607769,
+					["r"] = 0.8352941870689392,
 					["extraData"] = {
-						13, -- [1]
+						10, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						51, -- [3]
+						53, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36632.247,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 358169.877,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
 				}, -- [63]
 				{
-					["message"] = "|Hpratcopy|h[11:37:07]|h Хелия говорит: Не подведи меня, Лисония. Докажи, что достойна своей новой силы.",
-					["serverTime"] = 1613727426,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:37]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:427:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: ?",
+					["serverTime"] = 1614607777,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36639.764,
+					["timestamp"] = 358177.61,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [64]
 				{
-					["message"] = "|Hpratcopy|h[11:37:12]|h Утер говорит: Лисония... почему?..",
-					["serverTime"] = 1613727431,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:37]|h [W To] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:428:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: I'll relog and message you",
+					["serverTime"] = 1614607777,
+					["r"] = 0.8352941870689392,
 					["extraData"] = {
-						13, -- [1]
+						10, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						51, -- [3]
+						53, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36644.297,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 358177.61,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
 				}, -- [65]
 				{
-					["message"] = "|Hpratcopy|h[11:37:17]|h Лисония кричит: Не думайте, что победили. Наша следующая встреча будет последней.",
-					["serverTime"] = 1613727436,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:42]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:429:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: ok",
+					["serverTime"] = 1614607782,
+					["r"] = 0.8352941870689392,
 					["extraData"] = {
-						15, -- [1]
+						0, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36649.464,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
+					["timestamp"] = 358182.577,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
 				}, -- [66]
 				{
-					["message"] = "|Hpratcopy|h[11:37:18]|h Лисония говорит: Теперь я вижу отведенную тебе роль. Ты – ключ к истинной судьбе. Моей судьбе!",
-					["serverTime"] = 1613727437,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:49]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:430:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Идем дальше в катакомбы",
+					["serverTime"] = 1614607789,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36650.064,
+					["timestamp"] = 358189.477,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [67]
 				{
-					["message"] = "|Hpratcopy|h[11:37:18]|h Лисония говорит: С радостью, госпожа. Слугам Архонта не выстоять против нас.",
-					["serverTime"] = 1613727437,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:09:53]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:431:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Сейчас релогнусь только",
+					["serverTime"] = 1614607793,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36650.364,
+					["timestamp"] = 358193.91,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [68]
 				{
-					["message"] = "|Hpratcopy|h[11:37:22]|h Ваша добыча: |cff9d9d9d|Hitem:173874::::::::60:577:::::::|h[Искаженный осадок]|h|r.",
-					["serverTime"] = 1613727441,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:09:58]|h [W From] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:432:WHISPER:AWQ-RAVENCREST|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: but he has to be on BL duty:)",
+					["serverTime"] = 1614607798,
+					["r"] = 0.8352941870689392,
 					["extraData"] = {
-						28, -- [1]
+						0, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36654.348,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 358198.96,
+					["g"] = 0.4196078777313232,
+					["b"] = 0.8352941870689392,
 				}, -- [69]
 				{
-					["message"] = "|Hpratcopy|h[11:37:23]|h Вы получаете валюту – |cffffffff|Hcurrency:1767:0|h[Стигия]|h|r, 2 шт.",
-					["serverTime"] = 1613727442,
-					["r"] = 0.6823529601097107,
+					["message"] = "|Hpratcopy|h[16:10:08]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:433:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Ok, we're doing it, let me relog real quick",
+					["serverTime"] = 1614607808,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						59, -- [1]
+						3, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36655.346,
-					["g"] = 0.6705882549285889,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 358208.577,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [70]
 				{
-					["message"] = "|Hpratcopy|h[11:37:28]|h Клейя говорит: Идем, Утер. Здесь небезопасно.",
-					["serverTime"] = 1613727447,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:10:12]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Сержсупер-Гордунни:434:PARTY|h|cffd8bc3f60|r:|cffa9d271Сержсупер|r-|cff8dec6aГор|r|h|cffd8d8d8]|r: какой ключ?",
+					["serverTime"] = 1614607812,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						37, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36660.397,
+					["timestamp"] = 358212.144,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [71]
 				{
-					["message"] = "|Hpratcopy|h[11:37:28]|h Утер говорит: Мы хотели спасти наш народ, а не отдать его во власть тьмы!",
-					["serverTime"] = 1613727447,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:10:18]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:435:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Катакомбы 14",
+					["serverTime"] = 1614607818,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36660.531,
+					["timestamp"] = 358218.194,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [72]
 				{
-					["message"] = "|Hpratcopy|h[11:37:46]|h Задание \"Да исполнится ее воля\" выполнено.",
-					["serverTime"] = 1613727465,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36678.492,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [73]
-				{
-					["message"] = "|Hpratcopy|h[11:37:46]|h Получено: 51 |4золотая:золотые:золотых;, 48 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613727465,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36678.492,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [74]
-				{
-					["message"] = "|Hpratcopy|h[11:37:46]|h |TInterface\\ICONS\\Spell_AnimaMaw_Buff.BLP:20|t Противники в цитадели Вечных Мук чувствуют вашу |cFFFF0000|Hspell:336990|h[открытую аниму]|h|r!",
-					["serverTime"] = 1613727465,
-					["r"] = 1,
-					["extraData"] = {
-						43, -- [1]
-						false, -- [2]
-						33, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36678.492,
-					["g"] = 0.8666667342185974,
-					["b"] = 0,
-				}, -- [75]
-				{
-					["message"] = "|Hpratcopy|h[11:37:46]|h Ве'нари говорит: В цитадели Вечных Мук запах анимы выдаст тебя, смертное существо. Остановись!",
-					["serverTime"] = 1613727465,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36678.492,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [76]
-				{
-					["message"] = "|Hpratcopy|h[11:37:46]|h Вы получили предмет: |cffa335ee|Hitem:177051::::::::60:577::11:3:7200:1512:6646:1:28:2060:::|h[Нагрудник самоотверженного носителя]|h|r.",
-					["serverTime"] = 1613727465,
-					["r"] = 0.9686275124549866,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						13, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36678.492,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
-				}, -- [77]
-				{
-					["message"] = "|Hpratcopy|h[11:37:48]|h Вы получили задание \"Время для размышлений\".",
-					["serverTime"] = 1613727467,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36680.515,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [78]
-				{
-					["message"] = "|Hpratcopy|h[11:37:48]|h Клейя говорит: Сейчас скорость важнее скрытности. Полетели к путевому камню и поскорее покинем это место.",
-					["serverTime"] = 1613727467,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36680.54,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [79]
-				{
-					["message"] = "|Hpratcopy|h[11:38:05]|h Утер говорит: Спасибо, что спасли меня от пыток Лисонии. Если бы вы вовремя не вмешались, от меня бы ничего не осталось.",
-					["serverTime"] = 1613727484,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36696.881,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [80]
-				{
-					["message"] = "|Hpratcopy|h[11:38:16]|h Клейя говорит: Ты в порядке, Утер?",
-					["serverTime"] = 1613727495,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36708.198,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [81]
-				{
-					["message"] = "|Hpratcopy|h[11:38:20]|h Утер говорит: Боль все не проходит, но это для меня не впервой. Раны заживут.",
-					["serverTime"] = 1613727499,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36712.532,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [82]
-				{
-					["message"] = "|Hpratcopy|h[11:38:30]|h Клейя говорит: Может быть, мы и враги, но мы не могли обречь тебя на мучения.",
-					["serverTime"] = 1613727509,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36722.132,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [83]
-				{
-					["message"] = "|Hpratcopy|h[11:38:37]|h Утер говорит: Мы не такие уж разные, Клейя.",
-					["serverTime"] = 1613727516,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36729.149,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [84]
-				{
-					["message"] = "|Hpratcopy|h[11:38:43]|h Клейя говорит: Быть может, когда-нибудь мы это обсудим. А пока что надо выбираться отсюда.",
-					["serverTime"] = 1613727522,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36734.999,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [85]
-				{
-					["message"] = "|Hpratcopy|h[11:39:03]|h Вы будете получать добычу для специализации \"Месть\".",
-					["serverTime"] = 1613727542,
+					["message"] = "|Hpratcopy|h[16:10:37]|h Вы будете получать добычу для специализации \"Месть\".",
+					["serverTime"] = 1614607837,
 					["r"] = 0.9960784912109375,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 36754.566,
+					["timestamp"] = 358236.878,
 					["g"] = 0.9137255549430847,
 					["b"] = 1,
-				}, -- [86]
+				}, -- [73]
 				{
-					["message"] = "|Hpratcopy|h[11:39:03]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Орибос]|h.",
-					["serverTime"] = 1613727542,
+					["message"] = "|Hpratcopy|h[16:10:38]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Орибос]|h.",
+					["serverTime"] = 1614607838,
 					["r"] = 1,
 					["extraData"] = {
 						67, -- [1]
@@ -5384,624 +5118,809 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36755.648,
+					["timestamp"] = 358238.138,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [87]
+				}, -- [74]
 				{
-					["message"] = "|Hpratcopy|h[11:39:03]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
-					["serverTime"] = 1613727542,
+					["message"] = "|Hpratcopy|h[16:10:38]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
+					["serverTime"] = 1614607838,
 					["r"] = 1,
 					["extraData"] = {
 						68, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36755.648,
+					["timestamp"] = 358238.138,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[16:10:40]|h Вы покидаете группу.",
+					["serverTime"] = 1614607840,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 358241.044,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[15:55:25]|h Амарт кричит: Смерть и гниение!",
+					["serverTime"] = 1614606925,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357326.013,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[15:55:25]|h |TINTERFACE\\ICONS\\Spell_Necro_InevitableEnd.blp:20|t Костеклык втягивает воздух, готовясь применить |cFFFF0404|Hspell:333493|h[некротическое дыхание]|h|r!",
+					["serverTime"] = 1614606925,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357326.013,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[15:55:35]|h |TINTERFACE\\ICONS\\Spell_Necro_DeathlyEcho.blp:20|t Амарт начинает поглощать своих прислужников с помощью |cFFFF0404|Hspell:321247|h[Последней жатвы]|h|r!",
+					["serverTime"] = 1614606935,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357335.73,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[15:55:35]|h Амарт кричит: Жертвы устилают путь к победе!",
+					["serverTime"] = 1614606935,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357335.73,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[15:55:52]|h Амарт кричит: Восстаньте и служите мне снова!",
+					["serverTime"] = 1614606952,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357352.747,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[15:56:09]|h Амарт кричит: Костеклык сотрет вас в порошок!",
+					["serverTime"] = 1614606969,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357369.75,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[15:56:09]|h |TINTERFACE\\ICONS\\Spell_Necro_InevitableEnd.blp:20|t Костеклык втягивает воздух, готовясь применить |cFFFF0404|Hspell:333493|h[некротическое дыхание]|h|r!",
+					["serverTime"] = 1614606969,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357369.75,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[15:56:25]|h |TINTERFACE\\ICONS\\Spell_Necro_DeathlyEcho.blp:20|t Амарт начинает поглощать своих прислужников с помощью |cFFFF0404|Hspell:321247|h[Последней жатвы]|h|r!",
+					["serverTime"] = 1614606985,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357385.53,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[15:56:25]|h Амарт кричит: Послужите мне еще раз!",
+					["serverTime"] = 1614606985,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357385.53,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[15:56:36]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:275:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: Не улетаем после босса",
+					["serverTime"] = 1614606996,
+					["r"] = 0.4313725829124451,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357396.847,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[15:56:39]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:276:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: еще пак тут",
+					["serverTime"] = 1614606999,
+					["r"] = 0.4313725829124451,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357399.897,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[15:56:42]|h Амарт кричит: Мои солдаты восстанут снова!",
+					["serverTime"] = 1614607002,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357402.531,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [88]
 				{
-					["message"] = "|Hpratcopy|h[11:39:04]|h Клейя говорит: Куда ты пойдешь теперь, Утер? Ты ведь не вернешься к раскольникам?",
-					["serverTime"] = 1613727543,
+					["message"] = "|Hpratcopy|h[15:56:46]|h Амарт кричит: Нас всех... используют...",
+					["serverTime"] = 1614607006,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36756.566,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 357406.447,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [89]
 				{
-					["message"] = "|Hpratcopy|h[11:39:11]|h Утер говорит: Нет, дитя. Они не те, кем я раньше их видел... Возможно, я уже тогда был слеп. Хочу побыть один. Мне нужно многое обдумать.",
-					["serverTime"] = 1613727550,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36763.533,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[15:56:47]|h BigWigs: |cffffff00'Амарт Жнец' терпит поражение спустя 1 мин. 49 с.|r",
+					["timestamp"] = 357407.276,
+					["serverTime"] = 1614607007,
 				}, -- [90]
 				{
-					["message"] = "|Hpratcopy|h[11:39:28]|h Клейя говорит: Познать себя в раздумьях... Я тебя понимаю. Надеюсь, ты найдешь то, что ищешь.",
-					["serverTime"] = 1613727567,
+					["message"] = "|Hpratcopy|h[15:56:51]|h Ксандрия говорит: Вы как раз вовремя, бой в самом разгаре. Мы не можем останавливаться, пока не очистим небо от захватчиков.",
+					["serverTime"] = 1614607011,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36780.1,
+					["timestamp"] = 357411.683,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [91]
 				{
-					["message"] = "|Hpratcopy|h[11:39:37]|h Утер говорит: Я тоже. Спасибо.",
-					["serverTime"] = 1613727576,
+					["message"] = "|Hpratcopy|h[15:57:04]|h Ксандрия говорит: Я возглавлю войска здесь, а мои послушники отведут вас в некрополь. Покончим с этими чудовищами.",
+					["serverTime"] = 1614607024,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36788.966,
+					["timestamp"] = 357424.231,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [92]
 				{
-					["message"] = "|Hpratcopy|h[11:40:00]|h Задание \"Кирийский тактик\" выполнено.",
-					["serverTime"] = 1613727599,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[15:57:51]|h Налтор Криомант говорит: У нас достаточно тел, Трупошов. Готовь наступление на следующий храм.",
+					["serverTime"] = 1614607071,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36812.233,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357471.415,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [93]
 				{
-					["message"] = "|Hpratcopy|h[11:40:37]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Якубжон-Борейскаятундра:626:CHANNEL:2|h|cfffefefeЯкубжон|r|h|cffd8d8d8]|r: продам|cffffffff|Hitem:49916::::::::60:258:::::::|h[Чудесный браслет-оберег]|h|r",
-					["serverTime"] = 1613727636,
+					["message"] = "|Hpratcopy|h[15:59:38]|h Сир Денатрий шепчет: Делайте что хотите, смертные. Вы пытаетесь отсрочить неизбежное.",
+					["serverTime"] = 1614607178,
 					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						16, -- [1]
 						false, -- [2]
-						24, -- [3]
-						35, -- [4]
+						38, -- [3]
+						39, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36849.834,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357578.234,
+					["g"] = 0.7098039388656616,
+					["b"] = 0.9215686917304993,
 				}, -- [94]
 				{
-					["message"] = "|Hpratcopy|h[11:41:24]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Орибос]|h.",
-					["serverTime"] = 1613727683,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[15:59:45]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:306:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: got cds",
+					["serverTime"] = 1614607185,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						67, -- [1]
+						50, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36896.435,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357585.75,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [95]
 				{
-					["message"] = "|Hpratcopy|h[11:41:24]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
-					["serverTime"] = 1613727683,
+					["message"] = "|Hpratcopy|h[15:59:45]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:307:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Pride!",
+					["serverTime"] = 1614607185,
 					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						2, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36896.435,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357585.75,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [96]
 				{
-					["message"] = "|Hpratcopy|h[11:41:35]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Бастион]|h.",
-					["serverTime"] = 1613727694,
+					["message"] = "|Hpratcopy|h[15:59:46]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:310:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1614607186,
 					["r"] = 1,
 					["extraData"] = {
-						67, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36907.535,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357586.717,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [97]
 				{
-					["message"] = "|Hpratcopy|h[11:41:35]|h |Hchannel:channel:3|h[3] |h Смена канала: |Hchannel:CHANNEL:3|h[3. Оборона: Бастион]|h.",
-					["serverTime"] = 1613727694,
+					["message"] = "|Hpratcopy|h[15:59:47]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:311:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 2",
+					["serverTime"] = 1614607187,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						2, -- [1]
 						false, -- [2]
-						6, -- [3]
-						7, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36907.535,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 357587.751,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [98]
 				{
-					["message"] = "|Hpratcopy|h[11:43:39]|h Вы выиграли лот |cff1eff00|Hitem:172366::::::::60:577::::::|h[Чары для оружия – небесное наставление]|h|rx1 за |cffffffff390|r|cffffd70ag|r |cffffffff00|r|cffc7c7cfs|r |cffffffff00|r|cffeda55fc|r",
-					["serverTime"] = 1613727818,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[15:59:48]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:312:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 1",
+					["serverTime"] = 1614607188,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37031.054,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357588.784,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [99]
 				{
-					["message"] = "|Hpratcopy|h[11:43:45]|h Вы продали хлама на 57|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 29|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 37|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["serverTime"] = 1613727824,
+					["message"] = "|Hpratcopy|h[15:59:49]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:313:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Done",
+					["serverTime"] = 1614607189,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						2, -- [1]
 						false, -- [2]
-						17, -- [3]
-						17, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37037.004,
+					["timestamp"] = 357589.767,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 1,
 				}, -- [100]
 				{
-					["message"] = "|Hpratcopy|h[11:44:10]|h Вы получили предмет: |cff1eff00|Hitem:172366::::::::60:577:::::::|h[Чары для оружия – небесное наставление]|h|r.",
-					["serverTime"] = 1613727849,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:00:07]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:317:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Pride!",
+					["serverTime"] = 1614607207,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						2, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37062.404,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 357607.634,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [101]
 				{
-					["message"] = "|Hpratcopy|h[11:44:35]|h Задание \"Время для размышлений\" выполнено.",
-					["serverTime"] = 1613727874,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:00:08]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:318:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1614607208,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37087.005,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357608.684,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [102]
 				{
-					["message"] = "|Hpratcopy|h[11:44:35]|h Получено: 2 |4золотая:золотые:золотых;, 57 |4серебряная:серебряные:серебряных;, 40 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613727874,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:00:09]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:319:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 2",
+					["serverTime"] = 1614607209,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37087.005,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357609.651,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [103]
 				{
-					["message"] = "|Hpratcopy|h[11:44:36]|h Вы получили задание \"Толика смирения\".",
-					["serverTime"] = 1613727875,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:00:10]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:320:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 1",
+					["serverTime"] = 1614607210,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37088.738,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357610.601,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [104]
 				{
-					["message"] = "|Hpratcopy|h[11:45:34]|h Задание \"Толика смирения\" выполнено.",
-					["serverTime"] = 1613727933,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:00:11]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:321:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Done",
+					["serverTime"] = 1614607211,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37146.489,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357611.634,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [105]
 				{
-					["message"] = "|Hpratcopy|h[11:45:34]|h Получено: 12 |4золотая:золотые:золотых;, 87 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613727933,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:00:16]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:324:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: doubl epack",
+					["serverTime"] = 1614607216,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						1, -- [1]
+						50, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37146.489,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357616.701,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [106]
 				{
-					["message"] = "|Hpratcopy|h[11:45:38]|h Вы получили задание \"Обратитесь к идеалам\".",
-					["serverTime"] = 1613727937,
+					["message"] = "|Hpratcopy|h[16:00:40]|h |cffa5a5a5Paytax|r умирает.",
+					["serverTime"] = 1614607240,
 					["r"] = 0.9960784912109375,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						12, -- [3]
+						13, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37150.122,
+					["timestamp"] = 357640.223,
 					["g"] = 0.9137255549430847,
 					["b"] = 1,
 				}, -- [107]
 				{
-					["message"] = "|Hpratcopy|h[11:45:39]|h Полемарх Адрест говорит: Прошу.",
-					["serverTime"] = 1613727938,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:00:59]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:332:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: holly molly",
+					["serverTime"] = 1614607259,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37151.439,
+					["timestamp"] = 357659.885,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [108]
 				{
-					["message"] = "|Hpratcopy|h[11:45:47]|h Полемарх Адрест говорит: Приготовься и поднимайся по ступеням.",
-					["serverTime"] = 1613727946,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:01:03]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:333:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: don't do that ><",
+					["serverTime"] = 1614607263,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37159.556,
+					["timestamp"] = 357663.718,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [109]
 				{
-					["message"] = "|Hpratcopy|h[11:45:53]|h Ксандрия говорит: Зачем нас призвали?",
-					["serverTime"] = 1613727952,
+					["message"] = "|Hpratcopy|h[16:01:07]|h Хирург Трупошов говорит: Помощники! Сырье прибыло – пора обрабатывать!",
+					["serverTime"] = 1614607267,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37165.84,
+					["timestamp"] = 357667.835,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [110]
 				{
-					["message"] = "|Hpratcopy|h[11:45:58]|h Тениос говорит: Утер исчез, а Лисония обратилась к самой Утробе...",
-					["serverTime"] = 1613727957,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:01:12]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:335:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: pride buff and cds))",
+					["serverTime"] = 1614607272,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						13, -- [1]
+						50, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37170.439,
+					["timestamp"] = 357672.968,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.5490196347236633,
 				}, -- [111]
 				{
-					["message"] = "|Hpratcopy|h[11:46:05]|h Весифона говорит: Она потеряла рассудок. Вступить в сделку с этой ведьмой, Хелией...",
-					["serverTime"] = 1613727964,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:01:16]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:336:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: I was not ready",
+					["serverTime"] = 1614607276,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37176.906,
+					["timestamp"] = 357676.235,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [112]
 				{
-					["message"] = "|Hpratcopy|h[11:46:09]|h Хирон говорит: Ее гордыня будет наказана.",
-					["serverTime"] = 1613727968,
+					["message"] = "|Hpratcopy|h[16:01:25]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:338:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Throw Cleaver on |cffa5a5a5Awq|r",
+					["serverTime"] = 1614607285,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						2, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37181.773,
+					["timestamp"] = 357685.369,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 1,
 				}, -- [113]
 				{
-					["message"] = "|Hpratcopy|h[11:46:15]|h Тениос говорит: Чтобы отбить храм Верности, нужно действовать быстро. Ее сила растет.",
-					["serverTime"] = 1613727974,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:02:06]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:339:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: burned the orb on that because I was so scared",
+					["serverTime"] = 1614607326,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37187.273,
+					["timestamp"] = 357726.136,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [114]
 				{
-					["message"] = "|Hpratcopy|h[11:46:23]|h Кирестия Перворожденная говорит: Собирайте войска, мои идеалы.",
-					["serverTime"] = 1613727982,
+					["message"] = "|Hpratcopy|h[16:02:15]|h Хирург Трупошов говорит: Растяпы! Кровомес! Не повреди руки и ноги, когда будешь их отрывать.",
+					["serverTime"] = 1614607335,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37194.89,
+					["timestamp"] = 357735.136,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [115]
 				{
-					["message"] = "|Hpratcopy|h[11:46:30]|h Кирестия Перворожденная говорит: Сегодня раскольникам придет конец.",
-					["serverTime"] = 1613727989,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:02:20]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Paytax-ArgentDawn:341:PARTY|h|cffd8bc3f60|r:|cffc59a6cPaytax|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: want my orb here or last?",
+					["serverTime"] = 1614607340,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37202.14,
+					["timestamp"] = 357740.886,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [116]
 				{
-					["message"] = "|Hpratcopy|h[11:46:34]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq57|k:43:655:BN_INLINE_TOAST_ALERT:0|h[|Kq57|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tDino)|h входит в сеть.",
-					["serverTime"] = 1613727993,
-					["r"] = 0.5098039507865906,
+					["message"] = "|Hpratcopy|h[16:02:26]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:342:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: last",
+					["serverTime"] = 1614607346,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						54, -- [1]
+						3, -- [1]
 						false, -- [2]
-						9, -- [3]
-						37, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37206.64,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
+					["timestamp"] = 357746.553,
+					["g"] = 1,
+					["b"] = 0.4745098352432251,
 				}, -- [117]
 				{
-					["message"] = "|Hpratcopy|h[11:46:38]|h Ксандрия говорит: Пилигрим, собери бойцов из освобожденных храмов. А мы займем плацдарм.",
-					["serverTime"] = 1613727997,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[16:02:31]|h |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Дэлери-Борейскаятундра:343:PARTY|h|cffd8bc3f60|r:|cffa22fc8Дэлери|r|h|cffd8d8d8]|r: definitely",
+					["serverTime"] = 1614607351,
+					["r"] = 0.4313725829124451,
 					["extraData"] = {
-						13, -- [1]
+						3, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						28, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37210.257,
+					["timestamp"] = 357751.203,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0.4745098352432251,
 				}, -- [118]
 				{
-					["message"] = "|Hpratcopy|h[11:46:44]|h Задание \"Обратитесь к идеалам\" выполнено.",
-					["serverTime"] = 1613728003,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:02:56]|h |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Awq-Ravencrest:344:PARTY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: sry",
+					["serverTime"] = 1614607376,
+					["r"] = 0.4196078777313232,
 					["extraData"] = {
-						1, -- [1]
+						50, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37216.257,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["timestamp"] = 357776.404,
+					["g"] = 1,
+					["b"] = 0.5490196347236633,
 				}, -- [119]
 				{
-					["message"] = "|Hpratcopy|h[11:46:44]|h Получено: 12 |4золотая:золотые:золотых;, 87 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613728003,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 37216.257,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [120]
-				{
-					["message"] = "|Hpratcopy|h[11:46:46]|h Вы получили задание \"Перед рассветом\".",
-					["serverTime"] = 1613728005,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 37218.124,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [121]
-				{
-					["message"] = "|Hpratcopy|h[11:46:46]|h Полемарх Адрест говорит: Священные земли снова наши. Перерожденные вернулись к обучению. Они будут рады узнать о возвращении последнего храма.",
-					["serverTime"] = 1613728005,
+					["message"] = "|Hpratcopy|h[16:02:58]|h Хирург Трупошов говорит: Обидно. Тошногнил! За работу! Надеюсь, ты лучше своего предшественника.",
+					["serverTime"] = 1614607378,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 37218.407,
+					["timestamp"] = 357778.237,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [120]
+				{
+					["message"] = "|Hpratcopy|h[16:03:48]|h Сир Денатрий шепчет: Думаете, вы особенные? Одаренные? Я научу вас смирению.",
+					["serverTime"] = 1614607428,
+					["r"] = 1,
+					["extraData"] = {
+						16, -- [1]
+						false, -- [2]
+						38, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357828.904,
+					["g"] = 0.7098039388656616,
+					["b"] = 0.9215686917304993,
+				}, -- [121]
+				{
+					["message"] = "|Hpratcopy|h[16:03:49]|h Хирург Трупошов говорит: Нет! Теперь придется заново их собирать! Видимо, все надо делать самому.",
+					["serverTime"] = 1614607429,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357830.039,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [122]
 				{
-					["message"] = "|Hpratcopy|h[11:26:39]|h Получено: 25 |4золотая:золотые:золотых;, 74 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613726798,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:03]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:353:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Pride!",
+					["serverTime"] = 1614607443,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36011.783,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357843.921,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [123]
 				{
-					["message"] = "|Hpratcopy|h[11:26:39]|h Вы получили предмет: |cffa335ee|Hitem:181291::::::::60:577::11::1:28:2060:::|h[Самоотверженная печать Архонта]|h|r.",
-					["serverTime"] = 1613726798,
-					["r"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[16:04:04]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:354:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1614607444,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						2, -- [1]
 						false, -- [2]
-						13, -- [3]
-						14, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36011.783,
-					["g"] = 0.9843137860298157,
-					["b"] = 0.9686275124549866,
+					["timestamp"] = 357844.955,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [124]
 				{
-					["message"] = "|Hpratcopy|h[11:26:42]|h Вы получили задание \"План Лисонии\".",
-					["serverTime"] = 1613726801,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[16:04:05]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:355:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 2",
+					["serverTime"] = 1614607445,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36014.753,
-					["g"] = 0.9137255549430847,
+					["timestamp"] = 357846.039,
+					["g"] = 1,
 					["b"] = 1,
 				}, -- [125]
 				{
-					["message"] = "|Hpratcopy|h[11:26:43]|h Лисония кричит: Слишком поздно, пилигрим. Скоро ваш драгоценный идеал поддастся своей скрытой гордыне.",
-					["serverTime"] = 1613726802,
+					["message"] = "|Hpratcopy|h[16:04:06]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:356:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: 1",
+					["serverTime"] = 1614607446,
 					["r"] = 1,
 					["extraData"] = {
-						15, -- [1]
+						2, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						40, -- [3]
+						41, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36015.137,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
+					["timestamp"] = 357847.038,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [126]
 				{
-					["message"] = "|Hpratcopy|h[11:26:47]|h Лисония кричит: Покажи нам свою гордыню, идеал!",
-					["serverTime"] = 1613726806,
+					["message"] = "|Hpratcopy|h[16:04:07]|h [S] |cffd8d8d8[|r|Hplayer:Awq-Ravencrest:357:SAY|h|cffd8bc3f60|r:|cffa9d271Awq|r-|cff0cc922Rav|r|h|cffd8d8d8]|r: Done",
+					["serverTime"] = 1614607447,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						40, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357848.038,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [127]
+				{
+					["message"] = "|Hpratcopy|h[16:04:28]|h Хирург Трупошов кричит: Скоро я пущу твой труп в дело!",
+					["serverTime"] = 1614607468,
 					["r"] = 1,
 					["extraData"] = {
 						15, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						42, -- [3]
+						43, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 36019.57,
+					["timestamp"] = 357868.507,
 					["g"] = 0.250980406999588,
 					["b"] = 0.250980406999588,
-				}, -- [127]
-				{
-					["message"] = "|Hpratcopy|h[11:26:56]|h Хирон говорит: Ты навязываешь всем свои взгляды... Свои ошибки... Я потратил тысячи лет, чтобы стать воплощением своих принципов...",
-					["serverTime"] = 1613726815,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 36027.87,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
 				}, -- [128]
 			},
 			["maxElements"] = 128,
