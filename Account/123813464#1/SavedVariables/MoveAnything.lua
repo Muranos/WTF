@@ -32,7 +32,7 @@ MADB = {
 						"UIParent", -- [2]
 						"BOTTOM", -- [3]
 						0, -- [4]
-						95.99999237060547, -- [5]
+						155, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["pos"] = {

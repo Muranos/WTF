@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0415,
-	["LastPlayerFullName"] = "Эстрэя-Гордунни",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0418,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159310,
@@ -90,6 +88,9 @@ PawnOptions = {
 			["Link"] = "|cffe6cc80|Hitem:128859::::::::50:104:::::::|h[Клыки Пеплошкурой]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Эстрэя-Гордунни",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -106,7 +107,6 @@ PawnOptions = {
 			["Name"] = "Когти Урсока",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

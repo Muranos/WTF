@@ -13,6 +13,9 @@ VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословенная свобода
 END
+VER 3 010000000000000D "FreedomForMe" "135992"
+/cast [@player] Благословенная свобода
+END
 VER 3 010000000000000B "Glory" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Торжество; [@player] Торжество
@@ -42,6 +45,6 @@ N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][
 END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
-/use Накладки для доспехов танцующего с клинком
+/use Непостижимое квантовое устройство
 /cast Гнев карателя
 END

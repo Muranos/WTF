@@ -10,6 +10,7 @@ Details_StreamerDB = {
 		["Нирейя - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Дэлери - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Фламиника - Борейская тундра",
+		["Алтэри - Гордунни"] = "Фламиника - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Elavi - Durotan"] = "Фламиника - Борейская тундра",
 		["Эрника - Борейская тундра"] = "Фламиника - Борейская тундра",
@@ -56,7 +57,7 @@ Details_StreamerDB = {
 			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
 			["point"] = "CENTER",
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
@@ -66,7 +67,7 @@ Details_StreamerDB = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -74,10 +75,10 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
 			["use_spark"] = true,
+			["y"] = 4.57763671875e-05,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,

@@ -17,3 +17,5 @@ Details: disabled
 Scrap: enabled
 Castbars: disabled
 TwintopInsanityBar: disabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled

@@ -210,3 +210,4 @@ RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 Gnosis: disabled
 UnitFramesImproved: disabled
+TomCats-Nzoth: disabled

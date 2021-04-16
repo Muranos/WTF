@@ -701,7 +701,7 @@ Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 0,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -713,21 +713,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h |cffd8d8d8[|r|Hplayer:Блэкбук-ЧерныйШрам:3238:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Блэкбук|r-|cff32caf5Чер|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:4624:Player-1929-0EB2F851:1:2:13:21:4294967295:4294967295:4294967295:4294967295|h[Крепкая любовь]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["serverTime"] = 1613172679,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						27, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425749.595,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [1]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -1708,7 +1693,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 97,
+			["headIndex"] = 111,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -1721,1309 +1706,1122 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[01:28:38]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.120 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["message"] = "|Hpratcopy|h[21:23:11]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.121 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
 					["r"] = 1,
-					["timestamp"] = 425581.281,
+					["timestamp"] = 2221600.79,
 					["g"] = 0.7,
 					["b"] = 0.2,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[01:28:38]|h |cff9900ffWeakAuras:|r Готово к применению 9 |4обновление:обновления:обновлений;.",
-					["timestamp"] = 425581.281,
+					["message"] = "|Hpratcopy|h[21:23:12]|h |cff9900ffWeakAuras:|r Готово к применению 5 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 2221600.79,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[01:28:45]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
-					["timestamp"] = 425593.245,
-					["serverTime"] = 1613172525,
+					["message"] = "|Hpratcopy|h[21:23:23]|h |cffFFFFFFRaiderIO|r использует устаревшие данные. Пожалуйста, обновите сейчас, чтобы увидеть самые точные данные: |cffFFFFFFhttps://rio.gg/addon|r",
+					["r"] = 1,
+					["serverTime"] = 1618079004,
+					["timestamp"] = 2221623.118,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[01:28:46]|h Вы будете получать добычу для специализации \"Тьма\".",
-					["serverTime"] = 1613172526,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 425593.245,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[21:23:24]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
+					["timestamp"] = 2221623.118,
+					["serverTime"] = 1618079005,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[01:28:46]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
-					["timestamp"] = 425593.245,
-					["serverTime"] = 1613172526,
-				}, -- [5]
-				{
-					["message"] = "|Hpratcopy|h[01:28:46]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
-					["timestamp"] = 425593.245,
-					["serverTime"] = 1613172526,
-				}, -- [6]
-				{
-					["message"] = "|Hpratcopy|h[01:28:46]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
-					["timestamp"] = 425593.245,
-					["serverTime"] = 1613172526,
-				}, -- [7]
-				{
-					["message"] = "|Hpratcopy|h[01:28:46]|h |cffffd700Титан Панель|r|cff20ff20 5.20.2.90002|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
-					["timestamp"] = 425593.245,
-					["serverTime"] = 1613172526,
-				}, -- [8]
-				{
-					["message"] = "|Hpratcopy|h[01:28:46]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Алоиза: Фламиника: Vuhdo'esque",
-					["r"] = 1,
-					["serverTime"] = 1613172526,
-					["timestamp"] = 425593.245,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [9]
-				{
-					["message"] = "|Hpratcopy|h[01:28:47]|h Общее время игры: 485 |4день:дня:дней;, 2 |4час:часа:часов;, 7 |4минута:минуты:минут;, 55 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1613172527,
+					["message"] = "|Hpratcopy|h[21:23:24]|h Вы будете получать добычу для специализации \"Тьма\".",
+					["serverTime"] = 1618079005,
 					["r"] = 0.9529412388801575,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 425597.199,
+					["timestamp"] = 2221623.118,
 					["g"] = 1,
 					["b"] = 0.9843137860298157,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[21:23:25]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 2221623.118,
+					["serverTime"] = 1618079006,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[21:23:25]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 2221623.118,
+					["serverTime"] = 1618079006,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[21:23:25]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
+					["timestamp"] = 2221623.118,
+					["serverTime"] = 1618079006,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[21:23:25]|h |cffffd700Титан Панель|r|cff20ff20 5.20.3.90005|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
+					["timestamp"] = 2221623.118,
+					["serverTime"] = 1618079006,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[21:23:25]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Алоиза: Фламиника: Vuhdo'esque",
+					["r"] = 1,
+					["serverTime"] = 1618079006,
+					["timestamp"] = 2221623.118,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[01:28:47]|h Время игры на этом уровне: 62 |4день:дня:дней;, 21 |4час:часа:часов;, 50 |4минута:минуты:минут;, 53 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1613172527,
+					["message"] = "|Hpratcopy|h[21:23:26]|h Общее время игры: 485 |4день:дня:дней;, 2 |4час:часа:часов;, 23 |4минута:минуты:минут;, 12 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1618079007,
 					["r"] = 0.9529412388801575,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 425597.199,
+					["timestamp"] = 2221628.064,
 					["g"] = 1,
 					["b"] = 0.9843137860298157,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[01:28:47]|h |cff7f7f7f[01:28]|r [|cff007f7fNOP|r] Дворфийский бункер: 36 done 0 to go!",
-					["timestamp"] = 425597.199,
-					["serverTime"] = 1613172527,
+					["message"] = "|Hpratcopy|h[21:23:26]|h Время игры на этом уровне: 62 |4день:дня:дней;, 22 |4час:часа:часов;, 6 |4минута:минуты:минут;, 10 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1618079007,
+					["r"] = 0.9529412388801575,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2221628.064,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[01:28:47]|h |cff7f7f7f[01:28]|r [|cff007f7fNOP|r] Башня магов: 7 done 0 to go!",
-					["timestamp"] = 425597.199,
-					["serverTime"] = 1613172527,
+					["message"] = "|Hpratcopy|h[21:23:26]|h |cff7f7f7f[21:23]|r [|cff007f7fNOP|r] Дворфийский бункер: 36 done 0 to go!",
+					["timestamp"] = 2221628.064,
+					["serverTime"] = 1618079007,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[01:28:53]|h |TInterface/AddOns/TomCats/images/tomcat_chat_icon_lg.blp:16:32:0:2:64:64:0:64:0:32|t|cff00ff00 Love is in the Air has arrived!|r",
-					["timestamp"] = 425597.199,
-					["serverTime"] = 1613172533,
+					["message"] = "|Hpratcopy|h[21:23:26]|h |cff7f7f7f[21:23]|r [|cff007f7fNOP|r] Башня магов: 7 done 0 to go!",
+					["timestamp"] = 2221628.064,
+					["serverTime"] = 1618079007,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[01:28:53]|h |TInterface/AddOns/TomCats/images/tomcat_chat_icon_lg.blp:16:32:0:2:64:64:0:64:32:64|t|cffffff00 Type /TOMCATS for more info|r",
-					["timestamp"] = 425597.199,
-					["serverTime"] = 1613172533,
+					["message"] = "|Hpratcopy|h[21:23:34]|h |cffffd839TSM|r: TSM в настоящее время перестраивает свой кэш элементов, что может вызвать падение FPS и привести к тому, что TSM не будет полностью функционировать, пока этот процесс не будет завершен. Это нормально и обычно занимает меньше минуты.",
+					["timestamp"] = 2221628.064,
+					["serverTime"] = 1618079015,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[01:29:06]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq53|k:43:3131:BN_INLINE_TOAST_ALERT:0|h[|Kq53|k]|h выходит из сети.",
-					["serverTime"] = 1613172546,
-					["r"] = 0.5098039507865906,
+					["message"] = "|Hpratcopy|h[21:23:40]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Отвага-Гром:2469:CHANNEL:3|h|cfff38bb9Отвага|r-|cffad5c7fГро|r|h|cffd8d8d8]|r: с колотухой под 200км) аш ворота гнул",
+					["serverTime"] = 1618079021,
+					["r"] = 1,
 					["extraData"] = {
-						54, -- [1]
+						69, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425616.349,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
+					["timestamp"] = 2221641.927,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[01:29:08]|h Вы встали в очередь, воспользовавшись поиском подземелий.",
-					["serverTime"] = 1613172548,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425617.882,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[21:23:50]|h |cffffd839TSM|r: Завершено восстановление элементов из кэша.",
+					["timestamp"] = 2221651.587,
+					["serverTime"] = 1618079031,
 				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[01:29:16]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Элеван-ЧерныйШрам:3138:CHANNEL:3|h|cffc31d39Элеван|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: а рецепты для лег можно на ауке купить?",
-					["serverTime"] = 1613172556,
+					["message"] = "|Hpratcopy|h[21:24:00]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Лилудаллас-Термоштепсель:2471:CHANNEL:3|h|cffc31d39Лилудаллас|r-|cff76a4beТер|r|h|cffd8d8d8]|r: не, то Роберто кАРЛОС БЫЛ)",
+					["serverTime"] = 1618079041,
 					["r"] = 1,
 					["extraData"] = {
 						69, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						1, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425625.716,
+					["timestamp"] = 2221661.566,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
 				}, -- [18]
 				{
-					["message"] = "|Hpratcopy|h[01:29:34]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Тадакатцу-ЧерныйШрам:3147:CHANNEL:3|h|cfff38bb9Тадакатцу|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: нет",
-					["serverTime"] = 1613172573,
+					["message"] = "|Hpratcopy|h[21:24:23]|h |cff33ff99Postal|r: Обработка сообщения 40: Аукцион не состоялся: Выкройка: белая бандитская маска",
+					["timestamp"] = 2221684.854,
+					["serverTime"] = 1618079063,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[21:24:23]|h Вы получили предмет: |cff1eff00|Hitem:10301::::::::50:258::1:::::|h[Выкройка: белая бандитская маска]|h|r.",
+					["serverTime"] = 1618079063,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221685.155,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[21:24:23]|h |cff33ff99Postal|r: Обработка сообщения 39: Аукцион не состоялся: Выкройка: белая бандитская маска",
+					["timestamp"] = 2221685.352,
+					["serverTime"] = 1618079063,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[21:24:24]|h Вы получили предмет: |cff1eff00|Hitem:10301::::::::50:258::1:::::|h[Выкройка: белая бандитская маска]|h|r.",
+					["serverTime"] = 1618079064,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221685.667,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[21:24:24]|h |cff33ff99Postal|r: Обработка сообщения 38: Аукцион не состоялся: Пыльный спорокрыл",
+					["timestamp"] = 2221685.86,
+					["serverTime"] = 1618079064,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[21:24:24]|h Вы получили предмет: |cff0070dd|Hitem:127703::::::::50:258::14:::::|h[Пыльный спорокрыл]|h|r.",
+					["serverTime"] = 1618079064,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221686.097,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[21:24:24]|h |cff33ff99Postal|r: Обработка сообщения 37: Аукцион не состоялся: Пыльный спорокрыл",
+					["timestamp"] = 2221686.366,
+					["serverTime"] = 1618079064,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[21:24:25]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Иммун-Гром:2476:CHANNEL:3|h|cffa22fc8Иммун|r-|cffad5c7fГро|r|h|cffd8d8d8]|r: а Зидан фанеры проверял соперникам головой)",
+					["serverTime"] = 1618079065,
 					["r"] = 1,
 					["extraData"] = {
 						69, -- [1]
 						false, -- [2]
-						5, -- [3]
+						1, -- [3]
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425644.2,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[01:29:40]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Нежныйсон-Термоштепсель:3151:CHANNEL:3|h|cfffef367Нежныйсон|r-|cff76a4beТер|r|h|cffd8d8d8]|r: Если с 225 на 235 улучшаешь - только разница по пеплу + болванка.",
-					["serverTime"] = 1613172579,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						5, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425649.433,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[01:29:43]|h Патрик Марксон говорит: Огнестрельное оружие, боеприпасы и взрывчатка для охотников любого уровня!",
-					["serverTime"] = 1613172582,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425652.983,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[01:29:51]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Элеван-ЧерныйШрам:3158:CHANNEL:3|h|cffc31d39Элеван|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: они только в извилистых падают?",
-					["serverTime"] = 1613172590,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425660.383,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[01:30:10]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Нежныйсон-Термоштепсель:3183:CHANNEL:3|h|cfffef367Нежныйсон|r-|cff76a4beТер|r|h|cffd8d8d8]|r: Рецепты на леги - это что?",
-					["serverTime"] = 1613172609,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						5, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425679.467,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [23]
-				{
-					["message"] = "|Hpratcopy|h[01:30:22]|h Установленный режим сложности подземелья: Событие.",
-					["serverTime"] = 1613172621,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425691.75,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [24]
-				{
-					["message"] = "|Hpratcopy|h[01:30:24]|h Вы будете получать добычу для специализации \"Тьма\".",
-					["serverTime"] = 1613172623,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 425693.484,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [25]
-				{
-					["message"] = "|Hpratcopy|h[01:30:25]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Торговля: Город]|h.",
-					["serverTime"] = 1613172624,
-					["r"] = 1,
-					["extraData"] = {
-						67, -- [1]
-						false, -- [2]
-						14, -- [3]
-						15, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425695,
+					["timestamp"] = 2221686.999,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
 				}, -- [26]
 				{
-					["message"] = "|Hpratcopy|h[01:30:25]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Оборона: Крепость Темного Клыка]|h.",
-					["serverTime"] = 1613172624,
+					["message"] = "|Hpratcopy|h[21:24:25]|h Вы получили предмет: |cff0070dd|Hitem:127703::::::::50:258::14:::::|h[Пыльный спорокрыл]|h|r.",
+					["serverTime"] = 1618079065,
 					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						28, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425695,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221686.999,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [27]
 				{
-					["message"] = "|Hpratcopy|h[01:30:25]|h Аркилара становится лидером группы!",
-					["serverTime"] = 1613172624,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 425695,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[21:24:26]|h |cff33ff99Postal|r: Обработка сообщения 36: Аукцион не состоялся: Мерцающий спороскат",
+					["timestamp"] = 2221687.381,
+					["serverTime"] = 1618079066,
 				}, -- [28]
 				{
-					["message"] = "|Hpratcopy|h[01:30:25]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Элеван-ЧерныйШрам:3218:CHANNEL:3|h|cffc31d39Элеван|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: ну как добыть эти леги себе?",
-					["serverTime"] = 1613172624,
+					["message"] = "|Hpratcopy|h[21:24:26]|h Вы получили предмет: |cff0070dd|Hitem:127701::::::::50:258::14:::::|h[Мерцающий спороскат]|h|r.",
+					["serverTime"] = 1618079066,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425695,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221687.712,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [29]
 				{
-					["message"] = "|Hpratcopy|h[01:30:25]|h Вы не состоите в группе.",
-					["serverTime"] = 1613172624,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425695,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[21:24:26]|h |cff33ff99Postal|r: Обработка сообщения 35: Аукцион не состоялся: Мерцающий спороскат",
+					["timestamp"] = 2221687.897,
+					["serverTime"] = 1618079066,
 				}, -- [30]
 				{
-					["message"] = "|Hpratcopy|h[01:30:37]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Галанджи-ТкачСмерти:3220:CHANNEL:3|h|cff00fe97Галанджи|r-|cff39a132Тка|r|h|cffd8d8d8]|r: открой атлас",
-					["serverTime"] = 1613172636,
+					["message"] = "|Hpratcopy|h[21:24:26]|h Вы получили предмет: |cff0070dd|Hitem:127701::::::::50:258::14:::::|h[Мерцающий спороскат]|h|r.",
+					["serverTime"] = 1618079066,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						20, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425706.701,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221688.212,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [31]
 				{
-					["message"] = "|Hpratcopy|h[01:30:39]|h Аптекарь Хаммел говорит: Тебе хоть сказали, кто я и чем занимаюсь?",
-					["serverTime"] = 1613172638,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425708.684,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[21:24:27]|h |cff33ff99Postal|r: Обработка сообщения 34: Аукцион не состоялся: Мерцающий спороскат",
+					["timestamp"] = 2221688.411,
+					["serverTime"] = 1618079067,
 				}, -- [32]
 				{
-					["message"] = "|Hpratcopy|h[01:30:42]|h Аптекарь Хаммел говорит: ...или тебя используют так же, как и всех остальных?",
-					["serverTime"] = 1613172641,
+					["message"] = "|Hpratcopy|h[21:24:27]|h Вы получили предмет: |cff0070dd|Hitem:127701::::::::50:258::14:::::|h[Мерцающий спороскат]|h|r.",
+					["serverTime"] = 1618079067,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						28, -- [1]
 						false, -- [2]
-						12, -- [3]
-						13, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425712.117,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 2221688.665,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [33]
 				{
-					["message"] = "|Hpratcopy|h[01:30:46]|h Аптекарь Хаммел говорит: Хотя, какая разница... Пора покончить с этим.",
-					["serverTime"] = 1613172645,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425715.884,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[21:24:27]|h |cff33ff99Postal|r: Обработка сообщения 33: Аукцион не состоялся: Наручи темных небес",
+					["timestamp"] = 2221688.924,
+					["serverTime"] = 1618079067,
 				}, -- [34]
 				{
-					["message"] = "|Hpratcopy|h[01:30:51]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Галанджи-ТкачСмерти:3224:CHANNEL:3|h|cff00fe97Галанджи|r-|cff39a132Тка|r|h|cffd8d8d8]|r: там вкладка способности",
-					["serverTime"] = 1613172650,
+					["message"] = "|Hpratcopy|h[21:24:27]|h Вы получили предмет: |cffa335ee|Hitem:119332::::::::50:258::6:1:567::::|h[Наручи темных небес]|h|r.",
+					["serverTime"] = 1618079067,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						20, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425721.167,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221689.355,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [35]
 				{
-					["message"] = "|Hpratcopy|h[01:30:56]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Элеван-ЧерныйШрам:3225:CHANNEL:3|h|cffc31d39Элеван|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: мира?",
-					["serverTime"] = 1613172655,
+					["message"] = "|Hpratcopy|h[21:24:28]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Отвага-Гром:2482:CHANNEL:3|h|cfff38bb9Отвага|r-|cffad5c7fГро|r|h|cffd8d8d8]|r: он там не один такой был",
+					["serverTime"] = 1618079068,
 					["r"] = 1,
 					["extraData"] = {
 						69, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425725.534,
+					["timestamp"] = 2221689.355,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
 				}, -- [36]
 				{
-					["message"] = "|Hpratcopy|h[01:30:56]|h Аптекарь Хаммел говорит: Бакстер! Помоги мне! БЫСТРЕЕ!",
-					["serverTime"] = 1613172655,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425725.534,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[21:24:28]|h |cff33ff99Postal|r: Обработка сообщения 32: Аукцион не состоялся: Пыльный спорокрыл",
+					["timestamp"] = 2221689.518,
+					["serverTime"] = 1618079068,
 				}, -- [37]
 				{
-					["message"] = "|Hpratcopy|h[01:31:03]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Галанджи-ТкачСмерти:3227:CHANNEL:3|h|cff00fe97Галанджи|r-|cff39a132Тка|r|h|cffd8d8d8]|r: и под каждой не найденой написано где она выбивается",
-					["serverTime"] = 1613172662,
+					["message"] = "|Hpratcopy|h[21:24:28]|h Мири Скриполяпс говорит: Не доверяй другим гномским изобретениям! Все мои конкуренты – шарлатаны!",
+					["serverTime"] = 1618079068,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						20, -- [4]
+						10, -- [3]
+						11, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425732.451,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221689.733,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [38]
 				{
-					["message"] = "|Hpratcopy|h[01:31:03]|h Аптекарь Хаммел говорит: Фрай, пора! Убей их!",
-					["serverTime"] = 1613172662,
+					["message"] = "|Hpratcopy|h[21:24:28]|h Вы получили предмет: |cff0070dd|Hitem:127703::::::::50:258::14:::::|h[Пыльный спорокрыл]|h|r.",
+					["serverTime"] = 1618079068,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						28, -- [1]
 						false, -- [2]
-						12, -- [3]
-						13, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425733.001,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 2221689.819,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [39]
 				{
-					["message"] = "|Hpratcopy|h[01:31:08]|h Аптекарь Хаммел говорит: ...не думай плохого обо мне.",
-					["serverTime"] = 1613172667,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425738.118,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[21:24:28]|h |cff33ff99Postal|r: Обработка сообщения 31: Аукцион не состоялся: Пахучая мурлочья слизь",
+					["timestamp"] = 2221690.027,
+					["serverTime"] = 1618079068,
 				}, -- [40]
 				{
-					["message"] = "|Hpratcopy|h[01:31:13]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Галанджи-ТкачСмерти:3230:CHANNEL:3|h|cff00fe97Галанджи|r-|cff39a132Тка|r|h|cffd8d8d8]|r: путеводитель по приключениям",
-					["serverTime"] = 1613172672,
+					["message"] = "|Hpratcopy|h[21:24:28]|h Вы получили предмет: |cffffffff|Hitem:133702::::::::50:258:::::::|h[Пахучая мурлочья слизь]|h|r.",
+					["serverTime"] = 1618079068,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						20, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425742.368,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221690.347,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [41]
 				{
-					["message"] = "|Hpratcopy|h[01:31:14]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Сизоблюдов-Борейскаятундра:3231:CHANNEL:3|h|cfffefefeСизоблюдов|r|h|cffd8d8d8]|r: если улучшать со 190, или купить сразу 235 - большая разница по пеплу?",
-					["serverTime"] = 1613172673,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						5, -- [3]
-						22, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425743.451,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["message"] = "|Hpratcopy|h[21:24:29]|h |cff33ff99Postal|r: Обработка сообщения 30: Аукцион не состоялся: Волшебная приманка",
+					["timestamp"] = 2221690.53,
+					["serverTime"] = 1618079069,
 				}, -- [42]
 				{
-					["message"] = "|Hpratcopy|h[01:31:18]|h Аптекарь Бакстер погибает, вы получаете опыт: 168 (Состояние бодрости: +84, группа: +24).",
-					["serverTime"] = 1613172677,
+					["message"] = "|Hpratcopy|h[21:24:29]|h Вы получили предмет: |cffffffff|Hitem:133717::::::::50:258:::::::|h[Волшебная приманка]|h|r.",
+					["serverTime"] = 1618079069,
 					["r"] = 1,
 					["extraData"] = {
-						34, -- [1]
+						28, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425747.835,
-					["g"] = 0.7921569347381592,
-					["b"] = 0.2313725650310516,
+					["timestamp"] = 2221690.769,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [43]
 				{
-					["message"] = "|Hpratcopy|h[01:31:18]|h Аптекарь Бакстер говорит: Для меня было большой честью служить тебе, Хаммел.",
-					["serverTime"] = 1613172677,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425748.018,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[21:24:29]|h |cff33ff99Postal|r: Обработка сообщения 29: Аукцион не состоялся: Мерцающий спороскат",
+					["timestamp"] = 2221691.032,
+					["serverTime"] = 1618079069,
 				}, -- [44]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Аптекарь Фрай погибает, вы получаете опыт: 168 (Состояние бодрости: +84, группа: +24).",
-					["serverTime"] = 1613172679,
+					["message"] = "|Hpratcopy|h[21:24:29]|h Вы получили предмет: |cff0070dd|Hitem:127701::::::::50:258::14:::::|h[Мерцающий спороскат]|h|r.",
+					["serverTime"] = 1618079069,
 					["r"] = 1,
 					["extraData"] = {
-						34, -- [1]
+						28, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425749.551,
-					["g"] = 0.7921569347381592,
-					["b"] = 0.2313725650310516,
+					["timestamp"] = 2221691.353,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [45]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Аптекарь Хаммел погибает, вы получаете опыт: 168 (Состояние бодрости: +84, группа: +24).",
-					["serverTime"] = 1613172679,
-					["r"] = 1,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425749.571,
-					["g"] = 0.7921569347381592,
-					["b"] = 0.2313725650310516,
+					["message"] = "|Hpratcopy|h[21:24:30]|h |cff33ff99Postal|r: Обработка сообщения 28: Аукцион не состоялся: Мерцающий спороскат",
+					["timestamp"] = 2221691.533,
+					["serverTime"] = 1618079070,
 				}, -- [46]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Аптекарь Фрай говорит: Отлично. Смелости нам хватило, а мозгов – нет.",
-					["serverTime"] = 1613172679,
+					["message"] = "|Hpratcopy|h[21:24:30]|h Вы получили предмет: |cff0070dd|Hitem:127701::::::::50:258::14:::::|h[Мерцающий спороскат]|h|r.",
+					["serverTime"] = 1618079070,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						28, -- [1]
 						false, -- [2]
-						12, -- [3]
-						13, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425749.595,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 2221691.86,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [47]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h |cffd8d8d8[|r|Hplayer:Блэкбук-ЧерныйШрам:3238:ACHIEVEMENT|h|cffd84e4e60|r:|cffa9d271Блэкбук|r-|cff32caf5Чер|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:4624:Player-1929-0EB2F851:1:2:13:21:4294967295:4294967295:4294967295:4294967295|h[Крепкая любовь]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["serverTime"] = 1613172679,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						27, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425749.595,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[21:24:30]|h |cff33ff99Postal|r: Обработка сообщения 27: Аукцион не состоялся: Багровый плеточник",
+					["timestamp"] = 2221692.051,
+					["serverTime"] = 1618079070,
 				}, -- [48]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Вы получаете 1300 |4очко:очка:очков; опыта.",
-					["serverTime"] = 1613172679,
+					["message"] = "|Hpratcopy|h[21:24:31]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079071,
 					["r"] = 1,
 					["extraData"] = {
-						34, -- [1]
+						28, -- [1]
 						false, -- [2]
-						24, -- [3]
-						25, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425749.595,
-					["g"] = 0.7921569347381592,
-					["b"] = 0.2313725650310516,
+					["timestamp"] = 2221692.721,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [49]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Получено опыта: 1300.",
-					["serverTime"] = 1613172679,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425749.595,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["message"] = "|Hpratcopy|h[21:24:31]|h |cff33ff99Postal|r: Обработка сообщения 26: Аукцион не состоялся: Перламутровый моллюск",
+					["timestamp"] = 2221693.096,
+					["serverTime"] = 1618079071,
 				}, -- [50]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Получено: 23 |4золотая:золотые:золотых;, 40 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1613172679,
-					["r"] = 0.9529412388801575,
+					["message"] = "|Hpratcopy|h[21:24:32]|h Вы получили предмет: |cffffffff|Hitem:133703::::::::50:258:::::::|h[Перламутровый моллюск]|h|r.",
+					["serverTime"] = 1618079072,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425749.595,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
+					["timestamp"] = 2221693.427,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [51]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h Вы получили предмет: |cffa335ee|Hitem:54537::::::::50:258::11::1:28:181:::|h[Коробочка в виде сердца]|h|r.",
-					["serverTime"] = 1613172679,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425749.628,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:24:32]|h |cff33ff99Postal|r: Обработка сообщения 25: Аукцион не состоялся: Детеныш опустошителя Кровавых Шипов",
+					["timestamp"] = 2221693.682,
+					["serverTime"] = 1618079072,
 				}, -- [52]
 				{
-					["message"] = "|Hpratcopy|h[01:31:20]|h |cff00ff00TomCat's Tours: Love is in the Air: |cffffffff7 of 7 Completed Today|r",
-					["timestamp"] = 425749.701,
-					["serverTime"] = 1613172679,
-				}, -- [53]
-				{
-					["message"] = "|Hpratcopy|h[01:31:28]|h Бадрия-ЧерныйШрам получает добычу: |cffffffff|Hitem:49927::::::::50:258:::::::|h[Знак любви]|h|rx5.",
-					["serverTime"] = 1613172687,
+					["message"] = "|Hpratcopy|h[21:24:32]|h Вы получили предмет: |cff0070dd|Hitem:127704::::::::50:258::14:::::|h[Детеныш опустошителя Кровавых Шипов]|h|r.",
+					["serverTime"] = 1618079072,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						30, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425757.985,
+					["timestamp"] = 2221693.95,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[21:24:32]|h |cff33ff99Postal|r: Обработка сообщения 24: Аукцион не состоялся: Крючок из лосиного рога",
+					["timestamp"] = 2221694.195,
+					["serverTime"] = 1618079072,
 				}, -- [54]
 				{
-					["message"] = "|Hpratcopy|h[01:31:28]|h Ваша добыча: |cffffffff|Hitem:49861::::::::50:258:::::::|h[Одеколон \"ДОБЛЕСТЬ\"]|h|r.",
-					["serverTime"] = 1613172687,
+					["message"] = "|Hpratcopy|h[21:24:33]|h Вы получили предмет: |cffffffff|Hitem:133713::::::::50:258:::::::|h[Крючок из лосиного рога]|h|r.",
+					["serverTime"] = 1618079073,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425757.985,
+					["timestamp"] = 2221694.428,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [55]
 				{
-					["message"] = "|Hpratcopy|h[01:31:28]|h Ваша добыча: |cffffffff|Hitem:49858::::::::50:258:::::::|h[Духи \"Вместе навсегда\"]|h|r.",
-					["serverTime"] = 1613172687,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425758.118,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:24:33]|h |cff33ff99Postal|r: Обработка сообщения 23: Аукцион не состоялся: Детеныш опустошителя Кровавых Шипов",
+					["timestamp"] = 2221694.73,
+					["serverTime"] = 1618079073,
 				}, -- [56]
 				{
-					["message"] = "|Hpratcopy|h[01:31:28]|h Ваша добыча: |cffffffff|Hitem:49857::::::::50:258:::::::|h[Духи \"Чаровница\"]|h|r.",
-					["serverTime"] = 1613172687,
+					["message"] = "|Hpratcopy|h[21:24:33]|h Вы получили предмет: |cff0070dd|Hitem:127704::::::::50:258::14:::::|h[Детеныш опустошителя Кровавых Шипов]|h|r.",
+					["serverTime"] = 1618079073,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425758.285,
+					["timestamp"] = 2221695.139,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [57]
 				{
-					["message"] = "|Hpratcopy|h[01:31:29]|h Ваша добыча: |cffffffff|Hitem:49860::::::::50:258:::::::|h[Одеколон \"Волшебство\"]|h|r.",
-					["serverTime"] = 1613172688,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425758.47,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:24:33]|h |cff33ff99Postal|r: Обработка сообщения 22: Аукцион не состоялся: Детеныш опустошителя Кровавых Шипов",
+					["timestamp"] = 2221695.296,
+					["serverTime"] = 1618079073,
 				}, -- [58]
 				{
-					["message"] = "|Hpratcopy|h[01:31:29]|h Ваша добыча: |cffffffff|Hitem:49856::::::::50:258:::::::|h[Духи \"Победа\"]|h|r.",
-					["serverTime"] = 1613172688,
+					["message"] = "|Hpratcopy|h[21:24:34]|h Вы получили предмет: |cff0070dd|Hitem:127704::::::::50:258::14:::::|h[Детеныш опустошителя Кровавых Шипов]|h|r.",
+					["serverTime"] = 1618079074,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425758.668,
+					["timestamp"] = 2221695.596,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [59]
 				{
-					["message"] = "|Hpratcopy|h[01:31:29]|h Ваша добыча: 4 |4золотая:золотые:золотых;, 1 |4серебряная:серебряные:серебряных;, 75 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613172688,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						31, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425758.801,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[21:24:34]|h |cff33ff99Postal|r: Обработка сообщения 21: Аукцион не состоялся: Детеныш опустошителя Кровавых Шипов",
+					["timestamp"] = 2221695.798,
+					["serverTime"] = 1618079074,
 				}, -- [60]
 				{
-					["message"] = "|Hpratcopy|h[01:31:29]|h Ваша добыча: |cffffffff|Hitem:49859::::::::50:258:::::::|h[Одеколон \"Бравада\"]|h|r.",
-					["serverTime"] = 1613172688,
+					["message"] = "|Hpratcopy|h[21:24:34]|h Вы получили предмет: |cff0070dd|Hitem:127704::::::::50:258::14:::::|h[Детеныш опустошителя Кровавых Шипов]|h|r.",
+					["serverTime"] = 1618079074,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425758.821,
+					["timestamp"] = 2221696.119,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [61]
 				{
-					["message"] = "|Hpratcopy|h[01:31:29]|h Блэкбук-ЧерныйШрам получает добычу: |cff0070dd|Hitem:49715::::::::50:258::11::1:28:181:::|h[Вечно прекрасная роза]|h|r.",
-					["serverTime"] = 1613172688,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425758.832,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:24:35]|h |cff33ff99Postal|r: Обработка сообщения 20: Аукцион не состоялся: Детеныш опустошителя Кровавых Шипов",
+					["timestamp"] = 2221696.382,
+					["serverTime"] = 1618079075,
 				}, -- [62]
 				{
-					["message"] = "|Hpratcopy|h[01:31:29]|h Блэкбук-ЧерныйШрам получает добычу: |cffffffff|Hitem:49927::::::::50:258:::::::|h[Знак любви]|h|rx7.",
-					["serverTime"] = 1613172688,
+					["message"] = "|Hpratcopy|h[21:24:35]|h Вы получили предмет: |cff0070dd|Hitem:127704::::::::50:258::14:::::|h[Детеныш опустошителя Кровавых Шипов]|h|r.",
+					["serverTime"] = 1618079075,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						33, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425758.92,
+					["timestamp"] = 2221696.753,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [63]
 				{
-					["message"] = "|Hpratcopy|h[01:31:32]|h Бадрия-ЧерныйШрам получает добычу: |cff0070dd|Hitem:143907::::::::50:258::22:1:7191:2:28:181:9:23:::|h[Осколок пируэтов счастья]|h|r.",
-					["serverTime"] = 1613172691,
+					["message"] = "|Hpratcopy|h[21:24:35]|h |cff33ff99Postal|r: Обработка сообщения 19: Аукцион не состоялся: Добротный полный шлем с символом огненной вспышки",
+					["timestamp"] = 2221696.974,
+					["serverTime"] = 1618079075,
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[21:24:35]|h Вы получили предмет: |cff1eff00|Hitem:10150::::::::50:258:::1:1692::::|h[Добротный полный шлем с символом огненной вспышки]|h|r.",
+					["serverTime"] = 1618079075,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						30, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425761.652,
+					["timestamp"] = 2221697.224,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
-				}, -- [64]
-				{
-					["message"] = "|Hpratcopy|h[01:31:33]|h |cffa5a5a5Бадрия|r-ЧерныйШрам покидает межсерверную группу.",
-					["serverTime"] = 1613172692,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425763.235,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
 				}, -- [65]
 				{
-					["message"] = "|Hpratcopy|h[01:31:34]|h Вы покидаете группу.",
-					["serverTime"] = 1613172693,
-					["r"] = 0.9529412388801575,
+					["message"] = "|Hpratcopy|h[21:24:36]|h |cff33ff99Postal|r: Обработка сообщения 18: Аукцион не состоялся: Солнечно-огненный калири",
+					["timestamp"] = 2221697.483,
+					["serverTime"] = 1618079076,
+				}, -- [66]
+				{
+					["message"] = "|Hpratcopy|h[21:24:36]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079076,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221698.361,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[21:24:37]|h |cff33ff99Postal|r: Обработка сообщения 17: Аукцион не состоялся: Детеныш опустошителя Кровавых Шипов",
+					["timestamp"] = 2221698.582,
+					["serverTime"] = 1618079077,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[21:24:37]|h Вы получили предмет: |cff0070dd|Hitem:127704::::::::50:258::14:::::|h[Детеныш опустошителя Кровавых Шипов]|h|r.",
+					["serverTime"] = 1618079077,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221698.858,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[21:24:38]|h |cff33ff99Postal|r: Обработка сообщения 16: Аукцион не состоялся: Магматический волчонок",
+					["timestamp"] = 2221699.591,
+					["serverTime"] = 1618079078,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[21:24:38]|h |cff33ff99Postal|r: Не брать больше вещей если в сумках осталось только 1 свободных мест.",
+					["timestamp"] = 2221699.591,
+					["serverTime"] = 1618079078,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[21:24:40]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Лилудаллас-Термоштепсель:2500:CHANNEL:3|h|cffc31d39Лилудаллас|r-|cff76a4beТер|r|h|cffd8d8d8]|r: ох там дрим тим было...",
+					["serverTime"] = 1618079080,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425764.135,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [66]
+					["timestamp"] = 2221702.138,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [72]
 				{
-					["message"] = "|Hpratcopy|h[01:31:40]|h Вы будете получать добычу для специализации \"Тьма\".",
-					["serverTime"] = 1613172699,
+					["message"] = "|Hpratcopy|h[21:24:59]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Отвага-Гром:2501:CHANNEL:3|h|cfff38bb9Отвага|r-|cffad5c7fГро|r|h|cffd8d8d8]|r: а так роналдиньо вот виртуос канеш был",
+					["serverTime"] = 1618079099,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221720.885,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[21:25:06]|h Сара Бартлетт говорит: Наши пряности придают любому блюду потрясающий цвет и аромат! Тебе понравится.",
+					["serverTime"] = 1618079106,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221727.472,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[21:25:19]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Лилудаллас-Термоштепсель:2503:CHANNEL:3|h|cffc31d39Лилудаллас|r-|cff76a4beТер|r|h|cffd8d8d8]|r: тоже оттудова, кстати",
+					["serverTime"] = 1618079119,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221740.494,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[21:26:02]|h Вы получили: |cffffffff2338|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 8|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 66|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
+					["serverTime"] = 1618079162,
 					["r"] = 0.9529412388801575,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 425769.552,
+					["timestamp"] = 2221783.463,
 					["g"] = 1,
 					["b"] = 0.9843137860298157,
-				}, -- [67]
-				{
-					["message"] = "|Hpratcopy|h[01:31:45]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Торговля: Город]|h.",
-					["serverTime"] = 1613172704,
-					["r"] = 1,
-					["extraData"] = {
-						67, -- [1]
-						false, -- [2]
-						14, -- [3]
-						15, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425774.441,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [68]
-				{
-					["message"] = "|Hpratcopy|h[01:31:45]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Оборона: Гавань Боралуса]|h.",
-					["serverTime"] = 1613172704,
-					["r"] = 1,
-					["extraData"] = {
-						68, -- [1]
-						false, -- [2]
-						17, -- [3]
-						18, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425774.441,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [69]
-				{
-					["message"] = "|Hpratcopy|h[01:31:46]|h Мири Скриполяпс говорит: Не доверяй другим гномским изобретениям! Все мои конкуренты – шарлатаны!",
-					["serverTime"] = 1613172705,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425776.168,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [70]
-				{
-					["message"] = "|Hpratcopy|h[01:31:49]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Нежныйсон-Термоштепсель:3259:CHANNEL:3|h|cfffef367Нежныйсон|r-|cff76a4beТер|r|h|cffd8d8d8]|r: Легендарный предмет состоит из заготовки+ договор+способность резчика. Все способности в разных местах.",
-					["serverTime"] = 1613172708,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						5, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425779.285,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [71]
-				{
-					["message"] = "|Hpratcopy|h[01:31:52]|h Вы получили предмет: |cff1eff00|Hitem:176985::::::::50:258:::4:6907:6652:7193:1677:2:9:54:28:1707:::|h[Ремень заставы Черного Пса со знаком быстрого клинка]|h|r.",
-					["serverTime"] = 1613172711,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425782.235,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [72]
-				{
-					["message"] = "|Hpratcopy|h[01:31:53]|h Вы получили предмет: |cff1eff00|Hitem:176795::::::::50:258:::3:6908:6652:1706:2:9:51:28:1707:::|h[Аспис защитника со знаком рассвета]|h|r.",
-					["serverTime"] = 1613172712,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425782.519,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [73]
-				{
-					["message"] = "|Hpratcopy|h[01:31:53]|h Вы получили предмет: |cff1eff00|Hitem:178944::::::::50:258:::3:6908:6652:1715:2:9:53:28:1707:::|h[Покрытая кровью кувалда с меткой безмятежности]|h|r.",
-					["serverTime"] = 1613172712,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425782.776,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [74]
-				{
-					["message"] = "|Hpratcopy|h[01:31:53]|h Вы получили предмет: |cff1eff00|Hitem:178943::::::::50:258:::3:6908:40:1708:2:9:53:28:1707:::|h[Покрытый кровью кинжал со знаком рассвета]|h|r.",
-					["serverTime"] = 1613172712,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425783.019,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [75]
-				{
-					["message"] = "|Hpratcopy|h[01:31:53]|h Вы получили предмет: |cff1eff00|Hitem:176987::::::::50:258:::4:6907:6652:7193:1691:2:9:53:28:1707:::|h[Пояс из оссеиновой чешуи с символом огненной вспышки]|h|r.",
-					["serverTime"] = 1613172712,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425783.252,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
 				}, -- [76]
 				{
-					["message"] = "|Hpratcopy|h[01:31:54]|h Вы получили предмет: |cff1eff00|Hitem:176979::::::::50:258:::3:6907:6652:1693:2:9:54:28:1707:::|h[Поножи из оссеиновой чешуи с символом огненной вспышки]|h|r.",
-					["serverTime"] = 1613172713,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425783.585,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:26:04]|h |cff33ff99Postal|r: Обработка сообщения 16: Аукцион не состоялся: Пыльный спорокрыл",
+					["timestamp"] = 2221785.662,
+					["serverTime"] = 1618079164,
 				}, -- [77]
 				{
-					["message"] = "|Hpratcopy|h[01:31:54]|h Вы получили предмет: |cff1eff00|Hitem:178949::::::::50:258:::3:6908:6652:1704:2:9:54:28:1707:::|h[Клеймор заставы Черного Пса со знаком рассвета]|h|r.",
-					["serverTime"] = 1613172713,
+					["message"] = "|Hpratcopy|h[21:26:04]|h Вы получили предмет: |cff0070dd|Hitem:127703::::::::50:258::14:::::|h[Пыльный спорокрыл]|h|r.",
+					["serverTime"] = 1618079164,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425783.835,
+					["timestamp"] = 2221785.91,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [78]
 				{
-					["message"] = "|Hpratcopy|h[01:31:54]|h Вы получили предмет: |cff1eff00|Hitem:178950::::::::50:258:::3:6908:6652:1710:2:9:53:28:1707:::|h[Бастион заставы Черного Пса со знаком рассвета]|h|r.",
-					["serverTime"] = 1613172713,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425784.091,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:26:04]|h |cff33ff99Postal|r: Обработка сообщения 15: Аукцион не состоялся: Пыльный спорокрыл",
+					["timestamp"] = 2221786.159,
+					["serverTime"] = 1618079164,
 				}, -- [79]
 				{
-					["message"] = "|Hpratcopy|h[01:31:54]|h Вы получили предмет: |cff1eff00|Hitem:176801::::::::50:258:::3:6908:6652:1683:2:9:51:28:1707:::|h[Облегченный молот с символом бесподобия]|h|r.",
-					["serverTime"] = 1613172713,
+					["message"] = "|Hpratcopy|h[21:26:05]|h Вы получили предмет: |cff0070dd|Hitem:127703::::::::50:258::14:::::|h[Пыльный спорокрыл]|h|r.",
+					["serverTime"] = 1618079165,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425784.342,
+					["timestamp"] = 2221786.496,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [80]
 				{
-					["message"] = "|Hpratcopy|h[01:31:56]|h Вы получили предмет: |cff1eff00|Hitem:172241::::::::50:258::13:1:6883:2:29:40:30:36:::|h[Наручи из могильной кожи]|h|r.",
-					["serverTime"] = 1613172715,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425785.585,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:26:05]|h |cff33ff99Postal|r: Обработка сообщения 14: Аукцион не состоялся: Пыльный спорокрыл",
+					["timestamp"] = 2221786.66,
+					["serverTime"] = 1618079165,
 				}, -- [81]
 				{
-					["message"] = "|Hpratcopy|h[01:31:56]|h Вы получили предмет: |cff1eff00|Hitem:172241::::::::50:258::13:1:6883:2:29:32:30:40:::|h[Наручи из могильной кожи]|h|r.",
-					["serverTime"] = 1613172715,
+					["message"] = "|Hpratcopy|h[21:26:05]|h Вы получили предмет: |cff0070dd|Hitem:127703::::::::50:258::14:::::|h[Пыльный спорокрыл]|h|r.",
+					["serverTime"] = 1618079165,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425785.845,
+					["timestamp"] = 2221786.994,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [82]
 				{
-					["message"] = "|Hpratcopy|h[01:31:57]|h Патрик Марксон говорит: Профессиональное оружие для охотников любого уровня!",
-					["serverTime"] = 1613172716,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425786.852,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[21:26:05]|h |cff33ff99Postal|r: Обработка сообщения 13: Аукцион не состоялся: Магматический волчонок",
+					["timestamp"] = 2221787.197,
+					["serverTime"] = 1618079165,
 				}, -- [83]
 				{
-					["message"] = "|Hpratcopy|h[01:31:59]|h Ваша добыча: |cffffffff|Hitem:49927::::::::50:258:::::::|h[Знак любви]|h|rx10.",
-					["serverTime"] = 1613172718,
+					["message"] = "|Hpratcopy|h[21:26:06]|h Вы получили предмет: |cff0070dd|Hitem:127748::::::::50:258::31:::::|h[Магматический волчонок]|h|r.",
+					["serverTime"] = 1618079166,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						29, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425789.019,
+					["timestamp"] = 2221787.461,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [84]
 				{
-					["message"] = "|Hpratcopy|h[01:32:00]|h |T135448:15:15:0:0:64:64:4:60:4:60|tБольшая ракета любви: 112 попыток",
-					["r"] = 1,
-					["serverTime"] = 1613172719,
-					["timestamp"] = 425789.673,
-					["g"] = 1,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[21:26:06]|h |cff33ff99Postal|r: Обработка сообщения 12: Аукцион не состоялся: Птенец альбатроса",
+					["timestamp"] = 2221787.704,
+					["serverTime"] = 1618079166,
 				}, -- [85]
 				{
-					["message"] = "|Hpratcopy|h[01:32:00]|h Ваша добыча: 16 |4золотая:золотые:золотых;, 89 |4серебряная:серебряные:серебряных;, 8 |4медная монета:медные монеты:медных монет;.",
-					["serverTime"] = 1613172719,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						31, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425789.885,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [86]
-				{
-					["message"] = "|Hpratcopy|h[01:32:02]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq15|k:33:3274:BN_INLINE_TOAST_ALERT:0|h[|Kq15|k]|h выходит из сети.",
-					["serverTime"] = 1613172721,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						1, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425792.035,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [87]
-				{
-					["message"] = "|Hpratcopy|h[01:32:07]|h Вы продали хлама на 2|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["serverTime"] = 1613172726,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						31, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425796.735,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [88]
-				{
-					["message"] = "|Hpratcopy|h[01:32:11]|h Добавлено в список хлама: |cffffffff|Hitem:49857::::::::50:258:::::::|h[Духи \"Чаровница\"]|h|r",
-					["serverTime"] = 1613172730,
+					["message"] = "|Hpratcopy|h[21:26:06]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079166,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						28, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425801.235,
+					["timestamp"] = 2221788.047,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
-				}, -- [89]
+				}, -- [86]
 				{
-					["message"] = "|Hpratcopy|h[01:32:12]|h Добавлено в список хлама: |cffffffff|Hitem:49860::::::::50:258:::::::|h[Одеколон \"Волшебство\"]|h|r",
-					["serverTime"] = 1613172731,
+					["message"] = "|Hpratcopy|h[21:26:06]|h |cff33ff99Postal|r: Обработка сообщения 11: Аукцион не состоялся: Птенец альбатроса",
+					["timestamp"] = 2221788.22,
+					["serverTime"] = 1618079166,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[21:26:07]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079167,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						28, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425801.752,
+					["timestamp"] = 2221788.601,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[21:26:07]|h |cff33ff99Postal|r: Обработка сообщения 10: Аукцион не состоялся: Приманка для лосося",
+					["timestamp"] = 2221788.746,
+					["serverTime"] = 1618079167,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[21:26:07]|h Вы получили предмет: |cffffffff|Hitem:133710::::::::50:258:::::::|h[Приманка для лосося]|h|r.",
+					["serverTime"] = 1618079167,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221789.005,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [90]
 				{
-					["message"] = "|Hpratcopy|h[01:32:12]|h Добавлено в список хлама: |cffffffff|Hitem:49856::::::::50:258:::::::|h[Духи \"Победа\"]|h|r",
-					["serverTime"] = 1613172731,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						28, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425802.352,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:26:07]|h |cff33ff99Postal|r: Обработка сообщения 9: Аукцион не состоялся: Черная королевская змейка",
+					["timestamp"] = 2221789.253,
+					["serverTime"] = 1618079167,
 				}, -- [91]
 				{
-					["message"] = "|Hpratcopy|h[01:32:13]|h Добавлено в список хлама: |cffffffff|Hitem:49859::::::::50:258:::::::|h[Одеколон \"Бравада\"]|h|r",
-					["serverTime"] = 1613172732,
+					["message"] = "|Hpratcopy|h[21:26:08]|h Вы получили предмет: |cff1eff00|Hitem:10360::::::::50:258:::::::|h[Черная королевская змейка]|h|r.",
+					["serverTime"] = 1618079168,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						28, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425802.952,
+					["timestamp"] = 2221789.466,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [92]
 				{
-					["message"] = "|Hpratcopy|h[01:32:14]|h Добавлено в список хлама: |cffffffff|Hitem:49858::::::::50:258:::::::|h[Духи \"Вместе навсегда\"]|h|r",
-					["serverTime"] = 1613172733,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						28, -- [3]
-						28, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425803.419,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
+					["message"] = "|Hpratcopy|h[21:26:08]|h |cff33ff99Postal|r: Обработка сообщения 8: Аукцион не состоялся: Птенец альбатроса",
+					["timestamp"] = 2221789.767,
+					["serverTime"] = 1618079168,
 				}, -- [93]
 				{
-					["message"] = "|Hpratcopy|h[01:32:14]|h Добавлено в список хлама: |cffffffff|Hitem:49861::::::::50:258:::::::|h[Одеколон \"ДОБЛЕСТЬ\"]|h|r",
-					["serverTime"] = 1613172733,
+					["message"] = "|Hpratcopy|h[21:26:08]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079168,
 					["r"] = 1,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						28, -- [3]
-						28, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425804.252,
+					["timestamp"] = 2221790.084,
 					["g"] = 0.9764706492424011,
 					["b"] = 0.02745098248124123,
 				}, -- [94]
 				{
-					["message"] = "|Hpratcopy|h[01:32:16]|h Вы продали хлама на 0|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["serverTime"] = 1613172735,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						31, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 425806.152,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|Hpratcopy|h[21:26:08]|h |cff33ff99Postal|r: Обработка сообщения 7: Аукцион не состоялся: Птенец альбатроса",
+					["timestamp"] = 2221790.274,
+					["serverTime"] = 1618079168,
 				}, -- [95]
 				{
-					["message"] = "|Hpratcopy|h[01:32:22]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Торговля: Город]|h.",
-					["serverTime"] = 1613172741,
+					["message"] = "|Hpratcopy|h[21:26:09]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079169,
 					["r"] = 1,
 					["extraData"] = {
-						67, -- [1]
+						28, -- [1]
 						false, -- [2]
-						14, -- [3]
-						15, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425812.152,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 2221790.57,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
 				}, -- [96]
 				{
-					["message"] = "|Hpratcopy|h[01:32:22]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Оборона: Гавань Боралуса]|h.",
-					["serverTime"] = 1613172741,
+					["message"] = "|Hpratcopy|h[21:26:09]|h |cff33ff99Postal|r: Обработка сообщения 6: Аукцион не состоялся: Хищная муха",
+					["timestamp"] = 2221790.781,
+					["serverTime"] = 1618079169,
+				}, -- [97]
+				{
+					["message"] = "|Hpratcopy|h[21:26:09]|h Вы получили предмет: |cffffffff|Hitem:133795::::::::50:258:::::::|h[Хищная муха]|h|r.",
+					["serverTime"] = 1618079169,
 					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						28, -- [1]
 						false, -- [2]
-						17, -- [3]
-						18, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 425812.152,
+					["timestamp"] = 2221791.073,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [98]
+				{
+					["message"] = "|Hpratcopy|h[21:26:09]|h |cff33ff99Postal|r: Обработка сообщения 5: Аукцион не состоялся: Птенец альбатроса",
+					["timestamp"] = 2221791.301,
+					["serverTime"] = 1618079169,
+				}, -- [99]
+				{
+					["message"] = "|Hpratcopy|h[21:26:10]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079170,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221791.604,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [100]
+				{
+					["message"] = "|Hpratcopy|h[21:26:10]|h |cff33ff99Postal|r: Обработка сообщения 4: Аукцион не состоялся: Демонический детрит",
+					["timestamp"] = 2221791.802,
+					["serverTime"] = 1618079170,
+				}, -- [101]
+				{
+					["message"] = "|Hpratcopy|h[21:26:10]|h Вы получили предмет: |cffffffff|Hitem:133720::::::::50:258:::::::|h[Демонический детрит]|h|r.",
+					["serverTime"] = 1618079170,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221792.145,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [102]
+				{
+					["message"] = "|Hpratcopy|h[21:26:10]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Отвага-Гром:2517:CHANNEL:3|h|cfff38bb9Отвага|r-|cffad5c7fГро|r|h|cffd8d8d8]|r: ну и само сабой арманда диего марадона  с бойна сайруса)",
+					["serverTime"] = 1618079170,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221792.209,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [97]
+				}, -- [103]
+				{
+					["message"] = "|Hpratcopy|h[21:26:10]|h |cff33ff99Postal|r: Обработка сообщения 3: Аукцион не состоялся: Птенец альбатроса",
+					["timestamp"] = 2221792.333,
+					["serverTime"] = 1618079170,
+				}, -- [104]
+				{
+					["message"] = "|Hpratcopy|h[21:26:11]|h Вы получили предмет: |cff0070dd|Hitem:82800::::::::50:258:::::::|h[Клетка для питомца]|h|r.",
+					["serverTime"] = 1618079171,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221792.71,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [105]
+				{
+					["message"] = "|Hpratcopy|h[21:26:11]|h |cff33ff99Postal|r: Обработка сообщения 2: Аукцион не состоялся: Ледяной червь",
+					["timestamp"] = 2221792.838,
+					["serverTime"] = 1618079171,
+				}, -- [106]
+				{
+					["message"] = "|Hpratcopy|h[21:26:11]|h Вы получили предмет: |cffffffff|Hitem:133712::::::::50:258:::::::|h[Ледяной червь]|h|r.",
+					["serverTime"] = 1618079171,
+					["r"] = 1,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221793.118,
+					["g"] = 0.9764706492424011,
+					["b"] = 0.02745098248124123,
+				}, -- [107]
+				{
+					["message"] = "|Hpratcopy|h[21:26:21]|h Патрик Марксон говорит: Профессиональное оружие для охотников любого уровня!",
+					["serverTime"] = 1618079181,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221802.535,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [108]
+				{
+					["message"] = "|Hpratcopy|h[21:26:30]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Лилудаллас-Термоштепсель:2521:CHANNEL:3|h|cffc31d39Лилудаллас|r-|cff76a4beТер|r|h|cffd8d8d8]|r: ну, этот дядька раньше...",
+					["serverTime"] = 1618079190,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221811.458,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [109]
+				{
+					["message"] = "|Hpratcopy|h[21:26:30]|h Вы получили: |cffffffff324|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 10|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 18|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
+					["serverTime"] = 1618079190,
+					["r"] = 0.9529412388801575,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2221811.946,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [110]
+				{
+					["message"] = "|Hpratcopy|h[21:26:41]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Лилудаллас-Термоштепсель:2522:CHANNEL:3|h|cffc31d39Лилудаллас|r-|cff76a4beТер|r|h|cffd8d8d8]|r: умер то недавно только",
+					["serverTime"] = 1618079201,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2221822.75,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [111]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

@@ -166,7 +166,7 @@ Scrap: enabled
 SexyMap: enabled
 Simulationcraft: enabled
 TidyPlates_ThreatPlates: enabled
-TomCats: enabled
+TomCats: disabled
 DBM-Azeroth-BfA: disabled
 DBM-ZuldazarRaid: disabled
 DBM-Party-BfA: disabled
@@ -231,3 +231,4 @@ BigWigs_Shadowlands: enabled
 LittleWigs_MistsOfPandaria: enabled
 BigWigs_CastleNathria: enabled
 LittleWigs_BurningCrusade: enabled
+LittleWigs_WarlordsOfDraenor: enabled

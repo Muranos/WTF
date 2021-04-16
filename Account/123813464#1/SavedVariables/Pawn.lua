@@ -388,10 +388,10 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN3"] = {
 			["IconTexturePath"] = 135873,
 			["PerCharacterOptions"] = {
-				["Хилопятьумер-Гордунни"] = {
+				["Ниэтта-Гордунни"] = {
 					["Visible"] = true,
 				},
-				["Ниэтта-Гордунни"] = {
+				["Хилопятьумер-Гордунни"] = {
 					["Visible"] = true,
 				},
 			},
@@ -718,7 +718,7 @@ PawnCommon = {
 	},
 	["ShowSocketingAdvisor"] = false,
 	["ShowSpecIcons"] = true,
-	["LastVersion"] = 2.0415,
+	["LastVersion"] = 2.0418,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

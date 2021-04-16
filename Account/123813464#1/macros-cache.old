@@ -130,6 +130,11 @@ VER 3 000000000000001A "SpecialCast" "Ability_Mage_ColdAsIce"
 /cast Слово Тьмы: Боль
 /targetlasttarget
 END
+VER 3 0000000000000043 "StewardsJob" "135939"
+/target Грамилос
+/target Грамилос
+/script C_GossipInfo.SelectOption(5)
+END
 VER 3 0000000000000035 "tar" "132311"
 /ц Статуя
 END

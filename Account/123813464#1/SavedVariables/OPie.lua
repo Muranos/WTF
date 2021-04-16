@@ -3,19 +3,19 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "9.0.2",
+	["_GameVersion"] = "9.0.5",
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
+				["SpecMenu"] = "F5",
 				["OPieTracking"] = false,
-				["OPieAutoQuest"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["SpecMenu"] = "F5",
+				["OPieAutoQuest"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -63,8 +63,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [2]
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
 				}, -- [3]
 				{
 					"item", -- [1]

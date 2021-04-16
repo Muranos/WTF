@@ -9,6 +9,4 @@ TomCats_Character = {
 			},
 		},
 	},
-	["preferences"] = {
-	},
 }

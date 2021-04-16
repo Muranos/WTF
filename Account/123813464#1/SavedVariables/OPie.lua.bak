@@ -3,19 +3,19 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "9.0.2",
+	["_GameVersion"] = "9.0.5",
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
+				["OPieTracking"] = false,
 				["OPieAutoQuest"] = false,
-				["SpecMenu"] = "F5",
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieTracking"] = false,
+				["SpecMenu"] = "F5",
 			},
 			["ShowCooldowns"] = true,
 		},

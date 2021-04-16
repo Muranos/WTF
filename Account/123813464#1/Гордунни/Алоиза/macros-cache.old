@@ -24,6 +24,9 @@ END
 VER 3 0100000000000001 "LFG" "ability_deathwing_bloodcorruption_earth"
 /4 ДЦ 404-ШП 404 ищу ОП  с нуля. Опыт 6/7 хм + фулл СРОП. Нужна 3я фаза. Летать умею. Связь любая.
 END
+VER 3 010000000000000B "PowerInfusion" "INV_MISC_QUESTIONMARK"
+/cast [@player] Придание сил
+END
 VER 3 0100000000000005 "Shield" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Слово силы: Щит; [@player] Слово силы: Щит

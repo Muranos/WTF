@@ -21,7 +21,7 @@ _detalhes_database = {
 		["pos"] = {
 		},
 	},
-	["last_version"] = "v9.0.2.8246",
+	["last_version"] = "v9.0.2.8316",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -36,7 +36,7 @@ _detalhes_database = {
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
 		["last_version"] = 14,
-		["nextreset"] = 1615789610,
+		["nextreset"] = 1617121082,
 	},
 	["last_instance_id"] = 1205,
 	["announce_interrupts"] = {
@@ -123,14 +123,14 @@ _detalhes_database = {
 				[196711] = true,
 				[324183] = true,
 				[146739] = 172,
-				[190411] = 44949,
-				[85739] = 44949,
-				[317488] = 317485,
-				[199672] = 1943,
 				[222031] = 199547,
+				[85739] = 44949,
+				[227847] = 50622,
+				[199672] = 1943,
+				[190411] = 44949,
 				[227518] = true,
 				[75] = true,
-				[227847] = 50622,
+				[317488] = 317485,
 				[201428] = true,
 				[7268] = 5143,
 				[52174] = 6544,
@@ -165,17 +165,17 @@ _detalhes_database = {
 			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
 			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
+			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -185,6 +185,11 @@ _detalhes_database = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 4.57763671875e-05,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -196,19 +201,14 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["font_size"] = 10,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["use_spark"] = true,
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
 			["use_square_mode"] = false,
 		},
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["animate"] = false,
 			["showamount"] = false,
+			["animate"] = false,
 			["useplayercolor"] = false,
 			["useclasscolors"] = false,
 			["author"] = "Details! Team",
@@ -293,14 +293,14 @@ _detalhes_database = {
 			},
 		},
 	},
+	["last_day"] = "15",
+	["cached_talents"] = {
+	},
 	["last_encounter"] = "Чернорук",
 	["announce_prepots"] = {
 		["enabled"] = false,
 		["channel"] = "SELF",
 		["reverse"] = false,
-	},
-	["last_day"] = "28",
-	["cached_talents"] = {
 	},
 	["benchmark_db"] = {
 		["frame"] = {
@@ -314,7 +314,7 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_counter"] = 9646,
+	["combat_counter"] = 9650,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -548,7 +548,7 @@ _detalhes_database = {
 		}, -- [3]
 	},
 	["character_data"] = {
-		["logons"] = 381,
+		["logons"] = 383,
 	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,

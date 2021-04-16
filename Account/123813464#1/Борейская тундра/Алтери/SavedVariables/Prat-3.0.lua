@@ -1325,7 +1325,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 27,
+			["headIndex"] = 49,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -1338,194 +1338,495 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[21:49:57]|h |cffff0000Warning: TomCat's Tours must be installed and enabled for TomCat's Tours: Visions of N'zoth to function properly|r",
-					["timestamp"] = 9575.499,
+					["message"] = "|Hpratcopy|h[17:59:06]|h Вы будете получать добычу для специализации \"Головорез\".",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1615823946,
+					["timestamp"] = 971424.464,
+					["g"] = 1,
+					["r"] = 0.960784375667572,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[21:49:59]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.120 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
-					["r"] = 1,
-					["timestamp"] = 9575.499,
-					["g"] = 0.7,
-					["b"] = 0.2,
+					["message"] = "|Hpratcopy|h[17:59:07]|h Общее время игры: 51 |4день:дня:дней;, 18 |4час:часа:часов;, 37 |4минута:минуты:минут;, 45 |4секунда:секунды:секунд;.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1615823947,
+					["timestamp"] = 971424.464,
+					["g"] = 1,
+					["r"] = 0.960784375667572,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[21:50:00]|h |cff9900ffWeakAuras:|r Готово к применению 9 |4обновление:обновления:обновлений;.",
-					["timestamp"] = 9575.499,
+					["message"] = "|Hpratcopy|h[17:59:07]|h Время игры на этом уровне: 11 |4день:дня:дней;, 6 |4час:часа:часов;, 47 |4минута:минуты:минут;, 28 |4секунда:секунды:секунд;.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1615823947,
+					["timestamp"] = 971424.464,
+					["g"] = 1,
+					["r"] = 0.960784375667572,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[21:50:08]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
-					["timestamp"] = 9591.428,
-					["serverTime"] = 1613505008,
+					["message"] = "|Hpratcopy|h[17:59:09]|h Вы получили предмет: |cffa335ee|Hitem:156631::::::::50:259::13:::::|h[Сфера трансмутации Сайласа]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.2862745225429535,
+					["serverTime"] = 1615823949,
+					["timestamp"] = 971424.464,
+					["g"] = 0.8156863451004028,
+					["r"] = 0.960784375667572,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[21:50:08]|h Вы будете получать добычу для специализации \"Головорез\".",
-					["serverTime"] = 1613505008,
+					["message"] = "|Hpratcopy|h[18:00:17]|h Вы будете получать добычу для специализации \"Головорез\".",
+					["b"] = 1,
 					["r"] = 0.960784375667572,
+					["g"] = 1,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824017,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 9591.428,
-					["g"] = 1,
-					["b"] = 1,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[21:50:08]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
-					["timestamp"] = 9591.428,
-					["serverTime"] = 1613505008,
+					["message"] = "|Hpratcopy|h[18:00:18]|h Общее время игры: 51 |4день:дня:дней;, 18 |4час:часа:часов;, 38 |4минута:минуты:минут;, 56 |4секунда:секунды:секунд;.",
+					["b"] = 1,
+					["r"] = 0.960784375667572,
+					["g"] = 1,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824018,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[21:50:08]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
-					["timestamp"] = 9591.428,
-					["serverTime"] = 1613505008,
+					["message"] = "|Hpratcopy|h[18:00:18]|h Время игры на этом уровне: 11 |4день:дня:дней;, 6 |4час:часа:часов;, 48 |4минута:минуты:минут;, 39 |4секунда:секунды:секунд;.",
+					["b"] = 1,
+					["r"] = 0.960784375667572,
+					["g"] = 1,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824018,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[21:50:08]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
-					["timestamp"] = 9591.428,
-					["serverTime"] = 1613505008,
+					["message"] = "|Hpratcopy|h[18:00:27]|h Вы получили предмет: |cffffffff|Hitem:168487::::::::50:259:::::::|h[Зин'антария]|h|rx144.",
+					["b"] = 0.2862745225429535,
+					["r"] = 0.960784375667572,
+					["g"] = 0.8156863451004028,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824027,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[21:50:08]|h |cffffd700Титан Панель|r|cff20ff20 5.20.2.90002|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
-					["timestamp"] = 9591.428,
-					["serverTime"] = 1613505008,
-				}, -- [9]
-				{
-					["message"] = "|Hpratcopy|h[21:50:09]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Алтери: 5man",
-					["r"] = 1,
-					["serverTime"] = 1613505009,
-					["timestamp"] = 9591.428,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [10]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h Общее время игры: 51 |4день:дня:дней;, 17 |4час:часа:часов;, 40 |4минута:минуты:минут;, 57 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1613505010,
-					["r"] = 0.960784375667572,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 9594.945,
-					["g"] = 1,
+					["message"] = "|Hpratcopy|h[18:00:30]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET УДАЛЕН>:7:0:BN_INLINE_TOAST_ALERT:0|h[<BNET УДАЛЕН>] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|trjav)|h входит в сеть.",
 					["b"] = 1,
-				}, -- [11]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h Время игры на этом уровне: 11 |4день:дня:дней;, 5 |4час:часа:часов;, 50 |4минута:минуты:минут;, 40 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1613505010,
-					["r"] = 0.960784375667572,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824030,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 9594.945,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [12]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Шахта Зашедшей Луны: 5 done 0 to go!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [13]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Травяной сад: 9 done 0 to go!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [14]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Демоны is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [15]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Таурены Крутогорья is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [16]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Высокорожденные is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [17]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Огры is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [18]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Араккоа is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Тролли is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Ночные эльфы is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Archaeology Окаменелости is ready!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[21:50:10]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Shipyard have 0/6 ships!",
-					["timestamp"] = 9594.945,
-					["serverTime"] = 1613505010,
-				}, -- [23]
-				{
-					["message"] = "|Hpratcopy|h[21:50:13]|h |cff7f7f7f[21:50]|r [|cff007f7fNOP|r] Вооружение для защитников: 4 done 0 to go!",
-					["timestamp"] = 9598.727,
-					["serverTime"] = 1613505013,
-				}, -- [24]
-				{
-					["message"] = "|Hpratcopy|h[21:50:38]|h Патрик Марксон говорит: Профессиональное оружие для охотников любого уровня!",
-					["serverTime"] = 1613505038,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 9623.237000000001,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [25]
-				{
-					["message"] = "|Hpratcopy|h[21:50:57]|h Мири Скриполяпс говорит: У меня самые надежные изобретения во всем Тирагарде, и это факт!",
-					["serverTime"] = 1613505057,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 9642.02,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [26]
-				{
-					["message"] = "|Hpratcopy|h[21:51:04]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Тасден-Борейскаятундра:1049:CHANNEL:4|h|cffd84e4e120|r:|cfffe7b09Тасден|r|h|cffd8d8d8]|r: сегодня последний день выбить |cff71d5ff|Hspell:298367:0|h[Молли]|h|r с босса в волдуне",
-					["serverTime"] = 1613505064,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
+						54, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9649.454,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[18:00:42]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET УДАЛЕН>:14:0:BN_INLINE_TOAST_ALERT:0|h[<BNET УДАЛЕН>] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tFadu)|h входит в сеть.",
+					["b"] = 1,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824042,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						3, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[18:03:57]|h На поле боя появились командиры наг! Убивайте их, пока они не собрали свои войска!",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 0.8666667342185974,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824237,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[18:07:55]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Диманхантор-ЧерныйШрам:93:CHANNEL:4|h|cffa22fc8Диманхантор|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: маленькая инди компания близард не в силах сделать так чтобы руда и трава не спавнились под текстурами где ее не достать",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824475,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[18:08:06]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Диманхантор-ЧерныйШрам:94:CHANNEL:4|h|cffa22fc8Диманхантор|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: в шл это уже все границы перешло",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824486,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[18:08:23]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Кьюред-ЧерныйШрам:95:CHANNEL:4|h|cfffefefeКьюред|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: только что завис на бг на 15сек",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824503,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[18:08:27]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Кьюред-ЧерныйШрам:96:CHANNEL:4|h|cfffefefeКьюред|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: релайз спирит",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824507,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[18:08:51]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Найтмернайт-ЧерныйШрам:97:CHANNEL:4|h|cfff38bb9Найтмернайт|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: вы не понимаете, это уникальный экспирианс!",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824531,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[18:09:49]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Мартинивейв-ЧерныйШрам:98:CHANNEL:4|h|cff00fe97Мартинивейв|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: хилы регните пп",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824589,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[18:10:19]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Ловисметану-ЧерныйШрам:99:CHANNEL:4|h|cff006fdcЛовисметану|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: сам хиль",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824619,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[18:10:35]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Мартинивейв-ЧерныйШрам:100:CHANNEL:4|h|cff00fe97Мартинивейв|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: Ловисметану-ЧерныйШрам флешками",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824635,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[18:10:38]|h Командиры наг побеждены!",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 0.8666667342185974,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824638,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[18:10:45]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Грёзы-Борейскаятундра:102:CHANNEL:4|h|cfff38bb9Грёзы|r|h|cffd8d8d8]|r: летающие быки с крылышками прикольно, жаль нет года слона",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824645,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[18:10:49]|h |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Ловисметану-ЧерныйШрам:103:CHANNEL:4|h|cff006fdcЛовисметану|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: заебись же",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824649,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						8, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+				}, -- [22]
+				{
+					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 1 |4минута:минуты:минут;, 30 |4секунда:секунды:секунд;.",
+					["timestamp"] = 971424.464,
+				}, -- [23]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 971424.464,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[18:12:13]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.121 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["r"] = 1,
+					["timestamp"] = 971412.211,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[18:12:14]|h |cff9900ffWeakAuras:|r Готово к применению 2 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 971412.211,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[18:12:20]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824740,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[18:12:21]|h Вы будете получать добычу для специализации \"Головорез\".",
+					["serverTime"] = 1615824741,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 971424.464,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[18:12:21]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824741,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[18:12:21]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824741,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[18:12:21]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824741,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[18:12:21]|h |cffffd700Титан Панель|r|cff20ff20 5.20.2.90002|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
+					["timestamp"] = 971424.464,
+					["serverTime"] = 1615824741,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[18:12:21]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Алтери: 5man",
+					["r"] = 1,
+					["serverTime"] = 1615824741,
+					["timestamp"] = 971424.464,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h Общее время игры: 51 |4день:дня:дней;, 18 |4час:часа:часов;, 50 |4минута:минуты:минут;, 27 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1615824743,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 971428.728,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h Время игры на этом уровне: 11 |4день:дня:дней;, 7 |4час:часа:часов;, 0 |4минута:минуты:минут;, 10 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1615824743,
+					["r"] = 0.960784375667572,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 971428.728,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Шахта Зашедшей Луны: 5 done 0 to go!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Травяной сад: 9 done 0 to go!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Демоны is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Таурены Крутогорья is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Высокорожденные is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Огры is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Араккоа is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Тролли is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Ночные эльфы is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Archaeology Окаменелости is ready!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Shipyard have 0/6 ships!",
+					["timestamp"] = 971428.728,
+					["serverTime"] = 1615824743,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[18:12:23]|h |cff7f7f7f[18:12]|r [|cff007f7fNOP|r] Вооружение для защитников: 4 done 0 to go!",
+					["timestamp"] = 971429.1680000001,
+					["serverTime"] = 1615824743,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[18:12:31]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Назжатар]|h.",
+					["serverTime"] = 1615824751,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 971437.317,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [27]
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[18:12:31]|h |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:CHANNEL:3|h[3. Оборона: Назжатар]|h.",
+					["serverTime"] = 1615824751,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 971437.317,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [49]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

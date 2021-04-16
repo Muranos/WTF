@@ -10,15 +10,16 @@ HandyNotesDB = {
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
 		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
+		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
@@ -50,23 +51,25 @@ HandyNotesDB = {
 		},
 		["Дэлери - Борейская тундра"] = {
 		},
+		["Алтэри - Гордунни"] = {
+		},
 		["Сайбил - Борейская тундра"] = {
 		},
 		["Тиаз - Борейская тундра"] = {
 		},
-		["Элави - Борейская тундра"] = {
+		["Flaminika - Silvermoon"] = {
 		},
 		["Зонна - Борейская тундра"] = {
 		},
 		["Flaminika - Durotan"] = {
 		},
-		["Flaminika - Silvermoon"] = {
+		["Delery - Durotan"] = {
 		},
 		["Elavi - Durotan"] = {
 		},
 		["Эрника - Борейская тундра"] = {
 		},
-		["Delery - Durotan"] = {
+		["Элави - Борейская тундра"] = {
 		},
 		["Эстрея - Борейская тундра"] = {
 		},
@@ -93,371 +96,371 @@ HandyNotes_HandyNotesDB = {
 	["global"] = {
 		[864] = {
 			[38007100] = {
-				["title"] = "Board",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Board",
 				["desc"] = "",
 			},
 			[48006250] = {
-				["title"] = "Board",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Board",
 				["desc"] = "",
 			},
 			[38027090] = {
-				["title"] = "Board",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Board",
 				["desc"] = "",
 			},
 			[27706212] = {
-				["title"] = "Loa",
 				["cont"] = false,
 				["icon"] = 3,
+				["title"] = "Loa",
 				["desc"] = "",
 			},
 			[32096910] = {
-				["cont"] = false,
 				["icon"] = 7,
 				["title"] = "Board",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[46806360] = {
-				["title"] = "Board",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Board",
 				["desc"] = "",
 			},
 			[49572457] = {
-				["title"] = "Loa",
 				["cont"] = false,
 				["icon"] = 3,
+				["title"] = "Loa",
 				["desc"] = "",
 			},
 			[55002130] = {
-				["title"] = "Board",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Board",
 				["desc"] = "",
 			},
 			[42226211] = {
-				["title"] = "Loa",
 				["cont"] = false,
 				["icon"] = 3,
+				["title"] = "Loa",
 				["desc"] = "",
 			},
 		},
 		[201] = {
 			[60145864] = {
-				["icon"] = 6,
 				["title"] = "Ol’ Fishbreath",
 				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 		},
 		[205] = {
-			[53992390] = {
-				["icon"] = 6,
-				["title"] = "Manta Stargazer",
+			[69674678] = {
+				["title"] = "Lil’ Whalley",
 				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 			[45072044] = {
-				["icon"] = 6,
 				["title"] = "Sir Finley Mrrgglton",
 				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[53992390] = {
+				["title"] = "Manta Stargazer",
+				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 			[54008800] = {
-				["icon"] = 6,
 				["title"] = "Crimson Angerfish",
 				["cont"] = false,
-				["desc"] = "",
-			},
-			[69674678] = {
 				["icon"] = 6,
-				["title"] = "Lil’ Whalley",
-				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[379] = {
 			[57007500] = {
-				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Хавак",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[73007700] = {
-				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Зей Изгой",
+				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[388] = {
 			[62553425] = {
-				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Кахтир",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[54006300] = {
-				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Норлакс",
+				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[885] = {
 			[60154548] = {
-				["icon"] = 6,
 				["title"] = "Орикс",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+		},
+		[1355] = {
+			[45712409] = {
+				["title"] = "Sline",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[55134877] = {
+				["title"] = "Slime",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "Done",
+			},
+			[71712569] = {
+				["title"] = "Slime",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "Done",
+			},
+			[60663194] = {
+				["icon"] = 3,
+				["title"] = "Laboratory",
 				["cont"] = false,
 				["desc"] = "",
 			},
 		},
 		[1527] = {
 			[42007000] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[46004800] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[76006700] = {
-				["title"] = "Альпака",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Альпака",
 				["desc"] = "",
 			},
 			[63001400] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[70003900] = {
-				["title"] = "Alpaka",
 				["cont"] = true,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[55007000] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[53001900] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[37000924] = {
-				["icon"] = 7,
 				["title"] = "Alpaka",
 				["cont"] = false,
+				["icon"] = 7,
 				["desc"] = "",
 			},
 			[63005200] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 			[30002900] = {
-				["title"] = "Alpaka",
 				["cont"] = false,
 				["icon"] = 7,
+				["title"] = "Alpaka",
 				["desc"] = "",
 			},
 		},
 		[1530] = {
 			[21176235] = {
-				["icon"] = 3,
 				["title"] = "Amber chest",
 				["cont"] = false,
+				["icon"] = 3,
 				["desc"] = "",
 			},
 		},
 		[1161] = {
 			[66846405] = {
-				["cont"] = false,
 				["icon"] = 1,
 				["title"] = "Leeroy Jenkins",
+				["cont"] = false,
 				["desc"] = "66,64",
 			},
 		},
 		[204] = {
 			[45001800] = {
-				["icon"] = 6,
 				["title"] = "Little Carp",
 				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 			[63984184] = {
-				["icon"] = 6,
 				["title"] = "Gloomy Bluefin.",
 				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 			[16008200] = {
-				["icon"] = 6,
 				["title"] = "The Blackfish",
 				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 			[38667533] = {
-				["icon"] = 6,
 				["title"] = "Нестабильная лилиовая чешуя",
 				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 		},
 		[1165] = {
 			[54510934] = {
-				["icon"] = 8,
 				["title"] = "Терродактиль",
 				["cont"] = false,
+				["icon"] = 8,
 				["desc"] = "",
 			},
 			[49541503] = {
-				["icon"] = 4,
 				["title"] = "Терродактиль",
 				["cont"] = false,
+				["icon"] = 4,
 				["desc"] = "",
 			},
 		},
 		[863] = {
 			[25004000] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 			[44009200] = {
-				["title"] = "Kwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Kwa",
 				["desc"] = "",
 			},
 			[24009100] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 			[52784285] = {
-				["cont"] = false,
 				["icon"] = 4,
 				["title"] = "Ква",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[33436151] = {
-				["cont"] = false,
 				["icon"] = 4,
 				["title"] = "Ква",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[70885645] = {
-				["title"] = "Frog vendor",
 				["cont"] = false,
 				["icon"] = 10,
+				["title"] = "Frog vendor",
 				["desc"] = "",
 			},
 			[28008300] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 			[21006900] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 			[65005000] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 			[69005800] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 			[56006500] = {
-				["title"] = "Cwa",
 				["cont"] = false,
 				["icon"] = 1,
-				["desc"] = "",
-			},
-		},
-		[1355] = {
-			[45712409] = {
-				["icon"] = 4,
-				["title"] = "Sline",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[55134877] = {
-				["icon"] = 4,
-				["title"] = "Slime",
-				["cont"] = false,
-				["desc"] = "Done",
-			},
-			[71712569] = {
-				["icon"] = 4,
-				["title"] = "Slime",
-				["cont"] = false,
-				["desc"] = "Done",
-			},
-			[60663194] = {
-				["cont"] = false,
-				["icon"] = 3,
-				["title"] = "Laboratory",
+				["title"] = "Cwa",
 				["desc"] = "",
 			},
 		},
 		[680] = {
 			[41036936] = {
-				["cont"] = false,
 				["icon"] = 28,
 				["title"] = "House",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[46002800] = {
-				["cont"] = false,
 				["icon"] = 6,
 				["title"] = "Blue",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[43008100] = {
-				["cont"] = false,
 				["icon"] = 1,
 				["title"] = "Yellow",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[19004600] = {
-				["cont"] = false,
 				["icon"] = 4,
 				["title"] = "Green",
+				["cont"] = false,
 				["desc"] = "",
 			},
 			[71006200] = {
-				["cont"] = false,
 				["icon"] = 7,
 				["title"] = "Red",
+				["cont"] = false,
 				["desc"] = "",
 			},
 		},
@@ -472,15 +475,16 @@ HandyNotes_HandyNotesDB = {
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
 		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
+		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
@@ -509,23 +513,25 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Дэлери - Борейская тундра"] = {
 		},
+		["Алтэри - Гордунни"] = {
+		},
 		["Сайбил - Борейская тундра"] = {
 		},
 		["Тиаз - Борейская тундра"] = {
 		},
-		["Элави - Борейская тундра"] = {
+		["Flaminika - Silvermoon"] = {
 		},
 		["Зонна - Борейская тундра"] = {
 		},
 		["Flaminika - Durotan"] = {
 		},
-		["Flaminika - Silvermoon"] = {
+		["Delery - Durotan"] = {
 		},
 		["Elavi - Durotan"] = {
 		},
 		["Эрника - Борейская тундра"] = {
 		},
-		["Delery - Durotan"] = {
+		["Элави - Борейская тундра"] = {
 		},
 		["Эстрея - Борейская тундра"] = {
 		},

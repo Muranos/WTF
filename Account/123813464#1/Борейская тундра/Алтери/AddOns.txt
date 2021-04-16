@@ -211,3 +211,4 @@ RaiderIO_DB_KR_A: disabled
 Gnosis: disabled
 UnitFramesImproved: disabled
 LittleWigs_Classic: enabled
+TomCats-Nzoth: disabled

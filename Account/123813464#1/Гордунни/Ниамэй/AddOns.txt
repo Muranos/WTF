@@ -56,3 +56,5 @@ TomCats-LunarFestival: disabled
 TomCats-Noblegarden: disabled
 LittleWigs_Classic: enabled
 LittleWigs_BurningCrusade: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_AppHelper: disabled

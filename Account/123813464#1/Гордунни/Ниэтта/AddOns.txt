@@ -56,3 +56,7 @@ TomCats-LoveIsInTheAir: disabled
 TomCats-LunarFestival: disabled
 TomCats-Noblegarden: disabled
 LittleWigs_Classic: enabled
+TomCats: disabled
+WeakAuras: enabled
+HandyNotes_DraenorTreasures: disabled
+TradeSkillMaster_AppHelper: disabled
