@@ -63,11 +63,11 @@ ThreatPlatesDB = {
 			},
 		},
 		["Алтэри - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["Сайбил - Борейская тундра"] = {
 			["spec"] = {
@@ -82,18 +82,17 @@ ThreatPlatesDB = {
 			},
 			["welcome"] = true,
 		},
-		["Delery - Durotan"] = {
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-			},
-			["welcome"] = true,
-		},
-		["Зонна - Борейская тундра"] = {
+		["Элави - Борейская тундра"] = {
 			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+		},
+		["Зонна - Борейская тундра"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
 		},
 		["Flaminika - Durotan"] = {
 			["spec"] = {
@@ -101,10 +100,10 @@ ThreatPlatesDB = {
 			},
 			["welcome"] = true,
 		},
-		["Элави - Борейская тундра"] = {
+		["Flaminika - Silvermoon"] = {
 			["welcome"] = true,
 			["spec"] = {
-				[3] = false,
+				[3] = true,
 			},
 		},
 		["Elavi - Durotan"] = {
@@ -119,11 +118,12 @@ ThreatPlatesDB = {
 			},
 			["welcome"] = true,
 		},
-		["Flaminika - Silvermoon"] = {
-			["welcome"] = true,
+		["Delery - Durotan"] = {
 			["spec"] = {
-				[3] = true,
+				nil, -- [1]
+				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["Эстрея - Борейская тундра"] = {
 			["spec"] = {
@@ -196,13 +196,13 @@ ThreatPlatesDB = {
 		["Алтэри - Гордунни"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Тиаз - Борейская тундра"] = "Default",
-		["Delery - Durotan"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Flaminika - Durotan"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Elavi - Durotan"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
+		["Delery - Durotan"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Ниамэй - Гордунни"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
@@ -214,7 +214,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "10.1.5",
+		["version"] = "10.1.6",
 	},
 	["profiles"] = {
 		["Default"] = {

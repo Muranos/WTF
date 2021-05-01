@@ -13,9 +13,6 @@ NewOpenablesProfile = {
 		["Altery - Durotan"] = {
 			["itemID"] = 153960,
 		},
-		["Алоиза - Гордунни"] = {
-			["itemID"] = 184418,
-		},
 		["Эрника - Борейская тундра"] = {
 			["itemID"] = 172014,
 		},
@@ -63,8 +60,8 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[164938] = true,
 				[174459] = true,
-				[163222] = true,
 				[152496] = true,
+				[163222] = true,
 				[168651] = true,
 				[173398] = true,
 				[127840] = true,

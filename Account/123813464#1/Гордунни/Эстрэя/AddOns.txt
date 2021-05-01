@@ -62,3 +62,4 @@ TomCats-LunarFestival: disabled
 TomCats-Noblegarden: disabled
 LittleWigs_Classic: enabled
 BigWigs_CastleNathria: enabled
+ImprovedBlizzardUI: disabled

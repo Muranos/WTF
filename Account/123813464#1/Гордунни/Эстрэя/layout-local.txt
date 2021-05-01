@@ -1,4 +1,11 @@
 Version: 1
+Frame: PlayerFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -293
+Y: -177
+W: 232
+H: 100
 Frame: PlayerPowerBarAltMover
 FrameLevel: 1
 Anchor: LEFT
@@ -13,13 +20,6 @@ X: 338
 Y: -247
 W: 30
 H: 30
-Frame: PlayerFrame
-FrameLevel: 1
-Anchor: CENTER
-X: -292
-Y: -178
-W: 232
-H: 100
 Frame: AllTheThings-Window-Prime
 FrameLevel: 1
 Anchor: CENTER
@@ -121,7 +121,7 @@ H: 24
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: CENTER
-X: 379
-Y: -109
+X: 386
+Y: -107
 W: 232
 H: 100

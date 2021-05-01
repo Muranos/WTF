@@ -97,10 +97,10 @@ VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва восстановления
 END
-VER 3 0000000000000031 "Pull" "136103"
+VER 3 0000000000000036 "Pull" "236307"
 /pull 3
 END
-VER 3 0000000000000036 "Pull" "236307"
+VER 3 0000000000000031 "Pull" "136103"
 /pull 3
 END
 VER 3 0000000000000034 "Reload" "2115306"

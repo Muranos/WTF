@@ -61,7 +61,7 @@ NewOpenablesProfile = {
 				[164938] = true,
 				[174459] = true,
 				[0] = true,
-				[152496] = true,
+				[163222] = true,
 				[168651] = true,
 				[173398] = true,
 				[127840] = true,
@@ -82,7 +82,7 @@ NewOpenablesProfile = {
 				[127839] = true,
 				[174458] = true,
 				[152638] = true,
-				[163222] = true,
+				[152496] = true,
 			},
 			["Skip"] = true,
 			["qb"] = {

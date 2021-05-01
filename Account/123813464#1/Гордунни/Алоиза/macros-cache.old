@@ -24,16 +24,30 @@ END
 VER 3 0100000000000001 "LFG" "ability_deathwing_bloodcorruption_earth"
 /4 ДЦ 404-ШП 404 ищу ОП  с нуля. Опыт 6/7 хм + фулл СРОП. Нужна 3я фаза. Летать умею. Связь любая.
 END
-VER 3 010000000000000B "PowerInfusion" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000000D "PI_for_me" "INV_MISC_QUESTIONMARK"
+/use Рубин иссечения душ
 /cast [@player] Придание сил
+END
+VER 3 010000000000000E "PI_for_Xynn" "INV_MISC_QUESTIONMARK"
+/target Xynnmage-Alleria
+/cast Придание сил
+/targetlasttarget
+END
+VER 3 010000000000000B "PowerInfusion" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Придание сил
+END
+VER 3 010000000000000C "SearingNightmare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling: Иссушение разума] Иссушение разума
+/cast [channeling, talent:3/3] Иссушающий кошмар
 END
 VER 3 0100000000000005 "Shield" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Слово силы: Щит; [@player] Слово силы: Щит
 END
 VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1PH1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NСочXyn[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

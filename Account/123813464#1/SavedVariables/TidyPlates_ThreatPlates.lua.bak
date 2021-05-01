@@ -82,11 +82,12 @@ ThreatPlatesDB = {
 				[3] = false,
 			},
 		},
-		["Flaminika - Silvermoon"] = {
-			["spec"] = {
-				[3] = true,
-			},
+		["Delery - Durotan"] = {
 			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+			},
 		},
 		["Elavi - Durotan"] = {
 			["welcome"] = true,
@@ -100,18 +101,17 @@ ThreatPlatesDB = {
 				[3] = false,
 			},
 		},
-		["Delery - Durotan"] = {
-			["welcome"] = true,
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-			},
-		},
-		["Зонна - Борейская тундра"] = {
+		["Элави - Борейская тундра"] = {
 			["spec"] = {
 				[3] = false,
 			},
 			["welcome"] = true,
+		},
+		["Зонна - Борейская тундра"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
 		},
 		["Flaminika - Durotan"] = {
 			["welcome"] = true,
@@ -119,9 +119,9 @@ ThreatPlatesDB = {
 				[3] = false,
 			},
 		},
-		["Элави - Борейская тундра"] = {
+		["Flaminika - Silvermoon"] = {
 			["spec"] = {
-				[3] = false,
+				[3] = true,
 			},
 			["welcome"] = true,
 		},
@@ -148,10 +148,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["Алоиза - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Хилопятьумер - Гордунни"] = {
 			["spec"] = {
@@ -185,7 +185,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "10.1.5",
+		["version"] = "10.1.6",
 	},
 	["profileKeys"] = {
 		["Вейлзевулла - Борейская тундра"] = "Default",
@@ -200,13 +200,13 @@ ThreatPlatesDB = {
 		["Алтэри - Гордунни"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Тиаз - Борейская тундра"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
+		["Delery - Durotan"] = "Default",
 		["Elavi - Durotan"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
-		["Delery - Durotan"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Flaminika - Durotan"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Ниамэй - Гордунни"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
