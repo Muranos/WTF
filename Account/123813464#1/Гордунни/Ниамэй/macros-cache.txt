@@ -1,5 +1,15 @@
+VER 3 0100000000000009 "Bonebrew" "INV_MISC_QUESTIONMARK"
+#showtooltip Отвар из костяной пыли
+/use Сапоги начинающего слизнеманта
+/cast [@player] Отвар из костяной пыли
+END
 VER 3 0100000000000006 "CancelBoP" "INV_MISC_QUESTIONMARK"
 /cancelaura Благословение защиты
+END
+VER 3 0100000000000008 "Covenant" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Оружие ордена
+/cast Скульптор плоти
 END
 VER 3 0100000000000004 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip Детоксикация

@@ -1,5 +1,14 @@
+VER 3 0100000000000009 "Bonebrew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Отвар из костяной пыли
+END
 VER 3 0100000000000006 "CancelBoP" "INV_MISC_QUESTIONMARK"
 /cancelaura Благословение защиты
+END
+VER 3 0100000000000008 "Covenant" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Оружие ордена
+/cast Скульптор плоти
 END
 VER 3 0100000000000004 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip Детоксикация
@@ -18,8 +27,8 @@ VER 3 0100000000000005 "Tiger" "INV_MISC_QUESTIONMARK"
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Тигриное рвение
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1HM1IH1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NАзиФлиСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]НиаРиг[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниа[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

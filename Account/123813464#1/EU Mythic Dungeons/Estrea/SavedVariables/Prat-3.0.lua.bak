@@ -1,0 +1,3808 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1590478901,
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 9,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9843137860298157,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638490167,
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["r"] = 0.9843137860298157,
+					["b"] = 1,
+					["serverTime"] = 1638548634,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 0.9843137860298157,
+				}, -- [2]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638551126,
+					["r"] = 0.9843137860298157,
+				}, -- [3]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["b"] = 1,
+					["r"] = 0.9843137860298157,
+					["serverTime"] = 1638552857,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.9843137860298157,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [4]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9843137860298157,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573570,
+					["b"] = 1,
+				}, -- [5]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1638573749,
+					["r"] = 0.9843137860298157,
+					["b"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 0.9843137860298157,
+				}, -- [6]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 1500573.552,
+				}, -- [7]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 1500573.552,
+				}, -- [8]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 0.9843137860298157,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1500559.926,
+					["g"] = 0.9843137860298157,
+					["b"] = 1,
+				}, -- [9]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame11"] = {
+			["maxElements"] = 128,
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[11:13:30]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T134157:14|tДракончик из Сна – |3-8(ваш питомец) активный питомец.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36549.634,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015211,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[11:13:30]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T3255388:14|tЗвездный След – |3-8(вражеский питомец) активный питомец.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36550.391,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015211,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[11:13:33]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 1",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36552.633,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015214,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[11:13:34]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237286:14|t|cff4e96f7|HbattlePetAbil:508:1952:333:495|h[Пыльца ночных бабочек]|h|r наносит 336 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36553.691,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015215,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[11:13:34]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237286:14|t|cff4e96f7|HbattlePetAbil:508:1952:333:495|h[Пыльца ночных бабочек]|h|r накладывает эффект |T132156:14|t|cff4e96f7|HbattlePetAbil:498:1952:333:495|h[Сон]|h|r на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36553.951,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015215,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[11:13:43]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 2",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36562.655,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015224,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[11:13:43]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36563.09,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015224,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[11:13:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r наносит 116 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36564.046,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015225,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[11:13:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T132156:14|t|cff4e96f7|HbattlePetAbil:498:1952:333:495|h[Сон]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36564.046,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015225,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[11:13:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132156:14|t|cff4e96f7|HbattlePetAbil:498:1952:333:495|h[Сон]|h|r накладывает эффект |T135878:14|t|cff4e96f7|HbattlePetAbil:924:1952:333:495|h[Выносливость]|h|r на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36564.046,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015225,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[11:13:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r наносит 116 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36565.536,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015226,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[11:13:46]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36566.495,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015227,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[11:13:47]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r накладывает эффект |T653221:14|t|cff4e96f7|HbattlePetAbil:154:1952:333:495|h[Снижение скорости]|h|r на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36567.511,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015228,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[11:13:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 3",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36568.693,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015230,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[11:13:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133707:14|t|cff4e96f7|HbattlePetAbil:112:1952:333:495|h[Клевать]|h|r наносит 232 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36569.965,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015231,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[11:13:52]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T134104:14|t|cff4e96f7|HbattlePetAbil:597:665:305:193|h[Власть изумруда]|h|r накладывает эффект |T134104:14|t|cff4e96f7|HbattlePetAbil:823:665:305:193|h[Власть изумруда]|h|r на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36571.995,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015233,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[11:13:55]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 4",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36574.672,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015236,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[11:13:55]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36575.165,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015236,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[11:13:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r наносит 35 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36576.123,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015237,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[11:13:57]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r наносит 35 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36577.083,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015238,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[11:13:58]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36578.04,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015239,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[11:13:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:1952:333:495|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36579.056,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015240,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[11:14:01]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237150:14|t|cff4e96f7|HbattlePetAbil:525:595:305:193|h[Изумрудные клыки]|h|r наносит 576 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3255388:14|tЗвездный След).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36580.555,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015242,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[11:14:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T135878:14|t|cff4e96f7|HbattlePetAbil:924:1376:333:495|h[Выносливость]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36581.567,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015243,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[11:14:04]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 5",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36583.693,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015245,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[11:14:05]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237286:14|t|cff4e96f7|HbattlePetAbil:508:1376:333:495|h[Пыльца ночных бабочек]|h|r наносит 168 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36584.932,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015246,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[11:14:05]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237286:14|t|cff4e96f7|HbattlePetAbil:508:1376:333:495|h[Пыльца ночных бабочек]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36585.189,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015246,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[11:14:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237150:14|t|cff4e96f7|HbattlePetAbil:525:427:305:193|h[Изумрудные клыки]|h|r наносит 612 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3255388:14|tЗвездный След).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36587.379,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015248,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[11:14:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T618976:14|t|cff4e96f7|HbattlePetAbil:239:764:333:495|h[Летающий питомец]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T3255388:14|tЗвездный След), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36587.379,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015248,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[11:14:08]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T653221:14|t|cff4e96f7|HbattlePetAbil:154:764:333:495|h[Снижение скорости]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36588.391,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015249,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[11:14:08]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h:  накладывает эффект |T618974:14|t|cff4e96f7|HbattlePetAbil:245:427:305:257|h[Дракон]|h|r на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36588.391,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015249,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[11:14:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 6",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36589.673,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015251,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[11:14:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:764:333:330|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36590.164,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015251,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[11:14:11]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:764:333:330|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36591.121,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015252,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[11:14:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:764:333:330|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36592.072,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015253,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[11:14:13]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:764:333:330|h[Молебой]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36593.036,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015254,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[11:14:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132891:14|t|cff4e96f7|HbattlePetAbil:507:764:333:330|h[Молебой]|h|r накладывает эффект |T653221:14|t|cff4e96f7|HbattlePetAbil:154:764:333:330|h[Снижение скорости]|h|r на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36594.052,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015255,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[11:14:15]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T237150:14|t|cff4e96f7|HbattlePetAbil:525:427:305:257|h[Изумрудные клыки]|h|r наносит 1275 ед. урона (крит.) |3-2(вражеский питомец) |3-2(|T3255388:14|tЗвездный След).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36595.411,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015256,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[11:14:15]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T3255388:14|tЗвездный След погибает.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36595.411,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015256,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[11:14:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T618974:14|t|cff4e96f7|HbattlePetAbil:245:427:305:257|h[Дракон]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T134157:14|tДракончик из Сна), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36597.95,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015259,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[11:14:19]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 6",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36599.032,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015260,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[11:14:19]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T2027900:14|tИглонос – |3-8(вражеский питомец) активный питомец.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36599.032,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015260,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[11:14:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 7",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36602.604,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015264,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[11:14:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132104:14|t|cff4e96f7|HbattlePetAbil:2349:1671:361:498|h[Ядовитые пары]|h|r наносит 650 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T134157:14|tДракончик из Сна).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36605.614,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015267,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[11:14:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Ваш питомец) |T134157:14|tДракончик из Сна погибает.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36605.614,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015267,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[11:14:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132104:14|t|cff4e96f7|HbattlePetAbil:2349:1671:361:498|h[Ядовитые пары]|h|r меняет погоду на |T132104:14|t|cff4e96f7|HbattlePetAbil:2350:1671:361:498|h[Токсичный газ]|h|r.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36607.379,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015268,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[11:14:31]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 7",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36610.6,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015272,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[11:14:31]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T377270:14|tГаврюша – |3-8(ваш питомец) активный питомец.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36610.6,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015272,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[11:14:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 8",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36614.625,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015276,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[11:14:36]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132274:14|t|cff4e96f7|HbattlePetAbil:359:1671:361:498|h[Ужалить]|h|r накладывает эффект |T132274:14|t|cff4e96f7|HbattlePetAbil:358:1671:361:498|h[Ужалить]|h|r на |3-1(ваш питомец) |3-3(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36615.761,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015277,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[11:14:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T538568:14|t|cff4e96f7|HbattlePetAbil:362:1644:276:260|h[Вой]|h|r накладывает эффект |T538568:14|t|cff4e96f7|HbattlePetAbil:1725:1644:276:260|h[Вой]|h|r на |3-1(вражеский питомец) |3-3(|T2027900:14|tИглонос).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36618.798,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015280,
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[11:14:40]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132274:14|t|cff4e96f7|HbattlePetAbil:358:1671:361:498|h[Ужалить]|h|r наносит 114 ед. урона |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36619.843,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015281,
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[11:14:41]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 9",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36620.616,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015282,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[11:14:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T236270:14|t|cff4e96f7|HbattlePetAbil:2353:1671:361:498|h[Заразный удар]|h|r наносит 428 ед. урона (сильн. удар) |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36621.915,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015283,
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[11:14:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T236270:14|t|cff4e96f7|HbattlePetAbil:2353:1671:361:498|h[Заразный удар]|h|r наносит 285 ед. урона (сильн. удар) |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36622.167,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015283,
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[11:14:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T429383:14|t|cff4e96f7|HbattlePetAbil:593:817:276:260|h[Прилив мощи]|h|r наносит 2220 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T2027900:14|tИглонос).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36624.202,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015285,
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[11:14:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T2027900:14|tИглонос погибает.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36624.202,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015285,
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[11:14:46]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T538568:14|t|cff4e96f7|HbattlePetAbil:1725:817:276:260|h[Вой]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T2027900:14|tИглонос), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36625.712,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015287,
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[11:14:46]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T618976:14|t|cff4e96f7|HbattlePetAbil:239:0:361:498|h[Летающий питомец]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T2027900:14|tИглонос), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36625.975,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015287,
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[11:14:46]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T429383:14|t|cff4e96f7|HbattlePetAbil:593:817:276:260|h[Прилив мощи]|h|r накладывает эффект |T136091:14|t|cff4e96f7|HbattlePetAbil:248:817:276:260|h[Обездвиживание]|h|r на |3-1(ваш питомец) |3-3(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36626.238,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015287,
+				}, -- [60]
+				{
+					["message"] = "|Hpratcopy|h[11:14:47]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132274:14|t|cff4e96f7|HbattlePetAbil:358:0:361:498|h[Ужалить]|h|r наносит 171 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36627.292,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015288,
+				}, -- [61]
+				{
+					["message"] = "|Hpratcopy|h[11:14:47]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h:  накладывает эффект |T618974:14|t|cff4e96f7|HbattlePetAbil:245:646:276:260|h[Дракон]|h|r на |3-1(ваш питомец) |3-3(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36627.292,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015288,
+				}, -- [62]
+				{
+					["message"] = "|Hpratcopy|h[11:14:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 9",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36627.88,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015289,
+				}, -- [63]
+				{
+					["message"] = "|Hpratcopy|h[11:14:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132851:14|tСветик – |3-8(вражеский питомец) активный питомец.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36627.88,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015289,
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[11:14:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 10",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36630.05,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015291,
+				}, -- [65]
+				{
+					["message"] = "|Hpratcopy|h[11:14:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136018:14|t|cff4e96f7|HbattlePetAbil:190:2113:403:604|h[Смерч]|h|r накладывает эффект \"|T136018:14|t|cff4e96f7|HbattlePetAbil:189:2113:403:604|h[Смерч]|h|r\" на |3-3(ваша команда).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36631.09,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015292,
+				}, -- [66]
+				{
+					["message"] = "|Hpratcopy|h[11:14:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132274:14|t|cff4e96f7|HbattlePetAbil:358:0:361:332|h[Ужалить]|h|r наносит 114 ед. урона |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36632.677,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015294,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[11:14:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T618974:14|t|cff4e96f7|HbattlePetAbil:245:532:276:260|h[Дракон]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T377270:14|tГаврюша), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36632.677,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015294,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[11:14:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 11",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36632.677,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015294,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[11:14:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136046:14|t|cff4e96f7|HbattlePetAbil:1062:2113:403:604|h[Танец дождя]|h|r восстанавливает 0 ед. урона |3-2(вражеский питомец) |3-2(|T132851:14|tСветик).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36633.393,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015294,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[11:14:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136046:14|t|cff4e96f7|HbattlePetAbil:1062:2113:403:604|h[Танец дождя]|h|r накладывает эффект \"|T136046:14|t|cff4e96f7|HbattlePetAbil:1061:2113:403:604|h[Танец дождя]|h|r\" на |3-3(команда противника).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36633.644,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015295,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[11:14:55]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132274:14|t|cff4e96f7|HbattlePetAbil:358:0:361:332|h[Ужалить]|h|r наносит 171 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36635.194,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015296,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[11:14:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136018:14|t|cff4e96f7|HbattlePetAbil:189:2113:403:604|h[Смерч]|h|r наносит 102 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36635.703,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015297,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[11:14:57]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T136091:14|t|cff4e96f7|HbattlePetAbil:248:259:276:260|h[Обездвиживание]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T377270:14|tГаврюша), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36636.77,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015298,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[11:14:58]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 12",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36638.502,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015299,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[11:15:00]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136063:14|t|cff4e96f7|HbattlePetAbil:1370:2113:403:604|h[Коготь дикого зверя]|h|r наносит 398 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T377270:14|tГаврюша).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36639.637,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015301,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[11:15:00]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Ваш питомец) |T377270:14|tГаврюша погибает.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36639.637,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015301,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[11:15:03]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136018:14|t|cff4e96f7|HbattlePetAbil:189:2113:403:604|h[Смерч]|h|r наносит 96 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36643.209,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015304,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[11:15:05]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 12",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36645.229,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015306,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[11:15:05]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T377270:14|tХроминий – |3-8(ваш питомец) активный питомец.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36645.229,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015306,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[11:15:09]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 13",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36648.658,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015310,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[11:15:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136063:14|t|cff4e96f7|HbattlePetAbil:1370:2113:403:604|h[Коготь дикого зверя]|h|r наносит 589 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36649.796,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015311,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[11:15:13]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T538568:14|t|cff4e96f7|HbattlePetAbil:362:897:265:250|h[Вой]|h|r накладывает эффект |T538568:14|t|cff4e96f7|HbattlePetAbil:1725:897:265:250|h[Вой]|h|r на |3-1(вражеский питомец) |3-3(|T132851:14|tСветик).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36652.832,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015314,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[11:15:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136018:14|t|cff4e96f7|HbattlePetAbil:189:2113:403:604|h[Смерч]|h|r наносит 154 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36654.252,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015315,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[11:15:15]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта \"|T136046:14|t|cff4e96f7|HbattlePetAbil:1061:2113:403:604|h[Танец дождя]|h|r\", наложенного на |3-3(команда противника), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36655.36,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015316,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[11:15:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 14",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36656.651,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015318,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[11:15:18]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136063:14|t|cff4e96f7|HbattlePetAbil:1370:2113:403:604|h[Коготь дикого зверя]|h|r наносит 372 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36657.84,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015319,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[11:15:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T429383:14|t|cff4e96f7|HbattlePetAbil:593:371:265:250|h[Прилив мощи]|h|r наносит 2137 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132851:14|tСветик).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36660.034,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015321,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[11:15:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T132851:14|tСветик погибает.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36660.034,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015321,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[11:15:21]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T538568:14|t|cff4e96f7|HbattlePetAbil:1725:371:265:250|h[Вой]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T132851:14|tСветик), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36661.535,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015322,
+				}, -- [90]
+				{
+					["message"] = "|Hpratcopy|h[11:15:22]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T618976:14|t|cff4e96f7|HbattlePetAbil:239:0:403:604|h[Летающий питомец]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T132851:14|tСветик), заканчивается.",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36661.787,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015323,
+				}, -- [91]
+				{
+					["message"] = "|Hpratcopy|h[11:15:22]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T429383:14|t|cff4e96f7|HbattlePetAbil:593:371:265:250|h[Прилив мощи]|h|r накладывает эффект |T136091:14|t|cff4e96f7|HbattlePetAbil:248:371:265:250|h[Обездвиживание]|h|r на |3-1(ваш питомец) |3-3(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36662.046,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015323,
+				}, -- [92]
+				{
+					["message"] = "|Hpratcopy|h[11:15:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h:  накладывает эффект |T618974:14|t|cff4e96f7|HbattlePetAbil:245:371:265:250|h[Дракон]|h|r на |3-1(ваш питомец) |3-3(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36663.056,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015324,
+				}, -- [93]
+				{
+					["message"] = "|Hpratcopy|h[11:15:26]|h |Hchannel:PET_BATTLE_INFO|h[Битва питомцев]|h: |3-7(Ваш питомец) |T377270:14|tХроминий получает 99 ед. опыта.",
+					["r"] = 0.8823530077934265,
+					["b"] = 0.364705890417099,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36665.555,
+					["extraData"] = {
+						62, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015327,
+				}, -- [94]
+				{
+					["message"] = "|Hpratcopy|h[11:15:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:977:265:250|h[Боевое восстановление]|h|r восстанавливает 606 ед. урона |3-2(ваш питомец) |3-2(|T377270:14|tХроминий).",
+					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
+					["g"] = 0.8705883026123047,
+					["timestamp"] = 36665.555,
+					["extraData"] = {
+						61, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1629015327,
+				}, -- [95]
+			},
+			["headIndex"] = 95,
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame2"] = {
+			["maxElements"] = 300,
+			["elements"] = {
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1077828.842,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1077846.165,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1077858.942,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078337.871,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [4]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078347.401,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [5]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078360.036,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [6]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078380.599,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [7]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078398.729,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [8]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078409.548,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [9]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078427.909,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [10]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078447.384,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078459.763,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [12]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078495.56,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [13]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078501.743,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [14]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078563.855,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [15]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078580.187,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [16]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1078627.222,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [17]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1079022.752,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1079061.18,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1079070.761,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1079091.021,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [21]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1079129.953,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "Вы выполняете действие \"Сбор трав\" на |3-6(Зин'антария).",
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1079163.653,
+					["extraData"] = {
+						30, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+				}, -- [23]
+			},
+			["headIndex"] = 23,
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 30,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[01:22:31]|h |cffffe566{VuhDo}|r Profile successfully loaded: Эстрэя: Фламиника: Vuhdo'esque",
+					["r"] = 1,
+					["serverTime"] = 1638573750,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[01:22:32]|h Total time played: 11574 |4day:days;, 2 |4hour:hours;, 56 |4minute:minutes;, 38 |4second:seconds;",
+					["serverTime"] = 1638573751,
+					["r"] = 0.9843137860298157,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1500575.803,
+					["g"] = 0.9843137860298157,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[01:22:32]|h Time played this level: 0 |4day:days;, 1 |4hour:hours;, 11 |4minute:minutes;, 30 |4second:seconds;",
+					["serverTime"] = 1638573751,
+					["r"] = 0.9843137860298157,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1500575.803,
+					["g"] = 0.9843137860298157,
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[01:23:06]|h Mystic Birdhat says: Oh woe. Low. Low.",
+					["serverTime"] = 1638573785,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500609.493,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[01:23:06]|h Cousin Slowhands says: You could die of dysentery out here.",
+					["serverTime"] = 1638573785,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500609.493,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[01:24:12]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Makurunelf-EUMythicDungeons:3:CHANNEL:2|h|cfffe7b09Makurunelf|r|h|cffd8d8d8]|r: LF dps for 25 halls",
+					["serverTime"] = 1638573851,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500676.355,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[01:24:28]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Xcalibubble-EUMythicDungeons:4:CHANNEL:2|h|cfff38bb9Xcalibubble|r|h|cffd8d8d8]|r: the 25 halls will disappear once you port in",
+					["serverTime"] = 1638573867,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500692.05,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[01:25:00]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Makurunelf-EUMythicDungeons:5:CHANNEL:2|h|cfffe7b09Makurunelf|r|h|cffd8d8d8]|r: rly? can only do the time trial keys?",
+					["serverTime"] = 1638573899,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500723.886,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[01:25:16]|h |cffd8d8d8[|r|Hplayer:Illdani-EUMythicDungeons:6:ACHIEVEMENT|h|cfffe7b09Illdani|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:729:Player-4606-0048B6AC:1:12:4:21:4294967295:4294967295:4294967295:4294967295|h[Deathcharger's Reins]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["serverTime"] = 1638573915,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500739.458,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[01:25:17]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Xcalibubble-EUMythicDungeons:7:CHANNEL:2|h|cfff38bb9Xcalibubble|r|h|cffd8d8d8]|r: yep",
+					["serverTime"] = 1638573916,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500741.18,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[01:25:19]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Makurunelf-EUMythicDungeons:8:CHANNEL:2|h|cfffe7b09Makurunelf|r|h|cffd8d8d8]|r: can i do those with random people or must it be my team always?",
+					["serverTime"] = 1638573918,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500742.6,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[01:25:19]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Heotoy-EUMythicDungeons:9:CHANNEL:2|h|cfff38bb9Heotoy|r|h|cffd8d8d8]|r: can anyone confirm that i get the toy if i complete the 2 +15 with pugs?",
+					["serverTime"] = 1638573918,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500742.88,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[01:26:03]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Blitzbolt-EUMythicDungeons:10:CHANNEL:2|h|cff006fdcBlitzbolt|r|h|cffd8d8d8]|r: can i copy all settings from a retail char? Oo that sucks ^^",
+					["serverTime"] = 1638573962,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500786.787,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[01:26:13]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Makurunelf-EUMythicDungeons:11:CHANNEL:2|h|cfffe7b09Makurunelf|r|h|cffd8d8d8]|r: LF dps for mists 15",
+					["serverTime"] = 1638573972,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500797.038,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[01:27:41]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Emzsham-EUMythicDungeons:12:CHANNEL:2|h|cffd8bc3f60|r:|cff006fdcEmzsham|r|h|cffd8d8d8]|r: if use myslot u can atleast transfer ur keybinds and stuffs",
+					["serverTime"] = 1638574060,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500884.916,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[01:28:06]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ragzormagedw-EUMythicDungeons:13:CHANNEL:2|h|cff3ec6eaRagzormagedw|r|h|cffd8d8d8]|r: LF PF +15 2 DD´s",
+					["serverTime"] = 1638574085,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500910.115,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[01:28:17]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jam-EUMythicDungeons:14:CHANNEL:1|h|cfff38bb9Jam|r|h|cffd8d8d8]|r: LF 1DPS for +15",
+					["serverTime"] = 1638574096,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500920.904,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[01:28:22]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq65|k:37:15:BN_INLINE_TOAST_ALERT:0|h[|Kq65|k]|h has gone offline.",
+					["serverTime"] = 1638574101,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500925.884,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[01:28:24]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Makurunelf-EUMythicDungeons:16:CHANNEL:1|h|cfffe7b09Makurunelf|r|h|cffd8d8d8]|r: LF 1 dps for 15",
+					["serverTime"] = 1638574103,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						18, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500927.704,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[01:28:52]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Heotoy-EUMythicDungeons:17:CHANNEL:2|h|cfff38bb9Heotoy|r|h|cffd8d8d8]|r: heal and DPS LF any +15 key",
+					["serverTime"] = 1638574131,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500956.308,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[01:29:08]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Florpandru-EUMythicDungeons:18:CHANNEL:2|h|cfffe7b09Florpandru|r|h|cffd8d8d8]|r: LF 1 BL DPS (pref mage) MISTS PUSH - 2500 rio team",
+					["serverTime"] = 1638574147,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500971.575,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[01:29:14]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ragzormagedw-EUMythicDungeons:19:CHANNEL:2|h|cff3ec6eaRagzormagedw|r|h|cffd8d8d8]|r: 2 DD´s +15 PF",
+					["serverTime"] = 1638574153,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1500978.185,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[01:30:07]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Jam-EUMythicDungeons:20:CHANNEL:1|h|cfff38bb9Jam|r|h|cffd8d8d8]|r: LF 1DPS for +15",
+					["serverTime"] = 1638574206,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501031.146,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[01:31:15]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ragzormagedw-EUMythicDungeons:21:CHANNEL:2|h|cff3ec6eaRagzormagedw|r|h|cffd8d8d8]|r: LF 2 DD´s PF+15",
+					["serverTime"] = 1638574274,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501098.443,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[01:31:29]|h Opulence Ba'hare says: Welcome news, but I expect no less.",
+					["serverTime"] = 1638574288,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501112.862,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[01:31:32]|h Emissary Ba'solo says: We may yet profit from these endeavors.",
+					["serverTime"] = 1638574291,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501115.598,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[01:31:35]|h Opulence Ba'hare says: When I profit, we all profit. Each according to their station.",
+					["serverTime"] = 1638574294,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501118.543,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[01:32:17]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Snitchnec-EUMythicDungeons:25:CHANNEL:1|h|cff00fe97Snitchnec|r|h|cffd8d8d8]|r: LF 1 dps 15+",
+					["serverTime"] = 1638574336,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						18, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501161.068,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[01:32:32]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Florpandru-EUMythicDungeons:26:CHANNEL:2|h|cfffe7b09Florpandru|r|h|cffd8d8d8]|r: LF BL DPS 15 MISTS",
+					["serverTime"] = 1638574351,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501175.634,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[01:33:21]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ragzormagedw-EUMythicDungeons:27:CHANNEL:2|h|cff3ec6eaRagzormagedw|r|h|cffd8d8d8]|r: LF 2 DD´s +15 PF",
+					["serverTime"] = 1638574400,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						3, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 1501224.584,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[19:27:12]|h |cffd8d8d8[|r|Hplayer:Itsjrvmage-EUMythicDungeons:369:ACHIEVEMENT|h|cff3ec6eaItsjrvmage|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A6AB:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552431,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[19:27:17]|h |cffd8d8d8[|r|Hplayer:Hèaler-EUMythicDungeons:370:ACHIEVEMENT|h|cff006fdcHèaler|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-004872EF:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552436,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[19:27:17]|h |cffd8d8d8[|r|Hplayer:Hèaler-EUMythicDungeons:371:ACHIEVEMENT|h|cff006fdcHèaler|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-004872EF:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552436,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[19:27:18]|h |cffd8d8d8[|r|Hplayer:Itsjrvmage-EUMythicDungeons:372:ACHIEVEMENT|h|cff3ec6eaItsjrvmage|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A6AB:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552437,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[19:27:18]|h |cffd8d8d8[|r|Hplayer:Itsjrvmage-EUMythicDungeons:373:ACHIEVEMENT|h|cff3ec6eaItsjrvmage|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A6AB:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552437,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[19:27:43]|h You receive item: |cffa335ee|Hitem:185198::::::::60:104::57:3:7574:1518:6646:1:28:483:::::|h[Unchained Gladiator's Necklace]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552462,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[19:27:44]|h |cffd8d8d8[|r|Hplayer:Shadowburn-EUMythicDungeons:375:ACHIEVEMENT|h|cff8687edShadowburn|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A63E:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552463,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[19:27:44]|h |cffd8d8d8[|r|Hplayer:Shadowburn-EUMythicDungeons:376:ACHIEVEMENT|h|cff8687edShadowburn|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A63E:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552463,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[19:27:48]|h |cffd8d8d8[|r|Hplayer:Wizo-EUMythicDungeons:377:ACHIEVEMENT|h|cff006fdcWizo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-00484570:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						51, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552467,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[19:27:50]|h You receive item: |cffa335ee|Hitem:185192::::::::60:104::57:3:7574:1518:6646:1:28:483:::::|h[Unchained Gladiator's Ring]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552469,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[19:27:58]|h You receive item: |cffa335ee|Hitem:185245::::::::60:104::57:2:1518:6646:1:28:483:::::|h[Unchained Gladiator's Drape]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552477,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[19:27:58]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Amalhunt-EUMythicDungeons:380:CHANNEL:2|h|cffa9d271Amalhunt|r|h|cffd8d8d8]|r: Heyyy, we need a last dps in our group to do a +20 NW :D",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						14, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552477,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[19:28:13]|h You receive item: |cffa335ee|Hitem:186379::::::::60:104::57:4:6652:7574:1498:6646:1:28:483:::::|h[Interplanar Keystone]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552492,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[19:28:26]|h |cffd8d8d8[|r|Hplayer:Frostazo-EUMythicDungeons:382:ACHIEVEMENT|h|cff3ec6eaFrostazo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A68B:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552505,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[19:28:26]|h |cffd8d8d8[|r|Hplayer:Lynk-EUMythicDungeons:383:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffef367Lynk|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A6AD:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552505,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[19:28:32]|h |cffd8d8d8[|r|Hplayer:Frostazo-EUMythicDungeons:384:ACHIEVEMENT|h|cff3ec6eaFrostazo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A68B:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552511,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[19:28:32]|h |cffd8d8d8[|r|Hplayer:Frostazo-EUMythicDungeons:385:ACHIEVEMENT|h|cff3ec6eaFrostazo|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A68B:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552511,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[19:28:38]|h You receive item: |cffa335ee|Hitem:186375::::::::60:104::57:4:6652:7574:1498:6646:1:28:483:::::|h[Miniature Breaking Wheel]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552517,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[19:29:00]|h |cffd8d8d8[|r|Hplayer:Draladin-EUMythicDungeons:387:ACHIEVEMENT|h|cffd8bc3f60|r:|cfff38bb9Draladin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-00488877:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						56, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552539,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[19:29:06]|h |cffd8d8d8[|r|Hplayer:Cubenkyr-EUMythicDungeons:388:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Cubenkyr|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A6A1:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552545,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[19:29:07]|h |cffd8d8d8[|r|Hplayer:Estrea-EUMythicDungeons:389:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Estrea|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-00489D48:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552546,
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[19:29:07]|h |cffd8d8d8[|r|Hplayer:Estrea-EUMythicDungeons:390:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Estrea|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-00489D48:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552546,
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[19:29:28]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Jawad-EUMythicDungeons:391:CHANNEL:2|h|cffc59a6cJawad|r|h|cffd8d8d8]|r: war fury lf key",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						14, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552567,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[19:29:40]|h |cffd8d8d8[|r|Hplayer:Lynk-EUMythicDungeons:392:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffef367Lynk|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A6AD:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552579,
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[19:29:40]|h |cffd8d8d8[|r|Hplayer:Lynk-EUMythicDungeons:393:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffef367Lynk|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A6AD:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552579,
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[19:29:46]|h |cffd8d8d8[|r|Hplayer:Aphixis-EUMythicDungeons:394:ACHIEVEMENT|h|cffc59a6cAphixis|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:729:Player-4606-0048A6E9:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Deathcharger's Reins]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552585,
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[19:29:52]|h |cffd8d8d8[|r|Hplayer:Luwanfae-EUMythicDungeons:395:ACHIEVEMENT|h|cffa22fc8Luwanfae|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A662:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552591,
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[19:30:40]|h You receive item: |cffa335ee|Hitem:187134::::::::60:104::14::1:28:974:::::|h[Alloy-Warping Facetor]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552639,
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[19:30:53]|h Your |cffa335ee|Hitem:186379::::::::60:104::57:4:6652:1498:6646:7575:1:28:483:::::|h[Interplanar Keystone]|h|r was changed to |cffa335ee|Hitem:186379::::::::60:104::57:4:6652:1498:6646:7576:1:28:483:::::|h[Interplanar Keystone]|h|r.",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552652,
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[19:30:57]|h You receive item: |cffa335ee|Hitem:187134::::::::60:104::14::1:28:974:::::|h[Alloy-Warping Facetor]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552656,
+				}, -- [60]
+				{
+					["message"] = "|Hpratcopy|h[19:31:01]|h Your |cffa335ee|Hitem:186335::::::::60:104::57:4:6652:1498:6646:7575:1:28:483:::::|h[Fate-Threaded Bindings]|h|r was changed to |cffa335ee|Hitem:186335::::::::60:104::57:4:6652:1498:6646:7576:1:28:483:::::|h[Fate-Threaded Bindings]|h|r.",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552660,
+				}, -- [61]
+				{
+					["message"] = "|Hpratcopy|h[19:31:02]|h You receive item: |cffa335ee|Hitem:187134::::::::60:104::14::1:28:974:::::|h[Alloy-Warping Facetor]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552661,
+				}, -- [62]
+				{
+					["message"] = "|Hpratcopy|h[19:31:02]|h |cffd8d8d8[|r|Hplayer:Jason-EUMythicDungeons:401:ACHIEVEMENT|h|cffa9d271Jason|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:15191:Player-4606-0048A615:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Rae'shalare, Death's Whisper]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						60, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552661,
+				}, -- [63]
+				{
+					["message"] = "|Hpratcopy|h[19:31:08]|h Your |cffa335ee|Hitem:185192::::::::60:104::57:3:1518:6646:7575:1:28:483:::::|h[Unchained Gladiator's Ring]|h|r was changed to |cffa335ee|Hitem:185192::::::::60:104::57:3:1518:6646:7576:1:28:483:::::|h[Unchained Gladiator's Ring]|h|r.",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552667,
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[19:31:09]|h You receive item: |cffa335ee|Hitem:187134::::::::60:104::14::1:28:974:::::|h[Alloy-Warping Facetor]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552668,
+				}, -- [65]
+				{
+					["message"] = "|Hpratcopy|h[19:31:14]|h Your |cffa335ee|Hitem:186332::::::::60:104::57:4:6652:1498:6646:7575:1:28:483:::::|h[Windrunner's Baldric]|h|r was changed to |cffa335ee|Hitem:186332::::::::60:104::57:4:6652:1498:6646:7576:1:28:483:::::|h[Windrunner's Baldric]|h|r.",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552673,
+				}, -- [66]
+				{
+					["message"] = "|Hpratcopy|h[19:31:15]|h You receive item: |cffa335ee|Hitem:187134::::::::60:104::14::1:28:974:::::|h[Alloy-Warping Facetor]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552674,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[19:31:17]|h |cffd8d8d8[|r|Hplayer:Jozp-EUMythicDungeons:406:ACHIEVEMENT|h|cfff38bb9Jozp|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A6C4:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						61, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552676,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[19:31:20]|h Your |cffa335ee|Hitem:186375::::::::60:104::57:4:6652:1498:6646:7575:1:28:483:::::|h[Miniature Breaking Wheel]|h|r was changed to |cffa335ee|Hitem:186375::::::::60:104::57:4:6652:1498:6646:7576:1:28:483:::::|h[Miniature Breaking Wheel]|h|r.",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552679,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[19:31:36]|h |cffd8d8d8[|r|Hplayer:Jozp-EUMythicDungeons:408:ACHIEVEMENT|h|cfff38bb9Jozp|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A6C4:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						61, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552695,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[19:31:36]|h |cffd8d8d8[|r|Hplayer:Jozp-EUMythicDungeons:409:ACHIEVEMENT|h|cfff38bb9Jozp|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A6C4:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						61, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552695,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[19:31:36]|h You receive item: |cffa335ee|Hitem:187317::::::::60:104::14::1:28:974:::::|h[Portentous Shard of Tel]|h|r",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552695,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[19:31:57]|h You receive item: |cff0070dd|Hitem:173129::::::::60:104:::::::::|h[Versatile Jewel Cluster]|h|rx20",
+					["r"] = 0.8588235974311829,
+					["b"] = 0.2313725650310516,
+					["g"] = 0.7960785031318665,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552716,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[19:32:08]|h |cffd8d8d8[|r|Hplayer:Etelria-EUMythicDungeons:412:ACHIEVEMENT|h|cff006fdcEtelria|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-004884AB:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						62, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552727,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[19:32:08]|h |cffd8d8d8[|r|Hplayer:Etelria-EUMythicDungeons:413:ACHIEVEMENT|h|cff006fdcEtelria|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-004884AB:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						62, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552727,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[19:32:11]|h |cffd8d8d8[|r|Hplayer:Gothikadh-EUMythicDungeons:414:ACHIEVEMENT|h|cffa22fc8Gothikadh|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A6EA:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552730,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[19:32:14]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Taladhan-EUMythicDungeons:415:CHANNEL:1|h|cfffe7b09Taladhan|r|h|cffd8d8d8]|r: has anyone tried a 5 person |cff71d5ff|Hspell:339344:0|h[Judgment of the Arbiter]|h|r setup for key for giggles?",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552733,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[19:32:22]|h |cffd8d8d8[|r|Hplayer:Sappocult-EUMythicDungeons:416:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Sappocult|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A6E2:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552741,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[19:32:22]|h |cffd8d8d8[|r|Hplayer:Sappocult-EUMythicDungeons:417:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Sappocult|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A6E2:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552741,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[19:32:42]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lerazxc-EUMythicDungeons:418:CHANNEL:1|h|cffd8bc3f60|r:|cfff38bb9Lerazxc|r|h|cffd8d8d8]|r: when carroct active?",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552761,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[19:32:42]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Kilifur-EUMythicDungeons:419:CHANNEL:1|h|cfffe7b09Kilifur|r|h|cffd8d8d8]|r: its fun but 110% not worth it",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552761,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[19:32:43]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lerazxc-EUMythicDungeons:420:CHANNEL:1|h|cffd8bc3f60|r:|cfff38bb9Lerazxc|r|h|cffd8d8d8]|r: carrot",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552762,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[19:32:47]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Teckertlgr-EUMythicDungeons:421:CHANNEL:1|h|cfffefefeTeckertlgr|r|h|cffd8d8d8]|r: idk",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552766,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[19:32:57]|h |cffd8d8d8[|r|Hplayer:Foxfoxfox-EUMythicDungeons:422:ACHIEVEMENT|h|cff006fdcFoxfoxfox|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-0048A6B8:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552776,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[19:33:01]|h |cffd8d8d8[|r|Hplayer:Foxfoxfox-EUMythicDungeons:423:ACHIEVEMENT|h|cff006fdcFoxfoxfox|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A6B8:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552780,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[19:33:01]|h |cffd8d8d8[|r|Hplayer:Foxfoxfox-EUMythicDungeons:424:ACHIEVEMENT|h|cff006fdcFoxfoxfox|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A6B8:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552780,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[19:33:08]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Youri-EUMythicDungeons:425:CHANNEL:1|h|cffd8bc3f60|r:|cffa22fc8Youri|r|h|cffd8d8d8]|r: Carrot active in 28mins",
+					["r"] = 1,
+					["b"] = 0.7529412508010864,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552787,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[19:33:11]|h |cffd8d8d8[|r|Hplayer:Jason-EUMythicDungeons:426:ACHIEVEMENT|h|cffa9d271Jason|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14796:Player-4606-0048A615:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						60, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552790,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[19:33:11]|h |cffd8d8d8[|r|Hplayer:Jason-EUMythicDungeons:427:ACHIEVEMENT|h|cffa9d271Jason|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-4606-0048A615:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						60, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552790,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[19:34:02]|h |cffd8d8d8[|r|Hplayer:Raviatus-EUMythicDungeons:428:ACHIEVEMENT|h|cfffe7b09Raviatus|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:729:Player-4606-0048A6AF:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Deathcharger's Reins]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						75, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552841,
+				}, -- [90]
+				{
+					["message"] = "|Hpratcopy|h[19:34:06]|h |cffd8d8d8[|r|Hplayer:Etelria-EUMythicDungeons:429:ACHIEVEMENT|h|cff006fdcEtelria|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-4606-004884AB:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						1, -- [3]
+						62, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552845,
+				}, -- [91]
+				{
+					["message"] = "|Hpratcopy|h[19:34:07]|h [S] |cffd8d8d8[|r|Hplayer:Rejv-EUMythicDungeons:430:SAY|h|cffc59a6cRejv|r|h|cffd8d8d8]|r: [Orcish] kagg zaga Re'ka gi Tov'osh",
+					["r"] = 1,
+					["b"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						76, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552846,
+				}, -- [92]
+				{
+					["message"] = "|Hpratcopy|h[19:34:08]|h [S] |cffd8d8d8[|r|Hplayer:Rejv-EUMythicDungeons:431:SAY|h|cffc59a6cRejv|r|h|cffd8d8d8]|r: [Orcish] kagg zaga Re'ka gi Tov'osh",
+					["r"] = 1,
+					["b"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						76, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552847,
+				}, -- [93]
+				{
+					["message"] = "|Hpratcopy|h[19:34:08]|h [S] |cffd8d8d8[|r|Hplayer:Rejv-EUMythicDungeons:432:SAY|h|cffc59a6cRejv|r|h|cffd8d8d8]|r: [Orcish] kagg zaga Re'ka gi Tov'osh",
+					["r"] = 1,
+					["b"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						76, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552847,
+				}, -- [94]
+				{
+					["message"] = "|Hpratcopy|h[19:34:08]|h [S] |cffd8d8d8[|r|Hplayer:Rejv-EUMythicDungeons:433:SAY|h|cffc59a6cRejv|r|h|cffd8d8d8]|r: [Orcish] kagg zaga Re'ka gi Tov'osh",
+					["r"] = 1,
+					["b"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1500573.552,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						76, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1638552847,
+				}, -- [95]
+				{
+					["message"] = "|Hpratcopy|h[19:34:22]|h Elizabeth Ross says: Let me know if you need help finding anything, mage.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1638552861,
+					["timestamp"] = 1500573.552,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [96]
+				{
+					["message"] = "|Hpratcopy|h[19:34:22]|h Total time played: 11574 |4day:days;, 2 |4hour:hours;, 46 |4minute:minutes;, 48 |4second:seconds;",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1638552861,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9843137860298157,
+				}, -- [97]
+				{
+					["message"] = "|Hpratcopy|h[19:34:22]|h Time played this level: 0 |4day:days;, 1 |4hour:hours;, 1 |4minute:minutes;, 40 |4second:seconds;",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1638552861,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9843137860298157,
+				}, -- [98]
+				{
+					["message"] = "|Hpratcopy|h[19:34:40]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Adzofae-EUMythicDungeons:435:CHANNEL:1|h|cff3ec6eaAdzofae|r|h|cffd8d8d8]|r: Frost mage LF grp",
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1638552879,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [99]
+				{
+					["message"] = "|Hpratcopy|h[19:36:34]|h |cffd8d8d8[|r|Hplayer:Estrea-EUMythicDungeons:436:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Estrea|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:545:Player-4606-00489D48:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Shave and a Haircut]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1638552993,
+					["timestamp"] = 1500573.552,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [100]
+				{
+					["message"] = "|Hpratcopy|h[19:38:16]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Amalhunt-EUMythicDungeons:437:CHANNEL:2|h|cffa9d271Amalhunt|r|h|cffd8d8d8]|r: Hey hey, looking for a healer to do a NW 20 :D",
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1638553095,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [101]
+				{
+					["message"] = "|Hpratcopy|h[19:38:34]|h You receive item: |cffa335ee|Hitem:84101::::::::60:104::14::1:28:872:::::|h[Reins of the Grand Expedition Yak]|h|r",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.2313725650310516,
+					["serverTime"] = 1638553113,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7960785031318665,
+					["r"] = 0.8588235974311829,
+				}, -- [102]
+				{
+					["message"] = "|Hpratcopy|h[19:38:52]|h You have added the mount Grand Expedition Yak to your collection.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1638553131,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9843137860298157,
+				}, -- [103]
+				{
+					["message"] = "|Hpratcopy|h[19:38:52]|h |cffd8d8d8[|r|Hplayer:Estrea-EUMythicDungeons:440:ACHIEVEMENT|h|cffd8bc3f60|r:|cfffe7b09Estrea|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:7386:Player-4606-00489D48:1:12:3:21:4294967295:4294967295:4294967295:4294967295|h[Grand Expedition Yak]|h|r |cffffffff(|rCompleted 3/12/21|cffffffff)|r!",
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1638553131,
+					["timestamp"] = 1500573.552,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [104]
+				{
+					["message"] = "|Hpratcopy|h[19:40:36]|h You receive item: |cffffffff|Hitem:185906::::::::60:104:::::::::|h[Anniversary Gift]|h|r",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.2313725650310516,
+					["serverTime"] = 1638553235,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7960785031318665,
+					["r"] = 0.8588235974311829,
+				}, -- [105]
+				{
+					["message"] = "|Hpratcopy|h[19:40:44]|h You receive currency: |cff0070dd|Hcurrency:1166:0|h[Timewarped Badge]|h|rx200",
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6666666865348816,
+					["serverTime"] = 1638553243,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.4705882668495178,
+					["r"] = 0.2470588386058807,
+				}, -- [106]
+				{
+					["message"] = "|Hpratcopy|h[19:40:44]|h You receive loot: |cffffffff|Hitem:172013::::::::60:104:::::::::|h[Celebration Firework]|h|r",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.2313725650310516,
+					["serverTime"] = 1638553243,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7960785031318665,
+					["r"] = 0.8588235974311829,
+				}, -- [107]
+				{
+					["message"] = "|Hpratcopy|h[19:40:44]|h You receive loot: |cffffffff|Hitem:185907::::::::60:104:::::::::|h[Celebration Package]|h|r",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.2313725650310516,
+					["serverTime"] = 1638553243,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7960785031318665,
+					["r"] = 0.8588235974311829,
+				}, -- [108]
+				{
+					["message"] = "|Hpratcopy|h[19:40:44]|h You receive loot: |cffffffff|Hitem:171177::::::::60:104:::::::::|h[Invitation from the Timewalkers]|h|r",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.2313725650310516,
+					["serverTime"] = 1638553243,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7960785031318665,
+					["r"] = 0.8588235974311829,
+				}, -- [109]
+				{
+					["message"] = "|Hpratcopy|h[19:40:45]|h Quest accepted: A Timely Invitation",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1638553244,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9843137860298157,
+				}, -- [110]
+				{
+					["message"] = "|Hpratcopy|h[19:41:04]|h Emissary Ba'solo says: We must take appropriate actions to placate them. Nothing can be allowed interfere with the operation.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1638553263,
+					["timestamp"] = 1500573.552,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [111]
+				{
+					["message"] = "|Hpratcopy|h[19:41:10]|h Opulence Ba'hare says: When I profit, we all profit. Each according to their station.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1638553269,
+					["timestamp"] = 1500573.552,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [112]
+				{
+					["message"] = "|Hpratcopy|h[19:41:59]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:27:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>]|h has gone offline.",
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1638553318,
+					["timestamp"] = 1500573.552,
+					["g"] = 0.7725490927696228,
+					["r"] = 0.5098039507865906,
+				}, -- [113]
+				{
+					["message"] = "|Hpratcopy|h[01:19:33]|h Total time played: 11574 |4day:days;, 2 |4hour:hours;, 55 |4minute:minutes;, 15 |4second:seconds;",
+					["b"] = 1,
+					["r"] = 0.9843137860298157,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573572,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [114]
+				{
+					["message"] = "|Hpratcopy|h[01:19:33]|h Time played this level: 0 |4day:days;, 1 |4hour:hours;, 10 |4minute:minutes;, 7 |4second:seconds;",
+					["b"] = 1,
+					["r"] = 0.9843137860298157,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573572,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [115]
+				{
+					["message"] = "|Hpratcopy|h[01:20:53]|h |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:CHANNEL:1|h[1. General - Oribos]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573652,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [116]
+				{
+					["message"] = "|Hpratcopy|h[01:20:53]|h |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573652,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+				}, -- [117]
+				{
+					["message"] = "|Hpratcopy|h[01:20:53]|h |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Oribos]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573652,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [118]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 1 |4minute:minutes;, 37 |4second:seconds;",
+					["timestamp"] = 1500573.552,
+				}, -- [119]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 1500573.552,
+				}, -- [120]
+				{
+					["message"] = "|Hpratcopy|h[01:22:23]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.129 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["r"] = 1,
+					["timestamp"] = 1500559.926,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [121]
+				{
+					["message"] = "|Hpratcopy|h[01:22:23]|h |cff9900ffWeakAuras:|r  There are 5 updates to your auras ready to be installed!",
+					["timestamp"] = 1500559.926,
+				}, -- [122]
+				{
+					["message"] = "|Hpratcopy|h[01:22:30]|h |cffffaeaeDetails!:|r use '/details me' macro to open the player breakdown for you!    ",
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573749,
+				}, -- [123]
+				{
+					["message"] = "|Hpratcopy|h[01:22:31]|h |cffFFFFFFRaiderIO|r has encountered a new server. Please write down this information |cffFF9999{|r |cffFFFFFFPlayer-4606-00489D48|r |cffFF9999,|r |cffFFFFFFEUMythicDungeons|r |cffFF9999}|r and report it to the developers. Thank you!",
+					["r"] = 1,
+					["serverTime"] = 1638573750,
+					["timestamp"] = 1500573.552,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|Hpratcopy|h[01:22:31]|h |cFFFF0000[ZT-Error] LibGroupInSpecT-1.1 not found",
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573750,
+				}, -- [125]
+				{
+					["message"] = "|Hpratcopy|h[01:22:31]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573750,
+				}, -- [126]
+				{
+					["message"] = "|Hpratcopy|h[01:22:31]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573750,
+				}, -- [127]
+				{
+					["message"] = "|Hpratcopy|h[01:22:31]|h |cffffd700Titan Panel|r|cff20ff20 5.21.2.90105|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r|cff20ff20|r",
+					["timestamp"] = 1500573.552,
+					["serverTime"] = 1638573750,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

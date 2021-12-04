@@ -12,6 +12,12 @@ VER 3 0100000000000009 "CancelHots" "132221"
 /cancelaura Омоложение
 /cancelaura Уход за рощей
 END
+VER 3 010000000000000E "CovenantAbility" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Копье Бастиона
+/cast Повторный толчок Древних
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Копье Бастиона" or G"Повторный толчок Древних")
+END
 VER 3 0100000000000006 "Demoralize" "INV_MISC_QUESTIONMARK"
 #showtooltip Деморализующий крик
 /cast Деморализующий крик
@@ -45,10 +51,10 @@ VER 3 010000000000000A "Taunt" "132095"
 /w Xynn-Durotan Taunt
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1EM1DH1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Фла[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NСигСосXyn[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]ФлаЧер[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000008 "XynnKick" "132279"
 /w Xynn-Durotan Your kick

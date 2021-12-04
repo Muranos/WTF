@@ -1,0 +1,29 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
+		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
+		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
+		["Estrea - Alleria"] = "Estrea - Alleria",
+		["Altery - Durotan"] = "Altery - Durotan",
+		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
+	},
+	["global"] = {
+		["options"] = {
+			["UI.Tabs.Summary.CurrentColumn"] = "CurrencySoulAsh",
+			["Tabs.Grids.Default.Гордунни.Column1"] = "Default.Гордунни.Ниэтта",
+			["UI.Tabs.Summary.CurrentMode"] = 9,
+			["UI.Minimap.IconAngle"] = 189,
+			["UI.Mail.LastExpiryWarning"] = 1638543892,
+			["UI.Minimap.ShowIcon"] = false,
+		},
+	},
+}

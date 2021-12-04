@@ -15,16 +15,11 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Алтэри-gordunni"
+RaiderIO_LastCharacter = "eu-Фламинника-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Метаплеер-gordunni"] = true,
-	["eu-Лиффэ-gordunni"] = true,
-	["eu-Лорелия-gordunni"] = true,
-	["eu-Жнецкостей-gordunni"] = true,
-	["eu-Изуннр-gordunni"] = true,
-	["eu-Агникакареру-ashenvale"] = true,
-	["eu-Костэло-gordunni"] = true,
-	["eu-Дельба-gordunni"] = true,
-	["eu-Дейха-borean-tundra"] = true,
+}
+RaiderIO_MissingServers = {
 }
 RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

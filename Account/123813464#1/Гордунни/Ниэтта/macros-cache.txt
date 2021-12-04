@@ -4,6 +4,16 @@ VER 3 0100000000000008 "BoP" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A "Cancel" "1723990"
 /cancelaura Благословение защиты
+/cancelaura Божественный щит
+/cancelaura Призыв к действию: "Брон"
+/cancelaura Божественный скакун
+END
+VER 3 010000000000000E "Countdown" "INV_MISC_QUESTIONMARK"
+#showtooltip Последний расчет
+/cast [@cursor] Последний расчет
+END
+VER 3 010000000000000F "Dismount" "3150958"
+/cancelaura Божественный скакун
 END
 VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -17,7 +27,6 @@ VER 3 010000000000000D "FreedomForMe" "135992"
 /cast [@player] Благословенная свобода
 END
 VER 3 010000000000000B "Glory" "INV_MISC_QUESTIONMARK"
-#showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Торжество; [@player] Торжество
 END
 VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
@@ -46,5 +55,7 @@ END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
 /use Непостижимое квантовое устройство
+/use Переполненный энергией кристалл
 /cast Гнев карателя
+/use Серафим
 END

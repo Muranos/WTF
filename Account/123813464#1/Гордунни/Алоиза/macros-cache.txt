@@ -1,3 +1,9 @@
+VER 3 010000000000000F "CovenantAbility" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Игры разума
+/cast Нечестивое кольцо
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Игры разума" or G"Нечестивое кольцо" or G"Созыв духов")
+END
 VER 3 0100000000000007 "CureDisease" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение от болезни

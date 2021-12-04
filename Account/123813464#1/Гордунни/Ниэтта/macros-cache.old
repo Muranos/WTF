@@ -4,6 +4,16 @@ VER 3 0100000000000008 "BoP" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A "Cancel" "1723990"
 /cancelaura Благословение защиты
+/cancelaura Божественный щит
+/cancelaura Призыв к действию: "Брон"
+/cancelaura Божественный скакун
+END
+VER 3 010000000000000E "Countdown" "INV_MISC_QUESTIONMARK"
+#showtooltip Последний расчет
+/cast [@cursor] Последний расчет
+END
+VER 3 010000000000000F "Dismount" "3150958"
+/cancelaura Божественный скакун
 END
 VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -17,7 +27,6 @@ VER 3 010000000000000D "FreedomForMe" "135992"
 /cast [@player] Благословенная свобода
 END
 VER 3 010000000000000B "Glory" "INV_MISC_QUESTIONMARK"
-#showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Торжество; [@player] Торжество
 END
 VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
@@ -38,13 +47,15 @@ VER 3 0100000000000007 "Sacrifice" "INV_MISC_QUESTIONMARK"
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жертвенное благословение
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1MR1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1EM1DH1MR1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PM0__[x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NXynНоз[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NСигСосXynИпо[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]НиэЧер[x][x]Хат[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
 /use Непостижимое квантовое устройство
+/use Переполненный энергией кристалл
 /cast Гнев карателя
+/use Серафим
 END

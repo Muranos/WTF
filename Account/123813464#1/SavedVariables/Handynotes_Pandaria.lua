@@ -1,5 +1,5 @@
 
-storedData = {
+HandyNotes_Pandaria_savedData = {
 	["hiddenNodes"] = {
 	},
 	["settings"] = {

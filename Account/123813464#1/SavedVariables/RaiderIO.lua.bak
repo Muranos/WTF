@@ -15,37 +15,11 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Алтэри-gordunni"
+RaiderIO_LastCharacter = "eu-Алоиза-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Blixa-silvermoon"] = true,
-	["eu-Бёрнус-gordunni"] = true,
-	["eu-Prilstar-antonidas"] = true,
-	["eu-Игааша-gordunni"] = true,
-	["eu-Калиедора-gordunni"] = true,
-	["eu-Бегилолабеги-gordunni"] = true,
-	["eu-Сох-gordunni"] = true,
-	["eu-Юзай-borean-tundra"] = true,
-	["eu-Йокоюми-gordunni"] = true,
-	["eu-Ашатель-gordunni"] = true,
-	["eu-Донпьяно-gordunni"] = true,
-	["eu-party5-gordunni"] = true,
-	["eu-Караптор-gordunni"] = true,
-	["eu-Ксеркус-gordunni"] = true,
-	["eu-Ясноок-gordunni"] = true,
-	["eu-Цэалот-gordunni"] = true,
-	["eu-Дэльвиста-gordunni"] = true,
-	["eu-Lokîrâ-nethersturm"] = true,
-	["eu-Dinomerlin-nethersturm"] = true,
-	["eu-Джагердру-gordunni"] = true,
-	["eu-Raizzen-zuljin"] = true,
-	["eu-Лупцёватор-gordunni"] = true,
-	["eu-Ортоджин-howling-fjord"] = true,
-	["eu-Чебурмен-ashenvale"] = true,
-	["eu-Душнинка-gordunni"] = true,
-	["eu-Lyhriara-thrall"] = true,
-	["eu-Tamael-medivh"] = true,
-	["eu-Ориксирим-gordunni"] = true,
-	["eu-Tmpállyx-madmortem"] = true,
-	["eu-Мойкофе-gordunni"] = true,
+}
+RaiderIO_MissingServers = {
 }
 RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

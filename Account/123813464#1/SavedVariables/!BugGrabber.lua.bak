@@ -1,16 +1,8 @@
 
 BugGrabberDB = {
+	["session"] = 1268,
 	["lastSanitation"] = 3,
-	["session"] = 377,
 	["errors"] = {
-		{
-			["message"] = "...Ons\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua:1419: attempt to call field 'Update' (a nil value)",
-			["time"] = "2021/03/18 00:10:35",
-			["locals"] = "noCache = true\nshowFade = nil\nisQuestFlaggedRecheck = nil\nforceCriteriaAnimation = nil\nquestList = nil\nquestsAvailable = <table> {\n 1533 = <table> {\n }\n 1525 = <table> {\n }\n 1565 = <table> {\n }\n 1536 = <table> {\n }\n}\nneedAnotherUpdate = true\nfilters = <table> {\n pet_battles = true\n garrison_resource = true\n equipment = true\n reputation_token = true\n trade_skill = true\n profession = true\n gold = true\n dungeon = true\n artifact_power = true\n pvp = true\n}\ntimePriority = 0\nforceShowBrokenShore = true\nsortByTimeLeft = false\nworldMapID = 1550\nbountyQuestID = 0\nfailedToUpdate = <table> {\n 60656 = true\n 60533 = true\n 61868 = true\n 60475 = true\n 61593 = true\n 59581 = true\n 61411 = true\n 61784 = true\n 61631 = true\n 60609 = true\n 59836 = true\n 61885 = true\n 61667 = true\n 57328 = true\n 61060 = true\n 57650 = true\n 59718 = true\n 61814 = true\n 60842 = true\n 58605 = true\n 61947 = true\n 59578 = true\n}\nmapChildren = <table> {\n 1533 = true\n 1525 = true\n 1565 = true\n 1536 = true\n}\nbannedQuests = <table> {\n}\navailableQuests = 25\nworldMapID = 1550\naddToWorldMap = <table> {\n}\nquestCounter = 1\n(*temporary) = nil\n(*temporary) = <table> {\n}\n(*temporary) = nil\n(*temporary) = \"attempt to call field 'Update' (a nil value)\"\nWorldQuestTracker = <table> {\n LastUpdate = 161663.213000\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\Details\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n QUEST_POI_FRAME_HEIGHT = 1\n Cache_ShownQuestOnWorldMap = <table> {\n }\n AllCharactersQuests_Add = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:706\n UpdateArrowFrequence = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_FrameAPI.lua:82\n GetTemplate = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:2266\n mapTables = <table> {\n }\n CommFunctions = <table> {\n }\n RareWidgetOnClick = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_RareFinder.lua:722\n ScheduleTimer = <function> defined @Interface\\AddOns\\Details\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n UpdatingForMap = 1550\n IsCurrentMapQuestHub = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_MapAPI.lua:161\n SavedQuestList_GetList = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:658\n RegisterScriptComm = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:4001\n ShowPanicWarning = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:1908\n db = <table> {\n }\n CheckAddToTracker = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_FrameAPI.lua:587\n UnregisterAllComm = <function> defined @Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n SetEnabledState = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n ShowTutorialAlertFrame = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:1906\n QuestTrackList = <table> {\n }\n ZoneWidgetPool = <table> {\n }\n WorldMapQuestCounter = 0\n GetQuestReward_Resource = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_MapAPI.lua:684\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n UpdateLoadingIconAnchor = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:926\n ColorPick = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:1491\n CreateSwitch = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\slider.lua:966\n BuildTooltip = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_Tracker.lua:511\n GetTrackedQuestsOnDB = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:89\n UpdateZoneWidgetAnchors = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_ZoneMap.lua:504\n DumpTrackingList = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_FrameAPI.lua:28\n GetName = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"WorldQuestTrackerAddon\"\n GetMapInfo = <function> de",
-			["stack"] = "[string \"@Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua\"]:1419: in function `UpdateWorldQuestsOnWorldMap'\n[string \"@Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua\"]:1141: in function <...Ons\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua:1138>\n[string \"@Interface\\SharedXML\\C_TimerAugment.lua\"]:16: in function <Interface\\SharedXML\\C_TimerAugment.lua:14>",
-			["session"] = 40,
-			["counter"] = 1,
-		}, -- [1]
 		{
 			["message"] = "...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:470: Action[FrameMeasurement] failed because[Can't measure restricted regions]: attempted from: <unnamed>:GetLeft().",
 			["time"] = "2021/03/18 21:59:30",
@@ -18,14 +10,14 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `GetLeft'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:470: in function `GetPreferredInsets'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:166: in function `UpdateInsetsForType'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:150: in function `ApplyFrameOptions'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:116: in function `OnNamePlateAdded'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:56: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:47>",
 			["session"] = 55,
 			["counter"] = 1,
-		}, -- [2]
+		}, -- [1]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'RCLootCouncil' пыталась вызвать защищенную функцию 'SetTargetClampingInsets()'.",
 			["time"] = "2021/03/18 21:59:36",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetTargetClampingInsets'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:305: in function `SetupClassNameplateBars'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:119: in function `OnNamePlateAdded'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:56: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:47>",
 			["session"] = 55,
 			["counter"] = 1,
-		}, -- [3]
+		}, -- [2]
 		{
 			["message"] = "...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:216: Usage: GetRaidTargetIndex(unit)",
 			["time"] = "2021/03/18 21:59:36",
@@ -33,7 +25,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `GetRaidTargetIndex'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:216: in function `OnRaidTargetUpdate'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:122: in function `OnNamePlateAdded'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:56: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:47>",
 			["session"] = 55,
 			["counter"] = 4,
-		}, -- [4]
+		}, -- [3]
 		{
 			["message"] = "Interface\\FrameXML\\AuraUtil.lua:58: Usage: local continuationToken, slot1, slot2, ... = UnitAuraSlots(\"unit\" [, \"filter\"][, maxSlots][, continuationToken])",
 			["time"] = "2021/03/18 21:59:32",
@@ -41,34 +33,28 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `UnitAuraSlots'\n[string \"@Interface\\FrameXML\\AuraUtil.lua\"]:58: in function `ForEachAura'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:597: in function `UpdateBuffs'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:209: in function `OnUnitAuraUpdate'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:182: in function `OnTargetChanged'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:61: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:47>\n[string \"=[C]\"]: in function `CameraOrSelectOrMoveStop'\n[string \"CAMERAORSELECTORMOVE\"]:4: in function <[string \"CAMERAORSELECTORMOVE\"]:1>",
 			["session"] = 55,
 			["counter"] = 96,
-		}, -- [5]
+		}, -- [4]
 		{
 			["message"] = "Interface\\AddOns\\SavedInstances\\Modules\\Calling.lua:46: attempt to perform arithmetic on local 'nextReset' (a nil value)",
 			["time"] = "2021/03/26 08:59:59",
 			["stack"] = "[string \"@Interface\\AddOns\\SavedInstances\\Modules\\Calling.lua\"]:46: in function `?'\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 99,
 			["counter"] = 3,
-		}, -- [6]
+		}, -- [5]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'VuhDo' пыталась вызвать защищенную функцию 'VuhDoBuffWatchMainFrame:Hide()'.",
 			["time"] = "2021/04/08 22:35:57",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\VuhDo\\VuhDoBuffWatchBuilder.lua\"]:250: in function `VUHDO_reloadBuffPanel'\n[string \"@Interface\\AddOns\\VuhDo\\VuhDoEventHandler.lua\"]:178: in function `VUHDO_initBuffs'\n[string \"@Interface\\AddOns\\VuhDo\\VuhDoEventHandler.lua\"]:596: in function <Interface\\AddOns\\VuhDo\\VuhDoEventHandler.lua:407>",
 			["session"] = 184,
 			["counter"] = 1,
-		}, -- [7]
+		}, -- [6]
 		{
 			["message"] = "[ADDON_ACTION_FORBIDDEN] Модификация 'VuhDo' пыталась вызвать защищенную функцию 'CopyToClipboard()'.",
 			["time"] = "2021/04/12 19:39:33",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `CopyToClipboard'\n[string \"@Interface\\FrameXML\\UnitPopup.lua\"]:2066: in function `func'\n[string \"@Interface\\SharedXML\\UIDropDownMenu.lua\"]:905: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
 			["session"] = 215,
 			["counter"] = 1,
-		}, -- [8]
-		{
-			["message"] = "File Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua is empty.",
-			["session"] = 264,
-			["time"] = "2021/03/18 00:10:28",
-			["counter"] = 33,
-		}, -- [9]
+		}, -- [7]
 		{
 			["message"] = "Interface\\FrameXML\\QuestSession.lua:856: attempt to call global 'ConfirmInviteTravelPass' (a nil value)",
 			["time"] = "2021/04/17 19:08:55",
@@ -76,36 +62,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\FrameXML\\QuestSession.lua\"]:856: in function `CheckShowInviteTravelPassConfirmation'\n[string \"@Interface\\FrameXML\\QuestSession.lua\"]:816: in function <Interface\\FrameXML\\QuestSession.lua:798>\n[string \"=[C]\"]: in function `BNInviteFriend'\n[string \"@Interface\\FrameXML\\FriendsFrame.lua\"]:2239: in function `FriendsFrame_InviteOrRequestToJoin'\n[string \"@Interface\\FrameXML\\FriendsFrame.lua\"]:2262: in function `FriendsFrame_BattlenetInviteByIndex'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
 			["session"] = 271,
 			["counter"] = 2,
-		}, -- [10]
-		{
-			["message"] = "Invalid quest item in SetQuestItem(\"type\", index)",
-			["time"] = "2021/04/20 03:15:34",
-			["locals"] = "(*temporary) = GameTooltip {\n BottomLeftCorner = <unnamed> {\n }\n OnBackdropLoaded = <function> defined @Interface\\SharedXML\\Backdrop.lua:195\n SetExistingSocketGem = <function> defined =[C]:-1\n SetHyperlink = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n ClearBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:325\n Show = <function> defined =[C]:-1\n default = 1\n SetLootItem = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n numMoneyFrames = 1\n SetRecipeReagentItem = <function> defined =[C]:-1\n SetBuybackItem = <function> defined =[C]:-1\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n SetWeeklyReward = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n SetupTextureCoordinates = <function> defined @Interface\\SharedXML\\Backdrop.lua:257\n BottomOverlay = <unnamed> {\n }\n ttIcon = <unnamed> {\n }\n GetEdgeSize = <function> defined @Interface\\SharedXML\\Backdrop.lua:231\n SetInventoryItem = <function> defined =[C]:-1\n TopEdge = <unnamed> {\n }\n ttCount = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetBagItem = <function> defined =[C]:-1\n BottomRightCorner = <unnamed> {\n }\n SetBackdropColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:442\n LeftEdge = <unnamed> {\n }\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5670\n ItemTooltip = <unnamed> {\n }\n textLeft1Font = \"GameTooltipHeaderText\"\n 0 = <userdata>\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5682\n SetGuildBankItem = <function> defined =[C]:-1\n SetVoidItem = <function> defined =[C]:-1\n SetBackdropBorderColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:465\n GetBackdropColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:433\n Hide = <function> defined =[C]:-1\n RightEdge = <unnamed> {\n }\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5716\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:855\n textRight2Font = \"GameTooltipText\"\n TopRightCorner = <unnamed> {\n }\n BottomEdge = <unnamed> {\n }\n SetBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:372\n hasMoney = 1\n TopOverlay = <unnamed> {\n }\n GetBackdropBorderColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:452\n GetBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:390\n SetUnitDebuff = <function> defined =[C]:-1\n SetHeirloomByItemID = <function> defined =[C]:-1\n comparing = false\n SetQuestItem = <function> defined =[C]:-1\n waitingForData = false\n SetBorderBlendMode = <function> defined @Interface\\SharedXML\\Backdrop.lua:309\n SetToyByItemID = <function> defined =[C]:-1\n updateTooltipTimer = 0.020000\n TopLeftCorner = <unnamed> {\n }\n SetInboxItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n TextLeft1 = GameTooltipTextLeft1 {\n }\n TextRight1 = GameTooltipTextRight1 {\n }\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5733\n backdropInfo = <table> {\n }\n OnBackdropSizeChanged = <function> defined @Interface\\SharedXML\\Backdrop.lua:225\n SetUnitBuff = <function> defined =[C]:-1\n ApplyBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:337\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n textLeft2Font = \"GameTooltipText\"\n HasBackdropInfo = <function> defined @Interface\\SharedXML\\Backdrop.lua:321\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetQuestLogItem = <function> defined =[C]:-1\n shoppingTooltips = <table> {\n }\n SetItemKey = <function> defined =[C]:-1\n needsReset = true\n SetupPieceVisuals = <function> defined @Interface\\SharedXML\\Back",
-			["stack"] = "[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `SetQuestItem'\n[string \"*:OnEnter\"]:4: in function <[string \"*:OnEnter\"]:1>",
-			["session"] = 289,
-			["counter"] = 1,
-		}, -- [11]
-		{
-			["message"] = "[ADDON_ACTION_FORBIDDEN] Модификация 'WorldQuestTracker' пыталась вызвать защищенную функцию 'UseQuestLogSpecialItem()'.",
-			["time"] = "2021/04/13 04:35:54",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `UseQuestLogSpecialItem'\n[string \"@Interface\\AddOns\\Blizzard_ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua\"]:95: in function <...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:88>",
-			["session"] = 294,
-			["counter"] = 3,
-		}, -- [12]
-		{
-			["message"] = "AceLocale-3.0-6: OmniCD: Missing entry for 'A new update is available. (%s)'",
-			["time"] = "2021/03/20 03:00:42",
-			["stack"] = "[string \"@Interface\\AddOns\\OmniCD\\Core\\load.lua\"]:122: in function <Interface\\AddOns\\OmniCD\\Core\\load.lua:113>",
-			["session"] = 314,
-			["counter"] = 2,
-		}, -- [13]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'ExRT' пыталась вызвать защищенную функцию '<unnamed>:Hide()'.",
-			["time"] = "2021/04/06 23:13:14",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\ExRT\\RaidCheck.lua\"]:2934: in function `Update'\n[string \"@Interface\\AddOns\\ExRT\\RaidCheck.lua\"]:3244: in function <Interface\\AddOns\\ExRT\\RaidCheck.lua:3228>",
-			["session"] = 318,
-			["counter"] = 5,
-		}, -- [14]
+		}, -- [8]
 		{
 			["message"] = "invalid key to 'next'",
 			["time"] = "2021/03/18 01:53:40",
@@ -113,23 +70,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `(for generator)'\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20210228122115.lua\"]:49: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:46>\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20210228122115.lua\"]:56: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:55>",
 			["session"] = 332,
 			["counter"] = 174,
-		}, -- [15]
-		{
-			["message"] = "Interface\\FrameXML\\ChatFrame.lua:1637: Usage: local setWasEquipped = C_EquipmentSet.UseEquipmentSet(equipmentSetID)",
-			["time"] = "2021/03/18 20:40:17",
-			["locals"] = "",
-			["stack"] = "[string \"=[C]\"]: in function `UseEquipmentSet'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:1637: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:5074: in function <Interface\\FrameXML\\ChatFrame.lua:5040>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4758: in function <Interface\\FrameXML\\ChatFrame.lua:4757>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3049: in function <Interface\\FrameXML\\ChatFrame.lua:3042>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:443: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:656: in function <Interface\\FrameXML\\SecureTemplates.lua:604>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n...\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3049: in function <Interface\\FrameXML\\ChatFrame.lua:3042>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:443: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:656: in function <Interface\\FrameXML\\SecureTemplates.lua:604>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n[string \"=(tail call)\"]: ?",
-			["session"] = 337,
-			["counter"] = 10,
-		}, -- [16]
-		{
-			["message"] = "C stack overflow",
-			["time"] = "2021/03/20 15:32:21",
-			["locals"] = "(*temporary) = <function> defined @Interface\\FrameXML\\PartyMemberFrame.lua:13\n = <function> defined @Interface\\FrameXML\\PartyMemberFrame.lua:13\n = <function> defined @Interface\\AddOns\\VuhDo\\VuhDoGuiToolbox.lua:491\n",
-			["stack"] = "[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n...\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `ShowPartyFrame'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:138: in function `RaidOptionsFrame_UpdatePartyFrames'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1671: in function <Interface\\FrameXML\\UIParent.lua:1277>",
-			["session"] = 338,
-			["counter"] = 1032,
-		}, -- [17]
+		}, -- [9]
 		{
 			["message"] = "Interface\\AddOns\\VuhDo\\VuhDoToolbox.lua:916: attempt to compare nil with number",
 			["time"] = "2021/03/20 23:31:18",
@@ -137,14 +78,14 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\VuhDo\\VuhDoToolbox.lua\"]:916: in function <Interface\\AddOns\\VuhDo\\VuhDoToolbox.lua:896>\n[string \"@Interface\\AddOns\\VuhDo\\VuhDoDirections.lua\"]:117: in function <Interface\\AddOns\\VuhDo\\VuhDoDirections.lua:105>\n[string \"@Interface\\AddOns\\VuhDo\\VuhDoEventHandler.lua\"]:1289: in function <Interface\\AddOns\\VuhDo\\VuhDoEventHandler.lua:1264>",
 			["session"] = 351,
 			["counter"] = 50,
-		}, -- [18]
+		}, -- [10]
 		{
 			["message"] = "...e\\AddOns\\Bartender4\\libs\\AceHook-3.0\\AceHook-3.0-9.lua:180: Attempting to rehook already active hook OnShow.",
 			["time"] = "2021/04/28 03:04:48",
 			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceHook-3.0\\AceHook-3.0-9.lua\"]:180: in function <...e\\AddOns\\Bartender4\\libs\\AceHook-3.0\\AceHook-3.0.lua:118>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceHook-3.0\\AceHook-3.0-9.lua\"]:367: in function `HookScript'\n[string \"@Interface\\AddOns\\ImprovedBlizzardUI\\modules/misc/chat.lua\"]:199: in function `StyleChat'\n[string \"@Interface\\AddOns\\ImprovedBlizzardUI\\config.lua\"]:1432: in function <Interface\\AddOns\\ImprovedBlizzardUI\\config.lua:1430>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceConfig-3.0-3\\AceConfigDialog-3.0\\AceConfigDialog-3.0-81.lua\"]:51: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:49>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceConfig-3.0-3\\AceConfigDialog-3.0\\AceConfigDialog-3.0-81.lua\"]:847: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:668>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:72: in function <...ace\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:70>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:306: in function `Fire'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0-41\\widgets\\AceGUIWidget-CheckBox.lua\"]:68: in function <...r4\\libs\\AceGUI-3.0\\widgets\\AceGUIWidget-CheckBox.lua:57>",
 			["session"] = 358,
 			["counter"] = 1,
-		}, -- [19]
+		}, -- [11]
 		{
 			["message"] = "Interface\\FrameXML\\TargetFrame.lua:1123: Frame TargetFrame is not movable",
 			["time"] = "2021/04/28 03:07:41",
@@ -152,7 +93,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `StartMoving'\n[string \"@Interface\\FrameXML\\TargetFrame.lua\"]:1123: in function <Interface\\FrameXML\\TargetFrame.lua:1122>",
 			["session"] = 358,
 			["counter"] = 10,
-		}, -- [20]
+		}, -- [12]
 		{
 			["message"] = "Interface\\AddOns\\Castbars\\Castbars.lua:157: attempt to index local 'statusbar' (a nil value)",
 			["time"] = "2021/04/28 03:06:54",
@@ -160,20 +101,368 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Castbars\\Castbars.lua\"]:157: in function `FrameTimerRestore'\n[string \"@Interface\\AddOns\\Castbars\\Castbars.lua\"]:1394: in function <Interface\\AddOns\\Castbars\\Castbars.lua:1383>\n[string \"=(tail call)\"]: ?",
 			["session"] = 358,
 			["counter"] = 173,
+		}, -- [13]
+		{
+			["message"] = "Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:179: attempt to perform arithmetic on local 'xB' (a nil value)",
+			["time"] = "2021/05/01 10:37:25",
+			["locals"] = "self = <table> {\n debug = <function> defined @Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:154\n GetUpdateFunc = <function> defined @Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:125\n StopMoving = <function> defined @Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:78\n rangeX = 15\n SnapFrame = <function> defined @Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:164\n scripts = <table> {\n }\n rangeY = 15\n sticky = <table> {\n }\n StartMoving = <function> defined @Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:61\n AnchorFrame = <function> defined @Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:97\n}\nframeA = PitBull4_Frames_Цель {\n 0 = <userdata>\n Activate = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n populated = true\n guid = \"Player-1602-04F44A64\"\n LuaTexts;Lua:Применение = PitBull4_FontString_25 {\n }\n LuaTexts;Lua:Класс = PitBull4_FontString_29 {\n }\n Deactivate = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n layout_db = <table> {\n }\n ProxySetAttribute = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:132\n UnforceShow = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n LuaTexts;Lua:Энергия = PitBull4_FontString_27 {\n }\n is_wacky = false\n RefreshVehicle = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:489\n IterateControlsOfType = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:862\n layout = \"Нормальный\"\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:245\n UpdateBestUnit = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:726\n ForceShow = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n CombatText = PitBull4_FontString_32 {\n }\n UpdateGUID = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:803\n Rename = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:665\n RefreshLayout = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n GetFont = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:716\n Highlight = PitBull4_Frame_40 {\n }\n LuaTexts;Lua:Название = PitBull4_FontString_28 {\n }\n Execute = <function> defined @Interface\\FrameXML\\SecureHandlers.lua:777\n aura_debuffs = <table> {\n }\n UpdateConfigAnchorLine = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n unit = \"target\"\n CastBar = PitBull4_BetterStatusBar_5 {\n }\n LuaTexts;Lua:Таймер ПвП = PitBull4_FontString_26 {\n }\n SetFrameRef = <function> defined @Interface\\FrameXML\\SecureHandlers.lua:793\n LuaTexts;Lua:Здоровье = PitBull4_FontString_31 {\n }\n LuaTexts;Lua:Время применения = PitBull4_FontString_30 {\n }\n Background = PitBull4_Texture_66 {\n }\n PowerBar = PitBull4_BetterStatusBar_6 {\n }\n RefixSizeAndPosition = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n aura_buffs = <table> {\n }\n WrapScript = <function> defined @Interface\\FrameXML\\SecureHandlers.lua:782\n HealthBar = PitBull4_BetterStatusBar_7 {\n }\n LuaTexts = <table> {\n }\n UpdateLayout = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrameLayout.lua:1553\n Totems = PitBull4_Frame_23 {\n }\n overlay = PitBull4_Frame_3 {\n }\n classification = \"Цель\"\n SetClickThroughState = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n _RefreshLayout = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:506\n is_singleton = true\n classification_db = <table> {\n }\n IterateControls = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:836\n Update = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:750\n UnwrapScript = <function> defined @Interface\\FrameXML\\SecureHandlers.lua:788\n RecheckConfigMode = <function> defined @Interface\\AddOns\\PitBull4\\UnitFrame.lua:624\n}\nframeB = PitBull4_Frames_Цель для Цель {\n 0 = <userdata>\n Activate = <function> defined @Interface\\AddOns\\PitBull4\\Main.lua:549\n populated = true\n guid = \"Player-1602-04F44A64\"\n LuaTexts;Lua:Применение = PitBull4_FontString_47 {\n }\n LuaTexts;Lua:Класс = PitBull4_FontString_51 {\n }\n Deactivate = <function> defined @Interface\\AddOns\\PitBull4\\Main.lu",
+			["stack"] = "[string \"@Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua\"]:179: in function `SnapFrame'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua\"]:140: in function <Interface\\AddOns\\Bartender4\\libs\\SimpleSticky.lua:126>",
+			["session"] = 380,
+			["counter"] = 381,
+		}, -- [14]
+		{
+			["message"] = "Interface\\AddOns\\PitBull4\\Controls\\Controls.lua:156: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: PitBull4_FontString_27:SetPoint.",
+			["time"] = "2021/05/01 10:51:11",
+			["stack"] = "[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\AddOns\\PitBull4\\Controls\\Controls.lua\"]:156: in function `Delete'\n[string \"@Interface\\AddOns\\PitBull4\\ModuleHandling\\TextProviderModule.lua\"]:41: in function `ClearFrame'\n[string \"@Interface\\AddOns\\PitBull4\\ModuleHandling\\Module.lua\"]:311: in function `Update'\n[string \"@Interface\\AddOns\\PitBull4\\UnitFrameLayout.lua\"]:1565: in function `UpdateLayout'\n[string \"@Interface\\AddOns\\PitBull4\\ModuleHandling\\Module.lua\"]:341: in function `Clear'\n[string \"@Interface\\AddOns\\PitBull4\\UnitFrame.lua\"]:775: in function `Update'\n[string \"@Interface\\AddOns\\PitBull4\\UnitFrame.lua\"]:630: in function `RecheckConfigMode'\n[string \"@Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua\"]:59: in function `RecheckConfigMode'\n[string \"@Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua\"]:54: in function `SetConfigMode'\n[string \"@Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua\"]:81: in function <Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua:80>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceConfig-3.0-3\\AceConfigDialog-3.0\\AceConfigDialog-3.0-81.lua\"]:51: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:49>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceConfig-3.0-3\\AceConfigDialog-3.0\\AceConfigDialog-3.0-81.lua\"]:847: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:668>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:72: in function <...ace\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:70>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:306: in function `Fire'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0-41\\widgets\\AceGUIWidget-DropDown.lua\"]:437: in function <...r4\\libs\\AceGUI-3.0\\widgets\\AceGUIWidget-DropDown.lua:428>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:72: in function <...ace\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:70>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:306: in function `Fire'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0-41\\widgets\\AceGUIWidget-DropDown-Items.lua\"]:351: in function <...s\\AceGUI-3.0\\widgets\\AceGUIWidget-DropDown-Items.lua:341>",
+			["session"] = 380,
+			["counter"] = 1,
+		}, -- [15]
+		{
+			["message"] = "Interface\\AddOns\\PitBull4\\UnitFrameLayout.lua:1504: attempt to index local 'element' (a nil value)",
+			["time"] = "2021/05/01 10:51:19",
+			["stack"] = "[string \"@Interface\\AddOns\\PitBull4\\UnitFrameLayout.lua\"]:1504: in function <Interface\\AddOns\\PitBull4\\UnitFrameLayout.lua:1443>\n[string \"@Interface\\AddOns\\PitBull4\\UnitFrameLayout.lua\"]:1569: in function `UpdateLayout'\n[string \"@Interface\\AddOns\\PitBull4\\UnitFrame.lua\"]:794: in function `Update'\n[string \"@Interface\\AddOns\\PitBull4\\UnitFrame.lua\"]:630: in function `RecheckConfigMode'\n[string \"@Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua\"]:59: in function `RecheckConfigMode'\n[string \"@Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua\"]:54: in function `SetConfigMode'\n[string \"@Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua\"]:81: in function <Interface\\AddOns\\PitBull4\\Options\\ConfigMode.lua:80>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceConfig-3.0-3\\AceConfigDialog-3.0\\AceConfigDialog-3.0-81.lua\"]:51: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:49>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceConfig-3.0-3\\AceConfigDialog-3.0\\AceConfigDialog-3.0-81.lua\"]:847: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:668>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:72: in function <...ace\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:70>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:306: in function `Fire'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0-41\\widgets\\AceGUIWidget-DropDown.lua\"]:437: in function <...r4\\libs\\AceGUI-3.0\\widgets\\AceGUIWidget-DropDown.lua:428>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:72: in function <...ace\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:70>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:306: in function `Fire'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceGUI-3.0-41\\widgets\\AceGUIWidget-DropDown-Items.lua\"]:351: in function <...s\\AceGUI-3.0\\widgets\\AceGUIWidget-DropDown-Items.lua:341>",
+			["session"] = 380,
+			["counter"] = 5,
+		}, -- [16]
+		{
+			["message"] = "Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua:10662: attempt to concatenate field 'GUID' (a nil value)",
+			["time"] = "2021/05/08 01:55:43",
+			["locals"] = "key = \"NPE\"\nfunc = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10689\n(*temporary) = \"NPE\"\n(*temporary) = \"-\"\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to concatenate field 'GUID' (a nil value)\"\napp = <table> {\n CreatePetType = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:8570\n SetScript = <function> defined @Interface\\AddOns\\AllTheThings\\src\\base.lua:30\n BaseItemWithFactionID = <table> {\n }\n UniqueModeItemCollectionHelper = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10422\n BaseAzeriteEssence = <table> {\n }\n PlayCompleteSound = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:854\n SpellIDToSkillID = <table> {\n }\n BaseItem = <table> {\n }\n FilterItemClass_RequireBinding = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:9655\n ToggleMainList = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5074\n CompletionistItemRemovalHelper = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10430\n PrintGroup = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:3736\n RecursiveFirstParentWithField = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10108\n RecursiveIsDescendantOfParentWithValue = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10119\n Filter = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:267\n BaseItemWithAchievementID = <table> {\n }\n SearchForField = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:4078\n BaseVignette = <table> {\n }\n PrintTable = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:3752\n CreateMount = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:8089\n ShowPopupDialogWithEditBox = <function> defined @Interface\\AddOns\\AllTheThings\\src\\base.lua:102\n PlayRareFindSound = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:868\n OpenMiniListForCurrentZone = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:14119\n UpdateWindows = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10994\n BaseTitle = <table> {\n }\n BaseUnit = <table> {\n }\n CreateUnit = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6094\n CreateNPC = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:8394\n CreateMapWithStyle = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:7978\n UpdateParentProgress = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10238\n events = <table> {\n }\n BasePetType = <table> {\n }\n CreateFollower = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6865\n FlightPathDB = <table> {\n }\n print = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:842\n CreateFlightPath = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6777\n FilterItemClass_RequiredSkill = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:9662\n RequiredSkillFilter = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:264\n BaseQuestObjective = <table> {\n }\n report = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:845\n GetNumberOfItemsUntilNextPercentage = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:10588\n Presets = <table> {\n }\n GroupFilter = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:9591\n CreateGearSet = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:7024\n FilterItemClass_RequireClasses = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:9601\n CreateGarrisonBuilding = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6923\n SkillIDToSpellID = <table> {\n }\n CreatePetAbility = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:8551\n BaseItemWithQuestIDAndFactionID = <table> {\n }\n BaseNPCWithAchievement = <table> {\n }\n BaseDeathClass = <table> {\n }\n BaseMount = <table> {\n }\n CreateMap = <function> defined @Interface\\A",
+			["stack"] = "[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:10662: in function `SetCustomCollectibility'\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:10689: in function `RefreshCustomCollectibility'\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:17803: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:17799>\n[string \"@Interface\\AddOns\\AllTheThings\\src\\base.lua\"]:17: in function <Interface\\AddOns\\AllTheThings\\src\\base.lua:17>",
+			["session"] = 451,
+			["counter"] = 1,
+		}, -- [17]
+		{
+			["message"] = "...AddOns\\WeakAurasOptions\\OptionsFrames\\MoverSizer.lua:557: Frame <unnamed> is not movable",
+			["time"] = "2021/05/09 20:16:56",
+			["locals"] = "(*temporary) = <unnamed> {\n 0 = <userdata>\n iconSource = 2\n AnchorSubRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:140\n Scale = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:451\n Expand = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:855\n yOffset = -210.424469\n anchorPoint = \"CENTER\"\n GetColor = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:410\n inner = <unnamed> {\n }\n icon = <unnamed> {\n }\n SetOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:331\n keepAspectRatio = false\n SendChat = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:278\n SetInverse = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:474\n toShow = true\n SetRegionHeight = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:469\n UpdateIcon = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:434\n Color = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:382\n currentCoord = <table> {\n }\n Update = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:594\n regionType = \"icon\"\n stacks = <unnamed> {\n }\n SetDesaturated = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:460\n relativePoint = \"CENTER\"\n ColorAnim = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:396\n SoundPlay = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:260\n states = <table> {\n }\n outer = <unnamed> {\n }\n state = <table> {\n }\n color_b = 1\n UpdateTexCoords = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:310\n alpha = 1\n color_r = 1\n SetXOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:340\n SetGlow = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:601\n SetRegionWidth = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:464\n SetOffsetRelative = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:356\n RealClearAllPoints = <function> defined =[C]:-1\n displayIcon = \"\"\n PreShow = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:529\n RunCode = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:286\n GetYOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:352\n values = <table> {\n }\n SoundRepeatStop = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:206\n xOffset = -422.034515\n SetYOffsetRelative = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:369\n yOffsetRelative = 0\n OptionsClosed = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:741\n cooldownSwipe = true\n scalex = 1\n GetXOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:348\n SetYOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:344\n SetCooldownEdge = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:488\n SetZoom = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:496\n SetIcon = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\Icon.lua:417\n cloneId = \"player\"\n GetYOffsetRelative = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:377\n SetAnchor = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:319\n GlowExternal = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:294\n zoom = 0.300000\n SetRegionAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:390\n GetXOffsetRelative = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:373\n scaley = 1\n Collapse = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:833\n regionHasTimer = false\n subRegions = <table> {\n }\n height = 50\n startFormatters = <table> {\n }\n Pause = <function> defined @Interface\\AddOns\\W",
+			["stack"] = "[string \"=[C]\"]: in function `StartMoving'\n[string \"@Interface\\AddOns\\WeakAurasOptions\\OptionsFrames\\MoverSizer.lua\"]:557: in function <...AddOns\\WeakAurasOptions\\OptionsFrames\\MoverSizer.lua:546>",
+			["session"] = 468,
+			["counter"] = 7,
+		}, -- [18]
+		{
+			["message"] = "...Ons\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua:1419: attempt to call field 'Update' (a nil value)",
+			["time"] = "2021/03/18 00:10:35",
+			["locals"] = "noCache = true\nshowFade = nil\nisQuestFlaggedRecheck = nil\nforceCriteriaAnimation = nil\nquestList = nil\nquestsAvailable = <table> {\n 1533 = <table> {\n }\n 1525 = <table> {\n }\n 1565 = <table> {\n }\n 1536 = <table> {\n }\n}\nneedAnotherUpdate = true\nfilters = <table> {\n pet_battles = true\n garrison_resource = true\n equipment = true\n reputation_token = true\n trade_skill = true\n profession = true\n gold = true\n dungeon = true\n artifact_power = true\n pvp = true\n}\ntimePriority = 0\nforceShowBrokenShore = true\nsortByTimeLeft = false\nworldMapID = 1550\nbountyQuestID = 0\nfailedToUpdate = <table> {\n 60656 = true\n 60533 = true\n 61868 = true\n 60475 = true\n 61593 = true\n 59581 = true\n 61411 = true\n 61784 = true\n 61631 = true\n 60609 = true\n 59836 = true\n 61885 = true\n 61667 = true\n 57328 = true\n 61060 = true\n 57650 = true\n 59718 = true\n 61814 = true\n 60842 = true\n 58605 = true\n 61947 = true\n 59578 = true\n}\nmapChildren = <table> {\n 1533 = true\n 1525 = true\n 1565 = true\n 1536 = true\n}\nbannedQuests = <table> {\n}\navailableQuests = 25\nworldMapID = 1550\naddToWorldMap = <table> {\n}\nquestCounter = 1\n(*temporary) = nil\n(*temporary) = <table> {\n}\n(*temporary) = nil\n(*temporary) = \"attempt to call field 'Update' (a nil value)\"\nWorldQuestTracker = <table> {\n LastUpdate = 161663.213000\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\Details\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n QUEST_POI_FRAME_HEIGHT = 1\n Cache_ShownQuestOnWorldMap = <table> {\n }\n AllCharactersQuests_Add = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:706\n UpdateArrowFrequence = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_FrameAPI.lua:82\n GetTemplate = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:2266\n mapTables = <table> {\n }\n CommFunctions = <table> {\n }\n RareWidgetOnClick = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_RareFinder.lua:722\n ScheduleTimer = <function> defined @Interface\\AddOns\\Details\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n UpdatingForMap = 1550\n IsCurrentMapQuestHub = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_MapAPI.lua:161\n SavedQuestList_GetList = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:658\n RegisterScriptComm = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:4001\n ShowPanicWarning = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:1908\n db = <table> {\n }\n CheckAddToTracker = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_FrameAPI.lua:587\n UnregisterAllComm = <function> defined @Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n SetEnabledState = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n ShowTutorialAlertFrame = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:1906\n QuestTrackList = <table> {\n }\n ZoneWidgetPool = <table> {\n }\n WorldMapQuestCounter = 0\n GetQuestReward_Resource = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_MapAPI.lua:684\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n UpdateLoadingIconAnchor = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:926\n ColorPick = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:1491\n CreateSwitch = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\slider.lua:966\n BuildTooltip = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_Tracker.lua:511\n GetTrackedQuestsOnDB = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker.lua:89\n UpdateZoneWidgetAnchors = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_ZoneMap.lua:504\n DumpTrackingList = <function> defined @Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_FrameAPI.lua:28\n GetName = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"WorldQuestTrackerAddon\"\n GetMapInfo = <function> de",
+			["stack"] = "[string \"@Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua\"]:1419: in function `UpdateWorldQuestsOnWorldMap'\n[string \"@Interface\\AddOns\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua\"]:1141: in function <...Ons\\WorldQuestTracker\\WorldQuestTracker_WorldMap.lua:1138>\n[string \"@Interface\\SharedXML\\C_TimerAugment.lua\"]:16: in function <Interface\\SharedXML\\C_TimerAugment.lua:14>",
+			["session"] = 495,
+			["counter"] = 2,
+		}, -- [19]
+		{
+			["message"] = "...dOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:205: attempt to compare number with boolean",
+			["time"] = "2021/05/12 22:01:26",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n OnLeave = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:216\n SetAbbreviate = <function> defined @Interface\\FrameXML\\UIPanelTemplates.lua:319\n Update = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:245\n SetCurrencyFromID = <function> defined @Interface\\FrameXML\\UIPanelTemplates.lua:301\n contributionID = 1\n amount = 100\n colorCode = \"|cffffffff\"\n Right = <unnamed> {\n }\n OnUpdate = <function> defined @Interface\\FrameXML\\UIPanelTemplates.lua:342\n currencyID = 1342\n questID = 46277\n SetContributionID = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:220\n UpdateTooltip = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:175\n contributionResult = 0\n OnHide = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:154\n Refresh = <function> defined @Interface\\FrameXML\\UIPanelTemplates.lua:323\n OnEnter = <function> defined @Interface\\FrameXML\\UIPanelTemplates.lua:331\n OnEvent = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:158\n Text = ContributionCollectionFrameText {\n }\n Middle = <unnamed> {\n }\n formatString = \"Внести %s\"\n requiredCurrencyID = 1342\n OnShow = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:150\n Left = <unnamed> {\n }\n OnClick = <function> defined @Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:169\n SetTooltipAnchor = <function> defined @Interface\\FrameXML\\UIPanelTemplates.lua:315\n}\nisEnabled = true\nshouldShowTooltip = true\nrcName = \"Припасы Армии погибели Легиона\"\nrcAvailable = true\nrcFormatString = \"%3$s: в наличии %1$s/%2$s.\"\nrcAmount = 100\ncurrencyID = 1342\ncurrencyAmount = 100\nitemID = nil\nitemCount = nil\n(*temporary) = <table> {\n canEarnPerWeek = false\n useTotalEarnedForMaxQty = false\n maxQuantity = 1000\n quantityEarnedThisWeek = 0\n isHeaderExpanded = false\n isTradeable = false\n maxWeeklyQuantity = 0\n iconFileID = 803763\n totalEarned = 0\n isHeader = false\n name = \"Припасы Армии погибели Легиона\"\n isTypeUnused = false\n isShowInBackpack = false\n discovered = true\n quantity = 106\n quality = 2\n}\n(*temporary) = 106\n(*temporary) = <table> {\n canEarnPerWeek = false\n useTotalEarnedForMaxQty = false\n maxQuantity = 1000\n quantityEarnedThisWeek = 0\n isHeaderExpanded = false\n isTradeable = false\n maxWeeklyQuantity = 0\n iconFileID = 803763\n totalEarned = 0\n isHeader = false\n name = \"Припасы Армии погибели Легиона\"\n isTypeUnused = false\n isShowInBackpack = false\n discovered = true\n quantity = 106\n quality = 2\n}\n(*temporary) = false\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = \"attempt to compare number with boolean\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Blizzard_Contribution\\Blizzard_Contribution.lua\"]:205: in function <...dOns\\Blizzard_Contribution\\Blizzard_Contribution.lua:175>",
+			["session"] = 496,
+			["counter"] = 5,
+		}, -- [20]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'BigWigs_Core' пыталась вызвать защищенную функцию 'SendChatMessage()'.",
+			["time"] = "2021/05/12 22:07:00",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua\"]:2600: in function `Say'\n[string \"@Interface\\AddOns\\BigWigs_Legion\\BrokenIsles\\Calamir.lua\"]:136: in function `?'\n[string \"@Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua\"]:535: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:501>",
+			["session"] = 496,
+			["counter"] = 1,
 		}, -- [21]
+		{
+			["message"] = "table index is nil",
+			["time"] = "2021/05/07 09:55:38",
+			["locals"] = "(*temporary) = <table> {\n}\n(*temporary) = nil\n(*temporary) = nil\n",
+			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:252: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:247>\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:5776: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5775>\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:5630: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5628>\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:1002: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:996>\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:3505: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:2669>\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:5177: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5174>\n[string \"@Interface\\AddOns\\AllTheThings\\AllTheThings-SL-2.3.0.lua\"]:5270: in function <Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5179>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?",
+			["session"] = 614,
+			["counter"] = 35,
+		}, -- [22]
+		{
+			["message"] = "Interface\\AddOns\\RaiderIO\\core.lua:146: attempt to index local 'L' (a nil value)",
+			["time"] = "2021/05/24 19:07:04",
+			["locals"] = "addonName = \"RaiderIO\"\nns = <table> {\n LOOKUP_MAX_SIZE = 262143\n HEADLINE_MODE = <table> {\n }\n CURRENT_SEASON = 1\n KEYSTONE_LEVEL_TO_SCORE = <table> {\n }\n MAX_LEVEL = 50\n KEYSTONE_LEVEL_PATTERN = <table> {\n }\n Print = <function> defined @Interface\\AddOns\\RaiderIO\\core.lua:44\n dungeons = <table> {\n }\n EXPANSION = 7\n REGION_TO_LTD = <table> {\n }\n ROLE_ICONS = <table> {\n }\n OUTDATED_CUTOFF = 259200\n PROVIDER_DATA_TYPE = <table> {\n }\n RAIDERIO_ADDON_DOWNLOAD_URL = \"https://rio.gg/addon\"\n FACTION_TO_ID = <table> {\n }\n OUTDATED_BLOCK_CUTOFF = 604800\n}\nL = nil\narshift = <function> defined =[C]:-1\nband = <function> defined =[C]:-1\nbnot = <function> defined =[C]:-1\nbor = <function> defined =[C]:-1\nbxor = <function> defined =[C]:-1\nlshift = <function> defined =[C]:-1\nmod = <function> defined =[C]:-1\nrshift = <function> defined =[C]:-1\n(*temporary) = <table> {\n}\n(*temporary) = <table> {\n}\n(*temporary) = \"%+%s*(%d+)\"\n(*temporary) = \"(%d+)%s*%+\"\n(*temporary) = \"(%d+)\"\n(*temporary) = \"cn\"\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index local 'L' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\RaiderIO\\core.lua\"]:146: in main chunk",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [23]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\libs/LibStub/LibStub.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [24]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/locale.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [25]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/enUS.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [26]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/deDE.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [27]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/esES.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [28]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/frFR.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [29]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/itIT.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [30]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/koKR.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [31]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/ptBR.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [32]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/ruRU.lua",
+			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
+			["counter"] = 1,
+		}, -- [33]
+		{
+			["message"] = "Invalid quest item in SetQuestItem(\"type\", index)",
+			["time"] = "2021/04/20 03:15:34",
+			["locals"] = "(*temporary) = GameTooltip {\n BottomLeftCorner = <unnamed> {\n }\n OnBackdropLoaded = <function> defined @Interface\\SharedXML\\Backdrop.lua:195\n SetExistingSocketGem = <function> defined =[C]:-1\n SetHyperlink = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n ClearBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:325\n Show = <function> defined =[C]:-1\n default = 1\n SetLootItem = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n numMoneyFrames = 1\n SetRecipeReagentItem = <function> defined =[C]:-1\n SetBuybackItem = <function> defined =[C]:-1\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n SetWeeklyReward = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n SetupTextureCoordinates = <function> defined @Interface\\SharedXML\\Backdrop.lua:257\n BottomOverlay = <unnamed> {\n }\n ttIcon = <unnamed> {\n }\n GetEdgeSize = <function> defined @Interface\\SharedXML\\Backdrop.lua:231\n SetInventoryItem = <function> defined =[C]:-1\n TopEdge = <unnamed> {\n }\n ttCount = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetBagItem = <function> defined =[C]:-1\n BottomRightCorner = <unnamed> {\n }\n SetBackdropColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:442\n LeftEdge = <unnamed> {\n }\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5670\n ItemTooltip = <unnamed> {\n }\n textLeft1Font = \"GameTooltipHeaderText\"\n 0 = <userdata>\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5682\n SetGuildBankItem = <function> defined =[C]:-1\n SetVoidItem = <function> defined =[C]:-1\n SetBackdropBorderColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:465\n GetBackdropColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:433\n Hide = <function> defined =[C]:-1\n RightEdge = <unnamed> {\n }\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5716\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:855\n textRight2Font = \"GameTooltipText\"\n TopRightCorner = <unnamed> {\n }\n BottomEdge = <unnamed> {\n }\n SetBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:372\n hasMoney = 1\n TopOverlay = <unnamed> {\n }\n GetBackdropBorderColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:452\n GetBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:390\n SetUnitDebuff = <function> defined =[C]:-1\n SetHeirloomByItemID = <function> defined =[C]:-1\n comparing = false\n SetQuestItem = <function> defined =[C]:-1\n waitingForData = false\n SetBorderBlendMode = <function> defined @Interface\\SharedXML\\Backdrop.lua:309\n SetToyByItemID = <function> defined =[C]:-1\n updateTooltipTimer = 0.020000\n TopLeftCorner = <unnamed> {\n }\n SetInboxItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n TextLeft1 = GameTooltipTextLeft1 {\n }\n TextRight1 = GameTooltipTextRight1 {\n }\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:5733\n backdropInfo = <table> {\n }\n OnBackdropSizeChanged = <function> defined @Interface\\SharedXML\\Backdrop.lua:225\n SetUnitBuff = <function> defined =[C]:-1\n ApplyBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:337\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n textLeft2Font = \"GameTooltipText\"\n HasBackdropInfo = <function> defined @Interface\\SharedXML\\Backdrop.lua:321\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetQuestLogItem = <function> defined =[C]:-1\n shoppingTooltips = <table> {\n }\n SetItemKey = <function> defined =[C]:-1\n needsReset = true\n SetupPieceVisuals = <function> defined @Interface\\SharedXML\\Back",
+			["stack"] = "[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `SetQuestItem'\n[string \"*:OnEnter\"]:4: in function <[string \"*:OnEnter\"]:1>",
+			["session"] = 720,
+			["counter"] = 3,
+		}, -- [34]
+		{
+			["message"] = "...nTools\\AceGUIWidget-MythicDungeonToolsPullButton.lua:216: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: MDTPullTooltip:SetPoint.",
+			["time"] = "2021/06/05 19:33:59",
+			["locals"] = "(*temporary) = MDTPullTooltip {\n 0 = <userdata>\n BorderTop = <unnamed> {\n }\n Background = <unnamed> {\n }\n BorderBottomLeft = <unnamed> {\n }\n BorderTopRight = <unnamed> {\n }\n BorderLeft = <unnamed> {\n }\n currentPull = 9\n botString = MDTToolTipString {\n }\n modelNpcId = 93680\n topString = MDTToolTipString {\n }\n myHeight = 160\n Model = <unnamed> {\n }\n BorderRight = <unnamed> {\n }\n BorderBottom = <unnamed> {\n }\n BorderBottomRight = <unnamed> {\n }\n BorderTopLeft = <unnamed> {\n }\n}\n(*temporary) = \"TOPRIGHT\"\n(*temporary) = MDTPullButton6 {\n 0 = <userdata>\n highlight = <unnamed> {\n }\n obj = <table> {\n }\n text = MDTPullButton6Text {\n }\n data = <table> {\n }\n width = 248\n toggleFunc = <function> defined @Interface\\SharedXML\\OptionsFrameTemplates.lua:164\n temp = <table> {\n }\n toggle = MDTPullButton6Toggle {\n }\n background = <unnamed> {\n }\n height = 32\n pickedGlow = <unnamed> {\n }\n}\n(*temporary) = \"TOPLEFT\"\n(*temporary) = 0\n(*temporary) = 0\n",
+			["stack"] = "[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\AddOns\\MythicDungeonTools\\AceGUIWidget-MythicDungeonToolsPullButton.lua\"]:216: in function <...nTools\\AceGUIWidget-MythicDungeonToolsPullButton.lua:215>",
+			["session"] = 843,
+			["counter"] = 4,
+		}, -- [35]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'VuhDo' пыталась вызвать защищенную функцию 'PartyMemberFrame4:originalHide()'.",
+			["time"] = "2021/06/10 10:44:27",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `originalHide'\n[string \"@Interface\\FrameXML\\FrameLocks.lua\"]:101: in function <Interface\\FrameXML\\FrameLocks.lua:77>\n[string \"@Interface\\FrameXML\\FrameLocks.lua\"]:112: in function <Interface\\FrameXML\\FrameLocks.lua:105>\n[string \"@Interface\\FrameXML\\FrameLocks.lua\"]:130: in function `Hide'\n[string \"@Interface\\FrameXML\\PartyMemberFrame.lua\"]:9: in function `HidePartyFrame'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:135: in function `RaidOptionsFrame_UpdatePartyFrames'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1671: in function <Interface\\FrameXML\\UIParent.lua:1277>",
+			["session"] = 920,
+			["counter"] = 1,
+		}, -- [36]
+		{
+			["message"] = "AceLocale-3.0-6: OmniCD: Missing entry for 'A new update is available. (%s)'",
+			["time"] = "2021/03/20 03:00:42",
+			["stack"] = "[string \"@Interface\\AddOns\\OmniCD\\Core\\load.lua\"]:122: in function <Interface\\AddOns\\OmniCD\\Core\\load.lua:113>",
+			["session"] = 1081,
+			["counter"] = 4,
+		}, -- [37]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'VuhDo' пыталась вызвать защищенную функцию 'PartyMemberFrame1:originalHide()'.",
 			["time"] = "2021/04/04 23:31:32",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `originalHide'\n[string \"@Interface\\FrameXML\\FrameLocks.lua\"]:101: in function <Interface\\FrameXML\\FrameLocks.lua:77>\n[string \"@Interface\\FrameXML\\FrameLocks.lua\"]:112: in function <Interface\\FrameXML\\FrameLocks.lua:105>\n[string \"@Interface\\FrameXML\\FrameLocks.lua\"]:130: in function `Hide'\n[string \"@Interface\\FrameXML\\PartyMemberFrame.lua\"]:9: in function `HidePartyFrame'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:135: in function `RaidOptionsFrame_UpdatePartyFrames'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1671: in function <Interface\\FrameXML\\UIParent.lua:1277>",
-			["session"] = 371,
-			["counter"] = 3,
-		}, -- [22]
+			["session"] = 1134,
+			["counter"] = 9,
+		}, -- [38]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] Модификация 'WorldQuestTracker' пыталась вызвать защищенную функцию 'UseQuestLogSpecialItem()'.",
+			["time"] = "2021/04/13 04:35:54",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `UseQuestLogSpecialItem'\n[string \"@Interface\\AddOns\\Blizzard_ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua\"]:95: in function <...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:88>",
+			["session"] = 1134,
+			["counter"] = 6,
+		}, -- [39]
+		{
+			["message"] = "...nterface\\AddOns\\TidyPlates_ThreatPlates\\Database.lua:97: attempt to index local 'unit_visibility' (a nil value)",
+			["time"] = "2021/06/07 21:59:29",
+			["locals"] = "full_unit_type = \"NeutralPet\"\nunit_visibility = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index local 'unit_visibility' (a nil value)\"\nTidyPlatesThreat = <table> {\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n Enable = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:294\n RegisterChatCommand = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:85\n EnableModule = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n modules = <table> {\n }\n GetModule = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:210\n IterateEmbeds = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:442\n defaultModuleLibraries = <table> {\n }\n OnEnable = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:387\n UnregisterChatCommand = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:111\n baseName = \"TidyPlates_ThreatPlates\"\n OnInitialize = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:333\n ConfigTableChanged = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Options.lua:9535\n Printf = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:69\n ProfChange = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Options.lua:9494\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n ChatCommandDebug = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Commands.lua:160\n ChatCommand = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Commands.lua:114\n CheckForFirstStartUp = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:203\n name = \"TidyPlatesThreat\"\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:564\n IsEnabled = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n orderedModules = <table> {\n }\n PLAYER_REGEN_ENABLED = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:536\n DisableModule = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:350\n ToggleNameplateModeEnemyUnits = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:470\n PLAYER_LOGIN = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:524\n PLAYER_ENTERING_WORLD = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:489\n MediaUpdate = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:427\n RegisterMessage = <function> defined @Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n GetArgs = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:144\n Print = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n SetRole = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Database.lua:83\n ToggleNameplateModeNeutralUnits = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:461\n ReloadTheme = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:163\n OnDisable = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:408\n IsModule = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:468\n db = <table> {\n }\n SetDefaultModuleState = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:387\n OpenOptions = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Options.lua:9539\n CheckForIncompatibleAddons = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:238\n SetEnabledState = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n RoleText = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:59\n enabl",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Database.lua\"]:97: in function <...nterface\\AddOns\\TidyPlates_ThreatPlates\\Database.lua:92>\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Styles\\Styles.lua\"]:140: in function <...ace\\AddOns\\TidyPlates_ThreatPlates\\Styles\\Styles.lua:136>\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Styles\\Styles.lua\"]:323: in function `SetStyle'\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua\"]:317: in function <...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:314>\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua\"]:357: in function <...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:344>\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua\"]:419: in function <...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:397>\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua\"]:1042: in function `?'\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua\"]:999: in function <...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:998>",
+			["session"] = 1164,
+			["counter"] = 2,
+		}, -- [40]
+		{
+			["message"] = "Interface\\FrameXML\\StackSplitFrame.lua:102: attempt to perform arithmetic on local 'text' (a string value)",
+			["time"] = "2021/06/26 19:47:13",
+			["locals"] = "self = StackSplitFrame {\n 0 = <userdata>\n typing = 0\n split = 20\n RightButton = <unnamed> {\n }\n ChooseFrameType = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:29\n minSplit = 20\n StackSplitText = <unnamed> {\n }\n MultiItemSplitBackground = <unnamed> {\n }\n OnKeyDown = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:141\n OnChar = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:101\n UpdateStackText = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:92\n LeftButton = <unnamed> {\n }\n OnHide = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:193\n owner = MerchantItem2ItemButton {\n }\n StackItemCountText = <unnamed> {\n }\n OkayButton = <unnamed> {\n }\n isMultiStack = true\n CancelButton = <unnamed> {\n }\n SingleItemSplitBackground = <unnamed> {\n }\n OnKeyUp = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:181\n maxStack = 200\n OpenStackSplitFrame = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:3\n down = <table> {\n }\n UpdateStackSplitFrame = <function> defined @Interface\\FrameXML\\StackSplitFrame.lua:64\n}\ntext = \"в\"\n(*temporary) = 200\n(*temporary) = 20\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'text' (a string value)\"\n",
+			["stack"] = "[string \"@Interface\\FrameXML\\StackSplitFrame.lua\"]:102: in function <Interface\\FrameXML\\StackSplitFrame.lua:101>",
+			["session"] = 1165,
+			["counter"] = 10,
+		}, -- [41]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'ExRT' пыталась вызвать защищенную функцию '<unnamed>:Show()'.",
+			["time"] = "2021/06/10 11:08:44",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\ExRT\\RaidCheck.lua\"]:2932: in function `Update'\n[string \"@Interface\\AddOns\\ExRT\\RaidCheck.lua\"]:3244: in function <Interface\\AddOns\\ExRT\\RaidCheck.lua:3228>",
+			["session"] = 1173,
+			["counter"] = 2,
+		}, -- [42]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'ExRT' пыталась вызвать защищенную функцию '<unnamed>:Hide()'.",
+			["time"] = "2021/04/06 23:13:14",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\ExRT\\RaidCheck.lua\"]:2934: in function `Update'\n[string \"@Interface\\AddOns\\ExRT\\RaidCheck.lua\"]:3244: in function <Interface\\AddOns\\ExRT\\RaidCheck.lua:3228>",
+			["session"] = 1179,
+			["counter"] = 22,
+		}, -- [43]
+		{
+			["message"] = "C stack overflow",
+			["time"] = "2021/03/20 15:32:21",
+			["locals"] = "(*temporary) = <function> defined @Interface\\FrameXML\\PartyMemberFrame.lua:13\n = <function> defined @Interface\\FrameXML\\PartyMemberFrame.lua:13\n = <function> defined @Interface\\AddOns\\VuhDo\\VuhDoGuiToolbox.lua:491\n",
+			["stack"] = "[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n...\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `ShowPartyFrame'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:138: in function `RaidOptionsFrame_UpdatePartyFrames'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1671: in function <Interface\\FrameXML\\UIParent.lua:1277>",
+			["session"] = 1179,
+			["counter"] = 1962,
+		}, -- [44]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] Модификация 'HandyNotes' пыталась вызвать защищенную функцию 'UseQuestLogSpecialItem()'.",
+			["time"] = "2021/05/07 15:01:30",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `UseQuestLogSpecialItem'\n[string \"@Interface\\AddOns\\Blizzard_ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua\"]:95: in function <...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:88>",
+			["session"] = 1187,
+			["counter"] = 5,
+		}, -- [45]
 		{
 			["message"] = "Interface\\AddOns\\GottaGoFastHistory\\History-История.lua:27: attempt to call field 'GetDate' (a nil value)",
 			["time"] = "2021/03/18 02:21:46",
 			["stack"] = "[string \"@Interface\\AddOns\\GottaGoFastHistory\\History-История.lua\"]:27: in function `StoreRun'\n[string \"@Interface\\AddOns\\GottaGoFastHistory\\Core.lua\"]:46: in function `?'\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\BugSack\\Libs\\AceComm-3.0\\AceComm-3.0-12.lua\"]:218: in function `OnReceiveMultipartLast'\n[string \"@Interface\\AddOns\\BugSack\\Libs\\AceComm-3.0\\AceComm-3.0-12.lua\"]:256: in function <...face\\AddOns\\BugSack\\Libs\\AceComm-3.0\\AceComm-3.0.lua:246>",
-			["session"] = 377,
-			["counter"] = 120,
-		}, -- [23]
+			["session"] = 1206,
+			["counter"] = 261,
+		}, -- [46]
+		{
+			["message"] = "Interface\\FrameXML\\ChatFrame.lua:1637: Usage: local setWasEquipped = C_EquipmentSet.UseEquipmentSet(equipmentSetID)",
+			["time"] = "2021/03/18 20:40:17",
+			["locals"] = "",
+			["stack"] = "[string \"=[C]\"]: in function `UseEquipmentSet'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:1637: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:5074: in function <Interface\\FrameXML\\ChatFrame.lua:5040>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4758: in function <Interface\\FrameXML\\ChatFrame.lua:4757>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3049: in function <Interface\\FrameXML\\ChatFrame.lua:3042>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:443: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:656: in function <Interface\\FrameXML\\SecureTemplates.lua:604>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n...\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3049: in function <Interface\\FrameXML\\ChatFrame.lua:3042>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:443: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:656: in function <Interface\\FrameXML\\SecureTemplates.lua:604>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n[string \"=(tail call)\"]: ?",
+			["session"] = 1216,
+			["counter"] = 19,
+		}, -- [47]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'TradeSkillMaster' tried to call the protected function 'MultiBarBottomLeft:SetShown()'.",
+			["time"] = "2021/06/30 01:49:49",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:36: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:68: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:171: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:139: in function <Interface\\FrameXML\\ActionBarController.lua:107>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>",
+			["session"] = 1221,
+			["counter"] = 1,
+		}, -- [48]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Toggle Friendly Headline View'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:29: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [49]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Toggle Neutral Headline View'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:30: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [50]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Toggle Enemy Headline View'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:31: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [51]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Top Left'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:95: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [52]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Top'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:96: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [53]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Top Right'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:97: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [54]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Left'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:98: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [55]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Center'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:99: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [56]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Right'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:100: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [57]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Bottom Left'",
+			["time"] = "2021/08/09 14:26:26",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Constants.lua\"]:101: in main chunk",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [58]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Unable to change the following console variable while in combat: '",
+			["time"] = "2021/08/09 14:26:36",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\CVarsManager.lua\"]:148: in function `OverwriteProtected'\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\CVarsManager.lua\"]:155: in function `OverwriteBoolProtected'\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua\"]:392: in function <Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:387>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:508: in function `UIParentLoadAddOn'\n[string \"@Interface\\AddOns\\Rarity\\Core\\Collections-Коллекции.lua\"]:63: in function `ScanToys'\n[string \"@Interface\\AddOns\\Rarity\\Core\\Collections-Коллекции.lua\"]:307: in function `ScanExistingItems'\n[string \"@Interface\\AddOns\\Rarity\\Core.lua\"]:175: in function `DoEnable'\n[string \"@Interface\\AddOns\\Rarity\\Core.lua\"]:151: in function <Interface\\AddOns\\Rarity\\Core.lua:150>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [59]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for 'Unable to change a setting while in combat.'",
+			["time"] = "2021/08/09 14:26:36",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua\"]:182: in function `ReloadTheme'\n[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua\"]:397: in function <Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua:387>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:508: in function `UIParentLoadAddOn'\n[string \"@Interface\\AddOns\\Rarity\\Core\\Collections-Коллекции.lua\"]:63: in function `ScanToys'\n[string \"@Interface\\AddOns\\Rarity\\Core\\Collections-Коллекции.lua\"]:307: in function `ScanExistingItems'\n[string \"@Interface\\AddOns\\Rarity\\Core.lua\"]:175: in function `DoEnable'\n[string \"@Interface\\AddOns\\Rarity\\Core.lua\"]:151: in function <Interface\\AddOns\\Rarity\\Core.lua:150>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...AddOns\\Bartender4\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [60]
+		{
+			["message"] = "AceLocale-3.0-6: TidyPlatesThreat: Missing entry for '|cff89f559Threat Plates:|r Welcome back |cff'",
+			["time"] = "2021/08/09 14:26:37",
+			["stack"] = "[string \"@Interface\\AddOns\\TidyPlates_ThreatPlates\\Core.lua\"]:526: in function `?'\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\DataStore\\libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...\\AddOns\\DataStore\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1236,
+			["counter"] = 1,
+		}, -- [61]
+		{
+			["message"] = "Interface\\AddOns\\TipTac\\ttCore.lua:731: attempt to call method 'SetBackdropColor' (a nil value)",
+			["time"] = "2021/11/09 16:52:43",
+			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.200000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n TextRight1 = GameTooltipTextRight1 {\n }\n SetHeirloomByItemID = <function> defined =[C]:-1\n ClearLines = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n SetExistingSocketGem = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetItemKey = <function> defined =[C]:-1\n default = 1\n SetUnitDebuff = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6358\n SetQuestItem = <function> defined =[C]:-1\n textRight2Font = \"GameTooltipText\"\n SetInboxItem = <function> defined =[C]:-1\n SetToyByItemID = <function> defined =[C]:-1\n TextLeft1 = GameTooltipTextLeft1 {\n }\n SetMerchantCostItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetInventoryItem = <function> defined =[C]:-1\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n layoutType = \"TooltipDefaultLayout\"\n shoppingTooltips = <table> {\n }\n SetWeeklyReward = <function> defined =[C]:-1\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6375\n SetQuestLogItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n BottomOverlay = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n NineSlice = <unnamed> {\n }\n textLeft2Font = \"GameTooltipText\"\n SetVoidItem = <function> defined =[C]:-1\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetBuybackItem = <function> defined =[C]:-1\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetBagItem = <function> defined =[C]:-1\n needsReset = true\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n Show = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n}\n(*temporary) = nil\n(*temporary) = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.200000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n",
+			["stack"] = "[string \"@Interface\\AddOns\\TipTac\\ttCore.lua\"]:731: in function <Interface\\AddOns\\TipTac\\ttCore.lua:718>\n[string \"=[C]\"]: ?",
+			["session"] = 1267,
+			["counter"] = 3,
+		}, -- [62]
+		{
+			["message"] = "Interface\\AddOns\\TipTac\\ttCore.lua:750: attempt to call method 'SetBackdropColor' (a nil value)",
+			["time"] = "2021/11/09 16:52:43",
+			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.188000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n TextRight1 = GameTooltipTextRight1 {\n }\n SetHeirloomByItemID = <function> defined =[C]:-1\n ClearLines = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n SetExistingSocketGem = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetItemKey = <function> defined =[C]:-1\n default = 1\n SetUnitDebuff = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6358\n SetQuestItem = <function> defined =[C]:-1\n textRight2Font = \"GameTooltipText\"\n SetInboxItem = <function> defined =[C]:-1\n SetToyByItemID = <function> defined =[C]:-1\n TextLeft1 = GameTooltipTextLeft1 {\n }\n SetMerchantCostItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetInventoryItem = <function> defined =[C]:-1\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n layoutType = \"TooltipDefaultLayout\"\n shoppingTooltips = <table> {\n }\n SetWeeklyReward = <function> defined =[C]:-1\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6375\n SetQuestLogItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n BottomOverlay = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n NineSlice = <unnamed> {\n }\n textLeft2Font = \"GameTooltipText\"\n SetVoidItem = <function> defined =[C]:-1\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetBuybackItem = <function> defined =[C]:-1\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetBagItem = <function> defined =[C]:-1\n needsReset = true\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n Show = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n}\nelapsed = 0.012000\ngttAnchor = \"ANCHOR_NONE\"\n(*temporary) = nil\n(*temporary) = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.188000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> define",
+			["stack"] = "[string \"@Interface\\AddOns\\TipTac\\ttCore.lua\"]:750: in function <Interface\\AddOns\\TipTac\\ttCore.lua:736>\n[string \"=[C]\"]: ?",
+			["session"] = 1267,
+			["counter"] = 52,
+		}, -- [63]
+		{
+			["message"] = "File Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua is empty.",
+			["time"] = "2021/03/18 00:10:28",
+			["session"] = 1268,
+			["counter"] = 495,
+		}, -- [64]
 	},
 }

@@ -3,8 +3,8 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "9.0.5",
-	["_OPieVersion"] = "Xe 2a (3.104)",
+	["_GameVersion"] = "9.1.5",
+	["_OPieVersion"] = "Xe 6 (3.106)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
@@ -111,35 +111,40 @@ OneRing_Config = {
 					["sliceToken"] = "ABue43sEX7r",
 				}, -- [12]
 				{
+					"equipmentset", -- [1]
+					"Twylight", -- [2]
+					["sliceToken"] = "ABuezx0YDSe",
+				}, -- [13]
+				{
 					"item", -- [1]
 					65360, -- [2]
 					["sliceToken"] = "ABue43OVVje",
-				}, -- [13]
+				}, -- [14]
 				{
 					"toy", -- [1]
 					165802, -- [2]
 					["sliceToken"] = "ABue4VJN6dr",
-				}, -- [14]
+				}, -- [15]
 				{
 					"specset", -- [1]
 					1, -- [2]
 					["sliceToken"] = "ABuej7IMLNu",
-				}, -- [15]
+				}, -- [16]
 				{
 					"specset", -- [1]
 					2, -- [2]
 					["sliceToken"] = "ABuej7B7Bte",
-				}, -- [16]
+				}, -- [17]
 				{
 					"item", -- [1]
 					46874, -- [2]
 					["sliceToken"] = "ABueksMGpge",
-				}, -- [17]
+				}, -- [18]
 				{
 					"item", -- [1]
 					167075, -- [2]
 					["sliceToken"] = "ABuek5BLD7e",
-				}, -- [18]
+				}, -- [19]
 				["name"] = "Specializations and Travel",
 				["save"] = true,
 				["hotkey"] = "ALT-H",
@@ -185,6 +190,21 @@ OneRing_Config = {
 					166461, -- [2]
 					["sliceToken"] = "ABue43sEX7t",
 				}, -- [8]
+				{
+					"item", -- [1]
+					144341, -- [2]
+					["sliceToken"] = "ABuel/XW7oe",
+				}, -- [9]
+				{
+					"item", -- [1]
+					87216, -- [2]
+					["sliceToken"] = "ABuezpUEv4e",
+				}, -- [10]
+				{
+					"item", -- [1]
+					187603, -- [2]
+					["sliceToken"] = "ABue55fLnCe",
+				}, -- [11]
 				["name"] = "Extras",
 				["save"] = true,
 			},

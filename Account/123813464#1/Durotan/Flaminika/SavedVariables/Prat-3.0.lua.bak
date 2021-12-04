@@ -587,7 +587,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
+			["headIndex"] = 1,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -599,6 +599,17 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1428543.511,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -656,11 +667,10 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|Hpratcopy|h[01:53:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T236473:14|tMechanical Pandaren Dragonling is now your active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820474.978,
-					["serverTime"] = 1593730421,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -668,14 +678,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730421,
 				}, -- [1]
 				{
 					["message"] = "|Hpratcopy|h[01:53:43]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T136040:14|tFangs is now enemy active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820475.738,
-					["serverTime"] = 1593730422,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -683,14 +693,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730422,
 				}, -- [2]
 				{
 					["message"] = "|Hpratcopy|h[01:53:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 1",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820477.846,
-					["serverTime"] = 1593730424,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -698,14 +708,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730424,
 				}, -- [3]
 				{
 					["message"] = "|Hpratcopy|h[01:53:46]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1400:276:309|h[Breath]|h|r dealt 347 damage to enemy |T136040:14|tFangs.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820479.136,
-					["serverTime"] = 1593730425,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -713,14 +723,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730425,
 				}, -- [4]
 				{
 					["message"] = "|Hpratcopy|h[01:53:46]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Enemy |T136040:14|tFangs died.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820479.136,
-					["serverTime"] = 1593730425,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -728,14 +738,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730425,
 				}, -- [5]
 				{
 					["message"] = "|Hpratcopy|h[01:53:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1400:276:309|h[Breath]|h|r applied |T618972:14|t|cff4e96f7|HbattlePetAbil:237:1400:276:309|h[Beast]|h|r to enemy |T136040:14|tFangs.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820480.6460000001,
-					["serverTime"] = 1593730427,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -743,14 +753,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730427,
 				}, -- [6]
 				{
 					["message"] = "|Hpratcopy|h[01:53:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 1",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820481.656,
-					["serverTime"] = 1593730428,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -758,14 +768,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730428,
 				}, -- [7]
 				{
 					["message"] = "|Hpratcopy|h[01:53:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T136040:14|tSlither is now enemy active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820481.656,
-					["serverTime"] = 1593730428,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -773,14 +783,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730428,
 				}, -- [8]
 				{
 					["message"] = "|Hpratcopy|h[01:53:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 2",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820485.991,
-					["serverTime"] = 1593730432,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -788,14 +798,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730432,
 				}, -- [9]
 				{
 					["message"] = "|Hpratcopy|h[01:53:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T134015:14|tSinister Squashling is now your active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820485.991,
-					["serverTime"] = 1593730432,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -803,14 +813,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730432,
 				}, -- [10]
 				{
 					["message"] = "|Hpratcopy|h[01:53:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T236177:14|t|cff4e96f7|HbattlePetAbil:156:194:19:19|h[Vicious Fang]|h|r dealt 29 damage to your |T134015:14|tSinister Squashling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820489.232,
-					["serverTime"] = 1593730435,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -818,14 +828,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730435,
 				}, -- [11]
 				{
 					["message"] = "|Hpratcopy|h[01:54:00]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 3",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820493.0040000001,
-					["serverTime"] = 1593730439,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -833,14 +843,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730439,
 				}, -- [12]
 				{
 					["message"] = "|Hpratcopy|h[01:54:01]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:235:37:31|h[Burn]|h|r dealt 50 damage to enemy |T136040:14|tSlither.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820494.164,
-					["serverTime"] = 1593730440,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -848,14 +858,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730440,
 				}, -- [13]
 				{
 					["message"] = "|Hpratcopy|h[01:54:03]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T132127:14|t|cff4e96f7|HbattlePetAbil:110:144:19:19|h[Bite]|h|r dealt 39 damage to your |T134015:14|tSinister Squashling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820496.434,
-					["serverTime"] = 1593730442,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -863,14 +873,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730442,
 				}, -- [14]
 				{
 					["message"] = "|Hpratcopy|h[01:54:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 4",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820500.034,
-					["serverTime"] = 1593730446,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -878,14 +888,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730446,
 				}, -- [15]
 				{
 					["message"] = "|Hpratcopy|h[01:54:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T236473:14|tMechanical Pandaren Dragonling is now your active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820500.034,
-					["serverTime"] = 1593730446,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -893,14 +903,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730446,
 				}, -- [16]
 				{
 					["message"] = "|Hpratcopy|h[01:54:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T236177:14|t|cff4e96f7|HbattlePetAbil:156:144:19:19|h[Vicious Fang]|h|r dealt 39 damage to your |T236473:14|tMechanical Pandaren Dragonling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820503.264,
-					["serverTime"] = 1593730449,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -908,14 +918,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730449,
 				}, -- [17]
 				{
 					["message"] = "|Hpratcopy|h[01:54:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 5",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820505.377,
-					["serverTime"] = 1593730451,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -923,14 +933,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730451,
 				}, -- [18]
 				{
 					["message"] = "|Hpratcopy|h[01:54:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1361:276:309|h[Breath]|h|r dealt 269 damage to enemy |T136040:14|tSlither.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820506.9770000001,
-					["serverTime"] = 1593730453,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -938,14 +948,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730453,
 				}, -- [19]
 				{
 					["message"] = "|Hpratcopy|h[01:54:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Enemy |T136040:14|tSlither died.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820506.9770000001,
-					["serverTime"] = 1593730453,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -953,14 +963,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730453,
 				}, -- [20]
 				{
 					["message"] = "|Hpratcopy|h[01:54:15]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1361:276:309|h[Breath]|h|r applied |T618972:14|t|cff4e96f7|HbattlePetAbil:237:1361:276:309|h[Beast]|h|r to enemy |T136040:14|tSlither.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820508.4770000001,
-					["serverTime"] = 1593730454,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -968,14 +978,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730454,
 				}, -- [21]
 				{
 					["message"] = "|Hpratcopy|h[01:54:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:1381:276:309|h[Battle Recovery]|h|r healed 20 damage from your |T236473:14|tMechanical Pandaren Dragonling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820510.411,
-					["serverTime"] = 1593730456,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -983,14 +993,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730456,
 				}, -- [22]
 				{
 					["message"] = "|Hpratcopy|h[01:54:19]|h |Hchannel:PET_BATTLE_INFO|h[Pet Battle]|h: Your |T134015:14|tSinister Squashling gains 264 XP.",
-					["b"] = 0.364705890417099,
 					["r"] = 0.8823530077934265,
+					["b"] = 0.364705890417099,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820511.944,
-					["serverTime"] = 1593730458,
 					["extraData"] = {
 						62, -- [1]
 						false, -- [2]
@@ -998,14 +1008,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730458,
 				}, -- [23]
 				{
 					["message"] = "|Hpratcopy|h[01:54:19]|h |Hchannel:PET_BATTLE_INFO|h[Pet Battle]|h: Your |T134015:14|tSinister Squashling has reached Level 4!",
-					["b"] = 0.364705890417099,
 					["r"] = 0.8823530077934265,
+					["b"] = 0.364705890417099,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820511.944,
-					["serverTime"] = 1593730458,
 					["extraData"] = {
 						62, -- [1]
 						false, -- [2]
@@ -1013,14 +1023,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730458,
 				}, -- [24]
 				{
 					["message"] = "|Hpratcopy|h[01:54:19]|h |Hchannel:PET_BATTLE_INFO|h[Pet Battle]|h: Your |T134015:14|tSinister Squashling has gained the ability |T134188:14|t|cff4e96f7|HbattlePetAbil:303:318:49:41|h[Plant]|h|r.",
-					["b"] = 0.364705890417099,
 					["r"] = 0.8823530077934265,
+					["b"] = 0.364705890417099,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820511.944,
-					["serverTime"] = 1593730458,
 					["extraData"] = {
 						62, -- [1]
 						false, -- [2]
@@ -1028,14 +1038,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730458,
 				}, -- [25]
 				{
 					["message"] = "|Hpratcopy|h[01:54:19]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:318:37:31|h[Battle Recovery]|h|r healed 122 damage from your |T134015:14|tSinister Squashling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 820511.944,
-					["serverTime"] = 1593730458,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1043,14 +1053,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593730458,
 				}, -- [26]
 				{
 					["message"] = "|Hpratcopy|h[02:55:06]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T236473:14|tMechanical Pandaren Dragonling is now your active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824159.112,
-					["serverTime"] = 1593734105,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1058,14 +1068,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734105,
 				}, -- [27]
 				{
 					["message"] = "|Hpratcopy|h[02:55:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T134065:14|tFoe Reaper 800 is now enemy active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824159.872,
-					["serverTime"] = 1593734106,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1073,14 +1083,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734106,
 				}, -- [28]
 				{
 					["message"] = "|Hpratcopy|h[02:55:09]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 1",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824162.0750000001,
-					["serverTime"] = 1593734108,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1088,14 +1098,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734108,
 				}, -- [29]
 				{
 					["message"] = "|Hpratcopy|h[02:55:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1381:276:309|h[Breath]|h|r dealt 558 damage to enemy |T134065:14|tFoe Reaper 800 (Critical).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824163.365,
-					["serverTime"] = 1593734109,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1103,14 +1113,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734109,
 				}, -- [30]
 				{
 					["message"] = "|Hpratcopy|h[02:55:10]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Enemy |T134065:14|tFoe Reaper 800 died.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824163.365,
-					["serverTime"] = 1593734109,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1118,14 +1128,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734109,
 				}, -- [31]
 				{
 					["message"] = "|Hpratcopy|h[02:55:13]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:49:29:26|h[Failsafe]|h|r healed 49 damage from enemy |T134065:14|tFoe Reaper 800.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824165.895,
-					["serverTime"] = 1593734112,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1133,14 +1143,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734112,
 				}, -- [32]
 				{
 					["message"] = "|Hpratcopy|h[02:55:13]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:49:29:26|h[Failsafe]|h|r applied |T618979:14|t|cff4e96f7|HbattlePetAbil:244:49:29:26|h[Mechanical]|h|r to enemy |T134065:14|tFoe Reaper 800.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824166.145,
-					["serverTime"] = 1593734112,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1148,14 +1158,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734112,
 				}, -- [33]
 				{
 					["message"] = "|Hpratcopy|h[02:55:16]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T252187:14|t|cff4e96f7|HbattlePetAbil:390:49:29:26|h[Demolish]|h|r dealt 98 damage to your |T236473:14|tMechanical Pandaren Dragonling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824169.425,
-					["serverTime"] = 1593734115,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1163,14 +1173,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734115,
 				}, -- [34]
 				{
 					["message"] = "|Hpratcopy|h[02:55:19]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 2",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824171.995,
-					["serverTime"] = 1593734118,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1178,14 +1188,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734118,
 				}, -- [35]
 				{
 					["message"] = "|Hpratcopy|h[02:55:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1283:276:309|h[Breath]|h|r dealt 287 damage to enemy |T134065:14|tFoe Reaper 800.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824173.375,
-					["serverTime"] = 1593734119,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1193,14 +1203,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734119,
 				}, -- [36]
 				{
 					["message"] = "|Hpratcopy|h[02:55:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Enemy |T134065:14|tFoe Reaper 800 died.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824173.375,
-					["serverTime"] = 1593734119,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1208,14 +1218,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734119,
 				}, -- [37]
 				{
 					["message"] = "|Hpratcopy|h[02:55:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 2",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824175.895,
-					["serverTime"] = 1593734122,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1223,14 +1233,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734122,
 				}, -- [38]
 				{
 					["message"] = "|Hpratcopy|h[02:55:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135996:14|tClucks is now enemy active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824175.895,
-					["serverTime"] = 1593734122,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1238,14 +1248,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734122,
 				}, -- [39]
 				{
 					["message"] = "|Hpratcopy|h[02:55:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 3",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824179.005,
-					["serverTime"] = 1593734125,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1253,14 +1263,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734125,
 				}, -- [40]
 				{
 					["message"] = "|Hpratcopy|h[02:55:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1283:276:309|h[Breath]|h|r dealt 321 damage to enemy |T135996:14|tClucks.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824180.285,
-					["serverTime"] = 1593734126,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1268,14 +1278,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734126,
 				}, -- [41]
 				{
 					["message"] = "|Hpratcopy|h[02:55:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Enemy |T135996:14|tClucks died.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824180.285,
-					["serverTime"] = 1593734126,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1283,14 +1293,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734126,
 				}, -- [42]
 				{
 					["message"] = "|Hpratcopy|h[02:55:29]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T618976:14|t|cff4e96f7|HbattlePetAbil:239:0:29:44|h[Flying]|h|r fades from enemy |T135996:14|tClucks.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824181.795,
-					["serverTime"] = 1593734128,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1298,14 +1308,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734128,
 				}, -- [43]
 				{
 					["message"] = "|Hpratcopy|h[02:55:30]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 3",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824182.805,
-					["serverTime"] = 1593734129,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1313,14 +1323,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734129,
 				}, -- [44]
 				{
 					["message"] = "|Hpratcopy|h[02:55:30]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T647701:14|tTeensy is now enemy active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824182.805,
-					["serverTime"] = 1593734129,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1328,14 +1338,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734129,
 				}, -- [45]
 				{
 					["message"] = "|Hpratcopy|h[02:55:34]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 4",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824187.015,
-					["serverTime"] = 1593734133,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1343,14 +1353,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734133,
 				}, -- [46]
 				{
 					["message"] = "|Hpratcopy|h[02:55:34]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T134015:14|tSinister Squashling is now your active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824187.015,
-					["serverTime"] = 1593734133,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1358,14 +1368,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734133,
 				}, -- [47]
 				{
 					["message"] = "|Hpratcopy|h[02:55:37]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T611425:14|t|cff4e96f7|HbattlePetAbil:119:240:28:28|h[Scratch]|h|r dealt 48 damage to your |T134015:14|tSinister Squashling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824189.8150000001,
-					["serverTime"] = 1593734136,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1373,14 +1383,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734136,
 				}, -- [48]
 				{
 					["message"] = "|Hpratcopy|h[02:55:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 5",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824192.025,
-					["serverTime"] = 1593734138,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1388,14 +1398,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734138,
 				}, -- [49]
 				{
 					["message"] = "|Hpratcopy|h[02:55:40]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:270:49:41|h[Burn]|h|r dealt 54 damage to enemy |T647701:14|tTeensy (Weak).",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824193.185,
-					["serverTime"] = 1593734139,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1403,14 +1413,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734139,
 				}, -- [50]
 				{
 					["message"] = "|Hpratcopy|h[02:55:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T611425:14|t|cff4e96f7|HbattlePetAbil:119:186:28:28|h[Scratch]|h|r dealt 48 damage to your |T134015:14|tSinister Squashling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824195.355,
-					["serverTime"] = 1593734141,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1418,14 +1428,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734141,
 				}, -- [51]
 				{
 					["message"] = "|Hpratcopy|h[02:55:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 6",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824198.035,
-					["serverTime"] = 1593734144,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1433,14 +1443,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734144,
 				}, -- [52]
 				{
 					["message"] = "|Hpratcopy|h[02:55:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T236473:14|tMechanical Pandaren Dragonling is now your active pet.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824198.035,
-					["serverTime"] = 1593734144,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1448,14 +1458,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734144,
 				}, -- [53]
 				{
 					["message"] = "|Hpratcopy|h[02:55:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T134294:14|t|cff4e96f7|HbattlePetAbil:360:186:28:28|h[Flurry]|h|r dealt 24 damage to your |T236473:14|tMechanical Pandaren Dragonling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824200.925,
-					["serverTime"] = 1593734147,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1463,14 +1473,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734147,
 				}, -- [54]
 				{
 					["message"] = "|Hpratcopy|h[02:55:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 7",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824203.035,
-					["serverTime"] = 1593734149,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1478,14 +1488,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734149,
 				}, -- [55]
 				{
 					["message"] = "|Hpratcopy|h[02:55:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T135807:14|t|cff4e96f7|HbattlePetAbil:115:1259:276:309|h[Breath]|h|r dealt 367 damage to enemy |T647701:14|tTeensy.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824204.595,
-					["serverTime"] = 1593734150,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1493,14 +1503,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734150,
 				}, -- [56]
 				{
 					["message"] = "|Hpratcopy|h[02:55:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Enemy |T647701:14|tTeensy died.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824204.595,
-					["serverTime"] = 1593734150,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1508,14 +1518,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734150,
 				}, -- [57]
 				{
 					["message"] = "|Hpratcopy|h[02:55:55]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:1320:276:309|h[Battle Recovery]|h|r healed 61 damage from your |T236473:14|tMechanical Pandaren Dragonling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824208.015,
-					["serverTime"] = 1593734154,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1523,14 +1533,14 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734154,
 				}, -- [58]
 				{
 					["message"] = "|Hpratcopy|h[02:55:56]|h |Hchannel:PET_BATTLE_INFO|h[Pet Battle]|h: Your |T134015:14|tSinister Squashling gains 358 XP.",
-					["b"] = 0.364705890417099,
 					["r"] = 0.8823530077934265,
+					["b"] = 0.364705890417099,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824209.535,
-					["serverTime"] = 1593734155,
 					["extraData"] = {
 						62, -- [1]
 						false, -- [2]
@@ -1538,14 +1548,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734155,
 				}, -- [59]
 				{
 					["message"] = "|Hpratcopy|h[02:55:56]|h |Hchannel:PET_BATTLE_INFO|h[Pet Battle]|h: Your |T134015:14|tSinister Squashling has reached Level 6!",
-					["b"] = 0.364705890417099,
 					["r"] = 0.8823530077934265,
+					["b"] = 0.364705890417099,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824209.535,
-					["serverTime"] = 1593734155,
 					["extraData"] = {
 						62, -- [1]
 						false, -- [2]
@@ -1553,14 +1563,14 @@ Prat3HighCPUPerCharDB = {
 						32, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734155,
 				}, -- [60]
 				{
 					["message"] = "|Hpratcopy|h[02:55:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:428:49:41|h[Battle Recovery]|h|r healed 206 damage from your |T134015:14|tSinister Squashling.",
-					["b"] = 0.6705882549285889,
 					["r"] = 0.9058824181556702,
+					["b"] = 0.6705882549285889,
 					["g"] = 0.8705883026123047,
 					["timestamp"] = 824209.535,
-					["serverTime"] = 1593734155,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1568,6 +1578,7 @@ Prat3HighCPUPerCharDB = {
 						30, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1593734155,
 				}, -- [61]
 			},
 			["headIndex"] = 61,
@@ -1640,7 +1651,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 53,
+			["headIndex"] = 12,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -1653,654 +1664,95 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[20:33:08]|h Total time played: 0 |4day:days;, 3 |4hour:hours;, 19 |4minute:minutes;, 45 |4second:seconds;",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["serverTime"] = 1593797589,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:25]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.125 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
 					["r"] = 1,
+					["timestamp"] = 1428543.511,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[20:33:08]|h Time played this level: 0 |4day:days;, 0 |4hour:hours;, 7 |4minute:minutes;, 16 |4second:seconds;",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["serverTime"] = 1593797589,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:25]|h |cff9900ffWeakAuras:|r  There are 4 updates to your auras ready to be installed!",
+					["timestamp"] = 1428543.511,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[20:33:40]|h Quest accepted: Orphans Like Cookies Too!",
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1593797621,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:30]|h |cff33ff99HandyNotes|r: The Midsummer Fire Festival has begun!  Locations of bonfires are now marked on your map.",
+					["timestamp"] = 1428556.693,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[20:34:03]|h Midsummer Celebrant says: The Horde have tried to steal our flames.  I hope we return the favor.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797644,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:31]|h |cffffd839TSM|r: TSM doesn't currently have any AuctionDB pricing data for your realm. We recommend you download the TSM Desktop Application from |cff79a2ffhttps://tradeskillmaster.com|r to automatically update your AuctionDB data (and auto-backup your TSM settings).",
+					["timestamp"] = 1428556.693,
+					["serverTime"] = 1625119111,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[20:34:12]|h Adam says: Shhh! You're scaring the fish away.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797653,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:32]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 1428556.693,
+					["serverTime"] = 1625119112,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[20:34:55]|h Donna says: Whoops!",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797696,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:32]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 1428556.693,
+					["serverTime"] = 1625119112,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[20:34:55]|h William says: No fair!  Gimme back my gorilla!!",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797696,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:32]|h |cffffd700Titan Panel|r|cff20ff20 5.20.4.90005|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r|cff20ff20|r",
+					["timestamp"] = 1428556.693,
+					["serverTime"] = 1625119112,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[20:35:08]|h Ben Trias says: Enjoying the Midsummer Fire Festival, rogue?",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797709,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:32]|h |cffffe566{VuhDo}|r Profile successfully loaded: Flaminika(2): Фламиника: Vuhdo'esque",
 					["r"] = 1,
+					["serverTime"] = 1625119112,
+					["timestamp"] = 1428556.693,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[20:35:24]|h Thomas Miller says: Fresh bread for sale!",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797725,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:32]|h |cffffe566{VuhDo}|r auto model sanity: VUHDO_PANEL_SETUP: created 1, repaired 0 values.",
 					["r"] = 1,
+					["serverTime"] = 1625119112,
+					["timestamp"] = 1428556.693,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[20:35:27]|h Kyra Boucher says: Enjoying the Midsummer Fire Festival, rogue?",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797728,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:33]|h Total time played: 0 |4day:days;, 3 |4hour:hours;, 49 |4minute:minutes;, 47 |4second:seconds;",
+					["serverTime"] = 1625119114,
 					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1428559.529,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[20:36:10]|h Donna says: I have your gorilla! Nyah nyah!",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797771,
-					["timestamp"] = 929378.672,
-					["g"] = 1,
+					["message"] = "|Hpratcopy|h[08:58:33]|h Time played this level: 0 |4day:days;, 0 |4hour:hours;, 37 |4minute:minutes;, 18 |4second:seconds;",
+					["serverTime"] = 1625119114,
 					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1428559.529,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[20:36:10]|h William says: WAAAHHH!!!",
+					["message"] = "|Hpratcopy|h[08:58:49]|h Midsummer Celebrant says: The Alliance fires burn strong and true!",
+					["serverTime"] = 1625119130,
+					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1593797771,
-					["timestamp"] = 929378.672,
+					["timestamp"] = 1428575.98,
 					["g"] = 1,
-					["r"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [12]
-				{
-					["message"] = "|Hpratcopy|h[20:36:39]|h You receive item: |cffffffff|Hitem:57246::::::::22:259::::::|h[Confectioners' Sugar]|h|r.",
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9450981020927429,
-					["serverTime"] = 1593797800,
-					["timestamp"] = 929378.672,
-					["g"] = 0.8509804606437683,
-					["r"] = 0.9333333969116211,
-				}, -- [13]
-				{
-					["message"] = "|Hpratcopy|h[20:36:40]|h You receive item: |cffffffff|Hitem:57246::::::::22:259::::::|h[Confectioners' Sugar]|h|r.",
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9450981020927429,
-					["serverTime"] = 1593797801,
-					["timestamp"] = 929378.672,
-					["g"] = 0.8509804606437683,
-					["r"] = 0.9333333969116211,
-				}, -- [14]
-				{
-					["message"] = "|Hpratcopy|h[21:08:57]|h Total time played: 0 |4day:days;, 3 |4hour:hours;, 24 |4minute:minutes;, 8 |4second:seconds;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593799738,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [15]
-				{
-					["message"] = "|Hpratcopy|h[21:08:57]|h Time played this level: 0 |4day:days;, 0 |4hour:hours;, 11 |4minute:minutes;, 39 |4second:seconds;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593799738,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [16]
-				{
-					["message"] = "|Hpratcopy|h[21:13:41]|h You are now Away: AFK",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800022,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "|Hpratcopy|h[21:14:58]|h Daphne Funkybeats says: Pull up a stool and join me for a drink or two, friend. Hey, where'd all the stools go?",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800099,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [18]
-				{
-					["message"] = "|Hpratcopy|h[21:15:05]|h You are no longer Away.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800106,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[21:15:20]|h You receive item: |cffffffff|Hitem:57246::::::::22:259::::::|h[Confectioners' Sugar]|h|r.",
-					["b"] = 0.9450981020927429,
-					["r"] = 0.9333333969116211,
-					["g"] = 0.8509804606437683,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800121,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[21:18:34]|h You receive loot: |cffffffff|Hitem:57246::::::::22:259::::::|h[Confectioners' Sugar]|h|r.",
-					["b"] = 0.9450981020927429,
-					["r"] = 0.9333333969116211,
-					["g"] = 0.8509804606437683,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800315,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[21:22:21]|h Gil says: I wanna see the Mage Tower.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800542,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[21:22:33]|h Gil says: I wanna see the Mage Tower.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800554,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [23]
-				{
-					["message"] = "|Hpratcopy|h[21:23:19]|h Billy says: I heard that there are these huge fish that can walk on land to hunt, and eat people!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800600,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [24]
-				{
-					["message"] = "|Hpratcopy|h[21:23:22]|h Adam says: Maybe we should go to the bridge and fish.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800603,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [25]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h You gain 10200 experience.",
-					["b"] = 1,
-					["r"] = 0.4352941513061523,
-					["g"] = 0.4352941513061523,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [26]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h Reputation with Stormwind increased by 275.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-				}, -- [27]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h Orphans Like Cookies Too! completed.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [28]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h Experience gained: 10200.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [29]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h Received 14 Silver.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [30]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h |cffd8d8d8[|r|Hplayer:Flaminika-Durotan:564:ACHIEVEMENT|h|cffd8bc3f22|r:|cfffef367Flaminika|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:973:Player-535-08E5A451:1:7:3:20:4294967295:4294967295:4294967295:4294967295|h[5 Daily Quests Completed]|h|r |cffffffff(|rCompleted 3/7/20|cffffffff)|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-				}, -- [31]
-				{
-					["message"] = "|Hpratcopy|h[21:23:23]|h Your skill in Cooking has increased to 3.",
-					["b"] = 1,
-					["r"] = 0.3333333432674408,
-					["g"] = 0.3333333432674408,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800604,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						13, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-				}, -- [32]
-				{
-					["message"] = "|Hpratcopy|h[21:23:24]|h You receive currency: |cffffffff|Hcurrency:81:0|h[Epicurean's Award]|h|r x1.",
-					["b"] = 0.8274510502815247,
-					["r"] = 0.1372549086809158,
-					["g"] = 0.7019608020782471,
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593800605,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						15, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-				}, -- [33]
-				{
-					["message"] = "0 |4Tag:Tage;, 10 |4Stunde:Stunden;, 45 |4Minute:Minuten;, 21 |4Sekunde:Sekunden;",
-					["timestamp"] = 929378.672,
-				}, -- [34]
-				{
-					["message"] = "========== Ende des Zurückblättern ==========",
-					["timestamp"] = 929378.672,
-				}, -- [35]
-				{
-					["message"] = "|Hpratcopy|h[08:08:41]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.113 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy.",
-					["r"] = 1,
-					["timestamp"] = 929365.759,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [36]
-				{
-					["message"] = "|Hpratcopy|h[08:08:47]|h |cff33ff99HandyNotes|r: The Midsummer Fire Festival has begun!  Locations of bonfires are now marked on your map.",
-					["timestamp"] = 929378.672,
-				}, -- [37]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cff33ff99TradeSkillMaster|r: TSM doesn't currently have any AuctionDB pricing data for your realm. We recommend you download the TSM Desktop Application from |cff99ffffhttp://tradeskillmaster.com|r to automatically update your AuctionDB data (and auto-backup your TSM settings).",
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593839327,
-				}, -- [38]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593839327,
-				}, -- [39]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593839327,
-				}, -- [40]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cffffd700Titan Panel|r|cff20ff20 5.18.7.80300|r|cffffd700|cffffd700 vom |cffff8c00Titan Panel Development Team|r|cff20ff20|r",
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593839327,
-				}, -- [41]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cffffd700<Titan> |r|cff20ff20Registriere Titan Panel Plugins...|r",
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593839327,
-				}, -- [42]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cffffd700<Titan> |r|cff20ff20Registrationsprozess abgeschlossen. 28|r",
-					["timestamp"] = 929378.672,
-					["serverTime"] = 1593839327,
-				}, -- [43]
-				{
-					["message"] = "|Hpratcopy|h[08:08:48]|h |cffffe566{VuhDo}|r Profil geladen: Flaminika(2): Фламиника: Vuhdo'esque",
-					["r"] = 1,
-					["serverTime"] = 1593839327,
-					["timestamp"] = 929378.672,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [44]
-				{
-					["message"] = "|Hpratcopy|h[08:08:49]|h Gesamte Spielzeit: 0 |4Tag:Tage;, 3 |4Stunde:Stunden;, 38 |4Minute:Minuten;, 46 |4Sekunde:Sekunden;",
-					["serverTime"] = 1593839328,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 929381.444,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[08:08:49]|h Zeit auf dieser Stufe gespielt: 0 |4Tag:Tage;, 0 |4Stunde:Stunden;, 26 |4Minute:Minuten;, 17 |4Sekunde:Sekunden;",
-					["serverTime"] = 1593839328,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 929381.444,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [46]
-				{
-					["message"] = "|Hpratcopy|h[08:09:19]|h |cff33ff99TellMeWhen|r: TMW is now locked. Type /tmw to enter config mode again.",
-					["timestamp"] = 929410.638,
-					["serverTime"] = 1593839358,
-				}, -- [47]
-				{
-					["message"] = "|Hpratcopy|h[08:09:22]|h Billy sagt: Ob da irgendwelche Fische drin sind?",
-					["serverTime"] = 1593839361,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929414.212,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [48]
-				{
-					["message"] = "|Hpratcopy|h[08:09:25]|h Adam sagt: Lügner!",
-					["serverTime"] = 1593839364,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929416.642,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [49]
-				{
-					["message"] = "|Hpratcopy|h[08:10:54]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5043::::::::22:259::::::|h[Geschenk mit rotem Band]|h|r.",
-					["serverTime"] = 1593839453,
-					["r"] = 0.9333333969116211,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929506.444,
-					["g"] = 0.8509804606437683,
-					["b"] = 0.9450981020927429,
-				}, -- [50]
-				{
-					["message"] = "|Hpratcopy|h[08:10:57]|h Ihr bekommt einen Gegenstand: |cffffffff|Hitem:5043::::::::22:259::::::|h[Geschenk mit rotem Band]|h|r.",
-					["serverTime"] = 1593839456,
-					["r"] = 0.9333333969116211,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929508.571,
-					["g"] = 0.8509804606437683,
-					["b"] = 0.9450981020927429,
-				}, -- [51]
-				{
-					["message"] = "|Hpratcopy|h[08:10:58]|h Ihr erhaltet den Gegenstand: |cffffffff|Hitem:5042::::::::22:259::::::|h[Geschenkpapier mit rotem Band]|h|rx9.",
-					["serverTime"] = 1593839457,
-					["r"] = 0.9333333969116211,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 929509.6070000001,
-					["g"] = 0.8509804606437683,
-					["b"] = 0.9450981020927429,
-				}, -- [52]
-				{
-					["message"] = "|Hpratcopy|h[08:11:02]|h |cff33ff99Postal|r: Gesammelt 300|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 0|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 0|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["timestamp"] = 929513.775,
-					["serverTime"] = 1593839461,
-				}, -- [53]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

@@ -2,6 +2,19 @@ VER 3 0100000000000004 "DeathAndDecay" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] Смерть и разложение
 END
+VER 3 0100000000000006 "DeathStrikePlus" "INV_MISC_QUESTIONMARK"
+#showtooltip Удар смерти
+/cast Кровоотвод
+/cast Удар смерти
+END
+VER 3 0100000000000005 "GoAway" "133584"
+/script PetDismiss()
+END
+VER 3 0100000000000007 "HeartstokePlus" "INV_MISC_QUESTIONMARK"
+#showtooltip Удар в сердце
+/cast Кровоотвод
+/cast Удар в сердце
+END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
 P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

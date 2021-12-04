@@ -1,5 +1,8 @@
-VER 3 000000000000001E "AncestorCoin" "136223"
-/cancelaura Благословение защиты
+VER 3 000000000000004C "AdditionalCovAb" "878222"
+#showtooltip
+/cast Флакон безмятежности
+/cast Врата теней
+/cast Облик души
 END
 VER 3 0000000000000033 "Archeology" "INV_MISC_QUESTIONMARK"
 #showtooltip [combat] Рассеивание заклинаний; Исследовать
@@ -23,6 +26,11 @@ END
 VER 3 0000000000000014 "Camera" "SPELL_SHADOW_MINDTWISTING"
 /console cameraDistanceMaxZoomFactor 2.6
 END
+VER 3 000000000000001E "CancelBop" "136223"
+/script PetDismiss()
+/cancelaura Благословение защиты
+/click TotemFrameTotem1 RightButton
+END
 VER 3 000000000000002A "CandyAndFish" "INV_MISC_QUESTIONMARK"
 #showtooltip Блуждающая сущность друстов
 /use Пригоршня конфет
@@ -42,10 +50,22 @@ END
 VER 3 0000000000000022 "DualMount" "Ability_AnimusDraw"
 /click [btn:1]MTSB2 LeftButton;[btn:2]MTSB2 RightButton;[btn:3]MTSB2 MiddleButton;[btn:4]MTSB2 Button4;[btn:5]MTSB2 Button5
 END
+VER 3 0000000000000044 "ExtraAction" "INV_MISC_QUESTIONMARK"
+#showtooltip /click ExtraActionButton1
+END
+VER 3 0000000000000045 "ExtraAction" "INV_MISC_QUESTIONMARK"
+#showtooltip /click ExtraActionButton1
+END
+VER 3 000000000000004E "FaeBlink" "4178535"
+/cast Облик души
+END
 VER 3 000000000000002D "Fire" "1392549"
 #showtooltip  Пламя феникса
 /stopcasting
 /cast Пламя феникса
+END
+VER 3 0000000000000046 "FocusMouseover" "136001"
+/focus [@mouseover]
 END
 VER 3 0000000000000016 "GroundMount" "Ability_Druid_TwilightsWrath"
 /cast [modifier] Большой як для путешествий
@@ -69,8 +89,18 @@ VER 3 0000000000000027 "LightOfTuure" "INV_MISC_QUESTIONMARK"
 #showtooltip Свет Т'ууре
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Свет Т'ууре
 END
+VER 3 000000000000004B "MainCovenantAb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Пепельное освящение
+/cast Божественный благовест
+/cast Благословение лета
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Пепельное освящение" or G"Божественный благовест" or G"Благословение лета")
+END
 VER 3 0000000000000038 "Mark_Circle" "135744"
 /run SetRaidTarget("mouseover", 2);
+END
+VER 3 0000000000000049 "Mark_Cross" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("mouseover", 6);
 END
 VER 3 0000000000000039 "Mark_Diamond" "135742"
 /run SetRaidTarget("mouseover", 3);
@@ -81,11 +111,17 @@ END
 VER 3 000000000000003B "Mark_Skull" "135743"
 /run SetRaidTarget("mouseover", 8);
 END
+VER 3 0000000000000048 "Mark_Square" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("mouseover", 4);
+END
 VER 3 0000000000000037 "Mark_Star" "135749"
 /run SetRaidTarget("mouseover", 1);
 END
+VER 3 000000000000004A "Mark_Triangle" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("mouseover", 7);
+END
 VER 3 0000000000000041 "MawMount" "236288"
-/run if(C_Map.GetBestMapForUnit("player")==1543)then C_MountJournal.SummonByID(1304);else C_MountJournal.SummonByID(0);end
+/run if(C_Map.GetBestMapForUnit("player")==1543)then C_MountJournal.SummonByID(376);else C_MountJournal.SummonByID(0);end
 END
 VER 3 000000000000001B "Murloc" "Ability_Hunter_FocusedAim"
 /script PlaySoundFile("Sound\\Creature\\Murloc\\mMurlocAggroOld.wav")
@@ -93,14 +129,18 @@ END
 VER 3 0000000000000028 "NumberSeparator" "136103"
 /run LARGE_NUMBER_SEPERATOR = " "
 END
+VER 3 000000000000004D "Owlinator" "3811750"
+/cast Призыв распорядителя
+/cast Облик души
+END
 VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва восстановления
 END
-VER 3 0000000000000031 "Pull" "136103"
+VER 3 0000000000000036 "Pull" "236307"
 /pull 3
 END
-VER 3 0000000000000036 "Pull" "236307"
+VER 3 0000000000000031 "Pull" "136103"
 /pull 3
 END
 VER 3 0000000000000034 "Reload" "2115306"
@@ -130,11 +170,6 @@ VER 3 000000000000001A "SpecialCast" "Ability_Mage_ColdAsIce"
 /cast Слово Тьмы: Боль
 /targetlasttarget
 END
-VER 3 0000000000000043 "StewardsJob" "135939"
-/target Грамилос
-/target Грамилос
-/script C_GossipInfo.SelectOption(5)
-END
 VER 3 0000000000000035 "tar" "132311"
 /ц Статуя
 END
@@ -145,4 +180,12 @@ VER 3 000000000000002E "Turkey" "INV_MISC_QUESTIONMARK"
 #showtooltip Слово тьмы: Боль
 /target Взрывчатка Скверны
 /cast Слово тьмы: Боль
+END
+VER 3 0000000000000047 "UseBelt" "INV_MISC_QUESTIONMARK"
+#showtooltip 6
+/use 6
+END
+VER 3 0000000000000043 "UsetTrinket" "INV_MISC_QUESTIONMARK"
+#showtooltip 13
+/use 13
 END

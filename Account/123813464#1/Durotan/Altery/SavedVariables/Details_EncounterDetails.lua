@@ -1,142 +1,5 @@
 
 EncounterDetailsDB = {
-	["emotes"] = {
-		{
-			{
-				0.1890000000130385, -- [1]
-				"Ihr werdet lernen, warum ich der König bin und ihr nichts weiter als Bauerntrampel.", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				5.178000000072643, -- [1]
-				"Das war nur ein Bruchteil meiner Kräfte! Werdet Zeuge der uralten Magie, die mein Reich zutage gefördert hat.", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				14.55000000004657, -- [1]
-				"Königswache, zu mir. Ich muss mich konzentrieren, um den Stein zu erwecken!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				30.28600000008009, -- [1]
-				"Welch eine Macht! Sie nimmt Gestalt an, um euch zu zerstören!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				60.63199999998324, -- [1]
-				"Ihre Energie quillt über. Bald schon wird sie entfesselt!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				80.49399999994785, -- [1]
-				"Die grenzenlose Energie der Steine erfüllt mich! Die Zeit eurer Vernichtung naht!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				88.96100000012666, -- [1]
-				"Genug! Lange schon hüten die Zaubererkönige diese Hallen. Heute werdet ihr Zeuge unserer geheimen Macht.", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				99.92599999997765, -- [1]
-				"Wache, entfernt diesen Pöbel.", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				131.0600000000559, -- [1]
-				"Die Macht wächst ins Unermessliche. ", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				164.2550000001211, -- [1]
-				"Zweifelt niemals meine Herrschaft an! Ich beherrsche die Macht der Steine! Niemand ist mir ebenbürtig!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [10]
-			{
-				171.1430000001565, -- [1]
-				"Ihr wisst überhaupt nicht, worauf Ihr Euch einlasst. (Es ruft uns. Wir wissen Bescheid! Seine Macht wird uns gehören!)", -- [2]
-				"Cho'gall", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				172.7430000000168, -- [1]
-				"Meine Macht kennt keine Grenzen!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				174.2770000000019, -- [1]
-				"|TINTERFACE\\ICONS\\ability_socererking_arcanewrath.blp:20|t Ihr wurdet von |cFFF00000|Hspell:156238|h[Arkanem Zorn]|h|r gebrandmarkt!", -- [2]
-				"Altery", -- [3]
-				2, -- [4]
-			}, -- [13]
-			{
-				187.9340000001248, -- [1]
-				"Cho'gall?! Verräterischer Abschaum. Ich wusste, dass Ihr dahinter steckt!", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				195.4340000001248, -- [1]
-				"Eure Herrschaft endet hier. Die ewige Nacht beginnt. (Die Dunkelheit naht!)", -- [2]
-				"Cho'gall", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				205.1319999999832, -- [1]
-				"Ich... bin... der König...", -- [2]
-				"Kaiser Mar'gok", -- [3]
-				7, -- [4]
-			}, -- [16]
-			{
-				208.5970000000671, -- [1]
-				"Lange haben wir auf diesen Moment gewartet. Endlich wird die wahre Macht der Steine offenbart! (Niemand wird überleben. Wir werden sie vernichten! Auslöschen! Werden über diese Welt hinwegjagen!)", -- [2]
-				"Cho'gall", -- [3]
-				7, -- [4]
-			}, -- [17]
-			["boss"] = "Kaiser Mar'gok",
-		}, -- [1]
-		{
-			{
-				0.1980000000912696, -- [1]
-				"Eure Magie ist hier machtlos.", -- [2]
-				"Ko'ragh", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				3.71100000012666, -- [1]
-				"Dafür werdet Ihr ZAHLEN!", -- [2]
-				"Ko'ragh", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				4.822000000160188, -- [1]
-				"|TInterface\\Icons\\INV_Fabric_Felcloth_Ebon.blp:20|t |cFFFF0404|Hspell:161242|h[Ätzende Energie]|h|r beginnt, in Altery hineinzufließen.", -- [2]
-				"Rune der Nullifikation", -- [3]
-				1, -- [4]
-			}, -- [3]
-			["boss"] = "Ko'ragh",
-		}, -- [2]
-		{
-			{
-				3.393000000156462, -- [1]
-				"Dann kämpf zurück.", -- [2]
-				"Pol", -- [3]
-				7, -- [4]
-			}, -- [1]
-			["boss"] = "Ogronzwillinge",
-		}, -- [3]
-	},
 	["encounter_spells"] = {
 		[155080] = {
 			["school"] = 4,
@@ -1682,14 +1545,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ionar",
 		},
-		[304969] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[160382] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Inquisitor Gnshal",
+			["source"] = "Schmelzofeningenieur",
 		},
 		[117514] = {
 			["school"] = 1,
@@ -1700,23 +1562,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unbekannt",
 		},
-		[304976] = {
+		[178586] = {
 			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Inquisitor Gnshal",
-		},
-		[179991] = {
-			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Tyrannin Velhari",
+			["source"] = "Nachtentstellter Gläubiger",
+		},
+		[304282] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Rexxar",
 		},
 		[159336] = {
 			["school"] = 1,
@@ -1726,12 +1589,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marak die Blutige",
 		},
-		[59801] = {
-			["school"] = 8,
+		[188614] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ionar",
 		},
 		[53791] = {
 			["school"] = 1,
@@ -1742,15 +1604,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "General Bjarngrim",
 		},
-		[297574] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[174128] = {
+			["school"] = 64,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Auslöschungselementar",
 		},
 		[162658] = {
 			["school"] = 1,
@@ -1761,13 +1620,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Splitter von Tectus",
 		},
-		[297822] = {
-			["school"] = 1,
+		[158025] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Thrall",
+			["source"] = "Kaiser Mar'gok",
 		},
 		[186292] = {
 			["school"] = 32,
@@ -1843,14 +1702,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zorn des Kaisers",
 		},
-		[268024] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[178468] = {
+			["school"] = 64,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Herz von Sethraliss",
+			["source"] = "Gorianischer Kriegsmagier",
 		},
 		[157763] = {
 			["school"] = 64,
@@ -1860,31 +1718,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gorianischer Kriegsmagier",
 		},
-		[266923] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[157769] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Energiekern",
+			["source"] = "Gorianischer Kriegsmagier",
 		},
-		[263958] = {
+		[174126] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Unbekannt",
 		},
-		[267047] = {
+		[174057] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Kaiser Mar'gok",
 		},
 		[159515] = {
 			["school"] = 64,
@@ -1903,21 +1761,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Eiserner Dragoner",
 		},
-		[267027] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[163466] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Giftige Augenschlange",
+			["source"] = "Unstete Anomalie",
 		},
-		[264234] = {
+		[160734] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ei",
+			["source"] = "Ko'ragh",
 		},
 		[173425] = {
 			["school"] = 1,
@@ -1927,12 +1785,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pol",
 		},
-		[264368] = {
-			["school"] = 1,
+		[162510] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Splitter von Tectus",
 		},
 		[263234] = {
 			["school"] = 8,
@@ -1943,14 +1801,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Adderis",
 		},
-		[155242] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[163209] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Herz des Berges",
+			["source"] = "Splitter von Tectus",
 		},
 		[156018] = {
 			["school"] = 1,
@@ -1960,12 +1816,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aknor Stahlbringer",
 		},
-		[181113] = {
+		[181873] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Schattenfürst Iskar",
 		},
 		[263309] = {
 			["school"] = 1,
@@ -1975,28 +1832,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Adderis",
 		},
-		[263318] = {
+		[163208] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aspix",
+			["source"] = "Tectus",
 		},
-		[268851] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Aspix",
-		},
-		[175673] = {
+		[162370] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Tectus",
+		},
+		[41106] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vagabund der Innerei",
+			["source"] = "General Bjarngrim",
 		},
 		[53792] = {
 			["school"] = 1,
@@ -2016,20 +1875,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gronnlingarbeiter",
 		},
-		[304334] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Rexxar",
-		},
-		[155233] = {
+		[159250] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Schlackeelementar",
+			["source"] = "Kargath Messerfaust",
+		},
+		[181089] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Abrichter Darmac",
 		},
 		[159724] = {
 			["school"] = 1,
@@ -2047,36 +1909,40 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[156047] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Schlackebombe",
-		},
-		[179993] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Tyrannin Velhari",
-		},
-		[268278] = {
-			["school"] = 32,
+		[163990] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Lady Kronsteig",
+			["source"] = "Kaiser Mar'gok",
 		},
-		[263778] = {
-			["school"] = 1,
+		[183969] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Entweihung",
+		},
+		[307863] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Aspix",
+			["source"] = "Inquisitor Gnshal",
+		},
+		[50155] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Keristrasza",
 		},
 		[117485] = {
 			["school"] = 1,
@@ -2088,13 +1954,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mut des Kaisers",
 		},
-		[269686] = {
-			["school"] = 40,
-			["type"] = "DEBUFF",
+		[190224] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Xhul'horac",
+		},
+		[57066] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ormorok der Baumformer",
 		},
 		[176141] = {
 			["school"] = 1,
@@ -2105,14 +1979,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unbekannt",
 		},
-		[57066] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ormorok der Baumformer",
-		},
 		[269116] = {
 			["school"] = 1,
 			["token"] = {
@@ -2121,36 +1987,39 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mächtiger Sturmrufer",
 		},
-		[179987] = {
-			["school"] = 1,
+		[266460] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Todesberührter Sklaventreiber",
+		},
+		[59800] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Ionar",
+		},
+		[186135] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tyrannin Velhari",
-		},
-		[180945] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Teufelsfeuerverwüster",
-		},
-		[190223] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
 			["source"] = "Xhul'horac",
 		},
-		[184394] = {
-			["school"] = 8,
+		[155267] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Belagerungsmeisterin Mar'tak",
+			["source"] = "Urelementaristin",
 		},
 		[176525] = {
 			["school"] = 32,
@@ -2161,21 +2030,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wachsende Schatten",
 		},
-		[164006] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[162346] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[52770] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Tectus",
+			["source"] = "Ionar",
+		},
+		[304251] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Grummel",
 		},
 		[181827] = {
 			["school"] = 1,
@@ -2187,38 +2057,39 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Teufelsschattenwächter",
 		},
-		[156852] = {
-			["school"] = 8,
+		[164006] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[260852] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Schwester Solena",
+		},
+		[155192] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Schmelzofeningenieur",
+		},
+		[179986] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kromog",
-		},
-		[170405] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Marak die Blutige",
-		},
-		[304251] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Grummel",
-		},
-		[271057] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Verhüllte Schlange",
+			["source"] = "Tyrannin Velhari",
 		},
 		[266181] = {
 			["school"] = 32,
@@ -2229,24 +2100,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gorak Tul",
 		},
-		[263775] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Aspix",
-		},
-		[263371] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[173790] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Aspix",
+			["source"] = "Widerspenstiger Eisenhuf",
+		},
+		[162346] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Tectus",
 		},
 		[155256] = {
 			["school"] = 1,
@@ -2257,14 +2126,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unbekannt",
 		},
-		[41105] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[173471] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "General Bjarngrim",
+			["source"] = "Erzfresser",
 		},
 		[260541] = {
 			["school"] = 1,
@@ -2282,14 +2151,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Verhüllte Schlange",
 		},
-		[59835] = {
-			["school"] = 8,
+		[170395] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Loken",
+			["source"] = "Vollstreckerin Sorka",
 		},
 		[156598] = {
 			["school"] = 1,
@@ -2308,12 +2176,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Teufelseiserner Beschwörer",
 		},
-		[190397] = {
+		[184265] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Archimonde",
 		},
 		[272699] = {
 			["school"] = 8,
@@ -2348,30 +2217,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Blutschatten",
 		},
-		[116778] = {
+		[57056] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Kristalliner Peitschling",
+		},
+		[119387] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mut des Kaisers",
+			["source"] = "Elegon",
 		},
-		[186883] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Teufelsflammenwerfer",
-		},
-		[264923] = {
+		[158012] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Raal der Unersättliche",
 		},
 		[57067] = {
 			["school"] = 1,
@@ -2395,12 +2263,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dia Schattenflüsterer",
 		},
-		[47743] = {
-			["school"] = 64,
+		[179709] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Anomalus",
+			["source"] = "Teufelslord Zakuun",
 		},
 		[304256] = {
 			["school"] = 1,
@@ -2416,30 +2284,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 		},
-		[115827] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Jadewächter",
-		},
-		[155265] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Urelementaristin",
-		},
-		[179218] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Verderbter Krallenpriester",
-		},
 		[181831] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -2448,13 +2292,37 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Teufelsschattenwächter",
 		},
-		[264694] = {
+		[61556] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Kristalliner Greifer",
+		},
+		[155201] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Schmelzofeningenieur",
+		},
+		[115827] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Jadewächter",
+		},
+		[182170] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Raal der Unersättliche",
+			["source"] = "Blutschatten",
 		},
 		[47748] = {
 			["school"] = 64,
@@ -2465,21 +2333,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Anomalus",
 		},
-		[183023] = {
+		[155181] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Seelengebundenes Konstrukt",
-		},
-		[155196] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unbekannt",
+			["source"] = "Gebläsearbeiter",
+		},
+		[186663] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Teufelsgeborener Oberdämon",
 		},
 		[156601] = {
 			["school"] = 1,
@@ -2490,6 +2359,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marak die Blutige",
 		},
+		[181832] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Teufelsschattenwächter",
+		},
+		[155196] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Unbekannt",
+		},
 		[33833] = {
 			["school"] = 64,
 			["token"] = {
@@ -2497,22 +2382,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Wahnsinniges Managespenst",
-		},
-		[178191] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Tectus",
-		},
-		[181832] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Teufelsschattenwächter",
 		},
 		[1604] = {
 			["school"] = 1,
@@ -2522,21 +2391,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Auslöschungselementar",
 		},
-		[65116] = {
+		[181085] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Blutschatten",
+		},
+		[115828] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "General Bjarngrim",
-		},
-		[297746] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Thrall",
+			["source"] = "Jaspiswächter",
 		},
 		[269129] = {
 			["school"] = 1,
@@ -2561,21 +2430,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schattenfürst Iskar",
 		},
-		[182280] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Eiserner Häscher",
-		},
-		[115828] = {
+		[65116] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Jaspiswächter",
+			["source"] = "General Bjarngrim",
+		},
+		[297746] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Thrall",
 		},
 		[179995] = {
 			["school"] = 32,
@@ -2592,20 +2461,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dia Schattenflüsterer",
 		},
-		[265912] = {
+		[117910] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Qiang der Gnadenlose",
+		},
+		[186134] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Aufgebrachter Nimbus",
-		},
-		[279014] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Herz von Sethraliss",
+			["source"] = "Xhul'horac",
 		},
 		[182153] = {
 			["school"] = 4,
@@ -2633,13 +2502,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Uralte Vorbotin",
 		},
-		[184369] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[158547] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Belagerungsmeisterin Mar'tak",
+			["source"] = "Gorianischer Häscher",
 		},
 		[190313] = {
 			["school"] = 32,
@@ -2669,12 +2537,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "General Bjarngrim",
 		},
-		[268013] = {
-			["school"] = 4,
+		[186783] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Hoodooverhexer",
+			["source"] = "Omnus",
 		},
 		[176533] = {
 			["school"] = 32,
@@ -2691,15 +2562,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Archimonde",
 		},
-		[186783] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[268013] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Omnus",
+			["source"] = "Hoodooverhexer",
 		},
 		[115829] = {
 			["school"] = 1,
@@ -2709,12 +2577,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Amethystwächter",
 		},
-		[158547] = {
-			["school"] = 1,
+		[184369] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Gorianischer Häscher",
+			["source"] = "Belagerungsmeisterin Mar'tak",
 		},
 		[186562] = {
 			["school"] = 32,
@@ -2723,20 +2592,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schreckenspirscher",
 		},
-		[186134] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[279014] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Herz von Sethraliss",
+		},
+		[265912] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Xhul'horac",
-		},
-		[117910] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Qiang der Gnadenlose",
+			["source"] = "Aufgebrachter Nimbus",
 		},
 		[48094] = {
 			["school"] = 1,
@@ -2762,13 +2631,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Schlackeelementar",
 		},
-		[181085] = {
-			["school"] = 32,
+		[182280] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Blutschatten",
+			["source"] = "Eiserner Häscher",
 		},
 		[156861] = {
 			["school"] = 1,
@@ -2788,22 +2657,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bulliger Berserker",
 		},
-		[186663] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Teufelsgeborener Oberdämon",
-		},
-		[155181] = {
+		[178191] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Gebläsearbeiter",
+			["source"] = "Tectus",
+		},
+		[183023] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Seelengebundenes Konstrukt",
 		},
 		[164271] = {
 			["school"] = 1,
@@ -2814,29 +2682,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Admiralin Gar'an",
 		},
-		[182170] = {
+		[264694] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Blutschatten",
+			["source"] = "Raal der Unersättliche",
 		},
-		[155201] = {
-			["school"] = 8,
+		[47743] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Schmelzofeningenieur",
+			["source"] = "Anomalus",
 		},
-		[61556] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[155265] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Kristalliner Greifer",
+			["source"] = "Urelementaristin",
 		},
 		[59528] = {
 			["school"] = 4,
@@ -2847,52 +2715,53 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volkhan",
 		},
-		[179709] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Teufelslord Zakuun",
-		},
-		[158012] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[119387] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Elegon",
-		},
-		[57056] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Kristalliner Peitschling",
-		},
-		[184265] = {
-			["school"] = 32,
+		[186883] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Archimonde",
+			["source"] = "Teufelsflammenwerfer",
 		},
-		[170395] = {
+		[264923] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Raal der Unersättliche",
+		},
+		[179218] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Verderbter Krallenpriester",
+		},
+		[116778] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vollstreckerin Sorka",
+			["source"] = "Mut des Kaisers",
+		},
+		[190397] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Unbekannt",
+		},
+		[59835] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Loken",
 		},
 		[155266] = {
 			["school"] = 1,
@@ -2903,49 +2772,48 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Urelementaristin",
 		},
-		[173471] = {
+		[41105] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "General Bjarngrim",
+		},
+		[263775] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Aspix",
+		},
+		[271057] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Verhüllte Schlange",
+		},
+		[263371] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Erzfresser",
-		},
-		[173790] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Widerspenstiger Eisenhuf",
-		},
-		[179986] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Tyrannin Velhari",
+			["source"] = "Aspix",
 		},
-		[155192] = {
+		[170405] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Schmelzofeningenieur",
-		},
-		[260852] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Schwester Solena",
+			["source"] = "Marak die Blutige",
 		},
 		[190398] = {
 			["school"] = 32,
@@ -2954,47 +2822,45 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dunkle Verbindung",
 		},
-		[52770] = {
+		[156852] = {
 			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Kromog",
+		},
+		[184394] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Belagerungsmeisterin Mar'tak",
+		},
+		[190223] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ionar",
+			["source"] = "Xhul'horac",
 		},
-		[155267] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[180945] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Urelementaristin",
+			["source"] = "Teufelsfeuerverwüster",
 		},
-		[186135] = {
-			["school"] = 32,
+		[179987] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Xhul'horac",
-		},
-		[59800] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Ionar",
-		},
-		[266460] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Todesberührter Sklaventreiber",
+			["source"] = "Tyrannin Velhari",
 		},
 		[158078] = {
 			["school"] = 32,
@@ -3004,48 +2870,44 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marak die Blutige",
 		},
-		[190224] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Xhul'horac",
-		},
-		[50155] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Keristrasza",
-		},
-		[307863] = {
-			["school"] = 32,
+		[269686] = {
+			["school"] = 40,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Inquisitor Gnshal",
 		},
-		[183969] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[263778] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Entweihung",
+			["source"] = "Aspix",
 		},
-		[163990] = {
-			["school"] = 64,
+		[268278] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Kaiser Mar'gok",
+			["source"] = "Lady Kronsteig",
+		},
+		[179993] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Tyrannin Velhari",
+		},
+		[156047] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Schlackebombe",
 		},
 		[181968] = {
 			["school"] = 4,
@@ -3057,23 +2919,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Blutgebundene Teufelswirkerin",
 		},
-		[181089] = {
+		[155233] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Abrichter Darmac",
+			["source"] = "Schlackeelementar",
 		},
-		[159250] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[304334] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kargath Messerfaust",
+			["source"] = "Rexxar",
 		},
 		[180116] = {
 			["school"] = 1,
@@ -3083,30 +2942,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kormrok",
 		},
-		[41106] = {
+		[175673] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "General Bjarngrim",
+			["source"] = "Vagabund der Innerei",
 		},
-		[162370] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Tectus",
-		},
-		[163208] = {
+		[268851] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tectus",
+			["source"] = "Aspix",
+		},
+		[263318] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Aspix",
 		},
 		[59529] = {
 			["school"] = 1,
@@ -3117,27 +2974,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volkhan",
 		},
-		[181873] = {
+		[181113] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Schattenfürst Iskar",
+			["source"] = "Unbekannt",
 		},
-		[163209] = {
+		[155242] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Herz des Berges",
+		},
+		[264368] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Splitter von Tectus",
-		},
-		[162510] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Splitter von Tectus",
+			["source"] = "Unbekannt",
 		},
 		[155078] = {
 			["school"] = 1,
@@ -3147,21 +3005,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gruul",
 		},
-		[160734] = {
+		[264234] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ko'ragh",
+			["source"] = "Ei",
 		},
-		[163466] = {
-			["school"] = 64,
+		[267027] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Unstete Anomalie",
+			["source"] = "Giftige Augenschlange",
 		},
 		[57086] = {
 			["school"] = 1,
@@ -3172,31 +3030,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ormorok der Baumformer",
 		},
-		[174057] = {
+		[267047] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Kaiser Mar'gok",
-		},
-		[174126] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Unbekannt",
 		},
-		[157769] = {
-			["school"] = 64,
+		[263958] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Gorianischer Kriegsmagier",
+			["source"] = "Unbekannt",
+		},
+		[266923] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Energiekern",
 		},
 		[260792] = {
 			["school"] = 1,
@@ -3206,13 +3064,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Steinschwanzskorpid",
 		},
-		[178468] = {
-			["school"] = 64,
-			["type"] = "BUFF",
+		[268024] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Gorianischer Kriegsmagier",
+			["source"] = "Herz von Sethraliss",
 		},
 		[124967] = {
 			["school"] = 1,
@@ -3230,53 +3089,194 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Merektha",
 		},
-		[158025] = {
-			["school"] = 64,
+		[297822] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Kaiser Mar'gok",
+			["source"] = "Thrall",
 		},
-		[174128] = {
-			["school"] = 64,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[188614] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-		},
-		[304282] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Rexxar",
-		},
-		[178586] = {
+		[297574] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Auslöschungselementar",
+		},
+		[59801] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ionar",
+		},
+		[179991] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Nachtentstellter Gläubiger",
+			["source"] = "Tyrannin Velhari",
 		},
-		[160382] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[304976] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Inquisitor Gnshal",
+		},
+		[304969] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Schmelzofeningenieur",
+			["source"] = "Inquisitor Gnshal",
 		},
+	},
+	["emotes"] = {
+		{
+			{
+				0.1890000000130385, -- [1]
+				"Ihr werdet lernen, warum ich der König bin und ihr nichts weiter als Bauerntrampel.", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				5.178000000072643, -- [1]
+				"Das war nur ein Bruchteil meiner Kräfte! Werdet Zeuge der uralten Magie, die mein Reich zutage gefördert hat.", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				14.55000000004657, -- [1]
+				"Königswache, zu mir. Ich muss mich konzentrieren, um den Stein zu erwecken!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				30.28600000008009, -- [1]
+				"Welch eine Macht! Sie nimmt Gestalt an, um euch zu zerstören!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				60.63199999998324, -- [1]
+				"Ihre Energie quillt über. Bald schon wird sie entfesselt!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				80.49399999994785, -- [1]
+				"Die grenzenlose Energie der Steine erfüllt mich! Die Zeit eurer Vernichtung naht!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				88.96100000012666, -- [1]
+				"Genug! Lange schon hüten die Zaubererkönige diese Hallen. Heute werdet ihr Zeuge unserer geheimen Macht.", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				99.92599999997765, -- [1]
+				"Wache, entfernt diesen Pöbel.", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				131.0600000000559, -- [1]
+				"Die Macht wächst ins Unermessliche. ", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				164.2550000001211, -- [1]
+				"Zweifelt niemals meine Herrschaft an! Ich beherrsche die Macht der Steine! Niemand ist mir ebenbürtig!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				171.1430000001565, -- [1]
+				"Ihr wisst überhaupt nicht, worauf Ihr Euch einlasst. (Es ruft uns. Wir wissen Bescheid! Seine Macht wird uns gehören!)", -- [2]
+				"Cho'gall", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				172.7430000000168, -- [1]
+				"Meine Macht kennt keine Grenzen!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				174.2770000000019, -- [1]
+				"|TINTERFACE\\ICONS\\ability_socererking_arcanewrath.blp:20|t Ihr wurdet von |cFFF00000|Hspell:156238|h[Arkanem Zorn]|h|r gebrandmarkt!", -- [2]
+				"Altery", -- [3]
+				2, -- [4]
+			}, -- [13]
+			{
+				187.9340000001248, -- [1]
+				"Cho'gall?! Verräterischer Abschaum. Ich wusste, dass Ihr dahinter steckt!", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				195.4340000001248, -- [1]
+				"Eure Herrschaft endet hier. Die ewige Nacht beginnt. (Die Dunkelheit naht!)", -- [2]
+				"Cho'gall", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				205.1319999999832, -- [1]
+				"Ich... bin... der König...", -- [2]
+				"Kaiser Mar'gok", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				208.5970000000671, -- [1]
+				"Lange haben wir auf diesen Moment gewartet. Endlich wird die wahre Macht der Steine offenbart! (Niemand wird überleben. Wir werden sie vernichten! Auslöschen! Werden über diese Welt hinwegjagen!)", -- [2]
+				"Cho'gall", -- [3]
+				7, -- [4]
+			}, -- [17]
+			["boss"] = "Kaiser Mar'gok",
+		}, -- [1]
+		{
+			{
+				0.1980000000912696, -- [1]
+				"Eure Magie ist hier machtlos.", -- [2]
+				"Ko'ragh", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				3.71100000012666, -- [1]
+				"Dafür werdet Ihr ZAHLEN!", -- [2]
+				"Ko'ragh", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				4.822000000160188, -- [1]
+				"|TInterface\\Icons\\INV_Fabric_Felcloth_Ebon.blp:20|t |cFFFF0404|Hspell:161242|h[Ätzende Energie]|h|r beginnt, in Altery hineinzufließen.", -- [2]
+				"Rune der Nullifikation", -- [3]
+				1, -- [4]
+			}, -- [3]
+			["boss"] = "Ko'ragh",
+		}, -- [2]
+		{
+			{
+				3.393000000156462, -- [1]
+				"Dann kämpf zurück.", -- [2]
+				"Pol", -- [3]
+				7, -- [4]
+			}, -- [1]
+			["boss"] = "Ogronzwillinge",
+		}, -- [3]
 	},
 }

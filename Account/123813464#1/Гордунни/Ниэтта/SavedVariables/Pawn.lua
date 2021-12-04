@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0418,
+	["LastVersion"] = 2.053,
 	["LastPlayerFullName"] = "Ниэтта-Гордунни",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -91,6 +91,59 @@ PawnOptions = {
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128823] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Серебряная Длань",
+		},
+		[128866] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 18,
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "Страж Истины",
+		},
+		[120978] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 18,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Испепелитель",
+		},
+	},
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PALADIN",

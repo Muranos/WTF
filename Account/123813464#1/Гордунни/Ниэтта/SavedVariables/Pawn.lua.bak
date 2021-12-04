@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0418,
-	["LastPlayerFullName"] = "Ниэтта-Гордунни",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.053,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159446,
@@ -89,6 +87,61 @@ PawnOptions = {
 			["Level"] = 475,
 			["Link"] = "|cffa335ee|Hitem:175010::168642::::::120:66::6:7:4824:6578:6579:6541:1517:4786:6514:::|h[Бастион обезумевшего приверженца]|h|r",
 		}, -- [17]
+	},
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Ниэтта-Гордунни",
+	["Artifacts"] = {
+		[128823] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Серебряная Длань",
+		},
+		[128866] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 18,
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "Страж Истины",
+		},
+		[120978] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 17,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 18,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Испепелитель",
+		},
 	},
 	["LastKeybindingsSet"] = 1,
 }

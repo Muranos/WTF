@@ -164,7 +164,7 @@ RaiderIO_DB_EU_H_R: enabled
 Rematch: enabled
 Scrap: enabled
 SexyMap: enabled
-Simulationcraft: enabled
+Simulationcraft: disabled
 TidyPlates_ThreatPlates: enabled
 TomCats: disabled
 DBM-Azeroth-BfA: disabled
@@ -232,3 +232,18 @@ LittleWigs_MistsOfPandaria: enabled
 BigWigs_CastleNathria: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WarlordsOfDraenor: enabled
+PitBull4: disabled
+PitBull4_DogTagTexts: disabled
+!BugGrabber: disabled
+BugSack: disabled
+Altoholic: disabled
+Altoholic_Agenda: disabled
+Altoholic_Achievements: disabled
+Altoholic_Characters: disabled
+Altoholic_Grids: disabled
+Altoholic_Guild: disabled
+Altoholic_Search: disabled
+Altoholic_Summary: disabled
+AddonFactory: disabled
+Altoholic_Options: disabled
+DataStore: disabled

@@ -1,0 +1,33 @@
+VER 3 0100000000000008 "Berzerk" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:5/3]Incarnation: Guardian of Ursoc; Berserk
+/use Jotungeirr, Destiny's Call
+/cast Berserk
+/cast Incarnation: Guardian of Ursoc
+END
+VER 3 0100000000000005 "Celestial" "INV_MISC_QUESTIONMARK"
+#showtooltip Парад планет
+/use Непостижимое квантовое устройство
+/cast Парад планет
+END
+VER 3 0100000000000003 "Decurse" "INV_MISC_QUESTIONMARK"
+#showtooltip Remove Corruption
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Remove Corruption
+END
+VER 3 0100000000000004 "MountUP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [flyable,noindoors,nogroup] Походный облик; [noflyable,noindoors,nogroup] Походный облик; [swimming,nogroup] Походный облик; [indoors] Облик кошки; [flyable,noindoors] Походный облик; [noindoors,group]Облик ездового животного
+END
+VER 3 0100000000000006 "Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/cast  [modifier:SELFCAST,@player][@mouseover,help,nodead] Regrowth
+END
+VER 3 0100000000000007 "Trees" "INV_MISC_QUESTIONMARK"
+#shoowtooltip
+/cast [@cursor] Force of Nature
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Est[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
