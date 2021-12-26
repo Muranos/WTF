@@ -14,10 +14,10 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Фламинника - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["Altery - Durotan"] = {
 			["welcome"] = true,
@@ -47,13 +47,13 @@ ThreatPlatesDB = {
 			},
 		},
 		["Нирейя - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Алтэри - Гордунни"] = {
 			["welcome"] = true,
@@ -108,10 +108,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["Зонна - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Эрника - Борейская тундра"] = {
 			["spec"] = {
@@ -120,13 +120,13 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Estrea - EU Mythic Dungeons"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Элави - Борейская тундра"] = {
 			["welcome"] = true,
@@ -160,18 +160,18 @@ ThreatPlatesDB = {
 			},
 		},
 		["Nietta - EU Mythic Dungeons"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
-			["welcome"] = true,
 		},
 		["Ниоши - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Алоиза - Гордунни"] = {
 			["spec"] = {
@@ -188,12 +188,12 @@ ThreatPlatesDB = {
 			},
 		},
 		["Ниэтта - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
+			["welcome"] = true,
 		},
 		["Фламиника - Борейская тундра"] = {
 			["welcome"] = true,
@@ -202,11 +202,11 @@ ThreatPlatesDB = {
 			},
 		},
 		["Дэлери - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {
@@ -243,7 +243,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "10.2.13",
+		["version"] = "10.2.14",
 	},
 	["profiles"] = {
 		["Default"] = {

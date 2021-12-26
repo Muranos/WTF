@@ -47,6 +47,11 @@ END
 VER 3 0000000000000029 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
 /cm rt
 END
+VER 3 0000000000000050 "DrumsAndPot" "INV_MISC_QUESTIONMARK"
+#showtooltip Барабаны Водоворота
+/use Барабаны Водоворота
+/use Зелье длительной силы
+END
 VER 3 0000000000000022 "DualMount" "Ability_AnimusDraw"
 /click [btn:1]MTSB2 LeftButton;[btn:2]MTSB2 RightButton;[btn:3]MTSB2 MiddleButton;[btn:4]MTSB2 Button4;[btn:5]MTSB2 Button5
 END
@@ -58,6 +63,7 @@ VER 3 0000000000000044 "ExtraAction" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000004E "FaeBlink" "4178535"
 /cast Облик души
+/cast Скульптор плоти
 END
 VER 3 000000000000002D "Fire" "1392549"
 #showtooltip  Пламя феникса
@@ -82,6 +88,9 @@ END
 VER 3 000000000000003D "HideCastBar" "INV_MISC_QUESTIONMARK"
 /run SetCVar("showTargetCastbar", 0) ReloadUI()
 END
+VER 3 000000000000004F "Kick_Mage" "135730"
+/w Xynnmage-Alleria Your kick
+END
 VER 3 000000000000003C "Kiss" "897141"
 /kiss
 END
@@ -94,6 +103,7 @@ VER 3 000000000000004B "MainCovenantAb" "INV_MISC_QUESTIONMARK"
 /cast Пепельное освящение
 /cast Божественный благовест
 /cast Благословение лета
+/cast Молот покорителя
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Пепельное освящение" or G"Божественный благовест" or G"Благословение лета")
 END
 VER 3 0000000000000038 "Mark_Circle" "135744"
@@ -136,9 +146,6 @@ END
 VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Молитва восстановления
-END
-VER 3 0000000000000036 "Pull" "236307"
-/pull 3
 END
 VER 3 0000000000000031 "Pull" "136103"
 /pull 3

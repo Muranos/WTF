@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0418,
-	["LastPlayerFullName"] = "Ниоши-Борейская тундра",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0531,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122250,
@@ -86,6 +83,9 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122353::::::::21:62:::1:583::::|h[Величавая трость ректора]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Ниоши-Борейская тундра",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

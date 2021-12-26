@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
-	["LastPlayerFullName"] = "Нирейя-Борейская тундра",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0531,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122249,
@@ -20,11 +17,6 @@ PawnOptions = {
 			["Level"] = 16,
 			["Link"] = "|cff00ccff|Hitem:122359::::::::13:102:::1:5805::::|h[Вычищенные железноперые наплечники]|h|r",
 		}, -- [3]
-		[5] = {
-			["ID"] = 122382,
-			["Level"] = 16,
-			["Link"] = "|cff00ccff|Hitem:122382::::::::13:102:::1:5805::::|h[Вычищенная железноперая кираса]|h|r",
-		},
 		[6] = {
 			["ID"] = 52609,
 			["Level"] = 5,
@@ -34,12 +26,6 @@ PawnOptions = {
 			["ID"] = 122255,
 			["Level"] = 16,
 			["Link"] = "|cff00ccff|Hitem:122255::::::::13:102:::1:5805::::|h[Вычищенные поножи Дикого Пера]|h|r",
-		},
-		[11] = {
-			["ID"] = 128169,
-			["Level"] = 16,
-			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff00ccff|Hitem:128169::::::::13:102:::1:3592::::|h[Печатка Третьего флота]|h|r",
 		},
 		[13] = {
 			["ID"] = 122362,
@@ -52,13 +38,33 @@ PawnOptions = {
 			["Level"] = 16,
 			["Link"] = "|cff00ccff|Hitem:122353::::::::13:102:::1:583::::|h[Величавая трость ректора]|h|r",
 		},
+		[12] = {
+			["ID"] = 128169,
+			["Level"] = 16,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff00ccff|Hitem:128169::::::::13:102:::1:3592::::::|h[Печатка Третьего флота]|h|r",
+		},
 		[14] = {
 			["ID"] = 122361,
 			["Level"] = 16,
 			["AlsoFitsIn"] = 13,
 			["Link"] = "|cff00ccff|Hitem:122361::::::::13:102:::1:3592::::|h[Стремительная рука правосудия]|h|r",
 		},
+		[5] = {
+			["ID"] = 122382,
+			["Level"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122382::::::::13:102:::1:5805::::|h[Вычищенная железноперая кираса]|h|r",
+		},
+		[11] = {
+			["ID"] = 128169,
+			["Level"] = 16,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff00ccff|Hitem:128169::::::::13:102:::1:3592::::|h[Печатка Третьего флота]|h|r",
+		},
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Нирейя-Борейская тундра",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

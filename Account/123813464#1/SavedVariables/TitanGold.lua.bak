@@ -3,27 +3,27 @@ GoldSave = {
 	["Ниамэй_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниамэй",
-		["gold"] = 7303347299,
+		["gold"] = 7514685431,
 	},
 	["Нирейя_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Нирейя",
-		["gold"] = 7834422,
+		["gold"] = 7834182,
 	},
 	["Зонна_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Зонна",
-		["gold"] = 900235086,
+		["gold"] = 840459410,
 	},
 	["Дэлери_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Дэлери",
-		["gold"] = 7495330202,
+		["gold"] = 7753634833,
 	},
 	["Алоиза_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алоиза",
-		["gold"] = 5216933029,
+		["gold"] = 5216932909,
 	},
 	["Сайбил_Борейская тундра::Horde"] = {
 		["show"] = true,
@@ -38,32 +38,32 @@ GoldSave = {
 	["Алоиза_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алоиза",
-		["gold"] = 3783152351,
+		["gold"] = 4412264772,
 	},
 	["Ниэтта_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниэтта",
-		["gold"] = 13803335004,
+		["gold"] = 14601955577,
 	},
 	["Элави_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Элави",
 		["gold"] = 44563278,
 	},
-	["Фламинника_Гордунни::Alliance"] = {
+	["Elavi_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Фламинника",
-		["gold"] = 11594681144,
+		["name"] = "Elavi",
+		["gold"] = 1728,
 	},
 	["Алтери_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алтери",
 		["gold"] = 1154566360,
 	},
-	["Elavi_Durotan::Alliance"] = {
+	["Фламинника_Гордунни::Alliance"] = {
 		["show"] = true,
-		["name"] = "Elavi",
-		["gold"] = 1728,
+		["name"] = "Фламинника",
+		["gold"] = 12181181970,
 	},
 	["Estrea_Alleria::Alliance"] = {
 		["show"] = true,
@@ -118,16 +118,16 @@ GoldSave = {
 	["Алтэри_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Алтэри",
-		["gold"] = 14115722003,
+		["gold"] = 14476514540,
 	},
 	["Эстрэя_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Эстрэя",
-		["gold"] = 3740940115,
+		["gold"] = 4202330588,
 	},
 	["Nietta_EU Mythic Dungeons::Alliance"] = {
 		["show"] = true,
 		["name"] = "Nietta",
-		["gold"] = 120872357,
+		["gold"] = 119498285,
 	},
 }

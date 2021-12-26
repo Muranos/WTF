@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.053,
+	["LastVersion"] = 2.0531,
+	["LastPlayerFullName"] = "Фламинника-Гордунни",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159430,
@@ -89,9 +92,7 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:169068::168642::::::120:73::16:6:6536:4802:6516:6513:1522:4786:::|h[Утилизированная обшивка механоцикла]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Фламинника-Гордунни",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128289] = {
 			["Relics"] = {
@@ -128,7 +129,6 @@ PawnOptions = {
 			["Name"] = "Удочка Темносвета",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "WARRIOR",

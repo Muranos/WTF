@@ -10,6 +10,8 @@ DataStore_TalentsDB = {
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
@@ -20,7 +22,7 @@ DataStore_TalentsDB = {
 		["Characters"] = {
 			["Default.Борейская тундра.Алоиза"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1635892373,
+				["lastUpdate"] = 1639732856,
 				["Specializations"] = {
 					[3] = 10727,
 				},
@@ -141,16 +143,6 @@ DataStore_TalentsDB = {
 				},
 				["activeSoulbindID"] = 6,
 			},
-			["Default.Durotan.Altery"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1631754388,
-				["Specializations"] = {
-					14942, -- [1]
-				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Assassination",
-				["Class"] = "ROGUE",
-			},
 			["Default.Гордунни.Ниамэй"] = {
 				["Conduits"] = {
 					[15] = "2|181373|213|6|",
@@ -250,6 +242,36 @@ DataStore_TalentsDB = {
 				},
 				["activeSoulbindID"] = 7,
 			},
+			["Default.Durotan.Altery"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1631754388,
+				["Specializations"] = {
+					14942, -- [1]
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Assassination",
+				["Class"] = "ROGUE",
+			},
+			["Default.Борейская тундра.Нирейя"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1639732675,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Баланс",
+				["Class"] = "DRUID",
+			},
+			["Default.Борейская тундра.Ниоши"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1639274004,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Тайная магия",
+				["Class"] = "MAGE",
+			},
 			["Default.Гордунни.Алтэри"] = {
 				["Conduits"] = {
 					[131] = "2|182318|226|7|",
@@ -347,7 +369,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Борейская тундра.Зонна"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1635892928,
+				["lastUpdate"] = 1639274474,
 				["Specializations"] = {
 					[3] = 7098,
 				},
@@ -701,6 +723,8 @@ DataStore_TalentsRefDB = {
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
@@ -873,6 +897,11 @@ DataStore_TalentsRefDB = {
 			["Specializations"] = {
 				{
 					["id"] = 62,
+					["talents"] = {
+						22458, -- [1]
+						22461, -- [2]
+						22464, -- [3]
+					},
 				}, -- [1]
 				{
 					["id"] = 63,
@@ -904,7 +933,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 40725,
+			["Version"] = 41359,
 		},
 		["PRIEST"] = {
 			["Locale"] = "ruRU",
@@ -942,7 +971,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 40725,
+			["Version"] = 41488,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "ruRU",
@@ -1003,7 +1032,7 @@ DataStore_TalentsRefDB = {
 			["Version"] = 39804,
 		},
 		["DRUID"] = {
-			["Locale"] = "enUS",
+			["Locale"] = "ruRU",
 			["Specializations"] = {
 				{
 					["id"] = 102,
@@ -1064,7 +1093,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 105,
 				}, -- [4]
 			},
-			["Version"] = 41288,
+			["Version"] = 41488,
 		},
 		["MONK"] = {
 			["Locale"] = "ruRU",

@@ -9,10 +9,13 @@ DataStoreDB = {
 		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
 	["global"] = {
@@ -42,6 +45,9 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 				["guildName"] = "Шэдоумун",
 			},
+			["Default.Борейская тундра.Нирейя"] = {
+				["faction"] = "Alliance",
+			},
 			["Default.Durotan.Altery"] = {
 				["faction"] = "Alliance",
 			},
@@ -49,11 +55,17 @@ DataStoreDB = {
 				["faction"] = "Alliance",
 				["guildName"] = "Безумное наслаждение",
 			},
+			["Default.Борейская тундра.Ниоши"] = {
+				["faction"] = "Alliance",
+			},
 			["Default.Гордунни.Алтэри"] = {
 				["faction"] = "Alliance",
 				["guildName"] = "Голоса в моей голове",
 			},
 			["Default.Борейская тундра.Зонна"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.EU Mythic Dungeons.Estrea"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Alleria.Estrea"] = {

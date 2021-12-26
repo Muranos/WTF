@@ -75,3 +75,4 @@ Altoholic_Summary: disabled
 DataStore: disabled
 AddonFactory: disabled
 Altoholic_Options: disabled
+LittleWigs_Legion: enabled

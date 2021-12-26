@@ -1,8 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.053,
-	["LastPlayerFullName"] = "Nietta-EU Mythic Dungeons",
-	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159446,
@@ -90,7 +88,8 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:175010::168642::::::120:66::6:7:4824:6578:6579:6541:1517:4786:6514:::|h[Бастион обезумевшего приверженца]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Nietta-EU Mythic Dungeons",
 	["Artifacts"] = {
 		[128823] = {
 			["Relics"] = {
@@ -144,6 +143,7 @@ PawnOptions = {
 			["Name"] = "Испепелитель",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PALADIN",

@@ -1,6 +1,6 @@
 
 VP_SPC = {
-	["ccsLV"] = 38,
+	["ccsLV"] = 39,
 	["ccsDelta"] = 20,
 	["ccsLH"] = 20,
 	["ccsCoven"] = 4,

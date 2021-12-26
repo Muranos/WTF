@@ -159,11 +159,11 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[201] = {
-			[60145864] = {
+		[1543] = {
+			[20803974] = {
+				["icon"] = 1,
+				["title"] = "Cage",
 				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Ol’ Fishbreath",
 				["desc"] = "",
 			},
 		},
@@ -193,17 +193,35 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[379] = {
-			[57007500] = {
-				["title"] = "Хавак",
+		[680] = {
+			[41036936] = {
+				["title"] = "House",
+				["cont"] = false,
+				["icon"] = 28,
+				["desc"] = "",
+			},
+			[46002800] = {
+				["title"] = "Blue",
 				["cont"] = false,
 				["icon"] = 6,
 				["desc"] = "",
 			},
-			[73007700] = {
-				["title"] = "Зей Изгой",
+			[43008100] = {
+				["title"] = "Yellow",
 				["cont"] = false,
-				["icon"] = 6,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[19004600] = {
+				["title"] = "Green",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[71006200] = {
+				["title"] = "Red",
+				["cont"] = false,
+				["icon"] = 7,
 				["desc"] = "",
 			},
 		},
@@ -329,41 +347,11 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[1961] = {
-			[25005100] = {
-				["title"] = "Закатный острокрыл",
+		[201] = {
+			[60145864] = {
 				["cont"] = false,
-				["icon"] = 3,
-				["desc"] = "",
-			},
-			[53707200] = {
-				["title"] = "Rift3",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[56807460] = {
-				["title"] = "Rift4",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[61804460] = {
-				["title"] = "Rift1",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[59405370] = {
-				["title"] = "Rift5",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[24805620] = {
-				["icon"] = 9,
-				["title"] = "Cache",
-				["cont"] = false,
+				["icon"] = 6,
+				["title"] = "Ol’ Fishbreath",
 				["desc"] = "",
 			},
 		},
@@ -407,29 +395,41 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[1355] = {
-			[45712409] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Sline",
-				["desc"] = "",
-			},
-			[55134877] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Slime",
-				["desc"] = "Done",
-			},
-			[71712569] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Slime",
-				["desc"] = "Done",
-			},
-			[60663194] = {
-				["title"] = "Laboratory",
+		[1961] = {
+			[25005100] = {
+				["title"] = "Закатный острокрыл",
 				["cont"] = false,
 				["icon"] = 3,
+				["desc"] = "",
+			},
+			[53707200] = {
+				["title"] = "Rift3",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[56807460] = {
+				["title"] = "Rift4",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[61804460] = {
+				["title"] = "Rift1",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[59405370] = {
+				["title"] = "Rift5",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[24805620] = {
+				["icon"] = 9,
+				["title"] = "Cache",
+				["cont"] = false,
 				["desc"] = "",
 			},
 		},
@@ -501,43 +501,43 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[680] = {
-			[41036936] = {
-				["title"] = "House",
+		[1355] = {
+			[45712409] = {
 				["cont"] = false,
-				["icon"] = 28,
+				["icon"] = 4,
+				["title"] = "Sline",
 				["desc"] = "",
 			},
-			[46002800] = {
-				["title"] = "Blue",
+			[55134877] = {
+				["cont"] = false,
+				["icon"] = 4,
+				["title"] = "Slime",
+				["desc"] = "Done",
+			},
+			[71712569] = {
+				["cont"] = false,
+				["icon"] = 4,
+				["title"] = "Slime",
+				["desc"] = "Done",
+			},
+			[60663194] = {
+				["title"] = "Laboratory",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[379] = {
+			[57007500] = {
+				["title"] = "Хавак",
 				["cont"] = false,
 				["icon"] = 6,
 				["desc"] = "",
 			},
-			[43008100] = {
-				["title"] = "Yellow",
+			[73007700] = {
+				["title"] = "Зей Изгой",
 				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[19004600] = {
-				["title"] = "Green",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "",
-			},
-			[71006200] = {
-				["title"] = "Red",
-				["cont"] = false,
-				["icon"] = 7,
-				["desc"] = "",
-			},
-		},
-		[1543] = {
-			[20803974] = {
-				["icon"] = 1,
-				["title"] = "Cage",
-				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 		},

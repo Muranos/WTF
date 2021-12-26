@@ -15,8 +15,10 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Фламинника-gordunni"
+RaiderIO_LastCharacter = "eu-Алтэри-gordunni"
 RaiderIO_MissingCharacters = {
+	["eu-Берлине-gordunni"] = true,
+	["eu-Мьёлнирр-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

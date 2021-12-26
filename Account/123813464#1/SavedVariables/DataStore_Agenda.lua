@@ -10,6 +10,8 @@ DataStore_AgendaDB = {
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
@@ -20,11 +22,11 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 3,
-			["NextWeeklyReset"] = "2021-12-08",
+			["NextWeeklyReset"] = "2021-12-22",
 		},
 		["Characters"] = {
 			["Default.Борейская тундра.Алоиза"] = {
-				["lastUpdate"] = 1635892376,
+				["lastUpdate"] = 1639732867,
 			},
 			["Default.EU Mythic Dungeons.Nietta"] = {
 				["lastUpdate"] = 1638543892,
@@ -32,17 +34,23 @@ DataStore_AgendaDB = {
 			["Default.Гордунни.Эстрэя"] = {
 				["lastUpdate"] = 1629715731,
 			},
+			["Default.Гордунни.Ниамэй"] = {
+				["lastUpdate"] = 1629715930,
+			},
 			["Default.Durotan.Altery"] = {
 				["lastUpdate"] = 1631754396,
 			},
-			["Default.Гордунни.Ниамэй"] = {
-				["lastUpdate"] = 1629715930,
+			["Default.Борейская тундра.Нирейя"] = {
+				["lastUpdate"] = 1639732685,
+			},
+			["Default.Борейская тундра.Ниоши"] = {
+				["lastUpdate"] = 1639274010,
 			},
 			["Default.Гордунни.Алтэри"] = {
 				["lastUpdate"] = 1629676443,
 			},
 			["Default.Борейская тундра.Зонна"] = {
-				["lastUpdate"] = 1635892930,
+				["lastUpdate"] = 1639274477,
 			},
 			["Default.EU Mythic Dungeons.Estrea"] = {
 				["lastUpdate"] = 1638543954,

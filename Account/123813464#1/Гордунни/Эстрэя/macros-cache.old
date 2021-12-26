@@ -9,9 +9,24 @@ VER 3 0100000000000005 "Celestial" "INV_MISC_QUESTIONMARK"
 /use Непостижимое квантовое устройство
 /cast Парад планет
 END
+VER 3 010000000000000C "Cyclon" "INV_MISC_QUESTIONMARK"
+#showtooltip Смерч
+/cast [target=focus] Смерч
+/cast Смерч
+END
 VER 3 0100000000000003 "Decurse" "INV_MISC_QUESTIONMARK"
 #showtooltip Снятие порчи
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Снятие порчи
+END
+VER 3 010000000000000B "FourthTalentRow" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:4/2] Массовое оплетение ; Мощное оглушение
+/cast Массовое оплетение
+/cast Мощное оглушение
+END
+VER 3 010000000000000A "LastTalentRow" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:6/2] Ярость Элуны ; Новолуние
+/cast Ярость Элуны
+/cast Новолуние
 END
 VER 3 0100000000000004 "MountUP" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -21,13 +36,17 @@ VER 3 0100000000000006 "Renew" "INV_MISC_QUESTIONMARK"
 #showtooltip Восстановление
 /cast  [modifier:SELFCAST,@player][@mouseover,help,nodead] Восстановление
 END
+VER 3 0100000000000009 "RenewForMe" "INV_MISC_QUESTIONMARK"
+#showtooltip Восстановление
+/cast [@player] Восстановление
+END
 VER 3 0100000000000007 "Trees" "INV_MISC_QUESTIONMARK"
-#shoowtooltip
+#shoowtooltip [talent:1/3] Сила природы ; Природное равновесие
 /cast [@cursor] Сила природы
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1DH1SR1MR1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСосКэрXynАтя[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Эст[x][x][x]Слу[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Эст[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

@@ -9,17 +9,20 @@ DataStore_TalentsDB = {
 		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Борейская тундра.Алоиза"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1635892373,
+				["lastUpdate"] = 1639732605,
 				["Specializations"] = {
 					[3] = 10727,
 				},
@@ -140,6 +143,16 @@ DataStore_TalentsDB = {
 				},
 				["activeSoulbindID"] = 6,
 			},
+			["Default.Борейская тундра.Нирейя"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1639732675,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Баланс",
+				["Class"] = "DRUID",
+			},
 			["Default.Durotan.Altery"] = {
 				["activeSpecRole"] = "DAMAGER",
 				["lastUpdate"] = 1631754388,
@@ -249,6 +262,16 @@ DataStore_TalentsDB = {
 				},
 				["activeSoulbindID"] = 7,
 			},
+			["Default.Борейская тундра.Ниоши"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1639274004,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Тайная магия",
+				["Class"] = "MAGE",
+			},
 			["Default.Гордунни.Алтэри"] = {
 				["Conduits"] = {
 					[131] = "2|182318|226|7|",
@@ -346,13 +369,23 @@ DataStore_TalentsDB = {
 			},
 			["Default.Борейская тундра.Зонна"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1635892928,
+				["lastUpdate"] = 1639274474,
 				["Specializations"] = {
 					[3] = 7098,
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Лед",
 				["Class"] = "MAGE",
+			},
+			["Default.EU Mythic Dungeons.Estrea"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1638543948,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Feral",
+				["Class"] = "DRUID",
 			},
 			["Default.Alleria.Estrea"] = {
 				["Class"] = "DRUID",
@@ -689,10 +722,13 @@ DataStore_TalentsRefDB = {
 		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
 	["global"] = {
@@ -861,6 +897,11 @@ DataStore_TalentsRefDB = {
 			["Specializations"] = {
 				{
 					["id"] = 62,
+					["talents"] = {
+						22458, -- [1]
+						22461, -- [2]
+						22464, -- [3]
+					},
 				}, -- [1]
 				{
 					["id"] = 63,
@@ -892,7 +933,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 40725,
+			["Version"] = 41359,
 		},
 		["PRIEST"] = {
 			["Locale"] = "ruRU",
@@ -930,7 +971,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 40725,
+			["Version"] = 41488,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "ruRU",
@@ -998,6 +1039,29 @@ DataStore_TalentsRefDB = {
 				}, -- [1]
 				{
 					["id"] = 103,
+					["talents"] = {
+						22363, -- [1]
+						22364, -- [2]
+						22365, -- [3]
+						19283, -- [4]
+						18570, -- [5]
+						18571, -- [6]
+						22163, -- [7]
+						22158, -- [8]
+						22159, -- [9]
+						21778, -- [10]
+						18576, -- [11]
+						18577, -- [12]
+						21708, -- [13]
+						18579, -- [14]
+						21704, -- [15]
+						21714, -- [16]
+						21711, -- [17]
+						22370, -- [18]
+						21646, -- [19]
+						21649, -- [20]
+						21653, -- [21]
+					},
 				}, -- [2]
 				{
 					["id"] = 104,
@@ -1029,7 +1093,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 105,
 				}, -- [4]
 			},
-			["Version"] = 39804,
+			["Version"] = 41488,
 		},
 		["MONK"] = {
 			["Locale"] = "ruRU",

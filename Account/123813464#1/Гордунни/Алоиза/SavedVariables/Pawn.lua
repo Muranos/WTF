@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.053,
-	["LastPlayerFullName"] = "Алоиза-Гордунни",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0531,
 	["ItemLevels"] = {
 		{
 			["ID"] = 173245,
@@ -32,9 +29,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:187540::::::::60:258::14:2:1466:6646:1:28:2043:::::|h[Опояска окутывающей смерти]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 179351,
-			["Level"] = 226,
-			["Link"] = "|cffa335ee|Hitem:179351::::::::60:258::35:5:7354:7359:6652:1540:6646::::|h[Колдунский саронг Мве'залы]|h|r",
+			["ID"] = 186357,
+			["Level"] = 233,
+			["Link"] = "|cffa335ee|Hitem:186357::::::::60:258::81:3:6652:1479:6646:1:28:2043:::::|h[Штаны скорби]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 185856,
@@ -91,7 +88,43 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178828::::::::60:258::33:5:7425:7359:6652:1521:6646:1:28:1279:::|h[Нафрийская скиния]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Алоиза-Гордунни",
 	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128827] = {
+			["Relics"] = {
+				{
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "Ксал'атат, клинок Темной Империи",
+		},
+		[128825] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 20,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Т'ууре, Светоч наару",
+		},
+	},
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

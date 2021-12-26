@@ -10,6 +10,8 @@ DataStore_AuctionsDB = {
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
@@ -18,6 +20,9 @@ DataStore_AuctionsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Борейская тундра.Ниоши"] = {
+				["lastUpdate"] = 1639274058,
+			},
 			["Default.Гордунни.Эстрэя"] = {
 				["lastUpdate"] = 1629715894,
 				["lastVisitDate"] = "2021/08/23 13:51",
@@ -29,6 +34,9 @@ DataStore_AuctionsDB = {
 			["Default.Гордунни.Ниамэй"] = {
 				["lastUpdate"] = 1629125935,
 				["lastVisitDate"] = "2021/08/16 17:58",
+			},
+			["Default.Борейская тундра.Алоиза"] = {
+				["lastUpdate"] = 1639732639,
 			},
 			["Default.Гордунни.Алтэри"] = {
 				["lastUpdate"] = 1627885257,

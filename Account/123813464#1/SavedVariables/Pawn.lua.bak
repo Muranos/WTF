@@ -7,10 +7,12 @@ PawnCommon = {
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = true,
 	["ShowItemLevelUpgrades"] = true,
-	["IgnoreGemsWhileLeveling"] = true,
 	["Debug"] = false,
+	["IgnoreGemsWhileLeveling"] = true,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
+	["ShowSpecIcons"] = true,
+	["ShowSocketingAdvisor"] = false,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -266,8 +268,8 @@ PawnCommon = {
 				["IsStaff"] = -1000000,
 				["Agility"] = 3.05,
 				["HasteRating"] = 3.13,
-				["MasteryRating"] = 3.31,
-				["IsCrossbow"] = -1000000,
+				["OffHandDps"] = 2.66,
+				["Versatility"] = 4.53,
 				["IsPolearm"] = -1000000,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
@@ -275,9 +277,9 @@ PawnCommon = {
 				["IsBow"] = -1000000,
 				["IsMail"] = -1000000,
 				["IsPlate"] = -1000000,
-				["Versatility"] = 4.53,
+				["IsCrossbow"] = -1000000,
 				["Is2HSword"] = -1000000,
-				["OffHandDps"] = 2.66,
+				["MasteryRating"] = 3.31,
 				["IsShield"] = -1000000,
 				["Dps"] = 14.7,
 			},
@@ -332,6 +334,9 @@ PawnCommon = {
 					["Visible"] = true,
 				},
 				["Нирейя-Борейская тундра"] = {
+					["Visible"] = true,
+				},
+				["Эстрэя-Гордунни"] = {
 					["Visible"] = true,
 				},
 			},
@@ -421,21 +426,6 @@ PawnCommon = {
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "6566b2",
 		},
-		["\"MrRobot\":DEMONHUNTER2"] = {
-			["IconTexturePath"] = 1247265,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "a330c9",
-			["ClassID"] = 12,
-			["LocalizedName"] = "Охотник на демонов: Месть",
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 2,
-			["UnenchantedColor"] = "7a2496",
-		},
 		["\"MrRobot\":SHAMAN3"] = {
 			["IconTexturePath"] = 136052,
 			["PerCharacterOptions"] = {
@@ -451,20 +441,41 @@ PawnCommon = {
 			["SpecID"] = 3,
 			["UnenchantedColor"] = "0054a6",
 		},
-		["\"MrRobot\":DRUID2"] = {
-			["IconTexturePath"] = 132115,
+		["\"MrRobot\":DEMONHUNTER2"] = {
+			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "ff7d0a",
-			["ClassID"] = 11,
-			["LocalizedName"] = "Друид: Сила зверя",
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
+			["Color"] = "a330c9",
+			["ClassID"] = 12,
+			["LocalizedName"] = "Охотник на демонов: Месть",
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["SpecID"] = 2,
-			["UnenchantedColor"] = "bf5d07",
+			["UnenchantedColor"] = "7a2496",
+		},
+		["\"MrRobot\":PALADIN2"] = {
+			["IconTexturePath"] = 236264,
+			["PerCharacterOptions"] = {
+				["Nietta-EU Mythic Dungeons"] = {
+					["Visible"] = true,
+				},
+				["Ниэтта-Гордунни"] = {
+					["Visible"] = true,
+				},
+			},
+			["Color"] = "f58cba",
+			["ClassID"] = 2,
+			["LocalizedName"] = "Паладин: Защита",
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 2,
+			["UnenchantedColor"] = "b7698b",
 		},
 		["\"MrRobot\":DEATHKNIGHT1"] = {
 			["IconTexturePath"] = 135770,
@@ -589,16 +600,16 @@ PawnCommon = {
 				["Altery-Bronzebeard"] = {
 					["Visible"] = true,
 				},
-				["Elavi-Durotan"] = {
+				["Altery-Durotan"] = {
 					["Visible"] = true,
 				},
-				["Flaminika-Durotan"] = {
+				["Elavi-Durotan"] = {
 					["Visible"] = true,
 				},
 				["Алтери-Борейская тундра"] = {
 					["Visible"] = true,
 				},
-				["Altery-Durotan"] = {
+				["Flaminika-Durotan"] = {
 					["Visible"] = true,
 				},
 			},
@@ -634,34 +645,25 @@ PawnCommon = {
 			["SpecID"] = 1,
 			["UnenchantedColor"] = "2f95b0",
 		},
-		["\"MrRobot\":PALADIN2"] = {
-			["IconTexturePath"] = 236264,
+		["\"MrRobot\":DRUID2"] = {
+			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
-				["Nietta-EU Mythic Dungeons"] = {
-					["Visible"] = true,
-				},
-				["Ниэтта-Гордунни"] = {
-					["Visible"] = true,
-				},
 			},
-			["Color"] = "f58cba",
-			["ClassID"] = 2,
-			["LocalizedName"] = "Паладин: Защита",
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
+			["Color"] = "ff7d0a",
+			["ClassID"] = 11,
+			["LocalizedName"] = "Друид: Сила зверя",
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["SpecID"] = 2,
-			["UnenchantedColor"] = "b7698b",
+			["UnenchantedColor"] = "bf5d07",
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
 				["Эстрея-Борейская тундра"] = {
-					["Visible"] = true,
-				},
-				["Эстрэя-Гордунни"] = {
 					["Visible"] = true,
 				},
 				["Estrea-EU Mythic Dungeons"] = {
@@ -725,9 +727,7 @@ PawnCommon = {
 			["UnenchantedColor"] = "00bf70",
 		},
 	},
-	["ShowSocketingAdvisor"] = false,
-	["ShowSpecIcons"] = true,
-	["LastVersion"] = 2.053,
+	["LastVersion"] = 2.0531,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

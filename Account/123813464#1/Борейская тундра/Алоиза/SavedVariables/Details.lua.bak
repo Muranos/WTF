@@ -21,7 +21,7 @@ _detalhes_database = {
 		["pos"] = {
 		},
 	},
-	["last_version"] = "9.1.08782",
+	["last_version"] = "9.1.59213",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -36,7 +36,7 @@ _detalhes_database = {
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
 		["last_version"] = 14,
-		["nextreset"] = 1630710411,
+		["nextreset"] = 1640569925,
 	},
 	["last_instance_id"] = 33,
 	["announce_interrupts"] = {
@@ -123,14 +123,14 @@ _detalhes_database = {
 				[146739] = 172,
 				[324183] = true,
 				[196711] = true,
-				[317488] = 317485,
-				[75] = true,
 				[227847] = 50622,
+				[75] = true,
+				[317488] = 317485,
 				[199672] = 1943,
 				[227518] = true,
-				[222031] = 199547,
-				[85739] = 44949,
 				[190411] = 44949,
+				[85739] = 44949,
+				[222031] = 199547,
 				[201428] = true,
 				[147833] = 3411,
 				[199667] = 44949,
@@ -164,27 +164,7 @@ _detalhes_database = {
 			["arrow_anchor_x"] = 0,
 			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["y"] = 4.57763671875e-05,
 			["author"] = "Details! Team",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["font_size"] = 10,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -196,7 +176,27 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["y"] = 4.57763671875e-05,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["use_spark"] = true,
+			["font_size"] = 10,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
@@ -305,23 +305,24 @@ _detalhes_database = {
 			["author"] = "Details! Team",
 		},
 	},
+	["cached_talents"] = {
+	},
 	["announce_prepots"] = {
 		["enabled"] = false,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_encounter"] = "Н'Зот Заразитель",
 	["announce_damagerecord"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
+	["last_encounter"] = "Н'Зот Заразитель",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["last_day"] = "20",
 	["character_data"] = {
-		["logons"] = 712,
+		["logons"] = 718,
 	},
 	["local_instances_config"] = {
 		{
@@ -345,10 +346,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -420.9990692138672,
-					["x"] = 579.499755859375,
-					["w"] = 161.0001525878906,
-					["h"] = 124.0000152587891,
+					["y"] = -422.999397277832,
+					["x"] = 562.4996337890625,
+					["w"] = 191.0003662109375,
+					["h"] = 124.0001525878906,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -379,10 +380,10 @@ _detalhes_database = {
 			["attribute"] = 2,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -420.9990692138672,
-					["x"] = 734.999755859375,
+					["y"] = -422.999397277832,
+					["x"] = 732.999755859375,
 					["w"] = 150.0000610351563,
-					["h"] = 124.0000152587891,
+					["h"] = 124.0001525878906,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -413,10 +414,10 @@ _detalhes_database = {
 			["attribute"] = 4,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -420.9990539550781,
-					["x"] = 884.999755859375,
+					["y"] = -422.999397277832,
+					["x"] = 882.999755859375,
 					["w"] = 150.0000610351563,
-					["h"] = 124.0000152587891,
+					["h"] = 124.0001525878906,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -430,7 +431,7 @@ _detalhes_database = {
 	["combat_id"] = 18025,
 	["savedStyles"] = {
 	},
-	["combat_counter"] = 20331,
+	["combat_counter"] = 20343,
 	["force_font_outline"] = "",
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -566,8 +567,7 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["last_realversion"] = 145,
-	["cached_talents"] = {
-	},
+	["last_day"] = "17",
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},

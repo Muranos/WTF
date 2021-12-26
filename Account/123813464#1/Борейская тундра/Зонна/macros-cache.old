@@ -8,6 +8,10 @@ VER 3 0100000000000003 "Burst" "SPELL_HOLY_HOLYPROTECTION"
 /cast Стылая кровь
 /cast Мощь тайной магии
 END
+VER 3 0100000000000013 "DismissPet" "132208"
+#showtooltip Оберегающий дух
+/script PetDismiss()
+END
 VER 3 010000000000000F "DispelMagic" "INV_Misc_QuestionMark"
 #showtooltip Снятие проклятия
 /stopcasting
@@ -21,10 +25,6 @@ VER 3 0100000000000006 "FrostArrow" "INV_Misc_QuestionMark"
 #showtooltip Ледяная стрела
 /use Приливный камень морского великана
 /cast Ледяная стрела
-END
-VER 3 0100000000000013 "Heal" "INV_Misc_QuestionMark"
-#showtooltip Оберегающий дух
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Оберегающий дух
 END
 VER 3 0100000000000016 "HeartOfTheAspect" "Ability_Monk_ThunderFocusTea"
 /cast [mounted,flyable,stance:0] Облик Тьмы

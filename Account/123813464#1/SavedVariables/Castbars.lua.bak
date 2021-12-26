@@ -17,13 +17,13 @@ CastbarsDB = {
 		["Мининевра - Азурегос"] = "Мининевра - Азурегос",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
-		["Estrea - Alleria"] = "Estrea - Alleria",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 		["Niamei - Silvermoon"] = "Niamei - Silvermoon",
-		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Estrea - Alleria"] = "Estrea - Alleria",
 		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Delery - Durotan"] = "Delery - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
@@ -31,7 +31,7 @@ CastbarsDB = {
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
 	["profiles"] = {
@@ -79,6 +79,7 @@ CastbarsDB = {
 			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
+				["ShowCooldownSpark"] = false,
 				["BorderWidthAdjustment"] = 1.600000000000001,
 				["Position"] = {
 					["y"] = 98.99994659423828,
@@ -86,7 +87,6 @@ CastbarsDB = {
 					["point"] = "BOTTOM",
 					["relpoint"] = "BOTTOM",
 				},
-				["ShowCooldownSpark"] = false,
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
@@ -178,7 +178,12 @@ CastbarsDB = {
 				},
 			},
 			["CastingBarFrame"] = {
-				["ShowCooldownSpark"] = false,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
@@ -186,28 +191,23 @@ CastbarsDB = {
 					["y"] = 98.99994659423828,
 				},
 				["BorderWidthAdjustment"] = 1.600000000000001,
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
+				["ShowCooldownSpark"] = false,
 			},
 			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["Position"] = {
-					["y"] = -2.000244617462158,
-					["x"] = -385.9995727539063,
-					["point"] = "RIGHT",
-					["relpoint"] = "RIGHT",
-				},
 				["BorderColor"] = {
 					0.9058823529411765, -- [1]
 					0.9372549019607843, -- [2]
 					0.9686274509803922, -- [3]
 					1, -- [4]
+				},
+				["Position"] = {
+					["y"] = -2.000244617462158,
+					["x"] = -385.9995727539063,
+					["point"] = "RIGHT",
+					["relpoint"] = "RIGHT",
 				},
 				["Height"] = 24,
 				["BorderWidthAdjustment"] = 8.100000000000001,
@@ -298,12 +298,6 @@ CastbarsDB = {
 				},
 			},
 			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
@@ -312,22 +306,28 @@ CastbarsDB = {
 				},
 				["BorderWidthAdjustment"] = 1.600000000000001,
 				["ShowCooldownSpark"] = false,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
 			},
 			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
 				["Position"] = {
 					["relpoint"] = "RIGHT",
 					["x"] = -392.9995422363281,
 					["point"] = "RIGHT",
 					["y"] = -2.000244617462158,
+				},
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
 				},
 				["Height"] = 24,
 				["BorderWidthAdjustment"] = 1.300000000000001,
@@ -365,17 +365,17 @@ CastbarsDB = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
 				["Position"] = {
 					["relpoint"] = "RIGHT",
 					["x"] = -392.9995422363281,
 					["point"] = "RIGHT",
 					["y"] = -2.000244617462158,
+				},
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
 				},
 				["Height"] = 24,
 				["BorderWidthAdjustment"] = 1.300000000000001,
@@ -385,19 +385,19 @@ CastbarsDB = {
 			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
-				["ShowCooldownSpark"] = false,
-				["BorderWidthAdjustment"] = 1.600000000000001,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
+				},
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
 				},
 			},
 		},
@@ -502,14 +502,14 @@ CastbarsDB = {
 					0.9607843137254902, -- [3]
 					1, -- [4]
 				},
-				["ShowCooldownSpark"] = false,
-				["BorderWidthAdjustment"] = 1.600000000000001,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["ShowCooldownSpark"] = false,
 			},
 			["MirrorTimer"] = {
 			},
@@ -593,6 +593,78 @@ CastbarsDB = {
 				},
 			},
 		},
+		["Estrea - EU Mythic Dungeons"] = {
+			["FocusCastingBarFrame"] = {
+				["Show"] = true,
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					0.800000011920929, -- [4]
+				},
+				["Height"] = 29,
+				["BorderWidthAdjustment"] = 2.400000000000002,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 367,
+			},
+			["PetCastingBarFrame"] = {
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 11.99995803833008,
+					["point"] = "BOTTOM",
+					["y"] = 127.00048828125,
+				},
+			},
+			["CastingBarFrame"] = {
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 7.999993801116943,
+					["point"] = "BOTTOM",
+					["y"] = 98.99994659423828,
+				},
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
+			},
+			["MirrorTimer"] = {
+			},
+			["TargetCastingBarFrame"] = {
+				["FontSize"] = 15,
+				["Position"] = {
+					["relpoint"] = "RIGHT",
+					["x"] = -392.9995422363281,
+					["point"] = "RIGHT",
+					["y"] = -2.000244617462158,
+				},
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
+				},
+				["Height"] = 24,
+				["BorderWidthAdjustment"] = 1.300000000000001,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 302,
+			},
+		},
+		["Эрника - Борейская тундра"] = {
+			["MirrorTimer"] = {
+			},
+			["FocusCastingBarFrame"] = {
+			},
+		},
+		["Niamei - Silvermoon"] = {
+			["MirrorTimer"] = {
+			},
+			["FocusCastingBarFrame"] = {
+			},
+		},
 		["Estrea - Alleria"] = {
 			["FocusCastingBarFrame"] = {
 				["Show"] = true,
@@ -653,78 +725,6 @@ CastbarsDB = {
 				},
 			},
 		},
-		["Эрника - Борейская тундра"] = {
-			["MirrorTimer"] = {
-			},
-			["FocusCastingBarFrame"] = {
-			},
-		},
-		["Niamei - Silvermoon"] = {
-			["MirrorTimer"] = {
-			},
-			["FocusCastingBarFrame"] = {
-			},
-		},
-		["Estrea - EU Mythic Dungeons"] = {
-			["FocusCastingBarFrame"] = {
-				["Show"] = true,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					0.800000011920929, -- [4]
-				},
-				["Height"] = 29,
-				["BorderWidthAdjustment"] = 2.400000000000002,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 367,
-			},
-			["PetCastingBarFrame"] = {
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 11.99995803833008,
-					["point"] = "BOTTOM",
-					["y"] = 127.00048828125,
-				},
-			},
-			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
-				["ShowCooldownSpark"] = false,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 7.999993801116943,
-					["point"] = "BOTTOM",
-					["y"] = 98.99994659423828,
-				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-			},
-			["MirrorTimer"] = {
-			},
-			["TargetCastingBarFrame"] = {
-				["FontSize"] = 15,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
-				["Position"] = {
-					["relpoint"] = "RIGHT",
-					["x"] = -392.9995422363281,
-					["point"] = "RIGHT",
-					["y"] = -2.000244617462158,
-				},
-				["Height"] = 24,
-				["BorderWidthAdjustment"] = 1.300000000000001,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 302,
-			},
-		},
 		["Элави - Борейская тундра"] = {
 			["MirrorTimer"] = {
 			},
@@ -756,14 +756,14 @@ CastbarsDB = {
 				["Width"] = 233,
 			},
 			["CastingBarFrame"] = {
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["ShowCooldownSpark"] = false,
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
 					["point"] = "BOTTOM",
 					["y"] = 98.99994659423828,
 				},
-				["ShowCooldownSpark"] = false,
-				["BorderWidthAdjustment"] = 1.600000000000001,
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
@@ -793,7 +793,7 @@ CastbarsDB = {
 				["Width"] = 302,
 			},
 		},
-		["Flaminika - Durotan"] = {
+		["Nietta - EU Mythic Dungeons"] = {
 			["FocusCastingBarFrame"] = {
 				["Show"] = true,
 				["BorderColor"] = {
@@ -810,28 +810,10 @@ CastbarsDB = {
 			["PetCastingBarFrame"] = {
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
-					["x"] = 11.99995803833008,
+					["x"] = 6.999986171722412,
 					["point"] = "BOTTOM",
-					["y"] = 127.00048828125,
+					["y"] = 107.0004272460938,
 				},
-			},
-			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 7.999993801116943,
-					["point"] = "BOTTOM",
-					["y"] = 98.99994659423828,
-				},
-				["ShowCooldownSpark"] = false,
-			},
-			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
@@ -851,6 +833,24 @@ CastbarsDB = {
 				["BorderWidthAdjustment"] = 1.300000000000001,
 				["Border"] = "Blizzard Tooltip",
 				["Width"] = 302,
+			},
+			["MirrorTimer"] = {
+			},
+			["CastingBarFrame"] = {
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 2.000014781951904,
+					["point"] = "BOTTOM",
+					["y"] = 77.9999771118164,
+				},
 			},
 		},
 		["Delery - Durotan"] = {
@@ -1041,17 +1041,17 @@ CastbarsDB = {
 		},
 		["Алоиза - Гордунни"] = {
 			["FocusCastingBarFrame"] = {
-				["Border"] = "Blizzard Tooltip",
+				["Show"] = true,
 				["BorderColor"] = {
 					0.9921568627450981, -- [1]
 					0.9921568627450981, -- [2]
 					0.9921568627450981, -- [3]
 					0.800000011920929, -- [4]
 				},
-				["Width"] = 367,
-				["Show"] = true,
-				["BorderWidthAdjustment"] = 2.400000000000002,
 				["Height"] = 29,
+				["BorderWidthAdjustment"] = 2.400000000000002,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 367,
 			},
 			["PetCastingBarFrame"] = {
 				["Position"] = {
@@ -1063,32 +1063,26 @@ CastbarsDB = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["Border"] = "Blizzard Tooltip",
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
-				["Width"] = 302,
-				["BorderWidthAdjustment"] = 1.300000000000001,
 				["Position"] = {
 					["y"] = -9.00032901763916,
 					["x"] = -393.9996643066406,
 					["point"] = "RIGHT",
 					["relpoint"] = "RIGHT",
 				},
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
+				},
 				["Height"] = 24,
+				["BorderWidthAdjustment"] = 1.300000000000001,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 302,
 			},
 			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
 					["x"] = 7.999993801116943,
@@ -1096,6 +1090,12 @@ CastbarsDB = {
 					["y"] = 98.99994659423828,
 				},
 				["BorderWidthAdjustment"] = 1.600000000000001,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
 			},
 		},
 		["Хилопятьумер - Гордунни"] = {
@@ -1106,17 +1106,17 @@ CastbarsDB = {
 		},
 		["Ниэтта - Гордунни"] = {
 			["FocusCastingBarFrame"] = {
-				["Show"] = true,
+				["Border"] = "Blizzard Tooltip",
 				["BorderColor"] = {
 					0.9921568627450981, -- [1]
 					0.9921568627450981, -- [2]
 					0.9921568627450981, -- [3]
 					0.800000011920929, -- [4]
 				},
-				["Height"] = 29,
-				["BorderWidthAdjustment"] = 2.400000000000002,
-				["Border"] = "Blizzard Tooltip",
 				["Width"] = 367,
+				["Show"] = true,
+				["BorderWidthAdjustment"] = 2.400000000000002,
+				["Height"] = 29,
 			},
 			["PetCastingBarFrame"] = {
 				["Position"] = {
@@ -1127,44 +1127,44 @@ CastbarsDB = {
 				},
 			},
 			["CastingBarFrame"] = {
-				["Position"] = {
-					["y"] = 77.9999771118164,
-					["x"] = 2.000014781951904,
-					["point"] = "BOTTOM",
-					["relpoint"] = "BOTTOM",
-				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["ShowCooldownSpark"] = false,
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
 					0.9607843137254902, -- [3]
 					1, -- [4]
 				},
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["Position"] = {
+					["y"] = 77.9999771118164,
+					["x"] = 2.000014781951904,
+					["point"] = "BOTTOM",
+					["relpoint"] = "BOTTOM",
+				},
 			},
 			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["Position"] = {
-					["relpoint"] = "RIGHT",
-					["x"] = -392.9995422363281,
-					["point"] = "RIGHT",
-					["y"] = -2.000244617462158,
-				},
+				["Border"] = "Blizzard Tooltip",
 				["BorderColor"] = {
 					0.9921568627450981, -- [1]
 					0.9921568627450981, -- [2]
 					0.9921568627450981, -- [3]
 					1, -- [4]
 				},
-				["Height"] = 24,
-				["BorderWidthAdjustment"] = 1.300000000000001,
-				["Border"] = "Blizzard Tooltip",
 				["Width"] = 302,
+				["BorderWidthAdjustment"] = 1.300000000000001,
+				["Position"] = {
+					["relpoint"] = "RIGHT",
+					["x"] = -392.9995422363281,
+					["point"] = "RIGHT",
+					["y"] = -2.000244617462158,
+				},
+				["Height"] = 24,
 			},
 		},
-		["Nietta - EU Mythic Dungeons"] = {
+		["Flaminika - Durotan"] = {
 			["FocusCastingBarFrame"] = {
 				["Show"] = true,
 				["BorderColor"] = {
@@ -1181,47 +1181,47 @@ CastbarsDB = {
 			["PetCastingBarFrame"] = {
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
-					["x"] = 6.999986171722412,
+					["x"] = 11.99995803833008,
 					["point"] = "BOTTOM",
-					["y"] = 107.0004272460938,
+					["y"] = 127.00048828125,
 				},
-			},
-			["TargetCastingBarFrame"] = {
-				["FontSize"] = 15,
-				["Position"] = {
-					["relpoint"] = "RIGHT",
-					["x"] = -392.9995422363281,
-					["point"] = "RIGHT",
-					["y"] = -2.000244617462158,
-				},
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
-				["Height"] = 24,
-				["BorderWidthAdjustment"] = 1.300000000000001,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 302,
-			},
-			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["ShowCooldownSpark"] = false,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 2.000014781951904,
-					["point"] = "BOTTOM",
-					["y"] = 77.9999771118164,
-				},
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
 					0.9607843137254902, -- [3]
 					1, -- [4]
 				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 7.999993801116943,
+					["point"] = "BOTTOM",
+					["y"] = 98.99994659423828,
+				},
+				["ShowCooldownSpark"] = false,
+			},
+			["MirrorTimer"] = {
+			},
+			["TargetCastingBarFrame"] = {
+				["FontSize"] = 15,
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
+				},
+				["Position"] = {
+					["relpoint"] = "RIGHT",
+					["x"] = -392.9995422363281,
+					["point"] = "RIGHT",
+					["y"] = -2.000244617462158,
+				},
+				["Height"] = 24,
+				["BorderWidthAdjustment"] = 1.300000000000001,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 302,
 			},
 		},
 		["Дэлери - Гордунни"] = {
@@ -1248,17 +1248,17 @@ CastbarsDB = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
-				["Position"] = {
-					["relpoint"] = "RIGHT",
-					["x"] = -392.9995422363281,
-					["point"] = "RIGHT",
-					["y"] = -2.000244617462158,
-				},
 				["BorderColor"] = {
 					0.9921568627450981, -- [1]
 					0.9921568627450981, -- [2]
 					0.9921568627450981, -- [3]
 					1, -- [4]
+				},
+				["Position"] = {
+					["relpoint"] = "RIGHT",
+					["x"] = -392.9995422363281,
+					["point"] = "RIGHT",
+					["y"] = -2.000244617462158,
 				},
 				["Height"] = 24,
 				["BorderWidthAdjustment"] = 1.300000000000001,
@@ -1268,20 +1268,20 @@ CastbarsDB = {
 			["MirrorTimer"] = {
 			},
 			["CastingBarFrame"] = {
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["ShowCooldownSpark"] = false,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 7.999993801116943,
-					["point"] = "BOTTOM",
-					["y"] = 98.99994659423828,
-				},
 				["BorderColor"] = {
 					0.9607843137254902, -- [1]
 					0.9607843137254902, -- [2]
 					0.9607843137254902, -- [3]
 					1, -- [4]
 				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 7.999993801116943,
+					["point"] = "BOTTOM",
+					["y"] = 98.99994659423828,
+				},
+				["ShowCooldownSpark"] = false,
 			},
 		},
 	},

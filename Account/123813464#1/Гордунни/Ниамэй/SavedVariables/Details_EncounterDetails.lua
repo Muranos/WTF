@@ -15529,12 +15529,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Varavel-Sylvanas",
 		},
-		[45297] = {
-			["school"] = 8,
+		[267999] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Пойдёт",
+			["source"] = "Мерзотень",
 		},
 		[188290] = {
 			["school"] = 32,
@@ -15552,12 +15552,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Таящийся паук",
 		},
-		[267999] = {
+		[341709] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Мерзотень",
+			["source"] = "Призывательница Туманов",
 		},
 		[171872] = {
 			["school"] = 64,
@@ -16285,12 +16286,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Чипикос-ВечнаяПесня",
 		},
-		[265974] = {
-			["school"] = 8,
+		[351969] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Гальваззт",
+			["source"] = "Писарь судьбы Ро-Кало",
 		},
 		[342076] = {
 			["school"] = 1,
@@ -19518,6 +19520,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Меректа",
 		},
+		[265974] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Гальваззт",
+		},
 		[186254] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -19525,14 +19534,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Шеаа",
-		},
-		[351969] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Писарь судьбы Ро-Кало",
 		},
 		[304975] = {
 			["school"] = 32,
@@ -19888,13 +19889,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Сочувствие",
 		},
-		[341709] = {
-			["school"] = 1,
+		[45297] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Призывательница Туманов",
+			["source"] = "Пойдёт",
 		},
 		[350031] = {
 			["school"] = 1,

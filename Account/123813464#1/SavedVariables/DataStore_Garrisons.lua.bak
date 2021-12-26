@@ -9,36 +9,29 @@ DataStore_GarrisonsDB = {
 		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Борейская тундра.Алоиза"] = {
 				["numRareFollowers"] = 9,
-				["MissionsStartTimes"] = {
-					[2080] = 1635892348,
-					[1901] = 1635892354,
-					[1890] = 1635892359,
-				},
 				["avgArmoriLevel"] = 673.5,
-				["lastUpdate"] = 1635892374,
+				["lastUpdate"] = 1639732616,
 				["numFollowersAtiLevel645"] = 29,
 				["numFollowersAtiLevel660"] = 29,
-				["numFollowersAtiLevel675"] = 22,
 				["ActiveWarCampaignMissions"] = {
-					1890, -- [1]
+					2080, -- [1]
 					1901, -- [2]
-					2080, -- [3]
+					1890, -- [3]
 				},
-				["AvailableWarCampaignMissions"] = {
-					1883, -- [1]
-					1893, -- [2]
-					2153, -- [3]
-				},
+				["numFollowersAtiLevel615"] = 43,
 				["AbilityCounters"] = {
 					9, -- [1]
 					6, -- [2]
@@ -53,421 +46,420 @@ DataStore_GarrisonsDB = {
 				},
 				["Followers"] = {
 					[357] = {
-						["link"] = "|cffa335ee|Hgarrfollower:357:4:40:675:150:151:0:0:79:77:9:0:0|h[Фасани]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:357:4:40:675:150:151:0:0:79:77:9:0:0|h[Фасани]|h|r",
 					},
 					[255] = {
-						["isInactive"] = true,
+						["levelXP"] = 6000,
 						["link"] = "|cff0070dd|Hgarrfollower:255:3:39:600:182:0:0:0:76:63:0:0:0|h[Гестия Вороний Лес]|h|r",
 						["xp"] = 3715,
-						["levelXP"] = 6000,
+						["isInactive"] = true,
 					},
 					[34] = {
-						["link"] = "|cffa335ee|Hgarrfollower:34:4:40:675:108:182:0:0:36:40:221:0:0|h[Киана Тень Луны]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:34:4:40:675:108:182:0:0:36:40:221:0:0|h[Киана Тень Луны]|h|r",
 					},
 					[870] = {
-						["link"] = "|cffa335ee|Hgarrfollower:870:6:45:950:456:652:0:0:971:996:973:0:353|h[Забра Проклинатель]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:870:6:45:950:456:652:0:0:971:996:973:0:353|h[Забра Проклинатель]|h|r",
 					},
 					[168] = {
-						["isInactive"] = true,
+						["levelXP"] = 6000,
 						["link"] = "|cff1eff00|Hgarrfollower:168:2:39:600:121:0:0:0:65:0:0:0:0|h[Зири'ак]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 6000,
+						["isInactive"] = true,
 					},
 					[465] = {
-						["link"] = "|cffa335ee|Hgarrfollower:465:4:40:675:160:161:0:0:248:256:7:0:0|h[Харрисон Джонс]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:465:4:40:675:160:161:0:0:248:256:7:0:0|h[Харрисон Джонс]|h|r",
 					},
 					[178] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:178:4:40:630:130:126:0:0:45:49:41:0:0|h[Лирой Дженкинс]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[180] = {
-						["link"] = "|cffa335ee|Hgarrfollower:180:4:40:675:11:10:0:0:254:79:49:0:0|h[Фиона]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:180:4:40:675:11:10:0:0:254:79:49:0:0|h[Фиона]|h|r",
 					},
 					[182] = {
-						["isInactive"] = true,
+						["levelXP"] = 120000,
 						["link"] = "|cff0070dd|Hgarrfollower:182:3:40:628:160:0:0:0:60:314:0:0:0|h[Шелли Хэмби]|h|r",
 						["xp"] = 35697,
-						["levelXP"] = 120000,
+						["isInactive"] = true,
 					},
 					[186] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:186:4:40:664:125:127:0:0:29:9:67:0:0|h[Воздаятельница Онаала]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[871] = {
-						["isInactive"] = true,
+						["levelXP"] = 200000,
 						["link"] = "|cffa335ee|Hgarrfollower:871:4:45:950:456:653:0:0:996:968:0:0:352|h[Ялия Мудрый Шепот]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 200000,
+						["isInactive"] = true,
 					},
 					[192] = {
-						["isInactive"] = true,
+						["levelXP"] = 120000,
 						["link"] = "|cff0070dd|Hgarrfollower:192:3:40:669:160:0:0:0:57:8:0:0:0|h[Кимзи Паросвист]|h|r",
 						["xp"] = 23329,
-						["levelXP"] = 120000,
+						["isInactive"] = true,
 					},
 					[202] = {
-						["link"] = "|cff0070dd|Hgarrfollower:202:3:40:675:167:0:0:0:227:256:0:0:0|h[Нат Пэгл]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 120000,
+						["xp"] = 0,
+						["link"] = "|cff0070dd|Hgarrfollower:202:3:40:675:167:0:0:0:227:256:0:0:0|h[Нат Пэгл]|h|r",
 					},
 					[204] = {
-						["isInactive"] = true,
+						["levelXP"] = 60000,
 						["link"] = "|cff1eff00|Hgarrfollower:204:2:40:622:122:0:0:0:58:0:0:0:0|h[Адмирал Тейлор]|h|r",
 						["xp"] = 47367,
-						["levelXP"] = 60000,
+						["isInactive"] = true,
 					},
 					[208] = {
-						["link"] = "|cffa335ee|Hgarrfollower:208:4:40:666:102:100:0:0:56:44:7:0:0|h[Ахм]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:208:4:40:666:102:100:0:0:56:44:7:0:0|h[Ахм]|h|r",
 					},
 					[418] = {
-						["link"] = "|cffa335ee|Hgarrfollower:418:4:40:675:121:100:0:0:256:42:44:0:0|h[Яманис Дубохват]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:418:4:40:675:121:100:0:0:256:42:44:0:0|h[Яманис Дубохват]|h|r",
 					},
 					[856] = {
-						["link"] = "|cffa335ee|Hgarrfollower:856:6:45:950:457:777:0:0:972:967:996:0:354|h[Калия Менетил]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:856:6:45:950:457:777:0:0:972:967:996:0:354|h[Калия Менетил]|h|r",
 					},
 					[218] = {
-						["isInactive"] = true,
+						["levelXP"] = 120000,
 						["link"] = "|cff0070dd|Hgarrfollower:218:3:40:643:148:0:0:0:231:42:0:0:0|h[Жрец Когтя Ишааль]|h|r",
 						["xp"] = 58601,
-						["levelXP"] = 120000,
+						["isInactive"] = true,
 					},
 					[872] = {
-						["link"] = "|cffa335ee|Hgarrfollower:872:6:45:950:457:654:0:0:967:970:968:0:352|h[Сол]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:872:6:45:950:457:654:0:0:967:970:968:0:352|h[Сол]|h|r",
 					},
 					[446] = {
-						["link"] = "|cffa335ee|Hgarrfollower:446:4:40:675:147:143:0:0:256:42:79:0:0|h[Турман Белва]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:446:4:40:675:147:143:0:0:256:42:79:0:0|h[Турман Белва]|h|r",
 					},
 					[331] = {
-						["link"] = "|cffa335ee|Hgarrfollower:331:4:40:675:125:123:0:0:256:77:4:0:0|h[Иллю'мина]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:331:4:40:675:125:123:0:0:256:77:4:0:0|h[Иллю'мина]|h|r",
 					},
 					[335] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:335:4:40:675:130:131:0:0:256:8:42:0:0|h[Фаал]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[466] = {
-						["link"] = "|cffff8000|Hgarrfollower:466:5:40:675:105:162:0:0:47:252:67:0:0|h[Гарона Полуорчиха]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffff8000|Hgarrfollower:466:5:40:675:105:162:0:0:47:252:67:0:0|h[Гарона Полуорчиха]|h|r",
 					},
 					[474] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:474:4:40:630:122:100:0:0:244:45:314:0:0|h[Ариок]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[857] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:857:6:45:950:458:651:0:0:679:678:905:0:352|h[Верховная жрица Ишана]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[873] = {
-						["link"] = "|cffa335ee|Hgarrfollower:873:6:45:950:456:655:0:0:968:965:996:0:354|h[Мариэлла Уорд]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:873:6:45:950:456:655:0:0:968:965:996:0:354|h[Мариэлла Уорд]|h|r",
 					},
 					[921] = {
-						["link"] = "|cffffffff|Hgarrfollower:921:1:35:700:647:0:0:0:0:0:0:0:0|h[Группа послушников]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:921:1:35:700:647:0:0:0:0:0:0:0:0|h[Группа послушников]|h|r",
 					},
 					[580] = {
-						["link"] = "|cffa335ee|Hgarrfollower:580:4:40:675:104:161:0:0:324:256:39:0:0|h[Паллада]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:580:4:40:675:104:161:0:0:324:256:39:0:0|h[Паллада]|h|r",
 					},
 					[153] = {
-						["isInactive"] = true,
+						["levelXP"] = 120000,
 						["link"] = "|cff0070dd|Hgarrfollower:153:3:40:630:161:0:0:0:236:42:0:0:0|h[Брума Быстрый Камень]|h|r",
 						["xp"] = 20885,
-						["levelXP"] = 120000,
+						["isInactive"] = true,
 					},
 					[155] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:155:4:40:675:6:122:0:0:53:64:314:0:0|h[Миалла]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[874] = {
-						["link"] = "|cffa335ee|Hgarrfollower:874:6:45:950:458:656:0:0:995:974:966:0:353|h[Натали Селин]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:874:6:45:950:458:656:0:0:995:974:966:0:353|h[Натали Селин]|h|r",
 					},
 					[159] = {
-						["link"] = "|cffa335ee|Hgarrfollower:159:4:40:675:166:101:0:0:53:41:9:0:0|h[Рангари Каайла]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:159:4:40:675:166:101:0:0:53:41:9:0:0|h[Рангари Каайла]|h|r",
 					},
 					[455] = {
-						["link"] = "|cffa335ee|Hgarrfollower:455:4:40:675:172:173:0:0:62:67:8:0:0|h[Миллхаус Манашторм]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:455:4:40:675:172:173:0:0:62:67:8:0:0|h[Миллхаус Манашторм]|h|r",
 					},
 					[463] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:463:4:40:667:11:10:0:0:314:77:44:0:0|h[Далира Лунный Клык]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[171] = {
-						["link"] = "|cffa335ee|Hgarrfollower:171:4:40:675:122:6:0:0:61:314:42:0:0|h[\"Гедотрон-8000\"]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:171:4:40:675:122:6:0:0:61:314:42:0:0|h[\"Гедотрон-8000\"]|h|r",
 					},
 					[177] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:177:4:40:637:124:127:0:0:44:46:69:0:0|h[Кроман]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[581] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:581:4:40:661:10:150:0:0:314:77:49:0:0|h[Лозоходец Искромет]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[183] = {
-						["isInactive"] = true,
+						["levelXP"] = 60000,
 						["link"] = "|cff1eff00|Hgarrfollower:183:2:40:673:157:0:0:0:55:0:0:0:0|h[Рулкан]|h|r",
 						["xp"] = 55173,
-						["levelXP"] = 60000,
+						["isInactive"] = true,
 					},
 					[279] = {
-						["link"] = "|cffa335ee|Hgarrfollower:279:4:40:622:165:167:0:0:52:4:64:0:0|h[Брен Скорострел]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:279:4:40:622:165:167:0:0:52:4:64:0:0|h[Брен Скорострел]|h|r",
 					},
 					[224] = {
-						["isInactive"] = true,
+						["levelXP"] = 120000,
 						["link"] = "|cff0070dd|Hgarrfollower:224:3:40:630:120:0:0:0:80:221:0:0:0|h[Коготарь Курекк]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 120000,
+						["isInactive"] = true,
 					},
 					[1002] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:1002:6:45:950:828:457:0:0:997:996:968:0:353|h[Эльталисте]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[439] = {
-						["link"] = "|cffa335ee|Hgarrfollower:439:4:40:675:143:141:0:0:79:232:39:0:0|h[Мина Кунис]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:439:4:40:675:143:141:0:0:79:232:39:0:0|h[Мина Кунис]|h|r",
 					},
 					[189] = {
-						["link"] = "|cffa335ee|Hgarrfollower:189:4:40:675:102:6:0:0:201:42:221:0:0|h[Блук]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:189:4:40:675:102:6:0:0:201:42:221:0:0|h[Блук]|h|r",
 					},
 					[195] = {
-						["isInactive"] = true,
+						["levelXP"] = 60000,
 						["link"] = "|cff1eff00|Hgarrfollower:195:2:40:622:160:0:0:0:40:0:0:0:0|h[Вэлдон Баров]|h|r",
 						["xp"] = 4662,
-						["levelXP"] = 60000,
+						["isInactive"] = true,
 					},
 					[931] = {
-						["link"] = "|cff1eff00|Hgarrfollower:931:2:35:700:649:650:0:0:0:0:0:0:0|h[Темные ревнители]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff1eff00|Hgarrfollower:931:2:35:700:649:650:0:0:0:0:0:0:0|h[Темные ревнители]|h|r",
 					},
 					[1060] = {
-						["link"] = "|cff0070dd|Hgarrfollower:1060:3:35:700:978:954:0:0:0:0:0:0:0|h[Солдат Армии Света]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff0070dd|Hgarrfollower:1060:3:35:700:978:954:0:0:0:0:0:0:0|h[Солдат Армии Света]|h|r",
 					},
 					[923] = {
-						["link"] = "|cffffffff|Hgarrfollower:923:1:35:700:647:0:0:0:0:0:0:0:0|h[Группа послушников]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:923:1:35:700:647:0:0:0:0:0:0:0:0|h[Группа послушников]|h|r",
 					},
 					[203] = {
-						["link"] = "|cffa335ee|Hgarrfollower:203:4:40:675:122:102:0:0:256:232:7:0:0|h[Мясыш]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:203:4:40:675:122:102:0:0:256:232:7:0:0|h[Мясыш]|h|r",
 					},
 					[205] = {
-						["link"] = "|cffa335ee|Hgarrfollower:205:4:40:675:11:10:0:0:9:256:77:0:0|h[Стражница душ Туулани]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:205:4:40:675:11:10:0:0:9:256:77:0:0|h[Стражница душ Туулани]|h|r",
 					},
 					[207] = {
-						["isInactive"] = true,
+						["levelXP"] = 3000,
 						["link"] = "|cff0070dd|Hgarrfollower:207:3:35:600:123:0:0:0:231:79:0:0:0|h[Защитница Иллона]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 3000,
+						["isInactive"] = true,
 					},
 					[209] = {
-						["isInactive"] = true,
+						["levelXP"] = 5400,
 						["link"] = "|cff1eff00|Hgarrfollower:209:2:38:600:114:0:0:0:56:0:0:0:0|h[Абу'гар]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 5400,
+						["isInactive"] = true,
 					},
 					[582] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:582:4:40:675:5:172:0:0:326:66:4:0:0|h[Жрец солнца Вайкс]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[157] = {
-						["isInactive"] = true,
+						["levelXP"] = 60000,
 						["link"] = "|cff1eff00|Hgarrfollower:157:2:40:630:102:0:0:0:236:0:0:0:0|h[Лантрезор Клинок]|h|r",
 						["xp"] = 29800,
-						["levelXP"] = 60000,
+						["isInactive"] = true,
 					},
 					[875] = {
-						["link"] = "|cffa335ee|Hgarrfollower:875:6:45:950:458:657:0:0:905:679:911:0:354|h[Алонсий Фаол]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:875:6:45:950:458:657:0:0:905:679:911:0:354|h[Алонсий Фаол]|h|r",
 					},
 					[217] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:217:4:40:674:108:182:0:0:8:65:43:0:0|h[Тизали Ворона]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[219] = {
-						["isInactive"] = true,
+						["levelXP"] = 120000,
 						["link"] = "|cff0070dd|Hgarrfollower:219:3:40:622:106:0:0:0:231:64:0:0:0|h[Леорадж]|h|r",
 						["xp"] = 4074,
-						["levelXP"] = 120000,
+						["isInactive"] = true,
 					},
 					[216] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:216:4:40:640:115:118:0:0:231:8:80:0:0|h[Делвар Железный Кулак]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[733] = {
-						["link"] = "|cffa335ee|Hgarrfollower:733:6:45:950:798:799:800:0:996:965:970:0:0|h[Мороуз]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:733:6:45:950:798:799:800:0:996:965:970:0:0|h[Мороуз]|h|r",
 					},
 					[225] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:225:4:40:600:120:102:0:0:76:63:69:0:0|h[Акнор Сталенос]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[227] = {
-						["isInactive"] = true,
+						["levelXP"] = 400,
 						["link"] = "|cff1eff00|Hgarrfollower:227:2:30:600:117:0:0:0:79:0:0:0:0|h[Аделаида Кейн]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 400,
+						["isInactive"] = true,
 					},
 					[1059] = {
-						["link"] = "|cff0070dd|Hgarrfollower:1059:3:35:700:978:954:0:0:0:0:0:0:0|h[Солдат Армии Света]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff0070dd|Hgarrfollower:1059:3:35:700:978:954:0:0:0:0:0:0:0|h[Солдат Армии Света]|h|r",
 					},
 					[920] = {
-						["link"] = "|cff1eff00|Hgarrfollower:920:2:35:700:649:650:0:0:0:0:0:0:0|h[Темные ревнители]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff1eff00|Hgarrfollower:920:2:35:700:649:650:0:0:0:0:0:0:0|h[Темные ревнители]|h|r",
 					},
 					[211] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:211:4:40:675:163:101:0:0:8:44:256:0:0|h[Глирин]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[468] = {
-						["link"] = "|cffa335ee|Hgarrfollower:468:4:40:675:181:178:0:0:303:66:256:0:0|h[Оронок Горемычный]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:468:4:40:675:181:178:0:0:303:66:256:0:0|h[Оронок Горемычный]|h|r",
 					},
 					[179] = {
-						["isInactive"] = true,
+						["levelXP"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:179:4:40:630:126:125:0:0:59:39:77:0:0|h[Механолог Ромуул]|h|r",
 						["xp"] = 0,
-						["levelXP"] = 0,
+						["isInactive"] = true,
 					},
 					[922] = {
-						["link"] = "|cffffffff|Hgarrfollower:922:1:35:700:647:0:0:0:0:0:0:0:0|h[Группа послушников]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:922:1:35:700:647:0:0:0:0:0:0:0:0|h[Группа послушников]|h|r",
 					},
 					[983] = {
-						["link"] = "|cff0070dd|Hgarrfollower:983:3:35:700:802:801:0:0:0:0:0:0:0|h[Баронесса Доротея Милстип]|h|r",
-						["xp"] = 0,
 						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff0070dd|Hgarrfollower:983:3:35:700:802:801:0:0:0:0:0:0:0|h[Баронесса Доротея Милстип]|h|r",
 					},
 				},
 				["AvailableMissions"] = {
-					157, -- [1]
-					169, -- [2]
-					160, -- [3]
-					156, -- [4]
-					333, -- [5]
-					259, -- [6]
-					255, -- [7]
-					254, -- [8]
-					127, -- [9]
-					126, -- [10]
-					358, -- [11]
-					202, -- [12]
-					309, -- [13]
-					495, -- [14]
-					326, -- [15]
-					373, -- [16]
-					159, -- [17]
-					454, -- [18]
-					479, -- [19]
-					484, -- [20]
+					455, -- [1]
+					326, -- [2]
+					685, -- [3]
+					160, -- [4]
+					177, -- [5]
+					189, -- [6]
+					173, -- [7]
+					333, -- [8]
+					301, -- [9]
+					665, -- [10]
+					671, -- [11]
+					133, -- [12]
+					255, -- [13]
+					358, -- [14]
+					202, -- [15]
+					394, -- [16]
+					673, -- [17]
+					373, -- [18]
+					159, -- [19]
+					483, -- [20]
 					493, -- [21]
-					396, -- [22]
-					381, -- [23]
-					682, -- [24]
+					677, -- [22]
+					397, -- [23]
 				},
 				["MissionsInfo"] = {
-					[2080] = {
-						["successChance"] = 170,
-						["followers"] = {
-							1068, -- [1]
-							1182, -- [2]
-							1073, -- [3]
-						},
-					},
-					[1901] = {
-						["successChance"] = 160,
-						["followers"] = {
-							1072, -- [1]
-							1062, -- [2]
-							1069, -- [3]
-						},
-					},
 					[1890] = {
 						["successChance"] = 65,
 						["followers"] = {
 							1065, -- [1]
 							1070, -- [2]
+						},
+					},
+					[1901] = {
+						["successChance"] = 160,
+						["followers"] = {
+							1069, -- [1]
+							1072, -- [2]
+							1062, -- [3]
+						},
+					},
+					[2080] = {
+						["successChance"] = 170,
+						["followers"] = {
+							1182, -- [1]
+							1068, -- [2]
+							1073, -- [3]
 						},
 					},
 				},
@@ -494,48 +486,35 @@ DataStore_GarrisonsDB = {
 					[29] = 1,
 					[67] = 3,
 					[42] = 7,
-					[248] = 1,
+					[40] = 2,
 					[58] = 1,
-					[227] = 1,
-					[65] = 2,
+					[39] = 3,
+					[221] = 3,
 					[303] = 1,
-					[43] = 1,
-					[9] = 4,
 					[231] = 4,
+					[9] = 4,
+					[43] = 1,
 					[69] = 2,
 					[232] = 2,
 					[201] = 1,
-					[324] = 1,
-					[244] = 1,
-					[252] = 1,
+					[60] = 1,
+					[59] = 1,
+					[326] = 1,
 					[36] = 1,
 					[44] = 5,
 					[52] = 1,
-					[60] = 1,
-					[4] = 3,
-					[66] = 2,
 					[236] = 2,
-					[326] = 1,
-					[59] = 1,
+					[66] = 2,
+					[4] = 3,
+					[252] = 1,
+					[244] = 1,
+					[324] = 1,
 					[45] = 2,
 					[53] = 2,
 					[61] = 1,
-					[221] = 3,
-					[39] = 3,
-					[40] = 2,
-				},
-				["AvailableOrderHallMissions"] = {
-					1505, -- [1]
-					1760, -- [2]
-					1751, -- [3]
-					1752, -- [4]
-					1815, -- [5]
-					1768, -- [6]
-					1765, -- [7]
-					1769, -- [8]
-					1761, -- [9]
-					1774, -- [10]
-					1777, -- [11]
+					[65] = 2,
+					[227] = 1,
+					[248] = 1,
 				},
 				["numFollowers"] = 49,
 				["Abilities"] = {
@@ -565,30 +544,30 @@ DataStore_GarrisonsDB = {
 					[11] = 3,
 					[101] = 2,
 					[117] = 1,
-					[114] = 1,
+					[5] = 1,
 					[102] = 5,
 					[118] = 1,
 					[165] = 1,
 					[172] = 2,
 					[141] = 1,
 					[173] = 1,
-					[151] = 1,
-					[104] = 1,
 					[143] = 2,
+					[147] = 1,
+					[104] = 1,
 					[120] = 2,
 					[181] = 1,
 					[182] = 3,
 					[105] = 1,
 					[121] = 2,
-					[147] = 1,
+					[151] = 1,
 					[178] = 1,
-					[5] = 1,
+					[114] = 1,
 				},
+				["numFollowersAtiLevel675"] = 22,
 				["avgWeaponiLevel"] = 670.35,
-				["numFollowersAtiLevel630"] = 38,
 				["numFollowersAtLevel40"] = 44,
 				["numEpicFollowers"] = 32,
-				["numFollowersAtiLevel615"] = 43,
+				["numFollowersAtiLevel630"] = 38,
 			},
 			["Default.EU Mythic Dungeons.Nietta"] = {
 				["lastUpdate"] = 1638543892,
@@ -763,6 +742,9 @@ DataStore_GarrisonsDB = {
 					[2265] = 1629675655,
 					[2207] = 1629715800,
 				},
+			},
+			["Default.Борейская тундра.Нирейя"] = {
+				["lastUpdate"] = 1639732681,
 			},
 			["Default.Durotan.Altery"] = {
 				["lastUpdate"] = 1631754393,
@@ -1012,6 +994,9 @@ DataStore_GarrisonsDB = {
 					2076, -- [4]
 					2140, -- [5]
 				},
+			},
+			["Default.Борейская тундра.Ниоши"] = {
+				["lastUpdate"] = 1639274007,
 			},
 			["Default.Гордунни.Алтэри"] = {
 				["numRareFollowers"] = 1,
@@ -1328,15 +1313,15 @@ DataStore_GarrisonsDB = {
 				["numRareFollowers"] = 1,
 				["numFollowersAtiLevel615"] = 10,
 				["avgArmoriLevel"] = 646.25,
-				["lastUpdate"] = 1635892929,
+				["lastUpdate"] = 1639274475,
 				["numFollowersAtiLevel645"] = 7,
 				["numFollowersAtiLevel660"] = 6,
 				["AvailableWarCampaignMissions"] = {
-					1894, -- [1]
-					1885, -- [2]
-					1892, -- [3]
-					1917, -- [4]
-					2079, -- [5]
+					1892, -- [1]
+					1896, -- [2]
+					1885, -- [3]
+					1911, -- [4]
+					1905, -- [5]
 					2141, -- [6]
 				},
 				["AbilityCounters"] = {
@@ -1353,177 +1338,177 @@ DataStore_GarrisonsDB = {
 				},
 				["Followers"] = {
 					[193] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:193:4:40:615:100:120:0:0:231:64:314:0:0|h[Тормок]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[725] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:725:6:45:950:465:548:0:0:962:970:995:0:347|h[Равандвир]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[726] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:726:6:45:950:466:544:0:0:996:997:965:0:347|h[Эзара Верринда]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[34] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:34:4:40:675:108:132:0:0:55:42:63:0:0|h[Киана Тень Луны]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[225] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:225:4:40:675:120:121:0:0:57:40:4:0:0|h[Акнор Сталенос]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[716] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:716:6:45:950:466:769:0:0:679:911:905:0:346|h[Верховный маг Кейлек]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[463] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:463:4:40:675:148:10:0:0:80:79:64:0:0|h[Далира Лунный Клык]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[761] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:761:6:45:950:467:550:0:0:999:970:1000:0:348|h[Мерил Буря Скверны]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[179] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:179:4:40:600:126:128:0:0:59:76:44:0:0|h[Механолог Ромуул]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[762] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:762:6:45:950:467:549:0:0:909:992:999:0:346|h[Верховный маг Варгот]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[1059] = {
-						["levelXP"] = 200,
-						["xp"] = 0,
 						["link"] = "|cff0070dd|Hgarrfollower:1059:3:35:700:978:954:0:0:0:0:0:0:0|h[Солдат Армии Света]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 200,
 					},
 					[195] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:195:4:40:675:160:162:0:0:256:36:42:0:0|h[Вэлдон Баров]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[717] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:717:6:45:950:465:545:0:0:995:998:976:0:348|h[Верховный маг Модера]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[821] = {
-						["levelXP"] = 200,
-						["xp"] = 0,
 						["link"] = "|cffffffff|Hgarrfollower:821:1:35:700:551:0:0:0:0:0:0:0:0|h[Ученики Стражей Тирисфаля]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 200,
 					},
 					[994] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:994:6:45:950:819:818:0:0:759:961:1000:0:347|h[Этас Похититель Солнца]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[207] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:207:4:40:604:123:125:0:0:231:76:256:0:0|h[Защитница Иллона]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[995] = {
-						["levelXP"] = 20000,
+						["isInactive"] = true,
 						["link"] = "|cff1eff00|Hgarrfollower:995:2:45:950:466:820:0:0:0:0:0:0:348|h[Великий Ахалаймахалай]|h|r",
 						["xp"] = 6000,
-						["isInactive"] = true,
+						["levelXP"] = 20000,
 					},
 					[153] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:153:4:40:675:161:160:0:0:54:7:64:0:0|h[Брума Быстрый Камень]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[219] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:219:4:40:618:106:154:0:0:231:314:40:0:0|h[Леорадж]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[192] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:192:4:40:631:160:104:0:0:57:4:65:0:0|h[Кимзи Паросвист]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[659] = {
-						["levelXP"] = 200,
-						["xp"] = 0,
 						["link"] = "|cffffffff|Hgarrfollower:659:1:35:700:551:0:0:0:0:0:0:0:0|h[Ученики Стражей Тирисфаля]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 200,
 					},
 					[218] = {
-						["levelXP"] = 4000,
-						["xp"] = 500,
 						["link"] = "|cff0070dd|Hgarrfollower:218:3:37:600:148:0:0:0:231:79:0:0:0|h[Жрец Когтя Ишааль]|h|r",
+						["xp"] = 500,
+						["levelXP"] = 4000,
 					},
 					[204] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:204:4:40:652:122:100:0:0:58:65:49:0:0|h[Адмирал Тейлор]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[769] = {
-						["levelXP"] = 200,
-						["xp"] = 0,
 						["link"] = "|cff1eff00|Hgarrfollower:769:2:35:700:554:0:0:0:0:0:0:0:0|h[Чародейские големы]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 200,
 					},
 					[723] = {
-						["levelXP"] = 200000,
+						["isInactive"] = true,
 						["link"] = "|cffa335ee|Hgarrfollower:723:4:45:950:467:546:0:0:758:759:0:0:347|h[Миллхаус Манашторм]|h|r",
 						["xp"] = 18186,
-						["isInactive"] = true,
+						["levelXP"] = 200000,
 					},
 					[216] = {
-						["levelXP"] = 0,
-						["xp"] = 0,
 						["link"] = "|cffa335ee|Hgarrfollower:216:4:40:675:115:116:0:0:231:65:8:0:0|h[Делвар Железный Кулак]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 0,
 					},
 					[724] = {
-						["levelXP"] = 8000,
+						["isInactive"] = true,
 						["link"] = "|cffffffff|Hgarrfollower:724:1:45:950:465:0:0:0:0:0:0:0:346|h[Чародейский разрушитель]|h|r",
 						["xp"] = 1800,
-						["isInactive"] = true,
+						["levelXP"] = 8000,
 					},
 					[818] = {
-						["levelXP"] = 200,
-						["xp"] = 0,
 						["link"] = "|cff1eff00|Hgarrfollower:818:2:35:700:554:0:0:0:0:0:0:0:0|h[Чародейские големы]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 200,
 					},
 				},
 				["AvailableMissions"] = {
-					162, -- [1]
-					161, -- [2]
-					185, -- [3]
-					189, -- [4]
+					160, -- [1]
+					170, -- [2]
+					173, -- [3]
+					175, -- [4]
 					243, -- [5]
 					245, -- [6]
-					332, -- [7]
-					129, -- [8]
-					269, -- [9]
-					132, -- [10]
-					262, -- [11]
-					300, -- [12]
-					336, -- [13]
-					276, -- [14]
+					329, -- [7]
+					128, -- [8]
+					267, -- [9]
+					664, -- [10]
+					127, -- [11]
+					116, -- [12]
+					498, -- [13]
+					275, -- [14]
 					273, -- [15]
-					211, -- [16]
-					299, -- [17]
-					674, -- [18]
+					200, -- [16]
+					303, -- [17]
+					312, -- [18]
 					326, -- [19]
-					159, -- [20]
-					375, -- [21]
-					457, -- [22]
-					478, -- [23]
-					485, -- [24]
-					487, -- [25]
+					375, -- [20]
+					159, -- [21]
+					455, -- [22]
+					460, -- [23]
+					486, -- [24]
+					488, -- [25]
 					399, -- [26]
-					379, -- [27]
+					677, -- [27]
 				},
 				["MissionsInfo"] = {
 					[119] = {
@@ -1567,16 +1552,19 @@ DataStore_GarrisonsDB = {
 				},
 				["AvailableOrderHallMissions"] = {
 					1505, -- [1]
-					1757, -- [2]
-					1752, -- [3]
-					1759, -- [4]
-					1760, -- [5]
-					1768, -- [6]
-					1761, -- [7]
-					1797, -- [8]
-					1762, -- [9]
-					1778, -- [10]
-					1776, -- [11]
+					1697, -- [2]
+					1699, -- [3]
+					1698, -- [4]
+					1796, -- [5]
+					1752, -- [6]
+					1377, -- [7]
+					1759, -- [8]
+					1765, -- [9]
+					1761, -- [10]
+					1769, -- [11]
+					1797, -- [12]
+					1774, -- [13]
+					1779, -- [14]
 				},
 				["numFollowersAtiLevel630"] = 8,
 				["numFollowers"] = 13,
@@ -1612,6 +1600,9 @@ DataStore_GarrisonsDB = {
 				["ActiveMissions"] = {
 					119, -- [1]
 				},
+			},
+			["Default.EU Mythic Dungeons.Estrea"] = {
+				["lastUpdate"] = 1638543954,
 			},
 			["Default.Alleria.Estrea"] = {
 				["lastUpdate"] = 1631900248,
@@ -2759,7 +2750,7 @@ DataStore_GarrisonsDB = {
 				["Бролл Медвежья Шкура"] = 641,
 				["Торас Троллебой"] = 838,
 				["Верховная мать Злоба"] = 720,
-				["Миллхаус Манашторм"] = 723,
+				["Миллхаус Манашторм"] = 455,
 				["Калия Менетил"] = 856,
 				["Нат Пэгл"] = 202,
 				["Эзара Верринда"] = 726,
@@ -2869,8 +2860,8 @@ DataStore_GarrisonsDB = {
 				["Златогрив Свежеватель"] = 170,
 				["Хмелевар Альма"] = 998,
 				["Лорд Дарий Краули"] = 989,
-				["Зири'ак"] = 168,
 				["Кроман"] = 177,
+				["Зири'ак"] = 168,
 				["Лантрезор Клинок"] = 157,
 				["Мясыш"] = 203,
 				["Фаал"] = 335,
@@ -2975,7 +2966,7 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 36000,
 					["type"] = "Бой",
 					["cost"] = 20,
-					["level"] = 35,
+					["iLevel"] = 0,
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -2986,7 +2977,7 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
+					["level"] = 35,
 				},
 				[1612] = {
 					["durationSeconds"] = 43200,
@@ -3023,7 +3014,7 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 3600,
 					["type"] = "Патрулирование",
 					["cost"] = 10,
-					["iLevel"] = 0,
+					["level"] = 37,
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -3034,7 +3025,7 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["level"] = 37,
+					["iLevel"] = 0,
 				},
 				[2199] = {
 					["durationSeconds"] = 14400,
@@ -3050,20 +3041,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["iLevel"] = 800,
-				},
-				[262] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Бой",
-					["cost"] = 15,
-					["iLevel"] = 615,
-					["rewards"] = {
-						{
-							["itemID"] = 120302,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
 				},
 				[1168] = {
 					["durationSeconds"] = 14400,
@@ -3222,20 +3199,6 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["iLevel"] = 800,
 				},
-				[454] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 100,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["itemID"] = 122486,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 660,
-				},
 				[118] = {
 					["durationSeconds"] = 28800,
 					["type"] = "Бой",
@@ -3288,16 +3251,16 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 21600,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 40,
-					["level"] = 50,
+					["iLevel"] = 800,
 					["rewards"] = {
 						{
 							["quantity"] = 14,
 							["itemID"] = 163036,
-							["itemLink"] = "|cffffffff|Hitem:163036::::::::50:258:::::::::|h[Отполированный оберег для питомца]|h|r",
+							["itemLink"] = "|cffffffff|Hitem:163036::::::::50:258:::::::::|h[]|h|r",
 						}, -- [1]
 					},
 					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
+					["level"] = 50,
 				},
 				[2208] = {
 					["durationSeconds"] = 14400,
@@ -3314,28 +3277,28 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["level"] = 60,
 				},
-				[156] = {
+				[180] = {
 					["durationSeconds"] = 3600,
 					["type"] = "Бой",
 					["cost"] = 10,
-					["level"] = 35,
+					["iLevel"] = 0,
+					["level"] = 37,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 600,
-							["tooltip"] = "+600 опыта",
+							["followerXP"] = 800,
+							["tooltip"] = "+800 опыта",
 							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+600 опыта",
+							["name"] = "+800 опыта",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
 				},
 				[375] = {
 					["durationSeconds"] = 36000,
 					["type"] = "Бой",
 					["cost"] = 20,
-					["iLevel"] = 0,
+					["level"] = 37,
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -3346,20 +3309,34 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 37,
-				},
-				[487] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Ювелирное дело",
-					["cost"] = 20,
 					["iLevel"] = 0,
+				},
+				[455] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Бой",
+					["cost"] = 100,
+					["iLevel"] = 660,
 					["rewards"] = {
 						{
-							["itemID"] = 122592,
-							["quantity"] = 2,
+							["itemID"] = 122486,
+							["quantity"] = 1,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Jewelcrafting",
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[685] = {
+					["durationSeconds"] = 43200,
+					["type"] = "Бой",
+					["cost"] = 100,
+					["iLevel"] = 675,
+					["rewards"] = {
+						{
+							["itemID"] = 128316,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 40,
 				},
 				[2216] = {
@@ -3378,37 +3355,53 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["iLevel"] = 800,
 				},
-				[1751] = {
+				[312] = {
 					["durationSeconds"] = 21600,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 600,
-					["level"] = 45,
+					["type"] = "Бой",
+					["cost"] = 0,
+					["level"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Награда в валюте",
-							["quantity"] = 25,
+							["quantity"] = 300,
+							["icon"] = 1005027,
+							["currencyID"] = 824,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 630,
+				},
+				[1751] = {
+					["durationSeconds"] = 21600,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 1200,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
 							["icon"] = 236521,
+							["quantity"] = 25,
+							["title"] = "Награда в валюте",
 							["currencyID"] = 1533,
 						}, -- [1]
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
+					["level"] = 45,
 				},
 				[1815] = {
-					["durationSeconds"] = 28800,
+					["durationSeconds"] = 57600,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 300,
+					["iLevel"] = 950,
 					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 45,
 							["icon"] = 1064188,
+							["quantity"] = 56,
+							["title"] = "Награда в валюте",
 							["currencyID"] = 1508,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
 				},
 				[2220] = {
 					["durationSeconds"] = 32400,
@@ -3457,23 +3450,21 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1752] = {
-					["durationSeconds"] = 25200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 400,
-					["iLevel"] = 950,
+				[488] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Ювелирное дело",
+					["cost"] = 20,
+					["level"] = 40,
 					["rewards"] = {
 						{
-							["icon"] = 236521,
-							["quantity"] = 25,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1533,
+							["itemID"] = 122592,
+							["quantity"] = 3,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
+					["typeAtlas"] = "GarrMission_MissionIcon-Jewelcrafting",
+					["iLevel"] = 0,
 				},
-				[132] = {
+				[133] = {
 					["durationSeconds"] = 21600,
 					["type"] = "Бой",
 					["cost"] = 0,
@@ -3504,50 +3495,34 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[682] = {
-					["durationSeconds"] = 43200,
-					["type"] = "Бой",
-					["cost"] = 100,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["itemID"] = 128313,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 675,
-				},
-				[157] = {
-					["durationSeconds"] = 1800,
-					["type"] = "Бой",
+				[2225] = {
+					["durationSeconds"] = 12600,
+					["type"] = "9.0 Encounter - Maldraxxus",
 					["cost"] = 10,
-					["level"] = 35,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 600,
-							["tooltip"] = "+600 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+600 опыта",
+							["quantity"] = 4,
+							["itemID"] = 184774,
+							["itemLink"] = "|cff0070dd|Hitem:184774::::::::60:577:::::::::|h[Молодая иглоспора]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
 				},
-				[309] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Бой",
-					["cost"] = 20,
-					["level"] = 40,
+				[329] = {
+					["durationSeconds"] = 1800,
+					["type"] = "Тренировка",
+					["cost"] = 5,
+					["level"] = 30,
 					["rewards"] = {
 						{
-							["itemID"] = 114131,
+							["itemID"] = 118474,
 							["quantity"] = 1,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 630,
+					["typeAtlas"] = "GarrMission_MissionIcon-Training",
+					["iLevel"] = 0,
 				},
 				[1882] = {
 					["durationSeconds"] = 14400,
@@ -3579,6 +3554,22 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-HUB",
 					["level"] = 50,
 				},
+				[189] = {
+					["durationSeconds"] = 2700,
+					["type"] = "Бой",
+					["cost"] = 0,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["icon"] = 1005027,
+							["quantity"] = 38,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 824,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 34,
+				},
 				[2100] = {
 					["durationSeconds"] = 21600,
 					["type"] = "8.0 - Hub Unlock",
@@ -3592,38 +3583,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "BfAMission-Icon-HUB",
 					["level"] = 50,
-				},
-				[1883] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["level"] = 50,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 255,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[358] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Бой",
-					["cost"] = 25,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 1,
-							["icon"] = 838813,
-							["currencyID"] = 994,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
 				},
 				[1055] = {
 					["durationSeconds"] = 14400,
@@ -3640,20 +3599,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 760,
-				},
-				[457] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 100,
-					["iLevel"] = 660,
-					["rewards"] = {
-						{
-							["itemID"] = 122486,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
 				},
 				[1884] = {
 					["durationSeconds"] = 14400,
@@ -3675,7 +3620,7 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 3600,
 					["type"] = "Патрулирование",
 					["cost"] = 10,
-					["iLevel"] = 0,
+					["level"] = 39,
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -3686,34 +3631,18 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["level"] = 39,
+					["iLevel"] = 0,
 				},
 				[1757] = {
 					["durationSeconds"] = 21600,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 2400,
+					["cost"] = 4800,
 					["iLevel"] = 950,
 					["rewards"] = {
 						{
 							["quantity"] = 4,
 							["itemID"] = 124124,
-							["itemLink"] = "|cff0070dd|Hitem:124124::::::::50:64:::::::::|h[Кровь Саргераса]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
-				},
-				[1761] = {
-					["durationSeconds"] = 43200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 950,
-					["rewards"] = {
-						{
-							["icon"] = 236521,
-							["quantity"] = 25,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1533,
+							["itemLink"] = "|cff0070dd|Hitem:124124::::::::50:258:::::::::|h[Кровь Саргераса]|h|r",
 						}, -- [1]
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
@@ -3722,18 +3651,47 @@ DataStore_GarrisonsDB = {
 				[1885] = {
 					["durationSeconds"] = 14400,
 					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["iLevel"] = 800,
+					["cost"] = 40,
+					["level"] = 50,
 					["rewards"] = {
 						{
-							["icon"] = 2032591,
-							["quantity"] = 75,
 							["title"] = "Награда в валюте",
+							["quantity"] = 75,
+							["icon"] = 2032591,
 							["currencyID"] = 1599,
 						}, -- [1]
 					},
 					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["level"] = 50,
+					["iLevel"] = 800,
+				},
+				[1758] = {
+					["durationSeconds"] = 25200,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 300,
+					["level"] = 45,
+					["rewards"] = {
+						{
+							["quantity"] = 2,
+							["itemID"] = 146942,
+							["itemLink"] = "|cffffffff|Hitem:146942::::::::50:64:::::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
+				},
+				[91] = {
+					["durationSeconds"] = 1800,
+					["type"] = "Бой",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["itemID"] = 112848,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 30,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
 				},
 				[2235] = {
 					["durationSeconds"] = 28800,
@@ -3752,96 +3710,19 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["level"] = 60,
 				},
-				[1758] = {
-					["durationSeconds"] = 25200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 300,
-					["iLevel"] = 950,
-					["rewards"] = {
-						{
-							["quantity"] = 2,
-							["itemID"] = 146942,
-							["itemLink"] = "|cffffffff|Hitem:146942::::::::50:64:::::::::|h[]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
-				},
-				[1765] = {
-					["durationSeconds"] = 64800,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["level"] = 45,
-					["rewards"] = {
-						{
-							["quantity"] = 2,
-							["itemID"] = 146946,
-							["itemLink"] = "|cff0070dd|Hitem:146946::::::::50:258:::::::::|h[Знак помраченных]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[1760] = {
-					["durationSeconds"] = 50400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 500,
-					["iLevel"] = 950,
-					["rewards"] = {
-						{
-							["quantity"] = 4,
-							["itemID"] = 140587,
-							["itemLink"] = "|cff0070dd|Hitem:140587::::::::50:64:::::::::|h[Оскверненная руна усиления]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
-				},
-				[91] = {
-					["durationSeconds"] = 1800,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["rewards"] = {
-						{
-							["itemID"] = 112848,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 30,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[1759] = {
+				[394] = {
 					["durationSeconds"] = 28800,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 600,
-					["iLevel"] = 950,
+					["type"] = "Бой",
+					["cost"] = 40,
+					["iLevel"] = 660,
 					["rewards"] = {
 						{
-							["icon"] = 236521,
-							["quantity"] = 25,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1533,
+							["itemID"] = 120945,
+							["quantity"] = 20,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
-				},
-				[2075] = {
-					["durationSeconds"] = 43200,
-					["type"] = "8.0 - Quick Strike",
-					["cost"] = 80,
-					["iLevel"] = 800,
-					["rewards"] = {
-						{
-							["icon"] = 2032596,
-							["quantity"] = 350,
-							["title"] = "Currency Reward",
-							["currencyID"] = 1594,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["level"] = 50,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
 				},
 				[1887] = {
 					["durationSeconds"] = 14400,
@@ -3859,51 +3740,49 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1889] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
+				[486] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Инженерное дело",
+					["cost"] = 20,
+					["level"] = 40,
 					["rewards"] = {
 						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 200,
-							["icon"] = 2032592,
-							["currencyID"] = 1579,
+							["itemID"] = 122591,
+							["quantity"] = 3,
 						}, -- [1]
 					},
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
+					["typeAtlas"] = "GarrMission_MissionIcon-Engineering",
+					["iLevel"] = 0,
 				},
 				[1505] = {
 					["durationSeconds"] = 57600,
 					["type"] = "7.0 Class Hall - Special Reward Missions",
-					["cost"] = 400,
+					["cost"] = 200,
 					["iLevel"] = 850,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-BonusIcon-Desaturated",
 					["rewards"] = {
 						{
 							["itemID"] = 143328,
 							["quantity"] = 1,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-BonusIcon-Desaturated",
-					["level"] = 45,
 				},
-				[189] = {
+				[187] = {
 					["durationSeconds"] = 2700,
 					["type"] = "Бой",
 					["cost"] = 0,
 					["iLevel"] = 0,
+					["level"] = 32,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
 							["icon"] = 1005027,
-							["quantity"] = 38,
+							["quantity"] = 34,
 							["title"] = "Награда в валюте",
 							["currencyID"] = 824,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 34,
 				},
 				[1888] = {
 					["durationSeconds"] = 7200,
@@ -3921,24 +3800,39 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[276] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Патрулирование",
-					["cost"] = 25,
-					["iLevel"] = 0,
+				[1697] = {
+					["durationSeconds"] = 259200,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 2000,
+					["iLevel"] = 900,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 15000,
-							["tooltip"] = "+15000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+15000 опыта",
+							["icon"] = 132775,
+							["quantity"] = 7500,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1226,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["level"] = 40,
 				},
-				[127] = {
+				[1761] = {
+					["durationSeconds"] = 43200,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["level"] = 45,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 25,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
+				},
+				[267] = {
 					["durationSeconds"] = 14400,
 					["type"] = "Бой",
 					["cost"] = 15,
@@ -3969,22 +3863,21 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["iLevel"] = 800,
 				},
-				[299] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 40,
-					["iLevel"] = 615,
+				[1698] = {
+					["durationSeconds"] = 518400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 2000,
+					["iLevel"] = 900,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 15000,
-							["tooltip"] = "+15000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+15000 опыта",
+							["icon"] = 803763,
+							["quantity"] = 500,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1342,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
 				},
 				[2241] = {
 					["durationSeconds"] = 12600,
@@ -4025,39 +3918,39 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 28800,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 20,
-					["level"] = 50,
+					["iLevel"] = 800,
 					["rewards"] = {
 						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 100,
 							["icon"] = 2032591,
+							["quantity"] = 100,
+							["title"] = "Награда в валюте",
 							["currencyID"] = 1599,
 						}, -- [1]
 					},
 					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
+					["level"] = 50,
 				},
-				[1762] = {
-					["durationSeconds"] = 64800,
+				[1699] = {
+					["durationSeconds"] = 259200,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["iLevel"] = 950,
+					["cost"] = 1000,
+					["iLevel"] = 900,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
 							["icon"] = 236521,
-							["quantity"] = 25,
+							["quantity"] = 250,
 							["title"] = "Награда в валюте",
 							["currencyID"] = 1533,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
 				},
-				[379] = {
-					["durationSeconds"] = 28800,
+				[127] = {
+					["durationSeconds"] = 14400,
 					["type"] = "Бой",
-					["cost"] = 60,
-					["iLevel"] = 675,
+					["cost"] = 15,
+					["level"] = 40,
 					["rewards"] = {
 						{
 							["itemID"] = 120301,
@@ -4065,23 +3958,7 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
-				},
-				[664] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Бой",
-					["cost"] = 15,
 					["iLevel"] = 0,
-					["level"] = 40,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["icon"] = 1131085,
-							["quantity"] = 25,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1101,
-						}, -- [1]
-					},
 				},
 				[2244] = {
 					["durationSeconds"] = 12600,
@@ -4098,34 +3975,48 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[2182] = {
-					["durationSeconds"] = 12600,
-					["type"] = "9.0 Encounter - Ardenweald",
-					["cost"] = 10,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["quantity"] = 16,
-							["itemID"] = 163036,
-							["itemLink"] = "|cffffffff|Hitem:163036::::::::60:268:::::::::|h[Отполированный оберег для питомца]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
-					["iLevel"] = 800,
-				},
-				[119] = {
-					["durationSeconds"] = 14400,
+				[211] = {
+					["durationSeconds"] = 6750,
 					["type"] = "Бой",
 					["cost"] = 15,
 					["iLevel"] = 0,
 					["rewards"] = {
 						{
-							["itemID"] = 120301,
-							["quantity"] = 1,
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 1050,
+							["tooltip"] = "+1050 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+1050 опыта",
 						}, -- [1]
+						{
+							["icon"] = 1005027,
+							["quantity"] = 200,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 824,
+						}, -- [2]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
+					["level"] = 36,
+				},
+				[173] = {
+					["durationSeconds"] = 3600,
+					["type"] = "Бой",
+					["cost"] = 0,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["itemID"] = 6662,
+							["quantity"] = 10,
+						}, -- [1]
+						{
+							["icon"] = 1005027,
+							["quantity"] = 32,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 824,
+						}, -- [2]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 31,
 				},
 				[230] = {
 					["durationSeconds"] = 2700,
@@ -4148,66 +4039,62 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 14400,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 20,
-					["iLevel"] = 800,
+					["level"] = 50,
 					["rewards"] = {
 						{
-							["icon"] = 2065624,
-							["quantity"] = 225,
 							["title"] = "Награда в валюте",
+							["quantity"] = 228,
+							["icon"] = 2065624,
 							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["level"] = 50,
-				},
-				[2071] = {
-					["durationSeconds"] = 32400,
-					["type"] = "8.0 - Quick Strike",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 350,
-							["icon"] = 2032595,
-							["currencyID"] = 1593,
-						}, -- [1]
-					},
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["iLevel"] = 800,
 				},
-				[254] = {
-					["durationSeconds"] = 28800,
+				[1752] = {
+					["durationSeconds"] = 50400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 400,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["icon"] = 236521,
+							["quantity"] = 25,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[1765] = {
+					["durationSeconds"] = 64800,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["quantity"] = 2,
+							["itemID"] = 146941,
+							["itemLink"] = "|cff0070dd|Hitem:146941::::::::50:258:::::::::|h[Знак валарьяров]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[126] = {
+					["durationSeconds"] = 14400,
 					["type"] = "Бой",
-					["cost"] = 20,
+					["cost"] = 10,
 					["level"] = 40,
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 12000,
-							["tooltip"] = "+12000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+12000 опыта",
+							["itemID"] = 120302,
+							["quantity"] = 1,
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 615,
-				},
-				[2263] = {
-					["durationSeconds"] = 14400,
-					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 14,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["title"] = "Денежная награда",
-							["quantity"] = 2944600,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["iLevel"] = 800,
+					["iLevel"] = 0,
 				},
 				[2248] = {
 					["durationSeconds"] = 43200,
@@ -4236,6 +4123,8 @@ DataStore_GarrisonsDB = {
 					["type"] = "Бой",
 					["cost"] = 20,
 					["iLevel"] = 0,
+					["level"] = 40,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -4245,8 +4134,6 @@ DataStore_GarrisonsDB = {
 							["name"] = "+8000 опыта",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
 				},
 				[1766] = {
 					["durationSeconds"] = 86400,
@@ -4262,211 +4149,6 @@ DataStore_GarrisonsDB = {
 							["itemLink"] = "|cffffffff|Hitem:152957::::::::50:259:::::::::|h[]|h|r",
 						}, -- [1]
 					},
-				},
-				[332] = {
-					["durationSeconds"] = 3600,
-					["type"] = "Исследование",
-					["cost"] = 10,
-					["iLevel"] = 0,
-					["rewards"] = {
-						{
-							["itemID"] = 26045,
-							["quantity"] = 100,
-						}, -- [1]
-						{
-							["itemID"] = 26044,
-							["quantity"] = 40,
-						}, -- [2]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
-					["level"] = 38,
-				},
-				[1894] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["iLevel"] = 800,
-					["rewards"] = {
-						{
-							["icon"] = 2065624,
-							["quantity"] = 236,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["level"] = 50,
-				},
-				[159] = {
-					["durationSeconds"] = 5400,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 700,
-							["tooltip"] = "+700 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+700 опыта",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 36,
-				},
-				[2264] = {
-					["durationSeconds"] = 30600,
-					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 34,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["quantity"] = 3,
-							["itemID"] = 181468,
-							["itemLink"] = "|cff0070dd|Hitem:181468::::::::60:268:::::::::|h[Затененная руна усиления]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["iLevel"] = 800,
-				},
-				[396] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 60,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["itemID"] = 120945,
-							["quantity"] = 30,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 675,
-				},
-				[1895] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["iLevel"] = 800,
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["rewards"] = {
-						{
-							["icon"] = 2032591,
-							["quantity"] = 125,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1599,
-						}, -- [1]
-					},
-				},
-				[178] = {
-					["durationSeconds"] = 2700,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
-					["level"] = 35,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 600,
-							["tooltip"] = "+600 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+600 опыта",
-						}, -- [1]
-					},
-				},
-				[1768] = {
-					["durationSeconds"] = 64800,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 950,
-					["rewards"] = {
-						{
-							["quantity"] = 2,
-							["itemID"] = 146943,
-							["itemLink"] = "|cff0070dd|Hitem:146943::::::::50:64:::::::::|h[Знак двора Фарондиса]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
-				},
-				[1896] = {
-					["durationSeconds"] = 43200,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["iLevel"] = 800,
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["rewards"] = {
-						{
-							["icon"] = 2032595,
-							["quantity"] = 75,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1593,
-						}, -- [1]
-					},
-				},
-				[492] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Кожевничество",
-					["cost"] = 20,
-					["iLevel"] = 0,
-					["level"] = 40,
-					["typeAtlas"] = "GarrMission_MissionIcon-Leatherworking",
-					["rewards"] = {
-						{
-							["itemID"] = 122596,
-							["quantity"] = 3,
-						}, -- [1]
-					},
-				},
-				[1769] = {
-					["durationSeconds"] = 86400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["level"] = 45,
-					["rewards"] = {
-						{
-							["quantity"] = 4,
-							["itemID"] = 140587,
-							["itemLink"] = "|cff0070dd|Hitem:140587::::::::50:258:::::::::|h[Оскверненная руна усиления]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[269] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Бой",
-					["cost"] = 0,
-					["iLevel"] = 615,
-					["rewards"] = {
-						{
-							["icon"] = 1005027,
-							["quantity"] = 225,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 824,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
-				},
-				[1858] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Stealth",
-					["cost"] = 20,
-					["iLevel"] = 800,
-					["rewards"] = {
-						{
-							["icon"] = 2065624,
-							["quantity"] = 431,
-							["title"] = "Currency Reward",
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-Stealth",
-					["level"] = 50,
 				},
 				[151] = {
 					["durationSeconds"] = 1800,
@@ -4485,71 +4167,36 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 33,
 				},
-				[333] = {
-					["durationSeconds"] = 300,
-					["type"] = "Снабжение",
-					["cost"] = 0,
-					["level"] = 30,
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 100,
-							["tooltip"] = "+100 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+100 опыта",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Logistics",
-					["iLevel"] = 0,
-				},
-				[2305] = {
-					["durationSeconds"] = 36000,
-					["type"] = "9.0 сражение – Тазавеш",
-					["cost"] = 52,
+				[1894] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
 					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 230,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2238] = {
+					["durationSeconds"] = 30600,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 30,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184642,
+							["itemLink"] = "|cff1eff00|Hitem:184642::::::::60:258::31:::::::|h[Тайник защитника-травника]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["level"] = 60,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 187574,
-							["itemLink"] = "|cff0070dd|Hitem:187574::::::::60:104::31:::::::|h[Полное ведро брокера]|h|r",
-						}, -- [1]
-						{
-							["quantity"] = 1,
-							["itemID"] = 187413,
-							["itemLink"] = "|cff1eff00|Hitem:187413::::::::60:104:::::::::|h[Кристальный носитель памяти]|h|r",
-						}, -- [2]
-					},
-				},
-				[1775] = {
-					["durationSeconds"] = 72000,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["iLevel"] = 900,
-					["level"] = 45,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 152929,
-							["itemLink"] = "|cffffffff|Hitem:152929::::::::50:259:::::::::|h[]|h|r",
-						}, -- [1]
-					},
-				},
-				[381] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Бой",
-					["cost"] = 60,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["itemID"] = 120945,
-							["quantity"] = 30,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 675,
 				},
 				[199] = {
 					["durationSeconds"] = 5400,
@@ -4565,25 +4212,419 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 34,
 				},
-				[2303] = {
-					["durationSeconds"] = 36000,
-					["type"] = "9.0 сражение – Тазавеш",
-					["cost"] = 52,
+				[2071] = {
+					["durationSeconds"] = 32400,
+					["type"] = "8.0 - Quick Strike",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 350,
+							["icon"] = 2032595,
+							["currencyID"] = 1593,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["iLevel"] = 800,
-					["level"] = 60,
+				},
+				[1895] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["rewards"] = {
+						{
+							["icon"] = 2032591,
+							["quantity"] = 125,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1599,
+						}, -- [1]
+					},
+				},
+				[2075] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Quick Strike",
+					["cost"] = 80,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032596,
+							["quantity"] = 350,
+							["title"] = "Currency Reward",
+							["currencyID"] = 1594,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["level"] = 50,
+				},
+				[1768] = {
+					["durationSeconds"] = 129600,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["quantity"] = 2,
+							["itemID"] = 146946,
+							["itemLink"] = "|cff0070dd|Hitem:146946::::::::50:258:::::::::|h[Знак помраченных]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[460] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Исследование",
+					["cost"] = 50,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["itemID"] = 118727,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
+					["iLevel"] = 0,
+				},
+				[1896] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 75,
+							["icon"] = 2032595,
+							["currencyID"] = 1593,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[492] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Кожевничество",
+					["cost"] = 20,
+					["iLevel"] = 0,
+					["level"] = 40,
+					["typeAtlas"] = "GarrMission_MissionIcon-Leatherworking",
+					["rewards"] = {
+						{
+							["itemID"] = 122596,
+							["quantity"] = 3,
+						}, -- [1]
+					},
+				},
+				[1769] = {
+					["durationSeconds"] = 86400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 200,
+					["level"] = 45,
+					["rewards"] = {
+						{
+							["quantity"] = 4,
+							["itemID"] = 140587,
+							["itemLink"] = "|cff0070dd|Hitem:140587::::::::50:64:::::::::|h[Оскверненная руна усиления]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
+				},
+				[119] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Бой",
+					["cost"] = 15,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["itemID"] = 120301,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[276] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Патрулирование",
+					["cost"] = 25,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 15000,
+							["tooltip"] = "+15000 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+15000 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["level"] = 40,
+				},
+				[301] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Бой",
+					["cost"] = 30,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 8000,
+							["tooltip"] = "+8000 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+8000 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[159] = {
+					["durationSeconds"] = 5400,
+					["type"] = "Бой",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 700,
+							["tooltip"] = "+700 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+700 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 36,
+				},
+				[664] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Бой",
+					["cost"] = 15,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 25,
+							["icon"] = 1131085,
+							["currencyID"] = 1101,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[175] = {
+					["durationSeconds"] = 2700,
+					["type"] = "Бой",
+					["cost"] = 0,
+					["level"] = 32,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 34,
+							["icon"] = 1005027,
+							["currencyID"] = 824,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[333] = {
+					["durationSeconds"] = 300,
+					["type"] = "Снабжение",
+					["cost"] = 0,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 100,
+							["tooltip"] = "+100 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+100 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Logistics",
+					["level"] = 30,
+				},
+				[397] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Бой",
+					["cost"] = 60,
+					["iLevel"] = 675,
+					["rewards"] = {
+						{
+							["itemID"] = 120302,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[2231] = {
+					["durationSeconds"] = 43200,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 3492310,
+							["quantity"] = 1000,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1805,
+						}, -- [1]
+						{
+							["icon"] = 255347,
+							["quantity"] = 1,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1889,
+						}, -- [2]
+					},
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 60,
+				},
+				[2268] = {
+					["durationSeconds"] = 36000,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 50,
 					["rewards"] = {
 						{
 							["quantity"] = 1,
-							["itemID"] = 187573,
-							["itemLink"] = "|cff0070dd|Hitem:187573::::::::60:104::31:::::::|h[Частица усиления брокера-зачаровывателя]|h|r",
+							["itemID"] = 181638,
+							["itemLink"] = "|cffffffff|Hitem:181638::::::::60:250::27:3:1472:5897:6646::::::|h[]|h|r",
 						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[665] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Бой",
+					["cost"] = 15,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["icon"] = 1131085,
+							["quantity"] = 25,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1101,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[1900] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Stealth",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 350,
+							["icon"] = 2032591,
+							["currencyID"] = 1599,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Stealth",
+					["iLevel"] = 800,
+				},
+				[493] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Портняжное дело",
+					["cost"] = 20,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["itemID"] = 122594,
+							["quantity"] = 2,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Tailoring",
+					["level"] = 40,
+				},
+				[255] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Бой",
+					["cost"] = 15,
+					["iLevel"] = 615,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 12000,
+							["tooltip"] = "+12000 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+12000 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[677] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Бой",
+					["cost"] = 60,
+					["iLevel"] = 675,
+					["rewards"] = {
+						{
+							["icon"] = 1131085,
+							["quantity"] = 150,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1101,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[1901] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032592,
+							["quantity"] = 350,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[150] = {
+					["durationSeconds"] = 3600,
+					["type"] = "Бой",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 400,
+							["tooltip"] = "+400 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+400 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 33,
+				},
+				[1774] = {
+					["durationSeconds"] = 50400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 900,
+					["rewards"] = {
 						{
 							["quantity"] = 1,
-							["itemID"] = 187415,
-							["itemLink"] = "|cffa335ee|Hitem:187415::::::::60:104:::::::::|h[Призма расширения сознания]|h|r",
-						}, -- [2]
+							["itemID"] = 152929,
+							["itemLink"] = "|cff1eff00|Hitem:152929::::::::50:258:::::::::|h[Раздвоенное копье горного охотника]|h|r",
+						}, -- [1]
 					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
 				},
 				[334] = {
 					["durationSeconds"] = 36000,
@@ -4608,132 +4649,6 @@ DataStore_GarrisonsDB = {
 						}, -- [2]
 					},
 				},
-				[2268] = {
-					["durationSeconds"] = 36000,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 50,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 181638,
-							["itemLink"] = "|cffffffff|Hitem:181638::::::::60:250::27:3:1472:5897:6646::::::|h[]|h|r",
-						}, -- [1]
-					},
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 800,
-				},
-				[1900] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Stealth",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 350,
-							["icon"] = 2032591,
-							["currencyID"] = 1599,
-						}, -- [1]
-					},
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Stealth",
-					["iLevel"] = 800,
-				},
-				[493] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Портняжное дело",
-					["cost"] = 20,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["itemID"] = 122594,
-							["quantity"] = 2,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Tailoring",
-					["iLevel"] = 0,
-				},
-				[255] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 15,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 12000,
-							["tooltip"] = "+12000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+12000 опыта",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 615,
-				},
-				[1901] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["level"] = 50,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 350,
-							["icon"] = 2032592,
-							["currencyID"] = 1579,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1333] = {
-					["durationSeconds"] = 7200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 760,
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 600,
-							["tooltip"] = "+600 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+600 опыта",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 37,
-				},
-				[2265] = {
-					["durationSeconds"] = 46800,
-					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 50,
-					["iLevel"] = 800,
-					["level"] = 60,
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184637,
-							["itemLink"] = "|cff0070dd|Hitem:184637::::::::60:104::31:::::::|h[Мясной тайник героя]|h|r",
-						}, -- [1]
-					},
-				},
-				[2138] = {
-					["durationSeconds"] = 57600,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 331,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
 				[2266] = {
 					["durationSeconds"] = 12600,
 					["type"] = "9.0 Encounter - Revendreth",
@@ -4749,34 +4664,36 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["level"] = 60,
 				},
-				[126] = {
+				[2271] = {
 					["durationSeconds"] = 14400,
-					["type"] = "Бой",
+					["type"] = "9.0 Encounter - Bastion",
 					["cost"] = 10,
-					["level"] = 40,
 					["rewards"] = {
 						{
-							["itemID"] = 120302,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[2267] = {
-					["durationSeconds"] = 28800,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 30,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184839,
-							["itemLink"] = "|cffffffff|Hitem:184839::::::::60:250::26:3:1472:5894:6646::::::|h[]|h|r",
+							["title"] = "Денежная награда",
+							["quantity"] = 3007100,
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["currencyID"] = 0,
 						}, -- [1]
 					},
 					["level"] = 60,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
 					["iLevel"] = 800,
+				},
+				[1775] = {
+					["durationSeconds"] = 72000,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 200,
+					["iLevel"] = 900,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 152929,
+							["itemLink"] = "|cffffffff|Hitem:152929::::::::50:259:::::::::|h[]|h|r",
+						}, -- [1]
+					},
 				},
 				[2140] = {
 					["durationSeconds"] = 129600,
@@ -4813,7 +4730,7 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 64800,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 40,
-					["iLevel"] = 800,
+					["level"] = 50,
 					["rewards"] = {
 						{
 							["quantity"] = 1,
@@ -4822,128 +4739,40 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["level"] = 50,
+					["iLevel"] = 800,
 				},
-				[1776] = {
-					["durationSeconds"] = 86400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 900,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 152441,
-							["itemLink"] = "|cff0070dd|Hitem:152441::::::::50:64:::::::::|h[Сумка ясновидения]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
-				},
-				[667] = {
+				[2269] = {
 					["durationSeconds"] = 14400,
-					["type"] = "Бой",
-					["cost"] = 15,
-					["iLevel"] = 0,
-					["level"] = 40,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["icon"] = 1131085,
-							["quantity"] = 25,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1101,
-						}, -- [1]
-					},
-				},
-				[2270] = {
-					["durationSeconds"] = 43200,
 					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 50,
-					["iLevel"] = 800,
+					["cost"] = 13,
 					["level"] = 60,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 375,
+							["icon"] = 3492310,
+							["currencyID"] = 1805,
+						}, -- [1]
+					},
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["rewards"] = {
-						{
-							["quantity"] = 6,
-							["itemID"] = 181468,
-							["itemLink"] = "|cff0070dd|Hitem:181468::::::::60:104:::::::::|h[Затененная руна усиления]|h|r",
-						}, -- [1]
-					},
-				},
-				[2277] = {
-					["durationSeconds"] = 50400,
-					["type"] = "9.0 Encounter - Ardenweald",
-					["cost"] = 50,
 					["iLevel"] = 800,
-					["rewards"] = {
-						{
-							["quantity"] = 24,
-							["itemID"] = 163036,
-							["itemLink"] = "|cffffffff|Hitem:163036::::::::60:258:::::::::|h[Отполированный оберег для питомца]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
-					["level"] = 60,
 				},
-				[128] = {
+				[116] = {
 					["durationSeconds"] = 28800,
 					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
+					["cost"] = 20,
 					["level"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 8000,
+							["tooltip"] = "+8000 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+8000 опыта",
+						}, -- [1]
+					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["itemID"] = 114616,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[2144] = {
-					["durationSeconds"] = 86400,
-					["type"] = "8.2 - Deep Sea",
-					["cost"] = 80,
-					["iLevel"] = 800,
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-DeepSea",
-					["rewards"] = {
-						{
-							["icon"] = 463858,
-							["quantity"] = 8,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1721,
-						}, -- [1]
-					},
-				},
-				[2273] = {
-					["durationSeconds"] = 50400,
-					["type"] = "9.0 Encounter - Bastion",
-					["cost"] = 50,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184638,
-							["itemLink"] = "|cff0070dd|Hitem:184638::::::::60:268::31:::::::|h[Рыбный тайник героя]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
-					["iLevel"] = 800,
-				},
-				[1778] = {
-					["durationSeconds"] = 86400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["iLevel"] = 900,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 139812,
-							["itemLink"] = "|cffa335ee|Hitem:139812::::::::50:64:::::::::|h[Зелье Тритона]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
+					["iLevel"] = 0,
 				},
 				[478] = {
 					["durationSeconds"] = 14400,
@@ -4958,104 +4787,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
 					["level"] = 38,
-				},
-				[2274] = {
-					["durationSeconds"] = 36000,
-					["type"] = "9.0 Encounter - Bastion",
-					["cost"] = 50,
-					["iLevel"] = 800,
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184646,
-							["itemLink"] = "|cff0070dd|Hitem:184646::::::::60:104::31:::::::|h[Тайник героического горняка]|h|r",
-						}, -- [1]
-					},
-				},
-				[2280] = {
-					["durationSeconds"] = 43200,
-					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 52,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184642,
-							["itemLink"] = "|cff1eff00|Hitem:184642::::::::60:268::31:::::::|h[Тайник защитника-травника]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["iLevel"] = 800,
-				},
-				[2298] = {
-					["durationSeconds"] = 86400,
-					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 100,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 130,
-							["icon"] = 3743738,
-							["currencyID"] = 1828,
-						}, -- [1]
-						{
-							["itemID"] = 178040,
-							["quantity"] = 1,
-						}, -- [2]
-					},
-					["level"] = 60,
-					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["iLevel"] = 800,
-				},
-				[399] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Бой",
-					["cost"] = 60,
-					["iLevel"] = 675,
-					["rewards"] = {
-						{
-							["icon"] = 1061300,
-							["quantity"] = 600,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 823,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
-				},
-				[2276] = {
-					["durationSeconds"] = 14400,
-					["type"] = "9.0 Encounter - Ardenweald",
-					["cost"] = 10,
-					["iLevel"] = 800,
-					["level"] = 60,
-					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 1500,
-							["tooltip"] = "+1500 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1500 опыта",
-						}, -- [1]
-					},
-				},
-				[1918] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["quantity"] = 13,
-							["itemID"] = 163036,
-							["itemLink"] = "|cffffffff|Hitem:163036::::::::60:250:::::::::|h[Отполированный оберег для питомца]|h|r",
-						}, -- [1]
-					},
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
 				},
 				[224] = {
 					["durationSeconds"] = 2700,
@@ -5074,11 +4805,177 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
 					["level"] = 33,
 				},
-				[1334] = {
+				[128] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Бой",
+					["cost"] = 10,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["itemID"] = 114616,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2144] = {
+					["durationSeconds"] = 86400,
+					["type"] = "8.2 - Deep Sea",
+					["cost"] = 80,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-DeepSea",
+					["rewards"] = {
+						{
+							["icon"] = 463858,
+							["quantity"] = 8,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1721,
+						}, -- [1]
+					},
+				},
+				[1905] = {
+					["durationSeconds"] = 144000,
+					["type"] = "8.0 - Long Campaign",
+					["cost"] = 80,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 447,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-LongCampaign",
+					["iLevel"] = 800,
+				},
+				[303] = {
 					["durationSeconds"] = 21600,
+					["type"] = "Бой",
+					["cost"] = 20,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["itemID"] = 120302,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 630,
+				},
+				[2273] = {
+					["durationSeconds"] = 50400,
+					["type"] = "9.0 Encounter - Bastion",
+					["cost"] = 50,
+					["level"] = 60,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184638,
+							["itemLink"] = "|cff0070dd|Hitem:184638::::::::60:268::31:::::::|h[Рыбный тайник героя]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[2267] = {
+					["durationSeconds"] = 28800,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 30,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184839,
+							["itemLink"] = "|cffffffff|Hitem:184839::::::::60:250::26:3:1472:5894:6646::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[2274] = {
+					["durationSeconds"] = 36000,
+					["type"] = "9.0 Encounter - Bastion",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184646,
+							["itemLink"] = "|cff0070dd|Hitem:184646::::::::60:104::31:::::::|h[Тайник героического горняка]|h|r",
+						}, -- [1]
+					},
+				},
+				[1777] = {
+					["durationSeconds"] = 28800,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 100,
-					["level"] = 37,
+					["level"] = 45,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 152933,
+							["itemLink"] = "|cff0070dd|Hitem:152933::::::::50:258:::::::::|h[Исторгнутая Бездна Темной Стражи]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 900,
+				},
+				[1779] = {
+					["durationSeconds"] = 100800,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["level"] = 45,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 139812,
+							["itemLink"] = "|cffffffff|Hitem:139812::::::::50:64:::::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 900,
+				},
+				[200] = {
+					["durationSeconds"] = 5400,
+					["type"] = "Бой",
+					["cost"] = 20,
+					["level"] = 35,
+					["rewards"] = {
+						{
+							["itemID"] = 114094,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2276] = {
+					["durationSeconds"] = 14400,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 1500,
+							["tooltip"] = "+1500 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+1500 опыта",
+						}, -- [1]
+					},
+				},
+				[1333] = {
+					["durationSeconds"] = 7200,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 760,
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -5089,54 +4986,71 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 760,
+					["level"] = 37,
 				},
-				[479] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Исследование",
-					["cost"] = 15,
-					["level"] = 38,
+				[2277] = {
+					["durationSeconds"] = 50400,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 50,
+					["iLevel"] = 800,
 					["rewards"] = {
 						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 60,
-							["icon"] = 970886,
-							["currencyID"] = 821,
+							["quantity"] = 24,
+							["itemID"] = 163036,
+							["itemLink"] = "|cffffffff|Hitem:163036::::::::60:258:::::::::|h[Отполированный оберег для питомца]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
-					["iLevel"] = 0,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["level"] = 60,
 				},
-				[495] = {
-					["durationSeconds"] = 28800,
+				[178] = {
+					["durationSeconds"] = 2700,
 					["type"] = "Бой",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["level"] = 35,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 600,
+							["tooltip"] = "+600 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+600 опыта",
+						}, -- [1]
+					},
+				},
+				[1858] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Stealth",
 					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 441,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Stealth",
+					["level"] = 50,
+				},
+				[399] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Бой",
+					["cost"] = 60,
 					["level"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Награда в валюте",
-							["quantity"] = 400,
+							["quantity"] = 600,
 							["icon"] = 1061300,
 							["currencyID"] = 823,
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 660,
-				},
-				[2290] = {
-					["durationSeconds"] = 46800,
-					["type"] = "9.0 Encounter - Bastion",
-					["cost"] = 53,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184633,
-							["itemLink"] = "|cffffffff|Hitem:184633::::::::60:250::31:::::::|h[]|h|r",
-						}, -- [1]
-					},
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
-					["iLevel"] = 800,
+					["iLevel"] = 675,
 				},
 				[2152] = {
 					["durationSeconds"] = 28800,
@@ -5154,36 +5068,36 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-Normal",
 					["level"] = 50,
 				},
-				[1909] = {
-					["durationSeconds"] = 64800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 225,
-							["icon"] = 2032594,
-							["currencyID"] = 1592,
-						}, -- [1]
-					},
-					["level"] = 50,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[2153] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 80,
-					["level"] = 50,
+				[2280] = {
+					["durationSeconds"] = 43200,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 52,
+					["level"] = 60,
 					["rewards"] = {
 						{
 							["quantity"] = 1,
-							["itemID"] = 169484,
-							["itemLink"] = "|cffa335ee|Hitem:169484::::::::50:258::::1:28:464:::::|h[Бентосный наплеч]|h|r",
+							["itemID"] = 184642,
+							["itemLink"] = "|cff1eff00|Hitem:184642::::::::60:268::31:::::::|h[Тайник защитника-травника]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
 					["iLevel"] = 800,
+				},
+				[667] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Бой",
+					["cost"] = 15,
+					["iLevel"] = 0,
+					["level"] = 40,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["rewards"] = {
+						{
+							["icon"] = 1131085,
+							["quantity"] = 25,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1101,
+						}, -- [1]
+					},
 				},
 				[2281] = {
 					["durationSeconds"] = 43200,
@@ -5200,29 +5114,6 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[336] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Бой",
-					["cost"] = 25,
-					["iLevel"] = 0,
-					["rewards"] = {
-						{
-							["icon"] = 1061300,
-							["quantity"] = 1000,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 823,
-						}, -- [1]
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 20000,
-							["tooltip"] = "+20000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+20000 опыта",
-						}, -- [2]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
-				},
 				[1910] = {
 					["durationSeconds"] = 28800,
 					["type"] = "8.0 - Generic Missions",
@@ -5236,6 +5127,149 @@ DataStore_GarrisonsDB = {
 							["quantity"] = 225,
 							["title"] = "Награда в валюте",
 							["currencyID"] = 1579,
+						}, -- [1]
+					},
+				},
+				[273] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Патрулирование",
+					["cost"] = 20,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 10000,
+							["tooltip"] = "+10000 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+10000 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[2283] = {
+					["durationSeconds"] = 29700,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 50,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 181427,
+							["itemLink"] = "|cffa335ee|Hitem:181427::::::::60:70::27:3:1472:5904:6646::::::|h[Латные наручи из иссушающей стали]|h|r",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[275] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Патрулирование",
+					["cost"] = 15,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 10000,
+							["tooltip"] = "+10000 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+10000 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[1911] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Quick Strike",
+					["cost"] = 80,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 448,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["iLevel"] = 800,
+				},
+				[160] = {
+					["durationSeconds"] = 2700,
+					["type"] = "Бой",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 700,
+							["tooltip"] = "+700 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+700 опыта",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 36,
+				},
+				[2285] = {
+					["durationSeconds"] = 50400,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 54,
+					["level"] = 60,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184640,
+							["itemLink"] = "|cff1eff00|Hitem:184640::::::::60:268::31:::::::|h[Тайник защитника-шкуродера]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[671] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Бой",
+					["cost"] = 20,
+					["iLevel"] = 615,
+					["rewards"] = {
+						{
+							["icon"] = 1131085,
+							["quantity"] = 40,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1101,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[498] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Бой",
+					["cost"] = 25,
+					["level"] = 40,
+					["rewards"] = {
+						{
+							["itemID"] = 122582,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2288] = {
+					["durationSeconds"] = 16200,
+					["type"] = "9.0 Encounter - Bastion",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
+					["rewards"] = {
+						{
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["quantity"] = 3391200,
+							["title"] = "Денежная награда",
+							["currencyID"] = 0,
 						}, -- [1]
 					},
 				},
@@ -5255,112 +5289,6 @@ DataStore_GarrisonsDB = {
 							["name"] = "+2000 опыта",
 						}, -- [1]
 					},
-				},
-				[2283] = {
-					["durationSeconds"] = 29700,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 50,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 181427,
-							["itemLink"] = "|cffa335ee|Hitem:181427::::::::60:70::27:3:1472:5904:6646::::::|h[Латные наручи из иссушающей стали]|h|r",
-						}, -- [1]
-					},
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 800,
-				},
-				[1914] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["level"] = 50,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 359,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[2284] = {
-					["durationSeconds"] = 30600,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 30,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 181414,
-							["itemLink"] = "|cffffffff|Hitem:181414::::::::60:250::27:3:1472:5897:6646::::::|h[]|h|r",
-						}, -- [1]
-					},
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 800,
-				},
-				[2285] = {
-					["durationSeconds"] = 50400,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 54,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["quantity"] = 1,
-							["itemID"] = 184640,
-							["itemLink"] = "|cff1eff00|Hitem:184640::::::::60:268::31:::::::|h[Тайник защитника-шкуродера]|h|r",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 800,
-				},
-				[464] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Исследование",
-					["cost"] = 50,
-					["iLevel"] = 0,
-					["level"] = 40,
-					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
-					["rewards"] = {
-						{
-							["itemID"] = 118732,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[129] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
-					["rewards"] = {
-						{
-							["itemID"] = 114616,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
-				},
-				[273] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Патрулирование",
-					["cost"] = 20,
-					["iLevel"] = 0,
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 10000,
-							["tooltip"] = "+10000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+10000 опыта",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["level"] = 40,
 				},
 				[1913] = {
 					["durationSeconds"] = 28800,
@@ -5395,47 +5323,42 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 34,
 				},
-				[161] = {
-					["durationSeconds"] = 5400,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
+				[1918] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 700,
-							["tooltip"] = "+700 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+700 опыта",
+							["quantity"] = 13,
+							["itemID"] = 163036,
+							["itemLink"] = "|cffffffff|Hitem:163036::::::::60:250:::::::::|h[Отполированный оберег для питомца]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 36,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
-				[169] = {
-					["durationSeconds"] = 5400,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["level"] = 39,
+				[1914] = {
+					["durationSeconds"] = 57600,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 1000,
-							["tooltip"] = "+1000 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1000 опыта",
+							["icon"] = 2065624,
+							["quantity"] = 346,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
 				},
 				[177] = {
 					["durationSeconds"] = 2700,
 					["type"] = "Бой",
 					["cost"] = 0,
 					["iLevel"] = 0,
-					["level"] = 34,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
 							["icon"] = 1005027,
@@ -5444,12 +5367,16 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 824,
 						}, -- [1]
 					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 34,
 				},
 				[185] = {
 					["durationSeconds"] = 3600,
 					["type"] = "Бой",
 					["cost"] = 0,
 					["iLevel"] = 0,
+					["level"] = 31,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
 							["icon"] = 1005027,
@@ -5458,8 +5385,6 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 824,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 31,
 				},
 				[385] = {
 					["durationSeconds"] = 14400,
@@ -5475,36 +5400,54 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[2291] = {
-					["durationSeconds"] = 43200,
-					["type"] = "9.0 Encounter - Ardenweald",
-					["cost"] = 50,
-					["iLevel"] = 800,
-					["level"] = 60,
-					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+				[2298] = {
+					["durationSeconds"] = 86400,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 100,
 					["rewards"] = {
 						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 130,
+							["icon"] = 3743738,
+							["currencyID"] = 1828,
+						}, -- [1]
+						{
+							["itemID"] = 178040,
 							["quantity"] = 1,
-							["itemID"] = 184647,
-							["itemLink"] = "|cff0070dd|Hitem:184647::::::::60:104::31:::::::|h[Тайник героического травника]|h|r",
+						}, -- [2]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["iLevel"] = 800,
+				},
+				[462] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Исследование",
+					["cost"] = 50,
+					["iLevel"] = 0,
+					["level"] = 35,
+					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
+					["rewards"] = {
+						{
+							["itemID"] = 118730,
+							["quantity"] = 1,
 						}, -- [1]
 					},
 				},
-				[2288] = {
-					["durationSeconds"] = 16200,
-					["type"] = "9.0 Encounter - Bastion",
-					["cost"] = 10,
-					["iLevel"] = 800,
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
+				[1597] = {
+					["durationSeconds"] = 21600,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 150,
+					["level"] = 45,
 					["rewards"] = {
 						{
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["quantity"] = 3391200,
-							["title"] = "Денежная награда",
-							["currencyID"] = 0,
+							["quantity"] = 1,
+							["itemID"] = 147349,
+							["itemLink"] = "|cffffffff|Hitem:147349::::::::52:72:::::::::|h[]|h|r",
 						}, -- [1]
 					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 865,
 				},
 				[2293] = {
 					["durationSeconds"] = 14400,
@@ -5521,20 +5464,21 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["iLevel"] = 800,
 				},
-				[1597] = {
-					["durationSeconds"] = 21600,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 150,
-					["level"] = 45,
+				[673] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Бой",
+					["cost"] = 30,
+					["iLevel"] = 630,
 					["rewards"] = {
 						{
-							["quantity"] = 1,
-							["itemID"] = 147349,
-							["itemLink"] = "|cffffffff|Hitem:147349::::::::52:72:::::::::|h[]|h|r",
+							["icon"] = 1131085,
+							["quantity"] = 50,
+							["title"] = "Награда в валюте",
+							["currencyID"] = 1101,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 865,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
 				},
 				[2294] = {
 					["durationSeconds"] = 14400,
@@ -5600,52 +5544,51 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1917] = {
-					["durationSeconds"] = 288000,
-					["type"] = "8.0 - Long Campaign",
-					["cost"] = 40,
-					["iLevel"] = 800,
-					["rewards"] = {
-						{
-							["icon"] = 2065624,
-							["quantity"] = 459,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-LongCampaign",
-					["level"] = 50,
-				},
-				[1777] = {
-					["durationSeconds"] = 28800,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["level"] = 45,
+				[2284] = {
+					["durationSeconds"] = 30600,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 30,
 					["rewards"] = {
 						{
 							["quantity"] = 1,
-							["itemID"] = 152933,
-							["itemLink"] = "|cff0070dd|Hitem:152933::::::::50:258:::::::::|h[Исторгнутая Бездна Темной Стражи]|h|r",
+							["itemID"] = 181414,
+							["itemLink"] = "|cffffffff|Hitem:181414::::::::60:250::27:3:1472:5897:6646::::::|h[]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 900,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
 				},
-				[674] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Бой",
-					["cost"] = 30,
-					["iLevel"] = 630,
+				[2291] = {
+					["durationSeconds"] = 43200,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["rewards"] = {
 						{
-							["icon"] = 1131085,
-							["quantity"] = 50,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1101,
+							["quantity"] = 1,
+							["itemID"] = 184647,
+							["itemLink"] = "|cff0070dd|Hitem:184647::::::::60:104::31:::::::|h[Тайник героического травника]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 40,
+				},
+				[1909] = {
+					["durationSeconds"] = 64800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Награда в валюте",
+							["quantity"] = 225,
+							["icon"] = 2032594,
+							["currencyID"] = 1592,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[89] = {
 					["durationSeconds"] = 3600,
@@ -5698,67 +5641,66 @@ DataStore_GarrisonsDB = {
 						}, -- [2]
 					},
 				},
-				[462] = {
-					["durationSeconds"] = 14400,
+				[464] = {
+					["durationSeconds"] = 21600,
 					["type"] = "Исследование",
 					["cost"] = 50,
 					["iLevel"] = 0,
-					["level"] = 35,
+					["level"] = 40,
 					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
 					["rewards"] = {
 						{
-							["itemID"] = 118730,
+							["itemID"] = 118732,
 							["quantity"] = 1,
 						}, -- [1]
 					},
 				},
-				[160] = {
-					["durationSeconds"] = 2700,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["level"] = 36,
+				[1334] = {
+					["durationSeconds"] = 21600,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["level"] = 37,
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 700,
-							["tooltip"] = "+700 опыта",
+							["followerXP"] = 600,
+							["tooltip"] = "+600 опыта",
 							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+700 опыта",
+							["name"] = "+600 опыта",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
 				},
-				[2271] = {
+				[2239] = {
 					["durationSeconds"] = 14400,
-					["type"] = "9.0 Encounter - Bastion",
+					["type"] = "9.0 Encounter - Revendreth",
 					["cost"] = 10,
-					["rewards"] = {
-						{
-							["title"] = "Денежная награда",
-							["quantity"] = 3007100,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
-					["iLevel"] = 800,
-				},
-				[2269] = {
-					["durationSeconds"] = 14400,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 13,
 					["level"] = 60,
 					["rewards"] = {
 						{
 							["title"] = "Награда в валюте",
 							["quantity"] = 375,
-							["icon"] = 3492310,
-							["currencyID"] = 1805,
+							["icon"] = 3514227,
+							["currencyID"] = 1807,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["iLevel"] = 800,
+				},
+				[2290] = {
+					["durationSeconds"] = 46800,
+					["type"] = "9.0 Encounter - Bastion",
+					["cost"] = 53,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184633,
+							["itemLink"] = "|cffffffff|Hitem:184633::::::::60:250::31:::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
 					["iLevel"] = 800,
 				},
 				[1346] = {
@@ -5812,19 +5754,25 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[259] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Бой",
-					["cost"] = 15,
-					["level"] = 40,
+				[2303] = {
+					["durationSeconds"] = 36000,
+					["type"] = "9.0 сражение – Тазавеш",
+					["cost"] = 52,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["rewards"] = {
 						{
-							["itemID"] = 120301,
 							["quantity"] = 1,
+							["itemID"] = 187573,
+							["itemLink"] = "|cff0070dd|Hitem:187573::::::::60:104::31:::::::|h[Частица усиления брокера-зачаровывателя]|h|r",
 						}, -- [1]
+						{
+							["quantity"] = 1,
+							["itemID"] = 187415,
+							["itemLink"] = "|cffa335ee|Hitem:187415::::::::60:104:::::::::|h[Призма расширения сознания]|h|r",
+						}, -- [2]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 615,
 				},
 				[1347] = {
 					["durationSeconds"] = 21600,
@@ -5842,20 +5790,21 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1774] = {
-					["durationSeconds"] = 25200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["level"] = 45,
+				[2138] = {
+					["durationSeconds"] = 57600,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
 					["rewards"] = {
 						{
-							["quantity"] = 1,
-							["itemID"] = 152928,
-							["itemLink"] = "|cff1eff00|Hitem:152928::::::::50:258:::::::::|h[Древний гадальный камень]|h|r",
+							["title"] = "Награда в валюте",
+							["quantity"] = 331,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 900,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[154] = {
 					["durationSeconds"] = 1800,
@@ -5874,30 +5823,31 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 34,
 				},
-				[162] = {
-					["durationSeconds"] = 5400,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
+				[2305] = {
+					["durationSeconds"] = 36000,
+					["type"] = "9.0 сражение – Тазавеш",
+					["cost"] = 52,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 800,
-							["tooltip"] = "+800 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+800 опыта",
+							["quantity"] = 1,
+							["itemID"] = 187574,
+							["itemLink"] = "|cff0070dd|Hitem:187574::::::::60:104::31:::::::|h[Полное ведро брокера]|h|r",
 						}, -- [1]
+						{
+							["quantity"] = 1,
+							["itemID"] = 187413,
+							["itemLink"] = "|cff1eff00|Hitem:187413::::::::60:104:::::::::|h[Кристальный носитель памяти]|h|r",
+						}, -- [2]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 37,
 				},
 				[170] = {
 					["durationSeconds"] = 7200,
 					["type"] = "Бой",
 					["cost"] = 10,
-					["iLevel"] = 0,
 					["level"] = 39,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
 							["title"] = "Бонусные очки опыта соратника",
@@ -5907,6 +5857,8 @@ DataStore_GarrisonsDB = {
 							["name"] = "+1000 опыта",
 						}, -- [1]
 					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
 				},
 				[2306] = {
 					["durationSeconds"] = 36000,
@@ -5945,25 +5897,26 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 33,
 				},
-				[485] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Инженерное дело",
-					["cost"] = 20,
-					["iLevel"] = 0,
+				[2270] = {
+					["durationSeconds"] = 43200,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["rewards"] = {
 						{
-							["itemID"] = 122591,
-							["quantity"] = 2,
+							["quantity"] = 6,
+							["itemID"] = 181468,
+							["itemLink"] = "|cff0070dd|Hitem:181468::::::::60:104:::::::::|h[Затененная руна усиления]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Engineering",
-					["level"] = 40,
 				},
 				[202] = {
 					["durationSeconds"] = 6750,
 					["type"] = "Бой",
 					["cost"] = 20,
-					["level"] = 37,
+					["iLevel"] = 0,
 					["rewards"] = {
 						{
 							["itemID"] = 114097,
@@ -5971,71 +5924,81 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
+					["level"] = 37,
 				},
-				[2239] = {
-					["durationSeconds"] = 14400,
+				[2265] = {
+					["durationSeconds"] = 46800,
 					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 10,
+					["cost"] = 50,
+					["iLevel"] = 800,
 					["level"] = 60,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 375,
-							["icon"] = 3514227,
-							["currencyID"] = 1807,
-						}, -- [1]
-					},
 					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["iLevel"] = 800,
-				},
-				[1893] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["level"] = 50,
-					["rewards"] = {
-						{
-							["title"] = "Награда в валюте",
-							["quantity"] = 269,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[2238] = {
-					["durationSeconds"] = 30600,
-					["type"] = "9.0 Encounter - Revendreth",
-					["cost"] = 30,
-					["iLevel"] = 800,
 					["rewards"] = {
 						{
 							["quantity"] = 1,
-							["itemID"] = 184642,
-							["itemLink"] = "|cff1eff00|Hitem:184642::::::::60:258::31:::::::|h[Тайник защитника-травника]|h|r",
+							["itemID"] = 184637,
+							["itemLink"] = "|cff0070dd|Hitem:184637::::::::60:104::31:::::::|h[Мясной тайник героя]|h|r",
+						}, -- [1]
+					},
+				},
+				[2264] = {
+					["durationSeconds"] = 30600,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 34,
+					["level"] = 60,
+					["rewards"] = {
+						{
+							["quantity"] = 3,
+							["itemID"] = 181468,
+							["itemLink"] = "|cff0070dd|Hitem:181468::::::::60:268:::::::::|h[Затененная руна усиления]|h|r",
 						}, -- [1]
 					},
 					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
-					["level"] = 60,
+					["iLevel"] = 800,
 				},
-				[180] = {
-					["durationSeconds"] = 3600,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
-					["level"] = 37,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+				[1796] = {
+					["durationSeconds"] = 57600,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 300,
+					["level"] = 45,
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 800,
-							["tooltip"] = "+800 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+800 опыта",
+							["quantity"] = 2,
+							["itemID"] = 151568,
+							["itemLink"] = "|cff0070dd|Hitem:151568::::::::50:64:::::::::|h[Изначальный саргерит]|h|r",
 						}, -- [1]
 					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
+				},
+				[2182] = {
+					["durationSeconds"] = 12600,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["level"] = 60,
+					["rewards"] = {
+						{
+							["quantity"] = 16,
+							["itemID"] = 163036,
+							["itemLink"] = "|cffffffff|Hitem:163036::::::::60:268:::::::::|h[Отполированный оберег для питомца]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["iLevel"] = 800,
+				},
+				[483] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Наложение чар",
+					["cost"] = 20,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["itemID"] = 122590,
+							["quantity"] = 2,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Enchanting",
+					["level"] = 40,
 				},
 				[2183] = {
 					["durationSeconds"] = 16200,
@@ -6053,19 +6016,19 @@ DataStore_GarrisonsDB = {
 					["level"] = 60,
 				},
 				[1797] = {
-					["durationSeconds"] = 86400,
+					["durationSeconds"] = 172800,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 200,
 					["iLevel"] = 950,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
 							["quantity"] = 2,
 							["itemID"] = 151568,
-							["itemLink"] = "|cff0070dd|Hitem:151568::::::::50:64:::::::::|h[Изначальный саргерит]|h|r",
+							["itemLink"] = "|cff0070dd|Hitem:151568::::::::50:258:::::::::|h[Изначальный саргерит]|h|r",
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 45,
 				},
 				[2184] = {
 					["durationSeconds"] = 32400,
@@ -6082,22 +6045,21 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["level"] = 60,
 				},
-				[150] = {
-					["durationSeconds"] = 3600,
-					["type"] = "Бой",
-					["cost"] = 10,
-					["iLevel"] = 0,
+				[2263] = {
+					["durationSeconds"] = 14400,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 14,
+					["level"] = 60,
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 400,
-							["tooltip"] = "+400 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+400 опыта",
+							["title"] = "Денежная награда",
+							["quantity"] = 2944600,
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["currencyID"] = 0,
 						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 33,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["iLevel"] = 800,
 				},
 				[2185] = {
 					["durationSeconds"] = 25200,
@@ -6116,27 +6078,19 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["iLevel"] = 800,
 				},
-				[2231] = {
-					["durationSeconds"] = 43200,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 50,
-					["iLevel"] = 800,
+				[1377] = {
+					["durationSeconds"] = 28800,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 600,
+					["level"] = 45,
 					["rewards"] = {
 						{
-							["icon"] = 3492310,
-							["quantity"] = 1000,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1805,
+							["itemID"] = 116415,
+							["quantity"] = 5,
 						}, -- [1]
-						{
-							["icon"] = 255347,
-							["quantity"] = 1,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 1889,
-						}, -- [2]
 					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["level"] = 60,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 830,
 				},
 				[2186] = {
 					["durationSeconds"] = 12600,
@@ -6154,22 +6108,21 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["iLevel"] = 800,
 				},
-				[2202] = {
-					["durationSeconds"] = 16200,
-					["type"] = "9.0 Encounter - Ardenweald",
-					["cost"] = 10,
+				[1759] = {
+					["durationSeconds"] = 28800,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 300,
+					["level"] = 45,
 					["rewards"] = {
 						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 1500,
-							["tooltip"] = "+1500 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1500 опыта",
+							["title"] = "Награда в валюте",
+							["quantity"] = 25,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
 						}, -- [1]
 					},
-					["level"] = 60,
-					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
-					["iLevel"] = 800,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
 				},
 				[372] = {
 					["durationSeconds"] = 36000,
@@ -6188,45 +6141,6 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 34,
 				},
-				[211] = {
-					["durationSeconds"] = 6750,
-					["type"] = "Бой",
-					["cost"] = 15,
-					["iLevel"] = 0,
-					["rewards"] = {
-						{
-							["title"] = "Бонусные очки опыта соратника",
-							["followerXP"] = 1050,
-							["tooltip"] = "+1050 опыта",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1050 опыта",
-						}, -- [1]
-						{
-							["icon"] = 1005027,
-							["quantity"] = 200,
-							["title"] = "Награда в валюте",
-							["currencyID"] = 824,
-						}, -- [2]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 36,
-				},
-				[2188] = {
-					["durationSeconds"] = 16200,
-					["type"] = "9.0 Encounter - Ardenweald",
-					["cost"] = 14,
-					["level"] = 60,
-					["rewards"] = {
-						{
-							["title"] = "Денежная награда",
-							["quantity"] = 3489300,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
-					["iLevel"] = 800,
-				},
 				[171] = {
 					["durationSeconds"] = 1800,
 					["type"] = "Бой",
@@ -6244,6 +6158,22 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
+				[2188] = {
+					["durationSeconds"] = 16200,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 14,
+					["level"] = 60,
+					["rewards"] = {
+						{
+							["title"] = "Денежная награда",
+							["quantity"] = 3489300,
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["currencyID"] = 0,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["iLevel"] = 800,
+				},
 				[2226] = {
 					["durationSeconds"] = 50400,
 					["type"] = "9.0 Encounter - Maldraxxus",
@@ -6259,20 +6189,21 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[2225] = {
-					["durationSeconds"] = 12600,
-					["type"] = "9.0 Encounter - Maldraxxus",
-					["cost"] = 10,
-					["iLevel"] = 800,
-					["level"] = 60,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+				[1889] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
 					["rewards"] = {
 						{
-							["quantity"] = 4,
-							["itemID"] = 184774,
-							["itemLink"] = "|cff0070dd|Hitem:184774::::::::60:577:::::::::|h[Молодая иглоспора]|h|r",
+							["title"] = "Награда в валюте",
+							["quantity"] = 200,
+							["icon"] = 2032592,
+							["currencyID"] = 1579,
 						}, -- [1]
 					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[2190] = {
 					["durationSeconds"] = 50400,
@@ -6289,35 +6220,38 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
 					["iLevel"] = 800,
 				},
-				[484] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Наложение чар",
-					["cost"] = 20,
-					["level"] = 40,
-					["rewards"] = {
-						{
-							["itemID"] = 122590,
-							["quantity"] = 3,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Enchanting",
-					["iLevel"] = 0,
-				},
-				[187] = {
-					["durationSeconds"] = 2700,
+				[358] = {
+					["durationSeconds"] = 36000,
 					["type"] = "Бой",
-					["cost"] = 0,
+					["cost"] = 25,
 					["iLevel"] = 0,
-					["level"] = 32,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
-							["icon"] = 1005027,
-							["quantity"] = 34,
+							["icon"] = 838813,
+							["quantity"] = 1,
 							["title"] = "Награда в валюте",
-							["currencyID"] = 824,
+							["currencyID"] = 994,
 						}, -- [1]
 					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 40,
+				},
+				[2202] = {
+					["durationSeconds"] = 16200,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "Бонусные очки опыта соратника",
+							["followerXP"] = 1500,
+							["tooltip"] = "+1500 опыта",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+1500 опыта",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["iLevel"] = 800,
 				},
 			},
 		},

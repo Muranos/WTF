@@ -19,6 +19,10 @@ VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Очищение от токсинов; [@player] Очищение от токсинов
 END
+VER 3 0100000000000010 "FocusRepentance" "INV_MISC_QUESTIONMARK"
+#showtooltip Покаяние
+/cast [target=focus] Покаяние
+END
 VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословенная свобода

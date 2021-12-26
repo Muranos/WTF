@@ -34,13 +34,6 @@ X: -231
 Y: -116
 W: 300
 H: 427
-Frame: CastingBarFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: 8
-Y: 99
-W: 250
-H: 24
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -125,3 +118,10 @@ X: 0
 Y: 0
 W: 300
 H: 300
+Frame: CastingBarFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 8
+Y: 99
+W: 250
+H: 24

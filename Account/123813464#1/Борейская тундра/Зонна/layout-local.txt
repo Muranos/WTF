@@ -15,9 +15,9 @@ W: 30
 H: 30
 Frame: MovementSpeed
 FrameLevel: 0
-Anchor: CENTER
-X: -324
-Y: 156
+Anchor: BOTTOM
+X: 463
+Y: 18
 W: 32
 H: 10
 Frame: TargetFrameToT
@@ -92,9 +92,9 @@ W: 300
 H: 300
 Frame: AllTheThings-Window-Tradeskills
 FrameLevel: 1
-Anchor: TOP
-X: -124
-Y: -116
+Anchor: CENTER
+X: 0
+Y: 0
 W: 300
 H: 496
 Frame: AllTheThings-Window-WorldQuests

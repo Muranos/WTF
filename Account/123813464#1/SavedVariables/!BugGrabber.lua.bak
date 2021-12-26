@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1268,
 	["lastSanitation"] = 3,
+	["session"] = 1281,
 	["errors"] = {
 		{
 			["message"] = "...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:470: Action[FrameMeasurement] failed because[Can't measure restricted regions]: attempted from: <unnamed>:GetLeft().",
@@ -181,62 +181,62 @@ BugGrabberDB = {
 		}, -- [23]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\libs/LibStub/LibStub.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [24]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/locale.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [25]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/enUS.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [26]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/deDE.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [27]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/esES.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [28]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/frFR.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [29]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/itIT.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [30]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/koKR.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [31]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/ptBR.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [32]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/ruRU.lua",
-			["time"] = "2021/05/24 19:07:17",
 			["session"] = 650,
+			["time"] = "2021/05/24 19:07:17",
 			["counter"] = 1,
 		}, -- [33]
 		{
@@ -443,26 +443,49 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [61]
 		{
+			["message"] = "Interface\\AddOns\\TipTac\\ttCore.lua:740: attempt to call method 'SetBackdropColor' (a nil value)",
+			["time"] = "2021/12/12 03:57:22",
+			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n ItemTooltip = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n Show = <function> defined =[C]:-1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6377\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\Altoholic\\Services\\Tooltip.lua:546\n SetBuybackItem = <function> defined =[C]:-1\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n SetWeeklyReward = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n SetMerchantCostItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n BottomOverlay = <unnamed> {\n }\n ttIcon = <unnamed> {\n }\n NineSlice = <unnamed> {\n }\n SetInventoryItem = <function> defined =[C]:-1\n ttCount = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetBagItem = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6313\n textLeft1Font = \"GameTooltipHeaderText\"\n SetCurrencyToken = <function> defined @Interface\\AddOns\\Altoholic\\Services\\Tooltip.lua:546\n SetGuildBankItem = <function> defined =[C]:-1\n SetVoidItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n textRight2Font = \"GameTooltipText\"\n ClearLines = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetUnitDebuff = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n SetQuestItem = <function> defined =[C]:-1\n comparing = false\n waitingForData = false\n SetToyByItemID = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n SetInboxItem = <function> defined =[C]:-1\n layoutType = \"TooltipDefaultLayout\"\n shoppingTooltips = <table> {\n }\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6394\n SetQuestLogItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n SetHeirloomByItemID = <function> defined =[C]:-1\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetExistingSocketGem = <function> defined =[C]:-1\n updateTooltipTimer = 0.148000\n textLeft2Font = \"GameTooltipText\"\n TextLeft1 = GameTooltipTextLeft1 {\n }\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetItemKey = <function> defined =[C]:-1\n needsReset = true\n TextRight1 = GameTooltipTextRight1 {\n }\n SetUnitBuff = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetRecipeResultItem = <function> defined =[C]:-1\n}\nelapsed = 0.010000\ngttAnchor = \"ANCHOR_CURSOR\"\n(*temporary) = nil\n(*temporary) = GameTooltip {\n 0 = <userdata>\n ItemTooltip = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n Show = <function> defined =[C]:-1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6377\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\Altoholic\\Services\\Tooltip.lua:546\n SetBuybackItem = <function> defined =[C]:-1\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n SetWeekl",
+			["stack"] = "[string \"@Interface\\AddOns\\TipTac\\ttCore.lua\"]:740: in function <Interface\\AddOns\\TipTac\\ttCore.lua:736>\n[string \"=[C]\"]: ?",
+			["session"] = 1273,
+			["counter"] = 19,
+		}, -- [62]
+		{
+			["message"] = "...terface\\AddOns\\PitBull4\\Controls\\BetterStatusBar.lua:738: attempt to index local 'texture' (a number value)",
+			["time"] = "2021/12/03 17:07:30",
+			["stack"] = "[string \"@Interface\\AddOns\\PitBull4\\Controls\\BetterStatusBar.lua\"]:738: in function `SetTexture'\n[string \"@Interface\\AddOns\\PitBull4\\Modules\\VisualHeal\\VisualHeal.lua\"]:111: in function `UpdateFrame'\n[string \"@Interface\\AddOns\\PitBull4\\ModuleHandling\\Module.lua\"]:313: in function `Update'\n[string \"@Interface\\AddOns\\PitBull4\\ModuleHandling\\Module.lua\"]:354: in function `UpdateForUnitID'\n[string \"@Interface\\AddOns\\PitBull4\\Modules\\VisualHeal\\VisualHeal.lua\"]:191: in function `?'\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...ings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\AllTheThings\\lib\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\DataStore\\libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...\\AddOns\\DataStore\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1274,
+			["counter"] = 33,
+		}, -- [63]
+		{
+			["message"] = "Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:310: attempt to call method 'SetBackdropBorderColor' (a nil value)",
+			["time"] = "2021/12/12 03:52:39",
+			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n ItemTooltip = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n Show = <function> defined =[C]:-1\n default = 1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6377\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\Altoholic\\Services\\Tooltip.lua:546\n SetBuybackItem = <function> defined =[C]:-1\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n SetWeeklyReward = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n SetMerchantCostItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n BottomOverlay = <unnamed> {\n }\n ttIcon = <unnamed> {\n }\n NineSlice = <unnamed> {\n }\n SetInventoryItem = <function> defined =[C]:-1\n ttCount = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetBagItem = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6313\n textLeft1Font = \"GameTooltipHeaderText\"\n SetCurrencyToken = <function> defined @Interface\\AddOns\\Altoholic\\Services\\Tooltip.lua:546\n SetGuildBankItem = <function> defined =[C]:-1\n SetVoidItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n textRight2Font = \"GameTooltipText\"\n ClearLines = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetUnitDebuff = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n SetQuestItem = <function> defined =[C]:-1\n comparing = false\n waitingForData = false\n SetToyByItemID = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetInboxItem = <function> defined =[C]:-1\n layoutType = \"TooltipDefaultLayout\"\n shoppingTooltips = <table> {\n }\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6394\n SetQuestLogItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetHeirloomByItemID = <function> defined =[C]:-1\n SetExistingSocketGem = <function> defined =[C]:-1\n textLeft2Font = \"GameTooltipText\"\n updateTooltipTimer = 0.160000\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetLootItem = <function> defined =[C]:-1\n SetItemKey = <function> defined =[C]:-1\n needsReset = true\n TextLeft1 = GameTooltipTextLeft1 {\n }\n TextRight1 = GameTooltipTextRight1 {\n }\n SetUnitBuff = <function> defined =[C]:-1\n SetRecipeResultItem = <function> defined =[C]:-1\n}\nlink = \"|cffffffff|Hitem:140192::::::::50:258::11:::::::|h[Камень возвращения в Даларан]|h|r\"\nlinkType = \"item\"\nid = \"140192\"\n_ = \"Камень возвращения в Даларан\"\n_ = \"|cffffffff|Hitem:140192::::::::50:258::11:::::::|h[Камень возвращения в Даларан]|h|r\"\nitemRarity = 1\nitemLevel = nil\n_ = 10\n_ = \"Разное\"\n_ = \"Хлам\"\nitemStackCount = 1\n_ = \"\"\nitemTexture = 1444943\n(*temporary) = nil\n(*temporary) = GameTooltip {\n 0 = <userdata>\n ItemTooltip = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n Show = <function> defined =[C]:-1\n default = 1\n SetLFGDungeonRew",
+			["stack"] = "[string \"@Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua\"]:310: in function `item'\n[string \"@Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua\"]:202: in function <Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:195>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `SetAction'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\LibActionButton-1.0\\LibActionButton-1.0-82.lua\"]:1536: in function `SetTooltip'\n[string \"@Interface\\AddOns\\Bartender4\\libs\\LibActionButton-1.0\\LibActionButton-1.0-82.lua\"]:1303: in function <...er4\\libs\\LibActionButton-1.0\\LibActionButton-1.0.lua:1296>\n[string \"@Interface\\AddOns\\Bartender4\\libs\\LibActionButton-1.0\\LibActionButton-1.0-82.lua\"]:520: in function <...er4\\libs\\LibActionButton-1.0\\LibActionButton-1.0.lua:518>",
+			["session"] = 1279,
+			["counter"] = 416,
+		}, -- [64]
+		{
+			["message"] = "File Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua is empty.",
+			["session"] = 1281,
+			["time"] = "2021/03/18 00:10:28",
+			["counter"] = 534,
+		}, -- [65]
+		{
 			["message"] = "Interface\\AddOns\\TipTac\\ttCore.lua:731: attempt to call method 'SetBackdropColor' (a nil value)",
 			["time"] = "2021/11/09 16:52:43",
 			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.200000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n TextRight1 = GameTooltipTextRight1 {\n }\n SetHeirloomByItemID = <function> defined =[C]:-1\n ClearLines = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n SetExistingSocketGem = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetItemKey = <function> defined =[C]:-1\n default = 1\n SetUnitDebuff = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6358\n SetQuestItem = <function> defined =[C]:-1\n textRight2Font = \"GameTooltipText\"\n SetInboxItem = <function> defined =[C]:-1\n SetToyByItemID = <function> defined =[C]:-1\n TextLeft1 = GameTooltipTextLeft1 {\n }\n SetMerchantCostItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetInventoryItem = <function> defined =[C]:-1\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n layoutType = \"TooltipDefaultLayout\"\n shoppingTooltips = <table> {\n }\n SetWeeklyReward = <function> defined =[C]:-1\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6375\n SetQuestLogItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n BottomOverlay = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n NineSlice = <unnamed> {\n }\n textLeft2Font = \"GameTooltipText\"\n SetVoidItem = <function> defined =[C]:-1\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetBuybackItem = <function> defined =[C]:-1\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetBagItem = <function> defined =[C]:-1\n needsReset = true\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n Show = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n}\n(*temporary) = nil\n(*temporary) = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.200000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n",
 			["stack"] = "[string \"@Interface\\AddOns\\TipTac\\ttCore.lua\"]:731: in function <Interface\\AddOns\\TipTac\\ttCore.lua:718>\n[string \"=[C]\"]: ?",
-			["session"] = 1267,
-			["counter"] = 3,
-		}, -- [62]
+			["session"] = 1281,
+			["counter"] = 17,
+		}, -- [66]
 		{
 			["message"] = "Interface\\AddOns\\TipTac\\ttCore.lua:750: attempt to call method 'SetBackdropColor' (a nil value)",
 			["time"] = "2021/11/09 16:52:43",
 			["locals"] = "self = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.188000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n ttGradient = <unnamed> {\n }\n SetLootRollItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n TextRight1 = GameTooltipTextRight1 {\n }\n SetHeirloomByItemID = <function> defined =[C]:-1\n ClearLines = <function> defined =[C]:-1\n SetSocketGem = <function> defined =[C]:-1\n SetExistingSocketGem = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetItemKey = <function> defined =[C]:-1\n default = 1\n SetUnitDebuff = <function> defined =[C]:-1\n SetItemByID = <function> defined =[C]:-1\n SetLFGDungeonReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6358\n SetQuestItem = <function> defined =[C]:-1\n textRight2Font = \"GameTooltipText\"\n SetInboxItem = <function> defined =[C]:-1\n SetToyByItemID = <function> defined =[C]:-1\n TextLeft1 = GameTooltipTextLeft1 {\n }\n SetMerchantCostItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetInventoryItem = <function> defined =[C]:-1\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n layoutType = \"TooltipDefaultLayout\"\n shoppingTooltips = <table> {\n }\n SetWeeklyReward = <function> defined =[C]:-1\n SetLFGDungeonShortageReward = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6375\n SetQuestLogItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n BottomOverlay = <unnamed> {\n }\n SetHyperlink = <function> defined =[C]:-1\n SetTradePlayerItem = <function> defined =[C]:-1\n textRight1Font = \"GameTooltipHeaderText\"\n SetSendMailItem = <function> defined =[C]:-1\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n NineSlice = <unnamed> {\n }\n textLeft2Font = \"GameTooltipText\"\n SetVoidItem = <function> defined =[C]:-1\n TextRight2 = GameTooltipTextRight2 {\n }\n TextLeft2 = GameTooltipTextLeft2 {\n }\n SetUnitAura = <function> defined =[C]:-1\n SetBuybackItem = <function> defined =[C]:-1\n SetAuctionSellItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n SetBagItem = <function> defined =[C]:-1\n needsReset = true\n FadeOut = <function> defined @Interface\\AddOns\\TipTac\\ttCore.lua:856\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:214\n Show = <function> defined =[C]:-1\n SetAuctionItem = <function> defined @Interface\\AddOns\\TradeSkillMaster\\LibTSM\\Service\\ItemTooltipClasses\\Wrapper.lua:105\n}\nelapsed = 0.012000\ngttAnchor = \"ANCHOR_NONE\"\n(*temporary) = nil\n(*temporary) = GameTooltip {\n 0 = <userdata>\n SetCurrencyByID = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6294\n SetLootItem = <function> defined =[C]:-1\n SetIconTextureAndText = <function> defined @Interface\\AddOns\\TipTacItemRef\\ttItemRef.lua:62\n SetRecipeResultItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n textLeft1Font = \"GameTooltipHeaderText\"\n ttCount = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\AllTheThings\\AllTheThings.lua:6305\n SetGuildBankItem = <function> defined =[C]:-1\n updateTooltipTimer = 0.188000\n ttIcon = <unnamed> {\n }\n SetVoidDepositItem = <function> define",
 			["stack"] = "[string \"@Interface\\AddOns\\TipTac\\ttCore.lua\"]:750: in function <Interface\\AddOns\\TipTac\\ttCore.lua:736>\n[string \"=[C]\"]: ?",
-			["session"] = 1267,
-			["counter"] = 52,
-		}, -- [63]
-		{
-			["message"] = "File Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua is empty.",
-			["time"] = "2021/03/18 00:10:28",
-			["session"] = 1268,
-			["counter"] = 495,
-		}, -- [64]
+			["session"] = 1281,
+			["counter"] = 1528,
+		}, -- [67]
 	},
 }

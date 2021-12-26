@@ -10,6 +10,8 @@ DataStoreDB = {
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
@@ -43,11 +45,17 @@ DataStoreDB = {
 				["guildName"] = "Шэдоумун",
 				["faction"] = "Alliance",
 			},
+			["Default.Гордунни.Ниамэй"] = {
+				["guildName"] = "Безумное наслаждение",
+				["faction"] = "Alliance",
+			},
 			["Default.Durotan.Altery"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Гордунни.Ниамэй"] = {
-				["guildName"] = "Безумное наслаждение",
+			["Default.Борейская тундра.Нирейя"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Борейская тундра.Ниоши"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Гордунни.Алтэри"] = {

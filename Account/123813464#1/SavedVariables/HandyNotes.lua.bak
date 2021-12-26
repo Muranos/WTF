@@ -191,11 +191,11 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[201] = {
-			[60145864] = {
-				["title"] = "Ol’ Fishbreath",
+		[1543] = {
+			[20803974] = {
 				["cont"] = false,
-				["icon"] = 6,
+				["icon"] = 1,
+				["title"] = "Cage",
 				["desc"] = "",
 			},
 		},
@@ -225,16 +225,34 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[379] = {
-			[57007500] = {
-				["icon"] = 6,
-				["title"] = "Хавак",
+		[680] = {
+			[41036936] = {
+				["icon"] = 28,
+				["title"] = "House",
 				["cont"] = false,
 				["desc"] = "",
 			},
-			[73007700] = {
+			[46002800] = {
 				["icon"] = 6,
-				["title"] = "Зей Изгой",
+				["title"] = "Blue",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[43008100] = {
+				["icon"] = 1,
+				["title"] = "Yellow",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[19004600] = {
+				["icon"] = 4,
+				["title"] = "Green",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[71006200] = {
+				["icon"] = 7,
+				["title"] = "Red",
 				["cont"] = false,
 				["desc"] = "",
 			},
@@ -361,11 +379,17 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[1543] = {
-			[20803974] = {
+		[379] = {
+			[57007500] = {
+				["icon"] = 6,
+				["title"] = "Хавак",
 				["cont"] = false,
-				["icon"] = 1,
-				["title"] = "Cage",
+				["desc"] = "",
+			},
+			[73007700] = {
+				["icon"] = 6,
+				["title"] = "Зей Изгой",
+				["cont"] = false,
 				["desc"] = "",
 			},
 		},
@@ -409,34 +433,28 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[680] = {
-			[41036936] = {
-				["icon"] = 28,
-				["title"] = "House",
+		[1355] = {
+			[45712409] = {
+				["title"] = "Sline",
 				["cont"] = false,
-				["desc"] = "",
-			},
-			[46002800] = {
-				["icon"] = 6,
-				["title"] = "Blue",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[43008100] = {
-				["icon"] = 1,
-				["title"] = "Yellow",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[19004600] = {
 				["icon"] = 4,
-				["title"] = "Green",
-				["cont"] = false,
 				["desc"] = "",
 			},
-			[71006200] = {
-				["icon"] = 7,
-				["title"] = "Red",
+			[55134877] = {
+				["title"] = "Slime",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "Done",
+			},
+			[71712569] = {
+				["title"] = "Slime",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "Done",
+			},
+			[60663194] = {
+				["icon"] = 3,
+				["title"] = "Laboratory",
 				["cont"] = false,
 				["desc"] = "",
 			},
@@ -509,32 +527,6 @@ HandyNotes_HandyNotesDB = {
 				["desc"] = "",
 			},
 		},
-		[1355] = {
-			[45712409] = {
-				["title"] = "Sline",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "",
-			},
-			[55134877] = {
-				["title"] = "Slime",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "Done",
-			},
-			[71712569] = {
-				["title"] = "Slime",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "Done",
-			},
-			[60663194] = {
-				["icon"] = 3,
-				["title"] = "Laboratory",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
 		[1961] = {
 			[25005100] = {
 				["icon"] = 3,
@@ -570,6 +562,14 @@ HandyNotes_HandyNotesDB = {
 				["icon"] = 1,
 				["title"] = "Rift3",
 				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[201] = {
+			[60145864] = {
+				["title"] = "Ol’ Fishbreath",
+				["cont"] = false,
+				["icon"] = 6,
 				["desc"] = "",
 			},
 		},

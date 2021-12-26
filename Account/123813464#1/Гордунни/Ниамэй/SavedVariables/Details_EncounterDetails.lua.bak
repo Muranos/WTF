@@ -15541,12 +15541,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Таящийся паук",
 		},
-		[267999] = {
+		[341709] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Мерзотень",
+			["source"] = "Призывательница Туманов",
 		},
 		[188290] = {
 			["school"] = 32,
@@ -15564,13 +15565,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Varavel-Sylvanas",
 		},
-		[341709] = {
-			["school"] = 1,
+		[45297] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Призывательница Туманов",
+			["source"] = "Пойдёт",
 		},
 		[121183] = {
 			["school"] = 2,
@@ -16265,12 +16265,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Оскверненный Тажань Чжу",
 		},
-		[265974] = {
-			["school"] = 8,
+		[351969] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Гальваззт",
+			["source"] = "Писарь судьбы Ро-Кало",
 		},
 		[320232] = {
 			["school"] = 64,
@@ -16290,14 +16291,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Медведь",
 		},
-		[351969] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Писарь судьбы Ро-Кало",
-		},
 		[186254] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -16305,6 +16298,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Шеаа",
+		},
+		[265974] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Гальваззт",
 		},
 		[263912] = {
 			["school"] = 1,
@@ -19901,12 +19901,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Велбиз Радосвист",
 		},
-		[45297] = {
-			["school"] = 8,
+		[267999] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Пойдёт",
+			["source"] = "Мерзотень",
 		},
 		[350031] = {
 			["school"] = 1,

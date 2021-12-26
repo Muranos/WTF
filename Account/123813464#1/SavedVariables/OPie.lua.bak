@@ -145,6 +145,26 @@ OneRing_Config = {
 					167075, -- [2]
 					["sliceToken"] = "ABuek5BLD7e",
 				}, -- [19]
+				{
+					"item", -- [1]
+					168310, -- [2]
+					["sliceToken"] = "ABue5P=ogl1",
+				}, -- [20]
+				{
+					"item", -- [1]
+					168313, -- [2]
+					["sliceToken"] = "ABue5P=oglr",
+				}, -- [21]
+				{
+					"item", -- [1]
+					172044, -- [2]
+					["sliceToken"] = "ABue59T2w9e",
+				}, -- [22]
+				{
+					"item", -- [1]
+					172048, -- [2]
+					["sliceToken"] = "ABue5F=O/c1",
+				}, -- [23]
 				["name"] = "Specializations and Travel",
 				["save"] = true,
 				["hotkey"] = "ALT-H",

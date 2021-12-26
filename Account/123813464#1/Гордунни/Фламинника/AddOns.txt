@@ -91,3 +91,4 @@ Altoholic_Options: disabled
 DataStore: disabled
 BigWigs_Shadowlands: enabled
 BigWigs_SanctumOfDomination: enabled
+LittleWigs_Legion: enabled
