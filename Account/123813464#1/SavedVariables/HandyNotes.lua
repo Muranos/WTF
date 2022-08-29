@@ -4,27 +4,29 @@ HandyNotesDB = {
 		["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
 		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
+		["Шайэн - Гордунни"] = "Шайэн - Гордунни",
 		["Altery - Durotan"] = "Altery - Durotan",
 		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
 		["Altery - Bronzebeard"] = "Altery - Bronzebeard",
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
-		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
+		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
-		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
+		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
+		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
+		["Delery - Durotan"] = "Delery - Durotan",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Estrea - Alleria"] = "Estrea - Alleria",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-		["Delery - Durotan"] = "Delery - Durotan",
-		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Elavi - Durotan"] = "Elavi - Durotan",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -39,6 +41,8 @@ HandyNotesDB = {
 		},
 		["Фламинника - Гордунни"] = {
 		},
+		["Шайэн - Гордунни"] = {
+		},
 		["Altery - Durotan"] = {
 		},
 		["Эстрэя - Гордунни"] = {
@@ -50,39 +54,41 @@ HandyNotesDB = {
 				["DraenorTreasures"] = false,
 			},
 		},
-		["Нирейя - Борейская тундра"] = {
-		},
 		["Алтэри - Гордунни"] = {
 		},
-		["Дэлери - Борейская тундра"] = {
+		["Нирейя - Борейская тундра"] = {
 		},
 		["Тиаз - Борейская тундра"] = {
 		},
-		["Ниамэй - Гордунни"] = {
+		["Дэлери - Борейская тундра"] = {
 		},
-		["Эстрея - Борейская тундра"] = {
+		["Ниамэй - Гордунни"] = {
 		},
 		["Сайбил - Борейская тундра"] = {
 		},
+		["Эллиата - Гордунни"] = {
+		},
+		["Эстрея - Борейская тундра"] = {
+		},
+		["Delery - Durotan"] = {
+		},
+		["Nietta - EU Mythic Dungeons"] = {
+		},
+		["Элави - Борейская тундра"] = {
+		},
 		["Estrea - Alleria"] = {
+		},
+		["Flaminika - Durotan"] = {
 		},
 		["Зонна - Борейская тундра"] = {
 		},
 		["Эрника - Борейская тундра"] = {
 		},
-		["Estrea - EU Mythic Dungeons"] = {
-		},
-		["Delery - Durotan"] = {
+		["Flaminika - Silvermoon"] = {
 		},
 		["Elavi - Durotan"] = {
 		},
-		["Flaminika - Durotan"] = {
-		},
-		["Flaminika - Silvermoon"] = {
-		},
-		["Элави - Борейская тундра"] = {
-		},
-		["Nietta - EU Mythic Dungeons"] = {
+		["Estrea - EU Mythic Dungeons"] = {
 		},
 		["Ниоши - Борейская тундра"] = {
 		},
@@ -102,471 +108,33 @@ HandyNotesDB = {
 	},
 }
 HandyNotes_HandyNotesDB = {
-	["global"] = {
-		[864] = {
-			[38007100] = {
-				["icon"] = 1,
-				["title"] = "Board",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[48006250] = {
-				["icon"] = 1,
-				["title"] = "Board",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[38027090] = {
-				["icon"] = 7,
-				["title"] = "Board",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[27706212] = {
-				["icon"] = 3,
-				["title"] = "Loa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[32096910] = {
-				["title"] = "Board",
-				["cont"] = false,
-				["icon"] = 7,
-				["desc"] = "",
-			},
-			[46806360] = {
-				["icon"] = 1,
-				["title"] = "Board",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[49572457] = {
-				["icon"] = 3,
-				["title"] = "Loa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[55002130] = {
-				["icon"] = 1,
-				["title"] = "Board",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[42226211] = {
-				["icon"] = 3,
-				["title"] = "Loa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[1543] = {
-			[20803974] = {
-				["icon"] = 1,
-				["title"] = "Cage",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[205] = {
-			[54008800] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Crimson Angerfish",
-				["desc"] = "",
-			},
-			[45072044] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Sir Finley Mrrgglton",
-				["desc"] = "",
-			},
-			[69674678] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Lil’ Whalley",
-				["desc"] = "",
-			},
-			[53992390] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Manta Stargazer",
-				["desc"] = "",
-			},
-		},
-		[680] = {
-			[41036936] = {
-				["title"] = "House",
-				["cont"] = false,
-				["icon"] = 28,
-				["desc"] = "",
-			},
-			[46002800] = {
-				["title"] = "Blue",
-				["cont"] = false,
-				["icon"] = 6,
-				["desc"] = "",
-			},
-			[43008100] = {
-				["title"] = "Yellow",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[19004600] = {
-				["title"] = "Green",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "",
-			},
-			[71006200] = {
-				["title"] = "Red",
-				["cont"] = false,
-				["icon"] = 7,
-				["desc"] = "",
-			},
-		},
-		[388] = {
-			[62553425] = {
-				["title"] = "Кахтир",
-				["cont"] = false,
-				["icon"] = 6,
-				["desc"] = "",
-			},
-			[54006300] = {
-				["title"] = "Норлакс",
-				["cont"] = false,
-				["icon"] = 6,
-				["desc"] = "",
-			},
-		},
-		[885] = {
-			[60154548] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Орикс",
-				["desc"] = "",
-			},
-		},
-		[1525] = {
-			[75536082] = {
-				["title"] = "Lord Mortretar",
-				["cont"] = false,
-				["icon"] = 8,
-				["desc"] = "",
-			},
-			[39587155] = {
-				["icon"] = 8,
-				["title"] = "Devourer",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[1527] = {
-			[42007000] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[46004800] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[76006700] = {
-				["icon"] = 7,
-				["title"] = "Альпака",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[63001400] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[70003900] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = true,
-				["desc"] = "",
-			},
-			[55007000] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[53001900] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[37000924] = {
-				["cont"] = false,
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["desc"] = "",
-			},
-			[63005200] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[30002900] = {
-				["icon"] = 7,
-				["title"] = "Alpaka",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[1530] = {
-			[21176235] = {
-				["cont"] = false,
-				["icon"] = 3,
-				["title"] = "Amber chest",
-				["desc"] = "",
-			},
-		},
-		[1161] = {
-			[66846405] = {
-				["title"] = "Leeroy Jenkins",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "66,64",
-			},
-		},
-		[1565] = {
-			[50485769] = {
-				["title"] = "Bird",
-				["cont"] = false,
-				["icon"] = 8,
-				["desc"] = "",
-			},
-		},
-		[201] = {
-			[60145864] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Ol’ Fishbreath",
-				["desc"] = "",
-			},
-		},
-		[204] = {
-			[45001800] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Little Carp",
-				["desc"] = "",
-			},
-			[63984184] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Gloomy Bluefin.",
-				["desc"] = "",
-			},
-			[16008200] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "The Blackfish",
-				["desc"] = "",
-			},
-			[38667533] = {
-				["cont"] = false,
-				["icon"] = 6,
-				["title"] = "Нестабильная лилиовая чешуя",
-				["desc"] = "",
-			},
-		},
-		[1165] = {
-			[54510934] = {
-				["cont"] = false,
-				["icon"] = 8,
-				["title"] = "Терродактиль",
-				["desc"] = "",
-			},
-			[49541503] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Терродактиль",
-				["desc"] = "",
-			},
-		},
-		[1961] = {
-			[25005100] = {
-				["title"] = "Закатный острокрыл",
-				["cont"] = false,
-				["icon"] = 3,
-				["desc"] = "",
-			},
-			[53707200] = {
-				["title"] = "Rift3",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[56807460] = {
-				["title"] = "Rift4",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[61804460] = {
-				["title"] = "Rift1",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[59405370] = {
-				["title"] = "Rift5",
-				["cont"] = false,
-				["icon"] = 1,
-				["desc"] = "",
-			},
-			[24805620] = {
-				["icon"] = 9,
-				["title"] = "Cache",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[863] = {
-			[25004000] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[44009200] = {
-				["icon"] = 1,
-				["title"] = "Kwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[24009100] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[52784285] = {
-				["title"] = "Ква",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "",
-			},
-			[33436151] = {
-				["title"] = "Ква",
-				["cont"] = false,
-				["icon"] = 4,
-				["desc"] = "",
-			},
-			[70885645] = {
-				["icon"] = 10,
-				["title"] = "Frog vendor",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[28008300] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[21006900] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[65005000] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[69005800] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-			[56006500] = {
-				["icon"] = 1,
-				["title"] = "Cwa",
-				["cont"] = false,
-				["desc"] = "",
-			},
-		},
-		[1355] = {
-			[45712409] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Sline",
-				["desc"] = "",
-			},
-			[55134877] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Slime",
-				["desc"] = "Done",
-			},
-			[71712569] = {
-				["cont"] = false,
-				["icon"] = 4,
-				["title"] = "Slime",
-				["desc"] = "Done",
-			},
-			[60663194] = {
-				["title"] = "Laboratory",
-				["cont"] = false,
-				["icon"] = 3,
-				["desc"] = "",
-			},
-		},
-		[379] = {
-			[57007500] = {
-				["title"] = "Хавак",
-				["cont"] = false,
-				["icon"] = 6,
-				["desc"] = "",
-			},
-			[73007700] = {
-				["title"] = "Зей Изгой",
-				["cont"] = false,
-				["icon"] = 6,
-				["desc"] = "",
-			},
-		},
-	},
 	["profileKeys"] = {
 		["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
 		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
+		["Шайэн - Гордунни"] = "Шайэн - Гордунни",
 		["Altery - Durotan"] = "Altery - Durotan",
 		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
 		["Altery - Bronzebeard"] = "Altery - Bronzebeard",
 		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
-		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
 		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
+		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
-		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
+		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
+		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
+		["Delery - Durotan"] = "Delery - Durotan",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Estrea - Alleria"] = "Estrea - Alleria",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-		["Delery - Durotan"] = "Delery - Durotan",
-		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Elavi - Durotan"] = "Elavi - Durotan",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -574,12 +142,512 @@ HandyNotes_HandyNotesDB = {
 		["Фламиника - Борейская тундра"] = "Фламиника - Борейская тундра",
 		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
+	["global"] = {
+		[885] = {
+			[60154548] = {
+				["title"] = "Орикс",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+		},
+		[1525] = {
+			[75536082] = {
+				["icon"] = 8,
+				["title"] = "Lord Mortretar",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[39587155] = {
+				["cont"] = false,
+				["icon"] = 8,
+				["title"] = "Devourer",
+				["desc"] = "",
+			},
+		},
+		[1161] = {
+			[66846405] = {
+				["icon"] = 1,
+				["title"] = "Leeroy Jenkins",
+				["cont"] = false,
+				["desc"] = "66,64",
+			},
+		},
+		[680] = {
+			[41036936] = {
+				["icon"] = 28,
+				["title"] = "House",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[46002800] = {
+				["icon"] = 6,
+				["title"] = "Blue",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[43008100] = {
+				["icon"] = 1,
+				["title"] = "Yellow",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[19004600] = {
+				["icon"] = 4,
+				["title"] = "Green",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[71006200] = {
+				["icon"] = 7,
+				["title"] = "Red",
+				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[1527] = {
+			[42007000] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[46004800] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[76006700] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Альпака",
+				["desc"] = "",
+			},
+			[63001400] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[70003900] = {
+				["cont"] = true,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[30002900] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[53001900] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[37000924] = {
+				["title"] = "Alpaka",
+				["cont"] = false,
+				["icon"] = 7,
+				["desc"] = "",
+			},
+			[63005200] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+			[55007000] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Alpaka",
+				["desc"] = "",
+			},
+		},
+		[863] = {
+			[25004000] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+			[44009200] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Kwa",
+				["desc"] = "",
+			},
+			[24009100] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+			[52784285] = {
+				["icon"] = 4,
+				["title"] = "Ква",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[33436151] = {
+				["icon"] = 4,
+				["title"] = "Ква",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[70885645] = {
+				["cont"] = false,
+				["icon"] = 10,
+				["title"] = "Frog vendor",
+				["desc"] = "",
+			},
+			[28008300] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+			[21006900] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+			[56006500] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+			[69005800] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+			[65005000] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cwa",
+				["desc"] = "",
+			},
+		},
+		[204] = {
+			[45001800] = {
+				["title"] = "Little Carp",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[63984184] = {
+				["title"] = "Gloomy Bluefin.",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[16008200] = {
+				["title"] = "The Blackfish",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[38667533] = {
+				["title"] = "Нестабильная лилиовая чешуя",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+		},
+		[52] = {
+			[48002000] = {
+				["cont"] = false,
+				["icon"] = 10,
+				["title"] = "Oats",
+				["desc"] = "",
+			},
+		},
+		[864] = {
+			[38007100] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Board",
+				["desc"] = "",
+			},
+			[48006250] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Board",
+				["desc"] = "",
+			},
+			[38027090] = {
+				["cont"] = false,
+				["icon"] = 7,
+				["title"] = "Board",
+				["desc"] = "",
+			},
+			[27706212] = {
+				["cont"] = false,
+				["icon"] = 3,
+				["title"] = "Loa",
+				["desc"] = "",
+			},
+			[32096910] = {
+				["icon"] = 7,
+				["title"] = "Board",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[46806360] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Board",
+				["desc"] = "",
+			},
+			[42226211] = {
+				["cont"] = false,
+				["icon"] = 3,
+				["title"] = "Loa",
+				["desc"] = "",
+			},
+			[55002130] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Board",
+				["desc"] = "",
+			},
+			[49572457] = {
+				["cont"] = false,
+				["icon"] = 3,
+				["title"] = "Loa",
+				["desc"] = "",
+			},
+		},
+		[1355] = {
+			[45712409] = {
+				["title"] = "Sline",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[55134877] = {
+				["title"] = "Slime",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "Done",
+			},
+			[71712569] = {
+				["title"] = "Slime",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "Done",
+			},
+			[60663194] = {
+				["icon"] = 3,
+				["title"] = "Laboratory",
+				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[1165] = {
+			[54510934] = {
+				["title"] = "Терродактиль",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "",
+			},
+			[49541503] = {
+				["title"] = "Терродактиль",
+				["cont"] = false,
+				["icon"] = 4,
+				["desc"] = "",
+			},
+		},
+		[379] = {
+			[57007500] = {
+				["icon"] = 6,
+				["title"] = "Хавак",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[73007700] = {
+				["icon"] = 6,
+				["title"] = "Зей Изгой",
+				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[1961] = {
+			[25005100] = {
+				["icon"] = 3,
+				["title"] = "Закатный острокрыл",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[56807460] = {
+				["icon"] = 1,
+				["title"] = "Rift4",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[24805620] = {
+				["cont"] = false,
+				["icon"] = 9,
+				["title"] = "Cache",
+				["desc"] = "",
+			},
+			[61804460] = {
+				["icon"] = 1,
+				["title"] = "Rift1",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[59405370] = {
+				["icon"] = 1,
+				["title"] = "Rift5",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[53707200] = {
+				["icon"] = 1,
+				["title"] = "Rift3",
+				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[1565] = {
+			[50485769] = {
+				["icon"] = 8,
+				["title"] = "Bird",
+				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[388] = {
+			[62553425] = {
+				["icon"] = 6,
+				["title"] = "Кахтир",
+				["cont"] = false,
+				["desc"] = "",
+			},
+			[54006300] = {
+				["icon"] = 6,
+				["title"] = "Норлакс",
+				["cont"] = false,
+				["desc"] = "",
+			},
+		},
+		[201] = {
+			[60145864] = {
+				["title"] = "Ol’ Fishbreath",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+		},
+		[205] = {
+			[69674678] = {
+				["title"] = "Lil’ Whalley",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[45072044] = {
+				["title"] = "Sir Finley Mrrgglton",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[53992390] = {
+				["title"] = "Manta Stargazer",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+			[54008800] = {
+				["title"] = "Crimson Angerfish",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "",
+			},
+		},
+		[1530] = {
+			[21176235] = {
+				["title"] = "Amber chest",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[1543] = {
+			[20803974] = {
+				["cont"] = false,
+				["icon"] = 1,
+				["title"] = "Cage",
+				["desc"] = "",
+			},
+		},
+		[1970] = {
+			[37544601] = {
+				["title"] = "3",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[39033109] = {
+				["title"] = "5",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[49827656] = {
+				["title"] = "4",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[58006800] = {
+				["title"] = "Helmix",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "",
+			},
+			[35705550] = {
+				["title"] = "1",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[67422518] = {
+				["title"] = "6",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[34254870] = {
+				["title"] = "Epilogue",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[41746244] = {
+				["title"] = "2",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+	},
 	["profiles"] = {
 		["Вейлзевулла - Борейская тундра"] = {
 		},
 		["Алтери - Борейская тундра"] = {
 		},
 		["Фламинника - Гордунни"] = {
+		},
+		["Шайэн - Гордунни"] = {
 		},
 		["Altery - Durotan"] = {
 		},
@@ -589,39 +657,41 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Алоиза - Борейская тундра"] = {
 		},
-		["Нирейя - Борейская тундра"] = {
-		},
 		["Алтэри - Гордунни"] = {
 		},
-		["Дэлери - Борейская тундра"] = {
+		["Нирейя - Борейская тундра"] = {
 		},
 		["Тиаз - Борейская тундра"] = {
 		},
-		["Ниамэй - Гордунни"] = {
+		["Дэлери - Борейская тундра"] = {
 		},
-		["Эстрея - Борейская тундра"] = {
+		["Ниамэй - Гордунни"] = {
 		},
 		["Сайбил - Борейская тундра"] = {
 		},
+		["Эллиата - Гордунни"] = {
+		},
+		["Эстрея - Борейская тундра"] = {
+		},
+		["Delery - Durotan"] = {
+		},
+		["Nietta - EU Mythic Dungeons"] = {
+		},
+		["Элави - Борейская тундра"] = {
+		},
 		["Estrea - Alleria"] = {
+		},
+		["Flaminika - Durotan"] = {
 		},
 		["Зонна - Борейская тундра"] = {
 		},
 		["Эрника - Борейская тундра"] = {
 		},
-		["Estrea - EU Mythic Dungeons"] = {
-		},
-		["Delery - Durotan"] = {
+		["Flaminika - Silvermoon"] = {
 		},
 		["Elavi - Durotan"] = {
 		},
-		["Flaminika - Durotan"] = {
-		},
-		["Flaminika - Silvermoon"] = {
-		},
-		["Элави - Борейская тундра"] = {
-		},
-		["Nietta - EU Mythic Dungeons"] = {
+		["Estrea - EU Mythic Dungeons"] = {
 		},
 		["Ниоши - Борейская тундра"] = {
 		},

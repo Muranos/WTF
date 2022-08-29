@@ -1,0 +1,2158 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 5,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["g"] = 0.9686275124549866,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 354731.853,
+					["serverTime"] = 1655930286,
+					["b"] = 0.9529412388801575,
+				}, -- [1]
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["serverTime"] = 1656012242,
+					["r"] = 1,
+					["b"] = 0.9529412388801575,
+					["timestamp"] = 354731.853,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 0.9686275124549866,
+				}, -- [2]
+				{
+					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
+					["timestamp"] = 354731.853,
+				}, -- [3]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 354731.853,
+				}, -- [4]
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 354711.096,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [5]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 33,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hpratcopy|h[23:09:27]|h Вы получаете 230 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014966,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357456.798,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "|Hpratcopy|h[23:09:33]|h Вы получили задание \"Королевский сидр\".",
+					["serverTime"] = 1656014972,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357462.321,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [2]
+				{
+					["message"] = "|Hpratcopy|h[23:09:58]|h Вы приобрели новую способность: |cff71d5ff|Hspell:193290:0|h[Навыки травничества]|h|r.",
+					["serverTime"] = 1656014997,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357487.999,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[23:09:58]|h Вы приобрели новую способность: |cff71d5ff|Hspell:2383:0|h[Поиск трав]|h|r.",
+					["serverTime"] = 1656014997,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357487.999,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[23:09:58]|h Вы изучили новое заклинание: |cff71d5ff|Hspell:2366:0|h[Сбор трав]|h|r.",
+					["serverTime"] = 1656014997,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357488.092,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[23:09:58]|h Вы приобрели новую способность: |cff71d5ff|Hspell:265819:0|h[Сбор трав]|h|r.",
+					["serverTime"] = 1656014997,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357488.092,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[23:09:58]|h Вы приобрели навык \"Травничество\".",
+					["serverTime"] = 1656014997,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						38, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357488.279,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[23:10:00]|h Вы приобрели новую способность: |cff71d5ff|Hspell:265825:0|h[Сбор трав]|h|r.",
+					["serverTime"] = 1656014999,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357490.253,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[23:10:00]|h Вы приобрели навык \"Травничество времен Катаклизма\".",
+					["serverTime"] = 1656014999,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						38, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357490.253,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[23:10:17]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq4|k:54:460:BN_INLINE_TOAST_ALERT:0|h[|Kq4|k]|h выходит из сети.",
+					["serverTime"] = 1656015016,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						28, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357507.088,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[23:11:16]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Дикаях-Гордунни:469:CHANNEL:2|h|cfffefefeДикаях|r|h|cffd8d8d8]|r: хилю любые ключи за голд",
+					["serverTime"] = 1656015075,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357565.513,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[23:11:22]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015081,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357571.623,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[23:11:25]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015084,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357574.531,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[23:11:30]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015089,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357579.479,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[23:12:08]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015127,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357617.39,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[23:12:10]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015129,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357620.218,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[23:12:15]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015134,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357624.619,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[23:12:44]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015163,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357654.219,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[23:12:49]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015168,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357658.915,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[23:12:52]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015171,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357661.596,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[23:12:55]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Велтис-Гордунни:521:CHANNEL:2|h|cffd84e4e60|r:|cff006fdcВелтис|r|h|cffd8d8d8]|r: похилю подамажу 3 к рио",
+					["serverTime"] = 1656015174,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357665.251,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[23:13:19]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015198,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357688.341,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[23:13:22]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015201,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357691.463,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[23:13:23]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Иргизин-Гордунни:524:CHANNEL:2|h|cff00fe97Иргизин|r|h|cffd8d8d8]|r: Куплю по 65г ШКАТУЛКИ ШЛ, а также другие виды шкатулок с уменьшением цены на 10г за каждое дополнение. Слать наложкой.",
+					["serverTime"] = 1656015202,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357692.957,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[23:13:26]|h Ваша добыча: |cffffffff|Hitem:57197::::::::13:265:::::::::|h[Сочное яблоко]|h|r.",
+					["serverTime"] = 1656015205,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357695.998,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[23:13:44]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Зероф-Гордунни:526:CHANNEL:2|h|cffa22fc8Зероф|r|h|cffd8d8d8]|r: куплю проходку на Экзос, Глашатай Господства, по цепочке на |cff71d5ff|Hspell:354354:0|h[Рука Нилганихмата]|h|r",
+					["serverTime"] = 1656015223,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357713.926,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[23:14:29]|h Задание \"Королевский сидр\" выполнено.",
+					["serverTime"] = 1656015268,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357759.093,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[23:14:29]|h Получено опыта: 1800.",
+					["serverTime"] = 1656015268,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357759.093,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[23:14:29]|h Получено: 1 |4золотая:золотые:золотых;, 74 |4серебряная:серебряные:серебряных;, 50 |4медная монета:медные монеты:медных монет;.",
+					["serverTime"] = 1656015268,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357759.093,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[23:14:29]|h Вы получаете 1800 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656015268,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357759.111,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[23:14:29]|h Отношение |3-7(Штормград) к вам улучшилось на 250.",
+					["serverTime"] = 1656015268,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357759.111,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[23:14:29]|h |3-6(Кулинария) повышается до 4.",
+					["serverTime"] = 1656015268,
+					["r"] = 0.3333333432674408,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						38, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357759.232,
+					["g"] = 0.3333333432674408,
+					["b"] = 1,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[23:14:30]|h Вы получаете валюту – |cffffffff|Hcurrency:81:0|h[Награда гурмана]|h|rх1",
+					["serverTime"] = 1656015269,
+					["r"] = 0.2862745225429535,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357760.12,
+					["g"] = 0.6078431606292725,
+					["b"] = 0.8078432083129883,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[22:57:48]|h |cff33ff99TellMeWhen|r: TMW is now locked. Type /tmw to enter config mode again.",
+					["timestamp"] = 356757.582,
+					["serverTime"] = 1656014267,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[22:58:00]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014279,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356769.494,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[22:58:01]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014280,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356771.108,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[22:58:16]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014295,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356785.714,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[22:58:17]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014296,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356787.061,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[22:58:19]|h Ваша добыча: |cffffffff|Hitem:1015::::::::12:265:::::::::|h[Постный волчий бок]|h|r.",
+					["serverTime"] = 1656014298,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356788.542,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[22:59:08]|h |cff33ff99TellMeWhen|r: TMW is now locked. Type /tmw to enter config mode again.",
+					["timestamp"] = 356838.044,
+					["serverTime"] = 1656014347,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[22:59:23]|h Ядовитый кругопряд погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014362,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356852.811,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[22:59:24]|h Ваша добыча: |cffffffff|Hitem:1288::::::::12:265:::::::::|h[Большая ядовитая железа]|h|r.",
+					["serverTime"] = 1656014363,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356854.053,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[22:59:24]|h Ваша добыча: |cffffffff|Hitem:22644::::::::12:265:::::::::|h[Хрустящая паучья лапка]|h|r.",
+					["serverTime"] = 1656014363,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356854.053,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[22:59:35]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014374,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356865.149,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[22:59:36]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014375,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356865.843,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[22:59:54]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014393,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356883.398,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[22:59:55]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014394,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356884.811,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[23:00:07]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014406,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356896.363,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[23:00:09]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014408,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356898.671,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[23:00:10]|h Ваша добыча: |cffffffff|Hitem:1015::::::::12:265:::::::::|h[Постный волчий бок]|h|r.",
+					["serverTime"] = 1656014409,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356899.931,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[23:00:32]|h Ядовитый кругопряд погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014431,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356921.388,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[23:00:33]|h Ваша добыча: |cffffffff|Hitem:60988::::::::12:265:::::::::|h[Кусочек темного паучьего мяса]|h|r.",
+					["serverTime"] = 1656014432,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356922.868,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[23:00:33]|h Ваша добыча: |cffffffff|Hitem:1288::::::::12:265:::::::::|h[Большая ядовитая железа]|h|r.",
+					["serverTime"] = 1656014432,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356922.868,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[23:00:33]|h Ваша добыча: |cffffffff|Hitem:22644::::::::12:265:::::::::|h[Хрустящая паучья лапка]|h|r.",
+					["serverTime"] = 1656014432,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356922.868,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[23:00:47]|h Ядовитый кругопряд погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014446,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356936.714,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[23:00:49]|h Ваша добыча: |cffffffff|Hitem:1288::::::::12:265:::::::::|h[Большая ядовитая железа]|h|r.",
+					["serverTime"] = 1656014448,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356938.369,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[23:00:49]|h Ваша добыча: |cffffffff|Hitem:3182::::::::12:265:::::::::|h[Паутина]|h|r.",
+					["serverTime"] = 1656014448,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356938.369,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[23:00:49]|h Ваша добыча: |cff1eff00|Hitem:6568::::::::12:265:::2:6654:1692:2:28:13:9:12:::::|h[Мерцающие брюки с символом огненной вспышки]|h|r.",
+					["serverTime"] = 1656014448,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356938.369,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[23:01:01]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014460,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356951.067,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[23:01:03]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014462,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356953.095,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [60]
+				{
+					["message"] = "|Hpratcopy|h[23:01:05]|h Ваша добыча: |cffffffff|Hitem:1015::::::::12:265:::::::::|h[Постный волчий бок]|h|r.",
+					["serverTime"] = 1656014464,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356954.416,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [61]
+				{
+					["message"] = "|Hpratcopy|h[23:01:21]|h Лютый волк впадает в бешенство!",
+					["serverTime"] = 1656014480,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356970.503,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [62]
+				{
+					["message"] = "|Hpratcopy|h[23:01:21]|h Лютый волк погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014480,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356970.956,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [63]
+				{
+					["message"] = "|Hpratcopy|h[23:01:22]|h Ваша добыча: |cffffffff|Hitem:1015::::::::12:265:::::::::|h[Постный волчий бок]|h|r.",
+					["serverTime"] = 1656014481,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356972.17,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[23:01:33]|h Ядовитый кругопряд погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014492,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356982.722,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [65]
+				{
+					["message"] = "|Hpratcopy|h[23:01:35]|h Ваша добыча: |cffffffff|Hitem:60988::::::::12:265:::::::::|h[Кусочек темного паучьего мяса]|h|r.",
+					["serverTime"] = 1656014494,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356984.522,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [66]
+				{
+					["message"] = "|Hpratcopy|h[23:01:35]|h Ваша добыча: |cffffffff|Hitem:1288::::::::12:265:::::::::|h[Большая ядовитая железа]|h|r.",
+					["serverTime"] = 1656014494,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356984.669,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[23:01:35]|h Ваша добыча: |cffffffff|Hitem:22644::::::::12:265:::::::::|h[Хрустящая паучья лапка]|h|r.",
+					["serverTime"] = 1656014494,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 356984.842,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[23:01:55]|h Ядовитый кругопряд погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014514,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357005.198,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[23:01:57]|h Ваша добыча: |cffffffff|Hitem:1288::::::::12:265:::::::::|h[Большая ядовитая железа]|h|r.",
+					["serverTime"] = 1656014516,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357006.479,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[23:01:57]|h Ваша добыча: |cffffffff|Hitem:2251::::::::12:265:::::::::|h[Липкая паучья лапка]|h|r.",
+					["serverTime"] = 1656014516,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357006.479,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[23:02:17]|h Ядовитый кругопряд погибает, вы получаете 63 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014536,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357027.275,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[23:02:19]|h Ваша добыча: |cffffffff|Hitem:60988::::::::12:265:::::::::|h[Кусочек темного паучьего мяса]|h|r.",
+					["serverTime"] = 1656014538,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357028.769,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[23:02:19]|h Ваша добыча: |cffffffff|Hitem:1288::::::::12:265:::::::::|h[Большая ядовитая железа]|h|r.",
+					["serverTime"] = 1656014538,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357028.769,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[23:02:19]|h Ваша добыча: |cffffffff|Hitem:22644::::::::12:265:::::::::|h[Хрустящая паучья лапка]|h|r.",
+					["serverTime"] = 1656014538,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357028.769,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Вы получаете 1700 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014588,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.204,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Отношение |3-7(Штормград) к вам улучшилось на 250.",
+					["serverTime"] = 1656014588,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.204,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Задание \"Волки идут по пятам\" выполнено.",
+					["serverTime"] = 1656014588,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.223,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Получено опыта: 1700.",
+					["serverTime"] = 1656014588,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.223,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Получено: 1 |4золотая:золотые:золотых;, 23 |4серебряная:серебряные:серебряных;.",
+					["serverTime"] = 1656014588,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.223,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Вы получили предмет: |cffffffff|Hitem:1127::::::::12:265:::::::::|h[Взрывпакет]|h|rx5.",
+					["serverTime"] = 1656014588,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.233,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[23:03:09]|h Вы получили предмет: |cff1eff00|Hitem:60895::::::::12:265::11:1:3631:2:9:12:28:13:::::|h[Кольцо Чернодрева]|h|r.",
+					["serverTime"] = 1656014588,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357079.233,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[23:03:17]|h Вы получили задание \"Ночной дозор\".",
+					["serverTime"] = 1656014596,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357086.354,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[23:03:23]|h Вы получаете 1700 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014602,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357093.211,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[23:03:23]|h Отношение |3-7(Штормград) к вам улучшилось на 250.",
+					["serverTime"] = 1656014602,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357093.211,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[23:03:23]|h Задание \"Воргены в лесу\" выполнено.",
+					["serverTime"] = 1656014602,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357093.237,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[23:03:23]|h Получено опыта: 1700.",
+					["serverTime"] = 1656014602,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357093.237,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[23:03:23]|h Получено: 1 |4золотая:золотые:золотых;, 23 |4серебряная:серебряные:серебряных;.",
+					["serverTime"] = 1656014602,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357093.237,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[23:03:25]|h Вы получили задание \"Гниющий сад\".",
+					["serverTime"] = 1656014604,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357094.851,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Вы получаете 1700 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014620,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.578,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [90]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Отношение |3-7(Штормград) к вам улучшилось на 250.",
+					["serverTime"] = 1656014620,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.578,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [91]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Задание \"Темные пирожки с крабами\" выполнено.",
+					["serverTime"] = 1656014620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.578,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [92]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Получено опыта: 1700.",
+					["serverTime"] = 1656014620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.578,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [93]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Получено: 1 |4золотая:золотые:золотых;, 23 |4серебряная:серебряные:серебряных;.",
+					["serverTime"] = 1656014620,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.578,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [94]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Вы получили предмет: |cffffffff|Hitem:3683::::::::12:265::11::1:28:13:::::|h[Рецепт: пирожок из паучатины]|h|r.",
+					["serverTime"] = 1656014620,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.606,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [95]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Вы получили предмет: |cffffffff|Hitem:3666::::::::12:265:::::::::|h[Пирожок из паучатины]|h|rx3.",
+					["serverTime"] = 1656014620,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.606,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [96]
+				{
+					["message"] = "|Hpratcopy|h[23:03:41]|h Фаррин Дарис говорит: Когда же хоть кто-нибудь разберется с этой нежитью?",
+					["serverTime"] = 1656014620,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357110.685,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [97]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Вы получаете 1700 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014622,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [98]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Вы изучили новое заклинание: |cff71d5ff|Hspell:316099:0|h[Нестабильное колдовство]|h|r.",
+					["serverTime"] = 1656014622,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [99]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Отношение |3-7(Штормград) к вам улучшилось на 250.",
+					["serverTime"] = 1656014622,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [100]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Поздравляем, вы достигли |cffFF4E00|Hlevelup:13:LEVEL_UP_TYPE_CHARACTER|h[13-го уровня]|h|r!",
+					["serverTime"] = 1656014622,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [101]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Вы получили предмет: |cffffffff|Hitem:1017::::::::13:265:::::::::|h[Приправленная котлета из волчатины]|h|rx4.",
+					["serverTime"] = 1656014622,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [102]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Вы получили предмет: |cffffffff|Hitem:2701::::::::13:265::11::1:28:13:::::|h[Рецепт: приправленная котлета из волчатины]|h|r.",
+					["serverTime"] = 1656014622,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [103]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Задание \"Пряные котлеты из волчатины\" выполнено.",
+					["serverTime"] = 1656014622,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [104]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Получено опыта: 1700.",
+					["serverTime"] = 1656014622,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [105]
+				{
+					["message"] = "|Hpratcopy|h[23:03:43]|h Получено: 1 |4золотая:золотые:золотых;, 23 |4серебряная:серебряные:серебряных;.",
+					["serverTime"] = 1656014622,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357113.179,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [106]
+				{
+					["message"] = "|Hpratcopy|h[23:04:18]|h Вы отдыхаете.",
+					["serverTime"] = 1656014657,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357147.861,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [107]
+				{
+					["message"] = "|Hpratcopy|h[23:04:31]|h Посол Беррибак говорит: Корень наших бед – в глухом равнодушии тех, кто укрылся за толстыми стенами Штормграда.",
+					["serverTime"] = 1656014670,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357160.934,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [108]
+				{
+					["message"] = "|Hpratcopy|h[23:04:35]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
+					["timestamp"] = 357165.069,
+					["serverTime"] = 1656014674,
+				}, -- [109]
+				{
+					["message"] = "|Hpratcopy|h[23:04:36]|h Задание \"Украденные письма\" выполнено.",
+					["serverTime"] = 1656014675,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357166.176,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [110]
+				{
+					["message"] = "|Hpratcopy|h[23:04:36]|h Получено опыта: 1800.",
+					["serverTime"] = 1656014675,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357166.176,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [111]
+				{
+					["message"] = "|Hpratcopy|h[23:04:36]|h Получено: 1 |4золотая:золотые:золотых;, 74 |4серебряная:серебряные:серебряных;, 50 |4медная монета:медные монеты:медных монет;.",
+					["serverTime"] = 1656014675,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357166.176,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [112]
+				{
+					["message"] = "|Hpratcopy|h[23:04:36]|h Вы получаете 1800 |4очко:очка:очков; опыта.",
+					["serverTime"] = 1656014675,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357166.176,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [113]
+				{
+					["message"] = "|Hpratcopy|h[23:04:36]|h Отношение |3-7(Штормград) к вам улучшилось на 75.",
+					["serverTime"] = 1656014675,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357166.176,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [114]
+				{
+					["message"] = "|Hpratcopy|h[23:04:36]|h Вы получили предмет: |cff1eff00|Hitem:156973::::::::13:265::11:1:3631:2:9:13:28:13:::::|h[Посох архивариуса]|h|r.",
+					["serverTime"] = 1656014675,
+					["r"] = 0.9411765336990356,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						22, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357166.176,
+					["g"] = 0.9803922176361084,
+					["b"] = 0.9411765336990356,
+				}, -- [115]
+				{
+					["message"] = "|Hpratcopy|h[23:04:40]|h Вы получили задание \"В темном углу\".",
+					["serverTime"] = 1656014679,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357169.925,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [116]
+				{
+					["message"] = "|Hpratcopy|h[23:05:40]|h |cff33ff99TellMeWhen|r: TMW is now locked. Type /tmw to enter config mode again.",
+					["timestamp"] = 357229.364,
+					["serverTime"] = 1656014739,
+				}, -- [117]
+				{
+					["message"] = "|Hpratcopy|h[23:06:07]|h Вы получили задание \"Взгляни на звезды\".",
+					["serverTime"] = 1656014766,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357256.416,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [118]
+				{
+					["message"] = "|Hpratcopy|h[23:06:45]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Элвиннский лес]|h.",
+					["serverTime"] = 1656014804,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357295.26,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [119]
+				{
+					["message"] = "|Hpratcopy|h[23:06:45]|h |Hchannel:channel:3|h[3] |h Смена канала: |Hchannel:CHANNEL:3|h[3. Оборона: Элвиннский лес]|h.",
+					["serverTime"] = 1656014804,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357295.26,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [120]
+				{
+					["message"] = "|Hpratcopy|h[23:07:39]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Штормград]|h.",
+					["serverTime"] = 1656014858,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357348.455,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [121]
+				{
+					["message"] = "|Hpratcopy|h[23:07:39]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
+					["serverTime"] = 1656014858,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357348.455,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [122]
+				{
+					["message"] = "|Hpratcopy|h[23:07:39]|h |Hchannel:channel:3|h[3] |h Смена канала: |Hchannel:CHANNEL:3|h[3. Оборона: Штормград]|h.",
+					["serverTime"] = 1656014858,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357348.455,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [123]
+				{
+					["message"] = "|Hpratcopy|h[23:07:57]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Озиманесса-Гордунни:368:CHANNEL:2|h|cfff38bb9Озиманесса|r|h|cffd8d8d8]|r: фарм бое нужны 2  дд",
+					["serverTime"] = 1656014876,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357367.039,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [124]
+				{
+					["message"] = "|Hpratcopy|h[23:08:19]|h |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Аремана-Гордунни:369:CHANNEL:1|h|cffc59a6cАремана|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:118874::::::::60:72:::1:6661:2:9:40:28:176:::::|h[Оплот Черной горы]|h|r|cffffffff|Hitem:15496::::::::60:72::1::1:28:193:::::|h[Окровавленное оплечье]|h|r |cff0070dd|Hitem:32663::::::::60:72:::::::::|h[Апекситовый колун]|h|rпродам дешевле аука",
+					["serverTime"] = 1656014898,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						14, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357388.635,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [125]
+				{
+					["message"] = "|Hpratcopy|h[23:08:53]|h |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Иргизин-Гордунни:375:CHANNEL:2|h|cff00fe97Иргизин|r|h|cffd8d8d8]|r: Куплю по 65г ШКАТУЛКИ ШЛ, а также другие виды шкатулок с уменьшением цены на 10г за каждое дополнение. Слать наложкой.",
+					["serverTime"] = 1656014932,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357423.117,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [126]
+				{
+					["message"] = "|Hpratcopy|h[23:09:27]|h Задание \"Игра с огнем\" выполнено.",
+					["serverTime"] = 1656014966,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357456.785,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [127]
+				{
+					["message"] = "|Hpratcopy|h[23:09:27]|h Получено опыта: 230.",
+					["serverTime"] = 1656014966,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 357456.785,
+					["g"] = 0.9686275124549866,
+					["b"] = 0.9529412388801575,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

@@ -40,6 +40,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 	["t3c3f1"] = {
 		["enabled"] = true,
@@ -81,6 +82,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 	["t1c3f1"] = {
 		["enabled"] = true,
@@ -122,6 +124,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 	["moveable"] = false,
 	["t1c1f0"] = {
@@ -164,6 +167,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 	["t1c2f0"] = {
 		["enabled"] = true,
@@ -205,6 +209,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = true,
 		},
+		["sorting"] = "",
 	},
 	["expert"] = false,
 	["t2c3f1"] = {
@@ -247,6 +252,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 	["t1c6f0"] = {
 		["enabled"] = true,
@@ -288,5 +294,6 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["sorting"] = "",
 	},
 }

@@ -1,11 +1,11 @@
 
 TipTac_Config = {
-	["top"] = 261.9997253417969,
+	["top"] = 224.4001312255859,
 	["optionsLeft"] = 763.0000610351562,
-	["optionsBottom"] = 165.9998779296875,
+	["left"] = 1933.399536132813,
 	["if_showSpellIdAndRank"] = true,
-	["targetYouText"] = "<<YOU>>",
+	["optionsBottom"] = 165.9998779296875,
 	["showHiddenTipsOnShift"] = true,
-	["left"] = 1802.999755859375,
+	["targetYouText"] = "<<YOU>>",
 	["hideUFTipsInCombat"] = true,
 }

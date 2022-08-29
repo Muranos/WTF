@@ -26,21 +26,21 @@ MADB = {
 						277.999755859375, -- [5]
 					},
 				},
-				["TalkingHeadFrame"] = {
+				["PlayerStatusTexture"] = {
 					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						0, -- [4]
-						155, -- [5]
+						"TOPLEFT", -- [1]
+						nil, -- [2]
+						"TOPLEFT", -- [3]
+						35, -- [4]
+						-7.999999523162842, -- [5]
 					},
-					["name"] = "TalkingHeadFrame",
+					["name"] = "PlayerStatusTexture",
 					["pos"] = {
-						"BOTTOM", -- [1]
+						"TOPLEFT", -- [1]
 						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						-669.000466585159, -- [4]
-						258.000061035156, -- [5]
+						"TOPLEFT", -- [3]
+						648.9999389648438, -- [4]
+						-711.9998168945312, -- [5]
 					},
 				},
 				["PlayerPowerBarAltMover"] = {
@@ -58,6 +58,57 @@ MADB = {
 						"BOTTOM", -- [3]
 						-716.000415802002, -- [4]
 						274.9996643066406, -- [5]
+					},
+				},
+				["TalkingHeadFrame"] = {
+					["orgPos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						155, -- [5]
+					},
+					["name"] = "TalkingHeadFrame",
+					["pos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						-669.000466585159, -- [4]
+						258.000061035156, -- [5]
+					},
+				},
+				["PlayerStatusGlow"] = {
+					["orgPos"] = {
+						"TOPLEFT", -- [1]
+						"PlayerRestIcon", -- [2]
+						"TOPLEFT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "PlayerStatusGlow",
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"PlayerRestIcon", -- [2]
+						"TOPLEFT", -- [3]
+						-6.103515625e-05, -- [4]
+						6.103515625e-05, -- [5]
+					},
+				},
+				["OverrideActionBarExpBar"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"OverrideActionBarBG", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						26.99999809265137, -- [5]
+					},
+					["name"] = "OverrideActionBarExpBar",
+					["pos"] = {
+						"TOP", -- [1]
+						"OverrideActionBarBG", -- [2]
+						"TOP", -- [3]
+						-6.103515625e-05, -- [4]
+						26.99999237060547, -- [5]
 					},
 				},
 				["CastingBarFrame"] = {
@@ -80,8 +131,8 @@ MADB = {
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = false,
 	["frameListRows"] = 18,
+	["noBags"] = false,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

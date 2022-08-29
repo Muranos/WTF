@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.053,
-	["LastPlayerFullName"] = "Estrea-Alleria",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0531,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159310,
@@ -91,6 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:186761:6229:::::::60:102::74:4:6652:7694:1485:6646:1:28:2043:::::|h[Korthian Attendant's Blade]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Estrea-Alleria",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -122,7 +123,6 @@ PawnOptions = {
 			["Name"] = "Scythe of Elune",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

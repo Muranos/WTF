@@ -92,3 +92,17 @@ DataStore: disabled
 BigWigs_Shadowlands: enabled
 BigWigs_SanctumOfDomination: enabled
 LittleWigs_Legion: enabled
+DBM-Core: disabled
+DBM-GUI: enabled
+DBM-StatusBarTimers: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+RaiderIO_DB_US_F: disabled
+RaiderIO_DB_TW_F: disabled
+RaiderIO_DB_KR_F: disabled
+RaiderIO_DB_US_R: disabled
+RaiderIO_DB_US_M: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled
+DominationSocketHelper: disabled

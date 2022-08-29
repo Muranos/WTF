@@ -9,4 +9,8 @@ TomCats_Character = {
 			},
 		},
 	},
+	["lunarfestival"] = {
+		["preferences"] = {
+		},
+	},
 }

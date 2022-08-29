@@ -174,7 +174,7 @@ Scrap: enabled
 SexyMap: enabled
 Simulationcraft: enabled
 TidyPlates_ThreatPlates: enabled
-TomCats: enabled
+TomCats: disabled
 DBM-Azeroth-BfA: disabled
 DBM-ZuldazarRaid: disabled
 DBM-Party-BfA: disabled
@@ -255,3 +255,8 @@ DataStore_Reputations: disabled
 DataStore_Quests: disabled
 DataStore_Pets: disabled
 DataStore_Mails: disabled
+PitBull4: disabled
+PitBull4_DogTagTexts: disabled
+RaiderIO_DB_US_F: disabled
+RaiderIO_DB_TW_F: disabled
+RaiderIO_DB_KR_F: disabled

@@ -1,0 +1,42 @@
+VER 3 0100000000000006 "ChainLightning" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Цепное исцеление
+END
+VER 3 0100000000000008 "Earthquake" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Землетрясение
+END
+VER 3 010000000000000A "EyeOfTheStorm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Око шторма
+END
+VER 3 0100000000000009 "LazyShock" "INV_MISC_QUESTIONMARK"
+#showtooltip Огненный шок
+/castsequence reset=5 Огненный шок, Ледяной шок, Ледяной шок, Ледяной шок
+END
+VER 3 0100000000000004 "Purify" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Очищение духа; [spec:3] Возрождение духа
+/cast [@mouseover, help, spec:1] Очищение духа; [@mouseover, help, spec:3] Возрождение духа
+END
+VER 3 0100000000000005 "Riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Быстрина
+END
+VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
+#showtooltip Щит молний
+/castsequence reset=5 Щит молний, Оружие языка пламени
+END
+VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Исцеляющий всплеск
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Шай[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "Waterwalking" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Хождение по воде
+END

@@ -12,16 +12,13 @@ VER 3 010000000000000E "Countdown" "INV_MISC_QUESTIONMARK"
 #showtooltip Последний расчет
 /cast [@cursor] Последний расчет
 END
-VER 3 010000000000000F "Dismount" "3150958"
-/cancelaura Божественный скакун
-END
 VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Очищение от токсинов; [@player] Очищение от токсинов
 END
-VER 3 0100000000000010 "FocusRepentance" "INV_MISC_QUESTIONMARK"
-#showtooltip Покаяние
-/cast [target=focus] Покаяние
+VER 3 0100000000000011 "Dispell_Healer" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] Очищение; [@player] Очищение
 END
 VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -31,35 +28,49 @@ VER 3 010000000000000D "FreedomForMe" "135992"
 /cast [@player] Благословенная свобода
 END
 VER 3 010000000000000B "Glory" "INV_MISC_QUESTIONMARK"
-/cast [modifier:SELFCAST, @player] [@mouseover, help] Торжество; [@player] Торжество
+#showtooltip Торжество
+/cast [modifier:SELFCAST, @player] [@mouseover, help] Торжество
 END
 VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Вспышка Света
 END
+VER 3 0100000000000012 "HolyLight" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Свет небес
+END
+VER 3 010000000000000C "HolyShock" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Шок небес
+END
+VER 3 010000000000000F "Judge+Ring" "INV_MISC_QUESTIONMARK"
+#showtooltip Правосудие
+/use Перстень рушащегося будущего
+/cast Правосудие
+END
 VER 3 0100000000000005 "LayOnHands" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Возложение рук
 END
-VER 3 010000000000000C "NoAttack" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000010 "Particle" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier: alt, @] Правосудие Света
-/cast [nomod] Удар воина Света
+/cast [@mouseover, help] [] Частица Света
 END
 VER 3 0100000000000007 "Sacrifice" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жертвенное благословение
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1DR1OH1RM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1OM1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСосУххЕди[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NУххСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
 /use Непостижимое квантовое устройство
 /use Переполненный энергией кристалл
+/use Светошумовая граната головореза
 /cast Гнев карателя
 /use Серафим
 END

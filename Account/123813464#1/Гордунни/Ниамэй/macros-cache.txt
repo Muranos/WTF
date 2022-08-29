@@ -10,6 +10,8 @@ VER 3 0100000000000008 "Covenant" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Оружие ордена
 /cast Скульптор плоти
+/cast Волшебная линия
+/cast Павший орден
 END
 VER 3 0100000000000004 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip Детоксикация

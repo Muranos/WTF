@@ -554,9 +554,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -567,8 +568,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -576,9 +577,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -589,18 +591,19 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 4,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -609,10 +612,41 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["serverTime"] = 1653427800,
+					["r"] = 1,
+					["b"] = 0.960784375667572,
+					["timestamp"] = 710999.389,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 0.9960784912109375,
+				}, -- [1]
+				{
+					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
+					["timestamp"] = 710999.389,
+				}, -- [2]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 710999.389,
+				}, -- [3]
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 710984.8520000001,
+					["g"] = 0.9960784912109375,
+					["b"] = 0.960784375667572,
+				}, -- [4]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -620,9 +654,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame7"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -633,8 +668,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -642,9 +677,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame6"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -655,8 +691,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -1075,9 +1111,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1088,8 +1125,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -1097,9 +1134,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame10"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1110,8 +1148,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -1119,9 +1157,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame9"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1132,18 +1171,19 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 25,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 24,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1153,228 +1193,181 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[04:28:15]|h Вы будете получать добычу для специализации \"Сила зверя\".",
-					["b"] = 0.960784375667572,
+					["message"] = "|Hpratcopy|h[00:29:53]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.135 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
 					["r"] = 1,
-					["g"] = 0.9960784912109375,
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622510896,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [1]
-				{
-					["message"] = "|Hpratcopy|h[04:28:16]|h Общее время игры: 41 |4день:дня:дней;, 19 |4час:часа:часов;, 18 |4минута:минуты:минут;, 50 |4секунда:секунды:секунд;.",
-					["b"] = 0.960784375667572,
-					["r"] = 1,
-					["g"] = 0.9960784912109375,
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622510897,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [2]
-				{
-					["message"] = "|Hpratcopy|h[04:28:16]|h Время игры на этом уровне: 16 |4день:дня:дней;, 21 |4час:часа:часов;, 16 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
-					["b"] = 0.960784375667572,
-					["r"] = 1,
-					["g"] = 0.9960784912109375,
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622510897,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [3]
-				{
-					["message"] = "0 |4день:дня:дней;, 9 |4час:часа:часов;, 59 |4минута:минуты:минут;, 29 |4секунда:секунды:секунд;.",
-					["timestamp"] = 66069.348,
-				}, -- [4]
-				{
-					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 66069.348,
-				}, -- [5]
-				{
-					["message"] = "|Hpratcopy|h[14:27:41]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.123 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
-					["r"] = 1,
-					["timestamp"] = 66057.797,
+					["timestamp"] = 710984.8520000001,
 					["g"] = 0.7,
 					["b"] = 0.2,
-				}, -- [6]
+				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[14:27:42]|h |cff9900ffWeakAuras:|r  Готово к применению 2 |4обновление:обновления:обновлений;.",
-					["timestamp"] = 66057.797,
-				}, -- [7]
+					["message"] = "|Hpratcopy|h[00:30:01]|h |cffffaeaeDetails!:|r use '/details me' macro to open the player breakdown for you!    ",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427801,
+				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[14:27:47]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622546867,
-				}, -- [8]
+					["message"] = "|Hpratcopy|h[00:30:01]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427801,
+				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[14:27:48]|h Вы будете получать добычу для специализации \"Сила зверя\".",
-					["serverTime"] = 1622546868,
+					["message"] = "|Hpratcopy|h[00:30:02]|h Вы будете получать добычу для специализации \"Сила зверя\".",
+					["serverTime"] = 1653427802,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 66069.348,
+					["timestamp"] = 710999.389,
 					["g"] = 0.9960784912109375,
 					["b"] = 0.960784375667572,
+				}, -- [4]
+				{
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cffffff00Global Ignore: New player Безпани95E5A-Борейскаятундра found on character, adding to Global Ignore List",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
+				}, -- [7]
+				{
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cff33ff99Global Ignore: |cffffffffБезпани95e5a-Борейскаятундра is already ignored",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cffffff00Global Ignore: New player Штик7E51C-Борейскаятундра found on character, adding to Global Ignore List",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
 				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[14:27:48]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622546868,
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cff33ff99Global Ignore: |cffffffffШтик7e51c-Борейскаятундра is already ignored",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
 				}, -- [10]
 				{
-					["message"] = "|Hpratcopy|h[14:27:48]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622546868,
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cffffd700Титан Панель|r|cff20ff20 5.23.2.90204|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
 				}, -- [11]
 				{
-					["message"] = "|Hpratcopy|h[14:27:48]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622546868,
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Эстрея: 5man",
+					["r"] = 1,
+					["serverTime"] = 1653427802,
+					["timestamp"] = 710999.389,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [12]
 				{
-					["message"] = "|Hpratcopy|h[14:27:48]|h |cffffd700Титан Панель|r|cff20ff20 5.20.3.90005|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
-					["timestamp"] = 66069.348,
-					["serverTime"] = 1622546868,
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cffffe566{VuhDo}|r auto model sanity: VUHDO_CONFIG: created 1, repaired 0 values.",
+					["r"] = 1,
+					["serverTime"] = 1653427802,
+					["timestamp"] = 710999.389,
+					["g"] = 0.7,
+					["b"] = 0.2,
 				}, -- [13]
 				{
-					["message"] = "|Hpratcopy|h[14:27:48]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Эстрея: 5man",
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cffffe566{VuhDo}|r auto model sanity: VUHDO_SPELL_CONFIG: created 2, repaired 0 values.",
 					["r"] = 1,
-					["serverTime"] = 1622546868,
-					["timestamp"] = 66069.348,
+					["serverTime"] = 1653427802,
+					["timestamp"] = 710999.389,
 					["g"] = 0.7,
 					["b"] = 0.2,
 				}, -- [14]
 				{
-					["message"] = "|Hpratcopy|h[14:27:49]|h Общее время игры: 41 |4день:дня:дней;, 19 |4час:часа:часов;, 19 |4минута:минуты:минут;, 16 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1622546869,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 66072.822,
-					["g"] = 0.9960784912109375,
-					["b"] = 0.960784375667572,
+					["message"] = "|Hpratcopy|h[00:30:02]|h |cff9900ffWeakAuras:|r  Готово к применению 3 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 710999.389,
+					["serverTime"] = 1653427802,
 				}, -- [15]
 				{
-					["message"] = "|Hpratcopy|h[14:27:49]|h Время игры на этом уровне: 16 |4день:дня:дней;, 21 |4час:часа:часов;, 16 |4минута:минуты:минут;, 26 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1622546869,
+					["message"] = "|Hpratcopy|h[00:30:03]|h Общее время игры: 41 |4день:дня:дней;, 20 |4час:часа:часов;, 6 |4минута:минуты:минут;, 40 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1653427803,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 66072.822,
+					["timestamp"] = 711003.039,
 					["g"] = 0.9960784912109375,
 					["b"] = 0.960784375667572,
 				}, -- [16]
 				{
-					["message"] = "|Hpratcopy|h[14:27:49]|h |cff7f7f7f[14:27]|r [|cff007f7fNOP|r] Шахта Зашедшей Луны: 11 done 0 to go!",
-					["timestamp"] = 66072.822,
-					["serverTime"] = 1622546869,
-				}, -- [17]
-				{
-					["message"] = "|Hpratcopy|h[14:27:49]|h |cff7f7f7f[14:27]|r [|cff007f7fNOP|r] Дворфийский бункер: 26 done 0 to go!",
-					["timestamp"] = 66072.822,
-					["serverTime"] = 1622546869,
-				}, -- [18]
-				{
-					["message"] = "|Hpratcopy|h[14:27:49]|h |cff7f7f7f[14:27]|r [|cff007f7fNOP|r] Archaeology Огры is ready!",
-					["timestamp"] = 66072.822,
-					["serverTime"] = 1622546869,
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[14:27:49]|h |cff7f7f7f[14:27]|r [|cff007f7fNOP|r] Paragon reward for Армия Света is ready!",
-					["timestamp"] = 66072.822,
-					["serverTime"] = 1622546869,
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[14:28:02]|h Вы получили предмет: |cffffffff|Hitem:163036::::::::50:104:::::::|h[Отполированный оберег для питомца]|h|rx17.",
-					["serverTime"] = 1622546882,
-					["r"] = 0.8352941870689392,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66085.907,
-					["g"] = 0.8078432083129883,
-					["b"] = 0.168627455830574,
-				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[14:28:02]|h Вы получили предмет: |cffffffff|Hitem:163036::::::::50:104:::::::|h[Отполированный оберег для питомца]|h|rx15.",
-					["serverTime"] = 1622546882,
-					["r"] = 0.8352941870689392,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66085.907,
-					["g"] = 0.8078432083129883,
-					["b"] = 0.168627455830574,
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[14:28:07]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Гавань Боралуса]|h.",
-					["serverTime"] = 1622546887,
+					["message"] = "|Hpratcopy|h[00:30:03]|h Время игры на этом уровне: 0 |4день:дня:дней;, 0 |4час:часа:часов;, 26 |4минута:минуты:минут;, 2 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1653427803,
 					["r"] = 1,
 					["extraData"] = {
-						67, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 66090.357,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [23]
+					["timestamp"] = 711003.039,
+					["g"] = 0.9960784912109375,
+					["b"] = 0.960784375667572,
+				}, -- [17]
 				{
-					["message"] = "|Hpratcopy|h[14:28:07]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
-					["serverTime"] = 1622546887,
+					["message"] = "|Hpratcopy|h[00:30:03]|h |cff7f7f7f[00:30]|r [|cff007f7fNOP|r] Шахта Зашедшей Луны: 11 done 0 to go!",
+					["timestamp"] = 711003.039,
+					["serverTime"] = 1653427803,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[00:30:03]|h |cff7f7f7f[00:30]|r [|cff007f7fNOP|r] Дворфийский бункер: 26 done 0 to go!",
+					["timestamp"] = 711003.039,
+					["serverTime"] = 1653427803,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[00:30:03]|h |cff7f7f7f[00:30]|r [|cff007f7fNOP|r] Archaeology Огры is ready!",
+					["timestamp"] = 711003.039,
+					["serverTime"] = 1653427803,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[00:30:03]|h |cff7f7f7f[00:30]|r [|cff007f7fNOP|r] Paragon reward for Армия Света is ready!",
+					["timestamp"] = 711003.039,
+					["serverTime"] = 1653427803,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[00:30:10]|h |cffb4b4ffALL THE THINGS|r Профиль: По умолчанию",
+					["timestamp"] = 711008.9770000001,
+					["serverTime"] = 1653427810,
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[00:30:47]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Бастион]|h.",
+					["serverTime"] = 1653427847,
 					["r"] = 1,
 					["extraData"] = {
 						68, -- [1]
 						false, -- [2]
-						6, -- [3]
-						7, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 66090.357,
+					["timestamp"] = 711046.471,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[00:30:47]|h |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:CHANNEL:3|h[3. Оборона: Бастион]|h.",
+					["serverTime"] = 1653427847,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 711046.471,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
 				}, -- [24]
-				{
-					["message"] = "|Hpratcopy|h[14:28:07]|h |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:CHANNEL:3|h[3. Оборона: Гавань Боралуса]|h.",
-					["serverTime"] = 1622546887,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 66090.357,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [25]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],

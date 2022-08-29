@@ -30,6 +30,10 @@ VER 3 000000000000001E "CancelBop" "136223"
 /script PetDismiss()
 /cancelaura Благословение защиты
 /click TotemFrameTotem1 RightButton
+/click TotemFrameTotem2 RightButton
+/click TotemFrameTotem3 RightButton
+/click TotemFrameTotem4 RightButton
+/click TotemFrameTotem5 RightButton
 END
 VER 3 000000000000002A "CandyAndFish" "INV_MISC_QUESTIONMARK"
 #showtooltip Блуждающая сущность друстов
@@ -48,8 +52,8 @@ VER 3 0000000000000029 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
 /cm rt
 END
 VER 3 0000000000000050 "DrumsAndPot" "INV_MISC_QUESTIONMARK"
-#showtooltip Барабаны Водоворота
-/use Барабаны Водоворота
+#showtooltip Барабаны гор
+/use Барабаны гор
 /use Зелье длительной силы
 END
 VER 3 0000000000000022 "DualMount" "Ability_AnimusDraw"
@@ -142,6 +146,8 @@ END
 VER 3 000000000000004D "Owlinator" "3811750"
 /cast Призыв распорядителя
 /cast Облик души
+/cast Скульптор плоти
+/cast Врата теней
 END
 VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
@@ -156,6 +162,10 @@ END
 VER 3 0000000000000024 "Renew" "INV_MISC_QUESTIONMARK"
 #showtooltip Обновление
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Обновление
+END
+VER 3 0000000000000052 "Rupture" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Вознесение
 END
 VER 3 0000000000000025 "Serenity" "INV_MISC_QUESTIONMARK"
 #showtooltip Слово Света: Безмятежность
@@ -183,6 +193,11 @@ END
 VER 3 0000000000000042 "TheVaultIsGreat" "135923"
 /run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
 END
+VER 3 0000000000000051 "Tugar_Mindbender" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target Тугар
+/cast Подчинитель разума
+END
 VER 3 000000000000002E "Turkey" "INV_MISC_QUESTIONMARK"
 #showtooltip Слово тьмы: Боль
 /target Взрывчатка Скверны
@@ -195,4 +210,7 @@ END
 VER 3 0000000000000043 "UsetTrinket" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
 /use 13
+END
+VER 3 0000000000000053 "WorldMarker" "132864"
+/wm [@cursor] 1
 END

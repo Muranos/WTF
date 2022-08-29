@@ -1,6 +1,7 @@
 VER 3 0100000000000009 "Elisium" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player] Элизийский декрет
+/cast Клеймо греха
 END
 VER 3 0100000000000005 "Enemy" "INV_MISC_QUESTIONMARK"
 #showtooltip Заклятый враг

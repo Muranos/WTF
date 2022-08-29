@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.053,
+	["LastVersion"] = 2.0531,
 	["LastPlayerFullName"] = "Altery-Durotan",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -63,10 +63,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165679::::::::51:259::28:6:4803:40:6516:6515:1514:4786::::|h[Ornate Elun'dris Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 181334,
-			["Level"] = 132,
+			["ID"] = 186976,
+			["Level"] = 200,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:181334::::::::58:259::53:2:7192:6652:2:28:807:9:58:::::|h[Essence Extractor]|h|r",
+			["Link"] = "|cffa335ee|Hitem:186976::::::::60:259::14:4:7692:6652:1472:6646::::::|h[Fine Razorwing Quill]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 181334,

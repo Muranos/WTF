@@ -11,21 +11,23 @@ OmniCDDB = {
 		["Дэлери - Борейская тундра"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Estrea - Alleria"] = "Default",
+		["Эллиата - Гордунни"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Flaminika - Durotan"] = "Default",
+		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Сайбил - Борейская тундра"] = "Default",
+		["Алоиза - Борейская тундра"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
 		["Алоиза - Гордунни"] = "Default",
-		["Алоиза - Борейская тундра"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Шайэн - Гордунни"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
 	},
 	["global"] = {
+		["oodVer"] = 9252720,
+		["oodChk"] = 220807,
 		["disableElvMsg"] = true,
-		["oodChk"] = 210916,
-		["oodVer"] = 2633,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -33,9 +35,9 @@ OmniCDDB = {
 		["BattleRes"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
@@ -48,19 +50,19 @@ OmniCDDB = {
 								["classColor"] = false,
 								["inactiveColor"] = {
 									["a"] = 0.7400000095367432,
-									["b"] = 0.08627450980392157,
-									["g"] = 0.01176470588235294,
 									["r"] = 0.00392156862745098,
+									["g"] = 0.01176470588235294,
+									["b"] = 0.08627450980392157,
 								},
 								["rechargeColor"] = {
-									["r"] = 0.1215686274509804,
-									["g"] = 0.7411764705882353,
 									["b"] = 1,
+									["g"] = 0.7411764705882353,
+									["r"] = 0.1215686274509804,
 								},
 								["activeColor"] = {
-									["b"] = 0.1725490196078431,
-									["g"] = 0.05098039215686274,
 									["r"] = 0.00392156862745098,
+									["g"] = 0.05098039215686274,
+									["b"] = 0.1725490196078431,
 								},
 							},
 							["growUpward"] = true,
@@ -72,11 +74,11 @@ OmniCDDB = {
 								["rechargeColor"] = {
 									["g"] = 0.7019607843137254,
 								},
-								["activeColor"] = {
-									["a"] = 0.1385537385940552,
-								},
 								["useClassColor"] = {
 									["active"] = true,
+								},
+								["activeColor"] = {
+									["a"] = 0.1385537385940552,
 								},
 							},
 							["textColors"] = {
@@ -86,12 +88,16 @@ OmniCDDB = {
 								},
 							},
 						},
-						["raidCDBar"] = {
-							["enabled"] = false,
-						},
 					},
-					["general"] = {
-						["showPlayer"] = true,
+					["manualPos"] = {
+						["interruptBar"] = {
+							["y"] = 413.5110343184715,
+							["x"] = 965.3331830971729,
+						},
+						["raidCDBar"] = {
+							["y"] = 598.4001881010045,
+							["x"] = 92.80023011168396,
+						},
 					},
 					["spells"] = {
 						["31661"] = true,
@@ -103,22 +109,25 @@ OmniCDDB = {
 						["8122"] = false,
 						["235219"] = false,
 						["102793"] = true,
+						["336126"] = false,
 						["59752"] = false,
 						["221562"] = true,
 						["115078"] = true,
+						["217832"] = true,
 						["336135"] = false,
-						["209258"] = false,
+						["213602"] = false,
 						["205636"] = true,
 						["179057"] = true,
 						["122783"] = false,
 						["10060"] = true,
 						["53480"] = false,
 						["47788"] = false,
+						["122278"] = false,
 						["323436"] = false,
 						["47482"] = false,
 						["31230"] = false,
 						["102359"] = true,
-						["132469"] = true,
+						["115310"] = false,
 						["122470"] = false,
 						["196029"] = false,
 						["32375"] = true,
@@ -130,25 +139,22 @@ OmniCDDB = {
 						["109304"] = false,
 						["29166"] = true,
 						["102560"] = true,
-						["213602"] = false,
 						["49576"] = true,
 						["86949"] = false,
+						["209258"] = false,
 						["114018"] = true,
-						["115310"] = false,
+						["132469"] = true,
 						["108199"] = true,
 						["108238"] = false,
-						["336126"] = false,
 						["20711"] = false,
-						["217832"] = true,
 						["323764"] = true,
 						["116844"] = true,
 						["207167"] = true,
 						["108968"] = false,
 						["108194"] = true,
-						["122278"] = false,
+						["109248"] = true,
 						["316958"] = true,
 						["19236"] = false,
-						["109248"] = true,
 					},
 					["icons"] = {
 						["scale"] = 0.63,
@@ -158,18 +164,11 @@ OmniCDDB = {
 						["attach"] = "LEFT",
 						["preset"] = "manual",
 						["anchor"] = "BOTTOMLEFT",
-						["offsetY"] = 87,
+						["offsetY"] = 110,
 						["anchorMore"] = "BOTTOMLEFT",
 					},
-					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 598.4001881010045,
-							["x"] = 92.80023011168396,
-						},
-						["interruptBar"] = {
-							["y"] = 413.5110343184715,
-							["x"] = 965.3331830971729,
-						},
+					["general"] = {
+						["showPlayer"] = true,
 					},
 				},
 				["visibility"] = {

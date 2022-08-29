@@ -22,17 +22,12 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "3",
-			["act"] = false,
-		},
-		["heals"] = {
-			["max"] = "0",
-			["min"] = "",
 			["act"] = false,
 		},
 		["defeated"] = {
@@ -40,6 +35,12 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["heals"] = {
+			["max"] = "0",
+			["min"] = "",
+			["act"] = false,
+		},
+		["sorting"] = "",
 	},
 	["t3c2f0"] = {
 		["enabled"] = true,
@@ -63,15 +64,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -81,8 +77,14 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["heals"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["sorting"] = "",
 	},
-	["t1c6f0"] = {
+	["t1c1f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
 			["max"] = "",
@@ -107,6 +109,11 @@ PremadeGroupsFilterState = {
 			["act"] = false,
 			["val"] = 3,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
@@ -117,11 +124,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t3c3f1"] = {
 		["enabled"] = true,
@@ -145,15 +148,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -163,6 +161,12 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["heals"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["sorting"] = "",
 	},
 	["t1c3f1"] = {
 		["enabled"] = true,
@@ -186,15 +190,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -204,10 +203,16 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["heals"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["sorting"] = "",
 	},
 	["expert"] = false,
 	["moveable"] = false,
-	["t1c1f0"] = {
+	["t1c6f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
 			["max"] = "",
@@ -232,6 +237,11 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
@@ -242,10 +252,6 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 }

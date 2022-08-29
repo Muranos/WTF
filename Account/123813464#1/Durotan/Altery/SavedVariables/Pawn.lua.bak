@@ -15,9 +15,9 @@ PawnOptions = {
 			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:259::11:4:4932:4933:6316:1552::::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 173841,
-			["Level"] = 83,
-			["Link"] = "|cff0070dd|Hitem:173841::::::::50:259::14:4:1472:4785:6259:4775::::|h[Mantle of the Insatiable Maw]|h|r",
+			["ID"] = 185885,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:185885::::::::60:259::14:4:7692:6652:1472:6646::::::|h[Shardhide Leather Shoulderguards]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -36,9 +36,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:185865::::::::60:259::14:4:7692:6652:1472:6646::::::|h[Shardhide Leather Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 181182,
-			["Level"] = 132,
-			["Link"] = "|cff0070dd|Hitem:181182::::::::58:259::53:2:7192:6652:2:28:807:9:58:::::|h[Muck Waders]|h|r",
+			["ID"] = 186734,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:186734::::::::60:259::14:4:7692:6652:1472:6646::::::|h[Shardhide Leather Treads]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 186739,
@@ -51,10 +51,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:186735::::::::60:259::14:4:7692:6652:1472:6646::::::|h[Shardhide Leather Handlers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 165679,
-			["Level"] = 100,
+			["ID"] = 185941,
+			["Level"] = 200,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:165679::::::::50:259::28:6:4803:40:6516:6515:1514:4786::::|h[Ornate Elun'dris Ring]|h|r",
+			["Link"] = "|cffa335ee|Hitem:185941::::::::60:259::14:5:7692:6652:7575:1472:6646::::::|h[Korthian Scholar's Signet]|h|r",
 		}, -- [11]
 		{
 			["ID"] = 165679,

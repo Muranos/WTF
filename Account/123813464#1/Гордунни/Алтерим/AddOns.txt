@@ -20,3 +20,6 @@ AllTheThings: enabled
 AddonFactory: disabled
 Altoholic_Options: disabled
 DataStore: disabled
+DBM-Core: disabled
+DBM-GUI: enabled
+DBM-StatusBarTimers: enabled

@@ -14,6 +14,20 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+				"/cw Аркадрон-Борейскаятундра Пока всё)", -- [1]
+				"/cw Коррделия-Борейскаятундра Привет) Спасибо)", -- [2]
+				" Ну там же нужно кого-то более важного в рейд взять", -- [3]
+				"/cw Шадоукаст-Борейскаятундра Нет, я сегодня релаксирую", -- [4]
+				" А ты линкануть его можешь?", -- [5]
+				" Давай Каражан", -- [6]
+				" 15", -- [7]
+				" Гоу в Каражан", -- [8]
+			},
 			["ChatFrame1EditBox"] = {
 				"/с /reload", -- [1]
 				"/п |cff0070dd|Hitem:127493::::::::120:581:512:22:1:5473:120:::|h[Метеоритный оселок]|h|rнадо кому?", -- [2]
@@ -516,20 +530,6 @@ Prat3CharDB = {
 				"/cw Альмагорн-Борейскаятундра А, так у тебя открыта уже полетка?", -- [499]
 				"/cw Альмагорн-Борейскаятундра Я тебя подвезти хотела)", -- [500]
 			},
-			["ChatFrame3EditBox"] = {
-				"/cw Аркадрон-Борейскаятундра Пока всё)", -- [1]
-				"/cw Коррделия-Борейскаятундра Привет) Спасибо)", -- [2]
-				" Ну там же нужно кого-то более важного в рейд взять", -- [3]
-				"/cw Шадоукаст-Борейскаятундра Нет, я сегодня релаксирую", -- [4]
-				" А ты линкануть его можешь?", -- [5]
-				" Давай Каражан", -- [6]
-				" 15", -- [7]
-				" Гоу в Каражан", -- [8]
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
 		},
 	},
 }
@@ -538,10 +538,11 @@ Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 6,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 7,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -551,67 +552,79 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[21:50:47]|h Сообщение дня от гильдии: \"Йоу всем! В Гильдии есть рейдящий статик. За инфо в дискорд Гильдии http://discord.gg/98q8RQg !\"",
-					["g"] = 0.4941176772117615,
+					["message"] = "|Hpratcopy|h[04:45:20]|h Сообщение дня от гильдии: \"Йоу всем! Статик в перерыве до 10.0, Походу. спасибо всем! Мирного неба! Ждём всех обратно в будущем!\"",
+					["b"] = 1,
 					["r"] = 0.4431372880935669,
+					["serverTime"] = 1661220796,
+					["timestamp"] = 819598.044,
+					["g"] = 0.4941176772117615,
 					["extraData"] = {
 						5, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429629,
-					["b"] = 1,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[12:53:49]|h Сообщение дня от гильдии: \"Йоу всем! В Гильдии есть рейдящий статик. За инфо в дискорд Гильдии http://discord.gg/98q8RQg !\"",
-					["serverTime"] = 1640464304,
+					["message"] = "|Hpratcopy|h[05:13:16]|h Сообщение дня от гильдии: \"Йоу всем! Статик в перерыве до 10.0, Походу. спасибо всем! Мирного неба! Ждём всех обратно в будущем!\"",
+					["g"] = 0.4941176772117615,
 					["r"] = 0.4431372880935669,
-					["b"] = 1,
-					["timestamp"] = 443796.626,
 					["extraData"] = {
 						5, -- [1]
 						["n"] = 1,
 					},
-					["g"] = 0.4941176772117615,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282433,
+					["b"] = 1,
 				}, -- [2]
 				{
-					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
-					["timestamp"] = 443796.626,
-				}, -- [3]
-				{
-					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 443796.626,
-				}, -- [4]
-				{
-					["message"] = "|Hpratcopy|h[22:31:44]|h Сообщение дня от гильдии: \"Йоу всем! В Гильдии есть рейдящий статик. За инфо в дискорд Гильдии http://discord.gg/98q8RQg !\"",
-					["r"] = 0.4431372880935669,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 443795.817,
-					["g"] = 0.4941176772117615,
-					["b"] = 1,
-				}, -- [5]
-				{
-					["message"] = "|Hpratcopy|h[22:40:08]|h |cffd8d8d8[|r|Hplayer:Палодонтозик-Гордунни:24:ACHIEVEMENT|h|cfff38bb9Палодонтозик|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14841:Player-1602-0F1EA454:1:12:25:21:4294967295:4294967295:4294967295:4294967295|h[Приключения: теперь ты в деле]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["serverTime"] = 1640464807,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[05:14:45]|h |cffd8d8d8[|r|Hplayer:Сюрреализия-Гордунни:2331:ACHIEVEMENT|h|cff3ec6eaСюрреализия|r|h|cffd8d8d8]|r заслужила достижение |cffffff00|Hachievement:14842:Player-1602-0F3BE5CF:1:8:23:22:4294967295:4294967295:4294967295:4294967295|h[Приключения: сила и упорство]|h|r |cffffffff(|rсделано|cffffffff)|r!",
 					["extraData"] = {
 						47, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 444299.966,
-					["g"] = 1,
 					["b"] = 0,
+					["serverTime"] = 1661220885,
+					["timestamp"] = 819598.044,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|Hpratcopy|h[22:20:32]|h Сообщение дня от гильдии: \"Йоу всем! Статик в перерыве до 10.0, Походу. спасибо всем! Мирного неба! Ждём всех обратно в будущем!\"",
+					["serverTime"] = 1661301431,
+					["r"] = 0.4431372880935669,
+					["b"] = 1,
+					["timestamp"] = 819598.044,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 0.4941176772117615,
+				}, -- [4]
+				{
+					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
+					["timestamp"] = 819598.044,
+				}, -- [5]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 819598.044,
 				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[03:37:11]|h Сообщение дня от гильдии: \"Йоу всем! Статик в перерыве до 10.0, Походу. спасибо всем! Мирного неба! Ждём всех обратно в будущем!\"",
+					["r"] = 0.4431372880935669,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 819597.774,
+					["g"] = 0.4941176772117615,
+					["b"] = 1,
+				}, -- [7]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -619,9 +632,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame10"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -632,18 +646,19 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 5,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 6,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -654,36 +669,48 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
-					["g"] = 0.9137255549430847,
+					["b"] = 1,
 					["r"] = 0.9960784912109375,
+					["serverTime"] = 1661220796,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9137255549430847,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429629,
-					["b"] = 1,
 				}, -- [1]
 				{
 					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
-					["serverTime"] = 1640464304,
+					["g"] = 0.9137255549430847,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282433,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
+					["serverTime"] = 1661301431,
 					["r"] = 0.9960784912109375,
 					["b"] = 1,
-					["timestamp"] = 443796.626,
+					["timestamp"] = 819598.044,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
 					["g"] = 0.9137255549430847,
-				}, -- [2]
-				{
-					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
-					["timestamp"] = 443796.626,
 				}, -- [3]
 				{
-					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 443796.626,
+					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
+					["timestamp"] = 819598.044,
 				}, -- [4]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 819598.044,
+				}, -- [5]
 				{
 					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
 					["r"] = 0.9960784912109375,
@@ -691,14 +718,14 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 443782.784,
+					["timestamp"] = 819584.39,
 					["g"] = 0.9137255549430847,
 					["b"] = 1,
-				}, -- [5]
+				}, -- [6]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -706,9 +733,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame7"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -719,8 +747,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -728,9 +756,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame6"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -741,8 +770,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -752,10 +781,6 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|Hpratcopy|h[11:09:36]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T134373:14|tПтенец феникса – |3-8(ваш питомец) активный питомец.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350675.03,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -763,14 +788,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669377,
+					["timestamp"] = 350675.03,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [1]
 				{
 					["message"] = "|Hpratcopy|h[11:09:37]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T3610503:14|tБатарея – |3-8(вражеский питомец) активный питомец.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350675.781,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -778,14 +803,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669378,
+					["timestamp"] = 350675.781,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [2]
 				{
 					["message"] = "|Hpratcopy|h[11:09:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 1",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350677.872,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -793,14 +818,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669380,
+					["timestamp"] = 350677.872,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [3]
 				{
 					["message"] = "|Hpratcopy|h[11:09:40]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:178:1319:276:325|h[Жертвенный огонь]|h|r наносит 266 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350678.883,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -808,14 +833,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669381,
+					["timestamp"] = 350678.883,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [4]
 				{
 					["message"] = "|Hpratcopy|h[11:09:40]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:178:1319:276:325|h[Жертвенный огонь]|h|r накладывает эффект |T135817:14|t|cff4e96f7|HbattlePetAbil:177:1319:276:325|h[Жертвенный огонь]|h|r на |3-1(вражеский питомец) |3-3(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350679.133,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -823,14 +848,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669381,
+					["timestamp"] = 350679.133,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [5]
 				{
 					["message"] = "|Hpratcopy|h[11:09:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2342:1906:333:236|h[Перегрузка]|h|r наносит 116 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350681.363,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -838,14 +863,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669383,
+					["timestamp"] = 350681.363,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [6]
 				{
 					["message"] = "|Hpratcopy|h[11:09:43]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2342:1906:333:236|h[Перегрузка]|h|r накладывает эффект |T2735955:14|t|cff4e96f7|HbattlePetAbil:2343:1906:333:236|h[Ослепительные критические удары]|h|r на |3-1(вражеский питомец) |3-3(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350681.613,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -853,14 +878,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669384,
+					["timestamp"] = 350681.613,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [7]
 				{
 					["message"] = "|Hpratcopy|h[11:09:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:1203:276:325|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350682.779,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -868,14 +893,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669385,
+					["timestamp"] = 350682.779,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [8]
 				{
 					["message"] = "|Hpratcopy|h[11:09:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 2",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350687.039,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -883,14 +908,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669389,
+					["timestamp"] = 350687.039,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [9]
 				{
 					["message"] = "|Hpratcopy|h[11:09:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:1203:276:325|h[Поджигание]|h|r наносит 666 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350688.468,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -898,14 +923,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669390,
+					["timestamp"] = 350688.468,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [10]
 				{
 					["message"] = "|Hpratcopy|h[11:09:50]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:1203:276:325|h[Поджигание]|h|r наносит 222 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350689.228,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -913,14 +938,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669391,
+					["timestamp"] = 350689.228,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [11]
 				{
 					["message"] = "|Hpratcopy|h[11:09:52]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136099:14|t|cff4e96f7|HbattlePetAbil:2344:907:333:236|h[Суперразряд]|h|r наносит 139 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350691.285,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -928,14 +953,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669393,
+					["timestamp"] = 350691.285,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [12]
 				{
 					["message"] = "|Hpratcopy|h[11:09:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136099:14|t|cff4e96f7|HbattlePetAbil:2344:907:333:236|h[Суперразряд]|h|r накладывает эффект |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:907:333:236|h[Суперразряд]|h|r на |3-1(ваш питомец) |3-3(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350691.535,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -943,14 +968,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669394,
+					["timestamp"] = 350691.535,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [13]
 				{
 					["message"] = "|Hpratcopy|h[11:09:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:907:333:236|h[Суперразряд]|h|r наносит 116 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350692.565,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -958,14 +983,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669395,
+					["timestamp"] = 350692.565,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [14]
 				{
 					["message"] = "|Hpratcopy|h[11:09:55]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:948:276:325|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350693.595,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -973,14 +998,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669396,
+					["timestamp"] = 350693.595,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [15]
 				{
 					["message"] = "|Hpratcopy|h[11:09:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 3",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350694.885,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -988,14 +1013,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669397,
+					["timestamp"] = 350694.885,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [16]
 				{
 					["message"] = "|Hpratcopy|h[11:09:57]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:948:276:325|h[Палящее пламя]|h|r наносит 555 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350696.025,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1003,14 +1028,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669398,
+					["timestamp"] = 350696.025,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [17]
 				{
 					["message"] = "|Hpratcopy|h[11:09:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T465878:14|t|cff4e96f7|HbattlePetAbil:533:698:333:236|h[Ремонт]|h|r восстанавливает 457 ед. урона |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350697.794,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1018,14 +1043,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669400,
+					["timestamp"] = 350697.794,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [18]
 				{
 					["message"] = "|Hpratcopy|h[11:09:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T465878:14|t|cff4e96f7|HbattlePetAbil:533:698:333:236|h[Ремонт]|h|r восстанавливает 0 ед. урона |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350698.044,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1033,14 +1058,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669400,
+					["timestamp"] = 350698.044,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [19]
 				{
 					["message"] = "|Hpratcopy|h[11:09:59]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T465878:14|t|cff4e96f7|HbattlePetAbil:533:698:333:236|h[Ремонт]|h|r восстанавливает 0 ед. урона |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350698.294,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1048,14 +1073,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669400,
+					["timestamp"] = 350698.294,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [20]
 				{
 					["message"] = "|Hpratcopy|h[11:10:01]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:698:333:236|h[Суперразряд]|h|r наносит 58 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350699.533,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1063,14 +1088,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669402,
+					["timestamp"] = 350699.533,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [21]
 				{
 					["message"] = "|Hpratcopy|h[11:10:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:890:276:325|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350700.563,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1078,14 +1103,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669403,
+					["timestamp"] = 350700.563,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [22]
 				{
 					["message"] = "|Hpratcopy|h[11:10:02]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T2735955:14|t|cff4e96f7|HbattlePetAbil:2343:587:333:236|h[Ослепительные критические удары]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T3610503:14|tБатарея), заканчивается.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350700.563,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1093,14 +1118,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669403,
+					["timestamp"] = 350700.563,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [23]
 				{
 					["message"] = "|Hpratcopy|h[11:10:03]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 4",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350702.083,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1108,14 +1133,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669404,
+					["timestamp"] = 350702.083,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [24]
 				{
 					["message"] = "|Hpratcopy|h[11:10:04]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:890:276:325|h[Палящее пламя]|h|r наносит 382 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350703.163,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1123,14 +1148,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669405,
+					["timestamp"] = 350703.163,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [25]
 				{
 					["message"] = "|Hpratcopy|h[11:10:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136099:14|t|cff4e96f7|HbattlePetAbil:2344:205:333:236|h[Суперразряд]|h|r наносит 139 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350705.634,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1138,14 +1163,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669408,
+					["timestamp"] = 350705.634,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [26]
 				{
 					["message"] = "|Hpratcopy|h[11:10:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T136099:14|t|cff4e96f7|HbattlePetAbil:2344:205:333:236|h[Суперразряд]|h|r накладывает эффект |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:205:333:236|h[Суперразряд]|h|r на |3-1(ваш питомец) |3-3(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350705.884,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1153,14 +1178,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669408,
+					["timestamp"] = 350705.884,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [27]
 				{
 					["message"] = "|Hpratcopy|h[11:10:08]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:205:333:236|h[Суперразряд]|h|r наносит 58 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350706.974,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1168,14 +1193,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669409,
+					["timestamp"] = 350706.974,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [28]
 				{
 					["message"] = "|Hpratcopy|h[11:10:09]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:693:276:325|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350708.004,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1183,14 +1208,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669410,
+					["timestamp"] = 350708.004,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [29]
 				{
 					["message"] = "|Hpratcopy|h[11:10:13]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 5",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350712.152,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1198,14 +1223,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669414,
+					["timestamp"] = 350712.152,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [30]
 				{
 					["message"] = "|Hpratcopy|h[11:10:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:693:276:325|h[Палящее пламя]|h|r наносит 547 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350713.223,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1213,14 +1238,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669415,
+					["timestamp"] = 350713.223,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [31]
 				{
 					["message"] = "|Hpratcopy|h[11:10:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T3610503:14|tБатарея погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350713.223,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1228,14 +1253,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669415,
+					["timestamp"] = 350713.223,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [32]
 				{
 					["message"] = "|Hpratcopy|h[11:10:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:434:333:236|h[Последний шанс]|h|r восстанавливает 434 ед. урона |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350715.753,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1243,14 +1268,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669418,
+					["timestamp"] = 350715.753,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [33]
 				{
 					["message"] = "|Hpratcopy|h[11:10:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:434:333:236|h[Последний шанс]|h|r накладывает эффект |T618979:14|t|cff4e96f7|HbattlePetAbil:244:434:333:236|h[Механический питомец]|h|r на |3-1(вражеский питомец) |3-3(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350716.003,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1258,14 +1283,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669418,
+					["timestamp"] = 350716.003,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [34]
 				{
 					["message"] = "|Hpratcopy|h[11:10:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2342:434:333:236|h[Перегрузка]|h|r наносит 116 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350719.245,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1273,14 +1298,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669421,
+					["timestamp"] = 350719.245,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [35]
 				{
 					["message"] = "|Hpratcopy|h[11:10:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2342:434:333:236|h[Перегрузка]|h|r накладывает эффект |T2735955:14|t|cff4e96f7|HbattlePetAbil:2343:434:333:236|h[Ослепительные критические удары]|h|r на |3-1(вражеский питомец) |3-3(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350719.495,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1288,14 +1313,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669421,
+					["timestamp"] = 350719.495,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [36]
 				{
 					["message"] = "|Hpratcopy|h[11:10:22]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:434:333:236|h[Суперразряд]|h|r наносит 58 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350720.585,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1303,14 +1328,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669423,
+					["timestamp"] = 350720.585,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [37]
 				{
 					["message"] = "|Hpratcopy|h[11:10:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:519:276:325|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350721.615,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1318,14 +1343,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669424,
+					["timestamp"] = 350721.615,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [38]
 				{
 					["message"] = "|Hpratcopy|h[11:10:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T135817:14|t|cff4e96f7|HbattlePetAbil:177:519:276:325|h[Жертвенный огонь]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T3610503:14|tБатарея), заканчивается.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350721.615,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1333,14 +1358,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669424,
+					["timestamp"] = 350721.615,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [39]
 				{
 					["message"] = "|Hpratcopy|h[11:10:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 6",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350723.077,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1348,14 +1373,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669425,
+					["timestamp"] = 350723.077,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [40]
 				{
 					["message"] = "|Hpratcopy|h[11:10:25]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:519:276:325|h[Палящее пламя]|h|r наносит 374 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3610503:14|tБатарея).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350724.147,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1363,14 +1388,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669426,
+					["timestamp"] = 350724.147,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [41]
 				{
 					["message"] = "|Hpratcopy|h[11:10:25]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T3610503:14|tБатарея погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350724.147,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1378,14 +1403,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669426,
+					["timestamp"] = 350724.147,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [42]
 				{
 					["message"] = "|Hpratcopy|h[11:10:28]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:0:333:236|h[Суперразряд]|h|r наносит 58 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350726.888,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1393,14 +1418,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669429,
+					["timestamp"] = 350726.888,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [43]
 				{
 					["message"] = "|Hpratcopy|h[11:10:29]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 6",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350727.898,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1408,14 +1433,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669430,
+					["timestamp"] = 350727.898,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [44]
 				{
 					["message"] = "|Hpratcopy|h[11:10:29]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132935:14|tРассекатель – |3-8(вражеский питомец) активный питомец.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350727.898,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1423,14 +1448,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669430,
+					["timestamp"] = 350727.898,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [45]
 				{
 					["message"] = "|Hpratcopy|h[11:10:32]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 7",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350731.075,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1438,14 +1463,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669433,
+					["timestamp"] = 350731.075,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [46]
 				{
 					["message"] = "|Hpratcopy|h[11:10:33]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T134518:14|t|cff4e96f7|HbattlePetAbil:392:1400:289:370|h[Дополнительная броня]|h|r накладывает эффект |T134518:14|t|cff4e96f7|HbattlePetAbil:391:1400:289:370|h[Дополнительная броня]|h|r на |3-1(вражеский питомец) |3-3(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350731.575,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1453,14 +1478,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669434,
+					["timestamp"] = 350731.575,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [47]
 				{
 					["message"] = "|Hpratcopy|h[11:10:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:178:461:276:325|h[Жертвенный огонь]|h|r наносит 133 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350733.639,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1468,14 +1493,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669436,
+					["timestamp"] = 350733.639,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [48]
 				{
 					["message"] = "|Hpratcopy|h[11:10:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:178:461:276:325|h[Жертвенный огонь]|h|r накладывает эффект |T135817:14|t|cff4e96f7|HbattlePetAbil:177:461:276:325|h[Жертвенный огонь]|h|r на |3-1(вражеский питомец) |3-3(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350733.889,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1483,14 +1508,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669436,
+					["timestamp"] = 350733.889,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [49]
 				{
 					["message"] = "|Hpratcopy|h[11:10:36]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:461:276:325|h[Жертвенный огонь]|h|r наносит 55 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350734.919,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1498,14 +1523,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669437,
+					["timestamp"] = 350734.919,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [50]
 				{
 					["message"] = "|Hpratcopy|h[11:10:36]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:0:333:236|h[Суперразряд]|h|r наносит 58 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350734.939,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1513,14 +1538,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669437,
+					["timestamp"] = 350734.939,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [51]
 				{
 					["message"] = "|Hpratcopy|h[11:10:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 8",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350738.089,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1528,14 +1553,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669440,
+					["timestamp"] = 350738.089,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [52]
 				{
 					["message"] = "|Hpratcopy|h[11:10:40]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T514640:14|t|cff4e96f7|HbattlePetAbil:536:1212:289:370|h[Крадущийся зверь]|h|r накладывает эффект |T514640:14|t|cff4e96f7|HbattlePetAbil:543:1212:289:370|h[Крадущийся зверь]|h|r на |3-1(вражеский питомец) |3-3(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350738.589,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1543,14 +1568,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669441,
+					["timestamp"] = 350738.589,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [53]
 				{
 					["message"] = "|Hpratcopy|h[11:10:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:403:276:325|h[Поджигание]|h|r наносит 333 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350741.17,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1558,14 +1583,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669443,
+					["timestamp"] = 350741.17,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [54]
 				{
 					["message"] = "|Hpratcopy|h[11:10:43]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:403:276:325|h[Поджигание]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350741.93,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1573,14 +1598,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669444,
+					["timestamp"] = 350741.93,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [55]
 				{
 					["message"] = "|Hpratcopy|h[11:10:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:403:276:325|h[Жертвенный огонь]|h|r наносит 55 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350742.71,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1588,14 +1613,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669445,
+					["timestamp"] = 350742.71,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [56]
 				{
 					["message"] = "|Hpratcopy|h[11:10:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:0:333:236|h[Суперразряд]|h|r наносит 58 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350742.73,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1603,14 +1628,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669445,
+					["timestamp"] = 350742.73,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [57]
 				{
 					["message"] = "|Hpratcopy|h[11:10:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T132997:14|t|cff4e96f7|HbattlePetAbil:2345:0:333:236|h[Суперразряд]|h|r, наложенного на |3-1(ваш питомец) |3-3(|T134373:14|tПтенец феникса), заканчивается.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350743.74,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1618,14 +1643,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669446,
+					["timestamp"] = 350743.74,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [58]
 				{
 					["message"] = "|Hpratcopy|h[11:10:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 9",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350747.101,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1633,14 +1658,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669449,
+					["timestamp"] = 350747.101,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [59]
 				{
 					["message"] = "|Hpratcopy|h[11:10:49]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:345:276:325|h[Палящее пламя]|h|r наносит 274 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350748.301,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1648,14 +1673,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669450,
+					["timestamp"] = 350748.301,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [60]
 				{
 					["message"] = "|Hpratcopy|h[11:10:52]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133832:14|t|cff4e96f7|HbattlePetAbil:384:439:289:259|h[Металлический кулак]|h|r наносит 509 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134373:14|tПтенец феникса).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350750.639,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1663,14 +1688,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669453,
+					["timestamp"] = 350750.639,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [61]
 				{
 					["message"] = "|Hpratcopy|h[11:10:52]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Ваш питомец) |T134373:14|tПтенец феникса погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350750.639,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1678,14 +1703,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669453,
+					["timestamp"] = 350750.639,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [62]
 				{
 					["message"] = "|Hpratcopy|h[11:10:53]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T514640:14|t|cff4e96f7|HbattlePetAbil:543:439:289:259|h[Крадущийся зверь]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T132935:14|tРассекатель), заканчивается.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350752.149,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1693,14 +1718,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669454,
+					["timestamp"] = 350752.149,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [63]
 				{
 					["message"] = "|Hpratcopy|h[11:10:54]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:0:276:325|h[Жертвенный огонь]|h|r наносит 55 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350753.42,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1708,14 +1733,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669455,
+					["timestamp"] = 350753.42,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [64]
 				{
 					["message"] = "|Hpratcopy|h[11:10:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 9",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350755.114,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1723,14 +1748,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669457,
+					["timestamp"] = 350755.114,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [65]
 				{
 					["message"] = "|Hpratcopy|h[11:10:56]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T134813:14|tДух лета – |3-8(ваш питомец) активный питомец.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350755.114,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1738,14 +1763,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669457,
+					["timestamp"] = 350755.114,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [66]
 				{
 					["message"] = "|Hpratcopy|h[11:11:00]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 10",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350759.114,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1753,14 +1778,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669461,
+					["timestamp"] = 350759.114,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [67]
 				{
 					["message"] = "|Hpratcopy|h[11:11:01]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133832:14|t|cff4e96f7|HbattlePetAbil:384:384:289:370|h[Металлический кулак]|h|r наносит 203 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350760.224,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1768,14 +1793,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669462,
+					["timestamp"] = 350760.224,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [68]
 				{
 					["message"] = "|Hpratcopy|h[11:11:03]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:1278:276:276|h[Поджигание]|h|r наносит 333 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350762.054,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1783,14 +1808,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669464,
+					["timestamp"] = 350762.054,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [69]
 				{
 					["message"] = "|Hpratcopy|h[11:11:04]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:1278:276:276|h[Поджигание]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350762.807,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1798,14 +1823,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669465,
+					["timestamp"] = 350762.807,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [70]
 				{
 					["message"] = "|Hpratcopy|h[11:11:04]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T132935:14|tРассекатель погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350762.807,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1813,14 +1838,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669465,
+					["timestamp"] = 350762.807,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [71]
 				{
 					["message"] = "|Hpratcopy|h[11:11:06]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:280:289:370|h[Последний шанс]|h|r восстанавливает 280 ед. урона |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350765.328,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1828,14 +1853,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669467,
+					["timestamp"] = 350765.328,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [72]
 				{
 					["message"] = "|Hpratcopy|h[11:11:07]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:280:289:370|h[Последний шанс]|h|r накладывает эффект |T618979:14|t|cff4e96f7|HbattlePetAbil:244:280:289:370|h[Механический питомец]|h|r на |3-1(вражеский питомец) |3-3(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350765.578,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1843,14 +1868,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669468,
+					["timestamp"] = 350765.578,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [73]
 				{
 					["message"] = "|Hpratcopy|h[11:11:08]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:0:276:325|h[Жертвенный огонь]|h|r наносит 55 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350767.369,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1858,14 +1883,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669469,
+					["timestamp"] = 350767.369,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [74]
 				{
 					["message"] = "|Hpratcopy|h[11:11:08]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта |T134518:14|t|cff4e96f7|HbattlePetAbil:391:225:289:370|h[Дополнительная броня]|h|r, наложенного на |3-1(вражеский питомец) |3-3(|T132935:14|tРассекатель), заканчивается.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350767.369,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1873,14 +1898,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669469,
+					["timestamp"] = 350767.369,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [75]
 				{
 					["message"] = "|Hpratcopy|h[11:11:11]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 11",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350770.029,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1888,14 +1913,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669472,
+					["timestamp"] = 350770.029,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [76]
 				{
 					["message"] = "|Hpratcopy|h[11:11:12]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133832:14|t|cff4e96f7|HbattlePetAbil:384:225:289:370|h[Металлический кулак]|h|r наносит 203 ед. урона (слаб. удар) |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350771.176,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1903,14 +1928,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669473,
+					["timestamp"] = 350771.176,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [77]
 				{
 					["message"] = "|Hpratcopy|h[11:11:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:1075:276:276|h[Палящее пламя]|h|r наносит 533 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T132935:14|tРассекатель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350773.356,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1918,14 +1943,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669475,
+					["timestamp"] = 350773.356,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [78]
 				{
 					["message"] = "|Hpratcopy|h[11:11:14]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T132935:14|tРассекатель погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350773.356,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1933,14 +1958,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669475,
+					["timestamp"] = 350773.356,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [79]
 				{
 					["message"] = "|Hpratcopy|h[11:11:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 11",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350775.867,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1948,14 +1973,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669478,
+					["timestamp"] = 350775.867,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [80]
 				{
 					["message"] = "|Hpratcopy|h[11:11:17]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T3582261:14|tКрушитель – |3-8(вражеский питомец) активный питомец.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350775.867,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1963,14 +1988,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669478,
+					["timestamp"] = 350775.867,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [81]
 				{
 					["message"] = "|Hpratcopy|h[11:11:20]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 12",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350779.031,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1978,14 +2003,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669481,
+					["timestamp"] = 350779.031,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [82]
 				{
 					["message"] = "|Hpratcopy|h[11:11:21]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:178:1075:276:276|h[Жертвенный огонь]|h|r наносит 266 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350780.291,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -1993,14 +2018,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669482,
+					["timestamp"] = 350780.291,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [83]
 				{
 					["message"] = "|Hpratcopy|h[11:11:22]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:178:1075:276:276|h[Жертвенный огонь]|h|r накладывает эффект |T135817:14|t|cff4e96f7|HbattlePetAbil:177:1075:276:276|h[Жертвенный огонь]|h|r на |3-1(вражеский питомец) |3-3(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350780.541,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2008,14 +2033,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669483,
+					["timestamp"] = 350780.541,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [84]
 				{
 					["message"] = "|Hpratcopy|h[11:11:23]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133035:14|t|cff4e96f7|HbattlePetAbil:2236:1971:357:249|h[Нестабильная инженерия]|h|r накладывает эффект \"|T133035:14|t|cff4e96f7|HbattlePetAbil:2235:1971:357:249|h[Нестабильная инженерия]|h|r\" на |3-3(команда противника).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350782.051,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2023,14 +2048,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669484,
+					["timestamp"] = 350782.051,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [85]
 				{
 					["message"] = "|Hpratcopy|h[11:11:24]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:1075:276:276|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350783.081,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2038,14 +2063,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669485,
+					["timestamp"] = 350783.081,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [86]
 				{
 					["message"] = "|Hpratcopy|h[11:11:26]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 13",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350785.053,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2053,14 +2078,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669487,
+					["timestamp"] = 350785.053,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [87]
 				{
 					["message"] = "|Hpratcopy|h[11:11:27]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:1075:276:276|h[Палящее пламя]|h|r наносит 528 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350786.284,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2068,14 +2093,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669488,
+					["timestamp"] = 350786.284,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [88]
 				{
 					["message"] = "|Hpratcopy|h[11:11:30]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133477:14|t|cff4e96f7|HbattlePetAbil:455:1332:357:249|h[Побои]|h|r наносит 186 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350788.595,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2083,14 +2108,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669491,
+					["timestamp"] = 350788.595,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [89]
 				{
 					["message"] = "|Hpratcopy|h[11:11:30]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133477:14|t|cff4e96f7|HbattlePetAbil:455:1332:357:249|h[Побои]|h|r наносит 186 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350789.096,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2098,14 +2123,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669491,
+					["timestamp"] = 350789.096,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [90]
 				{
 					["message"] = "|Hpratcopy|h[11:11:31]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:703:276:276|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350789.876,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2113,14 +2138,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669492,
+					["timestamp"] = 350789.876,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [91]
 				{
 					["message"] = "|Hpratcopy|h[11:11:32]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 14",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350791.043,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2128,14 +2153,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669493,
+					["timestamp"] = 350791.043,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [92]
 				{
 					["message"] = "|Hpratcopy|h[11:11:33]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:703:276:276|h[Палящее пламя]|h|r наносит 413 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350792.203,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2143,14 +2168,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669494,
+					["timestamp"] = 350792.203,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [93]
 				{
 					["message"] = "|Hpratcopy|h[11:11:35]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133477:14|t|cff4e96f7|HbattlePetAbil:455:808:357:249|h[Побои]|h|r не попадает по |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350794.163,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2158,14 +2183,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669496,
+					["timestamp"] = 350794.163,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [94]
 				{
 					["message"] = "|Hpratcopy|h[11:11:36]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:703:276:276|h[Жертвенный огонь]|h|r наносит 111 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350794.943,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2173,14 +2198,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669497,
+					["timestamp"] = 350794.943,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [95]
 				{
 					["message"] = "|Hpratcopy|h[11:11:37]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 15",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350795.904,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2188,14 +2213,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669498,
+					["timestamp"] = 350795.904,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [96]
 				{
 					["message"] = "|Hpratcopy|h[11:11:38]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:703:276:276|h[Поджигание]|h|r наносит 666 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350797.184,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2203,14 +2228,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669499,
+					["timestamp"] = 350797.184,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [97]
 				{
 					["message"] = "|Hpratcopy|h[11:11:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135827:14|t|cff4e96f7|HbattlePetAbil:179:703:276:276|h[Поджигание]|h|r наносит 222 ед. урона (сильн. удар) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350797.945,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2218,14 +2243,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669500,
+					["timestamp"] = 350797.945,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [98]
 				{
 					["message"] = "|Hpratcopy|h[11:11:39]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T3582261:14|tКрушитель погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350797.945,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2233,14 +2258,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669500,
+					["timestamp"] = 350797.945,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [99]
 				{
 					["message"] = "|Hpratcopy|h[11:11:41]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:447:357:249|h[Последний шанс]|h|r восстанавливает 447 ед. урона |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350800.475,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2248,14 +2273,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669502,
+					["timestamp"] = 350800.475,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [100]
 				{
 					["message"] = "|Hpratcopy|h[11:11:42]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T618979:14|t|cff4e96f7|HbattlePetAbil:723:447:357:249|h[Последний шанс]|h|r накладывает эффект |T618979:14|t|cff4e96f7|HbattlePetAbil:244:447:357:249|h[Механический питомец]|h|r на |3-1(вражеский питомец) |3-3(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350800.734,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2263,14 +2288,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669503,
+					["timestamp"] = 350800.734,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [101]
 				{
 					["message"] = "|Hpratcopy|h[11:11:44]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133477:14|t|cff4e96f7|HbattlePetAbil:455:447:357:249|h[Побои]|h|r наносит 186 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350803.078,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2278,14 +2303,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669505,
+					["timestamp"] = 350803.078,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [102]
 				{
 					["message"] = "|Hpratcopy|h[11:11:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T133477:14|t|cff4e96f7|HbattlePetAbil:455:447:357:249|h[Побои]|h|r наносит 186 ед. урона (крит.) |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350803.578,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2293,14 +2318,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669506,
+					["timestamp"] = 350803.578,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [103]
 				{
 					["message"] = "|Hpratcopy|h[11:11:45]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T135817:14|t|cff4e96f7|HbattlePetAbil:177:331:276:276|h[Жертвенный огонь]|h|r наносит 166 ед. урона (крит.) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350804.358,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2308,14 +2333,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669506,
+					["timestamp"] = 350804.358,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [104]
 				{
 					["message"] = "|Hpratcopy|h[11:11:47]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Раунд 16",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350806.068,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2323,14 +2348,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669508,
+					["timestamp"] = 350806.068,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [105]
 				{
 					["message"] = "|Hpratcopy|h[11:11:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T132839:14|t|cff4e96f7|HbattlePetAbil:113:331:276:276|h[Палящее пламя]|h|r наносит 804 ед. урона (крит.) |3-2(вражеский питомец) |3-2(|T3582261:14|tКрушитель).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350807.097,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2338,14 +2363,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669509,
+					["timestamp"] = 350807.097,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [106]
 				{
 					["message"] = "|Hpratcopy|h[11:11:48]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |3-7(Вражеский питомец) |T3582261:14|tКрушитель погибает.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350807.097,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2353,14 +2378,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669509,
+					["timestamp"] = 350807.097,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [107]
 				{
 					["message"] = "|Hpratcopy|h[11:11:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: Действие эффекта \"|T133035:14|t|cff4e96f7|HbattlePetAbil:2235:0:357:249|h[Нестабильная инженерия]|h|r\", наложенного на |3-3(команда противника), заканчивается.",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350809.617,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2368,14 +2393,14 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669512,
+					["timestamp"] = 350809.617,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [108]
 				{
 					["message"] = "|Hpratcopy|h[11:11:51]|h |Hchannel:PET_BATTLE_COMBAT_LOG|h[Битвы питомцев]|h: |T463526:14|t|cff4e96f7|HbattlePetAbil:681:906:276:276|h[Боевое восстановление]|h|r восстанавливает 575 ед. урона |3-2(ваш питомец) |3-2(|T134813:14|tДух лета).",
-					["r"] = 0.9058824181556702,
-					["b"] = 0.6705882549285889,
-					["g"] = 0.8705883026123047,
-					["timestamp"] = 350810.425,
 					["extraData"] = {
 						61, -- [1]
 						false, -- [2]
@@ -2383,7 +2408,11 @@ Prat3HighCPUPerCharDB = {
 						63, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.6705882549285889,
 					["serverTime"] = 1628669512,
+					["timestamp"] = 350810.425,
+					["g"] = 0.8705883026123047,
+					["r"] = 0.9058824181556702,
 				}, -- [109]
 			},
 			["headIndex"] = 109,
@@ -2391,9 +2420,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -2404,8 +2434,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -2419,9 +2449,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -2432,8 +2463,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -2441,9 +2472,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame9"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -2454,18 +2486,19 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 68,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 27,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -2475,867 +2508,1427 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[21:50:47]|h Сообщение дня от гильдии: \"Йоу всем! В Гильдии есть рейдящий статик. За инфо в дискорд Гильдии http://discord.gg/98q8RQg !\"",
-					["g"] = 0.4941176772117615,
-					["r"] = 0.4431372880935669,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429629,
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cff9900ffWeakAuras:|r  Готово к применению 3 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661301432,
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[12:53:49]|h Сообщение дня от гильдии: \"Йоу всем! В Гильдии есть рейдящий статик. За инфо в дискорд Гильдии http://discord.gg/98q8RQg !\"",
-					["serverTime"] = 1640464304,
-					["r"] = 0.4431372880935669,
-					["b"] = 1,
-					["timestamp"] = 443796.626,
+					["message"] = "|Hpratcopy|h[03:37:15]|h Общее время игры: 51 |4день:дня:дней;, 2 |4час:часа:часов;, 3 |4минута:минуты:минут;, 28 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1661301434,
+					["r"] = 0.9960784912109375,
 					["extraData"] = {
-						5, -- [1]
+						1, -- [1]
 						["n"] = 1,
 					},
-					["g"] = 0.4941176772117615,
+					["timestamp"] = 819601.6190000001,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[12:53:51]|h Вы будете получать добычу для специализации \"Месть\".",
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[03:37:15]|h Время игры на этом уровне: 16 |4день:дня:дней;, 1 |4час:часа:часов;, 55 |4минута:минуты:минут;, 57 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1661301434,
 					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429630,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["timestamp"] = 819601.6190000001,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[12:53:53]|h Общее время игры: 48 |4день:дня:дней;, 7 |4час:часа:часов;, 35 |4минута:минуты:минут;, 32 |4секунда:секунды:секунд;.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429632,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
+					["message"] = "|Hpratcopy|h[03:37:15]|h |cff7f7f7f[03:37]|r [|cff007f7fNOP|r] Paragon reward for Двор Жнецов, Дикая Охота, Перерожденные is ready!",
+					["timestamp"] = 819601.786,
+					["serverTime"] = 1661301434,
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[12:53:53]|h Время игры на этом уровне: 13 |4день:дня:дней;, 7 |4час:часа:часов;, 28 |4минута:минуты:минут;, 1 |4секунда:секунды:секунд;.",
-					["b"] = 1,
+					["message"] = "|Hpratcopy|h[03:37:20]|h |cffd8d8d8[|r|Hplayer:Мамабир:2341|h|cffd8bc3f60|r:|cfffe7b09Мамабир|r|h|cffd8d8d8]|r входит в игровой мир.",
+					["serverTime"] = 1661301439,
 					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429632,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
 					},
+					["timestamp"] = 819606.91,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
 				}, -- [5]
 				{
-					["message"] = "|Hpratcopy|h[12:54:04]|h |cffd8d8d8[|r|Hplayer:Наблюдай:92|h|cffd8bc3f60|r:|cff3ec6eaНаблюдай|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429643,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|Hpratcopy|h[03:37:20]|h |cff7f7f7f[03:37]|r [|cff007f7fNOP|r] Вооружение для защитников: 4 done 0 to go!",
+					["timestamp"] = 819606.91,
+					["serverTime"] = 1661301439,
 				}, -- [6]
 				{
-					["message"] = "|Hpratcopy|h[12:54:07]|h Получено: 320 |4золотая:золотые:золотых;, 61 |4серебряная:серебряные:серебряных;.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429646,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|Hpratcopy|h[03:37:20]|h |cffb4b4ffALL THE THINGS|r Профиль: По умолчанию",
+					["timestamp"] = 819606.91,
+					["serverTime"] = 1661301439,
 				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[12:54:08]|h Вы получили предмет: |cff1eff00|Hitem:181643::::::::60:577:::::::::|h[Плачущий трупогриб]|h|rx14.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429647,
+					["message"] = "|Hpratcopy|h[03:37:24]|h Отношение |3-7(Перерожденные) к вам улучшилось на 375.",
+					["serverTime"] = 1661301443,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 819611.073,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [8]
 				{
-					["message"] = "|Hpratcopy|h[12:54:09]|h Вы получили предмет: |cff0070dd|Hitem:181468::::::::60:577:::::::::|h[Затененная руна усиления]|h|rx6.",
-					["b"] = 0.9686275124549866,
+					["message"] = "|Hpratcopy|h[03:37:25]|h Вы получили предмет: |cff0070dd|Hitem:184766::::::::60:577:::::::::|h[Хроники идеалов]|h|rx4.",
+					["serverTime"] = 1661301444,
 					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429648,
 					["extraData"] = {
 						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [9]
-				{
-					["message"] = "|Hpratcopy|h[12:54:10]|h Вы получили предмет: |cff1eff00|Hitem:181544::::::::60:577:::::::::|h[Признания в прегрешениях]|h|rx12.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429649,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [10]
-				{
-					["message"] = "|Hpratcopy|h[12:54:11]|h Вы получили предмет: |cff1eff00|Hitem:184151::::::::60:577:::::::::|h[Брошь с поддельным рубином]|h|rx14.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429650,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [11]
-				{
-					["message"] = "|Hpratcopy|h[12:54:12]|h Вы получили предмет: |cff1eff00|Hitem:184385::::::::60:577:::::::::|h[Окаменевшее сердцедрево]|h|rx14.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429651,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [12]
-				{
-					["message"] = "|Hpratcopy|h[12:54:13]|h Получено: 368 |4золотая:золотые:золотых;, 3 |4серебряная:серебряные:серебряных;.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429652,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [13]
-				{
-					["message"] = "|Hpratcopy|h[12:54:13]|h Вы получили предмет: |cffa335ee|Hitem:188657::::::::60:577:::::::::|h[Призма расширения сознания]|h|r.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429652,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [14]
-				{
-					["message"] = "|Hpratcopy|h[12:54:14]|h Вы получили предмет: |cffa335ee|Hitem:188657::::::::60:577:::::::::|h[Призма расширения сознания]|h|r.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429653,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [15]
-				{
-					["message"] = "|Hpratcopy|h[12:54:14]|h Вы получили предмет: |cff0070dd|Hitem:187569::::::::60:577::31:::::::|h[Частица усиления брокера-портного]|h|r.",
-					["b"] = 0.9686275124549866,
-					["r"] = 0.9686275124549866,
-					["g"] = 0.9843137860298157,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429653,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [16]
-				{
-					["message"] = "|Hpratcopy|h[12:54:18]|h Вы получили задание \"Помощь Бастиону\".",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429657,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "|Hpratcopy|h[12:55:46]|h Задание \"Наполнение резервуара\" выполнено.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429745,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [18]
-				{
-					["message"] = "|Hpratcopy|h[12:55:46]|h Получено: 1602 |4золотая:золотые:золотых;, 96 |4серебряная:серебряные:серебряных;.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429745,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[12:56:00]|h Вы будете получать добычу для специализации \"Месть\".",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429759,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[12:56:04]|h Тениос говорит: Дозорный решает, готова ли душа попасть в Темные Земли. Отточи свои навыки в этом испытании.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429763,
-					["extraData"] = {
-						13, -- [1]
 						false, -- [2]
 						5, -- [3]
 						6, -- [4]
 						["n"] = 4,
 					},
-				}, -- [21]
+					["timestamp"] = 819612.057,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [9]
 				{
-					["message"] = "|Hpratcopy|h[12:56:04]|h <Существо издает какофонию тревожного звона.>",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429763,
+					["message"] = "|Hpratcopy|h[03:37:26]|h Вы получили предмет: |cff0070dd|Hitem:181548::::::::60:577:::::::::|h[Светильник души Темного Приюта]|h|rx4.",
+					["serverTime"] = 1661301445,
+					["r"] = 0.9686275124549866,
 					["extraData"] = {
-						17, -- [1]
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819612.944,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[03:38:52]|h Вы будете получать добычу для специализации \"Истребление\".",
+					["serverTime"] = 1661301531,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 819698.3150000001,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[03:38:52]|h |cff9900ffWeakAuras:|r  Готово к применению 3 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 819698.3150000001,
+					["serverTime"] = 1661301531,
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[03:38:52]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Даларан]|h.",
+					["serverTime"] = 1661301531,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
 						false, -- [2]
 						7, -- [3]
 						8, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 819699.197,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[03:38:52]|h |Hchannel:channel:3|h[3] |h Смена канала: |Hchannel:CHANNEL:3|h[3. Оборона: Даларан]|h.",
+					["serverTime"] = 1661301531,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819699.197,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[03:39:28]|h Вы получили предмет: |cffa335ee|Hitem:187595::::::::60:577::22::1:28:872:::::|h[Расположение гиппогрифа Валь'шары]|h|r.",
+					["serverTime"] = 1661301567,
+					["r"] = 0.9686275124549866,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819734.9180000001,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[03:39:30]|h Вы получили предмет: |cff0070dd|Hitem:187567::::::::60:577::22:1:7465:2:28:2061:9:60:::::|h[Дуговой клинок ночнорожденных]|h|r.",
+					["serverTime"] = 1661301569,
+					["r"] = 0.9686275124549866,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819737.493,
+					["g"] = 0.9843137860298157,
+					["b"] = 0.9686275124549866,
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[03:39:31]|h |cff0070dd|Hitem:187567::::::::60:577::22:1:3524::::::|h[Дуговой клинок ночнорожденных]|h|r (187567) добавлен в Вашу коллекцию.",
+					["timestamp"] = 819737.826,
+					["serverTime"] = 1661301570,
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[03:39:31]|h Модель |cffff80ff|Htransmogappearance:146748|h[Дуговой клинок ночнорожденных]|h|r добавлена в вашу коллекцию.",
+					["serverTime"] = 1661301570,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819737.826,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[03:39:49]|h Модель |cffff80ff|Htransmogappearance:146748|h[Дуговой клинок ночнорожденных]|h|r добавлена в вашу коллекцию.",
+					["serverTime"] = 1661301588,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819755.741,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[03:40:21]|h Вы добавили средство передвижения \"Гиппогриф Валь'шары\" в свою коллекцию.",
+					["serverTime"] = 1661301620,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819788.291,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[03:41:07]|h Мистик Птицекров говорит: Яки. Яки никогда не меняются.",
+					["serverTime"] = 1661301666,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819834.096,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[03:42:07]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Торговля: Город]|h.",
+					["serverTime"] = 1661301726,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 819894.005,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [22]
 				{
-					["message"] = "|Hpratcopy|h[12:56:07]|h Дозорная Джасинта говорит: Верно! Душам, у которых достаточно сильная связь с другими управляющими вселенной силами, нужно позволить вернуться.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[03:42:07]|h |Hchannel:channel:5|h[5] |h Вы покинули канал |Hchannel:CHANNEL:5|h[5. Торговля (услуги): Город]|h.",
+					["serverTime"] = 1661301726,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429766,
 					["extraData"] = {
-						13, -- [1]
+						72, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 819894.005,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [23]
 				{
-					["message"] = "|Hpratcopy|h[12:56:13]|h Иссеченный рубака говорит: В моем городе бушует битва. Я должен вернуться и защитить малышей, пока до них не добрались чудовища!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429772,
+					["message"] = "|Hpratcopy|h[03:42:08]|h Вы будете получать добычу для специализации \"Истребление\".",
+					["serverTime"] = 1661301727,
+					["r"] = 0.9960784912109375,
 					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
+					["timestamp"] = 819894.005,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
 				}, -- [24]
 				{
-					["message"] = "|Hpratcopy|h[12:56:15]|h Дозорная Джасинта говорит: Все верно – он пал смертью храбрых. Погиб как герой и справедливо заслужил славу в Малдраксусе.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429774,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|Hpratcopy|h[03:42:08]|h |cff9900ffWeakAuras:|r  Готово к применению 3 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 819894.005,
+					["serverTime"] = 1661301727,
 				}, -- [25]
 				{
-					["message"] = "|Hpratcopy|h[12:56:20]|h Храбрый спутник говорит: Тяв! Гав! Гав! Гав! Р-р-р...",
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[03:42:08]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Общий: Грехопад]|h.",
+					["serverTime"] = 1661301727,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429779,
 					["extraData"] = {
-						13, -- [1]
+						68, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 819894.005,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [26]
 				{
-					["message"] = "|Hpratcopy|h[12:56:22]|h Дозорная Джасинта говорит: Верно. Это создание отдало свою жизнь в бою и заслужило право войти в Темные Земли.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|Hpratcopy|h[03:42:08]|h |Hchannel:channel:3|h[3] |h Смена канала: |Hchannel:CHANNEL:3|h[3. Оборона: Грехопад]|h.",
+					["serverTime"] = 1661301727,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429781,
 					["extraData"] = {
-						13, -- [1]
+						70, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						10, -- [3]
+						11, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 819894.005,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [27]
 				{
-					["message"] = "|Hpratcopy|h[12:56:22]|h Получено: 265 |4золотая:золотые:золотых;, 97 |4серебряная:серебряные:серебряных;.",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429781,
+					["message"] = "|Hpratcopy|h[05:16:11]|h Вы получили предмет: |cffffffff|Hitem:172092::::::::60:577:::::::::|h[Мертвенно-бледная кость]|h|rx42.",
 					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [28]
-				{
-					["message"] = "|Hpratcopy|h[12:56:22]|h Отношение |3-7(Перерожденные) к вам улучшилось на 187.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429781,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-				}, -- [29]
-				{
-					["message"] = "|Hpratcopy|h[12:56:22]|h Тениос говорит: Прекрасно. Душеносцы должны мыслить здраво, чтобы доставлять в Орибос готовые души.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429781,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-				}, -- [30]
-				{
-					["message"] = "|Hpratcopy|h[12:56:22]|h Дозорная Джасинта говорит: Я переведу. Это существо умерло, защищая хозяина от стаи волков. Оно хочет вернуться, чтобы оберегать его от опасностей.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429781,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-				}, -- [31]
-				{
-					["message"] = "|Hpratcopy|h[12:56:23]|h Вы получаете валюту – |cffffffff|Hcurrency:1885:0|h[Благодарственное подношение]|h|rх3",
-					["b"] = 0.9843137860298157,
-					["r"] = 0.6823529601097107,
-					["g"] = 0.6705882549285889,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429782,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-				}, -- [32]
-				{
-					["message"] = "|Hpratcopy|h[12:56:42]|h Вы будете получать добычу для специализации \"Месть\".",
-					["b"] = 1,
-					["r"] = 0.9960784912109375,
-					["g"] = 0.9137255549430847,
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640429801,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [33]
-				{
-					["message"] = "0 |4день:дня:дней;, 9 |4час:часа:часов;, 35 |4минута:минуты:минут;, 3 |4секунда:секунды:секунд;.",
-					["timestamp"] = 443796.626,
-				}, -- [34]
-				{
-					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 443796.626,
-				}, -- [35]
-				{
-					["message"] = "|Hpratcopy|h[22:31:37]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.130 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
-					["r"] = 1,
-					["timestamp"] = 443782.784,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [36]
-				{
-					["message"] = "|Hpratcopy|h[22:31:37]|h |cff9900ffWeakAuras:|r  Готово к применению 6 |4обновление:обновления:обновлений;.",
-					["timestamp"] = 443782.784,
-				}, -- [37]
-				{
-					["message"] = "|Hpratcopy|h[22:31:44]|h Сообщение дня от гильдии: \"Йоу всем! В Гильдии есть рейдящий статик. За инфо в дискорд Гильдии http://discord.gg/98q8RQg !\"",
-					["r"] = 0.4431372880935669,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 443795.817,
-					["g"] = 0.4941176772117615,
-					["b"] = 1,
-				}, -- [38]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h |cFFFF0000[ZT-Error] LibGroupInSpecT-1.1 not found",
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640464305,
-				}, -- [39]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h Вы будете получать добычу для специализации \"Месть\".",
-					["serverTime"] = 1640464305,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 443796.626,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [40]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640464305,
-				}, -- [41]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640464305,
-				}, -- [42]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640464305,
-				}, -- [43]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h |cffffd700Титан Панель|r|cff20ff20 5.21.2.90105|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
-					["timestamp"] = 443796.626,
-					["serverTime"] = 1640464305,
-				}, -- [44]
-				{
-					["message"] = "|Hpratcopy|h[22:31:46]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Фламиника: Vuhdo'esque",
-					["r"] = 1,
-					["serverTime"] = 1640464305,
-					["timestamp"] = 443796.626,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[22:31:48]|h Общее время игры: 48 |4день:дня:дней;, 7 |4час:часа:часов;, 38 |4минута:минуты:минут;, 28 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1640464307,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 443799.733,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [46]
-				{
-					["message"] = "|Hpratcopy|h[22:31:48]|h Время игры на этом уровне: 13 |4день:дня:дней;, 7 |4час:часа:часов;, 30 |4минута:минуты:минут;, 57 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1640464307,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 443799.733,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [47]
-				{
-					["message"] = "|Hpratcopy|h[22:31:53]|h |cfffef367Фамфаталла|r выходит из игрового мира.",
-					["serverTime"] = 1640464312,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 443805.408,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [48]
-				{
-					["message"] = "|Hpratcopy|h[22:32:09]|h |cffd8d8d8[|r|Hplayer:Артисона:13|h|cffd8bc3f60|r:|cff8687edАртисона|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640464328,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 443820.741,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [49]
-				{
-					["message"] = "|Hpratcopy|h[22:33:16]|h |cfffe7b09Шэнсэй|r выходит из игрового мира.",
-					["serverTime"] = 1640464395,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 443888.518,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [50]
-				{
-					["message"] = "|Hpratcopy|h[22:35:34]|h Получено: 309 |4золотая:золотые:золотых;, 11 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1640464533,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444025.695,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [51]
-				{
-					["message"] = "|Hpratcopy|h[22:35:34]|h Получено: 314 |4золотая:золотые:золотых;, 67 |4серебряная:серебряные:серебряных;.",
-					["serverTime"] = 1640464533,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444026.605,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [52]
-				{
-					["message"] = "|Hpratcopy|h[22:35:51]|h |cff8687edАртисона|r выходит из игрового мира.",
-					["serverTime"] = 1640464550,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444042.635,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [53]
-				{
-					["message"] = "|Hpratcopy|h[22:35:52]|h |cffd8d8d8[|r|Hplayer:Мрачнаяфея:18|h|cffd8bc3f60|r:|cff8687edМрачнаяфея|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640464551,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444043.96,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [54]
-				{
-					["message"] = "|Hpratcopy|h[22:37:00]|h |cfffe7b09Блэтти|r выходит из игрового мира.",
-					["serverTime"] = 1640464619,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444111.594,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [55]
-				{
-					["message"] = "|Hpratcopy|h[22:37:52]|h |cffd8d8d8[|r|Hplayer:Артисона:20|h|cffd8bc3f60|r:|cff8687edАртисона|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640464671,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444164.539,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [56]
-				{
-					["message"] = "|Hpratcopy|h[22:38:20]|h |cffd8d8d8[|r|Hplayer:Блэтти:21|h|cff8b8b8b51|r:|cfffe7b09Блэтти|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640464699,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444191.692,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [57]
-				{
-					["message"] = "|Hpratcopy|h[22:38:32]|h |cff8687edАртисона|r выходит из игрового мира.",
-					["serverTime"] = 1640464711,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444204.312,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [58]
-				{
-					["message"] = "|Hpratcopy|h[22:39:31]|h |cfffe7b09Блэтти|r выходит из игрового мира.",
-					["serverTime"] = 1640464770,
-					["r"] = 0.9960784912109375,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 444262.97,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [59]
-				{
-					["message"] = "|Hpratcopy|h[22:40:08]|h |cffd8d8d8[|r|Hplayer:Палодонтозик-Гордунни:24:ACHIEVEMENT|h|cfff38bb9Палодонтозик|r|h|cffd8d8d8]|r заслужил достижение |cffffff00|Hachievement:14841:Player-1602-0F1EA454:1:12:25:21:4294967295:4294967295:4294967295:4294967295|h[Приключения: теперь ты в деле]|h|r |cffffffff(|rсделано|cffffffff)|r!",
-					["serverTime"] = 1640464807,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
+						28, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 444299.966,
-					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220971,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[05:16:12]|h Вы получили предмет: |cffffffff|Hitem:172089::::::::60:577:::::::::|h[Могильная кожа]|h|rx200.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220972,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[05:16:13]|h Вы получили предмет: |cff0070dd|Hitem:187701::::::::60:577:::::::::|h[Первозданная шкура]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220973,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[05:16:14]|h Вы получили предмет: |cff1eff00|Hitem:172094::::::::60:577:::::::::|h[Загрубевшая шкура]|h|rx10.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220974,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[05:16:14]|h Вы получили предмет: |cffffffff|Hitem:172092::::::::60:577:::::::::|h[Мертвенно-бледная кость]|h|rx10.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220974,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[05:16:14]|h Вы получили предмет: |cffffffff|Hitem:172089::::::::60:577:::::::::|h[Могильная кожа]|h|rx50.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220974,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[05:16:16]|h Вы получили предмет: |cff1eff00|Hitem:172094::::::::60:577:::::::::|h[Загрубевшая шкура]|h|rx10.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220976,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[05:16:16]|h Вы получили предмет: |cff0070dd|Hitem:187701::::::::60:577:::::::::|h[Первозданная шкура]|h|rx10.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220976,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[05:16:16]|h Вы получили предмет: |cffffffff|Hitem:172089::::::::60:577:::::::::|h[Могильная кожа]|h|rx50.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220976,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[05:16:16]|h Вы получили предмет: |cffffffff|Hitem:172092::::::::60:577:::::::::|h[Мертвенно-бледная кость]|h|rx10.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220976,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[05:16:17]|h Вы получили предмет: |cffffffff|Hitem:172092::::::::60:577:::::::::|h[Мертвенно-бледная кость]|h|rx20.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220977,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[05:16:17]|h Вы получили предмет: |cff1eff00|Hitem:172094::::::::60:577:::::::::|h[Загрубевшая шкура]|h|rx20.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220977,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[05:16:17]|h Вы получили предмет: |cffffffff|Hitem:172089::::::::60:577:::::::::|h[Могильная кожа]|h|rx100.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220977,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[05:16:23]|h Вы получили предмет: |cffffffff|Hitem:173036::::::::60:577:::::::::|h[Иглотелая пиранья]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220983,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[05:16:23]|h Вы получили предмет: |cffffffff|Hitem:173032::::::::60:577:::::::::|h[Бесплотная плотва]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220983,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[05:16:23]|h Вы получили предмет: |cff1eff00|Hitem:173037::::::::60:577:::::::::|h[Элизийская волновка]|h|rx3.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220983,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[05:16:23]|h Вы получили предмет: |cffffffff|Hitem:173033::::::::60:577:::::::::|h[Радужная сериола]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220983,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[05:16:23]|h Вы получили предмет: |cffffffff|Hitem:173035::::::::60:577:::::::::|h[Щербатая альбула]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220983,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[05:16:24]|h Вы получили предмет: |cffffffff|Hitem:173034::::::::60:577:::::::::|h[Среброжабрая щука]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220984,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[05:16:27]|h Ваша добыча: |cffffffff|Hitem:173032::::::::60:577:::::::::|h[Бесплотная плотва]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220987,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[05:16:27]|h Ваша добыча: |cffffffff|Hitem:173033::::::::60:577:::::::::|h[Радужная сериола]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220987,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[05:16:27]|h Ваша добыча: |cffffffff|Hitem:173034::::::::60:577:::::::::|h[Среброжабрая щука]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220987,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[05:16:27]|h Ваша добыча: |cffffffff|Hitem:173035::::::::60:577:::::::::|h[Щербатая альбула]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220987,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[05:16:27]|h Ваша добыча: |cffffffff|Hitem:173036::::::::60:577:::::::::|h[Иглотелая пиранья]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220987,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[05:16:27]|h Ваша добыча: |cff1eff00|Hitem:173037::::::::60:577:::::::::|h[Элизийская волновка]|h|rx3.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220987,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[05:16:29]|h Ваша добыча: |cffffffff|Hitem:172053::::::::60:577:::::::::|h[Сумрачные ребра]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220989,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[05:16:30]|h Ваша добыча: |cffffffff|Hitem:172055::::::::60:577:::::::::|h[Фантомная ляжка]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220990,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[05:16:30]|h Ваша добыча: |cffffffff|Hitem:179315::::::::60:577:::::::::|h[Темная рулька]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220990,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[05:16:30]|h Ваша добыча: |cffffffff|Hitem:179314::::::::60:577:::::::::|h[Мясо мерзкого ползуна]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220990,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[05:16:30]|h Ваша добыча: |cffffffff|Hitem:172054::::::::60:577:::::::::|h[Сырое ангельское крыло]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220990,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[05:16:30]|h Вы получили предмет: |cffffffff|Hitem:172052::::::::60:577:::::::::|h[Потустороннее мясо]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220990,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[05:16:32]|h Ваша добыча: |cffffffff|Hitem:179315::::::::60:577:::::::::|h[Темная рулька]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220992,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[05:16:32]|h Ваша добыча: |cffffffff|Hitem:172052::::::::60:577:::::::::|h[Потустороннее мясо]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220992,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [60]
 				{
-					["message"] = "|Hpratcopy|h[22:41:26]|h |cffd8d8d8[|r|Hplayer:Эксмия:25|h|cffd8bc3f60|r:|cff8687edЭксмия|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640464885,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[05:16:33]|h Ваша добыча: |cffffffff|Hitem:172053::::::::60:577:::::::::|h[Сумрачные ребра]|h|rx5.",
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 444378.451,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220993,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [61]
 				{
-					["message"] = "|Hpratcopy|h[22:43:48]|h Вы отошли от компьютера, оставив сообщение \"Отсутствует\".",
-					["serverTime"] = 1640465027,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[05:16:33]|h Ваша добыча: |cffffffff|Hitem:172054::::::::60:577:::::::::|h[Сырое ангельское крыло]|h|rx5.",
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 444520.482,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220993,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [62]
 				{
-					["message"] = "|Hpratcopy|h[22:46:43]|h |cffd8d8d8[|r|Hplayer:Блэтти:27|h|cff8b8b8b51|r:|cfffe7b09Блэтти|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640465202,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[05:16:33]|h Ваша добыча: |cffffffff|Hitem:172055::::::::60:577:::::::::|h[Фантомная ляжка]|h|rx5.",
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 444694.931,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220993,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [63]
 				{
-					["message"] = "|Hpratcopy|h[22:52:29]|h |cffd8d8d8[|r|Hplayer:Рутэния:73|h|cffd8bc3f60|r:|cff3ec6eaРутэния|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640465548,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[05:16:33]|h Ваша добыча: |cffffffff|Hitem:179314::::::::60:577:::::::::|h[Мясо мерзкого ползуна]|h|rx5.",
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 445040.727,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220993,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [64]
 				{
-					["message"] = "|Hpratcopy|h[22:52:43]|h |cffd8d8d8[|r|Hplayer:Пянка:74|h|cffd8bc3f60|r:|cffa9d271Пянка|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640465562,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[05:16:35]|h Ваша добыча: |cffffffff|Hitem:172054::::::::60:577:::::::::|h[Сырое ангельское крыло]|h|rx5.",
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 445054.944,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220995,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [65]
 				{
-					["message"] = "|Hpratcopy|h[22:55:13]|h |cfffef367Вителис|r выходит из игрового мира.",
-					["serverTime"] = 1640465712,
-					["r"] = 0.9960784912109375,
+					["message"] = "|Hpratcopy|h[05:16:35]|h Ваша добыча: |cffffffff|Hitem:172055::::::::60:577:::::::::|h[Фантомная ляжка]|h|rx5.",
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 445205.454,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220995,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
 				}, -- [66]
 				{
-					["message"] = "|Hpratcopy|h[22:58:36]|h |cffd8d8d8[|r|Hplayer:Мьёлнирр:76|h|cffd8bc3f60|r:|cfff38bb9Мьёлнирр|r|h|cffd8d8d8]|r входит в игровой мир.",
-					["serverTime"] = 1640465915,
+					["message"] = "|Hpratcopy|h[05:16:35]|h Ваша добыча: |cffffffff|Hitem:179315::::::::60:577:::::::::|h[Темная рулька]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220995,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [67]
+				{
+					["message"] = "|Hpratcopy|h[05:16:35]|h Ваша добыча: |cffffffff|Hitem:179314::::::::60:577:::::::::|h[Мясо мерзкого ползуна]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220995,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[05:16:36]|h Ваша добыча: |cffffffff|Hitem:172053::::::::60:577:::::::::|h[Сумрачные ребра]|h|rx5.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220996,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[05:16:36]|h Ваша добыча: |cffffffff|Hitem:172052::::::::60:577:::::::::|h[Потустороннее мясо]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220996,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[05:16:39]|h Ваша добыча: |cffffffff|Hitem:168589::::::::60:577:::::::::|h[Костяной корень]|h|rx12.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220999,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[05:16:39]|h Ваша добыча: |cff1eff00|Hitem:171315::::::::60:577:::::::::|h[Беладонна]|h|rx3.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661220999,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[05:16:41]|h Вы получили предмет: |cffffffff|Hitem:168583::::::::60:577:::::::::|h[Вдовоцвет]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221001,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[05:16:41]|h Ваша добыча: |cff1eff00|Hitem:171315::::::::60:577:::::::::|h[Беладонна]|h|rx3.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221001,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[05:16:42]|h Вы получили предмет: |cffffffff|Hitem:168586::::::::60:577:::::::::|h[Славолист]|h|rx6.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221002,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[05:17:25]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221045,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[05:17:27]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221047,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[05:17:29]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221049,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[05:17:31]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221051,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[05:17:33]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221053,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[05:17:35]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221055,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[05:17:37]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221057,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[05:17:40]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221060,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[05:17:42]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221062,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[05:17:44]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221064,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[05:17:46]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221066,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [86]
+				{
+					["message"] = "|Hpratcopy|h[05:17:48]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221068,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[05:17:50]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221070,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [88]
+				{
+					["message"] = "|Hpratcopy|h[05:17:52]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221072,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [89]
+				{
+					["message"] = "|Hpratcopy|h[05:17:54]|h Вы создаете: |cff1eff00|Hitem:172233::::::::60:577:::::::::|h[Барабаны смертельной свирепости]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221074,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [90]
+				{
+					["message"] = "|Hpratcopy|h[05:18:20]|h |cffd8d8d8[|r|Hplayer:Алтэри-Гордунни:2421:SYSTEM|h|cffd8bc3f60|r:|cffa22fc8Алтэри|r|h|cffd8d8d8]|r140 ед. анимы внесено в резервуар.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1661221100,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9137255549430847,
 					["r"] = 0.9960784912109375,
+				}, -- [91]
+				{
+					["message"] = "|Hpratcopy|h[05:18:51]|h Вы продали хлама на 51|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 29|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 57|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1661221131,
+					["timestamp"] = 819598.044,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [92]
+				{
+					["message"] = "|Hpratcopy|h[05:19:33]|h Вы получили: |cffffffff163|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 30|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 51|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1661221173,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9137255549430847,
+					["r"] = 0.9960784912109375,
+				}, -- [93]
+				{
+					["message"] = "|Hpratcopy|h[05:19:37]|h Вы получили предмет: |cffa335ee|Hitem:186737::::::::60:577::14:4:7692:6652:1472:6646::::::|h[Штаны из шкуры сланцевика]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221177,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [94]
+				{
+					["message"] = "|Hpratcopy|h[05:19:50]|h Вы получили: |cffffffff85|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 8|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 91|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t|r",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 1,
+					["serverTime"] = 1661221190,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9137255549430847,
+					["r"] = 0.9960784912109375,
+				}, -- [95]
+				{
+					["message"] = "|Hpratcopy|h[05:19:54]|h Вы получили предмет: |cff0070dd|Hitem:190197::::::::60:577:::::::::|h[Ключ от пустынного сундука]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9686275124549866,
+					["serverTime"] = 1661221194,
+					["timestamp"] = 819598.044,
+					["g"] = 0.9843137860298157,
+					["r"] = 0.9686275124549866,
+				}, -- [96]
+				{
+					["message"] = "|Hpratcopy|h[05:20:17]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Грехопад]|h.",
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1661221217,
+					["timestamp"] = 819598.044,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [97]
+				{
+					["message"] = "|Hpratcopy|h[22:20:32]|h Сообщение дня от гильдии: \"Йоу всем! Статик в перерыве до 10.0, Походу. спасибо всем! Мирного неба! Ждём всех обратно в будущем!\"",
+					["serverTime"] = 1661301431,
+					["r"] = 0.4431372880935669,
+					["b"] = 1,
+					["timestamp"] = 819598.044,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 0.4941176772117615,
+				}, -- [98]
+				{
+					["message"] = "|Hpratcopy|h[22:20:34]|h Вы будете получать добычу для специализации \"Истребление\".",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282434,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [99]
+				{
+					["message"] = "|Hpratcopy|h[22:20:36]|h Общее время игры: 51 |4день:дня:дней;, 1 |4час:часа:часов;, 59 |4минута:минуты:минут;, 28 |4секунда:секунды:секунд;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282436,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [100]
+				{
+					["message"] = "|Hpratcopy|h[22:20:36]|h Время игры на этом уровне: 16 |4день:дня:дней;, 1 |4час:часа:часов;, 51 |4минута:минуты:минут;, 57 |4секунда:секунды:секунд;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282436,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [101]
+				{
+					["message"] = "|Hpratcopy|h[22:20:49]|h Получено: 338 |4золотая:золотые:золотых;, 22 |4серебряная:серебряные:серебряных;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282449,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
@@ -3343,29 +3936,300 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 445407.944,
-					["g"] = 0.9137255549430847,
-					["b"] = 1,
-				}, -- [67]
+				}, -- [102]
 				{
-					["message"] = "|Hpratcopy|h[23:00:00]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Бастион]|h.",
-					["serverTime"] = 1640465999,
-					["r"] = 1,
+					["message"] = "|Hpratcopy|h[22:20:50]|h Получено: 304 |4золотая:золотые:золотых;, 57 |4серебряная:серебряные:серебряных;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282450,
 					["extraData"] = {
-						68, -- [1]
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [103]
+				{
+					["message"] = "|Hpratcopy|h[22:20:51]|h Получено: 350 |4золотая:золотые:золотых;, 86 |4серебряная:серебряные:серебряных;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282451,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [104]
+				{
+					["message"] = "|Hpratcopy|h[22:20:52]|h Получено: 374 |4золотая:золотые:золотых;, 64 |4серебряная:серебряные:серебряных;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282452,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [105]
+				{
+					["message"] = "|Hpratcopy|h[22:20:52]|h Вы получили предмет: |cff0070dd|Hitem:188656::::::::60:577:::::::::|h[Фрактальный проводник мыслей]|h|r.",
+					["b"] = 0.9686275124549866,
+					["r"] = 0.9686275124549866,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282452,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [106]
+				{
+					["message"] = "|Hpratcopy|h[22:20:53]|h Вы получаете валюту – |cffff8000|Hcurrency:1906:0|h[Угли душ]|h|rх29",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.6823529601097107,
+					["g"] = 0.6705882549285889,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282453,
+					["extraData"] = {
+						59, -- [1]
 						false, -- [2]
 						5, -- [3]
 						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 445492.077,
-					["g"] = 0.7529412508010864,
+				}, -- [107]
+				{
+					["message"] = "|Hpratcopy|h[22:20:53]|h Вы получили предмет: |cff0070dd|Hitem:189544::::::::60:577:::::::::|h[Тенета анимы]|h|rx6.",
+					["b"] = 0.9686275124549866,
+					["r"] = 0.9686275124549866,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282453,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [108]
+				{
+					["message"] = "|Hpratcopy|h[22:20:54]|h Вы получили предмет: |cff1eff00|Hitem:181551::::::::60:577:::::::::|h[Истощенное сердце камнерожденного]|h|rx14.",
+					["b"] = 0.9686275124549866,
+					["r"] = 0.9686275124549866,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282454,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [109]
+				{
+					["message"] = "|Hpratcopy|h[22:20:55]|h Получено: 360 |4золотая:золотые:золотых;, 81 |4серебряная:серебряные:серебряных;.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282455,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [110]
+				{
+					["message"] = "|Hpratcopy|h[22:20:56]|h Вы получили предмет: |cff0070dd|Hitem:181468::::::::60:577:::::::::|h[Затененная руна усиления]|h|r.",
+					["b"] = 0.9686275124549866,
+					["r"] = 0.9686275124549866,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282456,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [111]
+				{
+					["message"] = "|Hpratcopy|h[22:20:56]|h Вы получили предмет: |cff0070dd|Hitem:181468::::::::60:577:::::::::|h[Затененная руна усиления]|h|rx3.",
+					["b"] = 0.9686275124549866,
+					["r"] = 0.9686275124549866,
+					["g"] = 0.9843137860298157,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282456,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [112]
+				{
+					["message"] = "|Hpratcopy|h[22:21:33]|h |cffd8d8d8[|r|Hplayer:Старкиллер:64|h|cffd8bc3f60|r:|cfff38bb9Старкиллер|r|h|cffd8d8d8]|r входит в игровой мир.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282493,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [113]
+				{
+					["message"] = "|Hpratcopy|h[22:22:09]|h |cfff38bb9Старкиллер|r выходит из игрового мира.",
+					["b"] = 1,
+					["r"] = 0.9960784912109375,
+					["g"] = 0.9137255549430847,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282528,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [114]
+				{
+					["message"] = "|Hpratcopy|h[22:24:32]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Общий: Грехопад]|h.",
 					["b"] = 0.7529412508010864,
-				}, -- [68]
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282671,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [115]
+				{
+					["message"] = "|Hpratcopy|h[22:24:32]|h |Hchannel:channel:3|h[3] |h Вы покинули канал |Hchannel:CHANNEL:3|h[3. Оборона: Грехопад]|h.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661282671,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [116]
+				{
+					["message"] = "0 |4день:дня:дней;, 5 |4час:часа:часов;, 12 |4минута:минуты:минут;, 40 |4секунда:секунды:секунд;.",
+					["timestamp"] = 819598.044,
+				}, -- [117]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 819598.044,
+				}, -- [118]
+				{
+					["message"] = "|Hpratcopy|h[03:37:04]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.136 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["r"] = 1,
+					["timestamp"] = 819584.39,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [119]
+				{
+					["message"] = "|Hpratcopy|h[03:37:11]|h Сообщение дня от гильдии: \"Йоу всем! Статик в перерыве до 10.0, Походу. спасибо всем! Мирного неба! Ждём всех обратно в будущем!\"",
+					["r"] = 0.4431372880935669,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 819597.774,
+					["g"] = 0.4941176772117615,
+					["b"] = 1,
+				}, -- [120]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cffFFFFFFRaiderIO|r использует устаревшие данные. Пожалуйста, обновите сейчас, чтобы увидеть самые точные данные: |cffFFFFFFhttps://rio.gg/addon|r",
+					["r"] = 1,
+					["serverTime"] = 1661301432,
+					["timestamp"] = 819598.044,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [121]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h Вы будете получать добычу для специализации \"Истребление\".",
+					["serverTime"] = 1661301432,
+					["r"] = 0.9960784912109375,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 819598.044,
+					["g"] = 0.9137255549430847,
+					["b"] = 1,
+				}, -- [122]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661301432,
+				}, -- [123]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661301432,
+				}, -- [124]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cffffff00Global Ignore: New player Nimzès-Pozzodell'Eternità found on character, adding to Global Ignore List",
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661301432,
+				}, -- [125]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cff33ff99Global Ignore: |cffffffffNimzès-Pozzodell'eternità is already ignored",
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661301432,
+				}, -- [126]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cffffd700Титан Панель|r|cff20ff20 5.23.5.90205|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
+					["timestamp"] = 819598.044,
+					["serverTime"] = 1661301432,
+				}, -- [127]
+				{
+					["message"] = "|Hpratcopy|h[03:37:13]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Фламиника: Vuhdo'esque",
+					["r"] = 1,
+					["serverTime"] = 1661301432,
+					["timestamp"] = 819598.044,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [128]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],

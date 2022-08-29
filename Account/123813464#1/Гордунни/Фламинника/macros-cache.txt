@@ -16,6 +16,7 @@ VER 3 010000000000000E "CovenantAbility" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Копье Бастиона
 /cast Повторный толчок Древних
+/cast Знамя завоевателя
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Копье Бастиона" or G"Повторный толчок Древних")
 END
 VER 3 0100000000000006 "Demoralize" "INV_MISC_QUESTIONMARK"

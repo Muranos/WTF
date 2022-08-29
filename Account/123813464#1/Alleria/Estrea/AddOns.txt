@@ -81,3 +81,4 @@ Altoholic_Options: disabled
 DataStore: disabled
 TomCats: disabled
 LittleWigs_BattleForAzeroth: enabled
+DBM-Core: disabled

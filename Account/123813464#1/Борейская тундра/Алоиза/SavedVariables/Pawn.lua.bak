@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0531,
+	["LastVersion"] = 2.0538,
 	["LastPlayerFullName"] = "Алоиза-Борейская тундра",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,

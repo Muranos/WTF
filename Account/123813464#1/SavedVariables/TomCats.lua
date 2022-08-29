@@ -1,15 +1,100 @@
 
 TomCats_Account = {
-	["discoveriesVersion"] = "2.3.24",
-	["lastVersionSeen"] = "2.3.24",
-	["preferences"] = {
-		["TomCats-MinimapButton"] = {
-			["hidden"] = true,
-			["position"] = 2.625107983725076,
+	["loveisintheair"] = {
+		["characters"] = {
+			["Player-1602-04F44A64"] = {
+				["bracelets"] = 0,
+				["class"] = "PRIEST",
+				["boxes"] = 0,
+				["charms"] = 0,
+				["tokens"] = 97,
+				["level"] = 60,
+				["name"] = "Алоиза",
+				["faction"] = "Alliance",
+				["completedDungeon"] = true,
+				["timestamp"] = 1645362328,
+				["canLootMount"] = true,
+				["realm"] = "Гордунни",
+			},
+			["Player-1602-0E52ACB3"] = {
+				["bracelets"] = 0,
+				["class"] = "DEATHKNIGHT",
+				["boxes"] = 0,
+				["charms"] = 0,
+				["tokens"] = 80,
+				["level"] = 60,
+				["name"] = "Дэлери",
+				["faction"] = "Alliance",
+				["completedDungeon"] = true,
+				["timestamp"] = 1645405290,
+				["canLootMount"] = true,
+				["realm"] = "Гордунни",
+			},
+			["Player-1602-0BB6166D"] = {
+				["bracelets"] = 0,
+				["class"] = "DRUID",
+				["boxes"] = 0,
+				["charms"] = 0,
+				["tokens"] = 95,
+				["level"] = 60,
+				["name"] = "Эстрэя",
+				["faction"] = "Alliance",
+				["completedDungeon"] = true,
+				["timestamp"] = 1645379793,
+				["canLootMount"] = true,
+				["realm"] = "Гордунни",
+			},
+			["Player-1602-0BC52020"] = {
+				["bracelets"] = 0,
+				["class"] = "WARRIOR",
+				["boxes"] = 0,
+				["charms"] = 0,
+				["name"] = "Фламинника",
+				["timestamp"] = 1645405928,
+				["tokens"] = 59,
+				["faction"] = "Alliance",
+				["completedDungeon"] = true,
+				["level"] = 60,
+				["canLootMount"] = true,
+				["realm"] = "Гордунни",
+			},
+			["Player-1602-0BF4C108"] = {
+				["bracelets"] = 0,
+				["class"] = "MONK",
+				["boxes"] = 0,
+				["charms"] = 0,
+				["name"] = "Ниамэй",
+				["timestamp"] = 1645382387,
+				["tokens"] = 98,
+				["faction"] = "Alliance",
+				["completedDungeon"] = true,
+				["level"] = 60,
+				["canLootMount"] = true,
+				["realm"] = "Гордунни",
+			},
 		},
+		["discovered"] = true,
+		["preferences"] = {
+		},
+	},
+	["discoveriesVersion"] = "2.4.10",
+	["lastVersionSeen"] = "2.4.10",
+	["preferences"] = {
 		["MapOptions"] = {
 			["iconScale"] = 1,
 			["iconAnimationEnabled"] = true,
+		},
+		["TomCats-LunarFestivalMinimapButton"] = {
+			["hidden"] = false,
+			["position"] = 2.287804680777029,
+		},
+		["TomCats-LoveIsInTheAirMinimapButton"] = {
+			["hidden"] = false,
+			["position"] = 2.325274234177158,
+		},
+		["TomCats-MinimapButton"] = {
+			["hidden"] = true,
+			["position"] = 2.625107983725076,
 		},
 		["betaEnabled"] = false,
 		["defaultVignetteIcon"] = "default",
@@ -20,6 +105,12 @@ TomCats_Account = {
 		["vignetteAtlases"] = {
 		},
 		["vignettes"] = {
+		},
+	},
+	["lunarfestival"] = {
+		["iconsEnabled"] = false,
+		["discovered"] = true,
+		["preferences"] = {
 		},
 	},
 }

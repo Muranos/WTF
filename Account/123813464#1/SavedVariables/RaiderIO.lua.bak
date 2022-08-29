@@ -1,24 +1,33 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
-	["enableUnitTooltips"] = true,
 	["alwaysExtendTooltip"] = false,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
 	["disableScoreColors"] = false,
 	["showDropDownCopyURL"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
 RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Эмзи-gordunni"] = true,
-	["eu-Вампирская-gordunni"] = true,
+	["eu-Ниэтта-gordunni"] = true,
+	["eu-Drecksâck-draenor"] = true,
+	["eu-Единица-gordunni"] = true,
+	["eu-Уххастик-gordunni"] = true,
+	["eu-Таюи-gordunni"] = true,
+	["eu-Стираютайдом-gordunni"] = true,
+	["eu-Сострадание-gordunni"] = true,
+	["eu-Enseven-silvermoon"] = true,
+	["eu-party5-gordunni"] = true,
+	["eu-Няаригато-soulflayer"] = true,
+	["eu-Мамамедведь-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

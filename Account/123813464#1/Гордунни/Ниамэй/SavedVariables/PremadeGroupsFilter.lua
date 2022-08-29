@@ -25,6 +25,11 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
@@ -35,11 +40,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t3c2f0"] = {
 		["enabled"] = true,
@@ -66,6 +67,11 @@ PremadeGroupsFilterState = {
 			["act"] = false,
 			["val"] = 3,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
@@ -76,11 +82,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t3c3f1"] = {
 		["enabled"] = true,
@@ -107,6 +109,11 @@ PremadeGroupsFilterState = {
 			["act"] = false,
 			["val"] = 3,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
@@ -117,11 +124,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t1c3f1"] = {
 		["enabled"] = true,
@@ -148,6 +151,11 @@ PremadeGroupsFilterState = {
 			["act"] = false,
 			["val"] = 3,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
@@ -158,11 +166,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["expert"] = false,
 	["t1c1f0"] = {
@@ -190,6 +194,11 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
@@ -200,11 +209,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t1c2f0"] = {
 		["enabled"] = true,
@@ -231,6 +236,11 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
@@ -239,13 +249,9 @@ PremadeGroupsFilterState = {
 		["heals"] = {
 			["max"] = "0",
 			["min"] = "",
-			["act"] = false,
+			["act"] = true,
 		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t3c1f0"] = {
 		["enabled"] = true,
@@ -272,6 +278,11 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
@@ -282,11 +293,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t2c1f0"] = {
 		["enabled"] = true,
@@ -313,6 +320,11 @@ PremadeGroupsFilterState = {
 			["val"] = 3,
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
@@ -323,11 +335,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["t2c3f1"] = {
 		["enabled"] = true,
@@ -354,6 +362,11 @@ PremadeGroupsFilterState = {
 			["act"] = false,
 			["val"] = 3,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
@@ -364,11 +377,7 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
+		["sorting"] = "",
 	},
 	["moveable"] = false,
 }

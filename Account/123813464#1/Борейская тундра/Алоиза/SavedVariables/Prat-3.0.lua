@@ -702,9 +702,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -715,8 +716,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -724,9 +725,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -737,8 +739,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -746,9 +748,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 5,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -765,16 +768,16 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732604,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349843,
 					["b"] = 0.9843137860298157,
 				}, -- [1]
 				{
 					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
-					["serverTime"] = 1639732856,
+					["serverTime"] = 1653427518,
 					["r"] = 0.9529412388801575,
 					["b"] = 0.9843137860298157,
-					["timestamp"] = 2659668.185,
+					["timestamp"] = 710717.153,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
@@ -783,11 +786,11 @@ Prat3HighCPUPerCharDB = {
 				}, -- [2]
 				{
 					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 0 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
-					["timestamp"] = 2659668.185,
+					["timestamp"] = 710717.153,
 				}, -- [3]
 				{
 					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 2659668.185,
+					["timestamp"] = 710717.153,
 				}, -- [4]
 				{
 					["message"] = "Распознавание речи позволяет добавлять субтитры в голосовой канал.",
@@ -796,14 +799,14 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 2659656.49,
+					["timestamp"] = 710705.031,
 					["g"] = 1,
 					["b"] = 0.9843137860298157,
 				}, -- [5]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -811,9 +814,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame7"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -824,8 +828,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -833,9 +837,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame6"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -846,8 +851,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -1806,9 +1811,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1819,8 +1825,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -1828,9 +1834,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame10"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1841,8 +1848,8 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
@@ -1850,9 +1857,10 @@ Prat3HighCPUPerCharDB = {
 		["ChatFrame9"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["headIndex"] = 0,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1863,18 +1871,19 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 50,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 89,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
 			["PushBack"] = nil --[[ skipped inline function ]],
 			["RemoveIf"] = nil --[[ skipped inline function ]],
 			["Clear"] = nil --[[ skipped inline function ]],
@@ -1884,72 +1893,1085 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|Hpratcopy|h[11:16:44]|h Вы будете получать добычу для специализации \"Тьма\".",
+					["message"] = "|Hpratcopy|h[02:50:48]|h Общее время игры: 485 |4день:дня:дней;, 7 |4час:часа:часов;, 29 |4минута:минуты:минут;, 38 |4секунда:секунды:секунд;.",
 					["b"] = 0.9843137860298157,
 					["r"] = 0.9529412388801575,
 					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732605,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349847,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
 				}, -- [1]
 				{
-					["message"] = "|Hpratcopy|h[11:16:47]|h Общее время игры: 485 |4день:дня:дней;, 5 |4час:часа:часов;, 7 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
+					["message"] = "|Hpratcopy|h[02:50:48]|h Время игры на этом уровне: 0 |4день:дня:дней;, 0 |4час:часа:часов;, 35 |4минута:минуты:минут;, 35 |4секунда:секунды:секунд;.",
 					["b"] = 0.9843137860298157,
 					["r"] = 0.9529412388801575,
 					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732608,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349847,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
 				}, -- [2]
 				{
-					["message"] = "|Hpratcopy|h[11:16:47]|h Время игры на этом уровне: 63 |4день:дня:дней;, 0 |4час:часа:часов;, 49 |4минута:минуты:минут;, 58 |4секунда:секунды:секунд;.",
-					["b"] = 0.9843137860298157,
-					["r"] = 0.9529412388801575,
-					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732608,
+					["message"] = "|Hpratcopy|h[02:51:58]|h Вы получили предмет: |cffffffff|Hitem:37902::::::::52:258:::::::::|h[Весенний портер]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349917,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
 					},
 				}, -- [3]
 				{
-					["message"] = "|Hpratcopy|h[11:16:47]|h Общее время игры: 485 |4день:дня:дней;, 5 |4час:часа:часов;, 7 |4минута:минуты:минут;, 0 |4секунда:секунды:секунд;.",
+					["message"] = "|Hpratcopy|h[02:52:23]|h Ваш новый дом – Кольцо Судеб.",
 					["b"] = 0.9843137860298157,
 					["r"] = 0.9529412388801575,
 					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732608,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349942,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
 					},
 				}, -- [4]
 				{
-					["message"] = "|Hpratcopy|h[11:16:47]|h Время игры на этом уровне: 63 |4день:дня:дней;, 0 |4час:часа:часов;, 49 |4минута:минуты:минут;, 58 |4секунда:секунды:секунд;.",
+					["message"] = "|Hpratcopy|h[02:52:23]|h Вы получили предмет: |cffffffff|Hitem:6948::::::::52:258:::::::::|h[Камень возвращения]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349942,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [5]
+				{
+					["message"] = "|Hpratcopy|h[02:52:54]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Торговля: Город]|h.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349973,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [6]
+				{
+					["message"] = "|Hpratcopy|h[02:52:54]|h Вы будете получать добычу для специализации \"Тьма\".",
 					["b"] = 0.9843137860298157,
 					["r"] = 0.9529412388801575,
 					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732608,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349973,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-				}, -- [5]
+				}, -- [7]
 				{
-					["message"] = "|Hpratcopy|h[11:17:14]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Чупакаберпро-ЧерныйШрам:29:CHANNEL:3|h|cffc59a6cЧупакаберпро|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: проблема фильмов в том что они короткие и сложно расказать цельную историю. поэтому сериалы сейчас круче фильмов",
+					["message"] = "|Hpratcopy|h[02:52:54]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Оборона: Полуостров Адского Пламени]|h.",
 					["b"] = 0.7529412508010864,
 					["r"] = 1,
 					["g"] = 0.7529412508010864,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732635,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653349973,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [8]
+				{
+					["message"] = "|Hpratcopy|h[02:53:54]|h Вы будете получать добычу для специализации \"Тьма\".",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.9529412388801575,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350033,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [9]
+				{
+					["message"] = "|Hpratcopy|h[02:53:59]|h |Hchannel:channel:1|h[1] |h Смена канала: |Hchannel:CHANNEL:1|h[1. Торговля: Город]|h.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350038,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|Hpratcopy|h[02:53:59]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Оборона: Штормград]|h.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350038,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|Hpratcopy|h[02:54:48]|h Вы будете получать добычу для специализации \"Тьма\".",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.9529412388801575,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350087,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [12]
+				{
+					["message"] = "|Hpratcopy|h[02:54:52]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Оборона: Гавань Боралуса]|h.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350091,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|Hpratcopy|h[02:55:01]|h Вы будете получать добычу для специализации \"Тьма\".",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.9529412388801575,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350100,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [14]
+				{
+					["message"] = "|Hpratcopy|h[02:55:05]|h |Hchannel:channel:2|h[2] |h Смена канала: |Hchannel:CHANNEL:2|h[2. Оборона: Стальгорн]|h.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350104,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|Hpratcopy|h[02:55:58]|h Вы продали хлама на 31|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 64|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 80|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350157,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						11, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "|Hpratcopy|h[02:57:19]|h Предмет |cff00ccff|Hitem:122374::::::::52:258:::::::::|h[Ценное оплечье повелителя зверей]|h|r добавлен в вашу коллекцию наследуемых предметов.",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.9529412388801575,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350238,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "|Hpratcopy|h[02:57:19]|h Вы получили предмет: |cff00ccff|Hitem:122374::::::::52:258:::::::::|h[Ценное оплечье повелителя зверей]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350238,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [18]
+				{
+					["message"] = "|Hpratcopy|h[02:58:02]|h Вы получили предмет: |cff00ccff|Hitem:122338::::::::52:258::14::1:28:868:::::|h[Старинная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350281,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [19]
+				{
+					["message"] = "|Hpratcopy|h[02:58:06]|h Вы получили предмет: |cff00ccff|Hitem:122338::::::::52:258::14::1:28:868:::::|h[Старинная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350285,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [20]
+				{
+					["message"] = "|Hpratcopy|h[02:58:09]|h Вы получили предмет: |cff00ccff|Hitem:122339::::::::52:258::14::1:28:868:::::|h[Старинные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350288,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [21]
+				{
+					["message"] = "|Hpratcopy|h[02:58:11]|h Вы получили предмет: |cff00ccff|Hitem:122339::::::::52:258::14::1:28:868:::::|h[Старинные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350290,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [22]
+				{
+					["message"] = "|Hpratcopy|h[02:58:19]|h Вы получили предмет: |cff00ccff|Hitem:122340::::::::52:258::14::1:28:868:::::|h[Видавшая виды наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350298,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [23]
+				{
+					["message"] = "|Hpratcopy|h[02:58:22]|h Вы получили предмет: |cff00ccff|Hitem:122340::::::::52:258::14::1:28:868:::::|h[Видавшая виды наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350301,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [24]
+				{
+					["message"] = "|Hpratcopy|h[02:58:34]|h Вы получили предмет: |cff00ccff|Hitem:122341::::::::52:258::14::1:28:868:::::|h[Видавшие виды наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350313,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [25]
+				{
+					["message"] = "|Hpratcopy|h[02:58:36]|h Вы получили предмет: |cff00ccff|Hitem:122341::::::::52:258::14::1:28:868:::::|h[Видавшие виды наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350315,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [26]
+				{
+					["message"] = "|Hpratcopy|h[02:59:47]|h Вы получили предмет: |cff00ccff|Hitem:151614::::::::52:258::14::1:28:868:::::|h[Обветренная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350386,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [27]
+				{
+					["message"] = "|Hpratcopy|h[03:00:07]|h Вы получили предмет: |cff00ccff|Hitem:151614::::::::52:258::14::1:28:868:::::|h[Обветренная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350406,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [28]
+				{
+					["message"] = "|Hpratcopy|h[03:00:12]|h Вы получили предмет: |cff00ccff|Hitem:167731::::::::52:258::14::1:28:868:::::|h[Закаленная в бою наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350411,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [29]
+				{
+					["message"] = "|Hpratcopy|h[03:00:37]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350436,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [30]
+				{
+					["message"] = "|Hpratcopy|h[03:00:40]|h Вы получили предмет: |cff00ccff|Hitem:167731::::::::52:258::14::1:28:868:::::|h[Закаленная в бою наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350439,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [31]
+				{
+					["message"] = "|Hpratcopy|h[03:00:42]|h Вы получили предмет: |cff00ccff|Hitem:151614::::::::52:258::14::1:28:868:::::|h[Обветренная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350441,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [32]
+				{
+					["message"] = "|Hpratcopy|h[03:02:04]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350523,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [33]
+				{
+					["message"] = "|Hpratcopy|h[03:02:16]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350535,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [34]
+				{
+					["message"] = "|Hpratcopy|h[03:02:27]|h Вы получили предмет: |cff00ccff|Hitem:122340::::::::52:258::14::1:28:868:::::|h[Видавшая виды наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350546,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [35]
+				{
+					["message"] = "|Hpratcopy|h[03:02:29]|h Вы получили предмет: |cff00ccff|Hitem:122340::::::::52:258::14::1:28:868:::::|h[Видавшая виды наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350548,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "|Hpratcopy|h[03:02:50]|h Вы получили предмет: |cff00ccff|Hitem:151614::::::::52:258::14::1:28:868:::::|h[Обветренная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350569,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "|Hpratcopy|h[03:02:52]|h Вы получили предмет: |cff00ccff|Hitem:151614::::::::52:258::14::1:28:868:::::|h[Обветренная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350571,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "|Hpratcopy|h[03:03:08]|h Вы получили предмет: |cff00ccff|Hitem:167731::::::::52:258::14::1:28:868:::::|h[Закаленная в бою наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350587,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|Hpratcopy|h[03:03:10]|h Вы получили предмет: |cff00ccff|Hitem:167731::::::::52:258::14::1:28:868:::::|h[Закаленная в бою наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350589,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "|Hpratcopy|h[03:03:13]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350592,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "|Hpratcopy|h[03:03:15]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350594,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "|Hpratcopy|h[03:05:16]|h Вы получили предмет: |cff00ccff|Hitem:151615::::::::52:258::14::1:28:868:::::|h[Обветренные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350715,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "|Hpratcopy|h[03:05:18]|h Вы получили предмет: |cff00ccff|Hitem:151615::::::::52:258::14::1:28:868:::::|h[Обветренные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350717,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|Hpratcopy|h[03:05:34]|h Вы получили предмет: |cff00ccff|Hitem:167732::::::::52:258::14::1:28:868:::::|h[Закаленные в бою наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350733,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "|Hpratcopy|h[03:05:36]|h Вы получили предмет: |cff00ccff|Hitem:167732::::::::52:258::14::1:28:868:::::|h[Закаленные в бою наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350735,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "|Hpratcopy|h[03:06:07]|h Вы получили предмет: |cff00ccff|Hitem:187998::::::::52:258::14::1:28:868:::::|h[Вечные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350766,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "|Hpratcopy|h[03:06:09]|h Вы получили предмет: |cff00ccff|Hitem:187998::::::::52:258::14::1:28:868:::::|h[Вечные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350768,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "|Hpratcopy|h[03:06:39]|h Вы получили предмет: |cff00ccff|Hitem:122339::::::::52:258::14::1:28:868:::::|h[Старинные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350798,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "|Hpratcopy|h[03:06:41]|h Вы получили предмет: |cff00ccff|Hitem:122341::::::::52:258::14::1:28:868:::::|h[Видавшие виды наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350800,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "|Hpratcopy|h[03:06:42]|h Вы получили предмет: |cff00ccff|Hitem:151615::::::::52:258::14::1:28:868:::::|h[Обветренные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350801,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "|Hpratcopy|h[03:07:32]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET УДАЛЕН>:43:0:BN_INLINE_TOAST_ALERT:0|h[<BNET УДАЛЕН>]|h выходит из сети.",
+					["b"] = 1,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350851,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+				}, -- [52]
+				{
+					["message"] = "|Hpratcopy|h[03:08:03]|h Вы получили предмет: |cff00ccff|Hitem:122368::::::::52:258:::::::::|h[Большой посох Джордана]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350882,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [53]
+				{
+					["message"] = "|Hpratcopy|h[03:08:03]|h Предмет |cff00ccff|Hitem:122368::::::::52:258:::::::::|h[Большой посох Джордана]|h|r добавлен в вашу коллекцию наследуемых предметов.",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.9529412388801575,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350882,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [54]
+				{
+					["message"] = "|Hpratcopy|h[03:08:03]|h Модель |cffff80ff|Htransmogappearance:69197|h[Большой посох Джордана]|h|r добавлена в вашу коллекцию.",
+					["b"] = 0.9843137860298157,
+					["r"] = 0.9529412388801575,
+					["g"] = 1,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350882,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [55]
+				{
+					["message"] = "|Hpratcopy|h[03:08:31]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350910,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [56]
+				{
+					["message"] = "|Hpratcopy|h[03:08:44]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350923,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [57]
+				{
+					["message"] = "|Hpratcopy|h[03:09:02]|h Вы получили предмет: |cff00ccff|Hitem:151614::::::::52:258::14::1:28:868:::::|h[Обветренная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350941,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [58]
+				{
+					["message"] = "|Hpratcopy|h[03:09:14]|h Вы получили предмет: |cff00ccff|Hitem:167731::::::::52:258::14::1:28:868:::::|h[Закаленная в бою наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350953,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [59]
+				{
+					["message"] = "|Hpratcopy|h[03:09:16]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350955,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [60]
+				{
+					["message"] = "|Hpratcopy|h[03:09:38]|h Вы получили предмет: |cff00ccff|Hitem:167731::::::::52:258::14::1:28:868:::::|h[Закаленная в бою наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350977,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [61]
+				{
+					["message"] = "|Hpratcopy|h[03:09:39]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653350978,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [62]
+				{
+					["message"] = "|Hpratcopy|h[03:10:41]|h Вы получили предмет: |cff00ccff|Hitem:187997::::::::52:258::14::1:28:868:::::|h[Вечная наследная обшивка для брони]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653351040,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [63]
+				{
+					["message"] = "|Hpratcopy|h[03:11:12]|h Вы получили предмет: |cff00ccff|Hitem:151615::::::::52:258::14::1:28:868:::::|h[Обветренные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653351071,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [64]
+				{
+					["message"] = "|Hpratcopy|h[03:11:23]|h Вы получили предмет: |cff00ccff|Hitem:167732::::::::52:258::14::1:28:868:::::|h[Закаленные в бою наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653351082,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [65]
+				{
+					["message"] = "|Hpratcopy|h[03:11:25]|h Вы получили предмет: |cff00ccff|Hitem:187998::::::::52:258::14::1:28:868:::::|h[Вечные наследные ножны]|h|r.",
+					["b"] = 0.02745098248124123,
+					["r"] = 1,
+					["g"] = 0.9764706492424011,
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653351084,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [66]
+				{
+					["message"] = "0 |4день:дня:дней;, 21 |4час:часа:часов;, 13 |4минута:минуты:минут;, 54 |4секунда:секунды:секунд;.",
+					["timestamp"] = 710717.153,
+				}, -- [67]
+				{
+					["message"] = "========== Конец истории сообщений ==========",
+					["timestamp"] = 710717.153,
+				}, -- [68]
+				{
+					["message"] = "|Hpratcopy|h[00:25:13]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.135 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["r"] = 1,
+					["timestamp"] = 710705.031,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [69]
+				{
+					["message"] = "|Hpratcopy|h[00:25:19]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653427519,
+				}, -- [70]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h Вы будете получать добычу для специализации \"Тьма\".",
+					["serverTime"] = 1653427520,
+					["r"] = 0.9529412388801575,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 710717.153,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [71]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653427520,
+				}, -- [72]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653427520,
+				}, -- [73]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h |cff33ff99Global Ignore: |cffffffffWARNING: Synchronization could not be preformed at this time because there were |cffffff0050|cffffffff player(s) on Blizzard's ignore list reported as \"Неизвестно\". If synchronization continues to fail, the unknown player may need to be manually removed from Blizzard ignore list.  The list will try to synchronize the next time the GUI is opened, or by typing /gi sync in chat.",
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653427520,
+				}, -- [74]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h |cffffd700Титан Панель|r|cff20ff20 5.23.2.90204|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653427520,
+				}, -- [75]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Алоиза: Фламиника: Vuhdo'esque",
+					["r"] = 1,
+					["serverTime"] = 1653427520,
+					["timestamp"] = 710717.153,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [76]
+				{
+					["message"] = "|Hpratcopy|h[00:25:20]|h |cff9900ffWeakAuras:|r  Готово к применению 3 |4обновление:обновления:обновлений;.",
+					["timestamp"] = 710717.153,
+					["serverTime"] = 1653427520,
+				}, -- [77]
+				{
+					["message"] = "|Hpratcopy|h[00:25:22]|h Общее время игры: 485 |4день:дня:дней;, 7 |4час:часа:часов;, 50 |4минута:минуты:минут;, 41 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1653427522,
+					["r"] = 0.9529412388801575,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 710721.528,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [78]
+				{
+					["message"] = "|Hpratcopy|h[00:25:22]|h Время игры на этом уровне: 0 |4день:дня:дней;, 0 |4час:часа:часов;, 56 |4минута:минуты:минут;, 38 |4секунда:секунды:секунд;.",
+					["serverTime"] = 1653427522,
+					["r"] = 0.9529412388801575,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 710721.528,
+					["g"] = 1,
+					["b"] = 0.9843137860298157,
+				}, -- [79]
+				{
+					["message"] = "|Hpratcopy|h[00:25:22]|h |cff7f7f7f[00:25]|r [|cff007f7fNOP|r] Дворфийский бункер: 36 done 0 to go!",
+					["timestamp"] = 710721.795,
+					["serverTime"] = 1653427522,
+				}, -- [80]
+				{
+					["message"] = "|Hpratcopy|h[00:25:22]|h |cff7f7f7f[00:25]|r [|cff007f7fNOP|r] Башня магов: 7 done 0 to go!",
+					["timestamp"] = 710721.795,
+					["serverTime"] = 1653427522,
+				}, -- [81]
+				{
+					["message"] = "|Hpratcopy|h[00:25:31]|h |cffb4b4ffALL THE THINGS|r Профиль: По умолчанию",
+					["timestamp"] = 710729.954,
+					["serverTime"] = 1653427531,
+				}, -- [82]
+				{
+					["message"] = "|Hpratcopy|h[00:25:53]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Хенесси-ЧерныйШрам:80:CHANNEL:3|h|cfffe7b09Хенесси|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: нет общения тут",
+					["serverTime"] = 1653427553,
+					["r"] = 1,
 					["extraData"] = {
 						70, -- [1]
 						false, -- [2]
@@ -1957,338 +2979,104 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-				}, -- [6]
-				{
-					["message"] = "|Hpratcopy|h[11:17:20]|h Донна говорит: Ну что, кто из нас плакса? Ты плакса!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732641,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [7]
-				{
-					["message"] = "|Hpratcopy|h[11:17:20]|h Уильям говорит: Нечестно! Отдай мою гориллу!!!",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732641,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [8]
-				{
-					["message"] = "|Hpratcopy|h[11:17:36]|h |Hchannel:channel:1|h[1] |h Вы покинули канал |Hchannel:CHANNEL:1|h[1. Торговля: Город]|h.",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
+					["timestamp"] = 710752.555,
 					["g"] = 0.7529412508010864,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732657,
+					["b"] = 0.7529412508010864,
+				}, -- [83]
+				{
+					["message"] = "|Hpratcopy|h[00:25:54]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Амстердамчик-Борейскаятундра:81:CHANNEL:3|h|cfff38bb9Амстердамчик|r|h|cffd8d8d8]|r: за орду",
+					["serverTime"] = 1653427554,
+					["r"] = 1,
 					["extraData"] = {
-						68, -- [1]
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 710753.3690000001,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [84]
+				{
+					["message"] = "|Hpratcopy|h[00:25:59]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Хенесси-ЧерныйШрам:82:CHANNEL:3|h|cfffe7b09Хенесси|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: мёртвый чат",
+					["serverTime"] = 1653427559,
+					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 710759.198,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [85]
+				{
+					["message"] = "|Hpratcopy|h[00:26:12]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq68|k:33:83:BN_INLINE_TOAST_ALERT:0|h[|Kq68|k]|h выходит из сети.",
+					["serverTime"] = 1653427572,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
 						false, -- [2]
 						6, -- [3]
 						7, -- [4]
 						["n"] = 4,
 					},
-				}, -- [9]
+					["timestamp"] = 710772.15,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [86]
 				{
-					["message"] = "|Hpratcopy|h[11:17:36]|h |Hchannel:channel:2|h[2] |h Вы покинули канал |Hchannel:CHANNEL:2|h[2. Оборона: Штормград]|h.",
-					["b"] = 0.7529412508010864,
+					["message"] = "|Hpratcopy|h[00:26:12]|h |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq68|k:33:84:BN_INLINE_TOAST_ALERT:0|h[|Kq68|k]|h выходит из сети.",
+					["serverTime"] = 1653427572,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 710772.15,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [87]
+				{
+					["message"] = "|Hpratcopy|h[00:27:11]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Хенесси-ЧерныйШрам:85:CHANNEL:3|h|cfffe7b09Хенесси|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: можещь даже топить за ЛГБТ -Борейка",
+					["serverTime"] = 1653427631,
 					["r"] = 1,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 710831.269,
 					["g"] = 0.7529412508010864,
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732657,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-				}, -- [10]
+					["b"] = 0.7529412508010864,
+				}, -- [88]
 				{
-					["message"] = "0 |4день:дня:дней;, 0 |4час:часа:часов;, 3 |4минута:минуты:минут;, 19 |4секунда:секунды:секунд;.",
-					["timestamp"] = 2659668.185,
-				}, -- [11]
-				{
-					["message"] = "========== Конец истории сообщений ==========",
-					["timestamp"] = 2659668.185,
-				}, -- [12]
-				{
-					["message"] = "|Hpratcopy|h[11:20:50]|h |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.129 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
-					["r"] = 1,
-					["timestamp"] = 2659656.49,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [13]
-				{
-					["message"] = "|Hpratcopy|h[11:20:51]|h |cff9900ffWeakAuras:|r  Готово к применению 5 |4обновление:обновления:обновлений;.",
-					["timestamp"] = 2659656.49,
-				}, -- [14]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cffffd839TSM|r: TSM в настоящее время не имеет данных о ценах БД аукциона для вашего игрового мира. Мы рекомендуем вам загрузить настольное приложение TSM с |cff79a2ffhttps://tradeskillmaster.com|r для автоматического обновления данных вашей БД аукциона (и автоматического резервного копирования настроек TSM).",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [15]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cFFFF0000[ZT-Error] LibGroupInSpecT-1.1 not found",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [16]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h Вы будете получать добычу для специализации \"Тьма\".",
-					["serverTime"] = 1639732857,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 2659668.185,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [17]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cff33ff99Global Ignore: |cffffffffType /gignore or /gi for help and options",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [18]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cff33ff99Global Ignore: |cffffffffSynchronizing Ignore list...",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [19]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cffffff00Global Ignore: New player Безпани95E5A-Борейскаятундра found on character, adding to Global Ignore List",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [20]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cff33ff99Global Ignore: |cffffffffБезпани95e5a-Борейскаятундра is already ignored",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [21]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cffffff00Global Ignore: New player Штик7E51C-Борейскаятундра found on character, adding to Global Ignore List",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [22]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cff33ff99Global Ignore: |cffffffffШтик7e51c-Борейскаятундра is already ignored",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [23]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cffffd700Титан Панель|r|cff20ff20 5.21.2.90105|r|cffffd700|cffffd700 от |cffff8c00Titan Development Team|r|cff20ff20|r",
-					["timestamp"] = 2659668.185,
-					["serverTime"] = 1639732857,
-				}, -- [24]
-				{
-					["message"] = "|Hpratcopy|h[11:20:56]|h |cffffe566{VuhDo}|r Профиль успешно загружен: Алоиза: Фламиника: Vuhdo'esque",
-					["r"] = 1,
-					["serverTime"] = 1639732857,
-					["timestamp"] = 2659668.185,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [25]
-				{
-					["message"] = "|Hpratcopy|h[11:20:59]|h Общее время игры: 485 |4день:дня:дней;, 5 |4час:часа:часов;, 7 |4минута:минуты:минут;, 54 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1639732860,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 2659673.457,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [26]
-				{
-					["message"] = "|Hpratcopy|h[11:20:59]|h Время игры на этом уровне: 63 |4день:дня:дней;, 0 |4час:часа:часов;, 50 |4минута:минуты:минут;, 52 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1639732860,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 2659673.457,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [27]
-				{
-					["message"] = "|Hpratcopy|h[11:20:59]|h Общее время игры: 485 |4день:дня:дней;, 5 |4час:часа:часов;, 7 |4минута:минуты:минут;, 54 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1639732860,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 2659673.457,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [28]
-				{
-					["message"] = "|Hpratcopy|h[11:20:59]|h Время игры на этом уровне: 63 |4день:дня:дней;, 0 |4час:часа:часов;, 50 |4минута:минуты:минут;, 52 |4секунда:секунды:секунд;.",
-					["serverTime"] = 1639732860,
-					["r"] = 0.9529412388801575,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 2659673.457,
-					["g"] = 1,
-					["b"] = 0.9843137860298157,
-				}, -- [29]
-				{
-					["message"] = "|Hpratcopy|h[11:20:59]|h |cff7f7f7f[11:20]|r [|cff007f7fNOP|r] Дворфийский бункер: 36 done 0 to go!",
-					["timestamp"] = 2659673.457,
-					["serverTime"] = 1639732860,
-				}, -- [30]
-				{
-					["message"] = "|Hpratcopy|h[11:20:59]|h |cff7f7f7f[11:20]|r [|cff007f7fNOP|r] Башня магов: 7 done 0 to go!",
-					["timestamp"] = 2659673.457,
-					["serverTime"] = 1639732860,
-				}, -- [31]
-				{
-					["message"] = "|Hpratcopy|h[11:21:04]|h |cff33ff99DataStore_Mails|r: Дэлери (Гордунни) has expired (or about to expire) mails ",
-					["timestamp"] = 2659673.457,
-					["serverTime"] = 1639732865,
-				}, -- [32]
-				{
-					["message"] = "|Hpratcopy|h[11:21:04]|h |cff33ff99DataStore_Mails|r: Фламинника (Гордунни) has expired (or about to expire) mails ",
-					["timestamp"] = 2659673.457,
-					["serverTime"] = 1639732865,
-				}, -- [33]
-				{
-					["message"] = "|Hpratcopy|h[11:21:04]|h |cff33ff99DataStore_Mails|r: Ниэтта (Гордунни) has expired (or about to expire) mails ",
-					["timestamp"] = 2659673.457,
-					["serverTime"] = 1639732865,
-				}, -- [34]
-				{
-					["message"] = "|Hpratcopy|h[11:21:04]|h |cff33ff99DataStore_Mails|r: Алоиза (Гордунни) has expired (or about to expire) mails ",
-					["timestamp"] = 2659673.457,
-					["serverTime"] = 1639732865,
-				}, -- [35]
-				{
-					["message"] = "|Hpratcopy|h[11:21:14]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659687.97,
-					["serverTime"] = 1639732875,
-				}, -- [36]
-				{
-					["message"] = "|Hpratcopy|h[11:21:24]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659698.045,
-					["serverTime"] = 1639732885,
-				}, -- [37]
-				{
-					["message"] = "|Hpratcopy|h[11:21:34]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659708.145,
-					["serverTime"] = 1639732894,
-				}, -- [38]
-				{
-					["message"] = "|Hpratcopy|h[11:21:44]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659718.154,
-					["serverTime"] = 1639732904,
-				}, -- [39]
-				{
-					["message"] = "|Hpratcopy|h[11:21:54]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659728.254,
-					["serverTime"] = 1639732914,
-				}, -- [40]
-				{
-					["message"] = "|Hpratcopy|h[11:22:04]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659738.353,
-					["serverTime"] = 1639732924,
-				}, -- [41]
-				{
-					["message"] = "|Hpratcopy|h[11:22:14]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659748.453,
-					["serverTime"] = 1639732934,
-				}, -- [42]
-				{
-					["message"] = "|Hpratcopy|h[11:22:24]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659758.454,
-					["serverTime"] = 1639732944,
-				}, -- [43]
-				{
-					["message"] = "|Hpratcopy|h[11:22:34]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659768.554,
-					["serverTime"] = 1639732954,
-				}, -- [44]
-				{
-					["message"] = "|Hpratcopy|h[11:22:44]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659778.555,
-					["serverTime"] = 1639732964,
-				}, -- [45]
-				{
-					["message"] = "|Hpratcopy|h[11:22:55]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659788.655,
-					["serverTime"] = 1639732975,
-				}, -- [46]
-				{
-					["message"] = "|Hpratcopy|h[11:23:05]|h |cffffff00Слишком много ошибок в вашем UI (пользовательском интерфейсе). В результате этого может снизиться играбельность. Отключите или обновите модификации, вызывающие сбои, если больше не хотите видеть это сообщение.|r",
-					["timestamp"] = 2659798.659,
-					["serverTime"] = 1639732985,
-				}, -- [47]
-				{
-					["message"] = "|Hpratcopy|h[11:23:28]|h Вы получили предмет: |cff1eff00|Hitem:12811::::::::50:258:::::::::|h[Сфера Праведности]|h|rx27.",
-					["serverTime"] = 1639733008,
+					["message"] = "|Hpratcopy|h[00:27:32]|h |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Хенесси-ЧерныйШрам:86:CHANNEL:3|h|cfffe7b09Хенесси|r-|cff32caf5Чер|r|h|cffd8d8d8]|r: тут всё всем ровно",
+					["serverTime"] = 1653427652,
 					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						70, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2659822.514,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [48]
-				{
-					["message"] = "|Hpratcopy|h[11:23:29]|h Вы получили предмет: |cff0070dd|Hitem:14344::::::::50:258:::::::::|h[Большой сверкающий осколок]|h|rx136.",
-					["serverTime"] = 1639733009,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2659822.817,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [49]
-				{
-					["message"] = "|Hpratcopy|h[11:23:43]|h Вы создаете: |cff0070dd|Hitem:38873::::::::50:258:::::::::|h[Чары для оружия - рыцарь]|h|r.",
-					["serverTime"] = 1639733023,
-					["r"] = 1,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2659837.297,
-					["g"] = 0.9764706492424011,
-					["b"] = 0.02745098248124123,
-				}, -- [50]
+					["timestamp"] = 710851.836,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [89]
 			},
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
 			["GetNumElements"] = nil --[[ skipped inline function ]],
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
