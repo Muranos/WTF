@@ -22,20 +22,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -64,20 +64,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -106,20 +106,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -148,20 +148,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -191,20 +191,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "ыыыыыыы",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -233,15 +233,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -250,6 +245,11 @@ PremadeGroupsFilterState = {
 			["max"] = "0",
 			["min"] = "",
 			["act"] = true,
+		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
 		},
 		["sorting"] = "",
 	},
@@ -275,20 +275,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -317,15 +317,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -335,8 +330,14 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["sorting"] = "",
 	},
+	["moveable"] = false,
 	["t2c3f1"] = {
 		["enabled"] = true,
 		["tanks"] = {
@@ -359,15 +360,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -377,7 +373,11 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["sorting"] = "",
 	},
-	["moveable"] = false,
 }

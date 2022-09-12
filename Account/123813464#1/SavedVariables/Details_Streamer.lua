@@ -1,14 +1,15 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Шайэн - Гордунни"] = "Ниэтта - Гордунни",
-		["Дэлери - Гордунни"] = "Ниэтта - Гордунни",
-		["Фламинника - Гордунни"] = "Ниэтта - Гордунни",
-		["Алоиза - Гордунни"] = "Ниэтта - Гордунни",
 		["Ниамэй - Гордунни"] = "Ниэтта - Гордунни",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Фламинника - Гордунни"] = "Ниэтта - Гордунни",
 		["Эстрэя - Гордунни"] = "Ниэтта - Гордунни",
 		["Алтэри - Гордунни"] = "Ниэтта - Гордунни",
+		["Алоиза - Гордунни"] = "Ниэтта - Гордунни",
+		["Дэлери - Гордунни"] = "Ниэтта - Гордунни",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Шайэн - Гордунни"] = "Ниэтта - Гордунни",
+		["Эллиата - Гордунни"] = "Ниэтта - Гордунни",
 	},
 	["profiles"] = {
 		["Ниэтта - Гордунни"] = {
@@ -30,16 +31,21 @@ Details_StreamerDB = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["arrow_anchor_y"] = 0,
+			["scale"] = 1,
 			["arrow_anchor_x"] = 0,
-			["main_frame_locked"] = true,
+			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
+			["point"] = "TOPLEFT",
+			["main_frame_strata"] = "LOW",
+			["square_amount"] = 5,
+			["enabled"] = true,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -47,15 +53,10 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 6.103515625e-05,
 				["x"] = -3.0517578125e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["author"] = "Terciob",
-			["square_amount"] = 5,
-			["enabled"] = true,
-			["arrow_size"] = 10,
-			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -63,22 +64,22 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2000000476837158, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Terciob",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["y"] = -102.799072265625,
-			["use_spark"] = true,
+			["font_size"] = 10,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["point"] = "TOPLEFT",
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["use_spark"] = true,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
 			},
-			["row_height"] = 20,
-			["scale"] = 1,
+			["main_frame_locked"] = true,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }

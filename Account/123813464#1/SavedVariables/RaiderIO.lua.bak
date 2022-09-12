@@ -15,19 +15,9 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
+RaiderIO_LastCharacter = "eu-Алтэри-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Ниэтта-gordunni"] = true,
-	["eu-Drecksâck-draenor"] = true,
-	["eu-Единица-gordunni"] = true,
-	["eu-Уххастик-gordunni"] = true,
-	["eu-Таюи-gordunni"] = true,
-	["eu-Стираютайдом-gordunni"] = true,
-	["eu-Сострадание-gordunni"] = true,
-	["eu-Enseven-silvermoon"] = true,
-	["eu-party5-gordunni"] = true,
-	["eu-Няаригато-soulflayer"] = true,
-	["eu-Мамамедведь-gordunni"] = true,
+	["eu-Ухачка-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

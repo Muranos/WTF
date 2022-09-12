@@ -10,12 +10,13 @@ OneRing_Config = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["SpecMenu"] = "F5",
 				["OPieTracking"] = false,
+				["Teleports"] = "F8",
+				["OPieAutoQuest"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieAutoQuest"] = false,
+				["SpecMenu"] = "F5",
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -50,6 +51,63 @@ OneRing_Config = {
 				}, -- [5]
 				["name"] = "Mounts",
 				["save"] = true,
+			},
+			["Teleports"] = {
+				{
+					["sliceToken"] = "ABuec0ax6Ewr",
+					["id"] = 354462,
+				}, -- [1]
+				{
+					["sliceToken"] = "ABuec0ax6Ewe",
+					["id"] = 354464,
+				}, -- [2]
+				{
+					["sliceToken"] = "ABuec0ax6Eww",
+					["id"] = 354466,
+				}, -- [3]
+				{
+					["sliceToken"] = "ABuec0ax6Ewq",
+					["id"] = 354468,
+				}, -- [4]
+				{
+					["sliceToken"] = "ABuec0ax6EM",
+					["id"] = 367416,
+				}, -- [5]
+				{
+					["sliceToken"] = "ABuec0ax6EN",
+					["id"] = 373274,
+				}, -- [6]
+				{
+					["sliceToken"] = "ABuec0ax6EB",
+					["id"] = 159900,
+				}, -- [7]
+				{
+					["sliceToken"] = "ABuec0ax6E/",
+					["id"] = 354463,
+				}, -- [8]
+				{
+					["sliceToken"] = "ABuec0ax6EV",
+					["id"] = 354465,
+				}, -- [9]
+				{
+					["sliceToken"] = "ABuec0ax6EC",
+					["id"] = 354467,
+				}, -- [10]
+				{
+					["sliceToken"] = "ABuec0ax6EX",
+					["id"] = 354469,
+				}, -- [11]
+				{
+					["sliceToken"] = "ABuecJ1BA5r",
+					["id"] = 373262,
+				}, -- [12]
+				{
+					["sliceToken"] = "ABuec=I23ee",
+					["id"] = 159896,
+				}, -- [13]
+				["name"] = "Teleports",
+				["save"] = true,
+				["hotkey"] = "F8",
 			},
 			["SpecMenu"] = {
 				{

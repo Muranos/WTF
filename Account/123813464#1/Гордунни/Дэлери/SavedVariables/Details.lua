@@ -33,7 +33,7 @@ _detalhes_database = {
 		["pos"] = {
 		},
 	},
-	["last_version"] = "9.2.79824",
+	["last_version"] = "9.2.710018",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -177,7 +177,7 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = true,
 			["arrow_size"] = 10,
-			["y"] = -102.799072265625,
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -185,14 +185,13 @@ _detalhes_database = {
 				0, -- [3]
 				0.2000000476837158, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Terciob",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
+			["font_size"] = 10,
+			["y"] = -102.799072265625,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -204,11 +203,12 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["font_size"] = 10,
-			["author"] = "Terciob",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["main_frame_locked"] = true,
 			["arrow_anchor_y"] = 0,
 		},
@@ -227,12 +227,12 @@ _detalhes_database = {
 	},
 	["cached_roles"] = {
 	},
-	["last_day"] = "24",
+	["last_day"] = "12",
 	["local_instances_config"] = {
 		{
 			["modo"] = 2,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = true,
+			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["isLocked"] = false,
 			["is_open"] = true,
@@ -244,7 +244,6 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				[3] = 2,
 			},
 			["segment"] = 0,
 			["mode"] = 2,
@@ -267,7 +266,7 @@ _detalhes_database = {
 		{
 			["modo"] = 2,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = true,
+			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["isLocked"] = false,
 			["is_open"] = true,
@@ -279,8 +278,6 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				1, -- [1]
-				[3] = 3,
 			},
 			["segment"] = 0,
 			["mode"] = 2,
@@ -303,7 +300,7 @@ _detalhes_database = {
 		{
 			["modo"] = 2,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = true,
+			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["isLocked"] = false,
 			["is_open"] = true,
@@ -315,7 +312,6 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				2, -- [1]
 			},
 			["segment"] = 0,
 			["mode"] = 2,
@@ -324,7 +320,7 @@ _detalhes_database = {
 				["normal"] = {
 					["y"] = -441.9990386962891,
 					["x"] = 938.1978759765625,
-					["w"] = 161.2003631591797,
+					["w"] = 161.2002258300781,
 					["h"] = 168.4000701904297,
 				},
 				["solo"] = {
@@ -341,10 +337,10 @@ _detalhes_database = {
 	["savedStyles"] = {
 	},
 	["nick_tag_cache"] = {
-		["nextreset"] = 1662516232,
+		["nextreset"] = 1663871761,
 		["last_version"] = 14,
 	},
-	["combat_counter"] = 18,
+	["combat_counter"] = 30,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -472,7 +468,7 @@ _detalhes_database = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 9,
+		["logons"] = 15,
 	},
 	["force_font_outline"] = "",
 	["announce_firsthit"] = {

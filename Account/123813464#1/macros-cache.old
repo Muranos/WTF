@@ -59,10 +59,10 @@ END
 VER 3 0000000000000022 "DualMount" "Ability_AnimusDraw"
 /click [btn:1]MTSB2 LeftButton;[btn:2]MTSB2 RightButton;[btn:3]MTSB2 MiddleButton;[btn:4]MTSB2 Button4;[btn:5]MTSB2 Button5
 END
-VER 3 0000000000000044 "ExtraAction" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000045 "ExtraAction" "INV_MISC_QUESTIONMARK"
 #showtooltip /click ExtraActionButton1
 END
-VER 3 0000000000000045 "ExtraAction" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000044 "ExtraAction" "INV_MISC_QUESTIONMARK"
 #showtooltip /click ExtraActionButton1
 END
 VER 3 000000000000004E "FaeBlink" "4178535"

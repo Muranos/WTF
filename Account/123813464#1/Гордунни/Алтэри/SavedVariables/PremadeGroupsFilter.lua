@@ -22,16 +22,11 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
 			["max"] = "1",
-			["min"] = "",
-			["act"] = false,
-		},
-		["defeated"] = {
-			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
@@ -39,6 +34,11 @@ PremadeGroupsFilterState = {
 			["max"] = "0",
 			["min"] = "",
 			["act"] = true,
+		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
 		},
 		["sorting"] = "",
 	},
@@ -64,20 +64,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -106,20 +106,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -148,20 +148,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -192,20 +192,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,

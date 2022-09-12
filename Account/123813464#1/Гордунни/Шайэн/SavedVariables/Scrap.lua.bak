@@ -1,6 +1,6 @@
 
 Scrap_CharSets = {
-	["ml"] = {
+	["auto"] = {
 	},
 	["list"] = {
 		[182729] = true,

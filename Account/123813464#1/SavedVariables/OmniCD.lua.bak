@@ -25,9 +25,9 @@ OmniCDDB = {
 		["Дэлери - Гордунни"] = "Default",
 	},
 	["global"] = {
-		["oodVer"] = 9252720,
-		["oodChk"] = 220807,
 		["disableElvMsg"] = true,
+		["oodChk"] = 220910,
+		["oodVer"] = 9272722,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -145,9 +145,9 @@ OmniCDDB = {
 						["207167"] = true,
 						["108968"] = false,
 						["108194"] = true,
+						["316958"] = true,
 						["19236"] = false,
 						["109248"] = true,
-						["316958"] = true,
 					},
 					["icons"] = {
 						["scale"] = 0.63,

@@ -1,5 +1,16 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+		{
+			["boss"] = "Советник Меландр",
+		}, -- [1]
+		{
+			["boss"] = "Таликса Пламя Гнева",
+		}, -- [2]
+		{
+			["boss"] = "Капитан патруля Гердо",
+		}, -- [3]
+	},
 	["encounter_spells"] = {
 		[211457] = {
 			["school"] = 4,
@@ -86,13 +97,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Капитан патруля Гердо",
 		},
-		[207881] = {
-			["school"] = 4,
+		[209628] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Таликса Пламя Гнева",
+			["source"] = "Советник Меландр",
 		},
 		[207906] = {
 			["school"] = 4,
@@ -111,13 +122,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Проекция советника Меландра",
 		},
-		[206574] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[207907] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Таликса Пламя Гнева",
 		},
 		[207887] = {
 			["school"] = 4,
@@ -158,12 +168,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[207907] = {
-			["school"] = 4,
+		[206574] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Таликса Пламя Гнева",
 		},
 		[209678] = {
 			["school"] = 1,
@@ -172,24 +183,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Советник Меландр",
 		},
-		[209628] = {
-			["school"] = 1,
+		[207881] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Советник Меландр",
+			["source"] = "Таликса Пламя Гнева",
 		},
-	},
-	["emotes"] = {
-		{
-			["boss"] = "Советник Меландр",
-		}, -- [1]
-		{
-			["boss"] = "Таликса Пламя Гнева",
-		}, -- [2]
-		{
-			["boss"] = "Капитан патруля Гердо",
-		}, -- [3]
 	},
 }

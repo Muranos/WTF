@@ -15,7 +15,7 @@ PremadeGroupsFilterState = {
 		["dps"] = {
 			["max"] = "1",
 			["min"] = "",
-			["act"] = false,
+			["act"] = true,
 		},
 		["noilvl"] = {
 			["act"] = false,

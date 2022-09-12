@@ -3691,7 +3691,6 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
-			["ordering"] = 0,
 			["groups"] = {
 				1, -- [1]
 				2, -- [2]
@@ -3703,6 +3702,7 @@ VUHDO_PANEL_SETUP = {
 				8, -- [8]
 			},
 			["sort"] = 5,
+			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -6594,9 +6594,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -6604,9 +6604,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -6659,9 +6659,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -6688,9 +6688,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -6698,9 +6698,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -6753,9 +6753,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -6820,11 +6820,11 @@ VUHDO_RAID = {
 		["unit"] = "player",
 		["powertype"] = 13,
 		["healthmax"] = 45780,
-		["lifeLossPerc"] = 1.004917025199754,
+		["lifeLossPerc"] = 1.000852626746245,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "Алоиза",
-		["power"] = 76,
+		["power"] = 0,
 		["aggro"] = false,
 		["targetUnit"] = "target",
 		["visible"] = true,
@@ -6843,16 +6843,16 @@ VUHDO_INDICATOR_CONFIG = {
 		["MOUSEOVER_HIGHLIGHT"] = "",
 		["AGGRO_BAR"] = "",
 		["BACKGROUND_BAR"] = "Фон: Фиксированный",
-		["CLUSTER_BORDER"] = "Границы: Комплексная + угроза",
-		["SWIFTMEND_INDICATOR"] = "Иконка роли",
-		["INCOMING_BAR"] = "",
 		["DAMAGE_FLASH_BAR"] = "",
+		["SIDE_LEFT"] = "",
+		["INCOMING_BAR"] = "",
+		["CLUSTER_BORDER"] = "Границы: Комплексная + угроза",
 		["THREAT_MARK"] = "",
-		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Полоса маны: Мана",
 		["BAR_BORDER"] = "Границы: Комплексная + угроза",
+		["SIDE_RIGHT"] = "",
 		["HEALTH_BAR"] = "Здоровье (цвет класса)",
-		["SIDE_LEFT"] = "",
+		["SWIFTMEND_INDICATOR"] = "Иконка роли",
 		["HEALTH_BAR_PANEL"] = {
 			"", -- [1]
 			"", -- [2]

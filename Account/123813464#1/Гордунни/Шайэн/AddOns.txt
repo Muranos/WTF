@@ -36,3 +36,4 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
+LittleWigs_WarlordsOfDraenor: enabled

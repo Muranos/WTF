@@ -1,4 +1,11 @@
 Version: 1
+Frame: PlayerStatusGlow
+FrameLevel: 6
+Anchor: CENTER
+X: -353
+Y: -193
+W: 32
+H: 32
 Frame: PlayerPowerBarAltMover
 FrameLevel: 1
 Anchor: LEFT
@@ -13,13 +20,6 @@ X: 274
 Y: 278
 W: 30
 H: 30
-Frame: PlayerStatusGlow
-FrameLevel: 6
-Anchor: CENTER
-X: -353
-Y: -193
-W: 32
-H: 32
 Frame: MovementSpeed
 FrameLevel: 0
 Anchor: BOTTOM

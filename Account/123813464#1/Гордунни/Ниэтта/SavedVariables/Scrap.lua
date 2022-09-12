@@ -1,8 +1,9 @@
 
 Scrap_CharSets = {
-	["ml"] = {
+	["auto"] = {
 	},
 	["list"] = {
+		[36812] = false,
 		[21813] = true,
 		[49857] = true,
 		[49859] = true,
@@ -15,6 +16,7 @@ Scrap_CharSets = {
 		[174458] = true,
 		[173726] = true,
 		[169844] = true,
+		[62072] = false,
 		[174837] = true,
 		[49856] = true,
 		[49858] = true,
@@ -28,16 +30,17 @@ Scrap_CharSets = {
 		[22238] = true,
 		[22239] = true,
 		[169768] = true,
-		[143902] = true,
+		[22236] = true,
+		[174459] = true,
 		[22237] = true,
 		[174462] = true,
-		[117550] = true,
-		[22236] = true,
+		[182681] = false,
+		[67410] = false,
 		[123862] = true,
 		[174021] = true,
 		[178786] = false,
-		[182681] = false,
+		[117550] = true,
 		[182582] = false,
-		[174459] = true,
+		[143902] = true,
 	},
 }

@@ -13,13 +13,6 @@ X: -354
 Y: -193
 W: 32
 H: 32
-Frame: PlayerFrame
-FrameLevel: 1
-Anchor: CENTER
-X: -293
-Y: -177
-W: 232
-H: 100
 Frame: PlayerDebuffsMover
 FrameLevel: 1
 Anchor: BOTTOM
@@ -34,6 +27,13 @@ X: 441
 Y: 15
 W: 32
 H: 10
+Frame: PlayerFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -293
+Y: -177
+W: 232
+H: 100
 Frame: OverrideActionBarExpBar
 FrameLevel: 2
 Anchor: BOTTOM

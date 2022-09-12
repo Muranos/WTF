@@ -7,12 +7,10 @@ PawnCommon = {
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = true,
 	["ShowItemLevelUpgrades"] = true,
-	["Debug"] = false,
 	["IgnoreGemsWhileLeveling"] = true,
+	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
-	["ShowSpecIcons"] = true,
-	["ShowSocketingAdvisor"] = false,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -33,9 +31,6 @@ PawnCommon = {
 			["IconTexturePath"] = 136145,
 			["PerCharacterOptions"] = {
 				["Элави-Борейская тундра"] = {
-					["Visible"] = true,
-				},
-				["Эллиата-Гордунни"] = {
 					["Visible"] = true,
 				},
 			},
@@ -152,6 +147,9 @@ PawnCommon = {
 		["\"MrRobot\":WARLOCK3"] = {
 			["IconTexturePath"] = 136186,
 			["PerCharacterOptions"] = {
+				["Эллиата-Гордунни"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "8788ee",
 			["LocalizedName"] = "Чернокнижник: Разрушение",
@@ -245,23 +243,23 @@ PawnCommon = {
 			["Values"] = {
 				["IsOffHand"] = -1000000,
 				["Indestructible"] = 0.01,
-				["IsWarglaive"] = -1000000,
+				["MinDamage"] = 10.89,
 				["MovementSpeed"] = 0.01,
 				["HasteRating"] = 1.4,
 				["MasteryRating"] = 1.2,
-				["Armor"] = 0.9,
+				["IsCrossbow"] = -1000000,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
 				["MaxDamage"] = 10.89,
+				["Leech"] = 1,
 				["IsBow"] = -1000000,
 				["Strength"] = 1,
 				["IsWand"] = -1000000,
-				["Leech"] = 1,
+				["IsWarglaive"] = -1000000,
 				["CritRating"] = 1.1,
-				["MinDamage"] = 10.89,
-				["Avoidance"] = 1,
-				["IsCrossbow"] = -1000000,
 				["Versatility"] = 1.3,
+				["Avoidance"] = 1,
+				["Armor"] = 0.9,
 				["Stamina"] = 10.82,
 			},
 		},
@@ -284,8 +282,8 @@ PawnCommon = {
 				["IsStaff"] = -1000000,
 				["Agility"] = 3.05,
 				["HasteRating"] = 3.13,
-				["MasteryRating"] = 3.31,
-				["Versatility"] = 4.53,
+				["OffHandDps"] = 2.66,
+				["IsCrossbow"] = -1000000,
 				["IsPolearm"] = -1000000,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
@@ -293,9 +291,9 @@ PawnCommon = {
 				["Dps"] = 14.7,
 				["IsMail"] = -1000000,
 				["IsPlate"] = -1000000,
-				["OffHandDps"] = 2.66,
+				["MasteryRating"] = 3.31,
 				["Is2HSword"] = -1000000,
-				["IsCrossbow"] = -1000000,
+				["Versatility"] = 4.53,
 				["IsShield"] = -1000000,
 				["IsBow"] = -1000000,
 			},
@@ -429,21 +427,6 @@ PawnCommon = {
 			["UnenchantedColor"] = "6566b2",
 			["SpecID"] = 2,
 		},
-		["\"MrRobot\":SHAMAN3"] = {
-			["IconTexturePath"] = 136052,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "0070de",
-			["LocalizedName"] = "Шаман: Исцеление",
-			["ClassID"] = 7,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "HEALER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "0054a6",
-			["SpecID"] = 3,
-		},
 		["\"MrRobot\":DEMONHUNTER2"] = {
 			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
@@ -459,25 +442,34 @@ PawnCommon = {
 			["UnenchantedColor"] = "7a2496",
 			["SpecID"] = 2,
 		},
-		["\"MrRobot\":PALADIN2"] = {
-			["IconTexturePath"] = 236264,
+		["\"MrRobot\":SHAMAN3"] = {
+			["IconTexturePath"] = 136052,
 			["PerCharacterOptions"] = {
-				["Nietta-EU Mythic Dungeons"] = {
-					["Visible"] = true,
-				},
-				["Ниэтта-Гордунни"] = {
-					["Visible"] = true,
-				},
 			},
-			["Color"] = "f58cba",
-			["LocalizedName"] = "Паладин: Защита",
-			["ClassID"] = 2,
+			["Color"] = "0070de",
+			["LocalizedName"] = "Шаман: Исцеление",
+			["ClassID"] = 7,
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
+			["Role"] = "HEALER",
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "b7698b",
+			["UnenchantedColor"] = "0054a6",
+			["SpecID"] = 3,
+		},
+		["\"MrRobot\":DRUID2"] = {
+			["IconTexturePath"] = 132115,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "ff7d0a",
+			["LocalizedName"] = "Друид: Сила зверя",
+			["ClassID"] = 11,
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "bf5d07",
 			["SpecID"] = 2,
 		},
 		["\"MrRobot\":DEATHKNIGHT1"] = {
@@ -648,31 +640,37 @@ PawnCommon = {
 			["UnenchantedColor"] = "2f95b0",
 			["SpecID"] = 1,
 		},
-		["\"MrRobot\":DRUID2"] = {
-			["IconTexturePath"] = 132115,
+		["\"MrRobot\":PALADIN2"] = {
+			["IconTexturePath"] = 236264,
 			["PerCharacterOptions"] = {
+				["Nietta-EU Mythic Dungeons"] = {
+					["Visible"] = true,
+				},
+				["Ниэтта-Гордунни"] = {
+					["Visible"] = true,
+				},
 			},
-			["Color"] = "ff7d0a",
-			["LocalizedName"] = "Друид: Сила зверя",
-			["ClassID"] = 11,
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
+			["Color"] = "f58cba",
+			["LocalizedName"] = "Паладин: Защита",
+			["ClassID"] = 2,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "bf5d07",
+			["UnenchantedColor"] = "b7698b",
 			["SpecID"] = 2,
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
-				["Estrea-EU Mythic Dungeons"] = {
+				["Эстрея-Борейская тундра"] = {
 					["Visible"] = true,
 				},
 				["Эстрэя-Гордунни"] = {
 					["Visible"] = true,
 				},
-				["Эстрея-Борейская тундра"] = {
+				["Estrea-EU Mythic Dungeons"] = {
 					["Visible"] = true,
 				},
 			},
@@ -733,7 +731,9 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
-	["LastVersion"] = 2.0538,
+	["ShowSocketingAdvisor"] = false,
+	["ShowSpecIcons"] = true,
+	["LastVersion"] = 2.0606,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

@@ -22,20 +22,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -64,20 +64,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -106,20 +106,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -148,20 +148,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -191,20 +191,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
+			["act"] = false,
 		},
 		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -226,30 +226,30 @@ PremadeGroupsFilterState = {
 		["dps"] = {
 			["max"] = "2",
 			["min"] = "",
-			["act"] = false,
+			["act"] = true,
 		},
 		["noilvl"] = {
 			["act"] = false,
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
-			["max"] = "0",
-			["min"] = "",
-			["act"] = true,
-		},
 		["members"] = {
-			["max"] = "3",
+			["max"] = "1",
 			["min"] = "",
 			["act"] = false,
+		},
+		["heals"] = {
+			["max"] = "0",
+			["min"] = "0",
+			["act"] = true,
 		},
 		["sorting"] = "",
 	},
@@ -275,15 +275,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -293,9 +288,13 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["heals"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["sorting"] = "",
 	},
-	["moveable"] = false,
 	["t1c9f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
@@ -318,15 +317,10 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -336,8 +330,14 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["heals"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
 		["sorting"] = "",
 	},
+	["moveable"] = false,
 	["t1c6f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
@@ -360,20 +360,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
+			["val"] = 3,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["heals"] = {
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["heals"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,

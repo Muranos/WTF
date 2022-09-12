@@ -16,19 +16,19 @@ OmniCCDB = {
 		["Алтэри - Гордунни"] = "По умолчанию",
 		["Дэлери - Борейская тундра"] = "По умолчанию",
 		["Нирейя - Борейская тундра"] = "По умолчанию",
+		["Эстрея - Борейская тундра"] = "По умолчанию",
 		["Сайбил - Борейская тундра"] = "По умолчанию",
 		["Эллиата - Гордунни"] = "По умолчанию",
-		["Эстрея - Борейская тундра"] = "По умолчанию",
 		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
-		["Эрника - Борейская тундра"] = "По умолчанию",
-		["Estrea - Alleria"] = "Default",
 		["Элави - Борейская тундра"] = "По умолчанию",
-		["Elavi - Durotan"] = "Default",
 		["Nietta - EU Mythic Dungeons"] = "Default",
-		["Delery - Durotan"] = "Standard",
-		["Flaminika - Durotan"] = "Standard",
+		["Estrea - Alleria"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Зонна - Борейская тундра"] = "По умолчанию",
+		["Flaminika - Durotan"] = "Standard",
+		["Delery - Durotan"] = "Standard",
+		["Эрника - Борейская тундра"] = "По умолчанию",
+		["Elavi - Durotan"] = "Default",
 		["Ниоши - Борейская тундра"] = "По умолчанию",
 		["Алоиза - Гордунни"] = "По умолчанию",
 		["Хилопятьумер - Гордунни"] = "По умолчанию",
@@ -102,7 +102,6 @@ OmniCCDB = {
 	},
 }
 OmniCC4Config = {
-	["version"] = "8.2.5",
 	["groupSettings"] = {
 		["base"] = {
 			["minDuration"] = 2,
@@ -128,4 +127,5 @@ OmniCC4Config = {
 	},
 	["groups"] = {
 	},
+	["version"] = "8.2.5",
 }

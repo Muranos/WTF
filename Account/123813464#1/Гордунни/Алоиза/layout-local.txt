@@ -85,9 +85,9 @@ W: 570
 H: 155
 Frame: RematchPetCard
 FrameLevel: 1
-Anchor: TOP
-X: 42
-Y: -123
+Anchor: CENTER
+X: -22
+Y: 168
 W: 260
 H: 428
 Frame: VuhDoNewOptionsTabbedFrame
@@ -104,13 +104,6 @@ X: 0
 Y: 0
 W: 300
 H: 300
-Frame: TargetFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 379
-Y: -93
-W: 232
-H: 100
 Frame: CastingBarFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -118,3 +111,10 @@ X: 8
 Y: 99
 W: 250
 H: 24
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 379
+Y: -93
+W: 232
+H: 100

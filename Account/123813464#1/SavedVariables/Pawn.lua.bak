@@ -8,11 +8,16 @@ PawnCommon = {
 	["ShowValuesForUpgradesOnly"] = true,
 	["ShowItemLevelUpgrades"] = true,
 	["ShownGettingStarted"] = true,
-	["IgnoreGemsWhileLeveling"] = true,
+	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
 	["Digits"] = 1,
 	["ShowSocketingAdvisor"] = false,
+	["ShowSpecIcons"] = true,
+	["LastVersion"] = 2.0606,
+	["ButtonPosition"] = 2,
+	["ShowLootUpgradeAdvisor"] = true,
+	["ShowQuestUpgradeAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -33,9 +38,6 @@ PawnCommon = {
 			["IconTexturePath"] = 136145,
 			["PerCharacterOptions"] = {
 				["Элави-Борейская тундра"] = {
-					["Visible"] = true,
-				},
-				["Эллиата-Гордунни"] = {
 					["Visible"] = true,
 				},
 			},
@@ -152,6 +154,9 @@ PawnCommon = {
 		["\"MrRobot\":WARLOCK3"] = {
 			["IconTexturePath"] = 136186,
 			["PerCharacterOptions"] = {
+				["Эллиата-Гордунни"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "8788ee",
 			["ClassID"] = 9,
@@ -235,23 +240,23 @@ PawnCommon = {
 			["Values"] = {
 				["IsWand"] = -1000000,
 				["Indestructible"] = 0.01,
-				["Leech"] = 1,
+				["IsWarglaive"] = -1000000,
 				["CritRating"] = 1.1,
 				["HasteRating"] = 1.4,
 				["MasteryRating"] = 1.2,
-				["Versatility"] = 1.3,
+				["Armor"] = 0.9,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
 				["MaxDamage"] = 10.89,
+				["MinDamage"] = 10.89,
 				["IsBow"] = -1000000,
 				["Strength"] = 1,
 				["IsOffHand"] = -1000000,
-				["IsWarglaive"] = -1000000,
+				["Leech"] = 1,
 				["MovementSpeed"] = 0.01,
-				["Armor"] = 0.9,
-				["Avoidance"] = 1,
 				["IsCrossbow"] = -1000000,
-				["MinDamage"] = 10.89,
+				["Avoidance"] = 1,
+				["Versatility"] = 1.3,
 				["Stamina"] = 10.82,
 			},
 			["Color"] = "c79c6e",
@@ -274,8 +279,8 @@ PawnCommon = {
 				["IsStaff"] = -1000000,
 				["Agility"] = 3.05,
 				["HasteRating"] = 3.13,
-				["MasteryRating"] = 3.31,
-				["IsCrossbow"] = -1000000,
+				["OffHandDps"] = 2.66,
+				["Versatility"] = 4.53,
 				["IsPolearm"] = -1000000,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
@@ -283,9 +288,9 @@ PawnCommon = {
 				["Dps"] = 14.7,
 				["IsMail"] = -1000000,
 				["IsPlate"] = -1000000,
-				["Versatility"] = 4.53,
+				["IsCrossbow"] = -1000000,
 				["Is2HSword"] = -1000000,
-				["OffHandDps"] = 2.66,
+				["MasteryRating"] = 3.31,
 				["IsShield"] = -1000000,
 				["IsBow"] = -1000000,
 			},
@@ -426,6 +431,36 @@ PawnCommon = {
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "6566b2",
 		},
+		["\"MrRobot\":DRUID2"] = {
+			["IconTexturePath"] = 132115,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "ff7d0a",
+			["ClassID"] = 11,
+			["LocalizedName"] = "Друид: Сила зверя",
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 2,
+			["UnenchantedColor"] = "bf5d07",
+		},
+		["\"MrRobot\":SHAMAN3"] = {
+			["IconTexturePath"] = 136052,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "0070de",
+			["ClassID"] = 7,
+			["LocalizedName"] = "Шаман: Исцеление",
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "HEALER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 3,
+			["UnenchantedColor"] = "0054a6",
+		},
 		["\"MrRobot\":PALADIN2"] = {
 			["IconTexturePath"] = 236264,
 			["PerCharacterOptions"] = {
@@ -446,36 +481,6 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "b7698b",
-		},
-		["\"MrRobot\":DEMONHUNTER2"] = {
-			["IconTexturePath"] = 1247265,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "a330c9",
-			["ClassID"] = 12,
-			["LocalizedName"] = "Охотник на демонов: Месть",
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 2,
-			["UnenchantedColor"] = "7a2496",
-		},
-		["\"MrRobot\":DRUID2"] = {
-			["IconTexturePath"] = 132115,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "ff7d0a",
-			["ClassID"] = 11,
-			["LocalizedName"] = "Друид: Сила зверя",
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 2,
-			["UnenchantedColor"] = "bf5d07",
 		},
 		["\"MrRobot\":MAGE1"] = {
 			["IconTexturePath"] = 135932,
@@ -519,10 +524,10 @@ PawnCommon = {
 				["Altery-Bronzebeard"] = {
 					["Visible"] = true,
 				},
-				["Flaminika-Durotan"] = {
+				["Elavi-Durotan"] = {
 					["Visible"] = true,
 				},
-				["Elavi-Durotan"] = {
+				["Flaminika-Durotan"] = {
 					["Visible"] = true,
 				},
 				["Алтери-Борейская тундра"] = {
@@ -645,31 +650,31 @@ PawnCommon = {
 			["SpecID"] = 1,
 			["UnenchantedColor"] = "bf3950",
 		},
-		["\"MrRobot\":SHAMAN3"] = {
-			["IconTexturePath"] = 136052,
+		["\"MrRobot\":DEMONHUNTER2"] = {
+			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "0070de",
-			["ClassID"] = 7,
-			["LocalizedName"] = "Шаман: Исцеление",
+			["Color"] = "a330c9",
+			["ClassID"] = 12,
+			["LocalizedName"] = "Охотник на демонов: Месть",
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "HEALER",
-			["DoNotShow2HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["SpecID"] = 3,
-			["UnenchantedColor"] = "0054a6",
+			["SpecID"] = 2,
+			["UnenchantedColor"] = "7a2496",
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
-				["Estrea-EU Mythic Dungeons"] = {
+				["Эстрея-Борейская тундра"] = {
 					["Visible"] = true,
 				},
 				["Эстрэя-Гордунни"] = {
 					["Visible"] = true,
 				},
-				["Эстрея-Борейская тундра"] = {
+				["Estrea-EU Mythic Dungeons"] = {
 					["Visible"] = true,
 				},
 			},
@@ -733,10 +738,5 @@ PawnCommon = {
 			["UnenchantedColor"] = "00bf70",
 		},
 	},
-	["LastVersion"] = 2.0538,
-	["ButtonPosition"] = 2,
-	["ShowLootUpgradeAdvisor"] = true,
-	["ShowQuestUpgradeAdvisor"] = true,
-	["ShowSpecIcons"] = true,
-	["Debug"] = false,
+	["IgnoreGemsWhileLeveling"] = true,
 }
