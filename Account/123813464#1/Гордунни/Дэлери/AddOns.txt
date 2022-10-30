@@ -3,7 +3,7 @@ FriendGroups: disabled
 AllTheThings: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
-MoveAnything: enabled
+MoveAnything: disabled
 Quartz: disabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
@@ -22,10 +22,10 @@ RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
 Simulationcraft: enabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: enabled
 Scrap: enabled
 RaiderIO_DB_US_H_R: disabled
@@ -106,3 +106,5 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled
+NOP: disabled

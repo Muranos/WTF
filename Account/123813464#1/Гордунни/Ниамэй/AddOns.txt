@@ -6,7 +6,7 @@ WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 BigWigs_Azeroth: enabled
 LittleWigs: enabled
-MoveAnything: enabled
+MoveAnything: disabled
 BigWigs_Nyalotha: enabled
 Quartz: disabled
 BigWigs_Legion: enabled
@@ -19,10 +19,10 @@ RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
 Simulationcraft: disabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: enabled
 Scrap: enabled
 Castbars: enabled
@@ -90,3 +90,5 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled
+NOP: disabled

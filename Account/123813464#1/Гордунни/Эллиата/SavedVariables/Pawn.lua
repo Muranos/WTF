@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0602,
+	["LastVersion"] = 2.0702,
 	["LastPlayerFullName"] = "Эллиата-Гордунни",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

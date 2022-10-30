@@ -3,20 +3,20 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "9.2.7",
-	["_OPieVersion"] = "Xe 8 (3.107)",
+	["_GameVersion"] = "10.0.0",
+	["_OPieVersion"] = "Xe 9 (3.109)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["OPieTracking"] = false,
-				["Teleports"] = "F8",
 				["OPieAutoQuest"] = false,
+				["Teleports"] = "F8",
+				["SpecMenu"] = "F5",
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["SpecMenu"] = "F5",
+				["OPieTracking"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -70,16 +70,16 @@ OneRing_Config = {
 					["id"] = 354468,
 				}, -- [4]
 				{
-					["sliceToken"] = "ABuec0ax6EM",
 					["id"] = 367416,
+					["sliceToken"] = "ABuec0ax6EM",
 				}, -- [5]
 				{
-					["sliceToken"] = "ABuec0ax6EN",
 					["id"] = 373274,
+					["sliceToken"] = "ABuec0ax6EN",
 				}, -- [6]
 				{
-					["sliceToken"] = "ABuec0ax6EB",
 					["id"] = 159900,
+					["sliceToken"] = "ABuec0ax6EB",
 				}, -- [7]
 				{
 					["sliceToken"] = "ABuec0ax6E/",
@@ -98,12 +98,12 @@ OneRing_Config = {
 					["id"] = 354469,
 				}, -- [11]
 				{
-					["sliceToken"] = "ABuecJ1BA5r",
 					["id"] = 373262,
+					["sliceToken"] = "ABuecJ1BA5r",
 				}, -- [12]
 				{
-					["sliceToken"] = "ABuec=I23ee",
 					["id"] = 159896,
+					["sliceToken"] = "ABuec=I23ee",
 				}, -- [13]
 				["name"] = "Teleports",
 				["save"] = true,
@@ -121,8 +121,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [2]
 				{
-					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 					["sliceToken"] = "OPCTAc",
+					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 				}, -- [3]
 				{
 					"item", -- [1]

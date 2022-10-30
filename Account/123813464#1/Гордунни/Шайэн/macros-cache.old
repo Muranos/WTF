@@ -24,14 +24,14 @@ VER 3 0100000000000005 "Riptide" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
 #showtooltip Щит молний
-/castsequence reset=5 Щит молний, Оружие языка пламени
+/castsequence reset=5 Щит молний, Масло теневого ядра
 END
 VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
 #showtooltip 
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Исцеляющий всплеск
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
 N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Шай[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]

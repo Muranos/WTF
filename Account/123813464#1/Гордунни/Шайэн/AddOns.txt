@@ -37,3 +37,10 @@ RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
 LittleWigs_WarlordsOfDraenor: enabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
+TipTacOptions: disabled
+CovenantMissionHelper: disabled
+MoveAnything: disabled
+NOP: disabled

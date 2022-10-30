@@ -1,23 +1,38 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
 	["disableScoreColors"] = false,
 	["showDropDownCopyURL"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Алтэри-gordunni"
+RaiderIO_LastCharacter = "eu-Эстрэя-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Ухачка-gordunni"] = true,
+	["eu-Фанфея-gordunni"] = true,
+	["eu-Санвелия-gordunni"] = true,
+	["eu-Эрдвадедва-gordunni"] = true,
+	["eu-Гачилоррд-gordunni"] = true,
+	["eu-Сойжаккукож-gordunni"] = true,
+	["eu-Эндресс-gordunni"] = true,
+	["eu-Мельхет-gordunni"] = true,
+	["eu-Эстрэя-gordunni"] = true,
+	["eu-Истопница-gordunni"] = true,
+	["eu-Сардринг-soulflayer"] = true,
+	["eu-Дайкин-gordunni"] = true,
+	["eu-Визардшоу-gordunni"] = true,
+	["eu-Хээлка-gordunni"] = true,
+	["eu-Талагриль-gordunni"] = true,
+	["eu-Дейлер-gordunni"] = true,
+	["eu-Халькар-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

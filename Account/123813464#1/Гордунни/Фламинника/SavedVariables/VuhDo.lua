@@ -3674,7 +3674,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["POSITION"] = {
 			["y"] = 224.5922546386719,
-			["x"] = 471.207275390625,
+			["x"] = 471.2073059082031,
 			["orientation"] = "TOPLEFT",
 			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
@@ -3691,7 +3691,6 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
-			["ordering"] = 0,
 			["groups"] = {
 				1, -- [1]
 				2, -- [2]
@@ -3703,6 +3702,7 @@ VUHDO_PANEL_SETUP = {
 				8, -- [8]
 			},
 			["sort"] = 5,
+			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -5435,18 +5435,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT1"] = {
 			["TG"] = 0.6,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 1,
-			["B"] = 0.3,
 			["TB"] = 0.6,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 1,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 0.3,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 0.3,
 		},
 		["useDebuffIconBossOnly"] = false,
 		["DIRECTION"] = {
@@ -5601,18 +5601,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT9"] = {
 			["TG"] = 1,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 0.3,
-			["B"] = 1,
 			["TB"] = 1,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 0.6,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 1,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 1,
 		},
 		["TAPPED"] = {
 			["TG"] = 0.4,
@@ -5767,18 +5767,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT4"] = {
 			["TG"] = 0.6,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 0.3,
-			["B"] = 1,
 			["TB"] = 1,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 0.6,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 0.3,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 1,
 		},
 		["TARGET_NEUTRAL"] = {
 			["TG"] = 1,
@@ -5877,18 +5877,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT2"] = {
 			["TG"] = 1,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 1,
-			["B"] = 0.3,
 			["TB"] = 0.6,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 1,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 1,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 0.3,
 		},
 		["DEAD"] = {
 			["TG"] = 0.5,
@@ -5977,18 +5977,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT5"] = {
 			["TG"] = 0.6,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 1,
-			["B"] = 1,
 			["TB"] = 1,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 1,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 0.3,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 1,
 		},
 		["HOT8"] = {
 			["useBackground"] = true,
@@ -6000,18 +6000,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT10"] = {
 			["TG"] = 1,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 0.3,
-			["B"] = 0.3,
 			["TB"] = 0.3,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 0.6,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 1,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 0.3,
 		},
 		["THREAT"] = {
 			["LOW"] = {
@@ -6045,18 +6045,18 @@ VUHDO_PANEL_SETUP = {
 		["HOT3"] = {
 			["TG"] = 1,
 			["countdownMode"] = 1,
+			["useBackground"] = true,
 			["R"] = 1,
-			["B"] = 1,
 			["TB"] = 1,
 			["useText"] = true,
-			["isFullDuration"] = false,
-			["useBackground"] = true,
 			["TR"] = 1,
+			["useOpacity"] = false,
+			["isFullDuration"] = false,
 			["TO"] = 1,
 			["isClock"] = false,
 			["G"] = 1,
 			["O"] = 1,
-			["useOpacity"] = false,
+			["B"] = 1,
 		},
 		["CHARMED"] = {
 			["TG"] = 0.31,
@@ -6460,9 +6460,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -6470,9 +6470,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -6525,9 +6525,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -6554,9 +6554,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -6564,9 +6564,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -6619,9 +6619,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w9", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 	},
@@ -6662,42 +6662,6 @@ VUHDO_SPEC_LAYOUTS = {
 }
 VUHDO_GROUP_SIZE = 1
 VUHDO_RAID = {
-	["player"] = {
-		["zone"] = "Бастион",
-		["baseRange"] = true,
-		["class"] = "WARRIOR",
-		["role"] = 61,
-		["sortMaxHp"] = 56160,
-		["map"] = "Элизийская цитадель",
-		["threat"] = 0,
-		["powermax"] = 100,
-		["threatPerc"] = 0,
-		["isPet"] = false,
-		["name"] = "Фламинника",
-		["number"] = 1,
-		["isVehicle"] = false,
-		["group"] = 1,
-		["classId"] = 20,
-		["range"] = true,
-		["unit"] = "player",
-		["powertype"] = 1,
-		["healthmax"] = 56160,
-		["lifeLossPerc"] = 1.00771577247443,
-		["dead"] = false,
-		["charmed"] = false,
-		["fullName"] = "Фламинника",
-		["power"] = 0,
-		["aggro"] = false,
-		["targetUnit"] = "target",
-		["visible"] = true,
-		["isAltPower"] = false,
-		["health"] = 56160,
-		["className"] = "Воин",
-		["afk"] = false,
-		["debuff"] = 0,
-		["connected"] = true,
-		["petUnit"] = "pet",
-	},
 }
 VUHDO_INDICATOR_CONFIG = {
 	["BOUQUETS"] = {
@@ -6710,9 +6674,9 @@ VUHDO_INDICATOR_CONFIG = {
 		["INCOMING_BAR"] = "",
 		["DAMAGE_FLASH_BAR"] = "",
 		["THREAT_MARK"] = "",
-		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Полоса маны: Мана",
 		["BAR_BORDER"] = "Границы: Комплексная + угроза",
+		["SIDE_RIGHT"] = "",
 		["HEALTH_BAR"] = "Здоровье (цвет класса)",
 		["CLUSTER_BORDER"] = "Границы: Комплексная + угроза",
 		["HEALTH_BAR_PANEL"] = {

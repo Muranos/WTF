@@ -9,7 +9,7 @@ END
 VER 3 0100000000000008 "Covenant" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Оружие ордена
-/cast Скульптор плоти
+/cast Отвар из костяной пыли
 /cast Волшебная линия
 /cast Павший орден
 END

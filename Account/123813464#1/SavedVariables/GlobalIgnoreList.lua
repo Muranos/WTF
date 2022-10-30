@@ -323,6 +323,10 @@ GlobalIgnoreDB = {
 		0, -- [287]
 		0, -- [288]
 		0, -- [289]
+		0, -- [290]
+		0, -- [291]
+		0, -- [292]
+		0, -- [293]
 	},
 	["defexpire"] = 0,
 	["filterDesc"] = {
@@ -642,6 +646,10 @@ GlobalIgnoreDB = {
 		"player", -- [287]
 		"player", -- [288]
 		"player", -- [289]
+		"player", -- [290]
+		"player", -- [291]
+		"player", -- [292]
+		"player", -- [293]
 	},
 	["invertSpam"] = false,
 	["ignoreList"] = {
@@ -934,6 +942,10 @@ GlobalIgnoreDB = {
 		"Степкадх-Гордунни", -- [287]
 		"Стоим-Ревущийфьорд", -- [288]
 		"Варионика-Гордунни", -- [289]
+		"Каг-Гордунни", -- [290]
+		"Некронасс-Гордунни", -- [291]
+		"Хронсыч-Гордунни", -- [292]
+		"Эслейлис-Гордунни", -- [293]
 	},
 	["autoTime"] = 600,
 	["autoIgnore"] = true,
@@ -1227,6 +1239,10 @@ GlobalIgnoreDB = {
 		"Alliance", -- [287]
 		"Alliance", -- [288]
 		"Alliance", -- [289]
+		"Alliance", -- [290]
+		"Alliance", -- [291]
+		"Alliance", -- [292]
+		"Alliance", -- [293]
 	},
 	["delList"] = {
 		"Шэларди-Гордунни", -- [1]
@@ -1620,6 +1636,10 @@ GlobalIgnoreDB = {
 		"", -- [287]
 		"", -- [288]
 		"", -- [289]
+		"", -- [290]
+		"", -- [291]
+		"", -- [292]
+		"", -- [293]
 	},
 	["skipParty"] = false,
 	["chatmsg"] = true,
@@ -1914,11 +1934,13 @@ GlobalIgnoreDB = {
 		"29 Jun 2022", -- [287]
 		"31 Jul 2022", -- [288]
 		"31 Jul 2022", -- [289]
+		"10 Oct 2022", -- [290]
+		"11 Oct 2022", -- [291]
+		"12 Oct 2022", -- [292]
+		"17 Oct 2022", -- [293]
 	},
-	["spamFilter"] = true,
+	["showIgnoreDebug"] = false,
 	["showWarning"] = true,
-	["skipGuild"] = true,
-	["trackChanges"] = true,
 	["syncInfo"] = {
 		{
 		}, -- [1]
@@ -2501,7 +2523,17 @@ GlobalIgnoreDB = {
 		}, -- [288]
 		{
 		}, -- [289]
+		{
+		}, -- [290]
+		{
+		}, -- [291]
+		{
+		}, -- [292]
+		{
+		}, -- [293]
 	},
+	["trackChanges"] = true,
+	["skipGuild"] = true,
 	["samefaction"] = true,
-	["showIgnoreDebug"] = false,
+	["spamFilter"] = true,
 }

@@ -52,7 +52,7 @@ InsanityBar: disabled
 LibSharedMedia-3.0: enabled
 MasterPlan: enabled
 MasterPlanA: enabled
-MoveAnything: enabled
+MoveAnything: disabled
 NPCScan: enabled
 OmniCC: enabled
 OmniCC_Config: enabled
@@ -76,10 +76,10 @@ TidyPlates_Graphite: enabled
 TidyPlates_Grey: enabled
 TidyPlates_Neon: enabled
 TidyPlates_Quatre: enabled
-TipTac: enabled
-TipTacItemRef: enabled
-TipTacOptions: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacOptions: disabled
+TipTacTalents: disabled
 TitanBag: enabled
 TitanClock: enabled
 TitanGold: enabled
@@ -258,3 +258,5 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled
+NOP: disabled

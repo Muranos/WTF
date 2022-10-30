@@ -1,14 +1,29 @@
 
 NewOpenablesProfile = {
 	["char"] = {
+		["Шайэн - Гордунни"] = {
+			["itemID"] = 188657,
+		},
+		["Дэлери - Гордунни"] = {
+			["itemID"] = 188655,
+		},
+		["Фламинника - Гордунни"] = {
+			["itemID"] = 188653,
+		},
 		["Estrea - Alleria"] = {
 			["itemID"] = 179982,
 		},
 		["Altery - Durotan"] = {
 			["itemID"] = 186737,
 		},
+		["Эстрэя - Гордунни"] = {
+			["itemID"] = 178040,
+		},
 		["Эрника - Борейская тундра"] = {
 			["itemID"] = 172014,
+		},
+		["Алтэри - Гордунни"] = {
+			["itemID"] = 188656,
 		},
 		["Алоиза - Борейская тундра"] = {
 			["itemID"] = 174122,
@@ -22,9 +37,18 @@ NewOpenablesProfile = {
 		["Дэлери - Борейская тундра"] = {
 			["itemID"] = 181475,
 		},
+		["Ниамэй - Гордунни"] = {
+			["itemID"] = 188656,
+		},
+		["Алоиза - Гордунни"] = {
+			["itemID"] = 188657,
+		},
 		["Сайбил - Борейская тундра"] = {
 			["itemID"] = 163476,
 		},
+	},
+	["global"] = {
+		["version"] = "|cFFFFFFFF09.16 16.12.2018 use |cFFFF00FF/nop|cFFFFFFFF",
 	},
 	["profileKeys"] = {
 		["Ниамэй - Гордунни"] = "Default",
@@ -37,35 +61,24 @@ NewOpenablesProfile = {
 		["Дэлери - Борейская тундра"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Эллиата - Гордунни"] = "Default",
-		["Estrea - EU Mythic Dungeons"] = "Default",
+		["Шайэн - Гордунни"] = "Default",
 		["Estrea - Alleria"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
-		["Зонна - Борейская тундра"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Элави - Борейская тундра"] = "Default",
-		["Эстрея - Борейская тундра"] = "Default",
+		["Flaminika - Durotan"] = "Default",
 		["Алтэри - Гордунни"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
 		["Алоиза - Гордунни"] = "Default",
-		["Flaminika - Durotan"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Шайэн - Гордунни"] = "Default",
+		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
-	},
-	["global"] = {
-		["version"] = "|cFFFFFFFF09.16 16.12.2018 use |cFFFF00FF/nop|cFFFFFFFF",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["autoquest"] = true,
-			["Skip"] = true,
-			["button"] = {
-				nil, -- [1]
-				"UIParent", -- [2]
-				nil, -- [3]
-				420, -- [4]
-				-449.9999084472656, -- [5]
-			},
 			["T_BLACKLIST"] = {
 				[0] = true,
 				[168652] = true,
@@ -79,46 +92,54 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[174458] = true,
 				[133579] = true,
-				[142117] = true,
-				[173726] = true,
-				[163222] = true,
-				[153960] = true,
-				[183823] = true,
 				[168529] = true,
+				[173726] = true,
+				[89112] = true,
+				[153960] = true,
+				[171286] = true,
+				[177223] = true,
 				[174459] = true,
 				[17308] = true,
-				[89112] = true,
+				[176869] = true,
 				[152496] = true,
 				[169451] = true,
-				[171286] = true,
+				[142117] = true,
 				[178742] = true,
 				[180111] = true,
 				[174460] = true,
 				[110560] = true,
 				[179390] = true,
 				[152497] = true,
-				[152638] = true,
-				[181468] = true,
+				[180451] = true,
+				[173096] = true,
 				[181186] = true,
 				[164938] = true,
-				[173202] = true,
+				[174462] = true,
 				[173398] = true,
-				[179314] = true,
-				[174891] = true,
+				[182467] = true,
+				[177758] = true,
 				[173422] = true,
 				[172233] = true,
-				[177758] = true,
-				[182467] = true,
-				[174462] = true,
+				[174891] = true,
+				[179314] = true,
+				[173202] = true,
 				[178754] = true,
-				[173096] = true,
-				[180451] = true,
+				[181468] = true,
+				[152638] = true,
 				[127835] = true,
 				[127839] = true,
 				[168651] = true,
-				[176869] = true,
-				[177223] = true,
+				[183823] = true,
+				[163222] = true,
 			},
+			["button"] = {
+				nil, -- [1]
+				"UIParent", -- [2]
+				nil, -- [3]
+				420, -- [4]
+				-449.9999084472656, -- [5]
+			},
+			["Skip"] = true,
 			["qb"] = {
 				"TOPLEFT", -- [1]
 				"NOP_BUTTON", -- [2]

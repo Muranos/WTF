@@ -3,7 +3,7 @@ FriendGroups: disabled
 AllTheThings: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
-MoveAnything: enabled
+MoveAnything: disabled
 Quartz: disabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
@@ -14,10 +14,10 @@ RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
 Simulationcraft: disabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: disabled
 Scrap: enabled
 Castbars: disabled
@@ -42,3 +42,5 @@ DBM-Core: disabled
 DBM-GUI: enabled
 DBM-StatusBarTimers: enabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled
+NOP: disabled

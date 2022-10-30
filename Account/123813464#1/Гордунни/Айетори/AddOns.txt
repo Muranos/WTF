@@ -24,3 +24,10 @@ DBM-Core: disabled
 DBM-GUI: enabled
 DBM-StatusBarTimers: enabled
 DominationSocketHelper: disabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
+TipTacOptions: disabled
+CovenantMissionHelper: disabled
+MoveAnything: disabled
+NOP: disabled

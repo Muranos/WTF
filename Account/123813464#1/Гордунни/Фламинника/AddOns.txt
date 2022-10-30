@@ -12,7 +12,7 @@ WeakAurasArchive: enabled
 BigWigs_EternalPalace: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
-MoveAnything: enabled
+MoveAnything: disabled
 Quartz: disabled
 BigWigs_Legion: enabled
 Handynotes_Pandaria: disabled
@@ -35,10 +35,10 @@ RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
 Simulationcraft: disabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: enabled
 TellMeWhen: enabled
 Scrap: enabled
@@ -48,7 +48,7 @@ Castbars: enabled
 GlobalIgnoreList: enabled
 ExRT: enabled
 OPie: enabled
-NOP: enabled
+NOP: disabled
 PremadeGroupsFilter: enabled
 TidyPlates_ThreatPlates: enabled
 ZenTracker: enabled
@@ -106,3 +106,4 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled

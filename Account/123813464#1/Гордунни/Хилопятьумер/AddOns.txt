@@ -14,10 +14,10 @@ RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
 Simulationcraft: disabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: disabled
 Scrap: enabled
 Castbars: disabled
@@ -44,3 +44,6 @@ DBM-Core: disabled
 DBM-GUI: enabled
 DBM-StatusBarTimers: enabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled
+MoveAnything: disabled
+NOP: disabled

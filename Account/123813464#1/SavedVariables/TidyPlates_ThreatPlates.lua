@@ -2,22 +2,22 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["Вейлзевулла - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["Алтери - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Фламинника - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
-			["welcome"] = true,
 		},
 		["Шайэн - Гордунни"] = {
 			["welcome"] = true,
@@ -26,10 +26,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["Altery - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Эстрэя - Гордунни"] = {
 			["spec"] = {
@@ -41,16 +41,16 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Altery - Bronzebeard"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Алоиза - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Алтэри - Гордунни"] = {
 			["welcome"] = true,
@@ -60,26 +60,26 @@ ThreatPlatesDB = {
 			},
 		},
 		["Нирейя - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
 		},
 		["Тиаз - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Дэлери - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["Ниамэй - Гордунни"] = {
 			["welcome"] = true,
@@ -88,118 +88,72 @@ ThreatPlatesDB = {
 				[3] = false,
 			},
 		},
-		["Эстрея - Борейская тундра"] = {
-			["spec"] = {
-				nil, -- [1]
-				nil, -- [2]
-				true, -- [3]
-				false, -- [4]
-			},
-			["welcome"] = true,
-		},
 		["Сайбил - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Эллиата - Гордунни"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Flaminika - Silvermoon"] = {
-			["spec"] = {
-				[3] = true,
-			},
-			["welcome"] = true,
-		},
-		["Flaminika - Durotan"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Элави - Борейская тундра"] = {
 			["spec"] = {
 				[3] = false,
 			},
 			["welcome"] = true,
 		},
-		["Estrea - EU Mythic Dungeons"] = {
+		["Эстрея - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
-		["Nietta - EU Mythic Dungeons"] = {
+		["Estrea - EU Mythic Dungeons"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
-				true, -- [2]
-				false, -- [3]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Elavi - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-		},
-		["Эрника - Борейская тундра"] = {
 			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
 		},
 		["Delery - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
-			},
-		},
-		["Зонна - Борейская тундра"] = {
-			["spec"] = {
-				[3] = false,
 			},
 			["welcome"] = true,
 		},
 		["Estrea - Alleria"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
 		},
-		["Ниоши - Борейская тундра"] = {
+		["Эрника - Борейская тундра"] = {
 			["spec"] = {
 				[3] = false,
 			},
 			["welcome"] = true,
 		},
-		["Алоиза - Гордунни"] = {
+		["Зонна - Борейская тундра"] = {
 			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
 		},
-		["Хилопятьумер - Гордунни"] = {
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-				false, -- [3]
-			},
-			["welcome"] = true,
-		},
-		["Ниэтта - Гордунни"] = {
+		["Nietta - EU Mythic Dungeons"] = {
 			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
@@ -207,11 +161,57 @@ ThreatPlatesDB = {
 				false, -- [3]
 			},
 		},
-		["Фламиника - Борейская тундра"] = {
+		["Элави - Борейская тундра"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Flaminika - Durotan"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Flaminika - Silvermoon"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+		},
+		["Ниоши - Борейская тундра"] = {
 			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Алоиза - Гордунни"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Хилопятьумер - Гордунни"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+		},
+		["Ниэтта - Гордунни"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["Фламиника - Борейская тундра"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = true,
+			},
 		},
 		["Дэлери - Гордунни"] = {
 			["welcome"] = true,
@@ -223,7 +223,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "10.5.2",
+		["version"] = "11.0.3",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -243,19 +243,19 @@ ThreatPlatesDB = {
 		["Тиаз - Борейская тундра"] = "Default",
 		["Дэлери - Борейская тундра"] = "Default",
 		["Ниамэй - Гордунни"] = "Default",
-		["Эстрея - Борейская тундра"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Эллиата - Гордунни"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
-		["Flaminika - Durotan"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Elavi - Durotan"] = "Default",
-		["Эрника - Борейская тундра"] = "Default",
 		["Delery - Durotan"] = "Default",
-		["Зонна - Борейская тундра"] = "Default",
 		["Estrea - Alleria"] = "Default",
+		["Эрника - Борейская тундра"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
+		["Flaminika - Durotan"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
 		["Алоиза - Гордунни"] = "Default",
 		["Хилопятьумер - Гордунни"] = "Default",
@@ -279,13 +279,13 @@ ThreatPlatesDB = {
 				["b"] = 0.9725490196078431,
 			},
 			["BossModsWidget"] = {
-				["ShowInHeadlineView"] = false,
 				["ON"] = false,
+				["ShowInHeadlineView"] = false,
 			},
 			["aHPbarColor"] = {
-				["b"] = 0.6549019607843137,
-				["g"] = 0.6431372549019607,
 				["r"] = 0.6549019607843137,
+				["g"] = 0.6431372549019607,
+				["b"] = 0.6549019607843137,
 			},
 			["AuraWidget"] = {
 				["Debuffs"] = {

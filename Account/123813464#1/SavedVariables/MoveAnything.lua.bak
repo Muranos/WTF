@@ -27,13 +27,6 @@ MADB = {
 					},
 				},
 				["PlayerStatusTexture"] = {
-					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						nil, -- [2]
-						"TOPLEFT", -- [3]
-						35, -- [4]
-						-7.999999523162842, -- [5]
-					},
 					["name"] = "PlayerStatusTexture",
 					["pos"] = {
 						"TOPLEFT", -- [1]
@@ -62,11 +55,11 @@ MADB = {
 				},
 				["TalkingHeadFrame"] = {
 					["orgPos"] = {
-						"BOTTOM", -- [1]
+						"TOP", -- [1]
 						"UIParent", -- [2]
-						"BOTTOM", -- [3]
+						"TOP", -- [3]
 						0, -- [4]
-						120, -- [5]
+						-135, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["pos"] = {
@@ -78,13 +71,6 @@ MADB = {
 					},
 				},
 				["PlayerStatusGlow"] = {
-					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						"PlayerRestIcon", -- [2]
-						"TOPLEFT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
 					["name"] = "PlayerStatusGlow",
 					["pos"] = {
 						"TOPLEFT", -- [1]
@@ -100,7 +86,7 @@ MADB = {
 						"OverrideActionBarBG", -- [2]
 						"TOP", -- [3]
 						0, -- [4]
-						26.99999809265137, -- [5]
+						27, -- [5]
 					},
 					["name"] = "OverrideActionBarExpBar",
 					["pos"] = {
@@ -112,13 +98,6 @@ MADB = {
 					},
 				},
 				["CastingBarFrame"] = {
-					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						7.999993801116943, -- [4]
-						98.99994659423828, -- [5]
-					},
 					["name"] = "CastingBarFrame",
 					["pos"] = {
 						"BOTTOM", -- [1]
@@ -131,8 +110,8 @@ MADB = {
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
 }

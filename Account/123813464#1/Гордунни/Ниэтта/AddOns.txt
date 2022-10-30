@@ -29,11 +29,11 @@ AllTheThings: enabled
 RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
-Simulationcraft: enabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+Simulationcraft: disabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: enabled
 FriendGroups: disabled
 Scrap: enabled
@@ -97,3 +97,10 @@ LittleWigs_BattleForAzeroth: enabled
 LittleWigs_WarlordsOfDraenor: enabled
 Titan: enabled
 DominationSocketHelper: disabled
+CovenantMissionHelper: disabled
+CrystalSockets: disabled
+MoveAnything: disabled
+TitanBag: enabled
+TitanLootType: disabled
+TitanPerformance: disabled
+NOP: disabled

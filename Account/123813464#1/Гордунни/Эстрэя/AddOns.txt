@@ -11,7 +11,7 @@ WeakAurasArchive: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
 BigWigs_Nyalotha: enabled
-MoveAnything: enabled
+MoveAnything: disabled
 Quartz: disabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
@@ -22,10 +22,10 @@ RaiderIO: enabled
 Rarity: enabled
 SavedInstances: enabled
 Simulationcraft: enabled
-TipTac: enabled
-TipTacOptions: enabled
-TipTacItemRef: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacOptions: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
 Details: enabled
 Scrap: enabled
 Castbars: enabled
@@ -95,3 +95,9 @@ RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_WarlordsOfDraenor: enabled
+CovenantMissionHelper: disabled
+NOP: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled

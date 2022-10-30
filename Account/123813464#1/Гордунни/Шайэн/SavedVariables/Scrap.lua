@@ -3,7 +3,8 @@ Scrap_CharSets = {
 	["auto"] = {
 	},
 	["list"] = {
-		[182729] = true,
+		[190189] = true,
 		[190853] = true,
+		[182729] = true,
 	},
 }
