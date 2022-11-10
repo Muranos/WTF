@@ -1,11 +1,11 @@
 
 PremadeGroupsFilterSettings = {
 	["leaderCrown"] = false,
-	["dialogMovable"] = true,
+	["coloredGroupTexts"] = true,
 	["classCircle"] = true,
 	["classBar"] = false,
 	["ratingInfo"] = true,
 	["classNamesInTooltip"] = true,
 	["version"] = 1,
-	["coloredGroupTexts"] = true,
+	["dialogMovable"] = true,
 }

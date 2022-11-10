@@ -1,22 +1,23 @@
 
-OneRing_Config = {
+OneRing_Config = nil
+OPie_SavedData = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
 	["_GameVersion"] = "10.0.0",
-	["_OPieVersion"] = "Xe 9 (3.109)",
+	["_OPieVersion"] = "Yuzu 1 (4.110)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["OPieAutoQuest"] = false,
-				["Teleports"] = "F8",
 				["SpecMenu"] = "F5",
+				["Teleports"] = "F8",
+				["OPieTracking"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieTracking"] = false,
+				["OPieAutoQuest"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -54,20 +55,20 @@ OneRing_Config = {
 			},
 			["Teleports"] = {
 				{
-					["sliceToken"] = "ABuec0ax6Ewr",
 					["id"] = 354462,
+					["sliceToken"] = "ABuec0ax6Ewr",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuec0ax6Ewe",
 					["id"] = 354464,
+					["sliceToken"] = "ABuec0ax6Ewe",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABuec0ax6Eww",
 					["id"] = 354466,
+					["sliceToken"] = "ABuec0ax6Eww",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuec0ax6Ewq",
 					["id"] = 354468,
+					["sliceToken"] = "ABuec0ax6Ewq",
 				}, -- [4]
 				{
 					["id"] = 367416,
@@ -82,20 +83,20 @@ OneRing_Config = {
 					["sliceToken"] = "ABuec0ax6EB",
 				}, -- [7]
 				{
-					["sliceToken"] = "ABuec0ax6E/",
 					["id"] = 354463,
+					["sliceToken"] = "ABuec0ax6E/",
 				}, -- [8]
 				{
-					["sliceToken"] = "ABuec0ax6EV",
 					["id"] = 354465,
+					["sliceToken"] = "ABuec0ax6EV",
 				}, -- [9]
 				{
-					["sliceToken"] = "ABuec0ax6EC",
 					["id"] = 354467,
+					["sliceToken"] = "ABuec0ax6EC",
 				}, -- [10]
 				{
-					["sliceToken"] = "ABuec0ax6EX",
 					["id"] = 354469,
+					["sliceToken"] = "ABuec0ax6EX",
 				}, -- [11]
 				{
 					["id"] = 373262,
@@ -121,8 +122,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [2]
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
 				}, -- [3]
 				{
 					"item", -- [1]
@@ -293,4 +294,3 @@ OneRing_Config = {
 	},
 	["_GameLocale"] = "ruRU",
 }
-OPie_SavedData = nil

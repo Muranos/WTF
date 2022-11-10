@@ -6,10 +6,10 @@ Details_StreamerDB = {
 		["Эстрэя - Гордунни"] = "Ниэтта - Гордунни",
 		["Алтэри - Гордунни"] = "Ниэтта - Гордунни",
 		["Алоиза - Гордунни"] = "Ниэтта - Гордунни",
-		["Эллиата - Гордунни"] = "Ниэтта - Гордунни",
+		["Дэлери - Гордунни"] = "Ниэтта - Гордунни",
 		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
 		["Шайэн - Гордунни"] = "Ниэтта - Гордунни",
-		["Дэлери - Гордунни"] = "Ниэтта - Гордунни",
+		["Эллиата - Гордунни"] = "Ниэтта - Гордунни",
 	},
 	["profiles"] = {
 		["Ниэтта - Гордунни"] = {
@@ -44,6 +44,21 @@ Details_StreamerDB = {
 			["square_amount"] = 5,
 			["enabled"] = true,
 			["arrow_size"] = 10,
+			["use_spark"] = true,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2000000476837158, -- [4]
+			},
+			["author"] = "Terciob",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["y"] = -102.799072265625,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -55,21 +70,6 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2000000476837158, -- [4]
-			},
-			["author"] = "Terciob",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = -102.799072265625,
-			["font_size"] = 10,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["use_spark"] = true,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]

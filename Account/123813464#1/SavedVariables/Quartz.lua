@@ -16,11 +16,13 @@ Quartz3DB = {
 				},
 			},
 		},
+		["LibDualSpec-1.0"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 835,
 					["hideblizz"] = false,
+					["x"] = 835,
 				},
 			},
 		},
@@ -38,17 +40,27 @@ Quartz3DB = {
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
+					["noInterruptChangeColor"] = true,
 					["h"] = 27,
 					["w"] = 290,
-					["y"] = 523,
-					["x"] = 1195,
+					["y"] = 550,
+					["x"] = 1260,
+					["iconalpha"] = 1,
 					["iconposition"] = "left",
+					["noInterruptColor"] = {
+						0.7647059559822083, -- [1]
+						0.6627451181411743, -- [2]
+						0.7803922295570374, -- [3]
+						1, -- [4]
+					},
+					["texture"] = "Aluminium",
+					["noInterruptChangeBorder"] = true,
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -61,11 +73,32 @@ Quartz3DB = {
 		["Flaminika - Durotan"] = "Default",
 		["Алоиза - Борейская тундра"] = "Default",
 		["Дэлери - Борейская тундра"] = "Default",
-		["Эстрэя - Гордунни"] = "Default",
+		["Шайэн - Гордунни"] = "Default",
+		["Ниэтта - Гордунни"] = "Default",
 		["Elavi - Durotan"] = "Default",
+		["Эстрэя - Гордунни"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["completecolor"] = {
+				0.2823529541492462, -- [1]
+				0.2862745225429535, -- [2]
+				0.9686275124549866, -- [3]
+				1, -- [4]
+			},
+			["castingcolor"] = {
+				0.2549019753932953, -- [1]
+				0.3411764800548554, -- [2]
+				0.9764706492424011, -- [3]
+				1, -- [4]
+			},
+			["bordercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["backgroundalpha"] = 0,
 			["modules"] = {
 				["Swing"] = false,
 				["Buff"] = false,

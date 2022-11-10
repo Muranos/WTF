@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0706,
+	["LastVersion"] = 2.0707,
+	["LastPlayerFullName"] = "Алоиза-Гордунни",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 173245,
@@ -89,10 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178828::::::::60:258::33:5:7425:7359:6652:1521:6646:1:28:1279:::|h[Нафрийская скиния]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Алоиза-Гордунни",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128827] = {
 			["Relics"] = {
@@ -126,6 +125,7 @@ PawnOptions = {
 			["Name"] = "Т'ууре, Светоч наару",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

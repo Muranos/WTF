@@ -1,11 +1,4 @@
 Version: 1
-Frame: TargetFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 366
-Y: -86
-W: 232
-H: 100
 Frame: FloatingBattlePetTooltip
 FrameLevel: 1
 Anchor: BOTTOM
@@ -76,3 +69,10 @@ X: 0
 Y: 0
 W: 300
 H: 300
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 366
+Y: -86
+W: 232
+H: 100

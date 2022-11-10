@@ -104,3 +104,5 @@ TitanBag: enabled
 TitanLootType: disabled
 TitanPerformance: disabled
 NOP: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled

@@ -8,7 +8,7 @@ BigWigs_Azeroth: enabled
 LittleWigs: enabled
 MoveAnything: disabled
 BigWigs_Nyalotha: enabled
-Quartz: disabled
+Quartz: enabled
 BigWigs_Legion: enabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
@@ -92,3 +92,5 @@ RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
 CovenantMissionHelper: disabled
 NOP: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled

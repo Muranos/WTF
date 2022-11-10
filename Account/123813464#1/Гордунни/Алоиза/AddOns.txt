@@ -92,3 +92,5 @@ RaiderIO_DB_KR_M: disabled
 DominationSocketHelper: disabled
 CovenantMissionHelper: disabled
 NOP: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
