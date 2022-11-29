@@ -4,7 +4,7 @@ AllTheThings: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
 MoveAnything: disabled
-Quartz: disabled
+Quartz: enabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
 RCLootCouncil: enabled

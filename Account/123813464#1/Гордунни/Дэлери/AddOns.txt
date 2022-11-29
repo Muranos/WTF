@@ -4,7 +4,7 @@ AllTheThings: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
 MoveAnything: disabled
-Quartz: disabled
+Quartz: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 BigWigs_Core: enabled
@@ -110,3 +110,4 @@ CovenantMissionHelper: disabled
 NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled

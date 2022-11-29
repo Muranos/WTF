@@ -36,3 +36,7 @@ TipTacOptions: disabled
 CovenantMissionHelper: disabled
 MoveAnything: disabled
 NOP: disabled
+Quartz: enabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled

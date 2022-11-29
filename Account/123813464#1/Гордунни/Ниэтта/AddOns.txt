@@ -106,3 +106,6 @@ TitanPerformance: disabled
 NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Quartz: enabled
+Blizzard_CombatText: enabled
+LittleWigs_Shadowlands: enabled

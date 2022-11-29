@@ -42,3 +42,4 @@ DominationSocketHelper: disabled
 CovenantMissionHelper: disabled
 MoveAnything: disabled
 NOP: disabled
+Quartz: enabled

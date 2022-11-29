@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0707,
-	["LastPlayerFullName"] = "Шайэн-Гордунни",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0712,
 	["ItemLevels"] = {
 		{
 			["ID"] = 109983,
@@ -10,9 +8,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:109983::::::::60:262::35:9:7359:8258:8765:8136:8116:6652:7578:3189:6646::::::|h[Шлем лавовой цепи]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 142207,
-			["Level"] = 298,
-			["Link"] = "|cffa335ee|Hitem:142207::::::::60:262::34:7:8765:6652:7578:7749:8284:3177:6646:1:28:1180:::::|h[Амулет последнего Хранителя]|h|r",
+			["ID"] = 142174,
+			["Level"] = 304,
+			["Link"] = "|cffa335ee|Hitem:142174::::::::60:262::35:5:8286:8765:7579:3183:6646::::::|h[Колье из шипастых поводьев]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 188920,
@@ -92,7 +90,8 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:185821:6229:::::::60:263::35:6:8244:8765:7359:6652:1621:6646::::::|h[Ненасытный рондел]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Шайэн-Гордунни",
 	["Artifacts"] = {
 		[128935] = {
 			["Relics"] = {
@@ -124,6 +123,7 @@ PawnOptions = {
 			["Name"] = "Молот Рока",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "SHAMAN",

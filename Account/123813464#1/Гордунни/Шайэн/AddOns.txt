@@ -46,3 +46,5 @@ MoveAnything: disabled
 NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Quartz: enabled
+Blizzard_CombatText: enabled

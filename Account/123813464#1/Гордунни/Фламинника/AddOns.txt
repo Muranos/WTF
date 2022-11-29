@@ -13,7 +13,7 @@ BigWigs_EternalPalace: enabled
 TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
 MoveAnything: disabled
-Quartz: disabled
+Quartz: enabled
 BigWigs_Legion: enabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
@@ -109,3 +109,4 @@ DominationSocketHelper: disabled
 CovenantMissionHelper: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0707,
+	["LastVersion"] = 2.0712,
 	["LastPlayerFullName"] = "Эстрэя-Гордунни",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -90,6 +90,7 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:186140::::::::60:104:::2:7453:1686:2:9:60:28:2043:::::|h[Сфера верного Утробе заклинателя с символом бесподобия]|h|r",
 		}, -- [17]
 	},
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -106,7 +107,6 @@ PawnOptions = {
 			["Name"] = "Когти Урсока",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

@@ -4,20 +4,20 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "10.0.0",
-	["_OPieVersion"] = "Yuzu 1 (4.110)",
+	["_GameVersion"] = "10.0.2",
+	["_OPieVersion"] = "Yuzu 3 (4.111)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["OPieTracking"] = false,
+				["SpecMenu"] = "F5",
 				["Teleports"] = "F8",
-				["OPieAutoQuest"] = false,
+				["OPieTracking"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["SpecMenu"] = "F5",
+				["OPieAutoQuest"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},

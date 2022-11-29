@@ -94,3 +94,4 @@ CovenantMissionHelper: disabled
 NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled

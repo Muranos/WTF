@@ -4,9 +4,6 @@ NewOpenablesProfile = {
 		["Шайэн - Гордунни"] = {
 			["itemID"] = 188657,
 		},
-		["Дэлери - Гордунни"] = {
-			["itemID"] = 188655,
-		},
 		["Фламинника - Гордунни"] = {
 			["itemID"] = 188653,
 		},
@@ -25,8 +22,8 @@ NewOpenablesProfile = {
 		["Алтэри - Гордунни"] = {
 			["itemID"] = 188656,
 		},
-		["Алоиза - Борейская тундра"] = {
-			["itemID"] = 174122,
+		["Дэлери - Гордунни"] = {
+			["itemID"] = 188655,
 		},
 		["Нирейя - Борейская тундра"] = {
 			["itemID"] = 21327,
@@ -36,6 +33,9 @@ NewOpenablesProfile = {
 		},
 		["Дэлери - Борейская тундра"] = {
 			["itemID"] = 181475,
+		},
+		["Алоиза - Борейская тундра"] = {
+			["itemID"] = 174122,
 		},
 		["Ниамэй - Гордунни"] = {
 			["itemID"] = 188656,
@@ -62,7 +62,7 @@ NewOpenablesProfile = {
 		["Сайбил - Борейская тундра"] = "Default",
 		["Эллиата - Гордунни"] = "Default",
 		["Шайэн - Гордунни"] = "Default",
-		["Estrea - Alleria"] = "Default",
+		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Nietta - EU Mythic Dungeons"] = "Default",
@@ -73,7 +73,7 @@ NewOpenablesProfile = {
 		["Алоиза - Гордунни"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Estrea - EU Mythic Dungeons"] = "Default",
+		["Estrea - Alleria"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
 	},
 	["profiles"] = {
@@ -92,18 +92,18 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[174458] = true,
 				[133579] = true,
-				[168529] = true,
+				[177223] = true,
 				[173726] = true,
-				[89112] = true,
+				[176869] = true,
 				[153960] = true,
 				[171286] = true,
-				[177223] = true,
+				[168529] = true,
 				[174459] = true,
 				[17308] = true,
-				[176869] = true,
+				[89112] = true,
 				[152496] = true,
 				[169451] = true,
-				[142117] = true,
+				[163222] = true,
 				[178742] = true,
 				[180111] = true,
 				[174460] = true,
@@ -129,8 +129,8 @@ NewOpenablesProfile = {
 				[127835] = true,
 				[127839] = true,
 				[168651] = true,
+				[142117] = true,
 				[183823] = true,
-				[163222] = true,
 			},
 			["button"] = {
 				nil, -- [1]

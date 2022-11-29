@@ -2,7 +2,7 @@
 GlobalIgnoreDB = {
 	["filterCount"] = {
 		1, -- [1]
-		243, -- [2]
+		247, -- [2]
 		0, -- [3]
 		0, -- [4]
 		0, -- [5]
@@ -1643,7 +1643,7 @@ GlobalIgnoreDB = {
 	},
 	["skipParty"] = false,
 	["chatmsg"] = true,
-	["filterTotal"] = 244,
+	["filterTotal"] = 248,
 	["dateList"] = {
 		"20 Dec 2018", -- [1]
 		"20 Dec 2018", -- [2]
@@ -1939,10 +1939,8 @@ GlobalIgnoreDB = {
 		"12 Oct 2022", -- [292]
 		"17 Oct 2022", -- [293]
 	},
-	["spamFilter"] = true,
+	["showIgnoreDebug"] = false,
 	["showWarning"] = true,
-	["skipGuild"] = true,
-	["trackChanges"] = true,
 	["syncInfo"] = {
 		{
 		}, -- [1]
@@ -2534,6 +2532,8 @@ GlobalIgnoreDB = {
 		{
 		}, -- [293]
 	},
+	["trackChanges"] = true,
+	["skipGuild"] = true,
 	["samefaction"] = true,
-	["showIgnoreDebug"] = false,
+	["spamFilter"] = true,
 }

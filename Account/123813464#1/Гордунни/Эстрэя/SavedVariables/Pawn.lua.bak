@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0707,
+	["LastVersion"] = 2.0712,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159310,
@@ -90,7 +90,6 @@ PawnOptions = {
 	},
 	["AutoSelectScales"] = true,
 	["LastPlayerFullName"] = "Эстрэя-Гордунни",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -107,6 +106,7 @@ PawnOptions = {
 			["Name"] = "Когти Урсока",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

@@ -4,9 +4,6 @@ NewOpenablesProfile = {
 		["Шайэн - Гордунни"] = {
 			["itemID"] = 188657,
 		},
-		["Дэлери - Борейская тундра"] = {
-			["itemID"] = 181475,
-		},
 		["Фламинника - Гордунни"] = {
 			["itemID"] = 188653,
 		},
@@ -34,14 +31,14 @@ NewOpenablesProfile = {
 		["Ниоши - Борейская тундра"] = {
 			["itemID"] = 50160,
 		},
+		["Дэлери - Борейская тундра"] = {
+			["itemID"] = 181475,
+		},
 		["Алоиза - Гордунни"] = {
 			["itemID"] = 188657,
 		},
 		["Ниамэй - Гордунни"] = {
 			["itemID"] = 188656,
-		},
-		["Ниэтта - Гордунни"] = {
-			["itemID"] = 187802,
 		},
 		["Алоиза - Борейская тундра"] = {
 			["itemID"] = 174122,
@@ -61,8 +58,8 @@ NewOpenablesProfile = {
 		["Дэлери - Борейская тундра"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Эллиата - Гордунни"] = "Default",
-		["Estrea - Alleria"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
+		["Estrea - Alleria"] = "Default",
 		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
@@ -103,15 +100,15 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[174458] = true,
 				[133579] = true,
-				[142117] = true,
-				[173726] = true,
 				[163222] = true,
-				[153960] = true,
+				[173726] = true,
 				[183823] = true,
-				[177223] = true,
+				[153960] = true,
+				[142117] = true,
+				[168529] = true,
 				[174459] = true,
 				[17308] = true,
-				[176869] = true,
+				[89112] = true,
 				[152496] = true,
 				[169451] = true,
 				[171286] = true,
@@ -140,8 +137,8 @@ NewOpenablesProfile = {
 				[127835] = true,
 				[127839] = true,
 				[168651] = true,
-				[89112] = true,
-				[168529] = true,
+				[176869] = true,
+				[177223] = true,
 			},
 			["qb"] = {
 				"TOPLEFT", -- [1]

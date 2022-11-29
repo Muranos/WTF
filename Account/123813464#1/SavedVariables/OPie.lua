@@ -4,20 +4,20 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "10.0.0",
-	["_OPieVersion"] = "Yuzu 1 (4.110)",
+	["_GameVersion"] = "10.0.2",
+	["_OPieVersion"] = "Yuzu 3 (4.111)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["SpecMenu"] = "F5",
+				["OPieAutoQuest"] = false,
 				["Teleports"] = "F8",
-				["OPieTracking"] = false,
+				["SpecMenu"] = "F5",
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieAutoQuest"] = false,
+				["OPieTracking"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -71,16 +71,16 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuec0ax6Ewq",
 				}, -- [4]
 				{
-					["id"] = 367416,
 					["sliceToken"] = "ABuec0ax6EM",
+					["id"] = 367416,
 				}, -- [5]
 				{
-					["id"] = 373274,
 					["sliceToken"] = "ABuec0ax6EN",
+					["id"] = 373274,
 				}, -- [6]
 				{
-					["id"] = 159900,
 					["sliceToken"] = "ABuec0ax6EB",
+					["id"] = 159900,
 				}, -- [7]
 				{
 					["id"] = 354463,
@@ -136,8 +136,8 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCTAd",
 				}, -- [5]
 				{
-					["id"] = 556,
 					["sliceToken"] = "OPCTAa",
+					["id"] = 556,
 				}, -- [6]
 				{
 					"item", -- [1]

@@ -14,10 +14,10 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 1,
 				["dps_best"] = 7710.686261575493,
-				["dps_best_raid"] = 90414.28610129096,
+				["dps_best_when"] = 1666211462,
 				["time_fasterkill_when"] = 1666211462,
 				["dps_best_raid_when"] = 1666211462,
-				["dps_best_when"] = 1666211462,
+				["dps_best_raid"] = 90414.28610129096,
 			},
 		},
 		[2512] = {
@@ -27,10 +27,10 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 1,
 				["dps_best"] = 8686.154135078184,
-				["dps_best_raid"] = 98870.23766654507,
+				["dps_best_when"] = 1666210602,
 				["time_fasterkill_when"] = 1666210602,
 				["dps_best_raid_when"] = 1666210602,
-				["dps_best_when"] = 1666210602,
+				["dps_best_raid"] = 98870.23766654507,
 			},
 		},
 		[2542] = {
@@ -40,10 +40,10 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 1,
 				["dps_best"] = 8552.188837795376,
-				["dps_best_raid"] = 97357.0101751018,
+				["dps_best_when"] = 1666212180,
 				["time_fasterkill_when"] = 1666212180,
 				["dps_best_raid_when"] = 1666212180,
-				["dps_best_when"] = 1666212180,
+				["dps_best_raid"] = 97357.0101751018,
 			},
 		},
 		[2529] = {
@@ -53,10 +53,10 @@ DetailsDataStorage = {
 				["wipes"] = 2,
 				["kills"] = 0,
 				["dps_best"] = 0,
-				["dps_best_raid"] = 0,
+				["dps_best_when"] = 0,
 				["time_fasterkill_when"] = 0,
 				["dps_best_raid_when"] = 0,
-				["dps_best_when"] = 0,
+				["dps_best_raid"] = 0,
 			},
 		},
 		[2537] = {
@@ -66,10 +66,10 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 1,
 				["dps_best"] = 8228.725023008763,
-				["dps_best_raid_when"] = 1666301887,
-				["time_fasterkill_when"] = 1666301887,
-				["dps_best_when"] = 1666301887,
 				["dps_best_raid"] = 107178.8664167941,
+				["time_fasterkill_when"] = 1666301887,
+				["dps_best_raid_when"] = 1666301887,
+				["dps_best_when"] = 1666301887,
 			},
 		},
 	},
@@ -86,10 +86,10 @@ DetailsDataStorage = {
 		},
 	},
 	["VERSION"] = 5,
-	["Data"] = {
+	["mythic_plus"] = {
 	},
 	[16] = {
 	},
-	["mythic_plus"] = {
+	["Data"] = {
 	},
 }

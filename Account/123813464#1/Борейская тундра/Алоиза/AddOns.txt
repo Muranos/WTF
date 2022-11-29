@@ -260,3 +260,6 @@ PitBull4_DogTagTexts: disabled
 RaiderIO_DB_US_F: disabled
 RaiderIO_DB_TW_F: disabled
 RaiderIO_DB_KR_F: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled

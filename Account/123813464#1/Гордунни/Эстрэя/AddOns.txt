@@ -12,7 +12,7 @@ TradeSkillMaster: disabled
 TradeSkillMaster_AppHelper: disabled
 BigWigs_Nyalotha: enabled
 MoveAnything: disabled
-Quartz: disabled
+Quartz: enabled
 Handynotes_Pandaria: disabled
 HandyNotes_SummerFestival: disabled
 RCLootCouncil: enabled
@@ -101,3 +101,5 @@ CovenantMissionHelper: disabled
 NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled
+LittleWigs_Shadowlands: enabled

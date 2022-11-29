@@ -10,13 +10,6 @@ MADB = {
 			["name"] = "default",
 			["frames"] = {
 				["PlayerDebuffsMover"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"BuffFrame", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						0, -- [4]
-						-60, -- [5]
-					},
 					["name"] = "PlayerDebuffsMover",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
@@ -37,13 +30,6 @@ MADB = {
 					},
 				},
 				["PlayerPowerBarAltMover"] = {
-					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						0, -- [4]
-						155, -- [5]
-					},
 					["name"] = "PlayerPowerBarAltMover",
 					["pos"] = {
 						"BOTTOM", -- [1]

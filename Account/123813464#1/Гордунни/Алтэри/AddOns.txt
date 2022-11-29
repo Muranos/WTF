@@ -198,7 +198,7 @@ ElitismHelper: disabled
 BigWigs_Uldir: enabled
 OPie_Classic: disabled
 WeakAurasArchive: enabled
-Quartz: disabled
+Quartz: enabled
 BigWigs_Legion: enabled
 BigWigs_Nyalotha: enabled
 RaiderIO_DB_US_H_R: disabled
@@ -262,3 +262,4 @@ CovenantMissionHelper: disabled
 NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled
