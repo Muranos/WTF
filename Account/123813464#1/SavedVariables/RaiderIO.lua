@@ -1,22 +1,25 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
 	["disableScoreColors"] = false,
 	["showDropDownCopyURL"] = true,
-	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
 	["enableLFGTooltips"] = true,
 	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Шайэн-gordunni"
+RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
 RaiderIO_MissingCharacters = {
+	["eu-Ниэтта-gordunni"] = true,
+	["eu-Шокоуми-gordunni"] = true,
+	["eu-Хеллекс-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

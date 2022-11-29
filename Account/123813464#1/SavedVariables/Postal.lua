@@ -1,39 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
-		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
-		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
-		["Шайэн - Гордунни"] = "Шайэн - Гордунни",
-		["Altery - Durotan"] = "Altery - Durotan",
-		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
-		["Altery - Bronzebeard"] = "Altery - Bronzebeard",
-		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
-		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
-		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
-		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
-		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
-		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
-		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
-		["Estrea - Alleria"] = "Estrea - Alleria",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
-		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
-		["Delery - Durotan"] = "Delery - Durotan",
-		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
-		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
-		["Фламиника - Борейская тундра"] = "Фламиника - Борейская тундра",
-		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -69,6 +35,40 @@ Postal3DB = {
 				"Эстрэя|Гордунни|Alliance|60|DRUID", -- [30]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
+		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
+		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
+		["Шайэн - Гордунни"] = "Шайэн - Гордунни",
+		["Altery - Durotan"] = "Altery - Durotan",
+		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
+		["Altery - Bronzebeard"] = "Altery - Bronzebeard",
+		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
+		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
+		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
+		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
+		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
+		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
+		["Delery - Durotan"] = "Delery - Durotan",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Estrea - Alleria"] = "Estrea - Alleria",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
+		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Elavi - Durotan"] = "Elavi - Durotan",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
+		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
+		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
+		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+		["Фламиника - Борейская тундра"] = "Фламиника - Борейская тундра",
+		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
 	},
 	["profiles"] = {
 		["Вейлзевулла - Борейская тундра"] = {
@@ -178,8 +178,8 @@ Postal3DB = {
 		["Алоиза - Борейская тундра"] = {
 			["OpenAll"] = {
 				["Postmaster"] = false,
-				["Attachments"] = false,
 				["AHSuccess"] = false,
+				["Attachments"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -258,8 +258,8 @@ Postal3DB = {
 		},
 		["Дэлери - Борейская тундра"] = {
 			["OpenAll"] = {
-				["Attachments"] = false,
 				["AHSuccess"] = false,
+				["Attachments"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -300,17 +300,10 @@ Postal3DB = {
 				},
 			},
 		},
-		["Эллиата - Гордунни"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Ниамэй|Гордунни|Alliance", -- [1]
-				},
-			},
-		},
 		["Эстрея - Борейская тундра"] = {
 			["OpenAll"] = {
-				["AHSuccess"] = false,
 				["Attachments"] = false,
+				["AHSuccess"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -344,6 +337,30 @@ Postal3DB = {
 				},
 			},
 		},
+		["Эллиата - Гордунни"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Ниамэй|Гордунни|Alliance", -- [1]
+				},
+			},
+		},
+		["Delery - Durotan"] = {
+		},
+		["Nietta - EU Mythic Dungeons"] = {
+		},
+		["Элави - Борейская тундра"] = {
+			["OpenAll"] = {
+				["Attachments"] = false,
+			},
+			["BlackBook"] = {
+				["recent"] = {
+					"Алоиза|Борейская тундра|Alliance", -- [1]
+					"Нирейя|Борейская тундра|Alliance", -- [2]
+					"Эрника|Борейская тундра|Alliance", -- [3]
+					"Алтери|Борейская тундра|Alliance", -- [4]
+				},
+			},
+		},
 		["Estrea - Alleria"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -351,10 +368,18 @@ Postal3DB = {
 				},
 			},
 		},
+		["Flaminika - Durotan"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Xynn|Durotan|Alliance", -- [1]
+					"Altery|Durotan|Alliance", -- [2]
+				},
+			},
+		},
 		["Зонна - Борейская тундра"] = {
 			["OpenAll"] = {
-				["Attachments"] = false,
 				["AHSuccess"] = false,
+				["Attachments"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {
@@ -381,15 +406,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Flaminika - Silvermoon"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Skywwalker|Silvermoon|Alliance", -- [1]
-				},
-			},
-		},
-		["Estrea - EU Mythic Dungeons"] = {
-		},
 		["Эрника - Борейская тундра"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -404,32 +420,16 @@ Postal3DB = {
 				},
 			},
 		},
+		["Flaminika - Silvermoon"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Skywwalker|Silvermoon|Alliance", -- [1]
+				},
+			},
+		},
 		["Elavi - Durotan"] = {
 		},
-		["Flaminika - Durotan"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Xynn|Durotan|Alliance", -- [1]
-					"Altery|Durotan|Alliance", -- [2]
-				},
-			},
-		},
-		["Элави - Борейская тундра"] = {
-			["OpenAll"] = {
-				["Attachments"] = false,
-			},
-			["BlackBook"] = {
-				["recent"] = {
-					"Алоиза|Борейская тундра|Alliance", -- [1]
-					"Нирейя|Борейская тундра|Alliance", -- [2]
-					"Эрника|Борейская тундра|Alliance", -- [3]
-					"Алтери|Борейская тундра|Alliance", -- [4]
-				},
-			},
-		},
-		["Nietta - EU Mythic Dungeons"] = {
-		},
-		["Delery - Durotan"] = {
+		["Estrea - EU Mythic Dungeons"] = {
 		},
 		["Ниоши - Борейская тундра"] = {
 			["BlackBook"] = {
@@ -468,10 +468,6 @@ Postal3DB = {
 		["Хилопятьумер - Гордунни"] = {
 		},
 		["Ниэтта - Гордунни"] = {
-			["OpenAll"] = {
-				["Attachments"] = false,
-				["AHSuccess"] = false,
-			},
 			["BlackBook"] = {
 				["recent"] = {
 					"Сострадание|Гордунни|Alliance", -- [1]
@@ -494,6 +490,10 @@ Postal3DB = {
 					"Азирона|Гордунни|Alliance", -- [18]
 					"Супркек|Гордунни|Alliance", -- [19]
 				},
+			},
+			["OpenAll"] = {
+				["Attachments"] = false,
+				["AHSuccess"] = false,
 			},
 		},
 		["Фламиника - Борейская тундра"] = {
@@ -521,9 +521,9 @@ Postal3DB = {
 		},
 		["Дэлери - Гордунни"] = {
 			["OpenAll"] = {
-				["Attachments"] = false,
-				["AHSuccess"] = false,
 				["AHWon"] = false,
+				["AHSuccess"] = false,
+				["Attachments"] = false,
 			},
 			["BlackBook"] = {
 				["recent"] = {

@@ -11,13 +11,13 @@ OPie_SavedData = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["OPieAutoQuest"] = false,
+				["OPieTracking"] = false,
 				["Teleports"] = "F8",
-				["SpecMenu"] = "F5",
+				["OPieAutoQuest"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieTracking"] = false,
+				["SpecMenu"] = "F5",
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -55,20 +55,20 @@ OPie_SavedData = {
 			},
 			["Teleports"] = {
 				{
-					["id"] = 354462,
 					["sliceToken"] = "ABuec0ax6Ewr",
+					["id"] = 354462,
 				}, -- [1]
 				{
-					["id"] = 354464,
 					["sliceToken"] = "ABuec0ax6Ewe",
+					["id"] = 354464,
 				}, -- [2]
 				{
-					["id"] = 354466,
 					["sliceToken"] = "ABuec0ax6Eww",
+					["id"] = 354466,
 				}, -- [3]
 				{
-					["id"] = 354468,
 					["sliceToken"] = "ABuec0ax6Ewq",
+					["id"] = 354468,
 				}, -- [4]
 				{
 					["sliceToken"] = "ABuec0ax6EM",
@@ -83,28 +83,28 @@ OPie_SavedData = {
 					["id"] = 159900,
 				}, -- [7]
 				{
-					["id"] = 354463,
 					["sliceToken"] = "ABuec0ax6E/",
+					["id"] = 354463,
 				}, -- [8]
 				{
-					["id"] = 354465,
 					["sliceToken"] = "ABuec0ax6EV",
+					["id"] = 354465,
 				}, -- [9]
 				{
-					["id"] = 354467,
 					["sliceToken"] = "ABuec0ax6EC",
+					["id"] = 354467,
 				}, -- [10]
 				{
-					["id"] = 354469,
 					["sliceToken"] = "ABuec0ax6EX",
+					["id"] = 354469,
 				}, -- [11]
 				{
-					["id"] = 373262,
 					["sliceToken"] = "ABuecJ1BA5r",
+					["id"] = 373262,
 				}, -- [12]
 				{
-					["id"] = 159896,
 					["sliceToken"] = "ABuec=I23ee",
+					["id"] = 159896,
 				}, -- [13]
 				["name"] = "Teleports",
 				["save"] = true,
@@ -136,8 +136,8 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCTAd",
 				}, -- [5]
 				{
-					["sliceToken"] = "OPCTAa",
 					["id"] = 556,
+					["sliceToken"] = "OPCTAa",
 				}, -- [6]
 				{
 					"item", -- [1]

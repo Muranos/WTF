@@ -42,12 +42,12 @@ GoldSave = {
 		["faction"] = "Орда",
 		["realm"] = "Борейская тундра",
 	},
-	["Тиаз_Борейская тундра::Alliance"] = {
+	["Nietta_EU Mythic Dungeons::Alliance"] = {
 		["show"] = true,
-		["name"] = "Тиаз",
-		["gold"] = 31527353,
+		["name"] = "Nietta",
+		["gold"] = 119498285,
 		["faction"] = "Альянс",
-		["realm"] = "Борейская тундра",
+		["realm"] = "EU Mythic Dungeons",
 	},
 	["Эллиата_Гордунни::Alliance"] = {
 		["show"] = true,
@@ -56,12 +56,12 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Гордунни",
 	},
-	["Estrea_Alleria::Alliance"] = {
+	["Тиаз_Борейская тундра::Alliance"] = {
 		["show"] = true,
-		["name"] = "Estrea",
-		["gold"] = 1352065268,
+		["name"] = "Тиаз",
+		["gold"] = 31527353,
 		["faction"] = "Альянс",
-		["realm"] = "Alleria",
+		["realm"] = "Борейская тундра",
 	},
 	["Алоиза_Гордунни::Alliance"] = {
 		["show"] = true,
@@ -73,7 +73,7 @@ GoldSave = {
 	["Ниэтта_Гордунни::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ниэтта",
-		["gold"] = 1085962105,
+		["gold"] = 1092204765,
 		["faction"] = "Альянс",
 		["realm"] = "Гордунни",
 	},
@@ -84,12 +84,12 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Борейская тундра",
 	},
-	["Elavi_Durotan::Alliance"] = {
+	["Фламинника_Гордунни::Alliance"] = {
 		["show"] = true,
-		["name"] = "Elavi",
-		["gold"] = 1728,
+		["name"] = "Фламинника",
+		["gold"] = 16562045594,
 		["faction"] = "Альянс",
-		["realm"] = "Durotan",
+		["realm"] = "Гордунни",
 	},
 	["Алтери_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -98,24 +98,24 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Борейская тундра",
 	},
-	["Фламинника_Гордунни::Alliance"] = {
+	["Elavi_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Фламинника",
-		["gold"] = 16562045594,
-		["faction"] = "Альянс",
-		["realm"] = "Гордунни",
-	},
-	["Delery_Durotan::Alliance"] = {
-		["show"] = true,
-		["name"] = "Delery",
-		["gold"] = 4444000,
+		["name"] = "Elavi",
+		["gold"] = 1728,
 		["faction"] = "Альянс",
 		["realm"] = "Durotan",
 	},
-	["Дэлери_Борейская тундра::Alliance"] = {
+	["Алтэри_Гордунни::Alliance"] = {
 		["show"] = true,
-		["name"] = "Дэлери",
-		["gold"] = 9993139755,
+		["name"] = "Алтэри",
+		["gold"] = 18599526451,
+		["faction"] = "Альянс",
+		["realm"] = "Гордунни",
+	},
+	["Эстрея_Борейская тундра::Alliance"] = {
+		["show"] = true,
+		["name"] = "Эстрея",
+		["gold"] = 323464443,
 		["faction"] = "Альянс",
 		["realm"] = "Борейская тундра",
 	},
@@ -133,10 +133,10 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Durotan",
 	},
-	["Эстрея_Борейская тундра::Alliance"] = {
+	["Дэлери_Борейская тундра::Alliance"] = {
 		["show"] = true,
-		["name"] = "Эстрея",
-		["gold"] = 323464443,
+		["name"] = "Дэлери",
+		["gold"] = 9993139755,
 		["faction"] = "Альянс",
 		["realm"] = "Борейская тундра",
 	},
@@ -147,19 +147,19 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Durotan",
 	},
-	["Хилопятьумер_Гордунни::Alliance"] = {
-		["show"] = true,
-		["name"] = "Хилопятьумер",
-		["gold"] = 0,
-		["faction"] = "Альянс",
-		["realm"] = "Гордунни",
-	},
 	["Эрника_Борейская тундра::Alliance"] = {
 		["show"] = true,
 		["name"] = "Эрника",
 		["gold"] = 3093208,
 		["faction"] = "Альянс",
 		["realm"] = "Борейская тундра",
+	},
+	["Хилопятьумер_Гордунни::Alliance"] = {
+		["show"] = true,
+		["name"] = "Хилопятьумер",
+		["gold"] = 0,
+		["faction"] = "Альянс",
+		["realm"] = "Гордунни",
 	},
 	["Ниоши_Борейская тундра::Alliance"] = {
 		["show"] = true,
@@ -175,12 +175,12 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Гордунни",
 	},
-	["Алтэри_Гордунни::Alliance"] = {
+	["Delery_Durotan::Alliance"] = {
 		["show"] = true,
-		["name"] = "Алтэри",
-		["gold"] = 18599526451,
+		["name"] = "Delery",
+		["gold"] = 4444000,
 		["faction"] = "Альянс",
-		["realm"] = "Гордунни",
+		["realm"] = "Durotan",
 	},
 	["Эстрэя_Гордунни::Alliance"] = {
 		["show"] = true,
@@ -189,11 +189,11 @@ GoldSave = {
 		["faction"] = "Альянс",
 		["realm"] = "Гордунни",
 	},
-	["Nietta_EU Mythic Dungeons::Alliance"] = {
+	["Estrea_Alleria::Alliance"] = {
 		["show"] = true,
-		["name"] = "Nietta",
-		["gold"] = 119498285,
+		["name"] = "Estrea",
+		["gold"] = 1352065268,
 		["faction"] = "Альянс",
-		["realm"] = "EU Mythic Dungeons",
+		["realm"] = "Alleria",
 	},
 }

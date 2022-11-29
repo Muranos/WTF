@@ -8,8 +8,8 @@ PremadeGroupsFilterSettings = {
 	["leaderCrown"] = false,
 	["version"] = 1,
 	["classBar"] = false,
-	["dialogMovable"] = true,
+	["classCircle"] = true,
 	["persistSignUpNote"] = true,
 	["skipSignUpDialog"] = false,
-	["classCircle"] = true,
+	["dialogMovable"] = true,
 }

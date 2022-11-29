@@ -1939,8 +1939,10 @@ GlobalIgnoreDB = {
 		"12 Oct 2022", -- [292]
 		"17 Oct 2022", -- [293]
 	},
-	["showIgnoreDebug"] = false,
+	["spamFilter"] = true,
 	["showWarning"] = true,
+	["skipGuild"] = true,
+	["trackChanges"] = true,
 	["syncInfo"] = {
 		{
 		}, -- [1]
@@ -2532,8 +2534,6 @@ GlobalIgnoreDB = {
 		{
 		}, -- [293]
 	},
-	["trackChanges"] = true,
-	["skipGuild"] = true,
 	["samefaction"] = true,
-	["spamFilter"] = true,
+	["showIgnoreDebug"] = false,
 }
