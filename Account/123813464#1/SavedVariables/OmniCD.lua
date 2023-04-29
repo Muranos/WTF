@@ -14,14 +14,14 @@ OmniCDDB = {
 		["Эллиата - Гордунни"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Flaminika - Durotan"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Шайэн - Гордунни"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Алоиза - Борейская тундра"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
 		["Алоиза - Гордунни"] = "Default",
-		["Сайбил - Борейская тундра"] = "Default",
+		["Алоиза - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Шайэн - Гордунни"] = "Default",
+		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
 	},
 	["global"] = {
@@ -35,15 +35,15 @@ OmniCDDB = {
 		["BattleRes"] = {
 		},
 	},
-	["version"] = 2.51,
 	["cooldowns"] = {
 	},
+	["version"] = 3,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["extraBars"] = {
-						["interruptBar"] = {
+						["raidBar0"] = {
 							["scale"] = 0.63,
 							["statusBarWidth"] = 230,
 							["barColors"] = {
@@ -65,20 +65,24 @@ OmniCDDB = {
 									["b"] = 0.1725490196078431,
 								},
 							},
-							["growUpward"] = true,
-							["locked"] = true,
 							["paddingY"] = 1,
+							["manualPos"] = {
+								["raidBar0"] = {
+									["y"] = 481.9554180092237,
+									["x"] = 956.444527202184,
+								},
+							},
 							["reverseFill"] = false,
 							["bgColors"] = {
 								["classColor"] = true,
 								["rechargeColor"] = {
 									["g"] = 0.7019607843137254,
 								},
-								["useClassColor"] = {
-									["active"] = true,
-								},
 								["activeColor"] = {
 									["a"] = 0.1385537385940552,
+								},
+								["useClassColor"] = {
+									["active"] = true,
 								},
 							},
 							["textColors"] = {
@@ -87,84 +91,37 @@ OmniCDDB = {
 									["a"] = 1,
 								},
 							},
+							["locked"] = true,
 						},
-					},
-					["manualPos"] = {
-						["interruptBar"] = {
-							["y"] = 413.5110343184715,
-							["x"] = 965.3331830971729,
-						},
-						["raidCDBar"] = {
-							["y"] = 598.4001881010045,
-							["x"] = 92.80023011168396,
+						["raidBar1"] = {
+							["manualPos"] = {
+								["raidBar1"] = {
+									["y"] = 598.4001881010045,
+									["x"] = 92.80023011168396,
+								},
+							},
 						},
 					},
 					["spells"] = {
-						["31661"] = true,
-						["198589"] = false,
-						["322109"] = true,
-						["116849"] = false,
 						["58984"] = true,
-						["80353"] = true,
-						["8122"] = false,
-						["235219"] = false,
-						["102793"] = true,
-						["336126"] = false,
-						["59752"] = false,
-						["221562"] = true,
-						["115078"] = true,
-						["217832"] = true,
-						["336135"] = false,
-						["213602"] = false,
-						["205636"] = true,
-						["179057"] = true,
 						["122783"] = false,
-						["10060"] = true,
-						["53480"] = false,
-						["47788"] = false,
-						["122278"] = false,
-						["323436"] = false,
-						["47482"] = false,
-						["31230"] = false,
-						["102359"] = true,
-						["115310"] = false,
-						["122470"] = false,
-						["196029"] = false,
-						["32375"] = true,
-						["215982"] = false,
-						["64044"] = false,
-						["79140"] = false,
+						["59752"] = false,
 						["119381"] = true,
-						["197268"] = false,
-						["109304"] = false,
-						["29166"] = true,
-						["102560"] = true,
-						["49576"] = true,
-						["86949"] = false,
-						["209258"] = false,
+						["122278"] = false,
 						["114018"] = true,
-						["132469"] = true,
-						["108199"] = true,
-						["108238"] = false,
-						["20711"] = false,
-						["323764"] = true,
 						["116844"] = true,
-						["207167"] = true,
-						["108968"] = false,
-						["108194"] = true,
-						["19236"] = false,
-						["109248"] = true,
-						["316958"] = true,
+						["31230"] = false,
+						["129597"] = true,
 					},
 					["icons"] = {
 						["scale"] = 0.63,
 					},
 					["position"] = {
+						["anchor"] = "BOTTOMLEFT",
 						["columns"] = 4,
 						["attach"] = "LEFT",
 						["preset"] = "manual",
-						["anchor"] = "BOTTOMLEFT",
-						["offsetY"] = 110,
+						["offsetY"] = 71,
 						["anchorMore"] = "BOTTOMLEFT",
 					},
 					["general"] = {

@@ -3534,15 +3534,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Фонтан анимы",
 		},
-		[155196] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Шлаковый элементаль",
-		},
 		[228852] = {
 			["school"] = 32,
 			["token"] = {
@@ -3560,6 +3551,15 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Хирург Трупошов",
+		},
+		[155196] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Шлаковый элементаль",
 		},
 		[227736] = {
 			["school"] = 1,
@@ -3876,13 +3876,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тред'ова",
 		},
-		[224126] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[323853] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Дух волка",
+			["source"] = "Жуткий молельщик",
 		},
 		[86360] = {
 			["school"] = 1,
@@ -3902,12 +3901,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Пушка \"Песочных часов\"",
 		},
-		[323853] = {
-			["school"] = 32,
+		[224126] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Жуткий молельщик",
+			["source"] = "Дух волка",
 		},
 		[229241] = {
 			["school"] = 1,
@@ -4458,13 +4458,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "\"Гномогедд-0Н\"",
 		},
-		[228738] = {
-			["school"] = 64,
+		[218508] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Нестабильная энергия",
+			["source"] = "Чародей Тел'арн",
 		},
 		[161092] = {
 			["school"] = 1,
@@ -4475,12 +4474,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Борка Бесчеловечный",
 		},
-		[161220] = {
-			["school"] = 4,
+		[228738] = {
+			["school"] = 64,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Осадная пушка",
+			["source"] = "Нестабильная энергия",
 		},
 		[320717] = {
 			["school"] = 1,
@@ -5488,12 +5488,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Макогг Угольный Клинок",
 		},
-		[218508] = {
-			["school"] = 1,
+		[161220] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Чародей Тел'арн",
+			["source"] = "Осадная пушка",
 		},
 		[321828] = {
 			["school"] = 8,

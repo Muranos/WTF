@@ -10,8 +10,8 @@ BigWigs_Azeroth: enabled
 AllTheThings: enabled
 WeakAurasArchive: enabled
 BigWigs_EternalPalace: enabled
-TradeSkillMaster: disabled
-TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
 MoveAnything: disabled
 Quartz: enabled
 BigWigs_Legion: enabled
@@ -44,7 +44,7 @@ TellMeWhen: enabled
 Scrap: enabled
 Bartender4: enabled
 BigWigs: enabled
-Castbars: enabled
+Castbars: disabled
 GlobalIgnoreList: enabled
 ExRT: enabled
 OPie: enabled
@@ -52,7 +52,7 @@ NOP: disabled
 PremadeGroupsFilter: enabled
 TidyPlates_ThreatPlates: enabled
 ZenTracker: enabled
-GottaGoFast: enabled
+GottaGoFast: disabled
 HandyNotes: enabled
 MasterPlan: enabled
 MasterPlanA: enabled
@@ -110,3 +110,9 @@ CovenantMissionHelper: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CombatText: enabled
+VenturePlan: disabled
+CrystalSockets: disabled
+BigWigs_DragonIsles: enabled
+Plater: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

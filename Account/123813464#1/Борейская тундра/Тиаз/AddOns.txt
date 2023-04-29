@@ -224,3 +224,5 @@ DataStore_Pets: disabled
 DataStore_Mails: disabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
+Plater: disabled
+VenturePlan: disabled

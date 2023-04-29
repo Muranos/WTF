@@ -41,7 +41,7 @@ PremadeGroupsFilterState = {
 		["heals"] = {
 			["max"] = "0",
 			["min"] = "",
-			["act"] = true,
+			["act"] = false,
 		},
 		["sorting"] = "",
 	},

@@ -7,22 +7,9 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["ilvl"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
 		["dps"] = {
 			["max"] = "",
 			["min"] = "",
-			["act"] = false,
-		},
-		["noilvl"] = {
-			["act"] = false,
-		},
-		["expression"] = "",
-		["difficulty"] = {
-			["val"] = 3,
 			["act"] = false,
 		},
 		["members"] = {
@@ -30,7 +17,17 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["defeated"] = {
+		["expression"] = "",
+		["difficulty"] = {
+			["act"] = false,
+			["val"] = 3,
+		},
+		["pvprating"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["mprating"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -40,10 +37,15 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["defeated"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["expert"] = false,
 		["sorting"] = "",
 	},
-	["expert"] = false,
-	["moveable"] = false,
+	["version"] = 4,
 	["t1c1f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
@@ -51,30 +53,27 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
-		["ilvl"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
 		["dps"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
-		},
-		["noilvl"] = {
-			["act"] = false,
-		},
-		["expression"] = "",
-		["difficulty"] = {
-			["act"] = false,
-			["val"] = 3,
 		},
 		["defeated"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
 		},
-		["members"] = {
+		["expression"] = "",
+		["difficulty"] = {
+			["val"] = 3,
+			["act"] = false,
+		},
+		["pvprating"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["mprating"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,
@@ -84,6 +83,12 @@ PremadeGroupsFilterState = {
 			["min"] = "",
 			["act"] = false,
 		},
+		["members"] = {
+			["max"] = "",
+			["min"] = "",
+			["act"] = false,
+		},
+		["expert"] = false,
 		["sorting"] = "",
 	},
 }

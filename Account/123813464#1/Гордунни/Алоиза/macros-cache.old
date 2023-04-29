@@ -23,7 +23,7 @@ VER 3 010000000000000A "Fortitude" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ @player] Темное восстановление
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ @player]Быстрое исцеление
 END
 VER 3 0100000000000008 "LeapOfFaith" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -71,8 +71,8 @@ VER 3 0100000000000005 "Shield" "INV_MISC_QUESTIONMARK"
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Слово силы: Щит; [@player] Слово силы: Щит
 END
 VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
-P1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1ET1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
-NСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NАтрПой[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

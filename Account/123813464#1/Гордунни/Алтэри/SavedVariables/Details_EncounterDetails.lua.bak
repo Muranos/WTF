@@ -69,21 +69,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эшелон",
 		},
-		[319724] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Неумирающий камнебес",
-		},
-		[338013] = {
+		[212258] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Гул'дан",
+		},
+		[220957] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Фонтан анимы",
+			["source"] = "Внутренний демон",
 		},
 		[323437] = {
 			["school"] = 32,
@@ -103,21 +104,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эшелон",
 		},
-		[209291] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Око Гул'дана",
-		},
-		[209463] = {
-			["school"] = 1,
+		[223134] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Око Гул'дана",
+			["source"] = "Внутренний демон",
+		},
+		[209971] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Элисанда",
 		},
 		[206939] = {
 			["school"] = 32,
@@ -127,13 +130,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[212258] = {
+		[338013] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Гул'дан",
+			["source"] = "Фонтан анимы",
 		},
 		[206222] = {
 			["school"] = 32,
@@ -143,23 +145,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[220957] = {
+		[338012] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Внутренний демон",
+			["source"] = "Фонтан анимы",
 		},
-		[206847] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[210022] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Внутренний демон",
+			["source"] = "Элисанда",
 		},
 		[323852] = {
 			["school"] = 1,
@@ -170,18 +169,18 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Жуткий молельщик",
 		},
-		[223134] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[229738] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Внутренний демон",
+			["source"] = "Элисанда",
 		},
-		[167935] = {
-			["school"] = 32,
+		[221783] = {
+			["school"] = 4,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Гул'дан",
@@ -207,13 +206,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Грехокаменная статуя",
 		},
-		[210022] = {
-			["school"] = 64,
+		[206339] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Элисанда",
+			["source"] = "Гул'дан",
 		},
 		[326997] = {
 			["school"] = 32,
@@ -244,12 +242,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Элисанда",
 		},
-		[206340] = {
-			["school"] = 4,
+		[329258] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Гул'дан",
+			["source"] = "Грехокаменная статуя",
 		},
 		[206221] = {
 			["school"] = 4,
@@ -274,13 +273,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Верховный адъюдикатор Ализа",
 		},
-		[229738] = {
+		[221864] = {
 			["school"] = 64,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Элисанда",
+			["source"] = "Рекурсивный элементаль",
 		},
 		[323221] = {
 			["school"] = 1,
@@ -298,13 +300,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эшелон",
 		},
-		[319733] = {
-			["school"] = 1,
+		[208626] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Эшелон",
+			["source"] = "Фрагмент души Аззинота",
 		},
 		[322936] = {
 			["school"] = 1,
@@ -315,27 +317,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Халкиас",
 		},
-		[208863] = {
+		[209244] = {
 			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Элисанда",
-		},
-		[206339] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Гул'дан",
-		},
-		[319603] = {
-			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Эшелон",
+			["source"] = "Элисанда",
+		},
+		[206847] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Внутренний демон",
+		},
+		[210546] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Элисанда",
 		},
 		[19497] = {
 			["school"] = 4,
@@ -344,15 +348,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Огнекамень",
 		},
-		[214278] = {
-			["school"] = 64,
-			["type"] = "BUFF",
+		[206340] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Элисанда",
+			["source"] = "Гул'дан",
 		},
 		[323001] = {
 			["school"] = 1,
@@ -374,13 +375,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Порочная сборщица",
 		},
-		[329258] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[214278] = {
+			["school"] = 64,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Грехокаменная статуя",
+			["source"] = "Элисанда",
 		},
 		[221437] = {
 			["school"] = 32,
@@ -392,11 +395,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Демоническая сущность",
 		},
-		[208626] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[221326] = {
+			["school"] = 127,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Фрагмент души Аззинота",
 		},
@@ -419,15 +424,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[20620] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[319733] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Мажордом Экзекутус",
+			["source"] = "Эшелон",
 		},
 		[208944] = {
 			["school"] = 64,
@@ -446,12 +449,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[345495] = {
-			["school"] = 8,
+		[227556] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Вспененная пустула",
+			["source"] = "Гул'дан",
 		},
 		[208865] = {
 			["school"] = 64,
@@ -507,13 +511,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[323143] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[345495] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Лорд-камергер",
+			["source"] = "Вспененная пустула",
 		},
 		[211152] = {
 			["school"] = 4,
@@ -523,13 +526,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[329168] = {
+		[322945] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Грехокаменная статуя",
+			["source"] = "Халкиас",
 		},
 		[208867] = {
 			["school"] = 64,
@@ -573,15 +575,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Лорд-камергер",
 		},
-		[206883] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[329168] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Тюремщик Д'зорикс",
+			["source"] = "Грехокаменная статуя",
 		},
 		[209248] = {
 			["school"] = 64,
@@ -606,12 +606,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Внутренний демон",
 		},
-		[322945] = {
-			["school"] = 1,
+		[206883] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Халкиас",
+			["source"] = "Тюремщик Д'зорикс",
 		},
 		[322977] = {
 			["school"] = 32,
@@ -623,53 +626,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Халкиас",
 		},
-		[329170] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Грехокаменная статуя",
-		},
-		[228267] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Гул'дан",
-		},
-		[221807] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Гул'дан",
-		},
-		[323393] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Лорд-камергер",
-		},
-		[209011] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Гул'дан",
-		},
-		[228190] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Гул'дан",
-		},
 		[206757] = {
 			["school"] = 32,
 			["token"] = {
@@ -677,19 +633,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тюремщик Д'зорикс",
 		},
-		[323552] = {
-			["school"] = 32,
+		[227251] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Верховный адъюдикатор Ализа",
-		},
-		[323392] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Лорд-камергер",
+			["source"] = "Ночная сфера",
 		},
 		[221728] = {
 			["school"] = 4,
@@ -709,6 +658,57 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Элисанда",
 		},
+		[209011] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Гул'дан",
+		},
+		[228190] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Гул'дан",
+		},
+		[329170] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Грехокаменная статуя",
+		},
+		[227300] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[323392] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Лорд-камергер",
+		},
+		[323552] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Верховный адъюдикатор Ализа",
+		},
+		[329171] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Грехокаменная статуя",
+		},
 		[208536] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -718,11 +718,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[227300] = {
-			["school"] = 64,
+		[227427] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Гул'дан",
 		},
 		[328124] = {
 			["school"] = 1,
@@ -777,14 +780,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Усиленное око Гул'дана",
 		},
-		[227427] = {
-			["school"] = 4,
+		[323393] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Гул'дан",
+			["source"] = "Лорд-камергер",
 		},
 		[206219] = {
 			["school"] = 4,
@@ -794,13 +798,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[329171] = {
-			["school"] = 1,
+		[221807] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Грехокаменная статуя",
+			["source"] = "Гул'дан",
 		},
 		[232692] = {
 			["school"] = 64,
@@ -809,12 +812,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[227251] = {
-			["school"] = 64,
+		[228267] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ночная сфера",
+			["source"] = "Гул'дан",
 		},
 		[323650] = {
 			["school"] = 32,
@@ -848,13 +851,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Внутренний демон",
 		},
-		[227556] = {
-			["school"] = 4,
+		[323143] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Гул'дан",
+			["source"] = "Лорд-камергер",
 		},
 		[206744] = {
 			["school"] = 32,
@@ -905,15 +908,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Фрагмент души Аззинота",
 		},
-		[221326] = {
-			["school"] = 127,
-			["type"] = "DEBUFF",
+		[20620] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Фрагмент души Аззинота",
+			["source"] = "Мажордом Экзекутус",
 		},
 		[206983] = {
 			["school"] = 32,
@@ -923,12 +926,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Паразитирующий темный демон",
 		},
-		[210546] = {
-			["school"] = 64,
+		[319603] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Элисанда",
+			["source"] = "Эшелон",
 		},
 		[209174] = {
 			["school"] = 64,
@@ -937,13 +941,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Элисанда",
 		},
-		[221436] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[208863] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Демоническая сущность",
+			["source"] = "Элисанда",
 		},
 		[335338] = {
 			["school"] = 32,
@@ -962,24 +965,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Фрагмент души Аззинота",
 		},
-		[221864] = {
-			["school"] = 64,
-			["type"] = "BUFF",
+		[209291] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Рекурсивный элементаль",
+			["source"] = "Око Гул'дана",
 		},
-		[209244] = {
-			["school"] = 64,
+		[221436] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Элисанда",
+			["source"] = "Демоническая сущность",
 		},
 		[209270] = {
 			["school"] = 32,
@@ -996,12 +996,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[338012] = {
+		[319724] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Фонтан анимы",
+			["source"] = "Неумирающий камнебес",
 		},
 		[221891] = {
 			["school"] = 32,
@@ -1012,22 +1014,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гул'дан",
 		},
-		[221783] = {
-			["school"] = 4,
+		[167935] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Гул'дан",
 		},
-		[209971] = {
-			["school"] = 64,
+		[209463] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Элисанда",
+			["source"] = "Око Гул'дана",
 		},
 		[228877] = {
 			["school"] = 64,

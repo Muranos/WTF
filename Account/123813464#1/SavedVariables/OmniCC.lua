@@ -1,9 +1,5 @@
 
 OmniCCDB = {
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "10.0.1",
-	},
 	["profileKeys"] = {
 		["Ниамэй - Гордунни"] = "По умолчанию",
 		["Алтери - Борейская тундра"] = "По умолчанию",
@@ -16,25 +12,29 @@ OmniCCDB = {
 		["Алтэри - Гордунни"] = "По умолчанию",
 		["Дэлери - Борейская тундра"] = "По умолчанию",
 		["Нирейя - Борейская тундра"] = "По умолчанию",
+		["Эллиата - Гордунни"] = "По умолчанию",
 		["Эстрея - Борейская тундра"] = "По умолчанию",
 		["Сайбил - Борейская тундра"] = "По умолчанию",
-		["Эллиата - Гордунни"] = "По умолчанию",
-		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Estrea - Alleria"] = "Default",
-		["Элави - Борейская тундра"] = "По умолчанию",
 		["Elavi - Durotan"] = "Default",
 		["Flaminika - Durotan"] = "Standard",
+		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Delery - Durotan"] = "Standard",
-		["Эрника - Борейская тундра"] = "По умолчанию",
 		["Зонна - Борейская тундра"] = "По умолчанию",
+		["Эрника - Борейская тундра"] = "По умолчанию",
+		["Элави - Борейская тундра"] = "По умолчанию",
+		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Ниоши - Борейская тундра"] = "По умолчанию",
 		["Алоиза - Гордунни"] = "По умолчанию",
 		["Хилопятьумер - Гордунни"] = "По умолчанию",
 		["Ниэтта - Гордунни"] = "По умолчанию",
 		["Фламиника - Борейская тундра"] = "По умолчанию",
 		["Дэлери - Гордунни"] = "По умолчанию",
+	},
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.0.5",
 	},
 	["profiles"] = {
 		["Standard"] = {
@@ -43,9 +43,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["seconds"] = {
 						},
-						["soon"] = {
-						},
 						["minutes"] = {
+						},
+						["soon"] = {
 						},
 					},
 				},
@@ -53,9 +53,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["minutes"] = {
 						},
-						["seconds"] = {
-						},
 						["soon"] = {
+						},
+						["seconds"] = {
 						},
 					},
 				},
@@ -67,9 +67,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["seconds"] = {
 						},
-						["soon"] = {
-						},
 						["minutes"] = {
+						},
+						["soon"] = {
 						},
 					},
 				},
@@ -77,23 +77,45 @@ OmniCCDB = {
 					["textStyles"] = {
 						["seconds"] = {
 						},
-						["soon"] = {
-						},
 						["minutes"] = {
+						},
+						["soon"] = {
 						},
 					},
 				},
 			},
 		},
 		["По умолчанию"] = {
+			["rules"] = {
+				{
+					["patterns"] = {
+						"PlaterMainAuraIcon", -- [1]
+						"PlaterSecondaryAuraIcon", -- [2]
+						"ExtraIconRowIcon", -- [3]
+					},
+					["id"] = "Plater Nameplates Rule",
+					["priority"] = 1,
+					["theme"] = "Plater Nameplates Theme",
+				}, -- [1]
+			},
 			["themes"] = {
 				["По умолчанию"] = {
 					["textStyles"] = {
-						["soon"] = {
-						},
 						["minutes"] = {
 						},
+						["soon"] = {
+						},
 						["seconds"] = {
+						},
+					},
+				},
+				["Plater Nameplates Theme"] = {
+					["textStyles"] = {
+						["soon"] = {
+						},
+						["seconds"] = {
+						},
+						["minutes"] = {
 						},
 					},
 				},
@@ -102,6 +124,9 @@ OmniCCDB = {
 	},
 }
 OmniCC4Config = {
+	["groups"] = {
+	},
+	["version"] = "8.2.5",
 	["groupSettings"] = {
 		["base"] = {
 			["minDuration"] = 2,
@@ -125,7 +150,4 @@ OmniCC4Config = {
 			["mmSSDuration"] = 0,
 		},
 	},
-	["groups"] = {
-	},
-	["version"] = "8.2.5",
 }

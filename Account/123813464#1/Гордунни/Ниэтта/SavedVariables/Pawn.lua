@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0712,
-	["LastPlayerFullName"] = "Ниэтта-Гордунни",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0718,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159446,
@@ -90,6 +88,8 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:175010::168642::::::120:66::6:7:4824:6578:6579:6541:1517:4786:6514:::|h[Бастион обезумевшего приверженца]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Ниэтта-Гордунни",
 	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128823] = {
@@ -112,15 +112,12 @@ PawnOptions = {
 		[128866] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 17,
 					["Type"] = "Holy",
 				}, -- [1]
 				{
-					["ItemLevel"] = 18,
 					["Type"] = "Iron",
 				}, -- [2]
 				{
-					["ItemLevel"] = 20,
 					["Type"] = "Arcane",
 				}, -- [3]
 			},

@@ -17,7 +17,7 @@ Frame: AllTheThings-Window-CurrentInstance
 FrameLevel: 1
 Anchor: LEFT
 X: 0
-Y: -136
+Y: -138
 W: 300
 H: 300
 Frame: AllTheThings-Window-RaidAssistant

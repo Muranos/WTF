@@ -263,3 +263,11 @@ RaiderIO_DB_KR_F: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CombatText: enabled
+RaiderIO_DB_US_R: disabled
+RaiderIO_DB_US_M: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled
+Plater: disabled
+VenturePlan: disabled

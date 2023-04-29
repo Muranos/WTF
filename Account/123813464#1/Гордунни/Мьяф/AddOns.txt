@@ -1,8 +1,8 @@
 OPie_Classic: disabled
 FriendGroups: disabled
 AllTheThings: enabled
-TradeSkillMaster: disabled
-TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
 MoveAnything: disabled
 Quartz: enabled
 Handynotes_Pandaria: disabled
@@ -44,3 +44,10 @@ DBM-StatusBarTimers: enabled
 DominationSocketHelper: disabled
 CovenantMissionHelper: disabled
 NOP: disabled
+VenturePlan: disabled
+CrystalSockets: disabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+GottaGoFast: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

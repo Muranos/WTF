@@ -1,12 +1,12 @@
 AuctionLite: disabled
 BalancePowerTracker_Options: disabled
 BalancePowerTracker: disabled
-Castbars: enabled
+Castbars: disabled
 CollectMe: enabled
 EclipseBarPlus: disabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
-HandyNotes_SummerFestival: enabled
+HandyNotes_SummerFestival: disabled
 IgnoreMore: disabled
 LFGCallToArmsBroker: enabled
 LFGForwarder: disabled
@@ -93,7 +93,7 @@ Titan: enabled
 VuhDo: enabled
 VuhDoOptions: enabled
 WorldQuestsList: enabled
-TradeSkillMaster: disabled
+TradeSkillMaster: enabled
 TradeSkillMaster_Auctioning: disabled
 WeakAuras: enabled
 PersonalLootHelper: disabled
@@ -133,7 +133,7 @@ DailyGlobalCheck_Midsummer: disabled
 CharacterQuickLinks: disabled
 HandyNotes_LunarFestival: enabled
 HandyNotes_HallowsEnd: enabled
-TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster_AppHelper: enabled
 Atlas: disabled
 Atlas_BurningCrusade: disabled
 Atlas_Cataclysm: disabled
@@ -263,3 +263,9 @@ NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CombatText: enabled
+VenturePlan: disabled
+CrystalSockets: disabled
+Plater: disabled
+GottaGoFast: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

@@ -280,12 +280,12 @@ PremadeGroupsFilterState = {
 		["dps"] = {
 			["max"] = "1",
 			["min"] = "",
-			["act"] = true,
+			["act"] = false,
 		},
 		["members"] = {
 			["max"] = "2",
 			["min"] = "",
-			["act"] = true,
+			["act"] = false,
 		},
 		["expression"] = "",
 		["difficulty"] = {
@@ -311,7 +311,7 @@ PremadeGroupsFilterState = {
 		["heals"] = {
 			["max"] = "0",
 			["min"] = "0",
-			["act"] = true,
+			["act"] = false,
 		},
 		["sorting"] = "",
 	},

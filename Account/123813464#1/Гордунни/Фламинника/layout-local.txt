@@ -17,7 +17,7 @@ Frame: AllTheThings-Window-CurrentInstance
 FrameLevel: 1
 Anchor: LEFT
 X: 0
-Y: -136
+Y: -138
 W: 300
 H: 300
 Frame: AllTheThings-Window-RaidAssistant
@@ -43,9 +43,9 @@ W: 500
 H: 400
 Frame: RematchPetCard
 FrameLevel: 1
-Anchor: CENTER
+Anchor: TOP
 X: -22
-Y: 168
+Y: -158
 W: 260
 H: 428
 Frame: AllTheThings-Window-Unsorted

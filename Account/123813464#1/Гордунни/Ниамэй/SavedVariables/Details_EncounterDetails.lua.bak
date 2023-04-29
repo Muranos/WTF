@@ -1,16 +1,5 @@
 
 EncounterDetailsDB = {
-	["emotes"] = {
-		{
-			["boss"] = "Кин-Тара",
-		}, -- [1]
-		{
-			["boss"] = "Халкиас, запятнанный грехом голиаф",
-		}, -- [2]
-		{
-			["boss"] = "Налтор Криомант",
-		}, -- [3]
-	},
 	["encounter_spells"] = {
 		[321975] = {
 			["school"] = 8,
@@ -412,21 +401,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вспененная пустула",
 		},
-		[321009] = {
-			["school"] = 1,
+		[320784] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Кин-Тара",
+			["source"] = "Налтор Криомант",
 		},
-		[327664] = {
-			["school"] = 40,
+		[321226] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Хирург Трупошов",
+			["source"] = "Амарт",
 		},
 		[321247] = {
 			["school"] = 32,
@@ -436,15 +427,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Амарт",
 		},
-		[320200] = {
+		[334321] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Хирург Трупошов",
 		},
@@ -471,14 +458,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Азуль",
 		},
-		[331966] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[334322] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Моровая слизь",
+			["source"] = "Создание Трупошва",
 		},
 		[321368] = {
 			["school"] = 16,
@@ -486,40 +471,6 @@ EncounterDetailsDB = {
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Налтор Криомант",
-		},
-		[320171] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Амарт",
-		},
-		[227291] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Нюцзао",
-		},
-		[320772] = {
-			["school"] = 16,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Налтор Криомант",
-		},
-		[320771] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Налтор Криомант",
 		},
@@ -531,18 +482,58 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Червь-трупоед",
 		},
-		[334322] = {
-			["school"] = 40,
+		[320771] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Создание Трупошва",
+			["source"] = "Налтор Криомант",
 		},
-		[334321] = {
-			["school"] = 1,
+		[320772] = {
+			["school"] = 16,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Налтор Криомант",
+		},
+		[227291] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Нюцзао",
+		},
+		[320171] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Амарт",
+		},
+		[331966] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Моровая слизь",
+		},
+		[320200] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Хирург Трупошов",
 		},
@@ -553,23 +544,32 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Налтор Криомант",
 		},
-		[321226] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[327664] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Амарт",
+			["source"] = "Хирург Трупошов",
 		},
-		[320784] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[321009] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Налтор Криомант",
+			["source"] = "Кин-Тара",
 		},
+	},
+	["emotes"] = {
+		{
+			["boss"] = "Кин-Тара",
+		}, -- [1]
+		{
+			["boss"] = "Халкиас, запятнанный грехом голиаф",
+		}, -- [2]
+		{
+			["boss"] = "Налтор Криомант",
+		}, -- [3]
 	},
 }

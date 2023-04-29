@@ -40,6 +40,13 @@ MADB = {
 					},
 				},
 				["TalkingHeadFrame"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
 					["name"] = "TalkingHeadFrame",
 					["pos"] = {
 						"BOTTOM", -- [1]
@@ -60,6 +67,13 @@ MADB = {
 					},
 				},
 				["OverrideActionBarExpBar"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"OverrideActionBarBG", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						27, -- [5]
+					},
 					["name"] = "OverrideActionBarExpBar",
 					["pos"] = {
 						"TOP", -- [1]

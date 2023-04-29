@@ -17,15 +17,15 @@ CastbarsDB = {
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Мининевра - Азурегос"] = "Мининевра - Азурегос",
 		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
 		["Estrea - Alleria"] = "Estrea - Alleria",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Niamei - Silvermoon"] = "Niamei - Silvermoon",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
 		["Delery - Durotan"] = "Delery - Durotan",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Elavi - Durotan"] = "Elavi - Durotan",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
@@ -595,64 +595,10 @@ CastbarsDB = {
 				["ShowCooldownSpark"] = false,
 			},
 		},
-		["Nietta - EU Mythic Dungeons"] = {
-			["FocusCastingBarFrame"] = {
-				["Show"] = true,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					0.800000011920929, -- [4]
-				},
-				["Height"] = 29,
-				["BorderWidthAdjustment"] = 2.400000000000002,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 367,
-			},
-			["PetCastingBarFrame"] = {
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 6.999986171722412,
-					["point"] = "BOTTOM",
-					["y"] = 107.0004272460938,
-				},
-			},
-			["CastingBarFrame"] = {
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 2.000014781951904,
-					["point"] = "BOTTOM",
-					["y"] = 77.9999771118164,
-				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["ShowCooldownSpark"] = false,
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
-			},
+		["Эрника - Борейская тундра"] = {
 			["MirrorTimer"] = {
 			},
-			["TargetCastingBarFrame"] = {
-				["FontSize"] = 15,
-				["Position"] = {
-					["relpoint"] = "RIGHT",
-					["x"] = -392.9995422363281,
-					["point"] = "RIGHT",
-					["y"] = -2.000244617462158,
-				},
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
-				["Height"] = 24,
-				["BorderWidthAdjustment"] = 1.300000000000001,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 302,
+			["FocusCastingBarFrame"] = {
 			},
 		},
 		["Эллиата - Гордунни"] = {
@@ -775,7 +721,7 @@ CastbarsDB = {
 				["Width"] = 302,
 			},
 		},
-		["Flaminika - Durotan"] = {
+		["Nietta - EU Mythic Dungeons"] = {
 			["FocusCastingBarFrame"] = {
 				["Show"] = true,
 				["BorderColor"] = {
@@ -792,10 +738,28 @@ CastbarsDB = {
 			["PetCastingBarFrame"] = {
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
-					["x"] = 11.99995803833008,
+					["x"] = 6.999986171722412,
 					["point"] = "BOTTOM",
-					["y"] = 127.00048828125,
+					["y"] = 107.0004272460938,
 				},
+			},
+			["CastingBarFrame"] = {
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 2.000014781951904,
+					["point"] = "BOTTOM",
+					["y"] = 77.9999771118164,
+				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["ShowCooldownSpark"] = false,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
+			},
+			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
@@ -815,24 +779,6 @@ CastbarsDB = {
 				["BorderWidthAdjustment"] = 1.300000000000001,
 				["Border"] = "Blizzard Tooltip",
 				["Width"] = 302,
-			},
-			["MirrorTimer"] = {
-			},
-			["CastingBarFrame"] = {
-				["ShowCooldownSpark"] = false,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 7.999993801116943,
-					["point"] = "BOTTOM",
-					["y"] = 98.99994659423828,
-				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
 			},
 		},
 		["Niamei - Silvermoon"] = {
@@ -1023,10 +969,64 @@ CastbarsDB = {
 				},
 			},
 		},
-		["Эрника - Борейская тундра"] = {
+		["Flaminika - Durotan"] = {
+			["FocusCastingBarFrame"] = {
+				["Show"] = true,
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					0.800000011920929, -- [4]
+				},
+				["Height"] = 29,
+				["BorderWidthAdjustment"] = 2.400000000000002,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 367,
+			},
+			["PetCastingBarFrame"] = {
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 11.99995803833008,
+					["point"] = "BOTTOM",
+					["y"] = 127.00048828125,
+				},
+			},
+			["TargetCastingBarFrame"] = {
+				["FontSize"] = 15,
+				["Position"] = {
+					["relpoint"] = "RIGHT",
+					["x"] = -392.9995422363281,
+					["point"] = "RIGHT",
+					["y"] = -2.000244617462158,
+				},
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
+				},
+				["Height"] = 24,
+				["BorderWidthAdjustment"] = 1.300000000000001,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 302,
+			},
 			["MirrorTimer"] = {
 			},
-			["FocusCastingBarFrame"] = {
+			["CastingBarFrame"] = {
+				["ShowCooldownSpark"] = false,
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 7.999993801116943,
+					["point"] = "BOTTOM",
+					["y"] = 98.99994659423828,
+				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
 			},
 		},
 		["Элави - Борейская тундра"] = {

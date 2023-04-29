@@ -48,3 +48,15 @@ Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 Quartz: enabled
 Blizzard_CombatText: enabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
+VenturePlan: disabled
+Castbars: disabled
+CrystalSockets: disabled
+LittleWigs_Classic: enabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+GottaGoFast: disabled
+HandyNotes_SummerFestival: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

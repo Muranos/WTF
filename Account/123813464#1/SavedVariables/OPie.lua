@@ -4,20 +4,20 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "10.0.2",
-	["_OPieVersion"] = "Yuzu 3 (4.111)",
+	["_GameVersion"] = "10.0.7",
+	["_OPieVersion"] = "Yuzu 8a (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["OPieTracking"] = false,
-				["Teleports"] = "F8",
 				["OPieAutoQuest"] = false,
+				["Teleports"] = "F8",
+				["SpecMenu"] = "F5",
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["SpecMenu"] = "F5",
+				["OPieTracking"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -55,57 +55,37 @@ OPie_SavedData = {
 			},
 			["Teleports"] = {
 				{
-					["sliceToken"] = "ABuec0ax6Ewr",
-					["id"] = 354462,
+					["sliceToken"] = "ABuevM=oX9e",
+					["id"] = 393256,
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuec0ax6Ewe",
-					["id"] = 354464,
+					["sliceToken"] = "ABuebwqoWwe",
+					["id"] = 393766,
 				}, -- [2]
 				{
-					["sliceToken"] = "ABuec0ax6Eww",
-					["id"] = 354466,
+					["sliceToken"] = "ABuebugryyl",
+					["id"] = 131204,
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuec0ax6Ewq",
-					["id"] = 354468,
+					["sliceToken"] = "ABuebugryyk",
+					["id"] = 393764,
 				}, -- [4]
 				{
-					["sliceToken"] = "ABuec0ax6EM",
-					["id"] = 367416,
+					["sliceToken"] = "ABuebugryyj",
+					["id"] = 393273,
 				}, -- [5]
 				{
-					["sliceToken"] = "ABuec0ax6EN",
-					["id"] = 373274,
+					["sliceToken"] = "ABuebugryy4",
+					["id"] = 393262,
 				}, -- [6]
 				{
-					["sliceToken"] = "ABuec0ax6EB",
-					["id"] = 159900,
+					["sliceToken"] = "ABuebugryyh",
+					["id"] = 393279,
 				}, -- [7]
 				{
-					["sliceToken"] = "ABuec0ax6E/",
-					["id"] = 354463,
+					["sliceToken"] = "ABuebugryyg",
+					["id"] = 159899,
 				}, -- [8]
-				{
-					["sliceToken"] = "ABuec0ax6EV",
-					["id"] = 354465,
-				}, -- [9]
-				{
-					["sliceToken"] = "ABuec0ax6EC",
-					["id"] = 354467,
-				}, -- [10]
-				{
-					["sliceToken"] = "ABuec0ax6EX",
-					["id"] = 354469,
-				}, -- [11]
-				{
-					["sliceToken"] = "ABuecJ1BA5r",
-					["id"] = 373262,
-				}, -- [12]
-				{
-					["sliceToken"] = "ABuec=I23ee",
-					["id"] = 159896,
-				}, -- [13]
 				["name"] = "Teleports",
 				["save"] = true,
 				["hotkey"] = "F8",
@@ -284,6 +264,11 @@ OPie_SavedData = {
 					187603, -- [2]
 					["sliceToken"] = "ABue55fLnCe",
 				}, -- [11]
+				{
+					"toy", -- [1]
+					168667, -- [2]
+					["sliceToken"] = "ABuebemUvde",
+				}, -- [12]
 				["name"] = "Extras",
 				["save"] = true,
 			},

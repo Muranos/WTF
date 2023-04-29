@@ -42,7 +42,7 @@ VER 3 0100000000000004 "MountUP" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 "Renew" "INV_MISC_QUESTIONMARK"
 #showtooltip Восстановление
-/cast  [modifier:SELFCAST,@player][@mouseover,help,nodead] Восстановление
+/cast  [modifier:SELFCAST,@player][@mouseover,help,nodead][@player] Восстановление
 END
 VER 3 0100000000000009 "RenewForMe" "INV_MISC_QUESTIONMARK"
 #showtooltip Восстановление
@@ -67,7 +67,7 @@ VER 3 0100000000000007 "Trees" "INV_MISC_QUESTIONMARK"
 /cast [@cursor] Сила природы
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
 N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Эст[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]

@@ -40,3 +40,14 @@ Quartz: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CombatText: enabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
+VenturePlan: disabled
+Castbars: disabled
+CrystalSockets: disabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+GottaGoFast: disabled
+HandyNotes_SummerFestival: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

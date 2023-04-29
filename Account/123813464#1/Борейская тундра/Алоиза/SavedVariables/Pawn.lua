@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0538,
+	["LastVersion"] = 2.0716,
+	["LastPlayerFullName"] = "Алоиза-Борейская тундра",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 174118,
@@ -89,10 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159668::::::::50:258::35:8:6536:6578:6579:6473:6470:6515:1543:4786::::|h[Громыхающая банка с глазами]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
-	["LastPlayerFullName"] = "Алоиза-Борейская тундра",
 	["Artifacts"] = {
 		[128868] = {
 			["Relics"] = {
@@ -134,6 +133,7 @@ PawnOptions = {
 			["Name"] = "Удочка Темносвета",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

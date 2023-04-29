@@ -17,15 +17,15 @@ CastbarsDB = {
 		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 		["Мининевра - Азурегос"] = "Мининевра - Азурегос",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
 		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Niamei - Silvermoon"] = "Niamei - Silvermoon",
 		["Estrea - Alleria"] = "Estrea - Alleria",
 		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 		["Delery - Durotan"] = "Delery - Durotan",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Elavi - Durotan"] = "Elavi - Durotan",
@@ -595,7 +595,7 @@ CastbarsDB = {
 				["BorderWidthAdjustment"] = 1.600000000000001,
 			},
 		},
-		["Flaminika - Durotan"] = {
+		["Nietta - EU Mythic Dungeons"] = {
 			["FocusCastingBarFrame"] = {
 				["Show"] = true,
 				["BorderColor"] = {
@@ -612,28 +612,10 @@ CastbarsDB = {
 			["PetCastingBarFrame"] = {
 				["Position"] = {
 					["relpoint"] = "BOTTOM",
-					["x"] = 11.99995803833008,
+					["x"] = 6.999986171722412,
 					["point"] = "BOTTOM",
-					["y"] = 127.00048828125,
+					["y"] = 107.0004272460938,
 				},
-			},
-			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 7.999993801116943,
-					["point"] = "BOTTOM",
-					["y"] = 98.99994659423828,
-				},
-				["ShowCooldownSpark"] = false,
-			},
-			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["FontSize"] = 15,
@@ -653,6 +635,24 @@ CastbarsDB = {
 				["BorderWidthAdjustment"] = 1.300000000000001,
 				["Border"] = "Blizzard Tooltip",
 				["Width"] = 302,
+			},
+			["MirrorTimer"] = {
+			},
+			["CastingBarFrame"] = {
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
+				["ShowCooldownSpark"] = false,
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 2.000014781951904,
+					["point"] = "BOTTOM",
+					["y"] = 77.9999771118164,
+				},
 			},
 		},
 		["Эллиата - Гордунни"] = {
@@ -775,10 +775,64 @@ CastbarsDB = {
 				["Width"] = 302,
 			},
 		},
-		["Эрника - Борейская тундра"] = {
+		["Flaminika - Durotan"] = {
+			["FocusCastingBarFrame"] = {
+				["Show"] = true,
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					0.800000011920929, -- [4]
+				},
+				["Height"] = 29,
+				["BorderWidthAdjustment"] = 2.400000000000002,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 367,
+			},
+			["PetCastingBarFrame"] = {
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 11.99995803833008,
+					["point"] = "BOTTOM",
+					["y"] = 127.00048828125,
+				},
+			},
+			["CastingBarFrame"] = {
+				["BorderColor"] = {
+					0.9607843137254902, -- [1]
+					0.9607843137254902, -- [2]
+					0.9607843137254902, -- [3]
+					1, -- [4]
+				},
+				["BorderWidthAdjustment"] = 1.600000000000001,
+				["Position"] = {
+					["relpoint"] = "BOTTOM",
+					["x"] = 7.999993801116943,
+					["point"] = "BOTTOM",
+					["y"] = 98.99994659423828,
+				},
+				["ShowCooldownSpark"] = false,
+			},
 			["MirrorTimer"] = {
 			},
-			["FocusCastingBarFrame"] = {
+			["TargetCastingBarFrame"] = {
+				["FontSize"] = 15,
+				["BorderColor"] = {
+					0.9921568627450981, -- [1]
+					0.9921568627450981, -- [2]
+					0.9921568627450981, -- [3]
+					1, -- [4]
+				},
+				["Position"] = {
+					["relpoint"] = "RIGHT",
+					["x"] = -392.9995422363281,
+					["point"] = "RIGHT",
+					["y"] = -2.000244617462158,
+				},
+				["Height"] = 24,
+				["BorderWidthAdjustment"] = 1.300000000000001,
+				["Border"] = "Blizzard Tooltip",
+				["Width"] = 302,
 			},
 		},
 		["Niamei - Silvermoon"] = {
@@ -915,64 +969,10 @@ CastbarsDB = {
 				["Width"] = 302,
 			},
 		},
-		["Nietta - EU Mythic Dungeons"] = {
-			["FocusCastingBarFrame"] = {
-				["Show"] = true,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					0.800000011920929, -- [4]
-				},
-				["Height"] = 29,
-				["BorderWidthAdjustment"] = 2.400000000000002,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 367,
-			},
-			["PetCastingBarFrame"] = {
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 6.999986171722412,
-					["point"] = "BOTTOM",
-					["y"] = 107.0004272460938,
-				},
-			},
-			["TargetCastingBarFrame"] = {
-				["FontSize"] = 15,
-				["BorderColor"] = {
-					0.9921568627450981, -- [1]
-					0.9921568627450981, -- [2]
-					0.9921568627450981, -- [3]
-					1, -- [4]
-				},
-				["Position"] = {
-					["relpoint"] = "RIGHT",
-					["x"] = -392.9995422363281,
-					["point"] = "RIGHT",
-					["y"] = -2.000244617462158,
-				},
-				["Height"] = 24,
-				["BorderWidthAdjustment"] = 1.300000000000001,
-				["Border"] = "Blizzard Tooltip",
-				["Width"] = 302,
-			},
+		["Эрника - Борейская тундра"] = {
 			["MirrorTimer"] = {
 			},
-			["CastingBarFrame"] = {
-				["BorderColor"] = {
-					0.9607843137254902, -- [1]
-					0.9607843137254902, -- [2]
-					0.9607843137254902, -- [3]
-					1, -- [4]
-				},
-				["ShowCooldownSpark"] = false,
-				["BorderWidthAdjustment"] = 1.600000000000001,
-				["Position"] = {
-					["relpoint"] = "BOTTOM",
-					["x"] = 2.000014781951904,
-					["point"] = "BOTTOM",
-					["y"] = 77.9999771118164,
-				},
+			["FocusCastingBarFrame"] = {
 			},
 		},
 		["Delery - Durotan"] = {

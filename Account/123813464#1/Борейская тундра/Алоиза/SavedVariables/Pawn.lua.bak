@@ -91,6 +91,7 @@ PawnOptions = {
 	},
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["LastPlayerFullName"] = "Алоиза-Борейская тундра",
 	["Artifacts"] = {
 		[128868] = {
@@ -133,7 +134,6 @@ PawnOptions = {
 			["Name"] = "Удочка Темносвета",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

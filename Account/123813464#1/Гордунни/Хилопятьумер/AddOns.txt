@@ -22,8 +22,8 @@ Details: disabled
 Scrap: enabled
 Castbars: disabled
 TwintopInsanityBar: disabled
-TradeSkillMaster: disabled
-TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
 !BugGrabber: disabled
@@ -48,3 +48,10 @@ CovenantMissionHelper: disabled
 MoveAnything: disabled
 NOP: disabled
 Quartz: enabled
+VenturePlan: disabled
+CrystalSockets: disabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+GottaGoFast: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

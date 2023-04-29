@@ -78,7 +78,14 @@ NewOpenablesProfile = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["Skip"] = true,
+			["qb"] = {
+				"TOPLEFT", -- [1]
+				"NOP_BUTTON", -- [2]
+				"TOPLEFT", -- [3]
+			},
 			["autoquest"] = true,
+			["lockButton"] = true,
 			["T_BLACKLIST"] = {
 				[0] = true,
 				[168652] = true,
@@ -103,7 +110,7 @@ NewOpenablesProfile = {
 				[89112] = true,
 				[152496] = true,
 				[169451] = true,
-				[163222] = true,
+				[142117] = true,
 				[178742] = true,
 				[180111] = true,
 				[174460] = true,
@@ -129,8 +136,8 @@ NewOpenablesProfile = {
 				[127835] = true,
 				[127839] = true,
 				[168651] = true,
-				[142117] = true,
 				[183823] = true,
+				[163222] = true,
 			},
 			["button"] = {
 				nil, -- [1]
@@ -139,13 +146,6 @@ NewOpenablesProfile = {
 				420, -- [4]
 				-449.9999084472656, -- [5]
 			},
-			["Skip"] = true,
-			["qb"] = {
-				"TOPLEFT", -- [1]
-				"NOP_BUTTON", -- [2]
-				"TOPLEFT", -- [3]
-			},
-			["lockButton"] = true,
 		},
 	},
 }

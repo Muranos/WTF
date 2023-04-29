@@ -37,7 +37,7 @@ VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 "HolyLight" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Свет небес
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословение защиты от заклинаний
 END
 VER 3 010000000000000C "HolyShock" "INV_MISC_QUESTIONMARK"
 #showtooltip

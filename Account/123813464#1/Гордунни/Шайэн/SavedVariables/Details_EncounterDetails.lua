@@ -3702,15 +3702,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Фонтан анимы",
 		},
-		[228852] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ловчий Аттумен",
-		},
 		[320366] = {
 			["school"] = 40,
 			["type"] = "DEBUFF",
@@ -3728,6 +3719,15 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Шлаковый элементаль",
+		},
+		[228852] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ловчий Аттумен",
 		},
 		[168402] = {
 			["school"] = 1,
@@ -4623,12 +4623,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "\"Гномогедд-0Н\"",
 		},
-		[218508] = {
-			["school"] = 1,
+		[161220] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Чародей Тел'арн",
+			["source"] = "Осадная пушка",
 		},
 		[161092] = {
 			["school"] = 1,
@@ -4639,13 +4639,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Борка Бесчеловечный",
 		},
-		[228738] = {
-			["school"] = 64,
+		[218508] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Нестабильная энергия",
+			["source"] = "Чародей Тел'арн",
 		},
 		[320717] = {
 			["school"] = 1,
@@ -5653,12 +5652,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Макогг Угольный Клинок",
 		},
-		[161220] = {
-			["school"] = 4,
+		[228738] = {
+			["school"] = 64,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Осадная пушка",
+			["source"] = "Нестабильная энергия",
 		},
 		[346959] = {
 			["school"] = 2,

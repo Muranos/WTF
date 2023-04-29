@@ -119,14 +119,14 @@ END
 VER 3 0000000000000039 "Mark_Diamond" "135742"
 /run SetRaidTarget("mouseover", 3);
 END
-VER 3 000000000000003A "Mark_Moon" "135745"
-/run SetRaidTarget("mouseover", 5);
-END
 VER 3 000000000000003B "Mark_Skull" "135743"
 /run SetRaidTarget("mouseover", 8);
 END
 VER 3 0000000000000048 "Mark_Square" "INV_MISC_QUESTIONMARK"
 /run SetRaidTarget("mouseover", 4);
+END
+VER 3 000000000000003A "Mark_Square" "135745"
+/run SetRaidTarget("mouseover", 6);
 END
 VER 3 0000000000000037 "Mark_Star" "135749"
 /run SetRaidTarget("mouseover", 1);

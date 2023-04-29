@@ -16,16 +16,16 @@ SimulationCraftDB = {
 		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
 		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
-		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 		["Estrea - Alleria"] = "Estrea - Alleria",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
 		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Delery - Durotan"] = "Delery - Durotan",
+		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+		["Flaminika - Durotan"] = "Flaminika - Durotan",
+		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
 		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+		["Delery - Durotan"] = "Delery - Durotan",
 		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
 		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
 		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -94,29 +94,22 @@ SimulationCraftDB = {
 				["minimapPos"] = 120.8275025907426,
 			},
 		},
-		["Estrea - EU Mythic Dungeons"] = {
+		["Estrea - Alleria"] = {
 		},
-		["Зонна - Борейская тундра"] = {
-			["minimap"] = {
-				["minimapPos"] = 115.4265923719718,
-			},
+		["Elavi - Durotan"] = {
 		},
 		["Элави - Борейская тундра"] = {
 		},
-		["Estrea - Alleria"] = {
+		["Estrea - EU Mythic Dungeons"] = {
 		},
 		["Flaminika - Durotan"] = {
 			["minimap"] = {
 				["minimapPos"] = 153.4348647020085,
 			},
 		},
-		["Elavi - Durotan"] = {
-		},
-		["Эрника - Борейская тундра"] = {
-		},
-		["Delery - Durotan"] = {
+		["Зонна - Борейская тундра"] = {
 			["minimap"] = {
-				["minimapPos"] = 155.9556204495023,
+				["minimapPos"] = 115.4265923719718,
 			},
 		},
 		["Nietta - EU Mythic Dungeons"] = {
@@ -124,6 +117,13 @@ SimulationCraftDB = {
 		["Flaminika - Silvermoon"] = {
 			["minimap"] = {
 				["minimapPos"] = 108.9464399997288,
+			},
+		},
+		["Эрника - Борейская тундра"] = {
+		},
+		["Delery - Durotan"] = {
+			["minimap"] = {
+				["minimapPos"] = 155.9556204495023,
 			},
 		},
 		["Ниоши - Борейская тундра"] = {

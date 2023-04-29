@@ -23,7 +23,7 @@ VER 3 010000000000000A "Fortitude" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ @player] Темное восстановление
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ @player]Быстрое исцеление
 END
 VER 3 0100000000000008 "LeapOfFaith" "INV_MISC_QUESTIONMARK"
 #showtooltip

@@ -1,8 +1,8 @@
 OPie_Classic: disabled
 FriendGroups: disabled
 AllTheThings: enabled
-TradeSkillMaster: disabled
-TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
 MoveAnything: disabled
 Quartz: enabled
 BigWigs_Options: enabled
@@ -41,7 +41,7 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 UnitFramesImproved: disabled
-Castbars: enabled
+Castbars: disabled
 Gnosis: disabled
 TwintopInsanityBar: disabled
 TomCats-ArathiHighlandsRares: disabled
@@ -111,3 +111,10 @@ NOP: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CombatText: enabled
+VenturePlan: disabled
+CrystalSockets: disabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+GottaGoFast: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled

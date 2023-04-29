@@ -33,3 +33,5 @@ DataStore_Mails: disabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
 TomCats: disabled
+Plater: disabled
+VenturePlan: disabled

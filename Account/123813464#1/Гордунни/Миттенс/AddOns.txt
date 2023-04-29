@@ -1,5 +1,5 @@
-TradeSkillMaster: disabled
-TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
 Simulationcraft: disabled
@@ -32,3 +32,12 @@ CovenantMissionHelper: disabled
 MoveAnything: disabled
 NOP: disabled
 Quartz: enabled
+VenturePlan: disabled
+Castbars: disabled
+CrystalSockets: disabled
+TidyPlates_ThreatPlates: enabled
+Plater: disabled
+GottaGoFast: disabled
+HandyNotes_SummerFestival: disabled
+VenturePlanSoDMissions: disabled
+MovementSpeed: disabled
