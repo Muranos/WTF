@@ -57,6 +57,6 @@ LittleWigs_Classic: enabled
 TidyPlates_ThreatPlates: enabled
 Plater: disabled
 GottaGoFast: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled

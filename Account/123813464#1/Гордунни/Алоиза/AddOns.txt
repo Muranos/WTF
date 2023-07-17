@@ -23,7 +23,7 @@ WeakAurasArchive: enabled
 MoveAnything: disabled
 Quartz: enabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 RCLootCouncil: enabled
 TomCats-Nzoth: disabled
 BigWigs_Legion: enabled
@@ -105,3 +105,5 @@ LittleWigs_MistsOfPandaria: enabled
 GottaGoFast: disabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Cataclysm: enabled

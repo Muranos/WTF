@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1714,
 	["lastSanitation"] = 3,
-	["session"] = 1685,
 	["errors"] = {
 		{
 			["message"] = "...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:470: Action[FrameMeasurement] failed because[Can't measure restricted regions]: attempted from: <unnamed>:GetLeft().",
@@ -167,62 +167,62 @@ BugGrabberDB = {
 		}, -- [21]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\libs/LibStub/LibStub.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [22]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/locale.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [23]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/enUS.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [24]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/deDE.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [25]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/esES.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [26]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/frFR.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [27]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/itIT.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [28]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/koKR.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [29]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/ptBR.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [30]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO\\locale/ruRU.lua",
-			["session"] = 650,
 			["time"] = "2021/05/24 19:07:17",
+			["session"] = 650,
 			["counter"] = 1,
 		}, -- [31]
 		{
@@ -558,8 +558,8 @@ BugGrabberDB = {
 		}, -- [76]
 		{
 			["message"] = "Couldn't open Interface\\AddOns\\LittleWigs_Legion\\LittleWigs_Legion.toc",
-			["time"] = "2022/09/30 00:25:12",
 			["session"] = 1579,
+			["time"] = "2022/09/30 00:25:12",
 			["counter"] = 2,
 		}, -- [77]
 		{
@@ -585,8 +585,8 @@ BugGrabberDB = {
 		}, -- [80]
 		{
 			["message"] = "File Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua is empty.",
-			["session"] = 1612,
 			["time"] = "2021/03/18 00:10:28",
+			["session"] = 1612,
 			["counter"] = 1527,
 		}, -- [81]
 		{
@@ -653,8 +653,8 @@ BugGrabberDB = {
 		}, -- [89]
 		{
 			["message"] = "Interface/AddOns/MasterPlan/PlanA/PlanA.lua:1 (null)",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1614,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 2,
 		}, -- [90]
 		{
@@ -726,8 +726,8 @@ BugGrabberDB = {
 		}, -- [99]
 		{
 			["message"] = "Interface/AddOns/OPie/Meta/StanceBar.lua:1 (null)",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1618,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 6,
 		}, -- [100]
 		{
@@ -864,8 +864,8 @@ BugGrabberDB = {
 		}, -- [117]
 		{
 			["message"] = "Interface/AddOns/RCLootCouncil/core.lua:1 (null)",
-			["time"] = "2022/10/29 01:38:47",
 			["session"] = 1624,
+			["time"] = "2022/10/29 01:38:47",
 			["counter"] = 10,
 		}, -- [118]
 		{
@@ -898,8 +898,8 @@ BugGrabberDB = {
 		}, -- [122]
 		{
 			["message"] = "Interface/AddOns/TellMeWhen/Options/includes.xml:145 Couldn't open Interface/AddOns/Components/IconTypes/IconType_runes/Config.xml",
-			["time"] = "2022/11/10 20:36:12",
 			["session"] = 1629,
+			["time"] = "2022/11/10 20:36:12",
 			["counter"] = 2,
 		}, -- [123]
 		{
@@ -1048,38 +1048,38 @@ BugGrabberDB = {
 		}, -- [143]
 		{
 			["message"] = "Interface/AddOns/OmniCD/Modules/Party/templates.xml:63 Unrecognized XML: Anchors",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1652,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 37,
 		}, -- [144]
 		{
 			["message"] = "Interface/AddOns/OmniCD/Modules/Party/templates.xml:64 Unrecognized XML: Anchor",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1652,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 37,
 		}, -- [145]
 		{
 			["message"] = "Interface/AddOns/OmniCD/Modules/Party/templates.xml:64 Unrecognized XML attribute: point",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1652,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 37,
 		}, -- [146]
 		{
 			["message"] = "Interface/AddOns/OmniCD/Modules/Party/templates.xml:68 Unrecognized XML attribute: hidden",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1652,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 37,
 		}, -- [147]
 		{
 			["message"] = "Interface/AddOns/OmniCD/Modules/Party/templates.xml:200 Unrecognized XML: CheckedTexture",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1652,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 37,
 		}, -- [148]
 		{
 			["message"] = "Interface/AddOns/OmniCD/Modules/Party/statusBar.xml:50 Unrecognized XML attribute: toplevel",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1652,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 37,
 		}, -- [149]
 		{
@@ -1106,14 +1106,14 @@ BugGrabberDB = {
 		}, -- [152]
 		{
 			["message"] = "Interface/AddOns/VenturePlanSoDMissions/extra-vs-spells.lua:1 (null)",
-			["time"] = "2022/11/07 00:02:55",
 			["session"] = 1655,
+			["time"] = "2022/11/07 00:02:55",
 			["counter"] = 28,
 		}, -- [153]
 		{
 			["message"] = "Interface\\FrameXML\\Bindings.xml:1 Interface/AddOns/VenturePlanSoDMissions/extra-vs-spells.lua:1 (null)",
-			["time"] = "2022/12/11 18:18:24",
 			["session"] = 1655,
+			["time"] = "2022/12/11 18:18:24",
 			["counter"] = 3,
 		}, -- [154]
 		{
@@ -1168,8 +1168,8 @@ BugGrabberDB = {
 		}, -- [161]
 		{
 			["message"] = "Interface\\FrameXML\\Bindings.xml:1 Interface/AddOns/MovementSpeed/MovementSpeed.lua:1 (null)",
-			["time"] = "2022/12/11 18:18:24",
 			["session"] = 1669,
+			["time"] = "2022/12/11 18:18:24",
 			["counter"] = 16,
 		}, -- [162]
 		{
@@ -1281,50 +1281,50 @@ BugGrabberDB = {
 		}, -- [176]
 		{
 			["message"] = "Interface/AddOns/MoveAnything/MoveAnything.xml:532 Unrecognized XML: TitleRegion",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [177]
 		{
 			["message"] = "Interface/AddOns/MoveAnything/MoveAnything.xml:532 Unrecognized XML attribute: setAllPoints",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [178]
 		{
 			["message"] = "Interface/AddOns/MovementSpeed/MovementSpeed.lua:1 (null)",
-			["time"] = "2022/10/27 01:08:16",
 			["session"] = 1680,
+			["time"] = "2022/10/27 01:08:16",
 			["counter"] = 56,
 		}, -- [179]
 		{
 			["message"] = "Interface/AddOns/NOP/LibQuestItem-1.0-27/LibQuestItem-1.0.lua:1 (null)",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [180]
 		{
 			["message"] = "Interface/AddOns/NOP/nop-core.lua:1 (null)",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [181]
 		{
 			["message"] = "Interface/AddOns/NOP/nop-item.lua:1 (null)",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [182]
 		{
 			["message"] = "Interface/AddOns/NOP/nop-slash.lua:1 (null)",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [183]
 		{
 			["message"] = "Interface/AddOns/TipTacTalents/ttTalents.lua:1 (null)",
-			["time"] = "2023/04/01 14:40:26",
 			["session"] = 1680,
+			["time"] = "2023/04/01 14:40:26",
 			["counter"] = 3,
 		}, -- [184]
 		{
@@ -1344,64 +1344,136 @@ BugGrabberDB = {
 			["counter"] = 505,
 		}, -- [186]
 		{
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.4.4\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/04/05 01:14:36",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1890: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1674: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1524>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1867: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1159: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1121>",
+			["session"] = 1686,
+			["counter"] = 29950,
+		}, -- [187]
+		{
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.5.3\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/05/21 22:04:32",
+			["locals"] = "states = <table> {\n}\nchanged = false\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 188592 = false\n 118291 = false\n 157319 = 2065626\n 157299 = 2065626\n}\n(for control) = 188592\nk = 188592\nv = false\n(*temporary) = nil\n(*temporary) = 188592\n(*temporary) = \"attempt to call global 'GetPlayerAuraBySpellID' (a nil value)\"\n",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1894: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1678: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1528>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1871: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1163: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1125>",
+			["session"] = 1690,
+			["counter"] = 2290,
+		}, -- [188]
+		{
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.5.4\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/06/06 20:29:04",
+			["locals"] = "states = <table> {\n}\nchanged = false\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 188592 = false\n 118291 = false\n 157319 = 2065626\n 157299 = 2065626\n}\n(for control) = 188592\nk = 188592\nv = false\n(*temporary) = nil\n(*temporary) = 188592\n(*temporary) = \"attempt to call global 'GetPlayerAuraBySpellID' (a nil value)\"\n",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1901: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1685: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1530>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1878: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1165: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1127>",
+			["session"] = 1695,
+			["counter"] = 4379,
+		}, -- [189]
+		{
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.5.5\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/06/22 14:57:06",
+			["locals"] = "states = <table> {\n}\nchanged = false\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 188592 = false\n 118291 = false\n 157319 = 2065626\n 157299 = 2065626\n}\n(for control) = 188592\nk = 188592\nv = false\n(*temporary) = nil\n(*temporary) = 188592\n(*temporary) = \"attempt to call global 'GetPlayerAuraBySpellID' (a nil value)\"\n",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1901: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1685: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1530>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1878: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1165: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1127>",
+			["session"] = 1696,
+			["counter"] = 4891,
+		}, -- [190]
+		{
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.5.6\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/06/28 17:29:58",
+			["locals"] = "states = <table> {\n}\nchanged = false\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 188592 = false\n 118291 = false\n 157319 = 2065626\n 157299 = 2065626\n}\n(for control) = 188592\nk = 188592\nv = false\n(*temporary) = nil\n(*temporary) = 188592\n(*temporary) = \"attempt to call global 'GetPlayerAuraBySpellID' (a nil value)\"\n",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1901: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1685: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1530>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1878: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1165: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1127>",
+			["session"] = 1698,
+			["counter"] = 465,
+		}, -- [191]
+		{
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.5.7\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/07/03 21:27:43",
+			["locals"] = "states = <table> {\n}\nchanged = false\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 188592 = false\n 118291 = false\n 157319 = 2065626\n 157299 = 2065626\n}\n(for control) = 188592\nk = 188592\nv = false\n(*temporary) = nil\n(*temporary) = 188592\n(*temporary) = \"attempt to call global 'GetPlayerAuraBySpellID' (a nil value)\"\n",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1901: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1685: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1530>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1878: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1165: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1127>",
+			["session"] = 1709,
+			["counter"] = 9498,
+		}, -- [192]
+		{
+			["message"] = "Interface/AddOns/Scrap/addons/merchant/button.lua:166: attempt to index global 'MerchantRepairText' (a nil value)",
+			["time"] = "2023/07/14 18:05:17",
+			["locals"] = "self = Button {\n 0 = <userdata>\n OnEnter = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:129\n UnregisterAllEvents = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:164\n OnReceiveDrag = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:121\n Delaying = <function> defined @Interface/AddOns/Scrap/libs/MutexDelay-1.0/MutexDelay-1.0.lua:46\n UpdateState = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:143\n OnMerchant = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:59\n UpdatePosition = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:149\n OnClose = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:86\n Sell = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:191\n Delay = <function> defined @Interface/AddOns/Scrap/libs/MutexDelay-1.0/MutexDelay-1.0.lua:27\n Tag = \"SCRAP_\"\n OnBagUpdate = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:78\n AnyJunk = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:238\n RegisterMessage = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:80\n UnregisterMessage = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:143\n border = Texture {\n }\n GetReport = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:223\n UpdateTip = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:169\n SendMessage = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:49\n CanGuildRepair = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:253\n UnregisterSignal = <function> defined @Interface/AddOns/Scrap/libs/WildAddon-1.0/WildAddon-1.0.lua:78\n RegisterSignal = <function> defined @Interface/AddOns/Scrap/libs/WildAddon-1.0/WildAddon-1.0.lua:74\n UnregisterAllMessages = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:164\n background = Texture {\n }\n icon = Texture {\n }\n SendSignal = <function> defined @Interface/AddOns/Scrap/libs/WildAddon-1.0/WildAddon-1.0.lua:82\n OnEnable = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:25\n OnLeave = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:134\n NewModule = <function> defined @Interface/AddOns/Scrap/libs/WildAddon-1.0/WildAddon-1.0.lua:68\n Repair = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:242\n OnClick = <function> defined @Interface/AddOns/Scrap/addons/merchant/button.lua:94\n UnregisterEvent = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:143\n RegisterEvent = <function> defined @Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:80\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = 1.100000\n(*temporary) = <userdata>\n(*temporary) = \"LEFT\"\n(*temporary) = -17\n(*temporary) = 0.500000\n(*temporary) = <userdata>\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'MerchantRepairText' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface/AddOns/Scrap/addons/merchant/button.lua\"]:166: in function `UpdatePosition'\n[string \"@Interface/AddOns/Scrap/addons/merchant/button.lua\"]:74: in function `?'\n[string \"@Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:109: in function <...ings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:109>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:19: in function <...ings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:15>\n[string \"@Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:54: in function `SendMessage'\n[string \"@Interface/AddOns/Scrap/libs/WildAddon-1.0-1/WildAddon-1.0.lua\"]:83: in function `SendSignal'\n[string \"@Interface/AddOns/Scrap/addons/main/main.lua\"]:47: in function <Interface/AddOns/Scrap/addons/main/main.lua:47>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:19: in function <...ings/lib/CallbackHandler-1.0/CallbackHandler-1.0.lua:15>\n[string \"@Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:54: in function `Fire'\n[string \"@Interface/AddOns/Bartender4/libs/AceEvent-3.0-4/AceEvent-3.0.lua\"]:120: in function <...AddOns/Bartender4/libs/AceEvent-3.0/AceEvent-3.0.lua:119>",
+			["session"] = 1710,
+			["counter"] = 185,
+		}, -- [193]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] Модификация 'TradeSkillMaster' пыталась вызвать защищенную функцию 'CancelLogout()'.",
+			["time"] = "2023/07/05 01:16:50",
+			["locals"] = "_ = Frame {\n RegisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:487\n 0 = <userdata>\n UnregisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:487\n SetScript = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:487\n}\nevent = \"ADDON_ACTION_BLOCKED\"\nevents = <table> {\n ADDON_ACTION_BLOCKED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:553\n ADDON_ACTION_FORBIDDEN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:553\n PLAYER_LOGIN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:547\n LUA_WARNING = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:562\n ADDON_LOADED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:507\n}\n",
+			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:481: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:481>\n[string \"=[C]\"]: in function `CancelLogout'\n[string \"@Interface/FrameXML/StaticPopup.lua\"]:1728: in function `OnCancel'\n[string \"@Interface/FrameXML/StaticPopup.lua\"]:5045: in function `StaticPopup_OnUpdate'\n[string \"*StaticPopup.xml:243_OnUpdate\"]:1: in function <[string \"*StaticPopup.xml:243_OnUpdate\"]:1>",
+			["session"] = 1712,
+			["counter"] = 2,
+		}, -- [194]
+		{
 			["message"] = "Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua:610: attempt to call method 'GetMinResize' (a nil value)",
 			["time"] = "2022/10/27 01:08:01",
 			["stack"] = "[string \"@Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua\"]:610: in function `GetDefaults'\n[string \"@Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua\"]:518: in function `init'\n[string \"@Interface/AddOns/Prat-3.0-3.9.2c/addon/modules.lua\"]:154: in function <Interface/AddOns/Prat-3.0/addon/modules.lua:147>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:66: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:61>\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:494: in function `InitializeAddon'\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:619: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:611>",
-			["session"] = 1685,
-			["counter"] = 73,
-		}, -- [187]
+			["session"] = 1714,
+			["counter"] = 102,
+		}, -- [195]
 		{
 			["message"] = "...SkillMaster_AppHelper/TradeSkillMaster_AppHelper.lua:8: attempt to index global 'TSMAPI' (a nil value)",
 			["time"] = "2022/12/11 18:18:11",
 			["locals"] = "_ = \"TradeSkillMaster_AppHelper\"\nTSM = <table> {\n}\n(*temporary) = nil\n(*temporary) = <table> {\n}\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'TSMAPI' (a nil value)\"\n",
 			["stack"] = "[string \"@Interface/AddOns/TradeSkillMaster_AppHelper/TradeSkillMaster_AppHelper.lua\"]:8: in main chunk",
-			["session"] = 1685,
-			["counter"] = 30,
-		}, -- [188]
+			["session"] = 1714,
+			["counter"] = 59,
+		}, -- [196]
 		{
 			["message"] = "Interface/AddOns/Prat-3.0-3.9.2c/modules/ldb.lua:6: attempt to concatenate field 'FolderLocation' (a nil value)",
 			["time"] = "2022/10/27 01:08:12",
 			["stack"] = "[string \"@Interface/AddOns/Prat-3.0-3.9.2c/modules/ldb.lua\"]:6: in function `v'\n[string \"@Interface/AddOns/Prat-3.0-3.9.2c/addon/addon.lua\"]:317: in function <Interface/AddOns/Prat-3.0/addon/addon.lua:315>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:66: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:61>\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:523: in function `EnableAddon'\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:626: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:611>",
-			["session"] = 1685,
-			["counter"] = 69,
-		}, -- [189]
+			["session"] = 1714,
+			["counter"] = 98,
+		}, -- [197]
 		{
 			["message"] = "Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua:625: attempt to call method 'SetMinResize' (a nil value)",
 			["time"] = "2022/10/27 01:08:12",
 			["stack"] = "[string \"@Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua\"]:625: in function `SetParameters'\n[string \"@Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua\"]:599: in function `ConfigureAllChatFrames'\n[string \"@Interface/AddOns/Prat-3.0-3.9.2c/modules/ChatFrames.lua\"]:522: in function `OnModuleEnable'\n[string \"@Interface/AddOns/Prat-3.0-3.9.2c/addon/modules.lua\"]:189: in function <Interface/AddOns/Prat-3.0/addon/modules.lua:178>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:66: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:61>\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:523: in function `EnableAddon'\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:536: in function `EnableAddon'\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:626: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:611>",
-			["session"] = 1685,
-			["counter"] = 69,
-		}, -- [190]
+			["session"] = 1714,
+			["counter"] = 98,
+		}, -- [198]
+		{
+			["message"] = "AceEvent30Frame:RegisterEvent(): AceEvent30Frame:RegisterEvent(): Attempt to register unknown event \"RESEARCH_ARTIFACT_HISTORY_READY\"",
+			["time"] = "2023/07/14 17:42:52",
+			["locals"] = "(*temporary) = AceEvent30Frame {\n 0 = <userdata>\n}\n(*temporary) = \"RESEARCH_ARTIFACT_HISTORY_READY\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface/AddOns/Bartender4/libs/AceEvent-3.0-4/AceEvent-3.0.lua\"]:33: in function `OnUsed'\n[string \"@Interface/AddOns/AllTheThings/lib/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:132: in function `RegisterEvent'\n[string \"@Interface/AddOns/Rarity/Core/EventHandlers.lua\"]:74: in function `Register'\n[string \"@Interface/AddOns/Rarity/Core.lua\"]:188: in function `DoEnable'\n[string \"@Interface/AddOns/Rarity/Core.lua\"]:150: in function <Interface/AddOns/Rarity/Core.lua:149>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:66: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:61>\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:523: in function `EnableAddon'\n[string \"@Interface/AddOns/Bartender4/libs/AceAddon-3.0-13/AceAddon-3.0.lua\"]:626: in function <...AddOns/Bartender4/libs/AceAddon-3.0/AceAddon-3.0.lua:611>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface/FrameXML/UIParent.lua\"]:544: in function `UIParentLoadAddOn'\n[string \"@Interface/FrameXML/UIParent.lua\"]:753: in function `MajorFactions_LoadUI'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_DragonflightLandingPage.lua\"]:175: in function `SetUpMajorFactionList'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_DragonflightLandingPage.lua\"]:168: in function `RefreshMajorFactionList'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_DragonflightLandingPage.lua\"]:163: in function `RefreshOverlay'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_DragonflightLandingPage.lua\"]:154: in function <...sionLandingPage/Blizzard_DragonflightLandingPage.lua:150>\n[string \"=[C]\"]: in function `CreateFrame'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_DragonflightLandingPage.lua\"]:118: in function `CreateOverlay'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_ExpansionLandingPage.lua\"]:63: in function `RefreshExpansionOverlay'\n[string \"@Interface/AddOns/Blizzard_ExpansionLandingPage/Blizzard_ExpansionLandingPage.lua\"]:35: in function <...pansionLandingPage/Blizzard_ExpansionLandingPage.lua:33>",
+			["session"] = 1714,
+			["counter"] = 5,
+		}, -- [199]
 		{
 			["message"] = "Interface/AddOns/TradeSkillMaster_AppHelper/TradeSkillMaster_AppHelper.lua:1 (null)",
+			["session"] = 1714,
 			["time"] = "2022/12/11 18:18:24",
-			["session"] = 1685,
-			["counter"] = 32,
-		}, -- [191]
+			["counter"] = 61,
+		}, -- [200]
 		{
 			["message"] = "Interface\\FrameXML\\Bindings.xml:10 File Interface/AddOns/TradeSkillMaster_AppHelper/AppData.lua is empty.",
+			["session"] = 1714,
 			["time"] = "2022/11/07 00:02:55",
-			["session"] = 1685,
-			["counter"] = 57,
-		}, -- [192]
+			["counter"] = 86,
+		}, -- [201]
 		{
 			["message"] = "Interface\\FrameXML\\Bindings.xml:1 Interface/AddOns/TradeSkillMaster_AppHelper/TradeSkillMaster_AppHelper.lua:1 (null)",
+			["session"] = 1714,
 			["time"] = "2022/12/11 18:18:24",
-			["session"] = 1685,
-			["counter"] = 29,
-		}, -- [193]
+			["counter"] = 58,
+		}, -- [202]
 		{
 			["message"] = "Interface\\FrameXML\\Bindings.xml:1 Interface\\FrameXML\\Bindings.xml:10 File Interface/AddOns/TradeSkillMaster_AppHelper/AppData.lua is empty.",
+			["session"] = 1714,
 			["time"] = "2022/12/11 18:18:24",
-			["session"] = 1685,
-			["counter"] = 29,
-		}, -- [194]
+			["counter"] = 58,
+		}, -- [203]
 		{
-			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.4.4\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
-			["time"] = "2023/04/05 01:14:36",
-			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1890: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1674: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1524>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1867: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1159: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1121>",
-			["session"] = 1685,
-			["counter"] = 29604,
-		}, -- [195]
+			["message"] = "Ошибка Lua в индикации 'Elemental Shaman Elemental Tracker': Триггер 1\nВерсия WeakAuras: 5.6.0\nВерсия индикации: 1.0.16\n[string \"return function(states)\"]:4: attempt to call global 'GetPlayerAuraBySpellID' (a nil value)",
+			["time"] = "2023/07/14 17:42:54",
+			["locals"] = "states = <table> {\n}\nchanged = false\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 188592 = false\n 118291 = false\n 157319 = 2065626\n 157299 = 2065626\n}\n(for control) = 188592\nk = 188592\nv = false\n(*temporary) = nil\n(*temporary) = 188592\n(*temporary) = \"attempt to call global 'GetPlayerAuraBySpellID' (a nil value)\"\n",
+			["stack"] = "[string \"return function(states)\"]:4: in function <[string \"return function(states)\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:578: in function <Interface/AddOns/WeakAuras/GenericTrigger.lua:563>\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:962: in function `ScanWithFakeEvent'\n[string \"@Interface/AddOns/WeakAuras/GenericTrigger.lua\"]:1291: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1901: in function `LoadDisplays'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1685: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1530>\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1878: in function `Resume'\n[string \"@Interface/AddOns/WeakAuras/WeakAuras.lua\"]:1165: in function <Interface/AddOns/WeakAuras/WeakAuras.lua:1127>",
+			["session"] = 1714,
+			["counter"] = 4006,
+		}, -- [204]
 	},
 }

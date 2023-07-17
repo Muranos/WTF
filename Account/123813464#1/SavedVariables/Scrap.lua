@@ -4,6 +4,8 @@ Scrap_Sets = {
 	["safe"] = true,
 	["list"] = {
 	},
+	["repair"] = false,
+	["sell"] = false,
 	["icons"] = true,
 	["tutorial"] = 5,
 }

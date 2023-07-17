@@ -22,7 +22,7 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 RCLootCouncil: enabled
 TomCats-Nzoth: disabled
 AllTheThings: enabled
@@ -124,3 +124,4 @@ Details_EncounterDetails: disabled
 Details_Compare2: disabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
+LittleWigs_Cataclysm: enabled

@@ -4,20 +4,20 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "10.0.7",
-	["_OPieVersion"] = "Yuzu 8a (4.114)",
+	["_GameVersion"] = "10.1.5",
+	["_OPieVersion"] = "Yuzu 9+2.22 (4.115)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
 			["Bindings"] = {
 				["RaidSymbols"] = false,
-				["OPieAutoQuest"] = false,
-				["Teleports"] = "F8",
 				["SpecMenu"] = "F5",
+				["Teleports"] = "F8",
+				["OPieTracking"] = false,
 				["CommonTrades"] = false,
 				["Mounts"] = "F6",
 				["Extras"] = "F7",
-				["OPieTracking"] = false,
+				["OPieAutoQuest"] = false,
 			},
 			["ShowCooldowns"] = true,
 		},
@@ -55,37 +55,69 @@ OPie_SavedData = {
 			},
 			["Teleports"] = {
 				{
-					["sliceToken"] = "ABuevM=oX9e",
 					["id"] = 393256,
+					["sliceToken"] = "ABuevM=oX9e",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuebwqoWwe",
 					["id"] = 393766,
+					["sliceToken"] = "ABuebwqoWwe",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABuebugryyl",
 					["id"] = 131204,
+					["sliceToken"] = "ABuebugryyl",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuebugryyk",
 					["id"] = 393764,
+					["sliceToken"] = "ABuebugryyk",
 				}, -- [4]
 				{
-					["sliceToken"] = "ABuebugryyj",
 					["id"] = 393273,
+					["sliceToken"] = "ABuebugryyj",
 				}, -- [5]
 				{
-					["sliceToken"] = "ABuebugryy4",
 					["id"] = 393262,
+					["sliceToken"] = "ABuebugryy4",
 				}, -- [6]
 				{
-					["sliceToken"] = "ABuebugryyh",
 					["id"] = 393279,
+					["sliceToken"] = "ABuebugryyh",
 				}, -- [7]
 				{
-					["sliceToken"] = "ABuebugryyg",
 					["id"] = 159899,
+					["sliceToken"] = "ABuebugryyg",
 				}, -- [8]
+				{
+					["sliceToken"] = "ABueb/Wd/8e",
+					["id"] = 410074,
+				}, -- [9]
+				{
+					["id"] = 410071,
+					["sliceToken"] = "ABuebBrhuFe",
+				}, -- [10]
+				{
+					["id"] = 393267,
+					["sliceToken"] = "ABuebBrhuFr",
+				}, -- [11]
+				{
+					["id"] = 410078,
+					["sliceToken"] = "ABuebBrhuF1",
+				}, -- [12]
+				{
+					["id"] = 410080,
+					["sliceToken"] = "ABuebNGCsge",
+				}, -- [13]
+				{
+					["id"] = 393276,
+					["sliceToken"] = "ABuebMJ/2qe",
+				}, -- [14]
+				{
+					["sliceToken"] = "ABue6wXHFce",
+					["id"] = 393283,
+				}, -- [15]
+				{
+					["id"] = 393222,
+					["sliceToken"] = "ABue6rKqrQe",
+				}, -- [16]
 				["name"] = "Teleports",
 				["save"] = true,
 				["hotkey"] = "F8",
@@ -204,6 +236,11 @@ OPie_SavedData = {
 					172048, -- [2]
 					["sliceToken"] = "ABue5F=O/c1",
 				}, -- [23]
+				{
+					"toy", -- [1]
+					140192, -- [2]
+					["sliceToken"] = "ABue6jBYzDw",
+				}, -- [24]
 				["name"] = "Specializations and Travel",
 				["save"] = true,
 				["hotkey"] = "ALT-H",
@@ -269,6 +306,11 @@ OPie_SavedData = {
 					168667, -- [2]
 					["sliceToken"] = "ABuebemUvde",
 				}, -- [12]
+				{
+					"toy", -- [1]
+					119039, -- [2]
+					["sliceToken"] = "ABue6qjgqQe",
+				}, -- [13]
 				["name"] = "Extras",
 				["save"] = true,
 			},

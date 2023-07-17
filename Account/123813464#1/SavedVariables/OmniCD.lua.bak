@@ -14,20 +14,20 @@ OmniCDDB = {
 		["Эллиата - Гордунни"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Flaminika - Durotan"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Шайэн - Гордунни"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Алоиза - Борейская тундра"] = "Default",
+		["Сайбил - Борейская тундра"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
 		["Алоиза - Гордунни"] = "Default",
-		["Сайбил - Борейская тундра"] = "Default",
+		["Алоиза - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Шайэн - Гордунни"] = "Default",
+		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
 	},
 	["global"] = {
-		["oodVer"] = 9272722,
-		["oodChk"] = 220910,
 		["disableElvMsg"] = true,
+		["oodChk"] = 220910,
+		["oodVer"] = 9272722,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -35,9 +35,9 @@ OmniCDDB = {
 		["BattleRes"] = {
 		},
 	},
-	["version"] = 3,
 	["cooldowns"] = {
 	},
+	["version"] = 3,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
@@ -50,19 +50,19 @@ OmniCDDB = {
 								["classColor"] = false,
 								["inactiveColor"] = {
 									["a"] = 0.7400000095367432,
-									["b"] = 0.08627450980392157,
-									["g"] = 0.01176470588235294,
 									["r"] = 0.00392156862745098,
+									["g"] = 0.01176470588235294,
+									["b"] = 0.08627450980392157,
 								},
 								["rechargeColor"] = {
-									["r"] = 0.1215686274509804,
-									["g"] = 0.7411764705882353,
 									["b"] = 1,
+									["g"] = 0.7411764705882353,
+									["r"] = 0.1215686274509804,
 								},
 								["activeColor"] = {
-									["b"] = 0.1725490196078431,
-									["g"] = 0.05098039215686274,
 									["r"] = 0.00392156862745098,
+									["g"] = 0.05098039215686274,
+									["b"] = 0.1725490196078431,
 								},
 							},
 							["paddingY"] = 1,
@@ -78,11 +78,11 @@ OmniCDDB = {
 								["rechargeColor"] = {
 									["g"] = 0.7019607843137254,
 								},
-								["useClassColor"] = {
-									["active"] = true,
-								},
 								["activeColor"] = {
 									["a"] = 0.1385537385940552,
+								},
+								["useClassColor"] = {
+									["active"] = true,
 								},
 							},
 							["textColors"] = {
@@ -105,13 +105,13 @@ OmniCDDB = {
 					["spells"] = {
 						["114018"] = true,
 						["58984"] = true,
-						["122783"] = false,
 						["59752"] = false,
 						["119381"] = true,
-						["129597"] = true,
+						["122783"] = false,
 						["122278"] = false,
 						["116844"] = true,
 						["31230"] = false,
+						["129597"] = true,
 					},
 					["icons"] = {
 						["scale"] = 0.63,

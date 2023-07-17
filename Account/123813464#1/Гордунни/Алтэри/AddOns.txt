@@ -6,7 +6,7 @@ CollectMe: enabled
 EclipseBarPlus: disabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 IgnoreMore: disabled
 LFGCallToArmsBroker: enabled
 LFGForwarder: disabled

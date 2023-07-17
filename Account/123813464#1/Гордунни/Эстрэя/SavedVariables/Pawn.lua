@@ -1,6 +1,8 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0718,
+	["LastVersion"] = 2.0803,
+	["LastPlayerFullName"] = "Эстрэя-Гордунни",
+	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 159310,
@@ -89,9 +91,6 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:199047::::::::70:104:::3:7969:42:1692:2:9:70:28:2437:::::|h[Благословленный ветром коготь с символом огненной вспышки]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["LastPlayerFullName"] = "Эстрэя-Гордунни",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -108,6 +107,7 @@ PawnOptions = {
 			["Name"] = "Когти Урсока",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

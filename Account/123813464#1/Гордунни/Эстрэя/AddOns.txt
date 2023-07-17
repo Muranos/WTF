@@ -14,7 +14,7 @@ BigWigs_Nyalotha: enabled
 MoveAnything: disabled
 Quartz: enabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 RCLootCouncil: enabled
 TomCats-Nzoth: disabled
 BigWigs_Legion: enabled

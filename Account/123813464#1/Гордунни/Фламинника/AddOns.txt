@@ -16,7 +16,7 @@ MoveAnything: disabled
 Quartz: enabled
 BigWigs_Legion: enabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 RCLootCouncil: enabled
 TomCats-Nzoth: disabled
 RaiderIO_DB_US_H_R: disabled
@@ -116,3 +116,5 @@ BigWigs_DragonIsles: enabled
 Plater: disabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
+LittleWigs_Cataclysm: enabled
+LittleWigs_BattleForAzeroth: enabled

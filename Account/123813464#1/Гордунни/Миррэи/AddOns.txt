@@ -1,6 +1,6 @@
 OPie_Classic: disabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: disabled
+HandyNotes_SummerFestival: enabled
 RCLootCouncil: enabled
 TomCats-Nzoth: disabled
 AllTheThings: enabled

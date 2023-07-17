@@ -1,5 +1,7 @@
 
 EncounterDetailsDB = {
+	["chartData"] = {
+	},
 	["encounter_spells"] = {
 		[377830] = {
 			["school"] = 1,
@@ -110,6 +112,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Заросшее древо",
 		},
+		[253753] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Диима, Матерь Сумрака",
+		},
 		[368081] = {
 			["school"] = 8,
 			["token"] = {
@@ -192,6 +202,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Голиаф-проглот",
 		},
+		[244033] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Агграмар",
+		},
 		[367511] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -209,11 +227,33 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Пузострелка",
 		},
+		[257644] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Вариматрас",
+		},
 		[388996] = {
 			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
+		},
+		[245532] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Диима, Матерь Сумрака",
+		},
+		[246329] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Азара, Матерь Ночи",
 		},
 		[389443] = {
 			["school"] = 64,
@@ -236,6 +276,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Изначальное цунами",
 		},
+		[246075] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Хранительница порталов Азабель",
+		},
 		[389446] = {
 			["school"] = 64,
 			["token"] = {
@@ -252,6 +303,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Рира Когтерезка",
 		},
+		[244291] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Агграмар",
+		},
+		[243431] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Агграмар",
+		},
 		[396716] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -260,6 +327,22 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Заросшее древо",
+		},
+		[245631] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Пламя Тайшалака",
+		},
+		[244675] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Агграмар",
 		},
 		[383840] = {
 			["school"] = 64,
@@ -294,6 +377,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гниломаг Око Гнева",
 		},
+		[244899] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Нура, Матерь Пламени",
+		},
 		[374343] = {
 			["school"] = 16,
 			["token"] = {
@@ -301,6 +395,14 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Эхо Дорагосы",
+		},
+		[254653] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Уголек Тайшалака",
 		},
 		[385691] = {
 			["school"] = 1,
@@ -339,12 +441,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ветвь древня",
 		},
+		[254654] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Агграмар",
+		},
 		[373326] = {
 			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Эхо Дорагосы",
+		},
+		[245921] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
 		},
 		[388882] = {
 			["school"] = 16,
@@ -354,6 +471,24 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Насыщательница-воин стихий",
+		},
+		[254655] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Агграмар",
+		},
+		[250097] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Мучения Аман'тула",
 		},
 		[383974] = {
 			["school"] = 1,
@@ -368,6 +503,13 @@ EncounterDetailsDB = {
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
+		},
+		[247962] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ловушки!",
 		},
 		[385442] = {
 			["school"] = 8,
@@ -435,6 +577,43 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
+		[385181] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Голиаф-проглот",
+		},
+		[244713] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Агграмар",
+		},
+		[378029] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Рви-зуб",
+		},
+		[257974] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Главный инженер Ишкар",
+		},
 		[385958] = {
 			["school"] = 64,
 			["token"] = {
@@ -444,6 +623,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
+		[209862] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[387264] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Гниломаг Око Гнева",
+		},
+		[378020] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Рви-зуб",
+		},
 		[377034] = {
 			["school"] = 8,
 			["token"] = {
@@ -452,12 +654,45 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Кроут",
 		},
+		[245671] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Мучения Каз'горота",
+		},
+		[397210] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Кроут",
+		},
+		[245990] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Агграмар",
+		},
 		[378055] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Разлагающийся слизень",
+		},
+		[386562] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Каджин Непреклонная",
 		},
 		[387618] = {
 			["school"] = 16,
@@ -488,6 +723,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ворота жгучего пламени",
 		},
+		[249863] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Мучения Норганнона",
+		},
 		[387619] = {
 			["school"] = 16,
 			["type"] = "DEBUFF",
@@ -496,12 +740,47 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Изначальное цунами",
 		},
+		[384015] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Страж Иридий",
+		},
 		[378057] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Разлагающийся слизень",
+		},
+		[250135] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Ловец душ Имонар",
+		},
+		[245627] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Нура, Матерь Пламени",
+		},
+		[384524] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Страж Иридий",
 		},
 		[385963] = {
 			["school"] = 16,
@@ -512,6 +791,14 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Каджин Непреклонная",
+		},
+		[378022] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Древорот",
 		},
 		[374361] = {
 			["school"] = 80,
@@ -530,6 +817,49 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гниломаг Око Гнева",
 		},
+		[388623] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Заросшее древо",
+		},
+		[244016] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Хранительница порталов Азабель",
+		},
+		[376934] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Древорот",
+		},
+		[244901] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Пламя Тайшалака",
+		},
+		[384416] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Пузострелка",
+		},
 		[387559] = {
 			["school"] = 16,
 			["token"] = {
@@ -537,6 +867,14 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Изначальное цунами",
+		},
+		[247641] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ловушки!",
 		},
 		[373917] = {
 			["school"] = 1,
@@ -547,6 +885,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гниломаг Око Гнева",
 		},
+		[254695] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Уголек Тайшалака",
+		},
+		[385356] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Пузострелка",
+		},
 		[376149] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -555,6 +909,13 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Удушающее облако гнили",
+		},
+		[384531] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Гнилозубая гиена",
 		},
 		[377807] = {
 			["school"] = 1,
@@ -571,7 +932,63 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Каджин Непреклонная",
 		},
-		[378764] = {
+		[245994] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Агграмар",
+		},
+		[254919] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Кин'гарот",
+		},
+		[376231] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Древорот",
+		},
+		[248332] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[244050] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Шатуг",
+		},
+		[246929] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[244000] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Хранительница порталов Азабель",
+		},
+		[377859] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
@@ -593,6 +1010,65 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
+		[240277] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Разрушитель миров Кин'гарота",
+		},
+		[389872] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Изначальное цунами",
+		},
+		[244051] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Шатуг",
+		},
+		[385187] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Голиаф-проглот",
+		},
+		[245518] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Диима, Матерь Сумрака",
+		},
+		[244912] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Уголек Тайшалака",
+		},
+		[244689] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Хранительница порталов Азабель",
+		},
 		[384633] = {
 			["school"] = 1,
 			["token"] = {
@@ -609,6 +1085,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Голодный плеточник",
 		},
+		[246315] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "\"Параксий\"",
+		},
+		[247367] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ловец душ Имонар",
+		},
 		[396364] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -617,14 +1111,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Рашагет",
 		},
-		[389033] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[245391] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Голодный плеточник",
+			["source"] = "Агграмар",
+		},
+		[388760] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Изначальное цунами",
 		},
 		[388651] = {
 			["school"] = 1,
@@ -633,14 +1133,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
-		[387504] = {
-			["school"] = 16,
+		[384351] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Страж Иридий",
+		},
+		[377559] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Изначальное цунами",
+			["source"] = "Древорот",
 		},
 		[384827] = {
 			["school"] = 1,
@@ -650,12 +1160,73 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Пузострелка",
 		},
-		[388546] = {
-			["school"] = 64,
+		[251448] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ф'арг",
+		},
+		[251356] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ф'арг",
+		},
+		[388544] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Заросшее древо",
+		},
+		[376811] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Древорот",
+		},
+		[248230] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Вексам",
+			["source"] = "Разрушитель миров Кин'гарота",
+		},
+		[250333] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Нура, Матерь Пламени",
+		},
+		[396369] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Рашагет",
+		},
+		[248836] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "\"Параксий\"",
 		},
 		[387889] = {
 			["school"] = 1,
@@ -680,13 +1251,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Древорот",
 		},
-		[385531] = {
-			["school"] = 1,
+		[387571] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Голиаф-проглот",
+			["source"] = "Изначальное цунами",
 		},
 		[381770] = {
 			["school"] = 8,
@@ -696,13 +1270,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Разлагающийся слизень",
 		},
-		[381834] = {
+		[250334] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Рира Когтерезка",
+			["source"] = "Диима, Матерь Сумрака",
 		},
 		[386743] = {
 			["school"] = 16,
@@ -713,17 +1288,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Каджин Непреклонная",
 		},
-		[386088] = {
-			["school"] = 64,
+		[253203] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
+			["source"] = "Диима, Матерь Сумрака",
 		},
-		[209862] = {
-			["school"] = 4,
+		[245458] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Агграмар",
 		},
 		[381835] = {
 			["school"] = 1,
@@ -740,25 +1319,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тотем исцеляющего потока",
 		},
-		[378029] = {
+		[244693] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Агграмар",
+		},
+		[249793] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Рви-зуб",
-		},
-		[384351] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Страж Иридий",
+			["source"] = "Диима, Матерь Сумрака",
 		},
 		[374186] = {
 			["school"] = 8,
@@ -768,15 +1344,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Гниломаг Око Гнева",
 		},
-		[378020] = {
+		[250335] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Рви-зуб",
+			["source"] = "Нура, Матерь Пламени",
 		},
 		[392929] = {
 			["school"] = 1,
@@ -786,22 +1361,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ворота жгучего пламени",
 		},
-		[376811] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Древорот",
-		},
-		[397210] = {
-			["school"] = 8,
+		[245586] = {
+			["school"] = 16,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Кроут",
+			["source"] = "Диима, Матерь Сумрака",
+		},
+		[381834] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Рира Когтерезка",
 		},
 		[388786] = {
 			["school"] = 16,
@@ -809,12 +1383,13 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[384015] = {
-			["school"] = 64,
+		[385531] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Страж Иридий",
+			["source"] = "Голиаф-проглот",
 		},
 		[377184] = {
 			["school"] = 1,
@@ -831,23 +1406,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
-		[384524] = {
-			["school"] = 1,
+		[258018] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Диима, Матерь Сумрака",
+		},
+		[387504] = {
+			["school"] = 16,
+			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Страж Иридий",
-		},
-		[377859] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Древорот",
+			["source"] = "Изначальное цунами",
 		},
 		[377950] = {
 			["school"] = 16,
@@ -861,41 +1436,37 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Лови-тотем",
 		},
-		[387571] = {
-			["school"] = 16,
+		[389033] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Изначальное цунами",
+			["source"] = "Голодный плеточник",
 		},
-		[388623] = {
-			["school"] = 1,
+		[251447] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Заросшее древо",
+			["source"] = "Шатуг",
 		},
-		[389872] = {
-			["school"] = 16,
+		[248233] = {
+			["school"] = 4,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Изначальное цунами",
+			["source"] = "Ловец душ Имонар",
 		},
-		[367510] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[386088] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Бурая бичевательница",
 		},
 		[389490] = {
 			["school"] = 64,
@@ -905,30 +1476,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Страж Иридий",
 		},
-		[384531] = {
-			["school"] = 1,
+		[248329] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Гнилозубая гиена",
+			["source"] = "\"Параксий\"",
 		},
-		[385181] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[245301] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Голиаф-проглот",
+			["source"] = "Агграмар",
 		},
-		[376231] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[243983] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Древорот",
+			["source"] = "Хранительница порталов Азабель",
 		},
 		[372151] = {
 			["school"] = 1,
@@ -938,13 +1507,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Медведь-кишкожуй",
 		},
-		[396369] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[378764] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Рашагет",
+			["source"] = "Древорот",
 		},
 		[386559] = {
 			["school"] = 16,
@@ -984,29 +1552,33 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Голиаф-проглот",
 		},
-		[385356] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Пузострелка",
-		},
-		[376934] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Древорот",
-		},
-		[378022] = {
+		[367510] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Древорот",
+			["source"] = "Бурая бичевательница",
+		},
+		[254769] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Наполненный Скверной разрушитель",
+		},
+		[389179] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Страж Иридий",
 		},
 		[388537] = {
 			["school"] = 64,
@@ -1017,13 +1589,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
-		[388760] = {
-			["school"] = 16,
+		[246739] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Изначальное цунами",
+			["source"] = "Мучения Голганнета",
 		},
 		[376170] = {
 			["school"] = 8,
@@ -1043,34 +1617,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тотем взрывной гнили",
 		},
-		[389179] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[250095] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Страж Иридий",
+			["source"] = "Мучения Аман'тула",
 		},
-		[386562] = {
-			["school"] = 16,
+		[245303] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Каджин Непреклонная",
+			["source"] = "Азара, Матерь Ночи",
 		},
-		[388544] = {
+		[244894] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Заросшее древо",
+			["source"] = "Агграмар",
 		},
 		[375215] = {
 			["school"] = 1,
@@ -1078,29 +1649,30 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[387264] = {
-			["school"] = 8,
+		[247949] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Ловушки!",
+		},
+		[388546] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Гниломаг Око Гнева",
+			["source"] = "Вексам",
 		},
-		[377559] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Древорот",
-		},
-		[384416] = {
-			["school"] = 1,
+		[245463] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Пузострелка",
+			["source"] = "Агграмар",
 		},
 		[386181] = {
 			["school"] = 64,
@@ -1112,23 +1684,145 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
-		[385187] = {
-			["school"] = 1,
+		[246014] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Голиаф-проглот",
+			["source"] = "Агграмар",
 		},
 	},
 	["emotes"] = {
 		{
-			["boss"] = "Эхо Дорагосы",
+			{
+				6.455000000001746, -- [1]
+				"Ярость морей смоет эту скверну!", -- [2]
+				"Аман'тул", -- [3]
+				7, -- [4]
+			}, -- [1]
+			["boss"] = "Аргус Порабощенный",
 		}, -- [1]
 		{
-			["boss"] = "Вексам",
+			{
+				4.552999999999884, -- [1]
+				"Пламя не щадит никого!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				8.690000000002328, -- [1]
+				"Познайте мощь Тайшалака!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				18.39800000000105, -- [1]
+				"Вы выстояли в пламени, но вам не устоять против моего гнева.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				27.62299999999959, -- [1]
+				"Спасения нет.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				43.43600000000151, -- [1]
+				"Сдавайтесь и умрите!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				54.34500000000116, -- [1]
+				"|TINTERFACE\\ICONS\\INV_KNIFE_1H_FIRELANDSRAID_D_01.BLP:20|t Агграмар начинает применять |cFFFF0404|Hspell:244688|h[Искусный прием]|h|r!", -- [2]
+				"Агграмар", -- [3]
+				1, -- [4]
+			}, -- [6]
+			{
+				54.34500000000116, -- [1]
+				"Никто не выстоит против Тайшалака!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				93.19499999999971, -- [1]
+				"Сдавайтесь и умрите!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				109.0250000000015, -- [1]
+				"Спасения нет.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				119.9340000000011, -- [1]
+				"|TINTERFACE\\ICONS\\INV_KNIFE_1H_FIRELANDSRAID_D_01.BLP:20|t Агграмар начинает применять |cFFFF0404|Hspell:244688|h[Искусный прием]|h|r!", -- [2]
+				"Агграмар", -- [3]
+				1, -- [4]
+			}, -- [10]
+			{
+				119.9340000000011, -- [1]
+				"Никто не выстоит против Тайшалака!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				148.3580000000002, -- [1]
+				"Мощь Тайшалака погубит вас!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				161.8689999999988, -- [1]
+				"Ваши ничтожные способности бесполезны против меня.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [13]
+			["boss"] = "Агграмар",
 		}, -- [2]
 		{
-			["boss"] = "Кроут",
+			{
+				6.137999999999011, -- [1]
+				"Познайте мощь Тайшалака!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				21.11699999999837, -- [1]
+				"Вы выстояли в пламени, но вам не устоять против моего гнева.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				29.89100000000326, -- [1]
+				"Спасения нет.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				45.6710000000021, -- [1]
+				"Спасения нет.", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				56.6140000000014, -- [1]
+				"|TINTERFACE\\ICONS\\INV_KNIFE_1H_FIRELANDSRAID_D_01.BLP:20|t Агграмар начинает применять |cFFFF0404|Hspell:244688|h[Искусный прием]|h|r!", -- [2]
+				"Агграмар", -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				56.6140000000014, -- [1]
+				"Горите!", -- [2]
+				"Агграмар", -- [3]
+				7, -- [4]
+			}, -- [6]
+			["boss"] = "Агграмар",
 		}, -- [3]
 	},
 }
