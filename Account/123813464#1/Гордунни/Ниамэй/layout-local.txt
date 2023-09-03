@@ -2,9 +2,9 @@ Version: 1
 Frame: TitanPanelRepairButton
 FrameLevel: 2
 Anchor: TOP
-X: -353
+X: -359
 Y: -3
-W: 136
+W: 124
 H: 16
 Frame: TitanPanelBagButton
 FrameLevel: 2

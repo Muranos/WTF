@@ -1,8 +1,6 @@
-VER 3 000000000000004C "AdditionalCovAb" "878222"
+VER 3 000000000000004C "AdditionalCovAb" "134400"
 #showtooltip
-/cast Флакон безмятежности
-/cast Врата теней
-/cast Облик души
+/cast [harm,nodead] Правосудие; Рывок вперед
 END
 VER 3 0000000000000033 "Archeology" "INV_MISC_QUESTIONMARK"
 #showtooltip [combat] Рассеивание заклинаний; Исследовать
@@ -62,9 +60,6 @@ END
 VER 3 0000000000000045 "ExtraAction" "INV_MISC_QUESTIONMARK"
 #showtooltip /click ExtraActionButton1
 END
-VER 3 0000000000000044 "ExtraAction" "INV_MISC_QUESTIONMARK"
-#showtooltip /click ExtraActionButton1
-END
 VER 3 000000000000004E "FaeBlink" "4178535"
 /cast Облик души
 /cast Скульптор плоти
@@ -122,11 +117,11 @@ END
 VER 3 000000000000003B "Mark_Skull" "135743"
 /run SetRaidTarget("mouseover", 8);
 END
-VER 3 0000000000000048 "Mark_Square" "INV_MISC_QUESTIONMARK"
-/run SetRaidTarget("mouseover", 4);
-END
 VER 3 000000000000003A "Mark_Square" "135745"
 /run SetRaidTarget("mouseover", 6);
+END
+VER 3 0000000000000048 "Mark_Square" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("mouseover", 4);
 END
 VER 3 0000000000000037 "Mark_Star" "135749"
 /run SetRaidTarget("mouseover", 1);

@@ -61,22 +61,22 @@ BigWigs3DB = {
 		["BigWigs_Bosses_Demonic Inquisition"] = {
 			["profiles"] = {
 				["Default"] = {
-					["altpower"] = 0,
-					[234015] = 0,
 					[233441] = 0,
 					[248713] = 0,
-					[235230] = 0,
-					[236283] = 0,
+					[233426] = 0,
+					[233983] = 0,
+					[234015] = 0,
+					["custom_on_stop_timers"] = false,
 					[233104] = 0,
-					[239401] = 0,
+					[233431] = 0,
 					[248671] = 0,
 					["custom_on_fixate_plates"] = false,
 					[233895] = 0,
 					["fixate"] = 0,
-					[233431] = 0,
-					["custom_on_stop_timers"] = false,
-					[233983] = 0,
-					[233426] = 0,
+					[239401] = 0,
+					[236283] = 0,
+					["altpower"] = 0,
+					[235230] = 0,
 				},
 			},
 		},
@@ -104,22 +104,24 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[236694] = 0,
-					[236541] = 0,
+					["stages"] = 0,
 					[233263] = 0,
 					[236550] = 0,
+					[236442] = 0,
 					[236547] = 0,
-					[236519] = 0,
 					[237351] = 0,
 					[236603] = 0,
 					[236305] = 0,
-					["stages"] = 0,
+					[236712] = 0,
 					[239264] = 0,
 					[236697] = 0,
-					[236712] = 0,
+					[236519] = 0,
 					[236480] = 0,
-					[236442] = 0,
+					[236541] = 0,
 				},
 			},
+		},
+		["BigWigs_Bosses_Ruby Life Pools Trash"] = {
 		},
 		["BigWigs_Bosses_Mistress Sassz'ine"] = {
 			["profiles"] = {
@@ -127,17 +129,17 @@ BigWigs3DB = {
 					[230227] = 0,
 					[230139] = 0,
 					[230201] = 0,
-					[239362] = 0,
 					[230959] = 0,
+					["berserk"] = 0,
 					[239436] = 0,
 					[232913] = 0,
-					[234621] = 0,
 					[232722] = 0,
+					["stages"] = 0,
 					[230384] = 0,
 					[232827] = 0,
 					[230358] = 0,
-					["stages"] = 0,
-					["berserk"] = 0,
+					[234621] = 0,
+					[239362] = 0,
 				},
 			},
 		},
@@ -156,12 +158,12 @@ BigWigs3DB = {
 					[211634] = 0,
 					[209034] = 0,
 					[206651] = 0,
-					[211802] = 0,
-					[209158] = 0,
-					[224508] = 0,
-					["berserk"] = 0,
-					[205741] = 0,
 					[209443] = 0,
+					[209158] = 0,
+					["berserk"] = 0,
+					[224508] = 0,
+					[205741] = 0,
+					[211802] = 0,
 				},
 			},
 		},
@@ -177,13 +179,13 @@ BigWigs3DB = {
 					[348109] = 3064039,
 					[354068] = 3129591,
 					[351117] = 3064039,
-					[351180] = 3065335,
-					[347607] = 3065063,
-					[351939] = 3064039,
-					[347807] = 3064039,
-					[353417] = 3064039,
-					[352650] = 3065063,
 					[351672] = 3065319,
+					[352650] = 3065063,
+					[351939] = 3064039,
+					[353417] = 3064039,
+					[347807] = 3064039,
+					[347607] = 3065063,
+					[351180] = 3065335,
 				},
 			},
 		},
@@ -247,8 +249,8 @@ BigWigs3DB = {
 					[250255] = 0,
 					["stages"] = 0,
 					[247923] = 0,
-					[253302] = 0,
 					[248254] = 0,
+					[253302] = 0,
 				},
 			},
 		},
@@ -267,13 +269,13 @@ BigWigs3DB = {
 					[236515] = 0,
 					[236678] = 0,
 					[235907] = 0,
-					["infobox"] = 0,
+					[235924] = 0,
 					[236544] = 0,
-					[235927] = 0,
 					[236361] = 0,
+					[235927] = 0,
 					[236241] = 0,
 					[238570] = 0,
-					[235924] = 0,
+					["infobox"] = 0,
 				},
 			},
 		},
@@ -302,7 +304,7 @@ BigWigs3DB = {
 				["Default"] = {
 					[254122] = 0,
 					[245861] = 0,
-					[254500] = 0,
+					[254512] = 0,
 					[251612] = 0,
 					[246199] = 0,
 					[252621] = 0,
@@ -310,12 +312,14 @@ BigWigs3DB = {
 					[253600] = 0,
 					[249297] = 0,
 					[246209] = 0,
-					[249212] = 0,
-					[252760] = 0,
 					[252797] = 0,
-					[254512] = 0,
+					[252760] = 0,
+					[249212] = 0,
+					[254500] = 0,
 				},
 			},
+		},
+		["BigWigs_Bosses_Kokia Blazehoof"] = {
 		},
 		["BigWigs_Bosses_Portal Keeper Hasabel"] = {
 			["profiles"] = {
@@ -332,19 +336,19 @@ BigWigs3DB = {
 					[244613] = 0,
 					[246911] = 0,
 					[244598] = 0,
-					[255805] = 0,
+					[245050] = 0,
 					[245040] = 0,
 					[245075] = 0,
 					["berserk"] = 0,
 					[246075] = 0,
 					[245118] = 0,
 					[244016] = 0,
-					["custom_on_stop_timers"] = false,
+					[246316] = 0,
 					[243983] = 0,
 					[244607] = 0,
-					[246316] = 0,
+					["custom_on_stop_timers"] = false,
 					["worldExplosion"] = 0,
-					[245050] = 0,
+					[255805] = 0,
 				},
 			},
 		},
@@ -370,8 +374,8 @@ BigWigs3DB = {
 					[216110] = 0,
 					[214688] = 0,
 					[214692] = 0,
-					[209404] = 0,
 					["custom_on_use_buff_items"] = false,
+					[209404] = 0,
 				},
 			},
 		},
@@ -380,11 +384,11 @@ BigWigs3DB = {
 				["Default"] = {
 					[232249] = 0,
 					[233279] = 0,
-					[233062] = 0,
-					[231363] = 0,
 					[234346] = 0,
-					[233514] = 0,
+					[231363] = 0,
 					[238588] = 0,
+					[233514] = 0,
+					[233062] = 0,
 				},
 			},
 		},
@@ -404,11 +408,11 @@ BigWigs3DB = {
 					[206949] = 0,
 					[214335] = 0,
 					[206589] = 0,
-					[216909] = 0,
-					[205984] = 0,
-					[206388] = 0,
-					[222761] = 0,
 					[206517] = 0,
+					[222761] = 0,
+					[206388] = 0,
+					[205984] = 0,
+					[216909] = 0,
 				},
 			},
 		},
@@ -419,27 +423,27 @@ BigWigs3DB = {
 					[265759] = 0,
 					[265876] = 0,
 					[264396] = 0,
-					[264520] = 0,
-					[264050] = 0,
-					[264150] = 0,
-					[264105] = 0,
-					[263943] = 0,
+					[263961] = 0,
 					[265352] = 0,
-					[265346] = 0,
+					[264150] = 0,
+					[264556] = 0,
+					[265741] = 0,
+					[264050] = 0,
+					[263905] = 0,
 					[265368] = 0,
 					[265407] = 0,
 					[265880] = 0,
 					[278474] = 0,
-					[265741] = 0,
+					[263943] = 0,
 					[271174] = 0,
 					[265881] = 0,
-					[263905] = 0,
-					[265760] = 0,
-					[264556] = 0,
-					[264456] = 0,
 					[264525] = 0,
+					[265760] = 0,
+					[265346] = 0,
+					[264456] = 0,
+					[264105] = 0,
 					[264038] = 0,
-					[263961] = 0,
+					[264520] = 0,
 				},
 			},
 		},
@@ -451,14 +455,14 @@ BigWigs3DB = {
 					[208230] = 0,
 					[212794] = 0,
 					[213531] = 0,
-					[216040] = 0,
+					["adds"] = 0,
 					[206365] = 0,
 					[216027] = 0,
 					[206466] = 0,
 					["berserk"] = 0,
 					[215988] = 0,
 					[206480] = 0,
-					["adds"] = 0,
+					[216040] = 0,
 				},
 			},
 		},
@@ -473,11 +477,11 @@ BigWigs3DB = {
 					[330848] = 3064295,
 					[346681] = 3064039,
 					[330965] = 3064039,
-					[346800] = 3064039,
+					[346651] = 3064039,
 					[346303] = 3064039,
 					[327497] = 3129575,
 					[346698] = 3064039,
-					[346651] = 3064039,
+					[346800] = 3064039,
 				},
 			},
 		},
@@ -502,19 +506,19 @@ BigWigs3DB = {
 				["Default"] = {
 					[254452] = 0,
 					[245994] = 0,
-					[245983] = 0,
+					[244693] = 0,
 					[255058] = 0,
 					[246037] = 0,
 					["berserk"] = 0,
 					[245301] = 0,
 					[244688] = 0,
+					[245983] = 0,
 					["stages"] = 0,
-					["track_ember"] = 0,
 					[245911] = 0,
 					[255061] = 0,
-					[245458] = 0,
+					["track_ember"] = 0,
 					[245990] = 0,
-					[244693] = 0,
+					[245458] = 0,
 				},
 			},
 		},
@@ -525,8 +529,8 @@ BigWigs3DB = {
 					[331548] = 3068135,
 					[331846] = 3064039,
 					[328740] = 3064039,
-					[332678] = 3068135,
 					["soporific_shimmerdust"] = 16,
+					[332678] = 3068135,
 				},
 			},
 		},
@@ -562,8 +566,8 @@ BigWigs3DB = {
 					[234059] = 0,
 					[240728] = 0,
 					["custom_on_stop_timers"] = false,
-					[239212] = 0,
 					[239132] = 0,
+					[239212] = 0,
 				},
 			},
 		},
@@ -579,8 +583,8 @@ BigWigs3DB = {
 					[348428] = 0,
 					[347292] = 4112615,
 					[355389] = 4112887,
-					[348978] = 3065063,
 					[354639] = 3064039,
+					[348978] = 3065063,
 				},
 			},
 		},
@@ -596,20 +600,20 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[244057] = 0,
-					[244768] = 0,
+					[244072] = 0,
 					[245098] = 0,
 					[251445] = 0,
 					[244050] = 0,
 					[244054] = 0,
 					[244131] = 0,
-					[244056] = 0,
+					[248819] = 0,
 					[248815] = 0,
 					[245022] = 0,
-					[248819] = 0,
-					[251356] = 0,
 					[254429] = 0,
+					[251356] = 0,
+					[244056] = 0,
 					[244055] = 0,
-					[244072] = 0,
+					[244768] = 0,
 				},
 			},
 		},
@@ -628,14 +632,14 @@ BigWigs3DB = {
 		["BigWigs_Bosses_Eonar the Life-Binder"] = {
 			["profiles"] = {
 				["Default"] = {
+					[250693] = 0,
 					[250140] = 0,
-					[248332] = 0,
 					[248861] = 0,
 					[249121] = 0,
 					[249934] = 0,
 					[250691] = 0,
 					[250048] = 0,
-					[250693] = 0,
+					[248332] = 0,
 				},
 			},
 		},
@@ -657,12 +661,12 @@ BigWigs3DB = {
 					["berserk"] = 0,
 					[234891] = 0,
 					[238028] = 0,
-					[239153] = 0,
-					[235028] = 0,
+					[235267] = 0,
+					[248812] = 0,
 					[241636] = 0,
 					[241593] = 0,
-					[248812] = 0,
-					[235267] = 0,
+					[235028] = 0,
+					[239153] = 0,
 				},
 			},
 		},
@@ -671,9 +675,9 @@ BigWigs3DB = {
 				["Default"] = {
 					[334765] = 3064039,
 					[329808] = 3064039,
-					[342544] = 3064039,
-					[329636] = 3064039,
 					[339885] = 3064039,
+					[329636] = 3064039,
+					[339690] = 3064039,
 					[334009] = 3064039,
 					[334498] = 3064039,
 					[333387] = 3064039,
@@ -683,7 +687,7 @@ BigWigs3DB = {
 					[343063] = 3064039,
 					[342722] = 3064039,
 					[332406] = 3064039,
-					[339690] = 3064039,
+					[342544] = 3064039,
 				},
 			},
 		},
@@ -692,8 +696,8 @@ BigWigs3DB = {
 				["Default"] = {
 					[350542] = 3064311,
 					[350555] = 3064039,
-					[350339] = 3064039,
 					[350342] = 3064039,
+					[350339] = 3064039,
 				},
 			},
 		},
@@ -705,12 +709,12 @@ BigWigs3DB = {
 					[241564] = 0,
 					[236378] = 0,
 					[236710] = 0,
-					[243982] = 0,
-					[238505] = 0,
-					[238999] = 0,
-					["meteorImpact"] = 0,
-					[238430] = 0,
 					[240910] = 0,
+					[238430] = 0,
+					["meteorImpact"] = 0,
+					[238999] = 0,
+					[238505] = 0,
+					[243982] = 0,
 				},
 			},
 		},
@@ -737,29 +741,29 @@ BigWigs3DB = {
 					[206983] = 0,
 					[221891] = 0,
 					[221781] = 0,
-					[227009] = 0,
-					[208672] = 0,
+					[206840] = 0,
+					[167935] = 0,
 					[210339] = 0,
-					[206514] = 0,
-					[227008] = 0,
+					[227556] = 0,
+					[209270] = 0,
 					[212568] = 0,
-					[206939] = 0,
-					["nightorb"] = 0,
-					[221486] = 0,
+					["winds"] = 0,
+					[217830] = 0,
+					["manifest"] = 0,
 					[207938] = 0,
-					[206675] = 0,
+					[211439] = 0,
 					[206883] = 0,
 					[211152] = 0,
 					[206219] = 0,
 					[208545] = 0,
-					[211439] = 0,
-					["manifest"] = 0,
-					[217830] = 0,
-					[209270] = 0,
-					["winds"] = 0,
-					[227556] = 0,
-					[167935] = 0,
-					[206840] = 0,
+					[206675] = 0,
+					[221486] = 0,
+					["nightorb"] = 0,
+					[206939] = 0,
+					[227008] = 0,
+					[206514] = 0,
+					[208672] = 0,
+					[227009] = 0,
 				},
 			},
 		},
@@ -795,9 +799,9 @@ BigWigs3DB = {
 					[246505] = 0,
 					[244737] = 0,
 					[245161] = 0,
-					[244625] = 0,
-					[244910] = 0,
 					[244892] = 0,
+					[244910] = 0,
+					[244625] = 0,
 				},
 			},
 		},
@@ -812,8 +816,8 @@ BigWigs3DB = {
 					["cannon_ability"] = 0,
 					[244761] = 0,
 					[246220] = 0,
-					[244410] = 0,
 					[244969] = 0,
+					[244410] = 0,
 				},
 			},
 		},
@@ -821,12 +825,12 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[244899] = 0,
-					[250757] = 0,
+					[245586] = 0,
 					["torment_of_the_titans"] = 0,
 					[253650] = 0,
 					[245627] = 0,
 					["infobox"] = 0,
-					[245586] = 0,
+					[252861] = 0,
 					[245518] = 0,
 					[250648] = 0,
 					["stages"] = 0,
@@ -834,7 +838,7 @@ BigWigs3DB = {
 					["berserk"] = 0,
 					[253203] = 0,
 					[253520] = 0,
-					[252861] = 0,
+					[250757] = 0,
 				},
 			},
 		},
@@ -843,9 +847,9 @@ BigWigs3DB = {
 				["Default"] = {
 					[328170] = 3064039,
 					[321178] = 3068135,
-					[335308] = 3068135,
-					[334377] = 3064039,
 					[334918] = 3064039,
+					[334377] = 3064039,
+					[335308] = 3068135,
 				},
 			},
 		},
@@ -856,14 +860,14 @@ BigWigs3DB = {
 					[311399] = 65536,
 					[311996] = 0,
 					[297315] = 0,
-					[308801] = 0,
+					["altpower"] = 0,
 					[296911] = 0,
 					[296510] = 0,
 					[298584] = 0,
 					[308308] = 0,
-					[308366] = 0,
 					[311456] = 0,
-					["altpower"] = 0,
+					[308366] = 0,
+					[308801] = 0,
 				},
 			},
 		},
@@ -877,11 +881,11 @@ BigWigs3DB = {
 					[246664] = 0,
 					[246516] = 0,
 					[246833] = 0,
-					[254919] = 0,
-					[254926] = 0,
-					[248375] = 0,
-					[249680] = 0,
 					[246698] = 0,
+					[254926] = 0,
+					[249680] = 0,
+					[248375] = 0,
+					[254919] = 0,
 				},
 			},
 		},
@@ -903,9 +907,9 @@ BigWigs3DB = {
 					[203552] = 0,
 					["berserk"] = 0,
 					[202977] = 0,
-					[203045] = 0,
-					[205070] = 0,
 					[225943] = 0,
+					[205070] = 0,
+					[203045] = 0,
 				},
 			},
 		},
@@ -928,10 +932,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sha of Doubt"] = {
+		["BigWigs_Bosses_Remnant of Ner'zhul"] = {
 			["profiles"] = {
 				["Default"] = {
-					[117665] = 3129591,
+					[350489] = 3064039,
+					[349890] = 3129591,
 				},
 			},
 		},
@@ -942,8 +947,8 @@ BigWigs3DB = {
 					[334476] = 3064039,
 					[320359] = 3129575,
 					[320200] = 3064295,
-					[334488] = 3065063,
 					[322681] = 3064039,
+					[334488] = 3065063,
 				},
 			},
 		},
@@ -964,19 +969,16 @@ BigWigs3DB = {
 					[204078] = 0,
 					[203028] = 0,
 					[204245] = 0,
-					[-12809] = 0,
-					["berserk"] = 0,
 					[205341] = 0,
+					["berserk"] = 0,
+					[-12809] = 0,
 				},
 			},
 		},
-		["BigWigs_Bosses_Amarth, The Reanimator"] = {
+		["BigWigs_Bosses_High Tinker Mekkatorque"] = {
 			["profiles"] = {
 				["Default"] = {
-					[321226] = 3064039,
-					[320171] = 3064039,
-					[320012] = 3068135,
-					[333488] = 3064039,
+					["custom_off_286646"] = true,
 				},
 			},
 		},
@@ -1045,6 +1047,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Kyrakka and Erkhart Stormvein"] = {
+		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Bosses_Xav the Unfallen"] = {
@@ -1058,6 +1062,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Melidrussa Chillworn"] = {
+		},
 		["BigWigs_Bosses_Sludgefist"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -1067,6 +1073,66 @@ BigWigs3DB = {
 					[331314] = 3064039,
 					[340817] = 3064039,
 					[332687] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Plugins_Messages"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["width"] = 139.9999237060547,
+					["font"] = "Friz Quadrata TT",
+					["posx"] = 1001.244555494523,
+					["height"] = 119.9999771118164,
+					["posy"] = 579.5556997974745,
+				},
+			},
+		},
+		["BigWigs_Bosses_Il'gynoth"] = {
+			["profiles"] = {
+				["Default"] = {
+					[209469] = 0,
+					[210984] = 0,
+					[223121] = 0,
+					[215128] = 0,
+					[218415] = 0,
+					[208697] = 0,
+					["infobox"] = 0,
+					[212886] = 0,
+					["nightmare_horror"] = 0,
+					[210099] = 0,
+					["stages"] = 0,
+					[215234] = 0,
+					[208929] = 0,
+					[208689] = 0,
+					["forces"] = 0,
+					["shriveled_eyestalk"] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Maiden of Virtue"] = {
+			["profiles"] = {
+				["Default"] = {
+					[227508] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Mistcaller"] = {
+			["profiles"] = {
+				["Default"] = {
+					[336499] = 3064039,
+					[321828] = 4112629,
+					[321834] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Bosses_Kin-Tara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[324368] = 3064039,
+					["stages"] = 3064039,
+					[331251] = 3064039,
 				},
 			},
 		},
@@ -1080,129 +1146,20 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Proximity"] = {
+		["BigWigs_Bosses_Amarth, The Reanimator"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 1001.244555494523,
-					["font"] = "Friz Quadrata TT",
-					["height"] = 119.9999771118164,
-					["posy"] = 579.5556997974745,
-					["width"] = 139.9999237060547,
+					[321226] = 3064039,
+					[320171] = 3064039,
+					[333488] = 3064039,
+					[320012] = 3068135,
 				},
 			},
 		},
-		["BigWigs_Bosses_Nighthold Trash"] = {
+		["BigWigs_Bosses_The Nokhud Offensive Trash"] = {
 			["profiles"] = {
 				["Default"] = {
-					[221160] = 0,
-					[221164] = 0,
-					[225105] = 0,
-					[225857] = 0,
-					[225927] = 0,
-					[230488] = 0,
-					[225412] = 0,
-					[224982] = 0,
-					["fear"] = 0,
-					[225800] = 0,
-					[224440] = 0,
-					[224568] = 0,
-					[224510] = 0,
-					["custom_on_230994"] = false,
-					[230438] = 0,
-					[225390] = 0,
-					[231005] = 0,
-					[230482] = 0,
-					[225856] = 0,
-					[221344] = 0,
-					[225845] = 0,
-					[230994] = 0,
-					[224632] = 0,
-					[223655] = 0,
-					[231086] = 0,
-					[224572] = 0,
-				},
-			},
-		},
-		["BigWigs_Bosses_Lady Inerva Darkvein"] = {
-			["profiles"] = {
-				["Default"] = {
-					[331870] = 3064039,
-					[325769] = 3064039,
-					[325713] = 3064039,
-					[341621] = 3068135,
-					[324983] = 3064039,
-					[340452] = 4112871,
-					[325936] = 3064039,
-					[331550] = 3064039,
-					["anima_tracking"] = 3064039,
-					[331573] = 3064295,
-					[325382] = 3065063,
-					[332664] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Plugins_AltPower"] = {
-		},
-		["BigWigs_Plugins_Victory"] = {
-			["profiles"] = {
-				["Default"] = {
-					["soundName"] = "None",
-				},
-			},
-		},
-		["BigWigs_Bosses_Remnant of Ner'zhul"] = {
-			["profiles"] = {
-				["Default"] = {
-					[350489] = 3064039,
-					[349890] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Bosses_Spellblade Aluriel"] = {
-			["profiles"] = {
-				["Default"] = {
-					[213278] = 0,
-					[213166] = 0,
-					[212736] = 0,
-					[212647] = 0,
-					[230414] = 0,
-					[212531] = 0,
-					["stages"] = 0,
-					[230403] = 0,
-					[213853] = 0,
-					[230504] = 0,
-					[213148] = 0,
-					[213852] = 0,
-					[213567] = 0,
-					[213520] = 0,
-					[213569] = 0,
-					[213083] = 0,
-					["berserk"] = 0,
-					[212587] = 0,
-					[230901] = 0,
-					[213564] = 0,
-					[212492] = 0,
-					[212735] = 0,
-					[213390] = 0,
-					[213504] = 0,
-					[212530] = 0,
-					[213275] = 0,
-				},
-			},
-		},
-		["BigWigs_Bosses_Skorpyron"] = {
-			["profiles"] = {
-				["Default"] = {
-					[204459] = 0,
-					[204448] = 0,
-					["berserk"] = 0,
-					[204471] = 0,
-					[204372] = 0,
-					[204284] = 0,
-					[204316] = 0,
-					[204275] = 0,
-					[-13767] = 0,
-					[204744] = 0,
+					[387411] = 3064039,
 				},
 			},
 		},
@@ -1224,27 +1181,29 @@ BigWigs3DB = {
 					["recursive_elemental"] = 0,
 					[209615] = 0,
 					[221864] = 0,
-					[209971] = 0,
+					[210022] = 0,
 					[209166] = 0,
 					[209170] = 0,
 					["boss_active"] = 0,
 					[229889] = 0,
 					[209244] = 0,
-					[210022] = 0,
+					[209971] = 0,
 				},
 			},
 		},
-		["BigWigs_Bosses_The Nokhud Offensive Trash"] = {
-			["profiles"] = {
-				["Default"] = {
-					[387411] = 3064039,
-				},
-			},
+		["BigWigs_Plugins_AltPower"] = {
 		},
-		["BigWigs_Bosses_The Raging Tempest"] = {
+		["BigWigs_Bosses_Varimathras"] = {
 			["profiles"] = {
 				["Default"] = {
-					[384686] = 3064055,
+					["stages"] = 0,
+					[243960] = 0,
+					[243961] = 0,
+					[244042] = 0,
+					[-16350] = 0,
+					[243999] = 0,
+					["berserk"] = 0,
+					[244094] = 0,
 				},
 			},
 		},
@@ -1263,14 +1222,79 @@ BigWigs3DB = {
 					[205611] = 0,
 					[198006] = 0,
 					[197969] = 0,
-					[204859] = 0,
 					[197943] = 0,
 					[198108] = 0,
+					[204859] = 0,
 					["custom_on_gaze_assist"] = false,
 				},
 			},
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Bosses_Spellblade Aluriel"] = {
+			["profiles"] = {
+				["Default"] = {
+					[213278] = 0,
+					[213166] = 0,
+					[212736] = 0,
+					[212647] = 0,
+					[230414] = 0,
+					[212531] = 0,
+					["stages"] = 0,
+					[230403] = 0,
+					[213853] = 0,
+					[230504] = 0,
+					[213148] = 0,
+					[213275] = 0,
+					[213567] = 0,
+					[213520] = 0,
+					[213504] = 0,
+					[213083] = 0,
+					["berserk"] = 0,
+					[212587] = 0,
+					[212735] = 0,
+					[213564] = 0,
+					[212492] = 0,
+					[230901] = 0,
+					[213390] = 0,
+					[213569] = 0,
+					[212530] = 0,
+					[213852] = 0,
+				},
+			},
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Council o' Captains"] = {
+			["profiles"] = {
+				["Default"] = {
+					[272902] = 3064039,
+					[258381] = 3064039,
+					[256979] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Bosses_Krosus"] = {
+			["profiles"] = {
+				["Default"] = {
+					[206677] = 0,
+					[205862] = 0,
+					[205370] = 0,
+					[205420] = 0,
+					[205344] = 0,
+					[208203] = 0,
+					["berserk"] = 0,
+					["smashingBridge"] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Grand Proctor Beryllia"] = {
+			["profiles"] = {
+				["Default"] = {
+					[325360] = 3064039,
+					[326039] = 3064039,
+					[325254] = 3068135,
+					[328737] = 3064039,
+				},
+			},
 		},
 		["BigWigs_Bosses_Plaguefall Trash"] = {
 			["profiles"] = {
@@ -1281,46 +1305,9 @@ BigWigs3DB = {
 					[327233] = 3064039,
 					[327882] = 3072231,
 					[328475] = 3064039,
-					[330816] = 3064039,
-					[330786] = 3064039,
 					[327995] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Blightbone"] = {
-			["profiles"] = {
-				["Default"] = {
-					[320596] = 144,
-					[320655] = 3065063,
-					[320637] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Krosus"] = {
-			["profiles"] = {
-				["Default"] = {
-					[206677] = 0,
-					[205344] = 0,
-					[205370] = 0,
-					[205420] = 0,
-					[205862] = 0,
-					[208203] = 0,
-					["berserk"] = 0,
-					["smashingBridge"] = 0,
-				},
-			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Halls of Atonement Trash"] = {
-			["profiles"] = {
-				["Default"] = {
-					[326450] = 16,
-					[325523] = 3065063,
-					[344993] = 3064039,
-					[326409] = 3064039,
-					[346866] = 3064039,
-					[325701] = 3064039,
+					[330786] = 3064039,
+					[330816] = 3064039,
 				},
 			},
 		},
@@ -1340,82 +1327,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
+		["BigWigs_Bosses_Hakkar the Soulflayer"] = {
 			["profiles"] = {
 				["Default"] = {
-					[313960] = 0,
-					[318449] = 0,
-					[315772] = 0,
-					[312866] = 0,
-					[313609] = 0,
-					[309991] = 0,
-					[313400] = 0,
-					[310042] = 0,
-					[316711] = 0,
-				},
-			},
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Bosses_Tred'ova"] = {
-			["profiles"] = {
-				["Default"] = {
-					[322450] = 3064039,
-					[322550] = 3064039,
-					[322563] = 4112615,
-					[322651] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Attumen the Huntsman"] = {
-			["profiles"] = {
-				["Default"] = {
-					[228852] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Bosses_Gorechop"] = {
-			["profiles"] = {
-				["Default"] = {
-					[318406] = 3064039,
-					[322795] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Thrall"] = {
-			["profiles"] = {
-				["Default"] = {
-					[297822] = 0,
-				},
-			},
-		},
-		["BigWigs_Bosses_HK-8 Aerial Oppression Unit"] = {
-			["profiles"] = {
-				["Default"] = {
-					[302274] = 3129591,
-					[296080] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Il'gynoth"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shriveled_eyestalk"] = 0,
-					[209469] = 0,
-					[223121] = 0,
-					[215128] = 0,
-					[218415] = 0,
-					[208697] = 0,
-					["infobox"] = 0,
-					[212886] = 0,
-					["nightmare_horror"] = 0,
-					[208689] = 0,
-					["stages"] = 0,
-					[215234] = 0,
-					[208929] = 0,
-					[210099] = 0,
-					["forces"] = 0,
-					[210984] = 0,
+					[323569] = 3064039,
+					[322736] = 3130599,
+					[322746] = 3064039,
 				},
 			},
 		},
@@ -1435,10 +1352,121 @@ BigWigs3DB = {
 					[332585] = 3065063,
 					[327122] = 3064039,
 					[326851] = 3064039,
-					[328276] = 3064039,
-					[333111] = 3064039,
-					[336162] = 3064037,
 					[330042] = 3064039,
+					[336162] = 3064037,
+					[333111] = 3064039,
+					[328276] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Bosses_Tred'ova"] = {
+			["profiles"] = {
+				["Default"] = {
+					[322450] = 3064039,
+					[322550] = 3064039,
+					[322563] = 4112615,
+					[322651] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Bosses_Inquisitor Gnshal"] = {
+			["profiles"] = {
+				["Default"] = {
+					[304976] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Gorechop"] = {
+			["profiles"] = {
+				["Default"] = {
+					[318406] = 3064039,
+					[322795] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Bosses_Thrall"] = {
+			["profiles"] = {
+				["Default"] = {
+					[297822] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Cenarius"] = {
+			["profiles"] = {
+				["Default"] = {
+					[211192] = 0,
+					[214884] = 0,
+					[212726] = 0,
+					[212681] = 0,
+					[214505] = 0,
+					[211989] = 0,
+					[210346] = 0,
+					[226821] = 0,
+					[211471] = 0,
+					["stages"] = 0,
+					[213162] = 0,
+					[214529] = 0,
+					[214876] = 0,
+					[211368] = 0,
+					[210290] = 0,
+					[210279] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Nighthold Trash"] = {
+			["profiles"] = {
+				["Default"] = {
+					[221160] = 0,
+					[221164] = 0,
+					[225105] = 0,
+					[225857] = 0,
+					[225927] = 0,
+					[230488] = 0,
+					[225412] = 0,
+					[224982] = 0,
+					[224510] = 0,
+					[225800] = 0,
+					[224440] = 0,
+					[224568] = 0,
+					[224572] = 0,
+					["custom_on_230994"] = false,
+					[231086] = 0,
+					[225390] = 0,
+					[231005] = 0,
+					[230482] = 0,
+					[223655] = 0,
+					[224632] = 0,
+					[225845] = 0,
+					[230994] = 0,
+					[221344] = 0,
+					[225856] = 0,
+					[230438] = 0,
+					["fear"] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Horrific Vision of Orgrimmar Trash"] = {
+			["profiles"] = {
+				["Default"] = {
+					[311996] = 0,
+					["altpower"] = 0,
+					[300388] = 0,
+					[303589] = 0,
+					[304101] = 0,
+					[300351] = 0,
+					[306001] = 0,
+					[300530] = 0,
+					[304165] = 0,
+					[297237] = 0,
+					[306199] = 0,
+					[297315] = 0,
+					[305875] = 0,
+					[305236] = 0,
+					[296510] = 0,
+					[311390] = 0,
+					[298502] = 0,
+					[298510] = 0,
+					[299055] = 0,
 				},
 			},
 		},
@@ -1474,15 +1502,15 @@ BigWigs3DB = {
 					[231729] = 0,
 					[232061] = 0,
 					["berserk"] = 0,
-					[232174] = 0,
 					[231998] = 0,
+					[234128] = 0,
 					[241600] = 0,
-					["custom_on_fixate_plates"] = false,
 					[233429] = 0,
+					[231854] = 0,
 					[240319] = 0,
 					[231768] = 0,
-					[231854] = 0,
-					[234128] = 0,
+					["custom_on_fixate_plates"] = false,
+					[232174] = 0,
 				},
 			},
 		},
@@ -1490,26 +1518,38 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[211927] = 0,
-					[212099] = 0,
-					[207871] = 0,
+					[206617] = 0,
+					[207976] = 0,
 					[-13022] = 0,
 					[206607] = 0,
 					[206609] = 0,
-					[207976] = 0,
+					[207871] = 0,
 					[207228] = 0,
 					[219815] = 0,
-					[206617] = 0,
+					[212099] = 0,
 				},
 			},
 		},
-		["BigWigs_Bosses_Valinor"] = {
+		["BigWigs_Bosses_Sha of Doubt"] = {
 			["profiles"] = {
 				["Default"] = {
-					[327246] = 0,
-					[327255] = 0,
-					[327280] = 0,
-					[327262] = 0,
-					[327274] = 0,
+					[117665] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Skorpyron"] = {
+			["profiles"] = {
+				["Default"] = {
+					[204459] = 0,
+					[204448] = 0,
+					["berserk"] = 0,
+					[204471] = 0,
+					[204372] = 0,
+					[204284] = 0,
+					[204316] = 0,
+					[204744] = 0,
+					[-13767] = 0,
+					[204275] = 0,
 				},
 			},
 		},
@@ -1518,8 +1558,30 @@ BigWigs3DB = {
 				["Default"] = {
 					[323059] = 3064039,
 					[323177] = 0,
-					[323149] = 3064039,
 					[328756] = 3064039,
+					[323149] = 3064039,
+				},
+			},
+		},
+		["BigWigs_Bosses_Operation: Mechagon Trash"] = {
+			["profiles"] = {
+				["Default"] = {
+					[300764] = 0,
+					[294884] = 0,
+					[300177] = 0,
+					[299502] = 0,
+					[303941] = 0,
+					[300102] = 0,
+					[300514] = 0,
+					[299438] = 0,
+					[300687] = 0,
+					[300436] = 16,
+					[299525] = 0,
+					[300159] = 0,
+					[300414] = 0,
+					[300650] = 0,
+					[300207] = 0,
+					[299474] = 0,
 				},
 			},
 		},
@@ -1528,55 +1590,9 @@ BigWigs3DB = {
 				["Default"] = {
 					["nether_aberration"] = 3064039,
 					["warmup"] = 3064039,
-					[233473] = 3064039,
-					[234676] = 3064039,
 					["stages"] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Argus the Unmaker"] = {
-			["profiles"] = {
-				["Default"] = {
-					["fear_help"] = 0,
-					[255594] = 0,
-					[248499] = 0,
-					[248165] = 0,
-					[255826] = 0,
-					[256388] = 0,
-					[257911] = 0,
-					[258039] = 0,
-					[255935] = 0,
-					[250669] = 0,
-					[257214] = 0,
-					[258838] = 0,
-					[257966] = 0,
-					[256544] = 0,
-					[255199] = 0,
-					[257296] = 0,
-					[-17077] = 0,
-					[258834] = 0,
-					[255200] = 0,
-					[248167] = 0,
-					[248396] = 0,
-					["bomb_explosions"] = 0,
-					[258068] = 0,
-					[252616] = 0,
-					["combinedBurstAndBomb"] = 0,
-					[251570] = 0,
-					["berserk"] = 0,
-					[256399] = 0,
-					[252729] = 0,
-					[252516] = 0,
-					[248317] = 0,
-					["stages"] = 0,
-				},
-			},
-		},
-		["BigWigs_Bosses_Vez'okk the Lightless"] = {
-			["profiles"] = {
-				["Default"] = {
-					[306656] = 0,
-					[306617] = 0,
+					[234676] = 3064039,
+					[233473] = 3064039,
 				},
 			},
 		},
@@ -1597,21 +1613,14 @@ BigWigs3DB = {
 					[214348] = 0,
 					[215582] = 0,
 					[213124] = 0,
-					["berserk"] = 0,
+					[215443] = 0,
 					[218124] = 0,
 					["stages"] = 0,
 					[210864] = 0,
 					[210547] = 0,
 					[210948] = 0,
 					[215300] = 0,
-					[215443] = 0,
-				},
-			},
-		},
-		["BigWigs_Bosses_Slavemaster Ul'rok"] = {
-			["profiles"] = {
-				["Default"] = {
-					[298691] = 0,
+					["berserk"] = 0,
 				},
 			},
 		},
@@ -1619,6 +1628,13 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[250096] = 3129589,
+				},
+			},
+		},
+		["BigWigs_Bosses_Slavemaster Ul'rok"] = {
+			["profiles"] = {
+				["Default"] = {
+					[298691] = 0,
 				},
 			},
 		},
@@ -1653,11 +1669,11 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Granyth"] = {
 							[388283] = "Die!",
 						},
-						["BigWigs_Bosses_Tugar Bloodtotem"] = {
-							[243224] = "Glass",
+						["BigWigs_Bosses_Dargrul"] = {
+							[200404] = "Lich King Apocalypse",
 						},
-						["BigWigs_Bosses_Court of Stars Trash"] = {
-							[212784] = "Electrical Spark",
+						["BigWigs_Bosses_An Affront of Challengers"] = {
+							[320293] = "Splash",
 						},
 						["BigWigs_Bosses_Altairus"] = {
 							[413295] = "Die!",
@@ -1671,11 +1687,11 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Sylvanas Windrunner"] = {
 							[351353] = "|cFFFF0000Orb|r",
 						},
-						["BigWigs_Bosses_An Affront of Challengers"] = {
-							[320293] = "Splash",
+						["BigWigs_Bosses_Court of Stars Trash"] = {
+							[212784] = "Electrical Spark",
 						},
-						["BigWigs_Bosses_Dargrul"] = {
-							[200404] = "Lich King Apocalypse",
+						["BigWigs_Bosses_Tugar Bloodtotem"] = {
+							[243224] = "Glass",
 						},
 					},
 					["Warning"] = {
@@ -1720,6 +1736,9 @@ BigWigs3DB = {
 							[321828] = "Cat",
 							[321891] = "Hyena",
 						},
+						["BigWigs_Bosses_Gutshot"] = {
+							[384577] = "Bite",
+						},
 						["BigWigs_Bosses_The Nokhud Offensive Trash"] = {
 							[384365] = "Oh No",
 							[373395] = "Oh No",
@@ -1729,8 +1748,8 @@ BigWigs3DB = {
 							[352650] = "Bite",
 							[354147] = "Lich King Apocalypse",
 						},
-						["BigWigs_Bosses_The Vortex Pinnacle Trash"] = {
-							[87779] = "Kitten Meow",
+						["BigWigs_Bosses_Freehold Trash"] = {
+							[257397] = "Kitten Meow",
 						},
 						["BigWigs_Bosses_De Other Side Trash"] = {
 							[332706] = "Kitten Meow",
@@ -1755,8 +1774,8 @@ BigWigs3DB = {
 							[234422] = "Heart",
 							[234676] = "Cat",
 						},
-						["BigWigs_Bosses_Asaad"] = {
-							[87618] = "Lich King Apocalypse",
+						["BigWigs_Bosses_Shadowmoon Burial Grounds Trash"] = {
+							[156718] = "Kitten Meow",
 						},
 						["BigWigs_Bosses_Tazavesh Trash"] = {
 							[355934] = "|cFFFF0000Dispell|r",
@@ -1765,49 +1784,48 @@ BigWigs3DB = {
 							[355980] = "Huh?",
 							[355782] = "Wham!",
 							[357260] = "Cat",
-							[357284] = "Glass",
-							[357238] = "|cFFFF0000Switch|r",
-							[347721] = "Polar Bear",
-							[356001] = "Arrow Swoosh",
 							[355057] = "Wham!",
-						},
-						["BigWigs_Bosses_Unbound Abomination"] = {
-							[269843] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Tred'ova"] = {
-							[337249] = "Voice: Release",
-							[337235] = "Cat",
-							[337255] = "Voice: Focus",
-						},
-						["BigWigs_Bosses_Algeth'ar Academy Trash"] = {
-							[377389] = "Xylo",
-							[396812] = "Die!",
-							[387862] = "|cFFFF0000Stop|r",
-						},
-						["BigWigs_Bosses_Kel'Thuzad"] = {
-							[348760] = "Boxing Arena Gong",
+							[357238] = "|cFFFF0000Switch|r",
+							[356001] = "Arrow Swoosh",
+							[347721] = "Polar Bear",
+							[357284] = "Glass",
 						},
 						["BigWigs_Bosses_Sigryn"] = {
 							[237914] = "|cFFFF0000Soak|r",
 						},
-						["BigWigs_Bosses_Fatescribe Roh-Kalo"] = {
-							[351680] = "Cow Mooing",
+						["BigWigs_Bosses_Brackenhide Hollow Trash"] = {
+							[367500] = "Hyena",
+							[384974] = "|cFFFF0000Fixate|r",
 						},
-						["BigWigs_Bosses_Kin-Tara"] = {
-							[331251] = "Aggro",
+						["BigWigs_Bosses_The Nine"] = {
+							[350365] = "Voice: Run Away",
+							[350385] = "|cFFFF0000In|r",
+							[350542] = "Air Horn",
+						},
+						["BigWigs_Bosses_Kel'Thuzad"] = {
+							[348760] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Temple of the Jade Serpent Trash"] = {
+							[395859] = "Cat",
+						},
+						["BigWigs_Bosses_Lord Erdris Thorn"] = {
+							[237188] = "Die!",
+						},
+						["BigWigs_Bosses_Theater Of Pain Trash"] = {
+							[330868] = "Die!",
 						},
 						["BigWigs_Bosses_Hackclaw's War-Band"] = {
 							[381444] = "Boxing Arena Gong",
 							[377950] = "Kitten Meow",
 						},
-						["BigWigs_Bosses_Raest"] = {
-							["rune"] = "Glass",
+						["BigWigs_Bosses_Tugar Bloodtotem"] = {
+							[242733] = "Die!",
+						},
+						["BigWigs_Bosses_Maiden of Virtue"] = {
+							[227508] = "Die!",
 						},
 						["BigWigs_Bosses_Amarth, The Reanimator"] = {
 							[321247] = "Die!",
-						},
-						["BigWigs_Bosses_Grimrail Depot Trash"] = {
-							[166335] = "Electrical Spark",
 						},
 						["BigWigs_Bosses_The Raging Tempest"] = {
 							[394875] = "Die!",
@@ -1826,35 +1844,36 @@ BigWigs3DB = {
 							[374045] = "Kitten Meow",
 							[374699] = "Cat Meow",
 						},
-						["BigWigs_Bosses_Maiden of Virtue"] = {
-							[227508] = "Die!",
+						["BigWigs_Bosses_Grimrail Depot Trash"] = {
+							[166335] = "Electrical Spark",
 						},
-						["BigWigs_Bosses_Tugar Bloodtotem"] = {
-							[242733] = "Die!",
+						["BigWigs_Bosses_Raest"] = {
+							["rune"] = "Glass",
 						},
-						["BigWigs_Bosses_Theater Of Pain Trash"] = {
-							[330868] = "Die!",
+						["BigWigs_Bosses_Kin-Tara"] = {
+							[331251] = "Aggro",
 						},
-						["BigWigs_Bosses_Lord Erdris Thorn"] = {
-							[237188] = "Die!",
+						["BigWigs_Bosses_Tred'ova"] = {
+							[337249] = "Voice: Release",
+							[337235] = "Cat",
+							[337255] = "Voice: Focus",
 						},
-						["BigWigs_Bosses_The Nine"] = {
-							[350365] = "Voice: Run Away",
-							[350385] = "|cFFFF0000In|r",
-							[350542] = "Air Horn",
+						["BigWigs_Bosses_Fatescribe Roh-Kalo"] = {
+							[351680] = "Cow Mooing",
 						},
-						["BigWigs_Bosses_Brackenhide Hollow Trash"] = {
-							[367500] = "Hyena",
-							[384974] = "|cFFFF0000Fixate|r",
+						["BigWigs_Bosses_Algeth'ar Academy Trash"] = {
+							[377389] = "Xylo",
+							[396812] = "Die!",
+							[387862] = "|cFFFF0000Stop|r",
 						},
-						["BigWigs_Bosses_Temple of the Jade Serpent Trash"] = {
-							[395859] = "Cat",
+						["BigWigs_Bosses_Unbound Abomination"] = {
+							[269843] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Shadowmoon Burial Grounds Trash"] = {
-							[156718] = "Kitten Meow",
+						["BigWigs_Bosses_Asaad"] = {
+							[87618] = "Lich King Apocalypse",
 						},
-						["BigWigs_Bosses_Freehold Trash"] = {
-							[257397] = "Kitten Meow",
+						["BigWigs_Bosses_The Vortex Pinnacle Trash"] = {
+							[87779] = "Kitten Meow",
 						},
 						["BigWigs_Bosses_Ventunax"] = {
 							[324205] = "Boxing Arena Gong",
@@ -1886,6 +1905,7 @@ BigWigs3DB = {
 						},
 						["BigWigs_Bosses_Underrot Trash"] = {
 							[265019] = "Electrical Spark",
+							[265016] = "Blast",
 						},
 						["BigWigs_Bosses_Executor Tarvold"] = {
 							[322573] = "Huh?",
@@ -1912,8 +1932,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Skylord Tovra"] = {
 							[162066] = "Gasp",
 						},
-						["BigWigs_Bosses_De Other Side Trash"] = {
-							[332672] = "Shotgun",
+						["BigWigs_Bosses_Nalthor the Rimebinder"] = {
+							[321368] = "Splash",
 						},
 						["BigWigs_Bosses_The Raging Tempest"] = {
 							[384686] = "None",
@@ -1922,14 +1942,14 @@ BigWigs3DB = {
 							[327655] = "Electrical Spark",
 							[327332] = "Electrical Spark",
 						},
-						["BigWigs_Bosses_Uldaman: Legacy of Tyr Trash"] = {
-							[377724] = "Splash",
-						},
-						["BigWigs_Bosses_The Nine"] = {
-							[350542] = "None",
+						["BigWigs_Bosses_Halls of Atonement Trash"] = {
+							[325876] = "BigWigs: Info",
 						},
 						["BigWigs_Bosses_Altairus"] = {
 							[88282] = "Bell",
+						},
+						["BigWigs_Bosses_The Nine"] = {
+							[350542] = "None",
 						},
 						["BigWigs_Bosses_The Necrotic Wake Trash"] = {
 							[323496] = "Kaching",
@@ -1941,11 +1961,12 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Sylvanas Windrunner"] = {
 							[350857] = "|cFFFF0000Immunity|r",
 						},
-						["BigWigs_Bosses_Halls of Atonement Trash"] = {
-							[325876] = "BigWigs: Info",
+						["BigWigs_Bosses_Uldaman: Legacy of Tyr Trash"] = {
+							[377724] = "Splash",
+							[369465] = "Details Jedi1",
 						},
-						["BigWigs_Bosses_Nalthor the Rimebinder"] = {
-							[321368] = "Splash",
+						["BigWigs_Bosses_De Other Side Trash"] = {
+							[332672] = "Shotgun",
 						},
 					},
 					["media"] = {
@@ -1970,33 +1991,75 @@ BigWigs3DB = {
 							[349979] = "Kaching",
 						},
 						["BigWigs_Bosses_Underrot Trash"] = {
-							[265540] = "Boxing Arena Gong",
 							[265568] = "None",
-							[272609] = "Die!",
 							[265091] = "Oh No",
+							[265019] = "Details Jedi1",
+							[272609] = "Die!",
+							[265540] = "Boxing Arena Gong",
 						},
 						["BigWigs_Bosses_Plaguefall Trash"] = {
 							[330403] = "Roaring Lion",
 							[318949] = "Boxing Arena Gong",
 						},
+						["BigWigs_Bosses_Halls of Valor Trash"] = {
+							[198934] = "Splash",
+							[191508] = "Boxing Arena Gong",
+							[199050] = "Bite",
+							[198888] = "Gasp",
+						},
+						["BigWigs_Bosses_Chrono-Lord Deios"] = {
+							[375727] = "Roaring Lion",
+						},
 						["BigWigs_Bosses_Dealer Xy'exa"] = {
 							[323687] = "Electrical Spark",
-						},
-						["BigWigs_Bosses_Sanguine Depths Trash"] = {
-							[320991] = "Boxing Arena Gong",
 						},
 						["BigWigs_Bosses_Kryxis the Voracious"] = {
 							[319650] = "Gunshot",
 							[319713] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Shadowmoon Burial Grounds Trash"] = {
-							[153395] = "Boxing Arena Gong",
+						["BigWigs_Bosses_Sanguine Depths Trash"] = {
+							[320991] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Halls of Atonement Trash"] = {
+							[325799] = "Shotgun",
+							[325876] = "None",
 						},
 						["BigWigs_Bosses_Tred'ova"] = {
 							[322614] = "Electrical Spark",
 						},
+						["BigWigs_Bosses_Shadowmoon Burial Grounds Trash"] = {
+							[153395] = "Boxing Arena Gong",
+						},
 						["BigWigs_Bosses_Liu Flameheart"] = {
 							[396907] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Brackenhide Hollow Trash"] = {
+							[382555] = "Shotgun",
+							[382712] = "Kitten Meow",
+							[388046] = "Shotgun",
+						},
+						["BigWigs_Bosses_Gutshot"] = {
+							[384577] = "Oh No",
+						},
+						["BigWigs_Bosses_Ruby Life Pools Trash"] = {
+							[372087] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_The Nine"] = {
+							[350542] = "Bite",
+							[350202] = "Punch",
+						},
+						["BigWigs_Bosses_Sylvanas Windrunner"] = {
+							[347609] = "Yeehaw",
+							[351180] = "Punch",
+						},
+						["BigWigs_Bosses_An Affront of Challengers"] = {
+							[333231] = "Bite",
+							[333540] = "Voice: Switch",
+						},
+						["BigWigs_Bosses_The Azure Vault Trash"] = {
+							[387067] = "Boxing Arena Gong",
+							[375596] = "Elf Bell Toll",
+							[370764] = "Die!",
 						},
 						["BigWigs_Bosses_The Nokhud Offensive Trash"] = {
 							[387614] = "Die!",
@@ -2005,28 +2068,8 @@ BigWigs3DB = {
 							[386028] = "Shotgun",
 							[384336] = "Shotgun",
 						},
-						["BigWigs_Bosses_Ruby Life Pools Trash"] = {
-							[372087] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Kin-Tara"] = {
-							[320966] = "Sharp Punch",
-						},
-						["BigWigs_Bosses_Kyrakka and Erkhart Stormvein"] = {
-							[381512] = "Die!",
-						},
-						["BigWigs_Bosses_The Necrotic Wake Trash"] = {
-							[338456] = "Die!",
-						},
-						["BigWigs_Bosses_Neltharions Lair Trash"] = {
-							[183088] = "Banana Peel Slip",
-							[226296] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Aggramar"] = {
-							[245463] = "Die!",
-						},
-						["BigWigs_Bosses_Sylvanas Windrunner"] = {
-							[347609] = "Yeehaw",
-							[351180] = "Punch",
+						["BigWigs_Bosses_Bromach"] = {
+							[369703] = "Shotgun",
 						},
 						["BigWigs_Bosses_Leymor"] = {
 							[386660] = "Boxing Arena Gong",
@@ -2036,9 +2079,8 @@ BigWigs3DB = {
 							[332157] = "Shotgun",
 							["soporific_shimmerdust"] = "None",
 						},
-						["BigWigs_Bosses_An Affront of Challengers"] = {
-							[333231] = "Bite",
-							[333540] = "Voice: Switch",
+						["BigWigs_Bosses_Kin-Tara"] = {
+							[320966] = "Sharp Punch",
 						},
 						["BigWigs_Bosses_Remnant of Ner'zhul"] = {
 							[349890] = "None",
@@ -2062,16 +2104,16 @@ BigWigs3DB = {
 							[356404] = "Fireball",
 							[357226] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Soulrender Dormazain"] = {
-							[350422] = "Voice: Boss",
-						},
 						["BigWigs_Bosses_Mists of Tirna Scithe Trash"] = {
 							[322569] = "Blast",
 							[321968] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Spires of Ascension Trash"] = {
-							[317985] = "Boxing Arena Gong",
-							[328458] = "Boxing Arena Gong",
+						["BigWigs_Bosses_Tugar Bloodtotem"] = {
+							["submerge"] = "BigWigs: Long",
+							["charge"] = "Polar Bear",
+						},
+						["BigWigs_Bosses_Skylord Tovra"] = {
+							[162058] = "Boxing Arena Gong",
 						},
 						["BigWigs_Bosses_Kel'Thuzad"] = {
 							[355389] = "Voice: Run Away",
@@ -2081,8 +2123,9 @@ BigWigs3DB = {
 							[237730] = "Boxing Arena Gong",
 							[237857] = "Yeehaw",
 						},
-						["BigWigs_Bosses_Dargrul"] = {
-							[200700] = "Punch",
+						["BigWigs_Bosses_Black Rook Hold Trash"] = {
+							[200261] = "Punch",
+							[197974] = "Punch",
 						},
 						["BigWigs_Bosses_Opera Hall: Westfall Story"] = {
 							[227568] = "Boxing Arena Gong",
@@ -2090,10 +2133,16 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Rokmora"] = {
 							[188169] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Algeth'ar Academy Trash"] = {
-							[387910] = "None",
-							[377912] = "Boxing Arena Gong",
-							[388976] = "Boxing Arena Gong",
+						["BigWigs_Bosses_Hakkar the Soulflayer"] = {
+							[322759] = "Splash",
+						},
+						["BigWigs_Bosses_Lord Erdris Thorn"] = {
+							[236720] = "Sharp Punch",
+							[235823] = "Sword Ring",
+							[237191] = "Simon Chime",
+						},
+						["BigWigs_Bosses_Ingra Maloch"] = {
+							[323137] = "Boxing Arena Gong",
 						},
 						["BigWigs_Bosses_Court of Stars Trash"] = {
 							[207979] = "Boxing Arena Gong",
@@ -2101,23 +2150,16 @@ BigWigs3DB = {
 							[209027] = "Boxing Arena Gong",
 							[212031] = "Kitten Meow",
 						},
-						["BigWigs_Bosses_Ingra Maloch"] = {
-							[323137] = "Boxing Arena Gong",
+						["BigWigs_Bosses_Algeth'ar Academy Trash"] = {
+							[387910] = "None",
+							[377912] = "Boxing Arena Gong",
+							[388976] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Lord Erdris Thorn"] = {
-							[236720] = "Sharp Punch",
-							[235823] = "Sword Ring",
-							[237191] = "Simon Chime",
+						["BigWigs_Bosses_Dargrul"] = {
+							[200700] = "Punch",
 						},
-						["BigWigs_Bosses_Hakkar the Soulflayer"] = {
-							[322759] = "Splash",
-						},
-						["BigWigs_Bosses_Black Rook Hold Trash"] = {
-							[200261] = "Punch",
-							[197974] = "Punch",
-						},
-						["BigWigs_Bosses_Skylord Tovra"] = {
-							[162058] = "Boxing Arena Gong",
+						["BigWigs_Bosses_The Lost Dwarves"] = {
+							[369573] = "Boxing Arena Gong",
 						},
 						["BigWigs_Bosses_Halls of Infusion Trash"] = {
 							[393432] = "Shotgun",
@@ -2126,167 +2168,79 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Grimrail Depot Trash"] = {
 							[176032] = "Die!",
 						},
-						["BigWigs_Bosses_The Azure Vault Trash"] = {
-							[387067] = "Boxing Arena Gong",
-							[375596] = "Elf Bell Toll",
-							[370764] = "Die!",
+						["BigWigs_Bosses_Spires of Ascension Trash"] = {
+							[317985] = "Boxing Arena Gong",
+							[328458] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Tugar Bloodtotem"] = {
-							["submerge"] = "BigWigs: Long",
-							["charge"] = "Polar Bear",
+						["BigWigs_Bosses_Kyrakka and Erkhart Stormvein"] = {
+							[381512] = "Die!",
 						},
 						["BigWigs_Bosses_Umbrelskul"] = {
 							[384699] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_The Nine"] = {
-							[350542] = "Bite",
-							[350202] = "Punch",
+						["BigWigs_Bosses_Neltharions Lair Trash"] = {
+							[183088] = "Banana Peel Slip",
+							[226296] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Brackenhide Hollow Trash"] = {
-							[382555] = "Shotgun",
-							[382712] = "Kitten Meow",
-							[388046] = "Shotgun",
+						["BigWigs_Bosses_The Necrotic Wake Trash"] = {
+							[338456] = "Die!",
+						},
+						["BigWigs_Bosses_Aggramar"] = {
+							[245463] = "Die!",
+						},
+						["BigWigs_Bosses_Uldaman: Legacy of Tyr Trash"] = {
+							[369465] = "Details Jedi1",
+							[369411] = "|cFFFF0000Stop|r",
+							[381593] = "|cFFFF0000Hide|r",
+							[369811] = "Shotgun",
+							[377732] = "Bite",
 						},
 						["BigWigs_Bosses_Freehold Trash"] = {
 							[257784] = "Kitten Meow",
 							[274400] = "Kaching",
-							[257756] = "Shotgun",
-							[257732] = "|cFFFF0000Stop|r",
-							[257426] = "Punch",
-							[258777] = "Shotgun",
 							[258199] = "Shotgun",
+							[257732] = "|cFFFF0000Stop|r",
+							[258777] = "Shotgun",
+							[257426] = "Punch",
+							[257756] = "Shotgun",
 						},
-						["BigWigs_Bosses_Halls of Valor Trash"] = {
-							[198934] = "Splash",
-							[191508] = "Boxing Arena Gong",
-							[198888] = "Gasp",
-							[199050] = "Bite",
-						},
-						["BigWigs_Bosses_Uldaman: Legacy of Tyr Trash"] = {
-							[369465] = "Details Jedi1",
-							[377732] = "Details Jedi1",
-						},
-						["BigWigs_Bosses_Halls of Atonement Trash"] = {
-							[325799] = "Shotgun",
-							[325876] = "None",
+						["BigWigs_Bosses_Soulrender Dormazain"] = {
+							[350422] = "Voice: Boss",
 						},
 					},
 					["Alert"] = {
 						["BigWigs_Bosses_Margrave Stradama"] = {
 							[322232] = "Splash",
 						},
-						["BigWigs_Bosses_Devos, Paragon of Doubt"] = {
-							[323943] = "Boxing Arena Gong",
-						},
 						["BigWigs_Bosses_Rocketspark and Borka"] = {
 							[162171] = "Boxing Arena Gong",
 							[162617] = "|cFFFF0000Stop|r",
 						},
-						["BigWigs_Bosses_Bonemaw"] = {
-							[154175] = "Boxing Arena Gong",
+						["BigWigs_Bosses_The Eye of the Jailer"] = {
+							[350022] = "Shotgun",
 						},
 						["BigWigs_Bosses_The Vortex Pinnacle Trash"] = {
 							[87762] = "Die!",
 							[410870] = "Kitten Meow",
 							[87761] = "Cheer",
 						},
-						["BigWigs_Bosses_Asaad"] = {
-							[87618] = "Oh No",
-						},
-						["BigWigs_Bosses_The Eye of the Jailer"] = {
-							[350022] = "Shotgun",
-						},
-						["BigWigs_Bosses_Underrot Trash"] = {
-							[265568] = "Kaching",
-							[278961] = "Kitten Meow",
-							[265091] = "Cat Meow",
-						},
-						["BigWigs_Bosses_Operation: Mechagon Trash"] = {
-							[300436] = "Cat",
-							[284219] = "Oh No",
-							[300087] = "Kitten Meow",
-						},
-						["BigWigs_Bosses_The Necrotic Wake Trash"] = {
-							[328667] = "Cat",
-							[338357] = "Text2",
-							[323190] = "Splash",
-							[335143] = "Kitten Meow",
-							[327130] = "Kitten Meow",
-							[334748] = "Kitten Meow",
-							[338353] = "Cat Meow",
-						},
-						["BigWigs_Bosses_Plaguefall Trash"] = {
-							[336451] = "Splash",
-							[320512] = "Sharp Punch",
-							[320517] = "Shotgun",
-							[329239] = "Kitten Meow",
-						},
-						["BigWigs_Bosses_Harlan Sweete"] = {
-							[257278] = "Boxing Arena Gong",
+						["BigWigs_Bosses_Zo'phex the Sentinel"] = {
+							[346204] = "Snake Attack",
+							[345990] = "|cFFFF0000Switch|r",
+							[347949] = "Die!",
 						},
 						["BigWigs_Bosses_Guardian of the First Ones"] = {
 							[352833] = "Boxing Arena Gong",
 						},
-						["BigWigs_Bosses_Fatescribe Roh-Kalo"] = {
-							[350421] = "Boxing Arena Gong",
-							[351680] = "|cFFFF0000Add|r",
-						},
-						["BigWigs_Bosses_The Nokhud Offensive Trash"] = {
-							[387411] = "Xylo",
-							[383823] = "Glass",
-							[386015] = "Kitten Meow",
-							[384365] = "Sonar",
-							[387440] = "Panther",
-							[387596] = "Electrical Spark",
-							[373395] = "Die!",
-							[334610] = "Die!",
-						},
 						["BigWigs_Bosses_Sanguine Depths Trash"] = {
 							[322429] = "Punch",
 							[322433] = "Kitten Meow",
-							[335305] = "Cat",
 							[334558] = "Kaching",
-						},
-						["BigWigs_Bosses_Halls of Atonement Trash"] = {
-							[326450] = "Boxing Arena Gong",
-							[325523] = "Punch",
-							[325700] = "Humm",
-							[326607] = "Sharp Punch",
-							[325876] = "None",
-						},
-						["BigWigs_Bosses_Hyrja"] = {
-							[192018] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Overgrown Ancient"] = {
-							[388544] = "Die!",
-						},
-						["BigWigs_Bosses_Karazhan Trash"] = {
-							[227999] = "Synth Chord",
-							[228575] = "Big Kiss",
-						},
-						["BigWigs_Bosses_Spires of Ascension Trash"] = {
-							[317936] = "Chime",
-							[317963] = "Cat Meow",
-							[327413] = "Kitten Meow",
-							[327648] = "Cat Meow",
-							[317661] = "None",
-							[328462] = "Brass",
-						},
-						["BigWigs_Bosses_Mistcaller"] = {
-							[341709] = "Huh?",
+							[335305] = "Cat",
 						},
 						["BigWigs_Bosses_Ruby Life Pools Trash"] = {
 							[385536] = "Die!",
 							[372735] = "Panther",
-						},
-						["BigWigs_Bosses_The Raging Tempest"] = {
-							[384686] = "Die!",
-						},
-						["BigWigs_Bosses_Kyrakka and Erkhart Stormvein"] = {
-							[381512] = "Details Jedi1",
-						},
-						["BigWigs_Bosses_Altairus"] = {
-							[-2425] = "Brass",
 						},
 						["BigWigs_Bosses_Oryphrion"] = {
 							[324608] = "Batman Punch",
@@ -2303,15 +2257,9 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Leymor"] = {
 							[374789] = "Die!",
 						},
-						["BigWigs_Bosses_De Other Side Trash"] = {
-							[334051] = "Boxing Arena Gong",
-							[333227] = "Shotgun",
-							[332605] = "Cat Meow",
-						},
-						["BigWigs_Bosses_Kin-Tara"] = {
-							[327481] = "Huh?",
-							[321009] = "Die!",
-							[331251] = "Bite",
+						["BigWigs_Bosses_An Affront of Challengers"] = {
+							[320069] = "Punch",
+							[333231] = "Die!",
 						},
 						["BigWigs_Bosses_Remnant of Ner'zhul"] = {
 							[349890] = "Shotgun",
@@ -2320,97 +2268,27 @@ BigWigs3DB = {
 						["BigWigs_Bosses_General Kaal"] = {
 							[323821] = "Die!",
 						},
-						["BigWigs_Bosses_Kruul"] = {
-							[234423] = "Die!",
-							[234673] = "Bam",
-						},
-						["BigWigs_Bosses_Mordretha, the Endless Empress"] = {
-							[324079] = "Punch",
-						},
 						["BigWigs_Bosses_Tazavesh Trash"] = {
 							[355057] = "Kaching",
 							[355934] = "Electrical Spark",
-							[356133] = "Kaching",
 							[356967] = "Sharp Punch",
-							[356031] = "Cat",
-							[355132] = "Die!",
-							[357512] = "Boxing Arena Gong",
 							[356407] = "Cat",
+							[356031] = "Cat",
+							[357512] = "Boxing Arena Gong",
+							[355132] = "Die!",
+							[356133] = "Kaching",
 						},
 						["BigWigs_Bosses_Cragmaw the Infested"] = {
 							[260292] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Temple of the Jade Serpent Trash"] = {
-							[397889] = "Kitten Meow",
-							[114646] = "Panther",
-							[397931] = "Details Jedi1",
-						},
-						["BigWigs_Bosses_Raest"] = {
-							[235578] = "Die!",
-						},
-						["BigWigs_Bosses_Kel'Thuzad"] = {
-							[348760] = "Air Horn",
-							[352348] = "Lich King Apocalypse",
-						},
-						["BigWigs_Bosses_Dargrul"] = {
-							[200732] = "Electrical Spark",
-							[200637] = "Bite",
-						},
-						["BigWigs_Bosses_Soulrender Dormazain"] = {
-							[349985] = "Bell",
-							[351779] = "Shotgun",
-						},
-						["BigWigs_Bosses_Trixie & Naeno"] = {
-							[298940] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Kryxis the Voracious"] = {
-							[319685] = "Gasp",
-						},
-						["BigWigs_Bosses_Tugar Bloodtotem"] = {
-							[241687] = "Sword Ring",
-						},
-						["BigWigs_Bosses_Ingra Maloch"] = {
-							[323057] = "Kitten Meow",
-						},
-						["BigWigs_Bosses_An Affront of Challengers"] = {
-							[320069] = "Punch",
-							[333231] = "Die!",
-						},
-						["BigWigs_Bosses_Theater Of Pain Trash"] = {
-							[341969] = "Cat",
-							[342675] = "Kitten Meow",
-							[330868] = "Kitten Meow",
-							[330562] = "Cat",
-							[330614] = "Boxing Arena Gong",
-						},
-						["BigWigs_Bosses_Lord Erdris Thorn"] = {
-							[235984] = "Cat Meow",
 						},
 						["BigWigs_Bosses_Mists of Tirna Scithe Trash"] = {
 							[324987] = "Panther",
 							[322938] = "Cat",
 							[324914] = "Cat",
 							[324776] = "Kitten Meow",
-							[326046] = "Cat",
-							[340544] = "Shotgun",
 							[340300] = "Brass",
-						},
-						["BigWigs_Bosses_Council o' Captains"] = {
-							[258338] = "Sword Ring",
-						},
-						["BigWigs_Bosses_Halls of Infusion Trash"] = {
-							[376171] = "Cat Meow",
-							[374339] = "Electrical Spark",
-							[377341] = "IM",
-						},
-						["BigWigs_Bosses_Grimrail Depot Trash"] = {
-							[164168] = "Punch",
-							[166675] = "Cat Meow",
-						},
-						["BigWigs_Bosses_The Azure Vault Trash"] = {
-							[377488] = "Splash",
-							[386546] = "Kitten Meow",
-							[387564] = "Kitten Meow",
+							[340544] = "Shotgun",
+							[326046] = "Cat",
 						},
 						["BigWigs_Bosses_Xav the Unfallen"] = {
 							[331618] = "Tribal Bass Drum",
@@ -2423,16 +2301,16 @@ BigWigs3DB = {
 							[355778] = "Kaching",
 							[355568] = "Kaching",
 						},
-						["BigWigs_Bosses_Brackenhide Hollow Trash"] = {
-							[374057] = "|cFFFF0000Switch|r",
+						["BigWigs_Bosses_Algeth'ar Academy Trash"] = {
+							[388392] = "Xylo",
 						},
-						["BigWigs_Bosses_Gorechop"] = {
-							[323515] = "Punch",
+						["BigWigs_Bosses_Asaad"] = {
+							[87618] = "Oh No",
 						},
-						["BigWigs_Bosses_Zo'phex the Sentinel"] = {
-							[346204] = "Snake Attack",
-							[345990] = "|cFFFF0000Switch|r",
-							[347949] = "Die!",
+						["BigWigs_Bosses_Underrot Trash"] = {
+							[265568] = "Kaching",
+							[278961] = "Kitten Meow",
+							[265091] = "Cat Meow",
 						},
 						["BigWigs_Bosses_Court of Stars Trash"] = {
 							[207979] = "Boxing Arena Gong",
@@ -2441,8 +2319,177 @@ BigWigs3DB = {
 							[225100] = "|cFFFF0000Buff|r",
 							[209378] = "Shotgun",
 						},
-						["BigWigs_Bosses_Algeth'ar Academy Trash"] = {
-							[388392] = "Xylo",
+						["BigWigs_Bosses_Kryxis the Voracious"] = {
+							[319685] = "Gasp",
+						},
+						["BigWigs_Bosses_Overgrown Ancient"] = {
+							[388544] = "Die!",
+						},
+						["BigWigs_Bosses_Karazhan Trash"] = {
+							[227999] = "Synth Chord",
+							[228575] = "Big Kiss",
+						},
+						["BigWigs_Bosses_Gorechop"] = {
+							[323515] = "Punch",
+						},
+						["BigWigs_Bosses_Altairus"] = {
+							[-2425] = "Brass",
+						},
+						["BigWigs_Bosses_Brackenhide Hollow Trash"] = {
+							[374057] = "|cFFFF0000Switch|r",
+						},
+						["BigWigs_Bosses_Bromach"] = {
+							[369675] = "Kitten Meow",
+						},
+						["BigWigs_Bosses_Hyrja"] = {
+							[192018] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_De Other Side Trash"] = {
+							[334051] = "Boxing Arena Gong",
+							[333227] = "Shotgun",
+							[332605] = "Cat Meow",
+						},
+						["BigWigs_Bosses_Theater Of Pain Trash"] = {
+							[341969] = "Cat",
+							[342675] = "Kitten Meow",
+							[330868] = "Kitten Meow",
+							[330562] = "Cat",
+							[330614] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Soulrender Dormazain"] = {
+							[349985] = "Bell",
+							[351779] = "Shotgun",
+						},
+						["BigWigs_Bosses_Kyrakka and Erkhart Stormvein"] = {
+							[381512] = "Details Jedi1",
+						},
+						["BigWigs_Bosses_Ingra Maloch"] = {
+							[323057] = "Kitten Meow",
+						},
+						["BigWigs_Bosses_Mordretha, the Endless Empress"] = {
+							[324079] = "Punch",
+						},
+						["BigWigs_Bosses_Dargrul"] = {
+							[200732] = "Electrical Spark",
+							[200637] = "Bite",
+						},
+						["BigWigs_Bosses_Raest"] = {
+							[235578] = "Die!",
+						},
+						["BigWigs_Bosses_Temple of the Jade Serpent Trash"] = {
+							[397889] = "Kitten Meow",
+							[397931] = "Details Jedi1",
+							[114646] = "Panther",
+						},
+						["BigWigs_Bosses_Lord Erdris Thorn"] = {
+							[235984] = "Cat Meow",
+						},
+						["BigWigs_Bosses_Kel'Thuzad"] = {
+							[348760] = "Air Horn",
+							[352348] = "Lich King Apocalypse",
+						},
+						["BigWigs_Bosses_Tugar Bloodtotem"] = {
+							[241687] = "Sword Ring",
+						},
+						["BigWigs_Bosses_Kruul"] = {
+							[234423] = "Die!",
+							[234673] = "Bam",
+						},
+						["BigWigs_Bosses_Trixie & Naeno"] = {
+							[298940] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_The Azure Vault Trash"] = {
+							[377488] = "Splash",
+							[386546] = "Kitten Meow",
+							[387564] = "Kitten Meow",
+						},
+						["BigWigs_Bosses_Grimrail Depot Trash"] = {
+							[164168] = "Punch",
+							[166675] = "Cat Meow",
+						},
+						["BigWigs_Bosses_Halls of Atonement Trash"] = {
+							[326450] = "Boxing Arena Gong",
+							[325523] = "Punch",
+							[325700] = "Humm",
+							[326607] = "Sharp Punch",
+							[325876] = "None",
+						},
+						["BigWigs_Bosses_Fatescribe Roh-Kalo"] = {
+							[350421] = "Boxing Arena Gong",
+							[351680] = "|cFFFF0000Add|r",
+						},
+						["BigWigs_Bosses_Kin-Tara"] = {
+							[327481] = "Huh?",
+							[321009] = "Die!",
+							[331251] = "Bite",
+						},
+						["BigWigs_Bosses_The Nokhud Offensive Trash"] = {
+							[387411] = "Xylo",
+							[334610] = "Die!",
+							[386015] = "Kitten Meow",
+							[384365] = "Sonar",
+							[387440] = "Panther",
+							[387596] = "Electrical Spark",
+							[373395] = "Die!",
+							[383823] = "Glass",
+						},
+						["BigWigs_Bosses_Mistcaller"] = {
+							[341709] = "Huh?",
+						},
+						["BigWigs_Bosses_Council o' Captains"] = {
+							[258338] = "Sword Ring",
+						},
+						["BigWigs_Bosses_Halls of Infusion Trash"] = {
+							[376171] = "Cat Meow",
+							[374339] = "Electrical Spark",
+							[377341] = "IM",
+						},
+						["BigWigs_Bosses_The Raging Tempest"] = {
+							[384686] = "Die!",
+						},
+						["BigWigs_Bosses_Spires of Ascension Trash"] = {
+							[317936] = "Chime",
+							[317963] = "Cat Meow",
+							[317661] = "None",
+							[327648] = "Cat Meow",
+							[328462] = "Brass",
+							[327413] = "Kitten Meow",
+						},
+						["BigWigs_Bosses_Harlan Sweete"] = {
+							[257278] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Plaguefall Trash"] = {
+							[336451] = "Splash",
+							[329239] = "Kitten Meow",
+							[320517] = "Shotgun",
+							[320512] = "Sharp Punch",
+						},
+						["BigWigs_Bosses_The Necrotic Wake Trash"] = {
+							[328667] = "Cat",
+							[338357] = "Text2",
+							[323190] = "Splash",
+							[335143] = "Kitten Meow",
+							[327130] = "Kitten Meow",
+							[334748] = "Kitten Meow",
+							[338353] = "Cat Meow",
+						},
+						["BigWigs_Bosses_Operation: Mechagon Trash"] = {
+							[300436] = "Cat",
+							[284219] = "Oh No",
+							[300087] = "Kitten Meow",
+						},
+						["BigWigs_Bosses_Bonemaw"] = {
+							[154175] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Devos, Paragon of Doubt"] = {
+							[323943] = "Boxing Arena Gong",
+						},
+						["BigWigs_Bosses_Chrono-Lord Deios"] = {
+							[377405] = "Glass",
+						},
+						["BigWigs_Bosses_Neltharus Trash"] = {
+							[372225] = "Sword Ring",
+							[378282] = "Simon Chime",
 						},
 					},
 					["underyou"] = {
@@ -2469,57 +2516,61 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Operation: Mechagon Trash"] = {
+		["BigWigs_Bosses_Argus the Unmaker"] = {
 			["profiles"] = {
 				["Default"] = {
-					[300764] = 0,
-					[294884] = 0,
-					[300102] = 0,
-					[300650] = 0,
-					[303941] = 0,
-					[300414] = 0,
-					[300514] = 0,
-					[299438] = 0,
-					[300687] = 0,
-					[300436] = 16,
-					[299525] = 0,
-					[300159] = 0,
-					[299502] = 0,
-					[300177] = 0,
-					[300207] = 0,
-					[299474] = 0,
+					["fear_help"] = 0,
+					[250669] = 0,
+					[257966] = 0,
+					[248165] = 0,
+					[255826] = 0,
+					[256388] = 0,
+					[257911] = 0,
+					[258039] = 0,
+					[255935] = 0,
+					[248499] = 0,
+					["stages"] = 0,
+					[256544] = 0,
+					["combinedBurstAndBomb"] = 0,
+					[258838] = 0,
+					[255594] = 0,
+					[257296] = 0,
+					[255199] = 0,
+					[-17077] = 0,
+					[255200] = 0,
+					[248167] = 0,
+					[248396] = 0,
+					["bomb_explosions"] = 0,
+					[258068] = 0,
+					[252616] = 0,
+					[256399] = 0,
+					[251570] = 0,
+					["berserk"] = 0,
+					[258834] = 0,
+					[252729] = 0,
+					[252516] = 0,
+					[257214] = 0,
+					[248317] = 0,
 				},
 			},
 		},
-		["BigWigs_Bosses_Inquisitor Gnshal"] = {
+		["BigWigs_Bosses_Halls of Atonement Trash"] = {
 			["profiles"] = {
 				["Default"] = {
-					[304976] = 0,
+					[326450] = 16,
+					[325523] = 3065063,
+					[325701] = 3064039,
+					[326409] = 3064039,
+					[346866] = 3064039,
+					[344993] = 3064039,
 				},
 			},
 		},
-		["BigWigs_Bosses_Horrific Vision of Orgrimmar Trash"] = {
+		["BigWigs_Bosses_Vez'okk the Lightless"] = {
 			["profiles"] = {
 				["Default"] = {
-					[311996] = 0,
-					["altpower"] = 0,
-					[300388] = 0,
-					[303589] = 0,
-					[304101] = 0,
-					[300351] = 0,
-					[306001] = 0,
-					[300530] = 0,
-					[304165] = 0,
-					[297237] = 0,
-					[299055] = 0,
-					[297315] = 0,
-					[305875] = 0,
-					[305236] = 0,
-					[311390] = 0,
-					[296510] = 0,
-					[298502] = 0,
-					[298510] = 0,
-					[306199] = 0,
+					[306656] = 0,
+					[306617] = 0,
 				},
 			},
 		},
@@ -2534,33 +2585,18 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Zul"] = {
+		["BigWigs_Plugins_Victory"] = {
 			["profiles"] = {
 				["Default"] = {
-					["custom_off_274271"] = true,
-					["custom_off_273365"] = true,
+					["soundName"] = "None",
 				},
 			},
 		},
-		["BigWigs_Bosses_Cenarius"] = {
+		["BigWigs_Bosses_HK-8 Aerial Oppression Unit"] = {
 			["profiles"] = {
 				["Default"] = {
-					[211192] = 0,
-					[214884] = 0,
-					[212726] = 0,
-					[210279] = 0,
-					[210290] = 0,
-					[211989] = 0,
-					[214876] = 0,
-					[226821] = 0,
-					[211471] = 0,
-					[213162] = 0,
-					["stages"] = 0,
-					[214529] = 0,
-					[210346] = 0,
-					[211368] = 0,
-					[214505] = 0,
-					[212681] = 0,
+					[302274] = 3129591,
+					[296080] = 3064039,
 				},
 			},
 		},
@@ -2575,101 +2611,22 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Maiden of Virtue"] = {
-			["profiles"] = {
-				["Default"] = {
-					[227508] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Bosses_Kin-Tara"] = {
+		["BigWigs_Bosses_Temple of the Jade Serpent Trash"] = {
 			["profiles"] = {
 				["Default"] = {
-					[324368] = 3064039,
-					["stages"] = 3064039,
-					[331251] = 3064039,
+					[114646] = 3065063,
 				},
 			},
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Bosses_Grand Proctor Beryllia"] = {
-			["profiles"] = {
-				["Default"] = {
-					[325360] = 3064039,
-					[326039] = 3064039,
-					[325254] = 3068135,
-					[328737] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Council o' Captains"] = {
-			["profiles"] = {
-				["Default"] = {
-					[272902] = 3064039,
-					[258381] = 3064039,
-					[256979] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Plugins_Bars"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 745.2446361011971,
-					["BigWigsAnchor_x"] = 14.93345440891346,
-					["BigWigsEmphasizeAnchor_height"] = 30.00001335144043,
-					["BigWigsAnchor_y"] = 704.0002340608225,
-					["BigWigsAnchor_width"] = 220.0000152587891,
-					["BigWigsEmphasizeAnchor_width"] = 484.0000610351563,
-					["BigWigsEmphasizeAnchor_x"] = 519.8001861977536,
-					["BigWigsAnchor_height"] = 15.99997901916504,
-				},
-			},
-		},
-		["BigWigs_Bosses_Varimathras"] = {
-			["profiles"] = {
-				["Default"] = {
-					["stages"] = 0,
-					[243960] = 0,
-					[243961] = 0,
-					["berserk"] = 0,
-					[-16350] = 0,
-					[243999] = 0,
-					[244042] = 0,
-					[244094] = 0,
-				},
-			},
-		},
-		["BigWigs_Bosses_Hakkar the Soulflayer"] = {
-			["profiles"] = {
-				["Default"] = {
-					[323569] = 3064039,
-					[322736] = 3130599,
-					[322746] = 3064039,
-				},
-			},
-		},
-		["BigWigs_Bosses_Raest"] = {
-			["profiles"] = {
-				["Default"] = {
-					["handFromBeyond"] = 4178167,
-				},
-			},
-		},
-		["BigWigs_Bosses_Mistcaller"] = {
-			["profiles"] = {
-				["Default"] = {
-					[336499] = 3064039,
-					[321828] = 4112629,
-					[321834] = 3064039,
-				},
-			},
-		},
 		["BigWigs_Bosses_Mists of Tirna Scithe Trash"] = {
 			["profiles"] = {
 				["Default"] = {
-					[340189] = 3064039,
 					[340289] = 3068135,
+					[340304] = 3064039,
 					[331743] = 3064039,
 					[325418] = 3064295,
 					[325224] = 3072231,
@@ -2683,21 +2640,85 @@ BigWigs3DB = {
 					[331718] = 3064039,
 					[322569] = 3065063,
 					[340208] = 3068135,
-					[340304] = 3064039,
+					[340189] = 3064039,
 				},
 			},
 		},
-		["BigWigs_Bosses_Temple of the Jade Serpent Trash"] = {
+		["BigWigs_Bosses_Blightbone"] = {
 			["profiles"] = {
 				["Default"] = {
-					[114646] = 3065063,
+					[320596] = 144,
+					[320655] = 3065063,
+					[320637] = 3064039,
 				},
 			},
 		},
-		["BigWigs_Bosses_High Tinker Mekkatorque"] = {
+		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["custom_off_286646"] = true,
+					["BigWigsEmphasizeAnchor_y"] = 745.2446361011971,
+					["BigWigsAnchor_width"] = 220.0000152587891,
+					["BigWigsAnchor_x"] = 14.93345440891346,
+					["BigWigsEmphasizeAnchor_height"] = 30.00001335144043,
+					["BigWigsAnchor_height"] = 15.99997901916504,
+					["BigWigsAnchor_y"] = 704.0002340608225,
+					["BigWigsEmphasizeAnchor_width"] = 484.0000610351563,
+					["BigWigsEmphasizeAnchor_x"] = 519.8001861977536,
+				},
+			},
+		},
+		["BigWigs_Bosses_The Raging Tempest"] = {
+			["profiles"] = {
+				["Default"] = {
+					[384686] = 3064055,
+				},
+			},
+		},
+		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
+			["profiles"] = {
+				["Default"] = {
+					[313960] = 0,
+					[318449] = 0,
+					[315772] = 0,
+					[312866] = 0,
+					[313609] = 0,
+					[309991] = 0,
+					[313400] = 0,
+					[316711] = 0,
+					[310042] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Valinor"] = {
+			["profiles"] = {
+				["Default"] = {
+					[327246] = 0,
+					[327255] = 0,
+					[327280] = 0,
+					[327274] = 0,
+					[327262] = 0,
+				},
+			},
+		},
+		["BigWigs_Bosses_Zul"] = {
+			["profiles"] = {
+				["Default"] = {
+					["custom_off_273365"] = true,
+					["custom_off_274271"] = true,
+				},
+			},
+		},
+		["BigWigs_Bosses_Raest"] = {
+			["profiles"] = {
+				["Default"] = {
+					["handFromBeyond"] = 4178167,
+				},
+			},
+		},
+		["BigWigs_Bosses_Attumen the Huntsman"] = {
+			["profiles"] = {
+				["Default"] = {
+					[228852] = 3129591,
 				},
 			},
 		},
@@ -2705,6 +2726,24 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[352833] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Lady Inerva Darkvein"] = {
+			["profiles"] = {
+				["Default"] = {
+					[331870] = 3064039,
+					[325769] = 3064039,
+					[325713] = 3064039,
+					[341621] = 3068135,
+					[324983] = 3064039,
+					[340452] = 4112871,
+					[325936] = 3064039,
+					[331550] = 3064039,
+					["anima_tracking"] = 3064039,
+					[331573] = 3064295,
+					[325382] = 3065063,
+					[332664] = 3064039,
 				},
 			},
 		},
@@ -2723,63 +2762,16 @@ BigWigs3DB = {
 					[206788] = 0,
 					[206820] = 0,
 					["berserk"] = 0,
-					[206488] = 0,
+					[215062] = 0,
 					[211615] = 0,
 					["stages"] = 0,
-					[208910] = 0,
+					[214670] = 0,
 					[206641] = 0,
 					[207630] = 0,
-					[214670] = 0,
-					[215062] = 0,
+					[208910] = 0,
+					[206488] = 0,
 				},
 			},
-		},
-	},
-	["global"] = {
-		["watchedMovies"] = {
-			[-2002] = true,
-			[952] = true,
-			[75] = true,
-			[956] = true,
-			[958] = true,
-			[295] = true,
-			[-706] = true,
-			[-1597] = true,
-			[-909] = true,
-			[-367] = true,
-			[-917] = true,
-			[549] = true,
-			[-437] = true,
-			[876] = true,
-			[-1004] = true,
-			[886] = true,
-			[-2004] = true,
-			[-573] = true,
-			[-323] = true,
-			[656] = true,
-			[-593] = {
-				true, -- [1]
-				true, -- [2]
-			},
-			[-914] = true,
-			[957] = true,
-			[-855] = true,
-			[927] = true,
-			[-607] = true,
-			[-609] = true,
-			[76] = true,
-			[682] = true,
-			[-1151] = true,
-			[686] = true,
-			[73] = true,
-			[-1352] = {
-				[2] = true,
-			},
-			[688] = true,
-			[-575] = true,
-			[74] = true,
-			[926] = true,
-			[-2000] = true,
 		},
 	},
 	["profileKeys"] = {
@@ -2805,6 +2797,55 @@ BigWigs3DB = {
 		["Ниэтта - Гордунни"] = "Default",
 		["Фламиника - Борейская тундра"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
+	},
+	["global"] = {
+		["watchedMovies"] = {
+			[-2002] = true,
+			[952] = true,
+			[75] = true,
+			[956] = true,
+			[958] = true,
+			[295] = true,
+			[-706] = true,
+			[-1597] = true,
+			[-909] = true,
+			[-367] = true,
+			[-917] = true,
+			[549] = true,
+			[992] = true,
+			[-437] = true,
+			[876] = true,
+			[-1004] = true,
+			[886] = true,
+			[-2004] = true,
+			[-573] = true,
+			[-323] = true,
+			[656] = true,
+			[-593] = {
+				true, -- [1]
+				true, -- [2]
+			},
+			[-2000] = true,
+			[-914] = true,
+			[-607] = true,
+			[-855] = true,
+			[991] = true,
+			[926] = true,
+			[-609] = true,
+			[76] = true,
+			[-575] = true,
+			[-1151] = true,
+			[688] = true,
+			[73] = true,
+			[-1352] = {
+				[2] = true,
+			},
+			[686] = true,
+			[682] = true,
+			[74] = true,
+			[927] = true,
+			[957] = true,
+		},
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -2993,14 +3034,14 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 				["best"] = 247.219999999972,
 			},
+			["normal"] = {
+				["best"] = 279.92200000002,
+				["kills"] = 2,
+			},
 			["mythic"] = {
 				["kills"] = 13,
 				["wipes"] = 9,
 				["best"] = 152.8759999999311,
-			},
-			["normal"] = {
-				["best"] = 279.92200000002,
-				["kills"] = 2,
 			},
 		},
 		[2169] = {
@@ -3009,73 +3050,15 @@ BigWigsStatsDB = {
 				["wipes"] = 23,
 				["best"] = 287.916999999899,
 			},
-			["mythic"] = {
-				["kills"] = 4,
-				["wipes"] = 65,
-				["best"] = 103.9150000000373,
-			},
 			["normal"] = {
 				["kills"] = 3,
 				["wipes"] = 2,
 				["best"] = 368.166,
 			},
-		},
-		[2147] = {
-			["normal"] = {
-				["kills"] = 2,
-				["wipes"] = 12,
-				["best"] = 399.382999999998,
-			},
-			["heroic"] = {
-				["kills"] = 9,
-				["best"] = 375.323000000033,
-				["wipes"] = 35,
-			},
-		},
-		[2146] = {
-			["heroic"] = {
-				["kills"] = 10,
-				["wipes"] = 4,
-				["best"] = 112.991999999853,
-			},
-			["normal"] = {
-				["kills"] = 3,
-				["wipes"] = 1,
-				["best"] = 125.936,
-			},
 			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 39,
-				["best"] = 52.26300000003539,
-			},
-		},
-		[2194] = {
-			["normal"] = {
-				["kills"] = 2,
-				["wipes"] = 13,
-				["best"] = 459.011,
-			},
-			["heroic"] = {
-				["kills"] = 9,
-				["wipes"] = 17,
-				["best"] = 327.981999999844,
-			},
-		},
-		[2166] = {
-			["heroic"] = {
-				["kills"] = 11,
-				["wipes"] = 12,
-				["best"] = 203.435999999754,
-			},
-			["normal"] = {
-				["kills"] = 3,
-				["wipes"] = 3,
-				["best"] = 289.616,
-			},
-			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 22,
-				["best"] = 58.24199999985285,
+				["kills"] = 4,
+				["wipes"] = 65,
+				["best"] = 103.9150000000373,
 			},
 		},
 		[2195] = {
@@ -3096,15 +3079,73 @@ BigWigsStatsDB = {
 				["wipes"] = 8,
 				["best"] = 206.297999999952,
 			},
+			["mythic"] = {
+				["kills"] = 13,
+				["wipes"] = 38,
+				["best"] = 66.75299999979325,
+			},
 			["normal"] = {
 				["kills"] = 3,
 				["wipes"] = 1,
 				["best"] = 286.943000000087,
 			},
+		},
+		[2166] = {
+			["heroic"] = {
+				["kills"] = 11,
+				["wipes"] = 12,
+				["best"] = 203.435999999754,
+			},
 			["mythic"] = {
-				["kills"] = 13,
-				["wipes"] = 38,
-				["best"] = 66.75299999979325,
+				["kills"] = 1,
+				["wipes"] = 22,
+				["best"] = 58.24199999985285,
+			},
+			["normal"] = {
+				["kills"] = 3,
+				["wipes"] = 3,
+				["best"] = 289.616,
+			},
+		},
+		[2194] = {
+			["normal"] = {
+				["kills"] = 2,
+				["wipes"] = 13,
+				["best"] = 459.011,
+			},
+			["heroic"] = {
+				["kills"] = 9,
+				["wipes"] = 17,
+				["best"] = 327.981999999844,
+			},
+		},
+		[2146] = {
+			["heroic"] = {
+				["kills"] = 10,
+				["wipes"] = 4,
+				["best"] = 112.991999999853,
+			},
+			["mythic"] = {
+				["kills"] = 1,
+				["wipes"] = 39,
+				["best"] = 52.26300000003539,
+			},
+			["normal"] = {
+				["kills"] = 3,
+				["wipes"] = 1,
+				["best"] = 125.936,
+			},
+		},
+		[2147] = {
+			["normal"] = {
+				["kills"] = 2,
+				["wipes"] = 12,
+				["best"] = 399.382999999998,
+			},
+			["heroic"] = {
+				["kills"] = 9,
+				["best"] = 375.323000000033,
+				["wipes"] = 35,
 			},
 		},
 	},
@@ -3146,21 +3187,21 @@ BigWigsStatsDB = {
 				["kills"] = 12,
 			},
 		},
-		[1738] = {
-			["heroic"] = {
-				["best"] = 94.4770000000135,
-				["kills"] = 4,
-			},
+		[1744] = {
 			["normal"] = {
-				["best"] = 109.301999999996,
+				["best"] = 3.25600000002305,
 				["kills"] = 2,
 			},
+			["heroic"] = {
+				["best"] = 4.119000000006054,
+				["kills"] = 3,
+			},
 			["mythic"] = {
-				["best"] = 99.5590000001248,
-				["kills"] = 14,
+				["best"] = 12.0910000000149,
+				["kills"] = 11,
 			},
 			["LFR"] = {
-				["best"] = 93.3519999999553,
+				["best"] = 5.532000000122935,
 				["kills"] = 4,
 			},
 		},
@@ -3219,21 +3260,21 @@ BigWigsStatsDB = {
 				["kills"] = 4,
 			},
 		},
-		[1744] = {
+		[1738] = {
+			["heroic"] = {
+				["best"] = 94.4770000000135,
+				["kills"] = 4,
+			},
 			["normal"] = {
-				["best"] = 3.25600000002305,
+				["best"] = 109.301999999996,
 				["kills"] = 2,
 			},
-			["heroic"] = {
-				["best"] = 4.119000000006054,
-				["kills"] = 3,
-			},
 			["mythic"] = {
-				["best"] = 12.0910000000149,
-				["kills"] = 11,
+				["best"] = 99.5590000001248,
+				["kills"] = 14,
 			},
 			["LFR"] = {
-				["best"] = 5.532000000122935,
+				["best"] = 93.3519999999553,
 				["kills"] = 4,
 			},
 		},
@@ -3266,12 +3307,12 @@ BigWigsStatsDB = {
 				["kills"] = 15,
 			},
 			["mythic"] = {
-				["best"] = 25.25099999999657,
-				["kills"] = 20,
+				["best"] = 12.09500000000116,
+				["kills"] = 29,
 			},
 			["heroic"] = {
-				["kills"] = 10,
-				["best"] = 18.39199999999983,
+				["kills"] = 12,
+				["best"] = 4.584000000002561,
 				["wipes"] = 1,
 			},
 			["LFR"] = {
@@ -3285,12 +3326,12 @@ BigWigsStatsDB = {
 				["kills"] = 6,
 			},
 			["mythic"] = {
-				["best"] = 28.06400000001304,
-				["kills"] = 6,
+				["best"] = 10.80399999999645,
+				["kills"] = 9,
 			},
 			["heroic"] = {
-				["best"] = 311.10500000004,
-				["kills"] = 1,
+				["best"] = 6.351999999998952,
+				["kills"] = 2,
 			},
 			["LFR"] = {
 				["kills"] = 4,
@@ -3300,12 +3341,12 @@ BigWigsStatsDB = {
 		},
 		[2004] = {
 			["heroic"] = {
-				["best"] = 337.434999999998,
-				["kills"] = 1,
+				["best"] = 6.597999999998137,
+				["kills"] = 3,
 			},
 			["mythic"] = {
-				["best"] = 85.3739999999525,
-				["kills"] = 8,
+				["best"] = 17.02300000000105,
+				["kills"] = 12,
 			},
 			["normal"] = {
 				["kills"] = 5,
@@ -3319,12 +3360,12 @@ BigWigsStatsDB = {
 		},
 		[1997] = {
 			["heroic"] = {
-				["best"] = 330.381999999983,
-				["kills"] = 2,
+				["best"] = 6.921000000002096,
+				["kills"] = 3,
 			},
 			["mythic"] = {
-				["best"] = 33.23200000001816,
-				["kills"] = 8,
+				["best"] = 12.24099999999453,
+				["kills"] = 12,
 			},
 			["normal"] = {
 				["best"] = 7.906999999999243,
@@ -3342,17 +3383,17 @@ BigWigsStatsDB = {
 				["best"] = 13.01499999999942,
 			},
 			["mythic"] = {
-				["best"] = 31.00999999999476,
-				["kills"] = 13,
+				["best"] = 9.781999999999243,
+				["kills"] = 20,
 			},
 			["heroic"] = {
-				["kills"] = 10,
-				["best"] = 469.701000000001,
+				["kills"] = 12,
+				["best"] = 6.02100000000064,
 				["wipes"] = 12,
 			},
 			["LFR"] = {
-				["best"] = 591.008000000002,
-				["kills"] = 1,
+				["best"] = 7.565999999998894,
+				["kills"] = 2,
 			},
 		},
 		[2009] = {
@@ -3361,13 +3402,13 @@ BigWigsStatsDB = {
 				["kills"] = 5,
 			},
 			["mythic"] = {
-				["kills"] = 8,
-				["best"] = 174.0479999999516,
-				["wipes"] = 1,
+				["kills"] = 12,
+				["best"] = 105.0809999999983,
+				["wipes"] = 3,
 			},
 			["heroic"] = {
-				["best"] = 288.90399999998,
-				["kills"] = 1,
+				["best"] = 18.17700000000332,
+				["kills"] = 3,
 			},
 			["LFR"] = {
 				["best"] = 283.428999999996,
@@ -3376,28 +3417,28 @@ BigWigsStatsDB = {
 		},
 		[1983] = {
 			["heroic"] = {
-				["kills"] = 1,
+				["kills"] = 3,
 				["wipes"] = 3,
-				["best"] = 249.613000000012,
-			},
-			["mythic"] = {
-				["best"] = 25.05300000001444,
-				["kills"] = 7,
+				["best"] = 6.077000000001135,
 			},
 			["normal"] = {
 				["kills"] = 6,
 				["best"] = 9.875,
 				["wipes"] = 4,
 			},
+			["mythic"] = {
+				["best"] = 11.3269999999975,
+				["kills"] = 10,
+			},
 		},
 		[1987] = {
 			["heroic"] = {
-				["best"] = 10.07899999999791,
-				["kills"] = 11,
+				["best"] = 6.264999999999418,
+				["kills"] = 13,
 			},
 			["mythic"] = {
-				["best"] = 19.76699999999983,
-				["kills"] = 17,
+				["best"] = 6.73700000000099,
+				["kills"] = 20,
 			},
 			["normal"] = {
 				["best"] = 7.372999999999593,
@@ -3414,11 +3455,13 @@ BigWigsStatsDB = {
 				["kills"] = 6,
 			},
 			["mythic"] = {
-				["wipes"] = 7,
+				["kills"] = 2,
+				["wipes"] = 15,
+				["best"] = 215,
 			},
 			["heroic"] = {
-				["best"] = 364.860999999975,
-				["kills"] = 1,
+				["best"] = 192.3289999999979,
+				["kills"] = 3,
 			},
 			["LFR"] = {
 				["best"] = 272.277000000002,
@@ -3427,13 +3470,13 @@ BigWigsStatsDB = {
 		},
 		[1984] = {
 			["heroic"] = {
-				["kills"] = 2,
+				["kills"] = 4,
 				["wipes"] = 16,
-				["best"] = 424.652999999991,
+				["best"] = 10.8839999999982,
 			},
 			["mythic"] = {
-				["kills"] = 13,
-				["best"] = 44.66799999999785,
+				["kills"] = 20,
+				["best"] = 4.718999999997322,
 				["wipes"] = 2,
 			},
 			["normal"] = {
@@ -3441,37 +3484,45 @@ BigWigsStatsDB = {
 				["best"] = 166.6429999999964,
 				["wipes"] = 3,
 			},
+			["LFR"] = {
+				["best"] = 10.77399999999761,
+				["kills"] = 1,
+			},
 		},
 		[1986] = {
 			["heroic"] = {
-				["kills"] = 1,
+				["kills"] = 3,
 				["wipes"] = 1,
-				["best"] = 559.288,
-			},
-			["mythic"] = {
-				["best"] = 43.6449999999968,
-				["kills"] = 8,
+				["best"] = 7.667999999997846,
 			},
 			["normal"] = {
 				["best"] = 342.5380000000005,
 				["kills"] = 6,
 			},
+			["mythic"] = {
+				["best"] = 13.84600000000501,
+				["kills"] = 11,
+			},
 		},
 	},
 	[2164] = {
-		[2359] = {
-			["heroic"] = {
-				["kills"] = 5,
-				["wipes"] = 8,
-				["best"] = 202.9139999999898,
-			},
+		[2354] = {
 			["normal"] = {
-				["best"] = 532.810999999987,
+				["best"] = 418.5509999999777,
 				["kills"] = 1,
 			},
+			["mythic"] = {
+				["best"] = 191.3240000000224,
+				["kills"] = 1,
+			},
+			["heroic"] = {
+				["kills"] = 8,
+				["wipes"] = 12,
+				["best"] = 144.719000000041,
+			},
 			["LFR"] = {
-				["best"] = 344.0820000000531,
-				["kills"] = 4,
+				["best"] = 239.1940000000177,
+				["kills"] = 3,
 			},
 		},
 		[2351] = {
@@ -3520,23 +3571,19 @@ BigWigsStatsDB = {
 				["best"] = 496.698000000004,
 			},
 		},
-		[2354] = {
-			["normal"] = {
-				["best"] = 418.5509999999777,
-				["kills"] = 1,
-			},
+		[2347] = {
 			["mythic"] = {
-				["best"] = 191.3240000000224,
-				["kills"] = 1,
+				["best"] = 181.9679999999935,
+				["kills"] = 2,
 			},
 			["heroic"] = {
-				["kills"] = 8,
-				["wipes"] = 12,
-				["best"] = 144.719000000041,
+				["best"] = 146.4210000000894,
+				["kills"] = 1,
 			},
 			["LFR"] = {
-				["best"] = 239.1940000000177,
-				["kills"] = 3,
+				["kills"] = 1,
+				["wipes"] = 1,
+				["best"] = 333.1800000000003,
 			},
 		},
 		[2361] = {
@@ -3569,19 +3616,19 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2347] = {
-			["mythic"] = {
-				["best"] = 181.9679999999935,
-				["kills"] = 2,
-			},
+		[2359] = {
 			["heroic"] = {
-				["best"] = 146.4210000000894,
+				["kills"] = 5,
+				["wipes"] = 8,
+				["best"] = 202.9139999999898,
+			},
+			["normal"] = {
+				["best"] = 532.810999999987,
 				["kills"] = 1,
 			},
 			["LFR"] = {
-				["kills"] = 1,
-				["wipes"] = 1,
-				["best"] = 333.1800000000003,
+				["best"] = 344.0820000000531,
+				["kills"] = 4,
 			},
 		},
 	},
@@ -3765,15 +3812,15 @@ BigWigsStatsDB = {
 				["wipes"] = 45,
 				["best"] = 192.1170000000857,
 			},
-			["mythic"] = {
-				["kills"] = 7,
-				["wipes"] = 74,
-				["best"] = 288.1460000000079,
-			},
 			["normal"] = {
 				["kills"] = 4,
 				["wipes"] = 1,
 				["best"] = 171.1419999999926,
+			},
+			["mythic"] = {
+				["kills"] = 7,
+				["wipes"] = 74,
+				["best"] = 288.1460000000079,
 			},
 		},
 		[2439] = {
@@ -3782,14 +3829,14 @@ BigWigsStatsDB = {
 				["wipes"] = 1,
 				["best"] = 215.5800000000745,
 			},
+			["normal"] = {
+				["best"] = 182.4910000000091,
+				["kills"] = 4,
+			},
 			["mythic"] = {
 				["kills"] = 20,
 				["wipes"] = 15,
 				["best"] = 312.5159999999996,
-			},
-			["normal"] = {
-				["best"] = 182.4910000000091,
-				["kills"] = 4,
 			},
 		},
 		[2447] = {
@@ -3798,15 +3845,15 @@ BigWigsStatsDB = {
 				["wipes"] = 44,
 				["best"] = 302.8860000004061,
 			},
-			["mythic"] = {
-				["kills"] = 2,
-				["wipes"] = 80,
-				["best"] = 471.6370000001043,
-			},
 			["normal"] = {
 				["kills"] = 4,
 				["wipes"] = 5,
 				["best"] = 281.6969999999856,
+			},
+			["mythic"] = {
+				["kills"] = 2,
+				["wipes"] = 80,
+				["best"] = 471.6370000001043,
 			},
 		},
 		[2440] = {
@@ -3815,13 +3862,13 @@ BigWigsStatsDB = {
 				["wipes"] = 39,
 				["best"] = 287.3420000000624,
 			},
-			["mythic"] = {
-				["wipes"] = 59,
-			},
 			["normal"] = {
 				["kills"] = 4,
 				["wipes"] = 6,
 				["best"] = 271.4200000000128,
+			},
+			["mythic"] = {
+				["wipes"] = 59,
 			},
 		},
 		[2441] = {
@@ -3842,14 +3889,14 @@ BigWigsStatsDB = {
 				["wipes"] = 3,
 				["best"] = 198.5959999999031,
 			},
+			["normal"] = {
+				["best"] = 177.4670000000042,
+				["kills"] = 4,
+			},
 			["mythic"] = {
 				["kills"] = 21,
 				["wipes"] = 52,
 				["best"] = 337.6419999999998,
-			},
-			["normal"] = {
-				["best"] = 177.4670000000042,
-				["kills"] = 4,
 			},
 		},
 		[2435] = {
@@ -3858,15 +3905,15 @@ BigWigsStatsDB = {
 				["wipes"] = 3,
 				["best"] = 141.8830000000307,
 			},
-			["mythic"] = {
-				["kills"] = 22,
-				["wipes"] = 6,
-				["best"] = 228.646999999999,
-			},
 			["normal"] = {
 				["kills"] = 4,
 				["best"] = 149.1199999999953,
 				["wipes"] = 1,
+			},
+			["mythic"] = {
+				["kills"] = 22,
+				["wipes"] = 6,
+				["best"] = 228.646999999999,
 			},
 		},
 		[2443] = {
@@ -3875,13 +3922,13 @@ BigWigsStatsDB = {
 				["wipes"] = 56,
 				["best"] = 246.7250000000931,
 			},
-			["mythic"] = {
-				["wipes"] = 23,
-			},
 			["normal"] = {
 				["kills"] = 4,
 				["wipes"] = 2,
 				["best"] = 236.426999999996,
+			},
+			["mythic"] = {
+				["wipes"] = 23,
 			},
 		},
 		[2444] = {
@@ -3890,14 +3937,14 @@ BigWigsStatsDB = {
 				["wipes"] = 11,
 				["best"] = 160.0219999999972,
 			},
-			["normal"] = {
-				["best"] = 137.4459999999963,
-				["kills"] = 4,
-			},
 			["mythic"] = {
 				["kills"] = 6,
 				["wipes"] = 118,
 				["best"] = 264.9990000000107,
+			},
+			["normal"] = {
+				["best"] = 137.4459999999963,
+				["kills"] = 4,
 			},
 		},
 		[2445] = {
@@ -3906,14 +3953,14 @@ BigWigsStatsDB = {
 				["wipes"] = 5,
 				["best"] = 201.7730000000447,
 			},
+			["normal"] = {
+				["best"] = 154.0909999999858,
+				["kills"] = 4,
+			},
 			["mythic"] = {
 				["kills"] = 6,
 				["wipes"] = 92,
 				["best"] = 398.9529999999995,
-			},
-			["normal"] = {
-				["best"] = 154.0909999999858,
-				["kills"] = 4,
 			},
 		},
 	},
@@ -4074,14 +4121,14 @@ BigWigsStatsDB = {
 				["best"] = 18.42999999999302,
 				["kills"] = 1,
 			},
-			["normal"] = {
-				["best"] = 15.66099999996368,
-				["kills"] = 1,
-			},
 			["mythic"] = {
 				["kills"] = 11,
 				["wipes"] = 4,
 				["best"] = 33.38899999999558,
+			},
+			["normal"] = {
+				["best"] = 15.66099999996368,
+				["kills"] = 1,
 			},
 		},
 		[1856] = {
@@ -4102,21 +4149,18 @@ BigWigsStatsDB = {
 				["kills"] = 2,
 			},
 		},
-		[1867] = {
+		[1873] = {
+			["heroic"] = {
+				["best"] = 78.68799999996554,
+				["kills"] = 1,
+			},
 			["mythic"] = {
-				["best"] = 55.89199999999255,
-				["kills"] = 12,
+				["kills"] = 3,
+				["wipes"] = 3,
+				["best"] = 69.45600000000559,
 			},
 			["normal"] = {
-				["best"] = 17.2609999999986,
-				["kills"] = 1,
-			},
-			["heroic"] = {
-				["best"] = 14.94699999998557,
-				["kills"] = 1,
-			},
-			["LFR"] = {
-				["best"] = 324.652999999991,
+				["best"] = 43.8190000000177,
 				["kills"] = 1,
 			},
 		},
@@ -4139,19 +4183,22 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 		},
-		[1873] = {
-			["heroic"] = {
-				["best"] = 78.68799999996554,
-				["kills"] = 1,
+		[1867] = {
+			["mythic"] = {
+				["best"] = 55.89199999999255,
+				["kills"] = 12,
 			},
 			["normal"] = {
-				["best"] = 43.8190000000177,
+				["best"] = 17.2609999999986,
 				["kills"] = 1,
 			},
-			["mythic"] = {
-				["kills"] = 3,
-				["wipes"] = 3,
-				["best"] = 69.45600000000559,
+			["heroic"] = {
+				["best"] = 14.94699999998557,
+				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 324.652999999991,
+				["kills"] = 1,
 			},
 		},
 	},
@@ -4193,22 +4240,22 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[1743] = {
-			["heroic"] = {
-				["best"] = 50.20400000014342,
-				["kills"] = 15,
-			},
+		[1762] = {
 			["mythic"] = {
-				["best"] = 49.45299999999406,
-				["kills"] = 79,
+				["best"] = 11.22100000001956,
+				["kills"] = 39,
 			},
 			["normal"] = {
-				["best"] = 43.10099999999511,
-				["kills"] = 12,
+				["best"] = 7.453999999997905,
+				["kills"] = 5,
+			},
+			["heroic"] = {
+				["best"] = 10.51100000005681,
+				["kills"] = 5,
 			},
 			["LFR"] = {
-				["best"] = 48.71500000008382,
-				["kills"] = 1,
+				["best"] = 8.324000000022352,
+				["kills"] = 3,
 			},
 		},
 		[1713] = {
@@ -4229,22 +4276,22 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 		},
-		[1762] = {
-			["mythic"] = {
-				["best"] = 11.22100000001956,
-				["kills"] = 39,
+		[1732] = {
+			["heroic"] = {
+				["best"] = 13.7670000000071,
+				["kills"] = 5,
 			},
 			["normal"] = {
-				["best"] = 7.453999999997905,
+				["best"] = 7.175000000046566,
 				["kills"] = 5,
 			},
-			["heroic"] = {
-				["best"] = 10.51100000005681,
-				["kills"] = 5,
+			["mythic"] = {
+				["best"] = 18.71700000000419,
+				["kills"] = 33,
 			},
 			["LFR"] = {
-				["best"] = 8.324000000022352,
-				["kills"] = 3,
+				["best"] = 7.442999999970198,
+				["kills"] = 1,
 			},
 		},
 		[1751] = {
@@ -4284,6 +4331,24 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
+		[1706] = {
+			["mythic"] = {
+				["best"] = 8.332999999984168,
+				["kills"] = 43,
+			},
+			["normal"] = {
+				["best"] = 6.949000000022352,
+				["kills"] = 6,
+			},
+			["heroic"] = {
+				["best"] = 13.0679999999993,
+				["kills"] = 4,
+			},
+			["LFR"] = {
+				["best"] = 5.456000000005588,
+				["kills"] = 1,
+			},
+		},
 		[1761] = {
 			["heroic"] = {
 				["best"] = 19.58299999998417,
@@ -4303,39 +4368,21 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[1706] = {
-			["mythic"] = {
-				["best"] = 8.332999999984168,
-				["kills"] = 43,
-			},
-			["normal"] = {
-				["best"] = 6.949000000022352,
-				["kills"] = 6,
-			},
+		[1743] = {
 			["heroic"] = {
-				["best"] = 13.0679999999993,
-				["kills"] = 4,
-			},
-			["LFR"] = {
-				["best"] = 5.456000000005588,
-				["kills"] = 1,
-			},
-		},
-		[1732] = {
-			["heroic"] = {
-				["best"] = 13.7670000000071,
-				["kills"] = 5,
-			},
-			["normal"] = {
-				["best"] = 7.175000000046566,
-				["kills"] = 5,
+				["best"] = 50.20400000014342,
+				["kills"] = 15,
 			},
 			["mythic"] = {
-				["best"] = 18.71700000000419,
-				["kills"] = 33,
+				["best"] = 49.45299999999406,
+				["kills"] = 79,
+			},
+			["normal"] = {
+				["best"] = 43.10099999999511,
+				["kills"] = 12,
 			},
 			["LFR"] = {
-				["best"] = 7.442999999970198,
+				["best"] = 48.71500000008382,
 				["kills"] = 1,
 			},
 		},
@@ -4416,15 +4463,15 @@ BigWigsStatsDB = {
 				["best"] = 134.125,
 				["kills"] = 2,
 			},
-			["mythic"] = {
-				["kills"] = 4,
-				["best"] = 155.063999999999,
-				["wipes"] = 2,
-			},
 			["heroic"] = {
 				["kills"] = 6,
 				["wipes"] = 4,
 				["best"] = 117.033999999985,
+			},
+			["mythic"] = {
+				["kills"] = 4,
+				["best"] = 155.063999999999,
+				["wipes"] = 2,
 			},
 		},
 		[2337] = {
@@ -4463,12 +4510,12 @@ BigWigsStatsDB = {
 				["wipes"] = 1,
 				["best"] = 255.429999999993,
 			},
+			["mythic"] = {
+				["wipes"] = 15,
+			},
 			["normal"] = {
 				["best"] = 231.78600000008,
 				["kills"] = 2,
-			},
-			["mythic"] = {
-				["wipes"] = 15,
 			},
 		},
 		[2340] = {
@@ -4480,6 +4527,38 @@ BigWigsStatsDB = {
 			["normal"] = {
 				["best"] = 204.461999999941,
 				["kills"] = 2,
+			},
+		},
+	},
+	[2522] = {
+		[2486] = {
+			["normal"] = {
+				["best"] = 217.4689999999973,
+				["kills"] = 1,
+			},
+		},
+		[2480] = {
+			["normal"] = {
+				["best"] = 177.9320000000007,
+				["kills"] = 1,
+			},
+		},
+		[2502] = {
+			["normal"] = {
+				["best"] = 239.5449999999983,
+				["kills"] = 1,
+			},
+		},
+		[2482] = {
+			["normal"] = {
+				["best"] = 309.3429999999935,
+				["kills"] = 1,
+			},
+		},
+		[2500] = {
+			["normal"] = {
+				["best"] = 262.0629999999946,
+				["kills"] = 1,
 			},
 		},
 	},
@@ -4518,38 +4597,6 @@ BigWigsStatsDB = {
 			["normal"] = {
 				["best"] = 140.021999999997,
 				["kills"] = 2,
-			},
-		},
-	},
-	[2522] = {
-		[2486] = {
-			["normal"] = {
-				["best"] = 217.4689999999973,
-				["kills"] = 1,
-			},
-		},
-		[2480] = {
-			["normal"] = {
-				["best"] = 177.9320000000007,
-				["kills"] = 1,
-			},
-		},
-		[2502] = {
-			["normal"] = {
-				["best"] = 239.5449999999983,
-				["kills"] = 1,
-			},
-		},
-		[2482] = {
-			["normal"] = {
-				["best"] = 309.3429999999935,
-				["kills"] = 1,
-			},
-		},
-		[2500] = {
-			["normal"] = {
-				["best"] = 262.0629999999946,
-				["kills"] = 1,
 			},
 		},
 	},

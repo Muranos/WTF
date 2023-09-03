@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0532,
+	["LastVersion"] = 2.0804,
 	["LastPlayerFullName"] = "Эстрея-Борейская тундра",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
@@ -12,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 138,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:104::11:4:6316:4932:4933:1552::::|h[Сердце Азерот]|h|r",
+			["Level"] = 174,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::55:104::11:4:6316:4932:4933:1552::::::|h[Сердце Азерот]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159307,

@@ -2,84 +2,84 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["Вейлзевулла - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["Алтери - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Фламинника - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["Шайэн - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Altery - Durotan"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Эстрэя - Гордунни"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
 		},
 		["Altery - Bronzebeard"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Алоиза - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Алтэри - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["Нирейя - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
 		},
 		["Тиаз - Борейская тундра"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Дэлери - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["Ниамэй - Гордунни"] = {
 			["welcome"] = true,
@@ -89,115 +89,115 @@ ThreatPlatesDB = {
 			},
 		},
 		["Эллиата - Гордунни"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Эстрея - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Сайбил - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
+		},
+		["Estrea - Alleria"] = {
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
 			["welcome"] = true,
 		},
-		["Элави - Борейская тундра"] = {
+		["Зонна - Борейская тундра"] = {
 			["spec"] = {
 				[3] = false,
 			},
 			["welcome"] = true,
 		},
-		["Nietta - EU Mythic Dungeons"] = {
+		["Delery - Durotan"] = {
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
-				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["Estrea - EU Mythic Dungeons"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
+		},
+		["Эрника - Борейская тундра"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Elavi - Durotan"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Flaminika - Durotan"] = {
+			["spec"] = {
+				[3] = false,
 			},
 			["welcome"] = true,
 		},
 		["Flaminika - Silvermoon"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
-			["welcome"] = true,
 		},
-		["Estrea - Alleria"] = {
+		["Nietta - EU Mythic Dungeons"] = {
 			["welcome"] = true,
-			["spec"] = {
-				nil, -- [1]
-				nil, -- [2]
-				true, -- [3]
-				false, -- [4]
-			},
-		},
-		["Flaminika - Durotan"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Зонна - Борейская тундра"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Эрника - Борейская тундра"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Delery - Durotan"] = {
-			["welcome"] = true,
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-			},
-		},
-		["Elavi - Durotan"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Estrea - EU Mythic Dungeons"] = {
-			["spec"] = {
-				nil, -- [1]
-				nil, -- [2]
-				true, -- [3]
-				false, -- [4]
-			},
-			["welcome"] = true,
-		},
-		["Ниоши - Борейская тундра"] = {
-			["spec"] = {
-				[3] = false,
-			},
-			["welcome"] = true,
-		},
-		["Алоиза - Гордунни"] = {
-			["spec"] = {
-				[3] = false,
-			},
-			["welcome"] = true,
-		},
-		["Хилопятьумер - Гордунни"] = {
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
+		},
+		["Элави - Борейская тундра"] = {
 			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Ниоши - Борейская тундра"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Алоиза - Гордунни"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Хилопятьумер - Гордунни"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
 		},
 		["Ниэтта - Гордунни"] = {
 			["spec"] = {
@@ -208,10 +208,10 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Фламиника - Борейская тундра"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
-			["welcome"] = true,
 		},
 		["Дэлери - Гордунни"] = {
 			["welcome"] = true,
@@ -223,7 +223,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "11.1.25",
+		["version"] = "11.1.26",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -246,18 +246,18 @@ ThreatPlatesDB = {
 		["Эллиата - Гордунни"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
-		["Элави - Борейская тундра"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
 		["Estrea - Alleria"] = "Default",
-		["Flaminika - Durotan"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
-		["Эрника - Борейская тундра"] = "Default",
 		["Delery - Durotan"] = "Default",
-		["Elavi - Durotan"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
+		["Эрника - Борейская тундра"] = "Default",
+		["Elavi - Durotan"] = "Default",
+		["Flaminika - Durotan"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
+		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Элави - Борейская тундра"] = "Default",
 		["Ниоши - Борейская тундра"] = "Default",
-		["Алоиза - Гордунни"] = "Default",
+		["Алоиза - Гордунни"] = "ShadowPriest",
 		["Хилопятьумер - Гордунни"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
 		["Фламиника - Борейская тундра"] = "Default",
@@ -265,6 +265,46 @@ ThreatPlatesDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["nameplate"] = {
+				["toggle"] = {
+					["TargetS"] = true,
+					["OccludedUnits"] = true,
+				},
+				["alpha"] = {
+					["OccludedUnits"] = 0.35,
+				},
+			},
+			["uniqueSettings"] = {
+				{
+					["color"] = {
+						["g"] = 0.4313725829124451,
+						["r"] = 0.4745098352432251,
+					},
+					["showIcon"] = false,
+					["allowMarked"] = false,
+					["icon"] = 135978,
+					["AutomaticIcon"] = 135978,
+					["Trigger"] = {
+						["Type"] = "Aura",
+						["Name"] = {
+							["Input"] = "",
+						},
+						["Aura"] = {
+							["Input"] = "Прикосновение вампира",
+							["AsArray"] = {
+								"Прикосновение вампира", -- [1]
+							},
+							["ShowOnlyMine"] = true,
+						},
+					},
+					["Name"] = "VampiricTouch",
+					["Enable"] = {
+						["UnitReaction"] = {
+							["FRIENDLY"] = false,
+						},
+					},
+				}, -- [1]
+			},
 			["CheckForIncompatibleAddons"] = false,
 			["ComboPoints"] = {
 				["ON"] = true,
@@ -275,20 +315,26 @@ ThreatPlatesDB = {
 					["ShowWithPet"] = false,
 				},
 			},
+			["CVarsBackup"] = {
+				["nameplateMinAlpha"] = "0.6",
+				["nameplateMaxAlpha"] = "1.0",
+			},
 			["bHPbarColor"] = {
 				["g"] = 0.9058823529411765,
 				["b"] = 0.9725490196078431,
 			},
 			["BossModsWidget"] = {
-				["ShowInHeadlineView"] = false,
 				["ON"] = false,
+				["ShowInHeadlineView"] = false,
 			},
 			["aHPbarColor"] = {
-				["b"] = 0.6549019607843137,
-				["g"] = 0.6431372549019607,
 				["r"] = 0.6549019607843137,
+				["g"] = 0.6431372549019607,
+				["b"] = 0.6549019607843137,
 			},
 			["AuraWidget"] = {
+				["SwitchScaleByReaction"] = false,
+				["FlashWhenExpiring"] = true,
 				["Debuffs"] = {
 					["FilterBySpell"] = {
 						"Пытка разума", -- [1]
@@ -311,7 +357,6 @@ ThreatPlatesDB = {
 						["VerticalOffset"] = 25,
 					},
 				},
-				["FlashWhenExpiring"] = true,
 				["Buffs"] = {
 					["FilterBySpell"] = {
 						"Мощь претендента", -- [1]
@@ -320,6 +365,9 @@ ThreatPlatesDB = {
 				},
 			},
 			["settings"] = {
+				["customtext"] = {
+					["align"] = "LEFT",
+				},
 				["eliteicon"] = {
 					["x"] = -52,
 					["y"] = -2,
@@ -347,10 +395,157 @@ ThreatPlatesDB = {
 					["x"] = 56,
 				},
 			},
+			["targetWidget"] = {
+				["theme"] = "arrow_less_than",
+			},
 			["text"] = {
 				["full"] = true,
 				["amount"] = true,
 				["percent"] = false,
+			},
+		},
+		["ShadowPriest"] = {
+			["nameplate"] = {
+				["toggle"] = {
+					["OccludedUnits"] = true,
+				},
+				["alpha"] = {
+					["OccludedUnits"] = 0.35,
+				},
+			},
+			["threat"] = {
+				["useHPColor"] = false,
+			},
+			["CVarsBackup"] = {
+				["nameplateMinAlpha"] = "0.90135484",
+				["nameplateMaxAlpha"] = "1.0",
+			},
+			["aHPbarColor"] = {
+				["r"] = 0.6549019607843137,
+				["g"] = 0.6431372549019607,
+				["b"] = 0.6549019607843137,
+			},
+			["bHPbarColor"] = {
+				["g"] = 0.9058823529411765,
+				["b"] = 0.9725490196078431,
+			},
+			["text"] = {
+				["percent"] = false,
+				["full"] = true,
+				["amount"] = true,
+			},
+			["allowClass"] = false,
+			["uniqueSettings"] = {
+				{
+					["Name"] = "VampiricTouch",
+					["allowMarked"] = false,
+					["showIcon"] = false,
+					["color"] = {
+						["g"] = 0.4313725829124451,
+						["r"] = 0.4745098352432251,
+					},
+					["Trigger"] = {
+						["Type"] = "Aura",
+						["Name"] = {
+							["Input"] = "",
+						},
+						["Aura"] = {
+							["Input"] = "Прикосновение вампира",
+							["AsArray"] = {
+								"Прикосновение вампира", -- [1]
+							},
+							["ShowOnlyMine"] = true,
+						},
+					},
+					["Enable"] = {
+						["UnitReaction"] = {
+							["FRIENDLY"] = false,
+						},
+					},
+					["icon"] = 135978,
+					["AutomaticIcon"] = 135978,
+				}, -- [1]
+			},
+			["CheckForIncompatibleAddons"] = false,
+			["BossModsWidget"] = {
+				["ShowInHeadlineView"] = false,
+				["ON"] = false,
+			},
+			["settings"] = {
+				["spelltext"] = {
+					["align"] = "CENTER",
+				},
+				["elitehealthborder"] = {
+					["texture"] = "TP_EliteBorder_Thin",
+				},
+				["eliteicon"] = {
+					["y"] = -2,
+					["x"] = -52,
+				},
+				["name"] = {
+					["y"] = 15,
+				},
+				["frame"] = {
+					["height"] = 52.875,
+					["width"] = 154,
+				},
+				["skullicon"] = {
+					["scale"] = 12,
+					["x"] = -56,
+				},
+				["raidicon"] = {
+					["scale"] = 30,
+					["x"] = 56,
+					["hpColor"] = false,
+					["hpMarked"] = {
+						["STAR"] = {
+							["r"] = 0.8431373238563538,
+							["g"] = 0.8509804606437683,
+							["b"] = 0.2784313857555389,
+						},
+					},
+				},
+			},
+			["AuraWidget"] = {
+				["Buffs"] = {
+					["CenterAuras"] = false,
+					["FilterBySpell"] = {
+						"Мощь претендента", -- [1]
+					},
+				},
+				["SwitchScaleByReaction"] = false,
+				["Debuffs"] = {
+					["NameMode"] = {
+						["Anchor"] = "CENTER",
+						["HorizontalOffset"] = 15,
+						["VerticalOffset"] = -20,
+					},
+					["FilterBySpell"] = {
+						"Пытка разума", -- [1]
+						"Приливная волна", -- [2]
+						"Мощь претендента", -- [3]
+						"Шулерские кости: Аврал!", -- [4]
+						"Калечащий яд", -- [5]
+						"Смертоносный яд", -- [6]
+						"", -- [7]
+					},
+					["HealthbarMode"] = {
+						["Anchor"] = "CENTER",
+						["HorizontalOffset"] = 15,
+						["VerticalOffset"] = 25,
+					},
+					["CenterAuras"] = false,
+				},
+				["FlashWhenExpiring"] = true,
+			},
+			["ComboPoints"] = {
+				["ON"] = true,
+			},
+			["threatWidget"] = {
+				["ThreatPercentage"] = {
+					["ShowInGroups"] = false,
+					["ShowWithPet"] = false,
+				},
 			},
 		},
 	},

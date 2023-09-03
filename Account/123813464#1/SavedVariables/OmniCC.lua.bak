@@ -1,5 +1,9 @@
 
 OmniCCDB = {
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.1.1",
+	},
 	["profileKeys"] = {
 		["Ниамэй - Гордунни"] = "По умолчанию",
 		["Алтери - Борейская тундра"] = "По умолчанию",
@@ -15,26 +19,22 @@ OmniCCDB = {
 		["Эстрея - Борейская тундра"] = "По умолчанию",
 		["Сайбил - Борейская тундра"] = "По умолчанию",
 		["Эллиата - Гордунни"] = "По умолчанию",
-		["Estrea - Alleria"] = "Default",
-		["Elavi - Durotan"] = "Default",
-		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Delery - Durotan"] = "Standard",
+		["Элави - Борейская тундра"] = "По умолчанию",
+		["Nietta - EU Mythic Dungeons"] = "Default",
+		["Estrea - Alleria"] = "Default",
+		["Flaminika - Silvermoon"] = "Default",
 		["Зонна - Борейская тундра"] = "По умолчанию",
 		["Flaminika - Durotan"] = "Standard",
-		["Элави - Борейская тундра"] = "По умолчанию",
+		["Delery - Durotan"] = "Standard",
 		["Эрника - Борейская тундра"] = "По умолчанию",
-		["Flaminika - Silvermoon"] = "Default",
+		["Elavi - Durotan"] = "Default",
 		["Ниоши - Борейская тундра"] = "По умолчанию",
 		["Алоиза - Гордунни"] = "По умолчанию",
 		["Хилопятьумер - Гордунни"] = "По умолчанию",
 		["Ниэтта - Гордунни"] = "По умолчанию",
 		["Фламиника - Борейская тундра"] = "По умолчанию",
 		["Дэлери - Гордунни"] = "По умолчанию",
-	},
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "10.1.1",
 	},
 	["profiles"] = {
 		["Standard"] = {
@@ -43,9 +43,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["seconds"] = {
 						},
-						["minutes"] = {
-						},
 						["soon"] = {
+						},
+						["minutes"] = {
 						},
 					},
 				},
@@ -53,9 +53,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["minutes"] = {
 						},
-						["soon"] = {
-						},
 						["seconds"] = {
+						},
+						["soon"] = {
 						},
 					},
 				},
@@ -67,9 +67,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["seconds"] = {
 						},
-						["minutes"] = {
-						},
 						["soon"] = {
+						},
+						["minutes"] = {
 						},
 					},
 				},
@@ -77,9 +77,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["seconds"] = {
 						},
-						["minutes"] = {
-						},
 						["soon"] = {
+						},
+						["minutes"] = {
 						},
 					},
 				},
@@ -101,9 +101,9 @@ OmniCCDB = {
 			["themes"] = {
 				["По умолчанию"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["soon"] = {
+						},
+						["minutes"] = {
 						},
 						["seconds"] = {
 						},
@@ -111,9 +111,9 @@ OmniCCDB = {
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["soon"] = {
-						},
 						["seconds"] = {
+						},
+						["soon"] = {
 						},
 						["minutes"] = {
 						},

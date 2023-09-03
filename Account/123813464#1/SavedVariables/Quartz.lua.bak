@@ -20,7 +20,13 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Mirror"] = {
+		["Player"] = {
+			["profiles"] = {
+				["Default"] = {
+					["hideblizz"] = false,
+					["x"] = 835,
+				},
+			},
 		},
 		["EnemyCasts"] = {
 		},
@@ -29,7 +35,10 @@ Quartz3DB = {
 		["Focus"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 860,
+					["w"] = 170,
+					["y"] = 420,
+					["scale"] = 1.5,
+					["x"] = 1515,
 				},
 			},
 		},
@@ -57,33 +66,28 @@ Quartz3DB = {
 		},
 		["Range"] = {
 		},
-		["Player"] = {
-			["profiles"] = {
-				["Default"] = {
-					["hideblizz"] = false,
-					["x"] = 835,
-				},
-			},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
 	},
 	["profileKeys"] = {
 		["Ниамэй - Гордунни"] = "Default",
+		["Эстрея - Борейская тундра"] = "Default",
 		["Фламинника - Гордунни"] = "Default",
-		["Эллиата - Гордунни"] = "Default",
+		["Дэлери - Гордунни"] = "Default",
 		["Altery - Durotan"] = "Default",
-		["Зонна - Борейская тундра"] = "Default",
+		["Эстрэя - Гордунни"] = "Default",
 		["Flaminika - Durotan"] = "Default",
 		["Алоиза - Борейская тундра"] = "Default",
-		["Эстрэя - Гордунни"] = "Default",
+		["Алтэри - Гордунни"] = "Default",
 		["Elavi - Durotan"] = "Default",
-		["Алоиза - Гордунни"] = "Default",
 		["Дэлери - Борейская тундра"] = "Default",
+		["Алоиза - Гордунни"] = "Default",
 		["Шайэн - Гордунни"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Алтэри - Гордунни"] = "Default",
-		["Дэлери - Гордунни"] = "Default",
+		["Зонна - Борейская тундра"] = "Default",
+		["Эллиата - Гордунни"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -114,7 +118,6 @@ Quartz3DB = {
 				["Range"] = false,
 				["Player"] = false,
 				["GCD"] = false,
-				["Focus"] = false,
 				["Timer"] = false,
 			},
 		},

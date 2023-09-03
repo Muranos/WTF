@@ -1,6 +1,277 @@
 
 EncounterDetailsDB = {
 	["chartData"] = {
+		[2161] = {
+		},
+		[2169] = {
+		},
+		[2177] = {
+		},
+		[2146] = {
+		},
+		[2154] = {
+		},
+		[2162] = {
+		},
+		[2170] = {
+		},
+		[2178] = {
+		},
+		[2147] = {
+		},
+		[2155] = {
+		},
+		[2163] = {
+		},
+		[2171] = {
+		},
+		[2179] = {
+			["Raid Damage Done"] = {
+				0, -- [1]
+				7219, -- [2]
+				0, -- [3]
+				7866, -- [4]
+				0, -- [5]
+				15672, -- [6]
+				0, -- [7]
+				7785, -- [8]
+				0, -- [9]
+				8128, -- [10]
+				0, -- [11]
+				0, -- [12]
+				7986, -- [13]
+				0, -- [14]
+				0, -- [15]
+				0, -- [16]
+				0, -- [17]
+				0, -- [18]
+				7226, -- [19]
+				0, -- [20]
+				0, -- [21]
+				0, -- [22]
+				0, -- [23]
+				25316, -- [24]
+				30673, -- [25]
+				11102, -- [26]
+				18750, -- [27]
+				15142, -- [28]
+				29241, -- [29]
+				17690, -- [30]
+				193071, -- [31]
+				40008, -- [32]
+				7472, -- [33]
+				0, -- [34]
+				7817, -- [35]
+				0, -- [36]
+				24631, -- [37]
+				22916, -- [38]
+				65492, -- [39]
+				40259, -- [40]
+				65311, -- [41]
+				0, -- [42]
+				7666, -- [43]
+				6257, -- [44]
+				60311, -- [45]
+				10269, -- [46]
+				21252, -- [47]
+				181601, -- [48]
+				129557, -- [49]
+				71612, -- [50]
+				101590, -- [51]
+				34127, -- [52]
+				98649, -- [53]
+				5505, -- [54]
+				16301, -- [55]
+				0, -- [56]
+				14141, -- [57]
+				0, -- [58]
+				0, -- [59]
+				0, -- [60]
+				0, -- [61]
+				55811, -- [62]
+				78621, -- [63]
+				52967, -- [64]
+				131267, -- [65]
+				66006, -- [66]
+				16677, -- [67]
+				8534, -- [68]
+				1150, -- [69]
+				89815, -- [70]
+				91036, -- [71]
+				18919, -- [72]
+				8531, -- [73]
+				39669, -- [74]
+				43321, -- [75]
+				19066, -- [76]
+				68716, -- [77]
+				15211, -- [78]
+				38117, -- [79]
+				40252, -- [80]
+				68350, -- [81]
+				21878, -- [82]
+				26518, -- [83]
+				1644, -- [84]
+				41348, -- [85]
+				47855, -- [86]
+				0, -- [87]
+				["max_value"] = 193071,
+				["__time"] = 1693343360,
+			},
+		},
+		[2148] = {
+		},
+		[2156] = {
+		},
+		[2164] = {
+		},
+		[2172] = {
+		},
+		[2180] = {
+			["Raid Damage Done"] = {
+				29417, -- [1]
+				65639, -- [2]
+				1992, -- [3]
+				56902, -- [4]
+				74077, -- [5]
+				36311, -- [6]
+				87825, -- [7]
+				120787, -- [8]
+				258227, -- [9]
+				162424, -- [10]
+				193076, -- [11]
+				104219, -- [12]
+				137920, -- [13]
+				131328, -- [14]
+				230747, -- [15]
+				95356, -- [16]
+				16416, -- [17]
+				2420, -- [18]
+				88322, -- [19]
+				45142, -- [20]
+				16574, -- [21]
+				7272, -- [22]
+				96339, -- [23]
+				9066, -- [24]
+				54719, -- [25]
+				107369, -- [26]
+				56292, -- [27]
+				32847, -- [28]
+				57364, -- [29]
+				50311, -- [30]
+				196930, -- [31]
+				74544, -- [32]
+				169166, -- [33]
+				78167, -- [34]
+				119472, -- [35]
+				198863, -- [36]
+				104254, -- [37]
+				280634, -- [38]
+				118614, -- [39]
+				127690, -- [40]
+				68584, -- [41]
+				85684, -- [42]
+				51336, -- [43]
+				151637, -- [44]
+				89642, -- [45]
+				76031, -- [46]
+				184477, -- [47]
+				107402, -- [48]
+				101653, -- [49]
+				28139, -- [50]
+				48881, -- [51]
+				40289, -- [52]
+				7574, -- [53]
+				28952, -- [54]
+				23725, -- [55]
+				326, -- [56]
+				313, -- [57]
+				43138, -- [58]
+				26055, -- [59]
+				47456, -- [60]
+				94094, -- [61]
+				63249, -- [62]
+				181274, -- [63]
+				190823, -- [64]
+				173421, -- [65]
+				144040, -- [66]
+				107031, -- [67]
+				156258, -- [68]
+				59455, -- [69]
+				105445, -- [70]
+				154173, -- [71]
+				81226, -- [72]
+				131019, -- [73]
+				56836, -- [74]
+				107639, -- [75]
+				78030, -- [76]
+				92333, -- [77]
+				102856, -- [78]
+				0, -- [79]
+				0, -- [80]
+				["max_value"] = 280634,
+				["__time"] = 1693343477,
+			},
+		},
+		[2141] = {
+		},
+		[2149] = {
+		},
+		[2157] = {
+		},
+		[2165] = {
+		},
+		[2173] = {
+		},
+		[2181] = {
+			["Raid Damage Done"] = {
+				13683, -- [1]
+				9643, -- [2]
+				23260, -- [3]
+				16186, -- [4]
+				0, -- [5]
+				28048, -- [6]
+				4560, -- [7]
+				3130, -- [8]
+				7179, -- [9]
+				3130, -- [10]
+				["max_value"] = 28048,
+				["__time"] = 1693422277,
+			},
+		},
+		[2142] = {
+		},
+		[2150] = {
+		},
+		[2158] = {
+		},
+		[2166] = {
+		},
+		[2174] = {
+		},
+		[2143] = {
+		},
+		[2151] = {
+		},
+		[2159] = {
+		},
+		[2167] = {
+		},
+		[2175] = {
+		},
+		[2144] = {
+		},
+		[2152] = {
+		},
+		[2160] = {
+		},
+		[2168] = {
+		},
+		[2176] = {
+		},
+		[2145] = {
+		},
+		[2153] = {
+		},
 	},
 	["encounter_spells"] = {
 		[372107] = {
@@ -214,13 +485,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Часовая Талондрас",
 		},
-		[369696] = {
-			["school"] = 1,
+		[394976] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Прыгун-падальшик",
+			["source"] = "Плеточник Бездны",
 		},
 		[372719] = {
 			["school"] = 1,
@@ -249,12 +520,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Заросшее древо",
 		},
-		[181113] = {
+		[227291] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Вечная сфера",
+			["source"] = "Нюцзао",
 		},
 		[381864] = {
 			["school"] = 4,
@@ -263,13 +534,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Киракка",
 		},
-		[373662] = {
+		[388902] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ткач земли",
+			["source"] = "Arcane Rift Invisible Stalker",
 		},
 		[386881] = {
 			["school"] = 16,
@@ -288,15 +559,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тлерон",
 		},
-		[386181] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[377009] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Вексам",
+			["source"] = "Кроут",
 		},
 		[386088] = {
 			["school"] = 64,
@@ -390,13 +658,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эхо Дорагосы",
 		},
-		[382303] = {
-			["school"] = 1,
+		[389011] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Бромач",
 		},
 		[385075] = {
 			["school"] = 64,
@@ -454,13 +721,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Леймор",
 		},
-		[377034] = {
-			["school"] = 8,
+		[385981] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Кроут",
 		},
 		[381513] = {
 			["school"] = 8,
@@ -476,14 +741,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Руническое оружие",
 		},
-		[381862] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[374364] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Киракка",
+			["source"] = "Леймор",
 		},
 		[377004] = {
 			["school"] = 8,
@@ -508,29 +772,35 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ткач Холода Морозной Вспышки",
 		},
-		[381512] = {
+		[376997] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Кроут",
+		},
+		[374523] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Силовой росток",
+		},
+		[385578] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Эркхарт Кровь Бури",
-		},
-		[388084] = {
-			["school"] = 16,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Телаш Серокрылый",
-		},
-		[369605] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Бромач",
+			["source"] = "Лазурный Клинок",
 		},
 		[373932] = {
 			["school"] = 64,
@@ -549,28 +819,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Мелидрусса Истощенная Холодом",
 		},
-		[123996] = {
-			["school"] = 8,
+		[376319] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Сюэнь",
+			["source"] = "Хронолорд Дейос",
 		},
-		[385558] = {
-			["school"] = 8,
+		[372858] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Эркхарт Кровь Бури",
+			["source"] = "Кокия Пламенное Копыто",
 		},
-		[373087] = {
-			["school"] = 4,
+		[193473] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Шторм бушующего пламени",
+			["source"] = "Щупальце Бездны",
 		},
 		[369110] = {
 			["school"] = 1,
@@ -582,14 +853,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Тлерон",
 		},
-		[381526] = {
+		[373017] = {
 			["school"] = 4,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Киракка",
+			["source"] = "Шторм бушующего пламени",
 		},
 		[372222] = {
 			["school"] = 64,
@@ -600,15 +869,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Лазурный Клинок",
 		},
-		[381525] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[123996] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Киракка",
+			["source"] = "Сюэнь",
 		},
 		[388796] = {
 			["school"] = 1,
@@ -627,21 +893,37 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эхо Дорагосы",
 		},
-		[372858] = {
-			["school"] = 1,
+		[385558] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Эркхарт Кровь Бури",
+		},
+		[381526] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Киракка",
+		},
+		[372859] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Кокия Пламенное Копыто",
 		},
-		[373017] = {
-			["school"] = 4,
+		[374352] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Шторм бушующего пламени",
+			["source"] = "Эхо Дорагосы",
 		},
 		[369049] = {
 			["school"] = 1,
@@ -651,29 +933,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Стражник хранилища",
 		},
-		[372701] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Часовая Талондрас",
-		},
-		[372859] = {
+		[388799] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Кокия Пламенное Копыто",
-		},
-		[375591] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Пузырящийся побег",
+			["source"] = "Заросшее древо",
 		},
 		[388544] = {
 			["school"] = 1,
@@ -686,12 +951,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Заросшее древо",
 		},
-		[374352] = {
-			["school"] = 64,
+		[372701] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Эхо Дорагосы",
+			["source"] = "Часовая Талондрас",
 		},
 		[372860] = {
 			["school"] = 1,
@@ -701,20 +968,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Кокия Пламенное Копыто",
 		},
-		[382071] = {
-			["school"] = 1,
+		[387151] = {
+			["school"] = 16,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Часовая Талондрас",
+			["source"] = "Телаш Серокрылый",
 		},
-		[388799] = {
-			["school"] = 1,
+		[375591] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Заросшее древо",
+			["source"] = "Пузырящийся побег",
 		},
 		[369781] = {
 			["school"] = 1,
@@ -733,25 +1003,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Лазурный Клинок",
 		},
-		[372863] = {
-			["school"] = 4,
+		[376292] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Кокия Пламенное Копыто",
+			["source"] = "Хронолорд Дейос",
 		},
-		[384823] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[374570] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Шторм бушующего пламени",
+			["source"] = "Леймор",
 		},
 		[181089] = {
 			["school"] = 1,
@@ -769,13 +1034,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Стражник хранилища",
 		},
-		[369116] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Тлерон",
-		},
 		[387150] = {
 			["school"] = 16,
 			["type"] = "DEBUFF",
@@ -785,20 +1043,32 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Телаш Серокрылый",
 		},
-		[374570] = {
-			["school"] = 64,
+		[369116] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Леймор",
+			["source"] = "Тлерон",
 		},
-		[376292] = {
-			["school"] = 1,
+		[384823] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Шторм бушующего пламени",
+		},
+		[372863] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Хронолорд Дейос",
+			["source"] = "Кокия Пламенное Копыто",
 		},
 		[388008] = {
 			["school"] = 16,
@@ -809,15 +1079,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Телаш Серокрылый",
 		},
-		[387151] = {
-			["school"] = 16,
+		[382071] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Телаш Серокрылый",
+			["source"] = "Часовая Талондрас",
 		},
 		[387691] = {
 			["school"] = 1,
@@ -849,13 +1117,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Телаш Серокрылый",
 		},
-		[193473] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[373087] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Щупальце Бездны",
+			["source"] = "Шторм бушующего пламени",
 		},
 		[369563] = {
 			["school"] = 1,
@@ -866,12 +1133,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Бейлог",
 		},
-		[376319] = {
-			["school"] = 64,
+		[381525] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Хронолорд Дейос",
+			["source"] = "Киракка",
 		},
 		[369754] = {
 			["school"] = 1,
@@ -883,35 +1153,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Бромач",
 		},
-		[385578] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Лазурный Клинок",
-		},
-		[374523] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Силовой росток",
-		},
-		[376997] = {
+		[369605] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Бромач",
+		},
+		[388084] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Телаш Серокрылый",
+		},
+		[381512] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Кроут",
+			["source"] = "Эркхарт Кровь Бури",
 		},
 		[396044] = {
 			["school"] = 16,
@@ -922,13 +1186,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Мелидрусса Истощенная Холодом",
 		},
-		[374364] = {
-			["school"] = 1,
+		[381862] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Леймор",
+			["source"] = "Киракка",
 		},
 		[386202] = {
 			["school"] = 64,
@@ -937,11 +1202,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вексам",
 		},
-		[385981] = {
-			["school"] = 64,
+		[377034] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Кроут",
 		},
 		[374582] = {
 			["school"] = 64,
@@ -951,34 +1218,38 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Леймор",
 		},
-		[389011] = {
+		[382303] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Бромач",
+		},
+		[386181] = {
 			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Вексам",
 		},
-		[377009] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Кроут",
-		},
-		[388902] = {
+		[373662] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Arcane Rift Invisible Stalker",
+			["source"] = "Ткач земли",
 		},
-		[227291] = {
+		[181113] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Нюцзао",
+			["source"] = "Вечная сфера",
 		},
 		[374361] = {
 			["school"] = 80,
@@ -988,13 +1259,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Эхо Дорагосы",
 		},
-		[394976] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[369696] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Плеточник Бездны",
+			["source"] = "Прыгун-падальшик",
 		},
 	},
 	["emotes"] = {

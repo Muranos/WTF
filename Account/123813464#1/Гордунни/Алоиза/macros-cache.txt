@@ -1,9 +1,7 @@
 VER 3 010000000000000F "CovenantAbility" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast Игры разума
-/cast Нечестивое кольцо
-/cast Волшебные стражи
-/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Игры разума" or G"Нечестивое кольцо" or G"Созыв духов" or G"Волшебные стражи")
+#showtooltip Извержение бездны
+/use 13
+/cast Извержение бездны
 END
 VER 3 0100000000000007 "CureDisease" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -36,39 +34,29 @@ END
 VER 3 0100000000000001 "LFG" "ability_deathwing_bloodcorruption_earth"
 /4 ДЦ 404-ШП 404 ищу ОП  с нуля. Опыт 6/7 хм + фулл СРОП. Нужна 3я фаза. Летать умею. Связь любая.
 END
-VER 3 010000000000000B "MB_Tugar" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000013 "MB_Versatile" "134400"
 #showtooltip
-/target Тугар Кровавый Тотем
-/cast Взрыв разума
-/targetlasttarget
-END
-VER 3 0100000000000012 "MB_Yourmog" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/target Йормог Чудовищный
-/cast Взрыв разума
-/targetlasttarget
+/cast [harm,nodead] Взрыв разума ; Рывок вперед
 END
 VER 3 0100000000000011 "PainSupp" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ @player] Подавление боли
 END
-VER 3 010000000000000D "PI_for_me" "INV_MISC_QUESTIONMARK"
-/use Рубин иссечения душ
-/cast [@player] Придание сил
-END
 VER 3 010000000000000E "PI_for_Xynn" "INV_MISC_QUESTIONMARK"
-/target Xynnmage-Alleria
-/cast Придание сил
-/targetlasttarget
-END
-VER 3 010000000000000C "SearingNightmare" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nochanneling: Иссушение разума] Иссушение разума
-/cast [channeling, talent:3/3] Иссушающий кошмар
+/cast [@mouseover] Придание сил
+END
+VER 3 010000000000000D "Shadowcrush" "136201"
+#showtooltip
+/cast [@cursor] Темное сокрушение
 END
 VER 3 0100000000000005 "Shield" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Слово силы: Щит; [@player] Слово силы: Щит
+END
+VER 3 010000000000000B "Theather" "134400"
+#showtooltip
+/cast [@cursor] Божественное перышко
 END
 VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
 P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]

@@ -1,7 +1,6 @@
 VER 3 010000000000001C "DarkCovenant" "INV_MISC_QUESTIONMARK"
-#showtooltip Темный завет
-/stopcasting
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Темный завет
+#showtooltip
+/cast [@cursor] Темное сокрушение
 END
 VER 3 0100000000000007 "Desiese" "INV_Misc_QuestionMark"
 #showtooltip Очищение от болезни
@@ -18,21 +17,21 @@ VER 3 0100000000000013 "Dispersion" "INV_Misc_QuestionMark"
 /use Слияние с тьмой
 END
 VER 3 010000000000000D "FlashHeal" "INV_Misc_QuestionMark"
-#showtooltip Темное восстановление
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Темное восстановление
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Быстрое исцеление
 END
 VER 3 0100000000000003 "Heal" "INV_Misc_QuestionMark"
-#showtooltip Ясность воли
+#showtooltip Придание сил
 /stopcasting
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Ясность воли
+/cast [modifier:SELFCAST, @player] [@mouseover, help]  Придание сил
 END
 VER 3 0100000000000016 "HeartOfTheAspect" "INV_MISC_QUESTIONMARK"
 #showtooltip Духовное рвение
 /cast [nodead,help]Духовное рвение; [harm,nodead] Темная Бездна
 END
 VER 3 0100000000000002 "HolyFire" "INV_Misc_QuestionMark"
-#showtooltip Священный огонь
-/cast [harm] [target=targettarget] Священный огонь
+#showtooltip
+/cast [@cursor] Божественное перышко
 END
 VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
 #showtooltip Левитация

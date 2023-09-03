@@ -51,3 +51,4 @@ GottaGoFast: disabled
 HandyNotes_SummerFestival: enabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
+AllTheThings: enabled

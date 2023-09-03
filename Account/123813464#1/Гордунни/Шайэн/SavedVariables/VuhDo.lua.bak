@@ -4016,6 +4016,7 @@ VUHDO_CONFIG = {
 	},
 	["SHOW_INCOMING"] = true,
 	["SPELL_TRACE"] = {
+		["showTrailOfLight"] = false,
 		["duration"] = 2,
 		["isMine"] = true,
 		["STORED"] = {
@@ -4049,7 +4050,6 @@ VUHDO_CONFIG = {
 		["version"] = 1,
 		["isOthers"] = false,
 		["selected"] = "",
-		["showTrailOfLight"] = false,
 		["SELECTED"] = "",
 	},
 	["OMIT_FOCUS"] = true,
@@ -7686,7 +7686,7 @@ VUHDO_RAID = {
 		["baseRange"] = true,
 		["class"] = "SHAMAN",
 		["role"] = 62,
-		["sortMaxHp"] = 369662,
+		["sortMaxHp"] = 379447,
 		["map"] = "Лазурный Простор",
 		["threat"] = 0,
 		["powermax"] = 150,
@@ -7700,8 +7700,7 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 11,
-		["healthmax"] = 369662,
-		["lifeLossPerc"] = 0.9615371609758382,
+		["healthmax"] = 379447,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "Шайэн",
@@ -7710,7 +7709,7 @@ VUHDO_RAID = {
 		["targetUnit"] = "target",
 		["visible"] = true,
 		["isAltPower"] = false,
-		["health"] = 369662,
+		["health"] = 379447,
 		["className"] = "Шаманка",
 		["afk"] = false,
 		["debuff"] = 0,
@@ -7724,8 +7723,8 @@ VUHDO_INDICATOR_CONFIG = {
 		["MOUSEOVER_HIGHLIGHT"] = "",
 		["AGGRO_BAR"] = "",
 		["BACKGROUND_BAR"] = "Фон: Фиксированный",
-		["SWIFTMEND_INDICATOR"] = "Иконка роли",
-		["DAMAGE_FLASH_BAR"] = "",
+		["CLUSTER_BORDER"] = "Границы: Комплексная + угроза",
+		["SIDE_LEFT"] = "",
 		["HEALTH_BAR_PANEL"] = {
 			"", -- [1]
 			"", -- [2]
@@ -7738,13 +7737,13 @@ VUHDO_INDICATOR_CONFIG = {
 			"", -- [9]
 			"", -- [10]
 		},
-		["CLUSTER_BORDER"] = "Границы: Комплексная + угроза",
+		["SWIFTMEND_INDICATOR"] = "Иконка роли",
 		["THREAT_MARK"] = "",
 		["BAR_BORDER"] = "Границы: Комплексная + угроза",
 		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Полоса маны: Мана",
 		["HEALTH_BAR"] = "Здоровье (цвет класса)",
-		["SIDE_LEFT"] = "",
+		["DAMAGE_FLASH_BAR"] = "",
 		["INCOMING_BAR"] = "",
 	},
 	["CUSTOM"] = {

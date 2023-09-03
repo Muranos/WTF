@@ -39,13 +39,32 @@ MADB = {
 						274.9996643066406, -- [5]
 					},
 				},
+				["TargetFrameSpellBar"] = {
+					["orgPos"] = {
+						"TOPLEFT", -- [1]
+						nil, -- [2]
+						"BOTTOMLEFT", -- [3]
+						18, -- [4]
+						-10, -- [5]
+					},
+					["name"] = "TargetFrameSpellBar",
+					["scale"] = 2.503982340494792,
+					["orgScale"] = 1,
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						514.6202392578125, -- [4]
+						233.0127868652344, -- [5]
+					},
+				},
 				["TalkingHeadFrame"] = {
 					["orgPos"] = {
-						"TOP", -- [1]
+						"LEFT", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						-135, -- [5]
+						"LEFT", -- [3]
+						2, -- [4]
+						-256.7000122070313, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["pos"] = {

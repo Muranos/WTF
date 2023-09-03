@@ -11,7 +11,7 @@ DCP_Saved = {
 	["maxAlpha"] = 0.7,
 	["x"] = 941.86669921875,
 	["iconSize"] = 75,
-	["animScale"] = 1.5,
-	["y"] = 110.3998031616211,
 	["remainingCooldownWhenNotified"] = 0,
+	["y"] = 110.3998031616211,
+	["animScale"] = 1.5,
 }

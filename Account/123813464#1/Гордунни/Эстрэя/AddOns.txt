@@ -112,3 +112,4 @@ Plater: disabled
 GottaGoFast: disabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
+LittleWigs_Cataclysm: enabled

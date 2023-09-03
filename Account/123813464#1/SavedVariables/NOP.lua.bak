@@ -58,8 +58,8 @@ NewOpenablesProfile = {
 		["Дэлери - Борейская тундра"] = "Default",
 		["Сайбил - Борейская тундра"] = "Default",
 		["Эллиата - Гордунни"] = "Default",
-		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Estrea - Alleria"] = "Default",
+		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Nietta - EU Mythic Dungeons"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
@@ -78,20 +78,7 @@ NewOpenablesProfile = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["Skip"] = true,
-			["qb"] = {
-				"TOPLEFT", -- [1]
-				"NOP_BUTTON", -- [2]
-				"TOPLEFT", -- [3]
-			},
 			["autoquest"] = true,
-			["button"] = {
-				nil, -- [1]
-				"UIParent", -- [2]
-				nil, -- [3]
-				420, -- [4]
-				-449.9999084472656, -- [5]
-			},
 			["T_BLACKLIST"] = {
 				[0] = true,
 				[168652] = true,
@@ -105,15 +92,15 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[174458] = true,
 				[133579] = true,
-				[142117] = true,
-				[173726] = true,
 				[163222] = true,
-				[153960] = true,
+				[173726] = true,
 				[183823] = true,
-				[168529] = true,
+				[153960] = true,
+				[142117] = true,
+				[177223] = true,
 				[174459] = true,
 				[17308] = true,
-				[89112] = true,
+				[176869] = true,
 				[152496] = true,
 				[169451] = true,
 				[171286] = true,
@@ -142,8 +129,21 @@ NewOpenablesProfile = {
 				[127835] = true,
 				[127839] = true,
 				[168651] = true,
-				[176869] = true,
-				[177223] = true,
+				[89112] = true,
+				[168529] = true,
+			},
+			["button"] = {
+				nil, -- [1]
+				"UIParent", -- [2]
+				nil, -- [3]
+				420, -- [4]
+				-449.9999084472656, -- [5]
+			},
+			["Skip"] = true,
+			["qb"] = {
+				"TOPLEFT", -- [1]
+				"NOP_BUTTON", -- [2]
+				"TOPLEFT", -- [3]
 			},
 			["lockButton"] = true,
 		},

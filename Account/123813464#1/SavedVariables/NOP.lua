@@ -62,7 +62,7 @@ NewOpenablesProfile = {
 		["Сайбил - Борейская тундра"] = "Default",
 		["Эллиата - Гордунни"] = "Default",
 		["Шайэн - Гордунни"] = "Default",
-		["Estrea - EU Mythic Dungeons"] = "Default",
+		["Estrea - Alleria"] = "Default",
 		["Эрника - Борейская тундра"] = "Default",
 		["Зонна - Борейская тундра"] = "Default",
 		["Nietta - EU Mythic Dungeons"] = "Default",
@@ -73,19 +73,20 @@ NewOpenablesProfile = {
 		["Алоиза - Гордунни"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
 		["Ниэтта - Гордунни"] = "Default",
-		["Estrea - Alleria"] = "Default",
+		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Дэлери - Гордунни"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["Skip"] = true,
-			["qb"] = {
-				"TOPLEFT", -- [1]
-				"NOP_BUTTON", -- [2]
-				"TOPLEFT", -- [3]
-			},
 			["autoquest"] = true,
-			["lockButton"] = true,
+			["Skip"] = true,
+			["button"] = {
+				nil, -- [1]
+				"UIParent", -- [2]
+				nil, -- [3]
+				420, -- [4]
+				-449.9999084472656, -- [5]
+			},
 			["T_BLACKLIST"] = {
 				[0] = true,
 				[168652] = true,
@@ -99,18 +100,18 @@ NewOpenablesProfile = {
 				[168654] = true,
 				[174458] = true,
 				[133579] = true,
-				[177223] = true,
+				[168529] = true,
 				[173726] = true,
-				[176869] = true,
+				[89112] = true,
 				[153960] = true,
 				[171286] = true,
-				[168529] = true,
+				[177223] = true,
 				[174459] = true,
 				[17308] = true,
-				[89112] = true,
+				[176869] = true,
 				[152496] = true,
 				[169451] = true,
-				[142117] = true,
+				[163222] = true,
 				[178742] = true,
 				[180111] = true,
 				[174460] = true,
@@ -136,16 +137,15 @@ NewOpenablesProfile = {
 				[127835] = true,
 				[127839] = true,
 				[168651] = true,
+				[142117] = true,
 				[183823] = true,
-				[163222] = true,
 			},
-			["button"] = {
-				nil, -- [1]
-				"UIParent", -- [2]
-				nil, -- [3]
-				420, -- [4]
-				-449.9999084472656, -- [5]
+			["qb"] = {
+				"TOPLEFT", -- [1]
+				"NOP_BUTTON", -- [2]
+				"TOPLEFT", -- [3]
 			},
+			["lockButton"] = true,
 		},
 	},
 }

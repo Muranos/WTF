@@ -1,29 +1,35 @@
 
 RaiderIO_Config = {
-	["enableUnitTooltips"] = true,
 	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["previouslyEnabledLogging"] = false,
-	["enableFriendsTooltips"] = true,
-	["showScoreInCombat"] = true,
-	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
-	["enableLFGTooltips"] = true,
-	["showMainsScore"] = true,
-	["showSimpleScoreColors"] = false,
-	["enableWhoMessages"] = true,
+	["profilePoint"] = {
+		["y"] = 0,
+		["x"] = -16,
+		["point"] = "TOPLEFT",
+	},
+	["enableReplay"] = false,
 	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
+	["showMainsScore"] = true,
+	["enableFriendsTooltips"] = true,
+	["showDropDownCopyURL"] = true,
+	["enableLFGTooltips"] = true,
+	["previouslyEnabledLogging"] = false,
+	["showScoreInCombat"] = true,
+	["enableWhoMessages"] = true,
+	["showSimpleScoreColors"] = false,
+	["alwaysExtendTooltip"] = false,
+	["enableUnitTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Эстрэя-gordunni"
+RaiderIO_LastCharacter = "eu-Эстрея-borean-tundra"
 RaiderIO_MissingCharacters = {
-	["eu-Чепуханская-gordunni"] = true,
-	["eu-Зэндира-gordunni"] = true,
-	["eu-Вальдруз-gordunni"] = true,
+	["eu-Эстрея-borean-tundra"] = true,
 }
 RaiderIO_MissingServers = {
 }
 RaiderIO_CachedRuns = nil
 RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
 }
