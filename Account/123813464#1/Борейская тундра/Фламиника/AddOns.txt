@@ -161,3 +161,9 @@ GottaGoFast: disabled
 GottaGoFastHistory: disabled
 MovementSpeed: disabled
 NOP: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled
+WeakAurasArchive: enabled
+HandyNotes_HallowsEnd: disabled
+LittleWigs_Classic: enabled

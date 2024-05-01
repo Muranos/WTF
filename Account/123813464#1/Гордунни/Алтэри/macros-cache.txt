@@ -1,7 +1,6 @@
 VER 3 0100000000000009 "Elisium" "INV_MISC_QUESTIONMARK"
-#showtooltip
+#showtooltip 
 /cast [@player] Элизийский декрет
-/cast Клеймо греха
 END
 VER 3 0100000000000005 "Enemy" "INV_MISC_QUESTIONMARK"
 #showtooltip Заклятый враг
@@ -16,6 +15,10 @@ VER 3 0100000000000003 "Interrupt" "INV_MISC_QUESTIONMARK"
 #showtooltip Поглощение магии
 /stopcasting
 /cast Поглощение магии
+END
+VER 3 010000000000000A "OpenCache" "134400"
+#showtooltip Желудок любопытной формы
+/use Желудок любопытной формы
 END
 VER 3 0100000000000007 "Trinket" "INV_MISC_QUESTIONMARK"
 /use Блестящий золотой плюмаж

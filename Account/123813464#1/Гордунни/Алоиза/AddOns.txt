@@ -23,8 +23,8 @@ WeakAurasArchive: enabled
 MoveAnything: disabled
 Quartz: enabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: enabled
-RCLootCouncil: enabled
+HandyNotes_SummerFestival: disabled
+RCLootCouncil: disabled
 TomCats-Nzoth: disabled
 BigWigs_Legion: enabled
 RaiderIO: enabled
@@ -61,8 +61,8 @@ LittleWigs_Classic: enabled
 BigWigs_Shadowlands: enabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
-!BugGrabber: disabled
-BugSack: disabled
+!BugGrabber: enabled
+BugSack: enabled
 Rarity_Options: enabled
 Altoholic: disabled
 Altoholic_Agenda: disabled
@@ -107,3 +107,15 @@ VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
 LittleWigs_BattleForAzeroth: enabled
 LittleWigs_Cataclysm: enabled
+HandyNotes_Dragonflight: disabled
+HandyNotes_HallowsEnd: disabled
+BigWigs_Amirdrassil: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+HandyNotes_LunarFestival: disabled
+HandyNotes_Camel: disabled
+Doom_CooldownPulse: disabled
+EditModeExpanded: disabled
+HandyNotes_Shadowlands: disabled
+MasterPlan: disabled
+MasterPlanA: disabled
+Silence: enabled

@@ -39,32 +39,30 @@ MADB = {
 						274.9996643066406, -- [5]
 					},
 				},
-				["TargetFrameSpellBar"] = {
+				["OverrideActionBarExpBar"] = {
 					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						nil, -- [2]
-						"BOTTOMLEFT", -- [3]
-						18, -- [4]
-						-10, -- [5]
+						"TOP", -- [1]
+						"OverrideActionBarBG", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						27, -- [5]
 					},
-					["name"] = "TargetFrameSpellBar",
-					["scale"] = 2.503982340494792,
-					["orgScale"] = 1,
+					["name"] = "OverrideActionBarExpBar",
 					["pos"] = {
-						"BOTTOMLEFT", -- [1]
-						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						514.6202392578125, -- [4]
-						233.0127868652344, -- [5]
+						"TOP", -- [1]
+						"OverrideActionBarBG", -- [2]
+						"TOP", -- [3]
+						-6.103515625e-05, -- [4]
+						26.99999237060547, -- [5]
 					},
 				},
 				["TalkingHeadFrame"] = {
 					["orgPos"] = {
-						"LEFT", -- [1]
+						"BOTTOM", -- [1]
 						"UIParent", -- [2]
-						"LEFT", -- [3]
-						2, -- [4]
-						-256.7000122070313, -- [5]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						96, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["pos"] = {
@@ -85,22 +83,24 @@ MADB = {
 						6.103515625e-05, -- [5]
 					},
 				},
-				["OverrideActionBarExpBar"] = {
+				["TargetFrameSpellBar"] = {
 					["orgPos"] = {
-						"TOP", -- [1]
-						"OverrideActionBarBG", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						27, -- [5]
+						"BOTTOM", -- [1]
+						"TargetFrame", -- [2]
+						"BOTTOM", -- [3]
+						-15, -- [4]
+						10, -- [5]
 					},
-					["name"] = "OverrideActionBarExpBar",
+					["name"] = "TargetFrameSpellBar",
+					["scale"] = 2.503982340494792,
 					["pos"] = {
-						"TOP", -- [1]
-						"OverrideActionBarBG", -- [2]
-						"TOP", -- [3]
-						-6.103515625e-05, -- [4]
-						26.99999237060547, -- [5]
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						514.6202392578125, -- [4]
+						233.0127868652344, -- [5]
 					},
+					["orgScale"] = 1,
 				},
 				["CastingBarFrame"] = {
 					["name"] = "CastingBarFrame",
@@ -115,8 +115,8 @@ MADB = {
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
 }

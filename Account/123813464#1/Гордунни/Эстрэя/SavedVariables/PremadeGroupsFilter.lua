@@ -1,26 +1,85 @@
 
 PremadeGroupsFilterState = {
-	["version"] = 5,
-	["c1f4"] = {
-		["enabled"] = false,
+	["version"] = 6,
+	["c2f4"] = {
 		["minimized"] = false,
-		["expression"] = {
-			["sorting"] = "",
+		["mini"] = {
 			["expression"] = "",
+			["sorting"] = "",
 		},
+		["dungeon"] = {
+			["mprating"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["heals"] = {
+				["max"] = "1",
+				["min"] = "1",
+				["act"] = true,
+			},
+			["dps"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["members"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["expression"] = "",
+			["difficulty"] = {
+			},
+			["dungeon4"] = false,
+			["dungeon5"] = false,
+			["tanks"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["partyfit"] = true,
+			["dungeon2"] = false,
+			["sorting"] = "",
+		},
+		["enabled"] = true,
 	},
 	["c6f4"] = {
 		["enabled"] = false,
-		["minimized"] = false,
-		["expression"] = {
+		["mini"] = {
+			["expression"] = "",
 			["sorting"] = "",
+		},
+		["minimized"] = false,
+		["role"] = {
+			["heals"] = {
+			},
+			["tanks"] = {
+			},
+			["dps"] = {
+			},
+			["members"] = {
+			},
 			["expression"] = "",
 		},
 	},
-	["c2f4"] = {
+	["c3f5"] = {
+		["minimized"] = false,
+		["mini"] = {
+			["expression"] = "",
+			["sorting"] = "",
+		},
 		["enabled"] = true,
-		["dungeon"] = {
-			["mprating"] = {
+		["raid"] = {
+			["difficulty"] = {
+			},
+			["tanks"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["expression"] = "",
+			["defeated"] = {
 				["max"] = "",
 				["min"] = "",
 				["act"] = false,
@@ -40,33 +99,15 @@ PremadeGroupsFilterState = {
 				["min"] = "",
 				["act"] = false,
 			},
-			["expression"] = "",
-			["difficulty"] = {
-			},
-			["partyfit"] = true,
-			["tanks"] = {
-				["max"] = "",
-				["min"] = "",
-				["act"] = false,
-			},
 			["sorting"] = "",
-		},
-		["minimized"] = false,
-		["expression"] = {
-			["sorting"] = "",
-			["expression"] = "",
 		},
 	},
-	["c3f5"] = {
-		["enabled"] = true,
-		["raid"] = {
-			["sorting"] = "",
+	["c1f4"] = {
+		["enabled"] = false,
+		["mini"] = {
 			["expression"] = "",
+			["sorting"] = "",
 		},
 		["minimized"] = false,
-		["expression"] = {
-			["sorting"] = "",
-			["expression"] = "",
-		},
 	},
 }

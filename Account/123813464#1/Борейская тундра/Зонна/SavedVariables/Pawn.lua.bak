@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0718,
+	["LastVersion"] = 2.0805,
 	["LastPlayerFullName"] = "Зонна-Борейская тундра",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
@@ -12,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 155,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:64::11:4:6316:4932:4933:1551::::::|h[Сердце Азерот]|h|r",
+			["Level"] = 159,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::51:64::11:4:6316:4932:4933:1551::::::|h[Сердце Азерот]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159267,

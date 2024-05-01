@@ -34,11 +34,20 @@ VER 3 000000000000001E "CancelBop" "136223"
 /click TotemFrameTotem5 RightButton
 END
 VER 3 000000000000002A "CandyAndFish" "INV_MISC_QUESTIONMARK"
-#showtooltip Блуждающая сущность друстов
+#showtooltip Пригоршня конфет
 /use Пригоршня конфет
 /use Древний лосось Крутогорья
 /use Карп холодных вод
 /use Горный иглобрюх
+END
+VER 3 0000000000000056 "ChasingDream" "237543"
+/cleartarget
+/target Кряква из Сна
+/target Землехвойка из Сна
+/target Образ невинности
+/cleartarget [dead]
+/stopmacro [dead][noexists]
+/run if not GetRaidTargetIndex("target")then SetRaidTarget("target",8)end
 END
 VER 3 000000000000002F "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
 /cm rc
@@ -86,6 +95,16 @@ VER 3 0000000000000032 "Hide" "132208"
 END
 VER 3 000000000000003D "HideCastBar" "INV_MISC_QUESTIONMARK"
 /run SetCVar("showTargetCastbar", 0) ReloadUI()
+END
+VER 3 0000000000000055 "Invite" "4667426"
+/invite Сочувствие-Гордунни
+/invite Сострадание-Гордунни
+/invite Сотворение-Гордунни
+/invite Дивона-Гордунни
+/invite Свёртка-Гордунни
+/invite Всё-Гордунни
+/invite Рептилоиды-Гордунни
+/invite Пойдёт-Гордунни
 END
 VER 3 000000000000004F "Kick_Mage" "135730"
 /w Xynnmage-Alleria Your kick

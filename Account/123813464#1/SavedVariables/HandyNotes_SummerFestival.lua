@@ -8,6 +8,7 @@ HandyNotes_SummerFestivalDB = {
 		["Тиаз - Борейская тундра"] = "Default",
 		["Мининевра - Азурегос"] = "Default",
 		["Эстрея - Борейская тундра"] = "Default",
+		["Мэйрика - Гордунни"] = "Default",
 		["Niamei - Silvermoon"] = "Default",
 		["Estrea - EU Mythic Dungeons"] = "Default",
 		["Elavi - Durotan"] = "Default",

@@ -11,6 +11,12 @@ RaiderIO_Config = {
 	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
+	["minimapIcon"] = {
+		["minimapPos"] = 180,
+		["showInCompartment"] = true,
+		["hide"] = false,
+		["lock"] = false,
+	},
 	["showMainsScore"] = true,
 	["enableFriendsTooltips"] = true,
 	["showDropDownCopyURL"] = true,
@@ -22,9 +28,9 @@ RaiderIO_Config = {
 	["alwaysExtendTooltip"] = false,
 	["enableUnitTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Эстрея-borean-tundra"
+RaiderIO_LastCharacter = "eu-Фламинника-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Эстрея-borean-tundra"] = true,
+	["eu-Длжс-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

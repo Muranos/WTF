@@ -11,6 +11,12 @@ RaiderIO_Config = {
 	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
+	["minimapIcon"] = {
+		["minimapPos"] = 180,
+		["showInCompartment"] = true,
+		["lock"] = false,
+		["hide"] = false,
+	},
 	["showMainsScore"] = true,
 	["enableFriendsTooltips"] = true,
 	["showDropDownCopyURL"] = true,
@@ -22,18 +28,8 @@ RaiderIO_Config = {
 	["showSimpleScoreColors"] = false,
 	["previouslyEnabledLogging"] = false,
 }
-RaiderIO_LastCharacter = "eu-Алоиза-borean-tundra"
+RaiderIO_LastCharacter = "eu-Алоиза-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Asmondia-antonidas"] = true,
-	["eu-Дугласико-blackscar"] = true,
-	["eu-Camouflages-kazzak"] = true,
-	["eu-Латилика-borean-tundra"] = true,
-	["eu-Udûn-magtheridon"] = true,
-	["eu-Fastel-lightnings-blade"] = true,
-	["eu-Neichik-doomhammer"] = true,
-	["eu-Ness-wildhammer"] = true,
-	["eu-Rtxq-twisting-nether"] = true,
-	["eu-Каэмфис-borean-tundra"] = true,
 }
 RaiderIO_MissingServers = {
 }

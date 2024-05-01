@@ -1,36 +1,117 @@
 
 PremadeGroupsFilterState = {
-	["c3f5"] = {
-		["enabled"] = true,
-		["raid"] = {
-			["sorting"] = "",
-			["expression"] = "",
-		},
-		["minimized"] = false,
-		["expression"] = {
-			["sorting"] = "",
-			["expression"] = "",
-		},
-	},
+	["version"] = 6,
 	["c1f4"] = {
 		["enabled"] = false,
-		["minimized"] = false,
-		["expression"] = {
+		["mini"] = {
+			["expression"] = "",
 			["sorting"] = "",
+		},
+		["minimized"] = false,
+	},
+	["c6f4"] = {
+		["enabled"] = true,
+		["role"] = {
+			["heals"] = {
+				["max"] = "1",
+				["min"] = "1",
+				["act"] = true,
+			},
+			["tanks"] = {
+				["max"] = "1",
+				["min"] = "1",
+				["act"] = true,
+			},
+			["dps"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["members"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
 			["expression"] = "",
 		},
 	},
-	["version"] = 5,
+	["c3f5"] = {
+		["minimized"] = false,
+		["mini"] = {
+			["expression"] = "",
+			["sorting"] = "",
+		},
+		["raid"] = {
+			["difficulty"] = {
+			},
+			["tanks"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["expression"] = "",
+			["defeated"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["heals"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["dps"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["members"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["sorting"] = "",
+		},
+		["enabled"] = true,
+	},
 	["c2f4"] = {
+		["minimized"] = false,
+		["mini"] = {
+			["expression"] = "",
+			["sorting"] = "",
+		},
 		["enabled"] = true,
 		["dungeon"] = {
-			["sorting"] = "",
+			["mprating"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["heals"] = {
+				["max"] = "",
+				["min"] = "1",
+				["act"] = true,
+			},
+			["dps"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
+			["members"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
+			},
 			["expression"] = "",
-		},
-		["minimized"] = false,
-		["expression"] = {
+			["difficulty"] = {
+			},
+			["partyfit"] = true,
+			["tanks"] = {
+				["max"] = "",
+				["min"] = "1",
+				["act"] = true,
+			},
 			["sorting"] = "",
-			["expression"] = "",
 		},
 	},
 }

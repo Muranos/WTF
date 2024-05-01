@@ -1,19 +1,40 @@
 
 PremadeGroupsFilterState = {
 	["c3f6"] = {
-		["enabled"] = true,
-		["raid"] = {
-			["expression"] = "",
+		["minimized"] = false,
+		["mini"] = {
 			["sorting"] = "",
+			["expression"] = "",
+		},
+		["raid"] = {
+			["sorting"] = "",
+			["expression"] = "",
+		},
+		["enabled"] = true,
+	},
+	["version"] = 6,
+	["c1f4"] = {
+		["enabled"] = false,
+		["mini"] = {
+			["sorting"] = "",
+			["expression"] = "ыыыыыыы",
 		},
 		["minimized"] = false,
-		["expression"] = {
-			["expression"] = "",
-			["sorting"] = "",
-		},
 	},
-	["version"] = 5,
+	["c6f4"] = {
+		["enabled"] = false,
+		["mini"] = {
+			["sorting"] = "",
+			["expression"] = "",
+		},
+		["minimized"] = false,
+	},
 	["c2f4"] = {
+		["minimized"] = false,
+		["mini"] = {
+			["sorting"] = "",
+			["expression"] = "",
+		},
 		["enabled"] = true,
 		["dungeon"] = {
 			["mprating"] = {
@@ -21,18 +42,57 @@ PremadeGroupsFilterState = {
 				["min"] = "",
 				["act"] = false,
 			},
+			["heals"] = {
+				["max"] = "1",
+				["min"] = "1",
+				["act"] = false,
+			},
+			["dps"] = {
+				["max"] = "2",
+				["min"] = "",
+				["act"] = false,
+			},
+			["members"] = {
+				["max"] = "",
+				["min"] = "1",
+				["act"] = false,
+			},
+			["expression"] = "",
+			["difficulty"] = {
+			},
+			["partyfit"] = true,
+			["tanks"] = {
+				["max"] = "1",
+				["min"] = "1",
+				["act"] = true,
+			},
+			["sorting"] = "",
+		},
+	},
+	["c3f5"] = {
+		["minimized"] = false,
+		["mini"] = {
+			["sorting"] = "",
+			["expression"] = "",
+		},
+		["raid"] = {
+			["difficulty"] = {
+			},
 			["tanks"] = {
 				["max"] = "",
 				["min"] = "",
 				["act"] = false,
 			},
-			["expression"] = "",
-			["heals"] = {
+			["sorting"] = "",
+			["defeated"] = {
 				["max"] = "",
 				["min"] = "",
 				["act"] = false,
 			},
-			["difficulty"] = {
+			["heals"] = {
+				["max"] = "",
+				["min"] = "",
+				["act"] = false,
 			},
 			["dps"] = {
 				["max"] = "",
@@ -44,40 +104,8 @@ PremadeGroupsFilterState = {
 				["min"] = "",
 				["act"] = false,
 			},
-			["sorting"] = "",
-		},
-		["minimized"] = false,
-		["expression"] = {
 			["expression"] = "",
-			["sorting"] = "",
 		},
-	},
-	["c6f4"] = {
-		["enabled"] = false,
-		["minimized"] = false,
-		["expression"] = {
-			["expression"] = "",
-			["sorting"] = "",
-		},
-	},
-	["c3f5"] = {
 		["enabled"] = true,
-		["raid"] = {
-			["expression"] = "",
-			["sorting"] = "",
-		},
-		["minimized"] = false,
-		["expression"] = {
-			["expression"] = "",
-			["sorting"] = "",
-		},
-	},
-	["c1f4"] = {
-		["enabled"] = false,
-		["minimized"] = false,
-		["expression"] = {
-			["expression"] = "ыыыыыыы",
-			["sorting"] = "",
-		},
 	},
 }

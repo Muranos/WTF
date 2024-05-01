@@ -6,13 +6,31 @@ VER 3 0100000000000008 "Earthquake" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] Землетрясение
 END
+VER 3 010000000000000F "EleCombo" "134400"
+#showtooltip
+/cast [harm,nodead] Элементаль огня; Взлет вверх
+END
+VER 3 010000000000000E "Elemtrink" "134400"
+#showtooltip Первозданная волна
+/use 13
+/cast Первозданная волна
+END
 VER 3 010000000000000A "EyeOfTheStorm" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [talent:6/2] Око шторма
 END
+VER 3 010000000000000D "Lavaburst" "134400"
+#showtooltip
+/stopcasting
+/cast Выброс лавы
+END
 VER 3 0100000000000009 "LazyShock" "INV_MISC_QUESTIONMARK"
 #showtooltip Огненный шок
 /castsequence reset=5 Огненный шок, Ледяной шок, Ледяной шок, Ледяной шок
+END
+VER 3 010000000000000C "MagmaTotem" "134400"
+#showtooltip
+/cast [@cursor] Тотем жидкой магмы
 END
 VER 3 0100000000000004 "Purify" "INV_MISC_QUESTIONMARK"
 #showtooltip [spec:1] Очищение духа; [spec:3] Возрождение духа
@@ -31,10 +49,10 @@ VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Исцеляющий всплеск
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1RM1RM1IR1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NДефВсёВайКот[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Шай[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Шай[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000007 "Waterwalking" "INV_MISC_QUESTIONMARK"
 #showtooltip 

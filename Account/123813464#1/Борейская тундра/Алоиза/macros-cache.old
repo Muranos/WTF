@@ -23,11 +23,12 @@ END
 VER 3 0100000000000003 "Heal" "INV_Misc_QuestionMark"
 #showtooltip Придание сил
 /stopcasting
+/use 13
 /cast [modifier:SELFCAST, @player] [@mouseover, help]  Придание сил
 END
 VER 3 0100000000000016 "HeartOfTheAspect" "INV_MISC_QUESTIONMARK"
 #showtooltip Духовное рвение
-/cast [nodead,help]Духовное рвение; [harm,nodead] Темная Бездна
+/cast [@mouseover,nodead,help]Духовное рвение; [harm,nodead] Темная Бездна
 END
 VER 3 0100000000000002 "HolyFire" "INV_Misc_QuestionMark"
 #showtooltip
@@ -68,8 +69,8 @@ VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
 /dismount [mounted]
 END
 VER 3 010000000000001D "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1DT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 010000000000001E "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ало[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

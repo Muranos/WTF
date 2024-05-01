@@ -1,6 +1,7 @@
 
 PublicOrdersReagentsDB = {
-	["hideOrdersWithoutMaterials"] = false,
+	["hideOrdersWithoutMaterials"] = true,
+	["exceptCommission"] = false,
 	["checkAuctionsDB"] = false,
-	["minimumCommission"] = 0,
+	["minimumCommission"] = 1,
 }

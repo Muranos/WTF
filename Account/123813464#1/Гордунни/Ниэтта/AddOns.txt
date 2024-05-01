@@ -22,8 +22,8 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 Handynotes_Pandaria: disabled
-HandyNotes_SummerFestival: enabled
-RCLootCouncil: enabled
+HandyNotes_SummerFestival: disabled
+RCLootCouncil: disabled
 TomCats-Nzoth: disabled
 AllTheThings: enabled
 RaiderIO: enabled
@@ -62,8 +62,8 @@ HandyNotes_DraenorTreasures: disabled
 TradeSkillMaster_AppHelper: enabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
-!BugGrabber: disabled
-BugSack: disabled
+!BugGrabber: enabled
+BugSack: enabled
 Rarity_Options: enabled
 BigWigs_SanctumOfDomination: enabled
 Altoholic: disabled
@@ -125,3 +125,14 @@ Details_Compare2: disabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
 LittleWigs_Cataclysm: enabled
+HandyNotes_Dragonflight: disabled
+HandyNotes_HallowsEnd: disabled
+BigWigs_Amirdrassil: enabled
+HandyNotes_LunarFestival: disabled
+HandyNotes_Camel: disabled
+Doom_CooldownPulse: disabled
+EditModeExpanded: disabled
+HandyNotes_Shadowlands: disabled
+MasterPlan: disabled
+MasterPlanA: disabled
+Silence: enabled

@@ -6,13 +6,31 @@ VER 3 0100000000000008 "Earthquake" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] Землетрясение
 END
+VER 3 010000000000000F "EleCombo" "134400"
+#showtooltip
+/cast [harm,nodead] Элементаль огня; Взлет вверх
+END
+VER 3 010000000000000E "Elemtrink" "134400"
+#showtooltip Первозданная волна
+/use 13
+/cast Первозданная волна
+END
 VER 3 010000000000000A "EyeOfTheStorm" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [talent:6/2] Око шторма
 END
+VER 3 010000000000000D "Lavaburst" "134400"
+#showtooltip
+/stopcasting
+/cast Выброс лавы
+END
 VER 3 0100000000000009 "LazyShock" "INV_MISC_QUESTIONMARK"
 #showtooltip Огненный шок
 /castsequence reset=5 Огненный шок, Ледяной шок, Ледяной шок, Ледяной шок
+END
+VER 3 010000000000000C "MagmaTotem" "134400"
+#showtooltip
+/cast [@cursor] Тотем жидкой магмы
 END
 VER 3 0100000000000004 "Purify" "INV_MISC_QUESTIONMARK"
 #showtooltip [spec:1] Очищение духа; [spec:3] Возрождение духа
@@ -24,7 +42,8 @@ VER 3 0100000000000005 "Riptide" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
 #showtooltip Щит молний
-/castsequence reset=5 Щит молний, Масло теневого ядра
+/cancelaura Искра безумия
+/castsequence reset=5 Щит молний, Оружие языка пламени
 END
 VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
 #showtooltip 

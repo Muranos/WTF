@@ -1,11 +1,12 @@
 
 OneRing_Config = nil
 OPie_SavedData = {
+	["_GameVersion"] = "10.2.6",
 	["CharProfiles"] = {
 		["Гордунни-Эстрэя-3"] = "default",
 	},
-	["_GameVersion"] = "10.1.5",
-	["_OPieVersion"] = "Yuzu 9+3.33 (4.116)",
+	["_TimeBand"] = 0.1796875,
+	["_OPieVersion"] = "Zeta 5a (4.121)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["ClickActivation"] = true,
@@ -118,6 +119,38 @@ OPie_SavedData = {
 					["id"] = 393222,
 					["sliceToken"] = "ABue6rKqrQe",
 				}, -- [16]
+				{
+					["id"] = 424153,
+					["sliceToken"] = "ABuencNdmvw",
+				}, -- [17]
+				{
+					["id"] = 159901,
+					["sliceToken"] = "ABuencNdmve",
+				}, -- [18]
+				{
+					["id"] = 424163,
+					["sliceToken"] = "ABuencNdmvr",
+				}, -- [19]
+				{
+					["id"] = 424197,
+					["sliceToken"] = "ABuencNdmv1",
+				}, -- [20]
+				{
+					["id"] = 424187,
+					["sliceToken"] = "ABuencNdmvt",
+				}, -- [21]
+				{
+					["id"] = 424142,
+					["sliceToken"] = "ABuencNdmvy",
+				}, -- [22]
+				{
+					["id"] = 424167,
+					["sliceToken"] = "ABuencNdmvu",
+				}, -- [23]
+				{
+					["id"] = 159900,
+					["sliceToken"] = "ABuennbpKJw",
+				}, -- [24]
 				["name"] = "Teleports",
 				["save"] = true,
 				["hotkey"] = "F8",
@@ -127,20 +160,24 @@ OPie_SavedData = {
 					"specset", -- [1]
 					3, -- [2]
 					["sliceToken"] = "OPCTA3",
+					["vm"] = 2,
 				}, -- [1]
 				{
 					"specset", -- [1]
 					4, -- [2]
 					["sliceToken"] = "OPCTA4",
+					["vm"] = 2,
 				}, -- [2]
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
+					["vm"] = 2,
 				}, -- [3]
 				{
 					"item", -- [1]
 					110560, -- [2]
 					["sliceToken"] = "OPCTAg",
+					["vm"] = 2,
 				}, -- [4]
 				{
 					"item", -- [1]
@@ -155,6 +192,7 @@ OPie_SavedData = {
 					"item", -- [1]
 					141605, -- [2]
 					["sliceToken"] = "OPCTAw",
+					["show"] = "[in:broken isles/argus/bfa]",
 				}, -- [7]
 				{
 					"item", -- [1]
@@ -172,78 +210,80 @@ OPie_SavedData = {
 					["sliceToken"] = "ABue4pYtWVh",
 				}, -- [10]
 				{
-					"equipmentset", -- [1]
-					"Fury_Raid", -- [2]
-					["sliceToken"] = "ABue43sEX71",
-				}, -- [11]
-				{
-					"equipmentset", -- [1]
-					"Tank", -- [2]
-					["sliceToken"] = "ABue43sEX7r",
-				}, -- [12]
-				{
-					"equipmentset", -- [1]
-					"Twylight", -- [2]
-					["sliceToken"] = "ABuezx0YDSe",
-				}, -- [13]
-				{
 					"item", -- [1]
 					65360, -- [2]
 					["sliceToken"] = "ABue43OVVje",
-				}, -- [14]
+				}, -- [11]
 				{
 					"toy", -- [1]
 					165802, -- [2]
 					["sliceToken"] = "ABue4VJN6dr",
-				}, -- [15]
+				}, -- [12]
 				{
 					"specset", -- [1]
 					1, -- [2]
-					["sliceToken"] = "ABuej7IMLNu",
-				}, -- [16]
+					["sliceToken"] = "OPCTA1",
+					["vm"] = 2,
+				}, -- [13]
 				{
 					"specset", -- [1]
 					2, -- [2]
-					["sliceToken"] = "ABuej7B7Bte",
-				}, -- [17]
+					["sliceToken"] = "OPCTA2",
+					["vm"] = 2,
+				}, -- [14]
 				{
 					"item", -- [1]
 					46874, -- [2]
 					["sliceToken"] = "ABueksMGpge",
-				}, -- [18]
+				}, -- [15]
 				{
 					"item", -- [1]
 					167075, -- [2]
 					["sliceToken"] = "ABuek5BLD7e",
-				}, -- [19]
+				}, -- [16]
 				{
 					"item", -- [1]
 					168310, -- [2]
 					["sliceToken"] = "ABue5P=ogl1",
-				}, -- [20]
+				}, -- [17]
 				{
 					"item", -- [1]
 					168313, -- [2]
 					["sliceToken"] = "ABue5P=oglr",
-				}, -- [21]
+				}, -- [18]
 				{
 					"item", -- [1]
 					172044, -- [2]
 					["sliceToken"] = "ABue59T2w9e",
-				}, -- [22]
+				}, -- [19]
 				{
 					"item", -- [1]
 					172048, -- [2]
 					["sliceToken"] = "ABue5F=O/c1",
-				}, -- [23]
+				}, -- [20]
 				{
 					"toy", -- [1]
 					140192, -- [2]
 					["sliceToken"] = "ABue6jBYzDw",
-				}, -- [24]
-				["name"] = "Specializations and Travel",
+				}, -- [21]
+				{
+					"toy", -- [1]
+					212337, -- [2]
+					["sliceToken"] = "ABuemhn8VJw",
+				}, -- [22]
+				{
+					"toy", -- [1]
+					209035, -- [2]
+					["sliceToken"] = "ABuemYydzzw",
+				}, -- [23]
 				["save"] = true,
+				["v"] = 2,
+				["name"] = "Specializations and Travel",
+				["vm"] = 127,
 				["hotkey"] = "ALT-H",
+				["dropTokens"] = {
+					["OPCTAt"] = 1,
+				},
 			},
 			["Extras"] = {
 				{
@@ -311,11 +351,46 @@ OPie_SavedData = {
 					119039, -- [2]
 					["sliceToken"] = "ABue6qjgqQe",
 				}, -- [13]
+				{
+					"toy", -- [1]
+					202207, -- [2]
+					["sliceToken"] = "ABuenTSWcbw",
+				}, -- [14]
+				{
+					"item", -- [1]
+					200509, -- [2]
+					["sliceToken"] = "ABuem7Pqx3w",
+				}, -- [15]
+				{
+					"item", -- [1]
+					200507, -- [2]
+					["sliceToken"] = "ABuem7Pqx3e",
+				}, -- [16]
+				{
+					"item", -- [1]
+					208047, -- [2]
+					["sliceToken"] = "ABuem7Pqx3r",
+				}, -- [17]
+				{
+					"item", -- [1]
+					208067, -- [2]
+					["sliceToken"] = "ABuem7Pqx31",
+				}, -- [18]
+				{
+					"item", -- [1]
+					208066, -- [2]
+					["sliceToken"] = "ABuem7Pqx3t",
+				}, -- [19]
+				{
+					"item", -- [1]
+					202247, -- [2]
+					["sliceToken"] = "ABuemTPdSSw",
+				}, -- [20]
 				["name"] = "Extras",
 				["save"] = true,
 			},
 			["OPieFlagStore"] = {
-				["StoreVersion"] = 2,
+				["StoreVersion"] = 3,
 			},
 		},
 	},

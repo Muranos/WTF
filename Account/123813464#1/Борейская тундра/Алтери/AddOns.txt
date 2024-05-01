@@ -132,7 +132,7 @@ DailyGlobalCheck: disabled
 DailyGlobalCheck_Midsummer: disabled
 CharacterQuickLinks: disabled
 HandyNotes_LunarFestival: enabled
-HandyNotes_HallowsEnd: enabled
+HandyNotes_HallowsEnd: disabled
 TradeSkillMaster_AppHelper: enabled
 Atlas: disabled
 Atlas_BurningCrusade: disabled

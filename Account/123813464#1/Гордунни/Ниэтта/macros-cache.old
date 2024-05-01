@@ -16,9 +16,9 @@ VER 3 0100000000000003 "Dispell" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] Очищение от токсинов; [@player] Очищение от токсинов
 END
-VER 3 0100000000000011 "Dispell_Healer" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000013 "FocusShield" "134400"
 #showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] Очищение; [@player] Очищение
+/cast [@focus] Щит мстителя
 END
 VER 3 0100000000000006 "Freedom" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -35,10 +35,6 @@ VER 3 0100000000000004 "Heal" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Вспышка Света
 END
-VER 3 0100000000000012 "HolyLight" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Благословение защиты от заклинаний
-END
 VER 3 010000000000000C "HolyShock" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Шок небес
@@ -52,6 +48,10 @@ VER 3 0100000000000005 "LayOnHands" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Возложение рук
 END
+VER 3 0100000000000012 "MagicBoP" "135880"
+#showtooltip
+/cast [@mouseover, help] [exists,help ] Благословение защиты от заклинаний
+END
 VER 3 0100000000000010 "Particle" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover, help] [] Частица Света
@@ -60,17 +60,14 @@ VER 3 0100000000000007 "Sacrifice" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жертвенное благословение
 END
-VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1OM1DH1RM1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+VER 3 0100000000000011 "SelfHeal" "134400"
+#showtooltip
+/cast [@player] Торжество
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NУххСосЕдиЛел[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NСоч[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
-/use Непостижимое квантовое устройство
-/use Переполненный энергией кристалл
-/use Светошумовая граната головореза
 /cast Гнев карателя
-/use Серафим
 END

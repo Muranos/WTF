@@ -1,5 +1,4119 @@
 
-RematchSaved = {
+Rematch5Settings = {
+	["UseMinimapButton"] = false,
+	["ExpandedTargets"] = {
+	},
+	["CustomScale"] = false,
+	["CompactPetList"] = false,
+	["BreedSource"] = false,
+	["LastOpenLayout"] = "3-teams",
+	["CurrentLayout"] = "3-teams",
+	["ColorPetNames"] = true,
+	["ToolbarDismiss"] = false,
+	["DefaultPreferences"] = {
+	},
+	["PetCardMinimized"] = false,
+	["AutoWinRecord"] = false,
+	["JournalLayout"] = "3-teams",
+	["GroupOrder"] = {
+		"group:favorites", -- [1]
+		"group:none", -- [2]
+		"group:1", -- [3]
+		"group:2", -- [4]
+		"group:3", -- [5]
+		"group:4", -- [6]
+		"group:5", -- [7]
+		"group:6", -- [8]
+		"group:7", -- [9]
+	},
+	["AbilityBackground"] = "Icon",
+	["DontSortByRelevance"] = false,
+	["ShowSpeciesID"] = false,
+	["DontConfirmCaging"] = true,
+	["UseDefaultJournal"] = false,
+	["AllowHiddenPets"] = false,
+	["ShowAfterBattle"] = false,
+	["PetCardCompactCollected"] = false,
+	["PetCardNoMouseoverFlip"] = false,
+	["ExpandedOptionsHeaders"] = {
+	},
+	["PetCardBackground"] = "Expansion",
+	["LevelingQueue"] = {
+		{
+			["petID"] = "BattlePet-0-000010497373",
+			["preferred"] = true,
+			["added"] = 20240420010917,
+			["petTag"] = "Q1403EG",
+		}, -- [1]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000010493045",
+			["added"] = 20240418230553,
+			["petTag"] = "Q1403DR",
+		}, -- [2]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00001048AAD1",
+			["added"] = 20240416175145,
+			["petTag"] = "Q1403EF",
+		}, -- [3]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00001048496E",
+			["added"] = 20240414195303,
+			["petTag"] = "Q1403GD",
+		}, -- [4]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00001047C555",
+			["added"] = 20240412185146,
+			["petTag"] = "Q1403F5",
+		}, -- [5]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00001047C557",
+			["added"] = 20240412185132,
+			["petTag"] = "Q1403EK",
+		}, -- [6]
+		{
+			["petID"] = "BattlePet-0-00001047975E",
+			["preferred"] = true,
+			["added"] = 20240411204127,
+			["petTag"] = "Q14049S",
+		}, -- [7]
+		{
+			["petTag"] = "Q14036P",
+			["petID"] = "BattlePet-0-0000101173DD",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [8]
+		{
+			["petTag"] = "Q14039M",
+			["petID"] = "BattlePet-0-00001010DADA",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [9]
+		{
+			["petTag"] = "Q14036N",
+			["petID"] = "BattlePet-0-00001010DAD8",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [10]
+		{
+			["petTag"] = "Q140452",
+			["petID"] = "BattlePet-0-00001010489F",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [11]
+		{
+			["petTag"] = "Q140454",
+			["petID"] = "BattlePet-0-0000100FDE47",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [12]
+		{
+			["petTag"] = "Q1403E1",
+			["petID"] = "BattlePet-0-0000100F7489",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [13]
+		{
+			["petTag"] = "Q1403FQ",
+			["petID"] = "BattlePet-0-0000100E211A",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [14]
+		{
+			["petTag"] = "Q14036Q",
+			["petID"] = "BattlePet-0-0000100DDAA4",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [15]
+		{
+			["petTag"] = "Q1403E4",
+			["petID"] = "BattlePet-0-0000100D375A",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [16]
+		{
+			["petTag"] = "Q14036B",
+			["petID"] = "BattlePet-0-0000100CFAB8",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [17]
+		{
+			["petTag"] = "QN103CO",
+			["petID"] = "BattlePet-0-0000100B33CD",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [18]
+		{
+			["petTag"] = "QN103CM",
+			["petID"] = "BattlePet-0-0000100B2AD4",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [19]
+		{
+			["petTag"] = "QN103CS",
+			["petID"] = "BattlePet-0-0000100B2A97",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [20]
+		{
+			["petTag"] = "QN103CR",
+			["petID"] = "BattlePet-0-0000100B2A71",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [21]
+		{
+			["petTag"] = "Q140382",
+			["petID"] = "BattlePet-0-0000100AD168",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [22]
+		{
+			["petTag"] = "Q1403DN",
+			["petID"] = "BattlePet-0-000010099C53",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [23]
+		{
+			["petTag"] = "Q1403DN",
+			["petID"] = "BattlePet-0-000010052F72",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [24]
+		{
+			["petTag"] = "Q140455",
+			["petID"] = "BattlePet-0-000010075694",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [25]
+		{
+			["petTag"] = "Q13037L",
+			["petID"] = "BattlePet-0-000010075440",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [26]
+		{
+			["petTag"] = "Q14037P",
+			["petID"] = "BattlePet-0-0000100351CD",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [27]
+		{
+			["petTag"] = "Q14036F",
+			["petID"] = "BattlePet-0-00000FF9740B",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [28]
+		{
+			["petTag"] = "Q14036P",
+			["petID"] = "BattlePet-0-00000FF321C4",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [29]
+		{
+			["petTag"] = "Q1403FS",
+			["petID"] = "BattlePet-0-00000FE91E75",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [30]
+		{
+			["petTag"] = "Q140365",
+			["petID"] = "BattlePet-0-00000FDF51E7",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [31]
+		{
+			["petTag"] = "Q140365",
+			["petID"] = "BattlePet-0-00000FE7A357",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [32]
+		{
+			["petTag"] = "QB40383",
+			["petID"] = "BattlePet-0-00000FD8EA8E",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [33]
+		{
+			["petTag"] = "Q140383",
+			["petID"] = "BattlePet-0-00000FD5AB9A",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [34]
+		{
+			["petTag"] = "Q140384",
+			["petID"] = "BattlePet-0-00000FD5AB97",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [35]
+		{
+			["petTag"] = "Q140385",
+			["petID"] = "BattlePet-0-00000FD5AB85",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [36]
+		{
+			["petTag"] = "Q14035O",
+			["petID"] = "BattlePet-0-00000FD46E3E",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [37]
+		{
+			["petTag"] = "Q14036R",
+			["petID"] = "BattlePet-0-00000FD3F226",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [38]
+		{
+			["petTag"] = "Q14037A",
+			["petID"] = "BattlePet-0-00000FD0FF22",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [39]
+		{
+			["petTag"] = "Q140376",
+			["petID"] = "BattlePet-0-00000FC7BCC3",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [40]
+		{
+			["petTag"] = "Q140395",
+			["petID"] = "BattlePet-0-00000FC6B6E0",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [41]
+		{
+			["petTag"] = "Q14039L",
+			["petID"] = "BattlePet-0-00000FC48309",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [42]
+		{
+			["petTag"] = "Q140360",
+			["petID"] = "BattlePet-0-00000FC35A06",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [43]
+		{
+			["petTag"] = "Q140365",
+			["petID"] = "BattlePet-0-00000FC35A05",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [44]
+		{
+			["petTag"] = "Q14039I",
+			["petID"] = "BattlePet-0-00000FC3544B",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [45]
+		{
+			["petTag"] = "Q14037T",
+			["petID"] = "BattlePet-0-00000FBE8513",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [46]
+		{
+			["petTag"] = "Q14038M",
+			["petID"] = "BattlePet-0-00000FBD6F80",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [47]
+		{
+			["petTag"] = "QI402KJ",
+			["petID"] = "BattlePet-0-00000C013795",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [48]
+		{
+			["petTag"] = "Q14037F",
+			["petID"] = "BattlePet-0-00000FB6E9EB",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [49]
+		{
+			["petTag"] = "Q14036K",
+			["petID"] = "BattlePet-0-00000FB6E9CD",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [50]
+		{
+			["petTag"] = "QG4036E",
+			["petID"] = "BattlePet-0-00000FACA520",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [51]
+		{
+			["petTag"] = "Q1403AP",
+			["petID"] = "BattlePet-0-00000FACA51D",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [52]
+		{
+			["petTag"] = "Q14037K",
+			["petID"] = "BattlePet-0-00000FABE13A",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [53]
+		{
+			["petTag"] = "QN402AI",
+			["petID"] = "BattlePet-0-00000BF5D057",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [54]
+		{
+			["petTag"] = "Q14030Q",
+			["petID"] = "BattlePet-0-00000F9BBB1D",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [55]
+		{
+			["petTag"] = "Q1402SD",
+			["petID"] = "BattlePet-0-00000FA16EDE",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [56]
+		{
+			["petTag"] = "Q1402R3",
+			["petID"] = "BattlePet-0-00000FA79F64",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [57]
+		{
+			["petTag"] = "QN401LG",
+			["petID"] = "BattlePet-0-00000BF5CF83",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [58]
+		{
+			["petTag"] = "Q1402RD",
+			["petID"] = "BattlePet-0-00000CF7D33C",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [59]
+		{
+			["petTag"] = "Q1402RM",
+			["petID"] = "BattlePet-0-00000F6B3533",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [60]
+		{
+			["petTag"] = "QN402A7",
+			["petID"] = "BattlePet-0-00000BF5D063",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [61]
+		{
+			["petTag"] = "QN4022M",
+			["petID"] = "BattlePet-0-00000BF5D032",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [62]
+		{
+			["petTag"] = "Q1402R9",
+			["petID"] = "BattlePet-0-00000D4F6707",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [63]
+		{
+			["petTag"] = "Q1402UB",
+			["petID"] = "BattlePet-0-00000FA79F63",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [64]
+		{
+			["petTag"] = "QN40370",
+			["petID"] = "BattlePet-0-00000FAA240A",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [65]
+		{
+			["petTag"] = "QN40396",
+			["petID"] = "BattlePet-0-00000FA9F6EB",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [66]
+		{
+			["petTag"] = "QN40397",
+			["petID"] = "BattlePet-0-00000FA96975",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [67]
+		{
+			["petTag"] = "QN40369",
+			["petID"] = "BattlePet-0-00000FA96792",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [68]
+		{
+			["petTag"] = "QO40368",
+			["petID"] = "BattlePet-0-00000FA96693",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [69]
+		{
+			["petTag"] = "Q140339",
+			["petID"] = "BattlePet-0-00000FA9480B",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [70]
+		{
+			["petTag"] = "Q140337",
+			["petID"] = "BattlePet-0-00000FA9480C",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [71]
+		{
+			["petTag"] = "Q1402SL",
+			["petID"] = "BattlePet-0-00000F4F50B4",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [72]
+		{
+			["petTag"] = "Q140334",
+			["petID"] = "BattlePet-0-00000FA8CE36",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [73]
+		{
+			["petTag"] = "QN4031U",
+			["petID"] = "BattlePet-0-00000FA8B157",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [74]
+		{
+			["petTag"] = "Q1402U3",
+			["petID"] = "BattlePet-0-00000FA88ED0",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [75]
+		{
+			["petTag"] = "Q14034U",
+			["petID"] = "BattlePet-0-00000FA81D38",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [76]
+		{
+			["petTag"] = "Q140333",
+			["petID"] = "BattlePet-0-00000FA81C00",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [77]
+		{
+			["petTag"] = "Q14033L",
+			["petID"] = "BattlePet-0-00000FA81BF4",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [78]
+		{
+			["petTag"] = "Q14034K",
+			["petID"] = "BattlePet-0-00000FA81BD4",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [79]
+		{
+			["petTag"] = "Q14033T",
+			["petID"] = "BattlePet-0-00000FA81BCC",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [80]
+		{
+			["petTag"] = "QN4031F",
+			["petID"] = "BattlePet-0-00000FA80D06",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [81]
+		{
+			["petTag"] = "QN4031M",
+			["petID"] = "BattlePet-0-00000FA7E33C",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [82]
+		{
+			["petTag"] = "Q140398",
+			["petID"] = "BattlePet-0-00000FC482F9",
+			["added"] = 20231108210830,
+			["preferred"] = true,
+		}, -- [83]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q140459",
+			["added"] = 20231116172456,
+			["petID"] = "BattlePet-0-00001019D58D",
+		}, -- [84]
+		{
+			["petID"] = "BattlePet-0-0000101BFC29",
+			["petTag"] = "Q1403DO",
+			["added"] = 20231120032809,
+			["preferred"] = true,
+		}, -- [85]
+		{
+			["petID"] = "BattlePet-0-0000101C5641",
+			["petTag"] = "Q140467",
+			["added"] = 20231121015421,
+			["preferred"] = true,
+		}, -- [86]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q140469",
+			["added"] = 20231123035457,
+			["petID"] = "BattlePet-0-0000101D36BB",
+		}, -- [87]
+		{
+			["petTag"] = "Q14031H",
+			["preferred"] = true,
+			["added"] = 20231204191237,
+			["petID"] = "BattlePet-0-00000F1E0BDA",
+		}, -- [88]
+		{
+			["petTag"] = "Q140373",
+			["preferred"] = true,
+			["added"] = 20231209140113,
+			["petID"] = "BattlePet-0-00001023160F",
+		}, -- [89]
+		{
+			["petTag"] = "Q1403F0",
+			["petID"] = "BattlePet-0-00001016029B",
+			["added"] = 20231210030924,
+			["preferred"] = true,
+		}, -- [90]
+		{
+			["petTag"] = "Q140464",
+			["petID"] = "BattlePet-0-00001024847F",
+			["added"] = 20231214035204,
+			["preferred"] = true,
+		}, -- [91]
+		{
+			["petTag"] = "Q140468",
+			["preferred"] = true,
+			["added"] = 20231215023155,
+			["petID"] = "BattlePet-0-00001024C7E6",
+		}, -- [92]
+		{
+			["petTag"] = "Q140462",
+			["preferred"] = true,
+			["added"] = 20231215052004,
+			["petID"] = "BattlePet-0-00001024CB21",
+		}, -- [93]
+		{
+			["petTag"] = "Q14046A",
+			["preferred"] = true,
+			["added"] = 20231220203658,
+			["petID"] = "BattlePet-0-000010268CD9",
+		}, -- [94]
+		{
+			["petTag"] = "Q1403EP",
+			["petID"] = "BattlePet-0-000010282172",
+			["added"] = 20231225150200,
+			["preferred"] = true,
+		}, -- [95]
+		{
+			["petTag"] = "Q14037D",
+			["petID"] = "BattlePet-0-000010299D2F",
+			["added"] = 20231228215154,
+			["preferred"] = true,
+		}, -- [96]
+		{
+			["petTag"] = "Q1403E3",
+			["petID"] = "BattlePet-0-000010299D3A",
+			["added"] = 20231228215212,
+			["preferred"] = true,
+		}, -- [97]
+		{
+			["petTag"] = "Q1403DS",
+			["petID"] = "BattlePet-0-000010299D3E",
+			["added"] = 20231228215219,
+			["preferred"] = true,
+		}, -- [98]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000010385AEE",
+			["added"] = 20240215162626,
+			["petTag"] = "Q1403EH",
+		}, -- [99]
+		{
+			["petID"] = "BattlePet-0-00001038A0AB",
+			["preferred"] = true,
+			["added"] = 20240216184643,
+			["petTag"] = "Q1403ET",
+		}, -- [100]
+		{
+			["petID"] = "BattlePet-0-0000103B53F6",
+			["preferred"] = true,
+			["added"] = 20240227024354,
+			["petTag"] = "Q1403GC",
+		}, -- [101]
+		{
+			["petID"] = "BattlePet-0-00001040ED1E",
+			["preferred"] = true,
+			["added"] = 20240320010834,
+			["petTag"] = "Q14049M",
+		}, -- [102]
+		{
+			["petID"] = "BattlePet-0-00001042B78E",
+			["preferred"] = true,
+			["added"] = 20240325233704,
+			["petTag"] = "Q1404AL",
+		}, -- [103]
+		{
+			["petID"] = "BattlePet-0-0000104475A0",
+			["preferred"] = true,
+			["added"] = 20240331174845,
+			["petTag"] = "Q1403B3",
+		}, -- [104]
+	},
+	["UseTypeBar"] = true,
+	["PetCardForLinks"] = false,
+	["Anchor"] = "BOTTOMRIGHT",
+	["PetCardInBattle"] = false,
+	["LoadHealthiest"] = false,
+	["HideTruncatedTooltips"] = false,
+	["PetMarkerNames"] = {
+	},
+	["CompactQueueList"] = false,
+	["StickyNewPets"] = false,
+	["KeepNotesOnScreen"] = false,
+	["QueueAutoLearn"] = false,
+	["PanelTabAnchor"] = "BOTTOMRIGHT",
+	["ResetExceptSearch"] = false,
+	["PetCardAlwaysShowHPXPText"] = false,
+	["PreferencesPaused"] = false,
+	["PetCardShowExpansionStat"] = false,
+	["LockPosition"] = false,
+	["CompactTeamList"] = false,
+	["NotesFont"] = "GameFontHighlight",
+	["CustomScaleValue"] = 100,
+	["InteractOnTarget"] = 0,
+	["QueueActiveSort"] = false,
+	["MaximizedLayout"] = "3-teams",
+	["LockWindow"] = false,
+	["NeverTeamTabs"] = false,
+	["PetNotes"] = {
+		[2700] = "Snail",
+		[2698] = "Snail",
+		[2653] = "Snail",
+		[3578] = "Snail",
+		[743] = "Snail",
+		[568] = "Snail",
+		[289] = "Snail",
+		[496] = "Snail",
+	},
+	["ShowAbilityID"] = false,
+	["ResetFilters"] = false,
+	["TypeBarTab"] = 1,
+	["CompactTargetList"] = false,
+	["ExpandedGroups"] = {
+	},
+	["ShowLoadedTeamPreferences"] = false,
+	["ResetSortWithFilters"] = false,
+	["BackupCount"] = 141,
+	["HideToolbarTooltips"] = false,
+	["DisplayUniqueTotal"] = false,
+	["SafariHatShine"] = false,
+	["TooltipBehavior"] = "Normal",
+	["HideOptionTooltips"] = false,
+	["MousewheelSpeed"] = "Normal",
+	["HideNonBattlePets"] = false,
+	["HideTeamBadges"] = false,
+	["HideNotesButtonInBattle"] = false,
+	["PetCardAlwaysShowHPBar"] = false,
+	["NotesLeft"] = false,
+	["LastOpenJournal"] = true,
+	["ShowNewGroupTab"] = true,
+	["QueueRandomWhenEmpty"] = false,
+	["PetCardFlipKey"] = "Alt",
+	["MinimapButtonPosition"] = -162,
+	["RandomPetRules"] = 2,
+	["HideLevelingBadges"] = false,
+	["SpecialSlots"] = {
+	},
+	["ScriptFilters"] = {
+		{
+			"Не переименованные", -- [1]
+			"-- Собранные питомцы, у которых все еще есть свое первоначальное имя. \n\nreturn owned and not customName", -- [2]
+		}, -- [1]
+		{
+			"В очереди для прокачивания", -- [1]
+			"-- Питомцы которые всё ещё могут получать опыт в бою питомцев.\n\nreturn xp and xp>0", -- [2]
+		}, -- [2]
+		{
+			"Уникальные способности", -- [1]
+			"-- Питомцы со способностями которых нет у других питомцев.\n\nif not count then\n  -- create count of each ability per species\n  count = {}\n  for speciesID in AllSpeciesIDs() do\n    for abilityID in AllAbilities(speciesID) do\n      if not count[abilityID] then\n        count[abilityID] = 0\n      end\n      count[abilityID] = count[abilityID] + 1\n    end\n  end\nend\n\nfor _,abilityID in ipairs(abilityList) do\n  if count[abilityID]==1 then\n    return true\n  end\nend", -- [2]
+		}, -- [3]
+		{
+			"Питомцы не редкого качества", -- [1]
+			"-- Собранные боевые питомцы у которых нету версии редкого качества.\n\nif not rares then\n  rares = {}\n  for petID in AllPetIDs() do\n    if select(5,C_PetJournal.GetPetStats(petID))==4 then\n      rares[C_PetJournal.GetPetInfoByPetID(petID)]=true\n    end\n  end\nend\n\nif canBattle and owned and not rares[speciesID] then\n  return true\nend", -- [2]
+		}, -- [4]
+		{
+			"Гибридные способности", -- [1]
+			"-- Питомцы имеющие несколько видов атак, наносящих урон разным семействам питомцев.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n", -- [2]
+		}, -- [5]
+	},
+	["QueueSortOrder"] = 1,
+	["CardBehavior"] = "Normal",
+	["BoringLoreFont"] = false,
+	["NoSummonOnDblClick"] = false,
+	["InteractOnMouseover"] = 0,
+	["PetCardCanPin"] = false,
+	["BreedFormat"] = 1,
+	["CombineGroupKey"] = "None",
+	["InteractOnSoftInteract"] = 0,
+	["AlwaysUsePetSatchel"] = false,
+	["HideMarkerBadges"] = false,
+	["AlwaysTeamTabs"] = false,
+	["HideTooltips"] = false,
+	["ShowNewGroupTabFix"] = true,
+	["Filters"] = {
+		["Other"] = {
+		},
+		["Stats"] = {
+		},
+		["Strong"] = {
+		},
+		["Marker"] = {
+		},
+		["Sources"] = {
+		},
+		["Sort"] = {
+		},
+		["Level"] = {
+		},
+		["Tough"] = {
+		},
+		["Types"] = {
+		},
+		["Expansion"] = {
+		},
+		["Rarity"] = {
+		},
+		["RawSearchText"] = "\"Посидрис\"",
+		["Similar"] = {
+		},
+		["Search"] = {
+			["Pattern"] = "^посидрис$",
+			["Length"] = 18,
+		},
+		["Breed"] = {
+		},
+		["Script"] = {
+		},
+		["Collected"] = {
+		},
+		["Favorite"] = {
+		},
+		["Moveset"] = {
+		},
+	},
+	["SortByNickname"] = false,
+	["KeepCompanion"] = false,
+	["HideMenuHelp"] = false,
+	["WasShownOnLogout"] = false,
+	["HideRarityBorders"] = false,
+	["HideLevelBubbles"] = false,
+	["QueueSkipDead"] = false,
+	["LockNotesPosition"] = false,
+	["PetMarkers"] = {
+	},
+	["HidePreferenceBadges"] = false,
+	["HideNotesBadges"] = false,
+	["NoBackupReminder"] = false,
+	["FavoriteFilters"] = {
+	},
+	["ShowAbilityNumbers"] = false,
+	["ReverseToolbar"] = false,
+	["ConvertedTeams"] = {
+		[91017] = "team:1",
+		[71924] = "team:2",
+		[173267] = "team:3",
+		[85519] = "team:4",
+		[72291] = "team:5",
+		[73503] = "team:6",
+		[99035] = "team:7",
+		[142096] = "team:8",
+		[66730] = "team:9",
+		[154910] = "team:10",
+		[141969] = "team:11",
+		[197336] = "team:12",
+		[71926] = "team:13",
+		[94637] = "team:14",
+		[154911] = "team:15",
+		[173303] = "team:16",
+		[162466] = "team:17",
+		[141588] = "team:18",
+		[154912] = "team:19",
+		[128011] = "team:20",
+		[71927] = "team:21",
+		[105093] = "team:22",
+		[154913] = "team:23",
+		[79179] = "team:24",
+		[162468] = "team:25",
+		[140315] = "team:26",
+		[124617] = "team:27",
+		[154914] = "team:28",
+		[85634] = "team:29",
+		[85650] = "team:30",
+		[128012] = "team:31",
+		[141814] = "team:32",
+		[94639] = "team:33",
+		[67370] = "team:34",
+		[154915] = "team:35",
+		[162470] = "team:36",
+		[141879] = "team:37",
+		[154916] = "team:38",
+		[173372] = "team:39",
+		[141529] = "team:40",
+		[162471] = "team:41",
+		[154917] = "team:42",
+		[72009] = "team:43",
+		[154918] = "team:44",
+		[141945] = "team:45",
+		[196069] = "team:46",
+		["Камнедробитель"] = "team:133",
+		[71930] = "team:47",
+		[154919] = "team:48",
+		[189376] = "team:49",
+		[154920] = "team:50",
+		["OpenWorld"] = "team:134",
+		[142234] = "team:51",
+		[173376] = "team:52",
+		[71931] = "team:53",
+		[99742] = "team:54",
+		[154921] = "team:55",
+		[141215] = "team:56",
+		[173377] = "team:57",
+		[104970] = "team:58",
+		[154922] = "team:59",
+		[196264] = "team:60",
+		[71932] = "team:61",
+		[94643] = "team:62",
+		[154923] = "team:63",
+		[173315] = "team:64",
+		["Протектотрон"] = "team:135",
+		[154924] = "team:65",
+		[197350] = "team:66",
+		[71933] = "team:67",
+		[154925] = "team:68",
+		[173381] = "team:69",
+		[87122] = "team:70",
+		[154926] = "team:71",
+		[71934] = "team:72",
+		["Поимка"] = "team:136",
+		[154927] = "team:73",
+		[105674] = "team:74",
+		[72285] = "team:75",
+		[197417] = "team:76",
+		[87123] = "team:77",
+		[154928] = "team:78",
+		[173129] = "team:79",
+		[173257] = "team:80",
+		[154929] = "team:81",
+		[173130] = "team:82",
+		[87124] = "team:83",
+		[106552] = "team:84",
+		[141479] = "team:85",
+		[173131] = "team:86",
+		[94647] = "team:87",
+		[141002] = "team:88",
+		[142054] = "team:89",
+		["Слякотун"] = "team:137",
+		[173324] = "team:90",
+		[140461] = "team:91",
+		[173133] = "team:92",
+		[94648] = "team:93",
+		[142151] = "team:94",
+		[79751] = "team:95",
+		[71929] = "team:98",
+		[68463] = "team:97",
+		[66550] = "team:100",
+		[87110] = "team:99",
+		[105512] = "team:101",
+		["Элинор"] = "team:138",
+		[105779] = "team:103",
+		[85624] = "team:128",
+		[91015] = "team:102",
+		[142114] = "team:105",
+		[141292] = "team:104",
+		[105842] = "team:127",
+		[94649] = "team:106",
+		[173263] = "team:107",
+		[162469] = "team:113",
+		[117934] = "team:109",
+		[66918] = "team:110",
+		[68464] = "team:111",
+		[117950] = "team:112",
+		["Чи-Чи"] = "team:140",
+		[66557] = "team:124",
+		[99182] = "team:119",
+		[141077] = "team:118",
+		[162458] = "team:122",
+		["Громли"] = "team:141",
+		[139987] = "team:117",
+		[162461] = "team:120",
+		[91016] = "team:116",
+		[197447] = "team:123",
+		[140880] = "team:121",
+		[141046] = "team:108",
+		[105841] = "team:114",
+		[173331] = "team:96",
+		[72290] = "team:125",
+		[117951] = "team:126",
+		[140813] = "team:129",
+		[173274] = "team:130",
+		[162465] = "team:131",
+		[141799] = "team:132",
+		["Душитель"] = "team:139",
+		[139489] = "team:115",
+	},
+}
+Rematch5SavedTeams = {
+	["team:134"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CE97", -- [2]
+			"BattlePet-0-00000BF5CF12", -- [3]
+		},
+		["name"] = "OpenWorld",
+		["tags"] = {
+			"1110198", -- [1]
+			"1110143", -- [2]
+			"11101T7", -- [3]
+		},
+		["teamID"] = "team:134",
+		["groupID"] = "group:none",
+	},
+	["team:32"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC4F", -- [1]
+			"BattlePet-0-00000BF5CEA3", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Корвал Угольная Борода",
+		["tags"] = {
+			"2220140", -- [1]
+			"22201C8", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:32",
+		["targets"] = {
+			141814, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:110"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			"BattlePet-0-00000BF5CC49", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Искатель Зусши",
+		["tags"] = {
+			"1110143", -- [1]
+			"2120MS", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:110",
+		["targets"] = {
+			66918, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:46"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CE96", -- [2]
+			"BattlePet-0-00000BF5CEA8", -- [3]
+		},
+		["name"] = "Патчу",
+		["tags"] = {
+			"121016M", -- [1]
+			"12205F", -- [2]
+			"11101FS", -- [3]
+		},
+		["teamID"] = "team:46",
+		["targets"] = {
+			196069, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:139"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Душитель",
+		["tags"] = {
+			"12201C8", -- [1]
+			"1110198", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:139",
+		["groupID"] = "group:1",
+	},
+	["team:129"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD28", -- [1]
+			"BattlePet-0-00000BF5D000", -- [2]
+			"BattlePet-0-00000BF5CEDC", -- [3]
+		},
+		["name"] = "Шипчи Искросвист",
+		["tags"] = {
+			"122055", -- [1]
+			"11201H0", -- [2]
+			"12101SE", -- [3]
+		},
+		["teamID"] = "team:129",
+		["targets"] = {
+			140813, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:127"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CEA3", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Хромадон",
+		["tags"] = {
+			"22108L", -- [1]
+			"21001C8", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:127",
+		["targets"] = {
+			105842, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:29"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CFD4", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			2071, -- [3]
+		},
+		["name"] = "Столб вызова",
+		["tags"] = {
+			"111020N", -- [1]
+			"122014F", -- [2]
+			"111020N", -- [3]
+		},
+		["teamID"] = "team:29",
+		["targets"] = {
+			85634, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:64"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEDC", -- [1]
+			"BattlePet-0-00000BF5CE87", -- [2]
+			"BattlePet-0-00000BF5CCD9", -- [3]
+		},
+		["name"] = "Силла",
+		["tags"] = {
+			"11101SE", -- [1]
+			"222014D", -- [2]
+			"111014E", -- [3]
+		},
+		["teamID"] = "team:64",
+		["targets"] = {
+			173315, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:16"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA1", -- [1]
+			"BattlePet-0-00000BF5CD28", -- [2]
+			"BattlePet-0-00000BF5CD29", -- [3]
+		},
+		["name"] = "Ожог",
+		["tags"] = {
+			"1210NG", -- [1]
+			"122055", -- [2]
+			"122021", -- [3]
+		},
+		["teamID"] = "team:16",
+		["targets"] = {
+			173303, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:84"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CD2C", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Ночная стражница Мерейл",
+		["tags"] = {
+			"1220QC", -- [1]
+			"1210EV", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:84",
+		["targets"] = {
+			106552, -- [1]
+		},
+		["groupID"] = "group:6",
+	},
+	["team:70"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CFA3", -- [3]
+		},
+		["name"] = "Гаргра",
+		["tags"] = {
+			"21108L", -- [1]
+			"1220QC", -- [2]
+			"11101FH", -- [3]
+		},
+		["teamID"] = "team:70",
+		["targets"] = {
+			87122, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:90"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000BF5CDF2", -- [3]
+		},
+		["name"] = "Глазгор",
+		["tags"] = {
+			"2110198", -- [1]
+			"11101BB", -- [2]
+			"2110GQ", -- [3]
+		},
+		["teamID"] = "team:90",
+		["targets"] = {
+			173324, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:36"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5D122", -- [3]
+		},
+		["name"] = "Каменный защитник клана Барук",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"122016M", -- [3]
+		},
+		["teamID"] = "team:36",
+		["targets"] = {
+			162470, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:89"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			"BattlePet-0-00000BF5CF03", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Куса",
+		["tags"] = {
+			"12201C8", -- [1]
+			"12101JS", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:89",
+		["targets"] = {
+			142054, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:26"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D01F", -- [1]
+			"BattlePet-0-00000BF5CE96", -- [2]
+			"BattlePet-0-00000BF5CF12", -- [3]
+		},
+		["name"] = "Эдди Починикс",
+		["tags"] = {
+			"111040", -- [1]
+			"12205F", -- [2]
+			"11101T7", -- [3]
+		},
+		["teamID"] = "team:26",
+		["targets"] = {
+			140315, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:14"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CD41", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Оскверненный громохвост",
+		["tags"] = {
+			"121016M", -- [1]
+			"121013Q", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:14",
+		["targets"] = {
+			94637, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:51"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			"BattlePet-0-00000BF5CC4F", -- [2]
+			"BattlePet-0-00000BF5D011", -- [3]
+		},
+		["name"] = "Зуджай",
+		["tags"] = {
+			"11101BB", -- [1]
+			"2120140", -- [2]
+			"11101LH", -- [3]
+		},
+		["teamID"] = "team:51",
+		["targets"] = {
+			142234, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:113"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5D129", -- [2]
+			"BattlePet-0-00000BF5CEA8", -- [3]
+		},
+		["name"] = "Мучиний",
+		["tags"] = {
+			"1220QC", -- [1]
+			"11101FS", -- [2]
+			"11101FS", -- [3]
+		},
+		["teamID"] = "team:113",
+		["targets"] = {
+			162469, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:77"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC4F", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Вешарр",
+		["tags"] = {
+			"2220140", -- [1]
+			"1220QC", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:77",
+		["targets"] = {
+			87123, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:9"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5D", -- [1]
+			"BattlePet-0-00000BF5CDAA", -- [2]
+			"BattlePet-0-00000C697AD4", -- [3]
+		},
+		["name"] = "Хюна Хранительница Святилищ",
+		["tags"] = {
+			"222014F", -- [1]
+			"1220AJ", -- [2]
+			"11102P4", -- [3]
+		},
+		["teamID"] = "team:9",
+		["targets"] = {
+			66730, -- [1]
+		},
+		["groupID"] = "group:3",
+	},
+	["team:19"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CE15", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Тишина",
+		["tags"] = {
+			"122016M", -- [1]
+			"2210HD", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:19",
+		["targets"] = {
+			154912, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:114"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5D001", -- [2]
+			"BattlePet-0-00000BF5CFA7", -- [3]
+		},
+		["name"] = "Иллиданчик",
+		["tags"] = {
+			"222016M", -- [1]
+			"22201D2", -- [2]
+			"11201IT", -- [3]
+		},
+		["teamID"] = "team:114",
+		["targets"] = {
+			105841, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:97"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			"BattlePet-0-00000BF5CFE2", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Пылающий пандаренский дух",
+		["tags"] = {
+			"1110143", -- [1]
+			"12101TH", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:97",
+		["targets"] = {
+			68463, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:133"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD79", -- [1]
+			"BattlePet-0-00000BF5CCFF", -- [2]
+			"BattlePet-0-00000BF5CE1C", -- [3]
+		},
+		["name"] = "Камнедробитель",
+		["tags"] = {
+			"1120Q4", -- [1]
+			"222016M", -- [2]
+			"2210N7", -- [3]
+		},
+		["teamID"] = "team:133",
+		["groupID"] = "group:1",
+	},
+	["team:62"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE4C", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000C75B25F", -- [3]
+		},
+		["name"] = "Топоквак",
+		["tags"] = {
+			"11201K", -- [1]
+			"222014F", -- [2]
+			"111015K", -- [3]
+		},
+		["teamID"] = "team:62",
+		["targets"] = {
+			94643, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:23"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CD3B", -- [3]
+		},
+		["name"] = "Темношипый скрытень",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"2120NC", -- [3]
+		},
+		["teamID"] = "team:23",
+		["targets"] = {
+			154913, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:103"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CFBA", -- [1]
+			"BattlePet-0-00000BF5CE97", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Провидец из армии Оскверненной Души",
+		["tags"] = {
+			"12101TN", -- [1]
+			"1110143", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:103",
+		["targets"] = {
+			105779, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:124"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CE97", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Рыцарь крови Антари",
+		["tags"] = {
+			"1220QC", -- [1]
+			"1110143", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:124",
+		["targets"] = {
+			66557, -- [1]
+		},
+		["groupID"] = "group:3",
+	},
+	["team:80"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000BF5CE87", -- [3]
+		},
+		["name"] = "Воспитатель Максимиллиан",
+		["tags"] = {
+			"1110143", -- [1]
+			"11101BB", -- [2]
+			"222014D", -- [3]
+		},
+		["teamID"] = "team:80",
+		["targets"] = {
+			173257, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:7"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000BF5D15C", -- [3]
+		},
+		["name"] = "Дуриан Крепкофрукт",
+		["tags"] = {
+			"1110143", -- [1]
+			"222014F", -- [2]
+			"11102G3", -- [3]
+		},
+		["teamID"] = "team:7",
+		["targets"] = {
+			99035, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:10"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CD41", -- [2]
+			"BattlePet-0-00000BF5D122", -- [3]
+		},
+		["name"] = "Принц Хвостоверт",
+		["tags"] = {
+			"122016M", -- [1]
+			"111013Q", -- [2]
+			"122016M", -- [3]
+		},
+		["teamID"] = "team:10",
+		["targets"] = {
+			154910, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:39"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000BF5CE87", -- [3]
+		},
+		["name"] = "Искрокрыл",
+		["tags"] = {
+			"11201C8", -- [1]
+			"11101BB", -- [2]
+			"222014D", -- [3]
+		},
+		["teamID"] = "team:39",
+		["targets"] = {
+			173372, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:5"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD6E", -- [1]
+			296, -- [2]
+			"BattlePet-0-00000BF5CFCE", -- [3]
+		},
+		["name"] = "Ю'ла, дитя Юй-лун",
+		["tags"] = {
+			"111013P", -- [1]
+			"122098", -- [2]
+			"12201LT", -- [3]
+		},
+		["teamID"] = "team:5",
+		["targets"] = {
+			72291, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:17"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CDD5", -- [3]
+		},
+		["name"] = "Блотто",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"21108L", -- [3]
+		},
+		["teamID"] = "team:17",
+		["targets"] = {
+			162466, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:58"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE74", -- [1]
+			"BattlePet-0-00000BF5CCFF", -- [2]
+			"BattlePet-0-00000BF5CDA6", -- [3]
+		},
+		["name"] = "Зорваск",
+		["tags"] = {
+			"211091", -- [1]
+			"122016M", -- [2]
+			"1220QC", -- [3]
+		},
+		["teamID"] = "team:58",
+		["targets"] = {
+			104970, -- [1]
+		},
+		["groupID"] = "group:6",
+	},
+	["team:1"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCD6", -- [1]
+			"BattlePet-0-00000BF5CEA3", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Эррис Собирательница",
+		["tags"] = {
+			"1220GH", -- [1]
+			"11001C8", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:1",
+		["targets"] = {
+			91017, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:53"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCD7", -- [1]
+			"BattlePet-0-00000BF5CD20", -- [2]
+			"BattlePet-0-00000BF5CEC3", -- [3]
+		},
+		["name"] = "Тажань Чжу",
+		["tags"] = {
+			"122019C", -- [1]
+			"122019C", -- [2]
+			"11201CI", -- [3]
+		},
+		["teamID"] = "team:53",
+		["targets"] = {
+			71931, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:57"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D0EF", -- [1]
+			"BattlePet-0-00000BF5CC4F", -- [2]
+			"BattlePet-0-00000BF5D116", -- [3]
+		},
+		["name"] = "Фарил",
+		["tags"] = {
+			"12201LQ", -- [1]
+			"2120140", -- [2]
+			"2120140", -- [3]
+		},
+		["teamID"] = "team:57",
+		["targets"] = {
+			173377, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:73"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CDD5", -- [3]
+		},
+		["name"] = "Изделие №35",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"21108L", -- [3]
+		},
+		["teamID"] = "team:73",
+		["targets"] = {
+			154927, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:43"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEEE", -- [1]
+			"BattlePet-0-00000BF5CDD5", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Сюй-Фу, детеныш Сюэня",
+		["tags"] = {
+			"11103K", -- [1]
+			"12108L", -- [2]
+			"2110198", -- [3]
+		},
+		["teamID"] = "team:43",
+		["targets"] = {
+			72009, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:96"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CE11", -- [2]
+			"BattlePet-0-00000BF5CDAA", -- [3]
+		},
+		["name"] = "Аддий Истязатель",
+		["tags"] = {
+			"2210198", -- [1]
+			"1120AI", -- [2]
+			"1210AJ", -- [3]
+		},
+		["teamID"] = "team:96",
+		["targets"] = {
+			173331, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:116"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD28", -- [1]
+			"BattlePet-0-00000BF5CD3B", -- [2]
+			"BattlePet-0-00000BF5D025", -- [3]
+		},
+		["name"] = "Эррис Собирательница (3)",
+		["tags"] = {
+			"121055", -- [1]
+			"2120NC", -- [2]
+			"11101OD", -- [3]
+		},
+		["teamID"] = "team:116",
+		["targets"] = {
+			91016, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:118"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			"BattlePet-0-00000BF5CEEE", -- [2]
+			"BattlePet-0-00000BF5CC85", -- [3]
+		},
+		["name"] = "Квинт",
+		["tags"] = {
+			"11101BB", -- [1]
+			"11203K", -- [2]
+			"2110198", -- [3]
+		},
+		["teamID"] = "team:118",
+		["targets"] = {
+			141077, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:125"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD94", -- [1]
+			"BattlePet-0-00000BF5CDDB", -- [2]
+			"BattlePet-0-00000BF5CCBF", -- [3]
+		},
+		["name"] = "Зао, теленок Нюцзао",
+		["tags"] = {
+			"1120P2", -- [1]
+			"222014S", -- [2]
+			"211019A", -- [3]
+		},
+		["teamID"] = "team:125",
+		["targets"] = {
+			72290, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:126"] = {
+		["pets"] = {
+			0, -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CE1C", -- [3]
+		},
+		["name"] = "Безымянный мистик",
+		["tags"] = {
+			"ZL", -- [1]
+			"1220QC", -- [2]
+			"2110N7", -- [3]
+		},
+		["teamID"] = "team:126",
+		["targets"] = {
+			117951, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:128"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF0A", -- [1]
+			"BattlePet-0-00000BF5CDA5", -- [2]
+			"BattlePet-0-00000BF5CC40", -- [3]
+		},
+		["name"] = "Королева Флорет",
+		["tags"] = {
+			"2220142", -- [1]
+			"1220R4", -- [2]
+			"221015G", -- [3]
+		},
+		["teamID"] = "team:128",
+		["targets"] = {
+			85624, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:35"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Древнее порождение Налаады",
+		["tags"] = {
+			"121016M", -- [1]
+			"11101FS", -- [2]
+			"2210198", -- [3]
+		},
+		["teamID"] = "team:35",
+		["targets"] = {
+			154915, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:82"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE96", -- [1]
+			"BattlePet-0-00000BF5D01F", -- [2]
+			"BattlePet-0-00000BF5CF6F", -- [3]
+		},
+		["name"] = "Золла",
+		["tags"] = {
+			"12205F", -- [1]
+			"111040", -- [2]
+			"11101T7", -- [3]
+		},
+		["teamID"] = "team:82",
+		["targets"] = {
+			173130, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:112"] = {
+		["pets"] = {
+			0, -- [1]
+			"BattlePet-0-00000BF5CCFF", -- [2]
+			"BattlePet-0-00000BF5CDA6", -- [3]
+		},
+		["name"] = "Мадам Вишиоза",
+		["tags"] = {
+			"ZL", -- [1]
+			"121016M", -- [2]
+			"1220QC", -- [3]
+		},
+		["teamID"] = "team:112",
+		["targets"] = {
+			117950, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:78"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Изделие №6",
+		["tags"] = {
+			"121016M", -- [1]
+			"11101FS", -- [2]
+			"2210198", -- [3]
+		},
+		["teamID"] = "team:78",
+		["targets"] = {
+			154928, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:122"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CDD5", -- [3]
+		},
+		["name"] = "Ретиний Искатель",
+		["tags"] = {
+			"1220QC", -- [1]
+			"11101FS", -- [2]
+			"21108L", -- [3]
+		},
+		["teamID"] = "team:122",
+		["targets"] = {
+			162458, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:2"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			296, -- [2]
+			"BattlePet-0-00000BF5CEC3", -- [3]
+		},
+		["name"] = "Гневион",
+		["tags"] = {
+			"1110143", -- [1]
+			"122098", -- [2]
+			"11201CI", -- [3]
+		},
+		["teamID"] = "team:2",
+		["targets"] = {
+			71924, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:47"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC3A", -- [1]
+			"BattlePet-0-00000BF5CDC6", -- [2]
+			"BattlePet-0-00000BF5CD9F", -- [3]
+		},
+		["name"] = "Темный мастер Кирин",
+		["tags"] = {
+			"2210MC", -- [1]
+			"2110KA", -- [2]
+			"221014Q", -- [3]
+		},
+		["teamID"] = "team:47",
+		["targets"] = {
+			71930, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:15"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CDAA", -- [3]
+		},
+		["name"] = "Хрум",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"1220AJ", -- [3]
+		},
+		["teamID"] = "team:15",
+		["targets"] = {
+			154911, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:54"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CF22", -- [3]
+		},
+		["name"] = "Гелиосий",
+		["tags"] = {
+			"221016M", -- [1]
+			"11101FS", -- [2]
+			"11101JU", -- [3]
+		},
+		["teamID"] = "team:54",
+		["targets"] = {
+			99742, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:71"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEF5", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CDD5", -- [3]
+		},
+		["name"] = "Микроподавитель ЕУ-9",
+		["tags"] = {
+			"11101TB", -- [1]
+			"11101FS", -- [2]
+			"21108L", -- [3]
+		},
+		["teamID"] = "team:71",
+		["targets"] = {
+			154926, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:13"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5D", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CEC3", -- [3]
+		},
+		["name"] = "Хранитель истории Чо",
+		["tags"] = {
+			"222014F", -- [1]
+			"1220QC", -- [2]
+			"11201CI", -- [3]
+		},
+		["teamID"] = "team:13",
+		["targets"] = {
+			71926, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:6"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE1C", -- [1]
+			"BattlePet-0-00000BF5CD12", -- [2]
+			"BattlePet-0-00000BF5CD6A", -- [3]
+		},
+		["name"] = "Чи-Чи, птенец Чи-Цзи",
+		["tags"] = {
+			"1110N7", -- [1]
+			"1110HO", -- [2]
+			"1110148", -- [3]
+		},
+		["teamID"] = "team:6",
+		["targets"] = {
+			73503, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:34"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CEA1", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Джереми Фитиль",
+		["tags"] = {
+			"21108L", -- [1]
+			"1120AI", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:34",
+		["targets"] = {
+			67370, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:109"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CFBA", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Сиссикс",
+		["tags"] = {
+			"12101TN", -- [1]
+			"11101BB", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:109",
+		["targets"] = {
+			117934, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:101"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD63", -- [1]
+			"BattlePet-0-00000BF5CD2C", -- [2]
+			"BattlePet-0-00000BF5CC3C", -- [3]
+		},
+		["name"] = "Посланница охоты",
+		["tags"] = {
+			"121028", -- [1]
+			"1210EV", -- [2]
+			"211014O", -- [3]
+		},
+		["teamID"] = "team:101",
+		["targets"] = {
+			105512, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:69"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000BF5CC5D", -- [3]
+		},
+		["name"] = "Плут",
+		["tags"] = {
+			"2110198", -- [1]
+			"11101BB", -- [2]
+			"1220A1", -- [3]
+		},
+		["teamID"] = "team:69",
+		["targets"] = {
+			173381, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:56"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
+		["name"] = "Хитара",
+		["tags"] = {
+			"11108L", -- [1]
+			"ZL", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:56",
+		["targets"] = {
+			141215, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:40"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000BF5CE2D", -- [3]
+		},
+		["name"] = "Лозу",
+		["tags"] = {
+			"22201C8", -- [1]
+			"222014F", -- [2]
+			"22201R", -- [3]
+		},
+		["teamID"] = "team:40",
+		["targets"] = {
+			141529, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:85"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD63", -- [1]
+			"BattlePet-0-00000BF5CD2C", -- [2]
+			"BattlePet-0-00000BF5D1A0", -- [3]
+		},
+		["name"] = "Берли ст.",
+		["tags"] = {
+			"121028", -- [1]
+			"1210EV", -- [2]
+			"21202D7", -- [3]
+		},
+		["teamID"] = "team:85",
+		["targets"] = {
+			141479, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:76"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000BF5CE87", -- [3]
+		},
+		["name"] = "Чародеус",
+		["tags"] = {
+			"1220QC", -- [1]
+			"122014F", -- [2]
+			"222014D", -- [3]
+		},
+		["teamID"] = "team:76",
+		["targets"] = {
+			197417, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:31"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE09", -- [1]
+			"BattlePet-0-00000BF5CDDB", -- [2]
+			"BattlePet-0-00000BF5CC9D", -- [3]
+		},
+		["name"] = "Костеглод",
+		["tags"] = {
+			"222015R", -- [1]
+			"222014S", -- [2]
+			"112015T", -- [3]
+		},
+		["teamID"] = "team:31",
+		["targets"] = {
+			128012, -- [1]
+		},
+		["groupID"] = "group:6",
+	},
+	["team:27"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D01F", -- [1]
+			"BattlePet-0-00000BF5CE96", -- [2]
+			"BattlePet-0-00000BF5CF12", -- [3]
+		},
+		["name"] = "Экоцентрик Берт",
+		["tags"] = {
+			"111040", -- [1]
+			"12205F", -- [2]
+			"11101T7", -- [3]
+		},
+		["teamID"] = "team:27",
+		["targets"] = {
+			124617, -- [1]
+		},
+		["groupID"] = "group:5",
+	},
+	["team:68"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CE96", -- [3]
+		},
+		["name"] = "Скрипяк",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"12205F", -- [3]
+		},
+		["teamID"] = "team:68",
+		["targets"] = {
+			154925, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:24"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCD6", -- [1]
+			"BattlePet-0-00000BF5CD00", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Брызгалка",
+		["tags"] = {
+			"1220GH", -- [1]
+			"1210E8", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:24",
+		["targets"] = {
+			79179, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:138"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD6E", -- [1]
+			"BattlePet-0-00000BF5CDDB", -- [2]
+			"BattlePet-0-00000BF5CE9C", -- [3]
+		},
+		["name"] = "Элинор (2)",
+		["tags"] = {
+			"111013P", -- [1]
+			"222014S", -- [2]
+			"1110PK", -- [3]
+		},
+		["teamID"] = "team:138",
+		["groupID"] = "group:1",
+	},
+	["team:79"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC4F", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000BF5CF5A", -- [3]
+		},
+		["name"] = "Тения",
+		["tags"] = {
+			"2120140", -- [1]
+			"222014F", -- [2]
+			"11101BB", -- [3]
+		},
+		["teamID"] = "team:79",
+		["targets"] = {
+			173129, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:83"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Эшли",
+		["tags"] = {
+			"1220QC", -- [1]
+			"1110198", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:83",
+		["targets"] = {
+			87124, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:63"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D01F", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CE96", -- [3]
+		},
+		["name"] = "Трубочих",
+		["tags"] = {
+			"111040", -- [1]
+			"11101FS", -- [2]
+			"12205F", -- [3]
+		},
+		["teamID"] = "team:63",
+		["targets"] = {
+			154923, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:117"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CDAA", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Щетиночес",
+		["tags"] = {
+			"12108L", -- [1]
+			"1220AJ", -- [2]
+			"1110198", -- [3]
+		},
+		["teamID"] = "team:117",
+		["targets"] = {
+			139987, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:8"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CE2D", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Карага",
+		["tags"] = {
+			"1110198", -- [1]
+			"22201R", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:8",
+		["targets"] = {
+			142096, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:123"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD28", -- [1]
+			"BattlePet-0-00000BF5CDBA", -- [2]
+			"BattlePet-0-00000BF5D1A3", -- [3]
+		},
+		["name"] = "Штормаму",
+		["tags"] = {
+			"122055", -- [1]
+			"2120NA", -- [2]
+			"11102G2", -- [3]
+		},
+		["teamID"] = "team:123",
+		["targets"] = {
+			197447, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:105"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			"BattlePet-0-00000BF5CF9F", -- [3]
+		},
+		["name"] = "Талия Искристая Бровь",
+		["tags"] = {
+			"12201C8", -- [1]
+			"1110198", -- [2]
+			"1220228", -- [3]
+		},
+		["teamID"] = "team:105",
+		["targets"] = {
+			142114, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:92"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA8", -- [1]
+			"BattlePet-0-00000C896987", -- [2]
+			"BattlePet-0-00000BF5D129", -- [3]
+		},
+		["name"] = "Костяная Челюсть",
+		["tags"] = {
+			"11101FS", -- [1]
+			"11102NA", -- [2]
+			"11101FS", -- [3]
+		},
+		["teamID"] = "team:92",
+		["targets"] = {
+			173133, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:37"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D0EF", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			"BattlePet-0-00000BF5CE40", -- [3]
+		},
+		["name"] = "Кийо",
+		["tags"] = {
+			"12201LQ", -- [1]
+			"1110198", -- [2]
+			"11107E", -- [3]
+		},
+		["teamID"] = "team:37",
+		["targets"] = {
+			141879, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:75"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE1C", -- [1]
+			"BattlePet-0-00000BF5CFDE", -- [2]
+			"BattlePet-0-00000BF5CD12", -- [3]
+		},
+		["name"] = "Чи-Чи, птенец Чи-Цзи (2)",
+		["tags"] = {
+			"1110N7", -- [1]
+			"11101NG", -- [2]
+			"1110HO", -- [3]
+		},
+		["teamID"] = "team:75",
+		["targets"] = {
+			72285, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:86"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D011", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Стратий",
+		["tags"] = {
+			"11101LH", -- [1]
+			"11101BB", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:86",
+		["targets"] = {
+			173131, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:65"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D122", -- [1]
+			"BattlePet-0-00000BF5CD63", -- [2]
+			"BattlePet-0-00000BF5CE96", -- [3]
+		},
+		["name"] = "Златобот \"хД\"",
+		["tags"] = {
+			"122016M", -- [1]
+			"222028", -- [2]
+			"12205F", -- [3]
+		},
+		["teamID"] = "team:65",
+		["targets"] = {
+			154924, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:106"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CD41", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Скрилликс",
+		["tags"] = {
+			"121016M", -- [1]
+			"121013Q", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:106",
+		["targets"] = {
+			94649, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:41"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Вил'тик-детеныш",
+		["tags"] = {
+			"121016M", -- [1]
+			"11101FS", -- [2]
+			"2210198", -- [3]
+		},
+		["teamID"] = "team:41",
+		["targets"] = {
+			162471, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:95"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE09", -- [1]
+			"BattlePet-0-00000BF5CCDE", -- [2]
+			"BattlePet-0-00000BF5CD63", -- [3]
+		},
+		["name"] = "Элинор",
+		["tags"] = {
+			"222015R", -- [1]
+			"1210BR", -- [2]
+			"121028", -- [3]
+		},
+		["teamID"] = "team:95",
+		["targets"] = {
+			79751, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:87"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE09", -- [1]
+			"BattlePet-0-00000BF5CE97", -- [2]
+			"BattlePet-0-00000BF5D072", -- [3]
+		},
+		["name"] = "Страхоступ",
+		["tags"] = {
+			"222015R", -- [1]
+			"1110143", -- [2]
+			"11102AQ", -- [3]
+		},
+		["teamID"] = "team:87",
+		["targets"] = {
+			94647, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:45"] = {
+		["pets"] = {
+			0, -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000BF5CEA3", -- [3]
+		},
+		["name"] = "Сиззик",
+		["tags"] = {
+			"ZL", -- [1]
+			"222014F", -- [2]
+			"12201C8", -- [3]
+		},
+		["teamID"] = "team:45",
+		["targets"] = {
+			141945, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:102"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC4F", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5D0A4", -- [3]
+		},
+		["name"] = "Эррис Собирательница (2)",
+		["tags"] = {
+			"2120140", -- [1]
+			"11101FS", -- [2]
+			"11102C8", -- [3]
+		},
+		["teamID"] = "team:102",
+		["targets"] = {
+			91015, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:99"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D001", -- [1]
+			"BattlePet-0-00000BF5CC5D", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Тарр Ужасный",
+		["tags"] = {
+			"22201D2", -- [1]
+			"1120A1", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:99",
+		["targets"] = {
+			87110, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:91"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CEA1", -- [2]
+			"BattlePet-0-00000BF5D0EE", -- [3]
+		},
+		["name"] = "Дилберт Макклинт",
+		["tags"] = {
+			"21108L", -- [1]
+			"1120AI", -- [2]
+			"11102B2", -- [3]
+		},
+		["teamID"] = "team:91",
+		["targets"] = {
+			140461, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:135"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			"BattlePet-0-00000BF5CF03", -- [2]
+			"BattlePet-0-00000BF5CC41", -- [3]
+		},
+		["name"] = "Протектотрон",
+		["tags"] = {
+			"12201C8", -- [1]
+			"12101JS", -- [2]
+			"122044", -- [3]
+		},
+		["teamID"] = "team:135",
+		["groupID"] = "group:1",
+	},
+	["team:111"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5D", -- [1]
+			"BattlePet-0-00000BF5CE97", -- [2]
+			"BattlePet-0-00000BF5CDAA", -- [3]
+		},
+		["name"] = "Шепчущий пандаренский дух",
+		["tags"] = {
+			"222014F", -- [1]
+			"1110143", -- [2]
+			"1220AJ", -- [3]
+		},
+		["teamID"] = "team:111",
+		["targets"] = {
+			68464, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:20"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE15", -- [1]
+			"BattlePet-0-00000BF5CC4F", -- [2]
+			"BattlePet-0-00000BF5CCA5", -- [3]
+		},
+		["name"] = "Смертокрик",
+		["tags"] = {
+			"2210HD", -- [1]
+			"2120140", -- [2]
+			"1110PH", -- [3]
+		},
+		["teamID"] = "team:20",
+		["targets"] = {
+			128011, -- [1]
+		},
+		["groupID"] = "group:6",
+	},
+	["team:48"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CDAA", -- [3]
+		},
+		["name"] = "Вольтожор",
+		["tags"] = {
+			"2210198", -- [1]
+			"11101FS", -- [2]
+			"1220AJ", -- [3]
+		},
+		["teamID"] = "team:48",
+		["targets"] = {
+			154919, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:67"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE81", -- [1]
+			"BattlePet-0-00000BF5CE09", -- [2]
+			"BattlePet-0-00000BF5CE96", -- [3]
+		},
+		["name"] = "\"Блескотрон-4000\"",
+		["tags"] = {
+			"111014U", -- [1]
+			"222015R", -- [2]
+			"12205F", -- [3]
+		},
+		["teamID"] = "team:67",
+		["targets"] = {
+			71933, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:22"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC59", -- [1]
+			"BattlePet-0-00000BF5CDA5", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Фрагмент огня",
+		["tags"] = {
+			"111015P", -- [1]
+			"1210R4", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:22",
+		["targets"] = {
+			105093, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:130"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			"BattlePet-0-00000BF5CE11", -- [2]
+			"BattlePet-0-00000BF5CEA1", -- [3]
+		},
+		["name"] = "Жороглот",
+		["tags"] = {
+			"11101BB", -- [1]
+			"1120AI", -- [2]
+			"1120AI", -- [3]
+		},
+		["teamID"] = "team:130",
+		["targets"] = {
+			173274, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:81"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEA8", -- [1]
+			"BattlePet-0-00000BF5CE96", -- [2]
+			"BattlePet-0-00000BF5CCFF", -- [3]
+		},
+		["name"] = "Изделие №17",
+		["tags"] = {
+			"11101FS", -- [1]
+			"12205F", -- [2]
+			"122016M", -- [3]
+		},
+		["teamID"] = "team:81",
+		["targets"] = {
+			154929, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:140"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CC98", -- [2]
+			"BattlePet-0-00000BF5CE2D", -- [3]
+		},
+		["name"] = "Чи-Чи",
+		["tags"] = {
+			"122016M", -- [1]
+			"122095", -- [2]
+			"22201R", -- [3]
+		},
+		["teamID"] = "team:140",
+		["groupID"] = "group:2",
+	},
+	["team:59"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Гноможор",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"2210198", -- [3]
+		},
+		["teamID"] = "team:59",
+		["targets"] = {
+			154922, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:44"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CE4C", -- [3]
+		},
+		["name"] = "Морской капустник",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"11201K", -- [3]
+		},
+		["teamID"] = "team:44",
+		["targets"] = {
+			154918, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:115"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC49", -- [1]
+			"BattlePet-0-00000BF5D066", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Капитан Гермес",
+		["tags"] = {
+			"2120MS", -- [1]
+			"21102A8", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:115",
+		["targets"] = {
+			139489, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:88"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD2C", -- [1]
+			"BattlePet-0-00000BF5CF5D", -- [2]
+			"BattlePet-0-00000BF5CDA6", -- [3]
+		},
+		["name"] = "Элли Верн",
+		["tags"] = {
+			"1220EV", -- [1]
+			"122014F", -- [2]
+			"1220QC", -- [3]
+		},
+		["teamID"] = "team:88",
+		["targets"] = {
+			141002, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:94"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDDB", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Жевака",
+		["tags"] = {
+			"222014S", -- [1]
+			"11101BB", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:94",
+		["targets"] = {
+			142151, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:100"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE96", -- [1]
+			"BattlePet-0-00000BF5D01F", -- [2]
+			"BattlePet-0-00000BF5CFEF", -- [3]
+		},
+		["name"] = "Ники Мелкотех",
+		["tags"] = {
+			"12205F", -- [1]
+			"111040", -- [2]
+			"11106S", -- [3]
+		},
+		["teamID"] = "team:100",
+		["targets"] = {
+			66550, -- [1]
+		},
+		["groupID"] = "group:3",
+	},
+	["team:4"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCD6", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Кристоф фон Физель",
+		["tags"] = {
+			"2120GH", -- [1]
+			"11101BB", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:4",
+		["targets"] = {
+			85519, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:12"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC4F", -- [1]
+			"BattlePet-0-00000BF5CE2D", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Эниобон",
+		["tags"] = {
+			"2120140", -- [1]
+			"22201R", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:12",
+		["targets"] = {
+			197336, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:21"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEC3", -- [1]
+			"BattlePet-0-00000BF5CEA1", -- [2]
+			"BattlePet-0-00000BF5CE97", -- [3]
+		},
+		["name"] = "Чэнь Буйный Портер",
+		["tags"] = {
+			"11201CI", -- [1]
+			"1120AI", -- [2]
+			"1110143", -- [3]
+		},
+		["teamID"] = "team:21",
+		["targets"] = {
+			71927, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:61"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE4C", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CEDC", -- [3]
+		},
+		["name"] = "Мудрый Марис",
+		["tags"] = {
+			"11201K", -- [1]
+			"1220QC", -- [2]
+			"12101SE", -- [3]
+		},
+		["teamID"] = "team:61",
+		["targets"] = {
+			71932, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:66"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEE3", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			"BattlePet-0-00000BF5CDD5", -- [3]
+		},
+		["name"] = "Семитот",
+		["tags"] = {
+			"11101L9", -- [1]
+			"2210198", -- [2]
+			"21108L", -- [3]
+		},
+		["teamID"] = "team:66",
+		["targets"] = {
+			197350, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:93"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CD41", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Кулак Пустоты",
+		["tags"] = {
+			"121016M", -- [1]
+			"121013Q", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:93",
+		["targets"] = {
+			94648, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:18"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			"BattlePet-0-00000BF5CDAA", -- [3]
+		},
+		["name"] = "Кровобивень",
+		["tags"] = {
+			"12108L", -- [1]
+			"1110198", -- [2]
+			"1220AJ", -- [3]
+		},
+		["teamID"] = "team:18",
+		["targets"] = {
+			141588, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:107"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC47", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000BF5CD53", -- [3]
+		},
+		["name"] = "Гнилобрюх",
+		["tags"] = {
+			"2210198", -- [1]
+			"11101BB", -- [2]
+			"1220BQ", -- [3]
+		},
+		["teamID"] = "team:107",
+		["targets"] = {
+			173263, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:132"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			"BattlePet-0-00000BF5CDAA", -- [2]
+			"BattlePet-0-00000BF5CDB8", -- [3]
+		},
+		["name"] = "Грейди Претт",
+		["tags"] = {
+			"12108L", -- [1]
+			"1220AJ", -- [2]
+			"1210DE", -- [3]
+		},
+		["teamID"] = "team:132",
+		["targets"] = {
+			141799, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:121"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC4F", -- [1]
+			"BattlePet-0-00000BF5CEA3", -- [2]
+			0, -- [3]
+		},
+		["name"] = "Майкл Скарн",
+		["tags"] = {
+			"2220140", -- [1]
+			"22201C8", -- [2]
+			"ZL", -- [3]
+		},
+		["teamID"] = "team:121",
+		["targets"] = {
+			140880, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:60"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			"BattlePet-0-00000BF5CFCE", -- [2]
+			"BattlePet-0-00000BF5CCAC", -- [3]
+		},
+		["name"] = "Ханико",
+		["tags"] = {
+			"1110143", -- [1]
+			"12201LT", -- [2]
+			"1210PL", -- [3]
+		},
+		["teamID"] = "team:60",
+		["targets"] = {
+			196264, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:74"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE97", -- [1]
+			0, -- [2]
+			"BattlePet-0-00000BF5CDDB", -- [3]
+		},
+		["name"] = "Варенн",
+		["tags"] = {
+			"1110143", -- [1]
+			"ZL", -- [2]
+			"222014S", -- [3]
+		},
+		["teamID"] = "team:74",
+		["targets"] = {
+			105674, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:108"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD28", -- [1]
+			"BattlePet-0-00000BF5CC49", -- [2]
+			"BattlePet-0-00000BF5CDA6", -- [3]
+		},
+		["name"] = "Лиана Темный Ветер",
+		["tags"] = {
+			"122055", -- [1]
+			"2120MS", -- [2]
+			"1220QC", -- [3]
+		},
+		["teamID"] = "team:108",
+		["targets"] = {
+			141046, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:11"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDDB", -- [1]
+			"BattlePet-0-00000BF5CE4C", -- [2]
+			"BattlePet-0-00000BF5CEDC", -- [3]
+		},
+		["name"] = "Шиполист",
+		["tags"] = {
+			"222014S", -- [1]
+			"11201K", -- [2]
+			"12101SE", -- [3]
+		},
+		["teamID"] = "team:11",
+		["targets"] = {
+			141969, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:104"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			"BattlePet-0-00000BF5D011", -- [2]
+			"BattlePet-0-00000C896987", -- [3]
+		},
+		["name"] = "Делия Ханако",
+		["tags"] = {
+			"11101BB", -- [1]
+			"11101LH", -- [2]
+			"11102NA", -- [3]
+		},
+		["teamID"] = "team:104",
+		["targets"] = {
+			141292, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:136"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEE3", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CEA8", -- [3]
+		},
+		["name"] = "Поимка",
+		["tags"] = {
+			"21101L9", -- [1]
+			"1220QC", -- [2]
+			"11101FS", -- [3]
+		},
+		["teamID"] = "team:136",
+		["groupID"] = "group:none",
+	},
+	["team:49"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5D129", -- [1]
+			"BattlePet-0-00000BF5CD3B", -- [2]
+			"BattlePet-0-00000BF5CEA8", -- [3]
+		},
+		["name"] = "Рогуля",
+		["tags"] = {
+			"11101FS", -- [1]
+			"2120NC", -- [2]
+			"11101FS", -- [3]
+		},
+		["teamID"] = "team:49",
+		["targets"] = {
+			189376, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:119"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CDD5", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Сэр Гальвстон",
+		["tags"] = {
+			"1220QC", -- [1]
+			"11108L", -- [2]
+			"1110198", -- [3]
+		},
+		["teamID"] = "team:119",
+		["targets"] = {
+			99182, -- [1]
+		},
+		["groupID"] = "group:none",
+	},
+	["team:72"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5D", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CD75", -- [3]
+		},
+		["name"] = "Доктор Ян Голдблум",
+		["tags"] = {
+			"222014F", -- [1]
+			"1220QC", -- [2]
+			"122085", -- [3]
+		},
+		["teamID"] = "team:72",
+		["targets"] = {
+			71934, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:33"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CC55", -- [1]
+			"BattlePet-0-00000BF5CC49", -- [2]
+			"BattlePet-0-00000BF5CF5D", -- [3]
+		},
+		["name"] = "Проклятый дух",
+		["tags"] = {
+			"11103V", -- [1]
+			"2120MS", -- [2]
+			"222014F", -- [3]
+		},
+		["teamID"] = "team:33",
+		["targets"] = {
+			94639, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:38"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Прожорливый чешуйник",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"2210198", -- [3]
+		},
+		["teamID"] = "team:38",
+		["targets"] = {
+			154916, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:28"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CEA1", -- [3]
+		},
+		["name"] = "Жемчужнопанцирный ползун",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"1120AI", -- [3]
+		},
+		["teamID"] = "team:28",
+		["targets"] = {
+			154914, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:3"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA1", -- [1]
+			"BattlePet-0-00000BF5CE78", -- [2]
+			"BattlePet-0-00000BF5CF87", -- [3]
+		},
+		["name"] = "Дандли Липкие Пальцы",
+		["tags"] = {
+			"2120NG", -- [1]
+			"222014U", -- [2]
+			"22101D1", -- [3]
+		},
+		["teamID"] = "team:3",
+		["targets"] = {
+			173267, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:55"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			"BattlePet-0-00000BF5CDA6", -- [2]
+			"BattlePet-0-00000BF5CC4F", -- [3]
+		},
+		["name"] = "Гигантская опаловая раковина",
+		["tags"] = {
+			"11201BB", -- [1]
+			"1210QC", -- [2]
+			"2120140", -- [3]
+		},
+		["teamID"] = "team:55",
+		["targets"] = {
+			154921, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:98"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CD28", -- [1]
+			"BattlePet-0-00000BF5CCCF", -- [2]
+			"BattlePet-0-00000BF5CD3B", -- [3]
+		},
+		["name"] = "Салли \"Рассольный\" Маклири",
+		["tags"] = {
+			"212055", -- [1]
+			"1220MK", -- [2]
+			"2120NC", -- [3]
+		},
+		["teamID"] = "team:98",
+		["targets"] = {
+			71929, -- [1]
+		},
+		["groupID"] = "group:2",
+	},
+	["team:30"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CE15", -- [1]
+			"BattlePet-0-00000BF5CDA5", -- [2]
+			"BattlePet-0-00000BF5CC4F", -- [3]
+		},
+		["name"] = "Квинтэссенция Света",
+		["tags"] = {
+			"2210HD", -- [1]
+			"1220R4", -- [2]
+			"2120140", -- [3]
+		},
+		["teamID"] = "team:30",
+		["targets"] = {
+			85650, -- [1]
+		},
+		["groupID"] = "group:1",
+	},
+	["team:42"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Мозгохват",
+		["tags"] = {
+			"121016M", -- [1]
+			"11101FS", -- [2]
+			"2210198", -- [3]
+		},
+		["teamID"] = "team:42",
+		["targets"] = {
+			154917, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:50"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5D129", -- [2]
+			"BattlePet-0-00000BF5CEA8", -- [3]
+		},
+		["name"] = "Бешеная режезубка",
+		["tags"] = {
+			"122016M", -- [1]
+			"11101FS", -- [2]
+			"11101FS", -- [3]
+		},
+		["teamID"] = "team:50",
+		["targets"] = {
+			154920, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:52"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CEEE", -- [1]
+			"BattlePet-0-00000BF5CF5A", -- [2]
+			"BattlePet-0-00000C75B25F", -- [3]
+		},
+		["name"] = "Ночной Клык",
+		["tags"] = {
+			"11203K", -- [1]
+			"11101BB", -- [2]
+			"111015K", -- [3]
+		},
+		["teamID"] = "team:52",
+		["targets"] = {
+			173376, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:131"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000C71AB64", -- [2]
+			"BattlePet-0-00000BF5CDDB", -- [3]
+		},
+		["name"] = "Акир-пескоход",
+		["tags"] = {
+			"1220QC", -- [1]
+			"11108L", -- [2]
+			"222014S", -- [3]
+		},
+		["teamID"] = "team:131",
+		["targets"] = {
+			162465, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:25"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CC47", -- [2]
+			"BattlePet-0-00000BF5D122", -- [3]
+		},
+		["name"] = "К'роха Безумный",
+		["tags"] = {
+			"121016M", -- [1]
+			"2110198", -- [2]
+			"122016M", -- [3]
+		},
+		["teamID"] = "team:25",
+		["targets"] = {
+			162468, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:120"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Шепот",
+		["tags"] = {
+			"1220QC", -- [1]
+			"11101FS", -- [2]
+			"2110198", -- [3]
+		},
+		["teamID"] = "team:120",
+		["targets"] = {
+			162461, -- [1]
+		},
+		["groupID"] = "group:7",
+	},
+	["team:137"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CDBA", -- [1]
+			"BattlePet-0-00000BF5CD14", -- [2]
+			"BattlePet-0-00000BF5CE97", -- [3]
+		},
+		["name"] = "Слякотун",
+		["tags"] = {
+			"2120NA", -- [1]
+			"1220NF", -- [2]
+			"1110143", -- [3]
+		},
+		["teamID"] = "team:137",
+		["groupID"] = "group:1",
+	},
+	["team:141"] = {
+		["pets"] = {
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			"BattlePet-0-00000BF5CDDB", -- [2]
+			"BattlePet-0-00000BF5CC47", -- [3]
+		},
+		["name"] = "Громли",
+		["tags"] = {
+			"122016M", -- [1]
+			"222014S", -- [2]
+			"1110198", -- [3]
+		},
+		["teamID"] = "team:141",
+		["groupID"] = "group:1",
+	},
+}
+Rematch5SavedGroups = {
+	["group:2"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Пандария",
+		["groupID"] = "group:2",
+		["icon"] = 986483,
+		["teams"] = {
+			"team:67", -- [1]
+			"team:2", -- [2]
+			"team:72", -- [3]
+			"team:125", -- [4]
+			"team:110", -- [5]
+			"team:61", -- [6]
+			"team:97", -- [7]
+			"team:98", -- [8]
+			"team:43", -- [9]
+			"team:53", -- [10]
+			"team:47", -- [11]
+			"team:13", -- [12]
+			"team:140", -- [13]
+			"team:6", -- [14]
+			"team:75", -- [15]
+			"team:21", -- [16]
+			"team:111", -- [17]
+			"team:5", -- [18]
+		},
+	},
+	["group:1"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Дренор",
+		["groupID"] = "group:1",
+		["icon"] = 1339013,
+		["teams"] = {
+			"team:24", -- [1]
+			"team:77", -- [2]
+			"team:70", -- [3]
+			"team:141", -- [4]
+			"team:139", -- [5]
+			"team:133", -- [6]
+			"team:30", -- [7]
+			"team:128", -- [8]
+			"team:18", -- [9]
+			"team:93", -- [10]
+			"team:14", -- [11]
+			"team:33", -- [12]
+			"team:135", -- [13]
+			"team:106", -- [14]
+			"team:137", -- [15]
+			"team:29", -- [16]
+			"team:87", -- [17]
+			"team:62", -- [18]
+			"team:95", -- [19]
+			"team:138", -- [20]
+			"team:1", -- [21]
+			"team:102", -- [22]
+			"team:116", -- [23]
+			"team:83", -- [24]
+		},
+	},
+	["group:none"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["name"] = "Ungrouped Teams",
+		["teams"] = {
+			"team:134", -- [1]
+			"team:126", -- [2]
+			"team:74", -- [3]
+			"team:54", -- [4]
+			"team:34", -- [5]
+			"team:7", -- [6]
+			"team:130", -- [7]
+			"team:4", -- [8]
+			"team:112", -- [9]
+			"team:136", -- [10]
+			"team:101", -- [11]
+			"team:103", -- [12]
+			"team:109", -- [13]
+			"team:119", -- [14]
+			"team:99", -- [15]
+			"team:22", -- [16]
+			"team:127", -- [17]
+			"team:15", -- [18]
+		},
+		["meta"] = true,
+		["groupID"] = "group:none",
+		["icon"] = 237176,
+		["isExpanded"] = true,
+	},
+	["group:6"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Аргус",
+		["groupID"] = "group:6",
+		["icon"] = 415046,
+		["teams"] = {
+			"team:58", -- [1]
+			"team:31", -- [2]
+			"team:84", -- [3]
+			"team:20", -- [4]
+		},
+	},
+	["group:favorites"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["name"] = "Favorite Teams",
+		["teams"] = {
+		},
+		["meta"] = true,
+		["groupID"] = "group:favorites",
+		["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
+		["isExpanded"] = true,
+	},
+	["group:3"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Запределье",
+		["groupID"] = "group:3",
+		["icon"] = 1100176,
+		["teams"] = {
+			"team:100", -- [1]
+			"team:124", -- [2]
+			"team:9", -- [3]
+		},
+	},
+	["group:5"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Восточные королевства",
+		["groupID"] = "group:5",
+		["icon"] = 454045,
+		["teams"] = {
+			"team:27", -- [1]
+		},
+	},
+	["group:4"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Калимдор",
+		["groupID"] = "group:4",
+		["icon"] = 370211,
+		["teams"] = {
+		},
+	},
+	["group:7"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["name"] = "Кул-Тирас",
+		["groupID"] = "group:7",
+		["icon"] = 134824,
+		["teams"] = {
+			"team:96", -- [1]
+			"team:131", -- [2]
+			"team:85", -- [3]
+			"team:50", -- [4]
+			"team:17", -- [5]
+			"team:41", -- [6]
+			"team:48", -- [7]
+			"team:80", -- [8]
+			"team:55", -- [9]
+			"team:90", -- [10]
+			"team:107", -- [11]
+			"team:59", -- [12]
+			"team:132", -- [13]
+			"team:3", -- [14]
+			"team:104", -- [15]
+			"team:91", -- [16]
+			"team:35", -- [17]
+			"team:94", -- [18]
+			"team:28", -- [19]
+			"team:65", -- [20]
+			"team:82", -- [21]
+			"team:51", -- [22]
+			"team:81", -- [23]
+			"team:73", -- [24]
+			"team:78", -- [25]
+			"team:114", -- [26]
+			"team:39", -- [27]
+			"team:25", -- [28]
+			"team:36", -- [29]
+			"team:115", -- [30]
+			"team:8", -- [31]
+			"team:118", -- [32]
+			"team:37", -- [33]
+			"team:32", -- [34]
+			"team:92", -- [35]
+			"team:89", -- [36]
+			"team:108", -- [37]
+			"team:40", -- [38]
+			"team:121", -- [39]
+			"team:71", -- [40]
+			"team:42", -- [41]
+			"team:44", -- [42]
+			"team:113", -- [43]
+			"team:52", -- [44]
+			"team:16", -- [45]
+			"team:46", -- [46]
+			"team:69", -- [47]
+			"team:10", -- [48]
+			"team:38", -- [49]
+			"team:122", -- [50]
+			"team:49", -- [51]
+			"team:66", -- [52]
+			"team:45", -- [53]
+			"team:64", -- [54]
+			"team:68", -- [55]
+			"team:86", -- [56]
+			"team:105", -- [57]
+			"team:23", -- [58]
+			"team:79", -- [59]
+			"team:19", -- [60]
+			"team:63", -- [61]
+			"team:57", -- [62]
+			"team:60", -- [63]
+			"team:56", -- [64]
+			"team:76", -- [65]
+			"team:120", -- [66]
+			"team:11", -- [67]
+			"team:129", -- [68]
+			"team:123", -- [69]
+			"team:117", -- [70]
+			"team:26", -- [71]
+			"team:88", -- [72]
+			"team:12", -- [73]
+		},
+	},
+}
+Rematch5SavedTargets = {
+	[91017] = {
+		"team:1", -- [1]
+	},
+	[71924] = {
+		"team:2", -- [1]
+	},
+	[173267] = {
+		"team:3", -- [1]
+	},
+	[85519] = {
+		"team:4", -- [1]
+	},
+	[72291] = {
+		"team:5", -- [1]
+	},
+	[73503] = {
+		"team:6", -- [1]
+	},
+	[99035] = {
+		"team:7", -- [1]
+	},
+	[142096] = {
+		"team:8", -- [1]
+	},
+	[66730] = {
+		"team:9", -- [1]
+	},
+	[154910] = {
+		"team:10", -- [1]
+	},
+	[141969] = {
+		"team:11", -- [1]
+	},
+	[197336] = {
+		"team:12", -- [1]
+	},
+	[71926] = {
+		"team:13", -- [1]
+	},
+	[141077] = {
+		"team:118", -- [1]
+	},
+	[154911] = {
+		"team:15", -- [1]
+	},
+	[173303] = {
+		"team:16", -- [1]
+	},
+	[162466] = {
+		"team:17", -- [1]
+	},
+	[141588] = {
+		"team:18", -- [1]
+	},
+	[154912] = {
+		"team:19", -- [1]
+	},
+	[128011] = {
+		"team:20", -- [1]
+	},
+	[71927] = {
+		"team:21", -- [1]
+	},
+	[105093] = {
+		"team:22", -- [1]
+	},
+	[154913] = {
+		"team:23", -- [1]
+	},
+	[79179] = {
+		"team:24", -- [1]
+	},
+	[162468] = {
+		"team:25", -- [1]
+	},
+	[140315] = {
+		"team:26", -- [1]
+	},
+	[124617] = {
+		"team:27", -- [1]
+	},
+	[154914] = {
+		"team:28", -- [1]
+	},
+	[85634] = {
+		"team:29", -- [1]
+	},
+	[85650] = {
+		"team:30", -- [1]
+	},
+	[128012] = {
+		"team:31", -- [1]
+	},
+	[162469] = {
+		"team:113", -- [1]
+	},
+	[94639] = {
+		"team:33", -- [1]
+	},
+	[67370] = {
+		"team:34", -- [1]
+	},
+	[154915] = {
+		"team:35", -- [1]
+	},
+	[162470] = {
+		"team:36", -- [1]
+	},
+	[141879] = {
+		"team:37", -- [1]
+	},
+	[154916] = {
+		"team:38", -- [1]
+	},
+	[173372] = {
+		"team:39", -- [1]
+	},
+	[141529] = {
+		"team:40", -- [1]
+	},
+	[162471] = {
+		"team:41", -- [1]
+	},
+	[154917] = {
+		"team:42", -- [1]
+	},
+	[72009] = {
+		"team:43", -- [1]
+	},
+	[154918] = {
+		"team:44", -- [1]
+	},
+	[141945] = {
+		"team:45", -- [1]
+	},
+	[196069] = {
+		"team:46", -- [1]
+	},
+	[71930] = {
+		"team:47", -- [1]
+	},
+	[154919] = {
+		"team:48", -- [1]
+	},
+	[189376] = {
+		"team:49", -- [1]
+	},
+	[154920] = {
+		"team:50", -- [1]
+	},
+	[142234] = {
+		"team:51", -- [1]
+	},
+	[173376] = {
+		"team:52", -- [1]
+	},
+	[71931] = {
+		"team:53", -- [1]
+	},
+	[99742] = {
+		"team:54", -- [1]
+	},
+	[154921] = {
+		"team:55", -- [1]
+	},
+	[141215] = {
+		"team:56", -- [1]
+	},
+	[173377] = {
+		"team:57", -- [1]
+	},
+	[104970] = {
+		"team:58", -- [1]
+	},
+	[154922] = {
+		"team:59", -- [1]
+	},
+	[196264] = {
+		"team:60", -- [1]
+	},
+	[71932] = {
+		"team:61", -- [1]
+	},
+	[94643] = {
+		"team:62", -- [1]
+	},
+	[154923] = {
+		"team:63", -- [1]
+	},
+	[173315] = {
+		"team:64", -- [1]
+	},
+	[154924] = {
+		"team:65", -- [1]
+	},
+	[197350] = {
+		"team:66", -- [1]
+	},
+	[71933] = {
+		"team:67", -- [1]
+	},
+	[154925] = {
+		"team:68", -- [1]
+	},
+	[173381] = {
+		"team:69", -- [1]
+	},
+	[87122] = {
+		"team:70", -- [1]
+	},
+	[154926] = {
+		"team:71", -- [1]
+	},
+	[71934] = {
+		"team:72", -- [1]
+	},
+	[154927] = {
+		"team:73", -- [1]
+	},
+	[105674] = {
+		"team:74", -- [1]
+	},
+	[72285] = {
+		"team:75", -- [1]
+	},
+	[197417] = {
+		"team:76", -- [1]
+	},
+	[87123] = {
+		"team:77", -- [1]
+	},
+	[154928] = {
+		"team:78", -- [1]
+	},
+	[173129] = {
+		"team:79", -- [1]
+	},
+	[173257] = {
+		"team:80", -- [1]
+	},
+	[154929] = {
+		"team:81", -- [1]
+	},
+	[173130] = {
+		"team:82", -- [1]
+	},
+	[87124] = {
+		"team:83", -- [1]
+	},
+	[106552] = {
+		"team:84", -- [1]
+	},
+	[141479] = {
+		"team:85", -- [1]
+	},
+	[173131] = {
+		"team:86", -- [1]
+	},
+	[94647] = {
+		"team:87", -- [1]
+	},
+	[141002] = {
+		"team:88", -- [1]
+	},
+	[142054] = {
+		"team:89", -- [1]
+	},
+	[173324] = {
+		"team:90", -- [1]
+	},
+	[140461] = {
+		"team:91", -- [1]
+	},
+	[173133] = {
+		"team:92", -- [1]
+	},
+	[94648] = {
+		"team:93", -- [1]
+	},
+	[142151] = {
+		"team:94", -- [1]
+	},
+	[68463] = {
+		"team:97", -- [1]
+	},
+	[140813] = {
+		"team:129", -- [1]
+	},
+	[105779] = {
+		"team:103", -- [1]
+	},
+	[105842] = {
+		"team:127", -- [1]
+	},
+	[173274] = {
+		"team:130", -- [1]
+	},
+	[91015] = {
+		"team:102", -- [1]
+	},
+	[66550] = {
+		"team:100", -- [1]
+	},
+	[141292] = {
+		"team:104", -- [1]
+	},
+	[173331] = {
+		"team:96", -- [1]
+	},
+	[94649] = {
+		"team:106", -- [1]
+	},
+	[173263] = {
+		"team:107", -- [1]
+	},
+	[141046] = {
+		"team:108", -- [1]
+	},
+	[139489] = {
+		"team:115", -- [1]
+	},
+	[66918] = {
+		"team:110", -- [1]
+	},
+	[68464] = {
+		"team:111", -- [1]
+	},
+	[117950] = {
+		"team:112", -- [1]
+	},
+	[85624] = {
+		"team:128", -- [1]
+	},
+	[162461] = {
+		"team:120", -- [1]
+	},
+	[79751] = {
+		"team:95", -- [1]
+	},
+	[99182] = {
+		"team:119", -- [1]
+	},
+	[162458] = {
+		"team:122", -- [1]
+	},
+	[91016] = {
+		"team:116", -- [1]
+	},
+	[139987] = {
+		"team:117", -- [1]
+	},
+	[197447] = {
+		"team:123", -- [1]
+	},
+	[117934] = {
+		"team:109", -- [1]
+	},
+	[105841] = {
+		"team:114", -- [1]
+	},
+	[140880] = {
+		"team:121", -- [1]
+	},
+	[71929] = {
+		"team:98", -- [1]
+	},
+	[66557] = {
+		"team:124", -- [1]
+	},
+	[162465] = {
+		"team:131", -- [1]
+	},
+	[72290] = {
+		"team:125", -- [1]
+	},
+	[117951] = {
+		"team:126", -- [1]
+	},
+	[105512] = {
+		"team:101", -- [1]
+	},
+	[87110] = {
+		"team:99", -- [1]
+	},
+	[142114] = {
+		"team:105", -- [1]
+	},
+	[141814] = {
+		"team:32", -- [1]
+	},
+	[141799] = {
+		"team:132", -- [1]
+	},
+	[94637] = {
+		"team:14", -- [1]
+	},
+}
+Rematch4Saved = {
 	[91017] = {
 		{
 			"BattlePet-0-00000BF5CCD6", -- [1]
@@ -290,30 +4404,30 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Эниобон",
 	},
-	[162465] = {
+	[71926] = {
+		{
+			"BattlePet-0-00000BF5CF5D", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
+		}, -- [1]
 		{
 			"BattlePet-0-00000BF5CDA6", -- [1]
 			115, -- [2]
 			779, -- [3]
 			334, -- [4]
 			844, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000C71AB64", -- [1]
-			384, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CDDB", -- [1]
-			921, -- [2]
-			919, -- [3]
-			917, -- [4]
-			1180, -- [5]
+			"BattlePet-0-00000BF5CEC3", -- [1]
+			1335, -- [2]
+			1345, -- [3]
+			1337, -- [4]
+			1426, -- [5]
 		}, -- [3]
-		["tab"] = 8,
-		["teamName"] = "Акир-пескоход",
+		["tab"] = 3,
+		["teamName"] = "Хранитель истории Чо",
 	},
 	[94637] = {
 		{
@@ -1829,6 +5943,29 @@ RematchSaved = {
 		["tab"] = 3,
 		["teamName"] = "Доктор Ян Голдблум",
 	},
+	["Поимка"] = {
+		{
+			"BattlePet-0-00000BF5CEE3", -- [1]
+			110, -- [2]
+			362, -- [3]
+			1357, -- [4]
+			1705, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CEA8", -- [1]
+			1370, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
+		}, -- [3]
+	},
 	[154927] = {
 		{
 			"BattlePet-0-00000BF5CCFF", -- [1]
@@ -2378,55 +6515,55 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Жевака",
 	},
-	[79751] = {
+	[141799] = {
 		{
-			"BattlePet-0-00000BF5CE09", -- [1]
-			921, -- [2]
-			920, -- [3]
-			919, -- [4]
-			1211, -- [5]
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			384, -- [2]
+			713, -- [3]
+			710, -- [4]
+			277, -- [5]
 		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CCDE", -- [1]
-			119, -- [2]
-			165, -- [3]
-			167, -- [4]
-			379, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5CD63", -- [1]
-			119, -- [2]
-			312, -- [3]
-			159, -- [4]
-			72, -- [5]
-		}, -- [3]
-		["tab"] = 2,
-		["teamName"] = "Элинор",
-	},
-	[173331] = {
-		{
-			"BattlePet-0-00000BF5CC47", -- [1]
-			1002, -- [2]
-			392, -- [3]
-			985, -- [4]
-			1320, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CE11", -- [1]
-			777, -- [2]
-			646, -- [3]
-			209, -- [4]
-			338, -- [5]
-		}, -- [2]
 		{
 			"BattlePet-0-00000BF5CDAA", -- [1]
 			777, -- [2]
 			282, -- [3]
-			779, -- [4]
+			334, -- [4]
 			339, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CDB8", -- [1]
+			119, -- [2]
+			283, -- [3]
+			706, -- [4]
+			430, -- [5]
 		}, -- [3]
 		["tab"] = 8,
-		["teamName"] = "Аддий Истязатель",
+		["teamName"] = "Грейди Претт",
+	},
+	[162465] = {
+		{
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000C71AB64", -- [1]
+			384, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CDDB", -- [1]
+			921, -- [2]
+			919, -- [3]
+			917, -- [4]
+			1180, -- [5]
+		}, -- [3]
+		["tab"] = 8,
+		["teamName"] = "Акир-пескоход",
 	},
 	[68463] = {
 		{
@@ -2449,30 +6586,49 @@ RematchSaved = {
 		["tab"] = 3,
 		["teamName"] = "Пылающий пандаренский дух",
 	},
-	[71929] = {
+	[173274] = {
 		{
-			"BattlePet-0-00000BF5CD28", -- [1]
-			228, -- [2]
-			123, -- [3]
-			232, -- [4]
-			165, -- [5]
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CCCF", -- [1]
-			110, -- [2]
-			362, -- [3]
-			366, -- [4]
-			724, -- [5]
+			"BattlePet-0-00000BF5CE11", -- [1]
+			777, -- [2]
+			646, -- [3]
+			209, -- [4]
+			338, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CD3B", -- [1]
-			504, -- [2]
-			506, -- [3]
-			508, -- [4]
-			748, -- [5]
+			"BattlePet-0-00000BF5CEA1", -- [1]
+			777, -- [2]
+			646, -- [3]
+			209, -- [4]
+			338, -- [5]
 		}, -- [3]
-		["tab"] = 3,
-		["teamName"] = "Салли \"Рассольный\" Маклири",
+		["teamName"] = "Жороглот",
+	},
+	[87110] = {
+		{
+			"BattlePet-0-00000BF5D001", -- [1]
+			499, -- [2]
+			998, -- [3]
+			652, -- [4]
+			1442, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CC5D", -- [1]
+			655, -- [2]
+			780, -- [3]
+			649, -- [4]
+			321, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+		["teamName"] = "Тарр Ужасный",
 	},
 	[140813] = {
 		{
@@ -2499,31 +6655,6 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Шипчи Искросвист",
 	},
-	[66550] = {
-		{
-			"BattlePet-0-00000BF5CE96", -- [1]
-			113, -- [2]
-			178, -- [3]
-			179, -- [4]
-			175, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5D01F", -- [1]
-			113, -- [2]
-			178, -- [3]
-			179, -- [4]
-			128, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5CFEF", -- [1]
-			119, -- [2]
-			318, -- [3]
-			268, -- [4]
-			220, -- [5]
-		}, -- [3]
-		["tab"] = 4,
-		["teamName"] = "Ники Мелкотех",
-	},
 	["Элинор"] = {
 		{
 			"BattlePet-0-00000BF5CD6E", -- [1]
@@ -2548,53 +6679,50 @@ RematchSaved = {
 		}, -- [3]
 		["tab"] = 2,
 	},
-	[105512] = {
+	[85624] = {
 		{
-			"BattlePet-0-00000BF5CD63", -- [1]
-			119, -- [2]
-			312, -- [3]
-			159, -- [4]
-			72, -- [5]
+			"BattlePet-0-00000BF5CF0A", -- [1]
+			756, -- [2]
+			380, -- [3]
+			448, -- [4]
+			1154, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CD2C", -- [1]
-			119, -- [2]
-			312, -- [3]
-			159, -- [4]
-			479, -- [5]
+			"BattlePet-0-00000BF5CDA5", -- [1]
+			118, -- [2]
+			564, -- [3]
+			418, -- [4]
+			868, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CC3C", -- [1]
-			119, -- [2]
-			165, -- [3]
-			576, -- [4]
-			1176, -- [5]
-		}, -- [3]
-		["teamName"] = "Посланница охоты",
-	},
-	["Душитель"] = {
-		{
-			"BattlePet-0-00000BF5CEA3", -- [1]
-			429, -- [2]
-			574, -- [3]
-			802, -- [4]
-			1416, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CC47", -- [1]
-			983, -- [2]
-			989, -- [3]
-			985, -- [4]
-			1320, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5CF5D", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			"BattlePet-0-00000BF5CC40", -- [1]
+			377, -- [2]
+			163, -- [3]
+			920, -- [4]
+			1200, -- [5]
 		}, -- [3]
 		["tab"] = 2,
+		["teamName"] = "Королева Флорет",
+	},
+	[105842] = {
+		{
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			712, -- [2]
+			713, -- [3]
+			710, -- [4]
+			277, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			504, -- [2]
+			312, -- [3]
+			574, -- [4]
+			1416, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+		["teamName"] = "Хромадон",
 	},
 	[91015] = {
 		{
@@ -2621,25 +6749,25 @@ RematchSaved = {
 		["tab"] = 2,
 		["teamName"] = "Эррис Собирательница",
 	},
-	[105842] = {
+	[105779] = {
 		{
-			"BattlePet-0-00000BF5CDD5", -- [1]
-			712, -- [2]
-			713, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000BF5CFBA", -- [1]
+			1773, -- [2]
+			1758, -- [3]
+			518, -- [4]
+			1975, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CEA3", -- [1]
-			504, -- [2]
-			312, -- [3]
-			574, -- [4]
-			1416, -- [5]
+			"BattlePet-0-00000BF5CE97", -- [1]
+			406, -- [2]
+			453, -- [3]
+			490, -- [4]
+			1155, -- [5]
 		}, -- [2]
 		{
 			0, -- [1]
 		}, -- [3]
-		["teamName"] = "Хромадон",
+		["teamName"] = "Провидец из армии Оскверненной Души",
 	},
 	[141292] = {
 		{
@@ -2666,25 +6794,30 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Делия Ханако",
 	},
-	[105779] = {
+	[142114] = {
 		{
-			"BattlePet-0-00000BF5CFBA", -- [1]
-			1773, -- [2]
-			1758, -- [3]
-			518, -- [4]
-			1975, -- [5]
+			"BattlePet-0-00000BF5CEA3", -- [1]
+			429, -- [2]
+			574, -- [3]
+			802, -- [4]
+			1416, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CE97", -- [1]
-			406, -- [2]
-			453, -- [3]
-			490, -- [4]
-			1155, -- [5]
+			"BattlePet-0-00000BF5CC47", -- [1]
+			983, -- [2]
+			989, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000BF5CF9F", -- [1]
+			1570, -- [2]
+			465, -- [3]
+			1068, -- [4]
+			2120, -- [5]
 		}, -- [3]
-		["teamName"] = "Провидец из армии Оскверненной Души",
+		["tab"] = 8,
+		["teamName"] = "Талия Искристая Бровь",
 	},
 	[94649] = {
 		{
@@ -2736,7 +6869,28 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Гнилобрюх",
 	},
-	[141046] = {
+	[66557] = {
+		{
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CE97", -- [1]
+			406, -- [2]
+			453, -- [3]
+			490, -- [4]
+			1155, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+		["tab"] = 4,
+		["teamName"] = "Рыцарь крови Антари",
+	},
+	[197447] = {
 		{
 			"BattlePet-0-00000BF5CD28", -- [1]
 			118, -- [2]
@@ -2745,41 +6899,21 @@ RematchSaved = {
 			165, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CC49", -- [1]
-			504, -- [2]
-			506, -- [3]
-			508, -- [4]
-			732, -- [5]
+			"BattlePet-0-00000BF5CDBA", -- [1]
+			509, -- [2]
+			511, -- [3]
+			513, -- [4]
+			746, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CDA6", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000BF5D1A3", -- [1]
+			1372, -- [2]
+			513, -- [3]
+			1572, -- [4]
+			2562, -- [5]
 		}, -- [3]
 		["tab"] = 8,
-		["teamName"] = "Лиана Темный Ветер",
-	},
-	[117934] = {
-		{
-			"BattlePet-0-00000BF5CFBA", -- [1]
-			1773, -- [2]
-			1758, -- [3]
-			518, -- [4]
-			1975, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CF5A", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
-		}, -- [3]
-		["teamName"] = "Сиссикс",
+		["teamName"] = "Штормаму",
 	},
 	[66918] = {
 		{
@@ -2802,30 +6936,25 @@ RematchSaved = {
 		["tab"] = 3,
 		["teamName"] = "Искатель Зусши",
 	},
-	[68464] = {
+	[117934] = {
 		{
-			"BattlePet-0-00000BF5CF5D", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			"BattlePet-0-00000BF5CFBA", -- [1]
+			1773, -- [2]
+			1758, -- [3]
+			518, -- [4]
+			1975, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CE97", -- [1]
-			406, -- [2]
-			453, -- [3]
-			490, -- [4]
-			1155, -- [5]
+			"BattlePet-0-00000BF5CF5A", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CDAA", -- [1]
-			777, -- [2]
-			282, -- [3]
-			334, -- [4]
-			339, -- [5]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 3,
-		["teamName"] = "Шепчущий пандаренский дух",
+		["teamName"] = "Сиссикс",
 	},
 	[117950] = {
 		{
@@ -2871,7 +7000,7 @@ RematchSaved = {
 		}, -- [3]
 		["tab"] = 3,
 	},
-	[162469] = {
+	[162458] = {
 		{
 			"BattlePet-0-00000BF5CDA6", -- [1]
 			115, -- [2]
@@ -2880,67 +7009,95 @@ RematchSaved = {
 			844, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5D129", -- [1]
+			"BattlePet-0-00000BF5CEA8", -- [1]
 			1370, -- [2]
 			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
 		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			712, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
+		}, -- [3]
+		["tab"] = 8,
+		["teamName"] = "Ретиний Искатель",
+	},
+	[105841] = {
+		{
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			422, -- [2]
+			218, -- [3]
+			321, -- [4]
+			1238, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5D001", -- [1]
+			499, -- [2]
+			998, -- [3]
+			652, -- [4]
+			1442, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CFA7", -- [1]
+			499, -- [2]
+			476, -- [3]
+			1065, -- [4]
+			1629, -- [5]
+		}, -- [3]
+		["tab"] = 8,
+		["teamName"] = "Иллиданчик",
+	},
+	[162461] = {
+		{
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [1]
 		{
 			"BattlePet-0-00000BF5CEA8", -- [1]
 			1370, -- [2]
 			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
-		}, -- [3]
-		["tab"] = 8,
-		["teamName"] = "Мучиний",
-	},
-	[85624] = {
-		{
-			"BattlePet-0-00000BF5CF0A", -- [1]
-			756, -- [2]
-			380, -- [3]
-			448, -- [4]
-			1154, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CDA5", -- [1]
-			118, -- [2]
-			564, -- [3]
-			418, -- [4]
-			868, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CC40", -- [1]
-			377, -- [2]
-			163, -- [3]
-			920, -- [4]
-			1200, -- [5]
-		}, -- [3]
-		["tab"] = 2,
-		["teamName"] = "Королева Флорет",
-	},
-	[139489] = {
-		{
-			"BattlePet-0-00000BF5CC49", -- [1]
-			504, -- [2]
-			506, -- [3]
-			508, -- [4]
-			732, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5D066", -- [1]
-			1370, -- [2]
-			581, -- [3]
-			1545, -- [4]
-			2376, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
+			"BattlePet-0-00000BF5CC47", -- [1]
+			1002, -- [2]
+			989, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [3]
 		["tab"] = 8,
-		["teamName"] = "Капитан Гермес",
+		["teamName"] = "Шепот",
+	},
+	[99182] = {
+		{
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CDD5", -- [1]
+			384, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CC47", -- [1]
+			983, -- [2]
+			989, -- [3]
+			985, -- [4]
+			1320, -- [5]
+		}, -- [3]
+		["teamName"] = "Сэр Гальвстон",
 	},
 	[91016] = {
 		{
@@ -2966,30 +7123,6 @@ RematchSaved = {
 		}, -- [3]
 		["tab"] = 2,
 		["teamName"] = "Эррис Собирательница",
-	},
-	["Громли"] = {
-		{
-			"BattlePet-0-00000BF5CCFF", -- [1]
-			210, -- [2]
-			218, -- [3]
-			321, -- [4]
-			1238, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CDDB", -- [1]
-			921, -- [2]
-			919, -- [3]
-			917, -- [4]
-			1180, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5CC47", -- [1]
-			983, -- [2]
-			989, -- [3]
-			985, -- [4]
-			1320, -- [5]
-		}, -- [3]
-		["tab"] = 2,
 	},
 	[139987] = {
 		{
@@ -3041,20 +7174,20 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Квинт",
 	},
-	[99182] = {
+	["Громли"] = {
 		{
-			"BattlePet-0-00000BF5CDA6", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000BF5CCFF", -- [1]
+			210, -- [2]
+			218, -- [3]
+			321, -- [4]
+			1238, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CDD5", -- [1]
-			384, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000BF5CDDB", -- [1]
+			921, -- [2]
+			919, -- [3]
+			917, -- [4]
+			1180, -- [5]
 		}, -- [2]
 		{
 			"BattlePet-0-00000BF5CC47", -- [1]
@@ -3063,32 +7196,28 @@ RematchSaved = {
 			985, -- [4]
 			1320, -- [5]
 		}, -- [3]
-		["teamName"] = "Сэр Гальвстон",
+		["tab"] = 2,
 	},
-	[162461] = {
+	[139489] = {
 		{
-			"BattlePet-0-00000BF5CDA6", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000BF5CC49", -- [1]
+			504, -- [2]
+			506, -- [3]
+			508, -- [4]
+			732, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CEA8", -- [1]
+			"BattlePet-0-00000BF5D066", -- [1]
 			1370, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			581, -- [3]
+			1545, -- [4]
+			2376, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CC47", -- [1]
-			1002, -- [2]
-			989, -- [3]
-			985, -- [4]
-			1320, -- [5]
+			0, -- [1]
 		}, -- [3]
 		["tab"] = 8,
-		["teamName"] = "Шепот",
+		["teamName"] = "Капитан Гермес",
 	},
 	[140880] = {
 		{
@@ -3111,32 +7240,7 @@ RematchSaved = {
 		["tab"] = 8,
 		["teamName"] = "Майкл Скарн",
 	},
-	[105841] = {
-		{
-			"BattlePet-0-00000BF5CCFF", -- [1]
-			422, -- [2]
-			218, -- [3]
-			321, -- [4]
-			1238, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5D001", -- [1]
-			499, -- [2]
-			998, -- [3]
-			652, -- [4]
-			1442, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5CFA7", -- [1]
-			499, -- [2]
-			476, -- [3]
-			1065, -- [4]
-			1629, -- [5]
-		}, -- [3]
-		["tab"] = 8,
-		["teamName"] = "Иллиданчик",
-	},
-	[162458] = {
+	[162469] = {
 		{
 			"BattlePet-0-00000BF5CDA6", -- [1]
 			115, -- [2]
@@ -3145,29 +7249,29 @@ RematchSaved = {
 			844, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CEA8", -- [1]
+			"BattlePet-0-00000BF5D129", -- [1]
 			1370, -- [2]
 			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CDD5", -- [1]
-			712, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000BF5CEA8", -- [1]
+			1370, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [3]
 		["tab"] = 8,
-		["teamName"] = "Ретиний Искатель",
+		["teamName"] = "Мучиний",
 	},
-	[66557] = {
+	[68464] = {
 		{
-			"BattlePet-0-00000BF5CDA6", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000BF5CF5D", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000BF5CE97", -- [1]
@@ -3177,10 +7281,39 @@ RematchSaved = {
 			1155, -- [5]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000BF5CDAA", -- [1]
+			777, -- [2]
+			282, -- [3]
+			334, -- [4]
+			339, -- [5]
 		}, -- [3]
-		["tab"] = 4,
-		["teamName"] = "Рыцарь крови Антари",
+		["tab"] = 3,
+		["teamName"] = "Шепчущий пандаренский дух",
+	},
+	[141046] = {
+		{
+			"BattlePet-0-00000BF5CD28", -- [1]
+			118, -- [2]
+			230, -- [3]
+			232, -- [4]
+			165, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CC49", -- [1]
+			504, -- [2]
+			506, -- [3]
+			508, -- [4]
+			732, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CDA6", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [3]
+		["tab"] = 8,
+		["teamName"] = "Лиана Темный Ветер",
 	},
 	[72290] = {
 		{
@@ -3227,27 +7360,7 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Безымянный мистик",
 	},
-	[87110] = {
-		{
-			"BattlePet-0-00000BF5D001", -- [1]
-			499, -- [2]
-			998, -- [3]
-			652, -- [4]
-			1442, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CC5D", -- [1]
-			655, -- [2]
-			780, -- [3]
-			649, -- [4]
-			321, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
-		}, -- [3]
-		["teamName"] = "Тарр Ужасный",
-	},
-	[142114] = {
+	["Душитель"] = {
 		{
 			"BattlePet-0-00000BF5CEA3", -- [1]
 			429, -- [2]
@@ -3263,72 +7376,95 @@ RematchSaved = {
 			1320, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CF9F", -- [1]
-			1570, -- [2]
-			465, -- [3]
-			1068, -- [4]
-			2120, -- [5]
-		}, -- [3]
-		["tab"] = 8,
-		["teamName"] = "Талия Искристая Бровь",
-	},
-	[71926] = {
-		{
 			"BattlePet-0-00000BF5CF5D", -- [1]
 			525, -- [2]
 			597, -- [3]
 			598, -- [4]
 			1167, -- [5]
+		}, -- [3]
+		["tab"] = 2,
+	},
+	[105512] = {
+		{
+			"BattlePet-0-00000BF5CD63", -- [1]
+			119, -- [2]
+			312, -- [3]
+			159, -- [4]
+			72, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000BF5CDA6", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000BF5CD2C", -- [1]
+			119, -- [2]
+			312, -- [3]
+			159, -- [4]
+			479, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CEC3", -- [1]
-			1335, -- [2]
-			1345, -- [3]
-			1337, -- [4]
-			1426, -- [5]
+			"BattlePet-0-00000BF5CC3C", -- [1]
+			119, -- [2]
+			165, -- [3]
+			576, -- [4]
+			1176, -- [5]
+		}, -- [3]
+		["teamName"] = "Посланница охоты",
+	},
+	[66550] = {
+		{
+			"BattlePet-0-00000BF5CE96", -- [1]
+			113, -- [2]
+			178, -- [3]
+			179, -- [4]
+			175, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5D01F", -- [1]
+			113, -- [2]
+			178, -- [3]
+			179, -- [4]
+			128, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CFEF", -- [1]
+			119, -- [2]
+			318, -- [3]
+			268, -- [4]
+			220, -- [5]
+		}, -- [3]
+		["tab"] = 4,
+		["teamName"] = "Ники Мелкотех",
+	},
+	[71929] = {
+		{
+			"BattlePet-0-00000BF5CD28", -- [1]
+			228, -- [2]
+			123, -- [3]
+			232, -- [4]
+			165, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CCCF", -- [1]
+			110, -- [2]
+			362, -- [3]
+			366, -- [4]
+			724, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CD3B", -- [1]
+			504, -- [2]
+			506, -- [3]
+			508, -- [4]
+			748, -- [5]
 		}, -- [3]
 		["tab"] = 3,
-		["teamName"] = "Хранитель истории Чо",
+		["teamName"] = "Салли \"Рассольный\" Маклири",
 	},
-	[141799] = {
+	[173331] = {
 		{
-			"BattlePet-0-00000BF5CDD5", -- [1]
-			384, -- [2]
-			713, -- [3]
-			710, -- [4]
-			277, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CDAA", -- [1]
-			777, -- [2]
-			282, -- [3]
-			334, -- [4]
-			339, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5CDB8", -- [1]
-			119, -- [2]
-			283, -- [3]
-			706, -- [4]
-			430, -- [5]
-		}, -- [3]
-		["tab"] = 8,
-		["teamName"] = "Грейди Претт",
-	},
-	[173274] = {
-		{
-			"BattlePet-0-00000BF5CF5A", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
+			"BattlePet-0-00000BF5CC47", -- [1]
+			1002, -- [2]
+			392, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000BF5CE11", -- [1]
@@ -3338,104 +7474,124 @@ RematchSaved = {
 			338, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000BF5CEA1", -- [1]
+			"BattlePet-0-00000BF5CDAA", -- [1]
 			777, -- [2]
-			646, -- [3]
-			209, -- [4]
-			338, -- [5]
-		}, -- [3]
-		["teamName"] = "Жороглот",
-	},
-	[197447] = {
-		{
-			"BattlePet-0-00000BF5CD28", -- [1]
-			118, -- [2]
-			230, -- [3]
-			232, -- [4]
-			165, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000BF5CDBA", -- [1]
-			509, -- [2]
-			511, -- [3]
-			513, -- [4]
-			746, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000BF5D1A3", -- [1]
-			1372, -- [2]
-			513, -- [3]
-			1572, -- [4]
-			2562, -- [5]
+			282, -- [3]
+			779, -- [4]
+			339, -- [5]
 		}, -- [3]
 		["tab"] = 8,
-		["teamName"] = "Штормаму",
+		["teamName"] = "Аддий Истязатель",
+	},
+	[79751] = {
+		{
+			"BattlePet-0-00000BF5CE09", -- [1]
+			921, -- [2]
+			920, -- [3]
+			919, -- [4]
+			1211, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000BF5CCDE", -- [1]
+			119, -- [2]
+			165, -- [3]
+			167, -- [4]
+			379, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000BF5CD63", -- [1]
+			119, -- [2]
+			312, -- [3]
+			159, -- [4]
+			72, -- [5]
+		}, -- [3]
+		["tab"] = 2,
+		["teamName"] = "Элинор",
 	},
 }
-RematchSettings = {
+Rematch4Settings = {
 	["NotesFont"] = "GameFontHighlight",
 	["JournalUsed"] = true,
 	["DialogYPos"] = 443.9999084472656,
 	["FixedPetCard"] = true,
 	["QueueSanctuary"] = {
 		["BattlePet-0-00000FA81D38"] = "QQQ034U",
-		["BattlePet-0-00000FC35A05"] = "QQQ0365",
-		["BattlePet-0-00000FDF51E7"] = "QQQ0365",
-		["BattlePet-0-00000FA7E33C"] = "QQQ031M",
+		["BattlePet-0-000010052F72"] = "QQQ03DN",
 		["BattlePet-0-00000FACA51D"] = "QQQ03AP",
 		["BattlePet-0-00000FD5AB97"] = "QQQ0384",
-		["BattlePet-0-00000FA16EDE"] = "QQQ02SD",
+		["BattlePet-0-0000100CFAB8"] = "QQQ036B",
 		["BattlePet-0-00000FBD6F80"] = "QQQ038M",
-		["BattlePet-0-00000BF5D057"] = "QQQ02AI",
-		["BattlePet-0-00000FA79F64"] = "QQQ02R3",
+		["BattlePet-0-0000100E211A"] = "QQQ03FQ",
+		["BattlePet-0-00000FABE13A"] = "QQQ037K",
 		["BattlePet-0-00000FBE8513"] = "QQQ037T",
-		["BattlePet-0-00000FA88ED0"] = "QQQ02U3",
-		["BattlePet-0-00000F6B3533"] = "QQQ02RM",
-		["BattlePet-0-00000C013795"] = "QQQ02KJ",
-		["BattlePet-0-00000FC48309"] = "QQQ039L",
-		["BattlePet-0-00000FAA240A"] = "QQQ0370",
-		["BattlePet-0-00000FA9480B"] = "QQQ0339",
-		["BattlePet-0-00000FA96792"] = "QQQ0369",
 		["BattlePet-0-00000FF9740B"] = "QQQ036F",
-		["BattlePet-0-00000FC3544B"] = "QQQ039I",
-		["BattlePet-0-00000FC35A06"] = "QQQ0360",
+		["BattlePet-0-00000FA9480B"] = "QQQ0339",
 		["BattlePet-0-00000FA8B157"] = "QQQ031U",
-		["BattlePet-0-00000CF7D33C"] = "QQQ02RD",
-		["BattlePet-0-00000FE6D2FF"] = "QQQ038R",
-		["BattlePet-0-00000FC6B6E0"] = "QQQ0395",
 		["BattlePet-0-00000FD8EA8E"] = "QQQ0383",
-		["BattlePet-0-00000BF5D032"] = "QQQ022M",
-		["BattlePet-0-00000FA81BCC"] = "QQQ033T",
+		["BattlePet-0-0000100FDE47"] = "QQQ0454",
+		["BattlePet-0-0000100F7489"] = "QQQ03E1",
 		["BattlePet-0-00000FD5AB9A"] = "QQQ0383",
 		["BattlePet-0-00000FA8CE36"] = "QQQ0334",
 		["BattlePet-0-00000FA96693"] = "QQQ0368",
-		["BattlePet-0-00000FA81C00"] = "QQQ0333",
 		["BattlePet-0-00000FA81BD4"] = "QQQ034K",
+		["BattlePet-0-00000FA81C00"] = "QQQ0333",
+		["BattlePet-0-00000FA9480C"] = "QQQ0337",
+		["BattlePet-0-000010075440"] = "QQQ037L",
+		["BattlePet-0-0000100DDAA4"] = "QQQ036Q",
+		["BattlePet-0-0000100351CD"] = "QQQ037P",
+		["BattlePet-0-00000FD46E3E"] = "QQQ035O",
+		["BattlePet-0-00000FA81BF4"] = "QQQ033L",
+		["BattlePet-0-00000F4F50B4"] = "QQQ02SL",
+		["BattlePet-0-00000FC35A05"] = "QQQ0365",
+		["BattlePet-0-00000FA79F63"] = "QQQ02UB",
+		["BattlePet-0-00000FA7E33C"] = "QQQ031M",
+		["BattlePet-0-00000FD3F226"] = "QQQ036R",
+		["BattlePet-0-0000100B2A97"] = "QQQ03CS",
+		["BattlePet-0-0000100AD168"] = "QQQ0382",
+		["BattlePet-0-00000BF5D057"] = "QQQ02AI",
+		["BattlePet-0-00000FA79F64"] = "QQQ02R3",
+		["BattlePet-0-00000C013795"] = "QQQ02KJ",
+		["BattlePet-0-00000FA88ED0"] = "QQQ02U3",
+		["BattlePet-0-00000FAA240A"] = "QQQ0370",
+		["BattlePet-0-00001010DADA"] = "QQQ039M",
+		["BattlePet-0-0000100B2A71"] = "QQQ03CR",
+		["BattlePet-0-00000FC3544B"] = "QQQ039I",
+		["BattlePet-0-00000FA96792"] = "QQQ0369",
+		["BattlePet-0-00000CF7D33C"] = "QQQ02RD",
+		["BattlePet-0-00000FE6D2FF"] = "QQQ038R",
+		["BattlePet-0-00000FC6B6E0"] = "QQQ0395",
+		["BattlePet-0-00000BF5D032"] = "QQQ022M",
+		["BattlePet-0-00000FC35A06"] = "QQQ0360",
+		["BattlePet-0-00000FA16EDE"] = "QQQ02SD",
 		["BattlePet-0-00000FA80D06"] = "QQQ031F",
 		["BattlePet-0-00000FF321C4"] = "QQQ036P",
-		["BattlePet-0-00000FD5AB85"] = "QQQ0385",
+		["BattlePet-0-000010099C53"] = "QQQ03DN",
+		["BattlePet-0-0000100D375A"] = "QQQ03E4",
+		["BattlePet-0-00000FA96975"] = "QQQ0397",
+		["BattlePet-0-00000FC48309"] = "QQQ039L",
+		["BattlePet-0-0000101173DD"] = "QQQ036P",
 		["BattlePet-0-00000D4F6707"] = "QQQ02R9",
-		["BattlePet-0-00000FE7A357"] = "QQQ0365",
-		["BattlePet-0-00000FB6E9CD"] = "QQQ036K",
+		["BattlePet-0-000010075694"] = "QQQ0455",
+		["BattlePet-0-00000F6B3533"] = "QQQ02RM",
 		["BattlePet-0-00000FD0FF22"] = "QQQ037A",
-		["BattlePet-0-00000FB6E9EB"] = "QQQ037F",
+		["BattlePet-0-00000FD5AB85"] = "QQQ0385",
 		["BattlePet-0-00000FC7BCC3"] = "QQQ0376",
-		["BattlePet-0-00000FD3F226"] = "QQQ036R",
-		["BattlePet-0-00000FA9480C"] = "QQQ0337",
-		["BattlePet-0-00000FACA520"] = "QQQ036E",
+		["BattlePet-0-0000100B2AD4"] = "QQQ03CM",
+		["BattlePet-0-00000FDF51E7"] = "QQQ0365",
+		["BattlePet-0-00000FB6E9EB"] = "QQQ037F",
 		["BattlePet-0-00000BF5D063"] = "QQQ02A7",
-		["BattlePet-0-0000100351CD"] = "QQQ037P",
+		["BattlePet-0-0000100B33CD"] = "QQQ03CO",
 		["BattlePet-0-00000FA9F6EB"] = "QQQ0396",
-		["BattlePet-0-00000FA79F63"] = "QQQ02UB",
-		["BattlePet-0-00000FD46E3E"] = "QQQ035O",
+		["BattlePet-0-00001010489F"] = "QQQ0452",
+		["BattlePet-0-00000FB6E9CD"] = "QQQ036K",
 		["BattlePet-0-00000FC482F9"] = "QQQ0398",
 		["BattlePet-0-00000BF5CF83"] = "QQQ01LG",
 		["BattlePet-0-00000F9BBB1D"] = "QQQ030Q",
-		["BattlePet-0-00000FA96975"] = "QQQ0397",
-		["BattlePet-0-00000FA81BF4"] = "QQQ033L",
+		["BattlePet-0-00000FE7A357"] = "QQQ0365",
+		["BattlePet-0-00000FA81BCC"] = "QQQ033T",
 		["BattlePet-0-00000FE91E75"] = "QQQ03FS",
-		["BattlePet-0-00000F4F50B4"] = "QQQ02SL",
-		["BattlePet-0-00000FABE13A"] = "QQQ037K",
+		["BattlePet-0-00000FACA520"] = "QQQ036E",
+		["BattlePet-0-00001010DAD8"] = "QQQ036N",
 	},
 	["Sort"] = {
 		["Order"] = 1,
@@ -3448,14 +7604,14 @@ RematchSettings = {
 	["PreferredMode"] = 1,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
-		["BattlePet-0-00000FA81D38"] = {
+		["BattlePet-0-00000BF5CCD7"] = {
 			1, -- [1]
 			true, -- [2]
-			3230, -- [3]
-			1, -- [4]
-			154, -- [5]
-			12, -- [6]
-			11, -- [7]
+			1324, -- [3]
+			25, -- [4]
+			1465, -- [5]
+			273, -- [6]
+			289, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CE78"] = {
@@ -3488,14 +7644,14 @@ RematchSettings = {
 			224, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FA16EDE"] = {
+		["BattlePet-0-00001010DAD8"] = {
 			1, -- [1]
 			true, -- [2]
-			2957, -- [3]
+			3287, -- [3]
 			1, -- [4]
-			158, -- [5]
-			10, -- [6]
-			11, -- [7]
+			152, -- [5]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CE40"] = {
@@ -3518,24 +7674,24 @@ RematchSettings = {
 			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CC3C"] = {
+		["BattlePet-0-00000FABE13A"] = {
 			1, -- [1]
 			true, -- [2]
-			1176, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			276, -- [6]
-			276, -- [7]
+			3316, -- [3]
+			1, -- [4]
+			160, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CD6A"] = {
+		["BattlePet-0-00000FBE8513"] = {
 			1, -- [1]
 			true, -- [2]
-			1160, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			289, -- [6]
-			273, -- [7]
+			3325, -- [3]
+			1, -- [4]
+			152, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CD79"] = {
@@ -3586,6 +7742,16 @@ RematchSettings = {
 			708, -- [5]
 			122, -- [6]
 			122, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100F7489"] = {
+			1, -- [1]
+			true, -- [2]
+			3521, -- [3]
+			1, -- [4]
+			159, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FD5AB9A"] = {
@@ -3648,14 +7814,14 @@ RematchSettings = {
 			254, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CFE2"] = {
-			1, -- [1]
+		["BattlePet-0-00000BF5D0EF"] = {
+			2, -- [1]
 			true, -- [2]
-			1969, -- [3]
+			1722, -- [3]
 			25, -- [4]
-			1441, -- [5]
-			268, -- [6]
-			309, -- [7]
+			1465, -- [5]
+			305, -- [6]
+			257, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CF6F"] = {
@@ -3688,6 +7854,16 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-000010075440"] = {
+			1, -- [1]
+			true, -- [2]
+			3317, -- [3]
+			1, -- [4]
+			150, -- [5]
+			9, -- [6]
+			12, -- [7]
+			3, -- [8]
+		},
 		["BattlePet-0-00000BF5CEEE"] = {
 			3, -- [1]
 			true, -- [2]
@@ -3709,7 +7885,7 @@ RematchSettings = {
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CEA8"] = {
-			27, -- [1]
+			28, -- [1]
 			true, -- [2]
 			1532, -- [3]
 			25, -- [4]
@@ -3798,14 +7974,14 @@ RematchSettings = {
 			227, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CD29"] = {
+		["BattlePet-0-00000F6B3533"] = {
 			1, -- [1]
 			true, -- [2]
-			65, -- [3]
-			25, -- [4]
-			1627, -- [5]
-			257, -- [6]
-			273, -- [7]
+			2934, -- [3]
+			1, -- [4]
+			148, -- [5]
+			13, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CD20"] = {
@@ -3918,6 +8094,16 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-000010099C53"] = {
+			1, -- [1]
+			true, -- [2]
+			3511, -- [3]
+			1, -- [4]
+			157, -- [5]
+			11, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000FE6D2FF"] = {
 			1, -- [1]
 			true, -- [2]
@@ -3946,6 +8132,16 @@ RematchSettings = {
 			1546, -- [5]
 			260, -- [6]
 			289, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100D375A"] = {
+			1, -- [1]
+			true, -- [2]
+			3524, -- [3]
+			1, -- [4]
+			159, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-000003A53BF2"] = {
@@ -4118,14 +8314,14 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CDD5"] = {
-			15, -- [1]
+		["BattlePet-0-000010052F72"] = {
+			1, -- [1]
 			true, -- [2]
-			277, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
+			3511, -- [3]
+			1, -- [4]
+			157, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CD53"] = {
@@ -4168,6 +8364,16 @@ RematchSettings = {
 			289, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-0000101173DD"] = {
+			1, -- [1]
+			true, -- [2]
+			3289, -- [3]
+			1, -- [4]
+			154, -- [5]
+			11, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000FBD6F80"] = {
 			1, -- [1]
 			true, -- [2]
@@ -4208,14 +8414,14 @@ RematchSettings = {
 			281, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CFDE"] = {
-			1, -- [1]
+		["BattlePet-0-00000BF5CD41"] = {
+			4, -- [1]
 			true, -- [2]
-			1776, -- [3]
+			1146, -- [3]
 			25, -- [4]
-			1725, -- [5]
-			292, -- [6]
-			211, -- [7]
+			1546, -- [5]
+			289, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CD94"] = {
@@ -4298,6 +8504,26 @@ RematchSettings = {
 			276, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-0000100CFAB8"] = {
+			1, -- [1]
+			true, -- [2]
+			3275, -- [3]
+			1, -- [4]
+			152, -- [5]
+			10, -- [6]
+			14, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100FDE47"] = {
+			1, -- [1]
+			true, -- [2]
+			4260, -- [3]
+			1, -- [4]
+			152, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000FA81BCC"] = {
 			1, -- [1]
 			true, -- [2]
@@ -4338,6 +8564,16 @@ RematchSettings = {
 			296, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000FE91E75"] = {
+			1, -- [1]
+			true, -- [2]
+			3580, -- [3]
+			1, -- [4]
+			161, -- [5]
+			12, -- [6]
+			9, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000FA81BD4"] = {
 			1, -- [1]
 			true, -- [2]
@@ -4368,6 +8604,16 @@ RematchSettings = {
 			244, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000FA96792"] = {
+			1, -- [1]
+			true, -- [2]
+			3273, -- [3]
+			23, -- [4]
+			1505, -- [5]
+			266, -- [6]
+			224, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000BF5CCAC"] = {
 			1, -- [1]
 			true, -- [2]
@@ -4376,6 +8622,56 @@ RematchSettings = {
 			1465, -- [5]
 			273, -- [6]
 			289, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CD29"] = {
+			1, -- [1]
+			true, -- [2]
+			65, -- [3]
+			25, -- [4]
+			1627, -- [5]
+			257, -- [6]
+			273, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FC3544B"] = {
+			1, -- [1]
+			true, -- [2]
+			3378, -- [3]
+			1, -- [4]
+			160, -- [5]
+			11, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000D4F6707"] = {
+			1, -- [1]
+			true, -- [2]
+			2921, -- [3]
+			1, -- [4]
+			149, -- [5]
+			13, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FD3F226"] = {
+			1, -- [1]
+			true, -- [2]
+			3291, -- [3]
+			1, -- [4]
+			171, -- [5]
+			10, -- [6]
+			9, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CFE2"] = {
+			1, -- [1]
+			true, -- [2]
+			1969, -- [3]
+			25, -- [4]
+			1441, -- [5]
+			268, -- [6]
+			309, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CF9F"] = {
@@ -4389,13 +8685,33 @@ RematchSettings = {
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CEE3"] = {
-			1, -- [1]
+			2, -- [1]
 			true, -- [2]
 			1705, -- [3]
 			25, -- [4]
 			1627, -- [5]
 			289, -- [6]
 			244, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000C896987"] = {
+			2, -- [1]
+			true, -- [2]
+			2794, -- [3]
+			25, -- [4]
+			1278, -- [5]
+			292, -- [6]
+			317, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100DDAA4"] = {
+			1, -- [1]
+			true, -- [2]
+			3290, -- [3]
+			1, -- [4]
+			152, -- [5]
+			14, -- [6]
+			9, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-0000100351CD"] = {
@@ -4418,34 +8734,64 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5D0EF"] = {
-			2, -- [1]
-			true, -- [2]
-			1722, -- [3]
-			25, -- [4]
-			1465, -- [5]
-			305, -- [6]
-			257, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FBE8513"] = {
+		["BattlePet-0-00001010489F"] = {
 			1, -- [1]
 			true, -- [2]
-			3325, -- [3]
+			4258, -- [3]
 			1, -- [4]
-			152, -- [5]
-			11, -- [6]
+			154, -- [5]
+			13, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CFDE"] = {
+			1, -- [1]
+			true, -- [2]
+			1776, -- [3]
+			25, -- [4]
+			1725, -- [5]
+			292, -- [6]
+			211, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CD6A"] = {
+			1, -- [1]
+			true, -- [2]
+			1160, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			289, -- [6]
+			273, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CC3C"] = {
+			1, -- [1]
+			true, -- [2]
+			1176, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			276, -- [6]
+			276, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FA16EDE"] = {
+			1, -- [1]
+			true, -- [2]
+			2957, -- [3]
+			1, -- [4]
+			158, -- [5]
+			10, -- [6]
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FD5AB85"] = {
-			1, -- [1]
+		["BattlePet-0-00000BF5CE87"] = {
+			4, -- [1]
 			true, -- [2]
-			3333, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			12, -- [7]
+			1165, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			341, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FA81BF4"] = {
@@ -4468,64 +8814,24 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000F6B3533"] = {
-			1, -- [1]
+		["BattlePet-0-00000BF5CDD5"] = {
+			15, -- [1]
 			true, -- [2]
-			2934, -- [3]
-			1, -- [4]
-			148, -- [5]
-			13, -- [6]
-			11, -- [7]
+			277, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FA96975"] = {
-			1, -- [1]
+		["BattlePet-0-00000BF5CE97"] = {
+			14, -- [1]
 			true, -- [2]
-			3367, -- [3]
-			23, -- [4]
-			1505, -- [5]
-			266, -- [6]
-			224, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000D4F6707"] = {
-			1, -- [1]
-			true, -- [2]
-			2921, -- [3]
-			1, -- [4]
-			149, -- [5]
-			13, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FC35A05"] = {
-			1, -- [1]
-			true, -- [2]
-			3269, -- [3]
-			1, -- [4]
-			158, -- [5]
-			11, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FD3F226"] = {
-			1, -- [1]
-			true, -- [2]
-			3291, -- [3]
-			1, -- [4]
-			171, -- [5]
-			10, -- [6]
-			9, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FA79F63"] = {
-			1, -- [1]
-			true, -- [2]
-			3019, -- [3]
-			1, -- [4]
-			170, -- [5]
-			10, -- [6]
-			9, -- [7]
+			1155, -- [3]
+			25, -- [4]
+			1725, -- [5]
+			276, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CDA1"] = {
@@ -4538,14 +8844,54 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CDA6"] = {
-			20, -- [1]
+		["BattlePet-0-00000FC35A05"] = {
+			1, -- [1]
 			true, -- [2]
-			844, -- [3]
+			3269, -- [3]
+			1, -- [4]
+			158, -- [5]
+			11, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CE9C"] = {
+			1, -- [1]
+			true, -- [2]
+			820, -- [3]
 			25, -- [4]
-			1400, -- [5]
-			276, -- [6]
-			309, -- [7]
+			1546, -- [5]
+			273, -- [6]
+			273, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FA79F63"] = {
+			1, -- [1]
+			true, -- [2]
+			3019, -- [3]
+			1, -- [4]
+			170, -- [5]
+			10, -- [6]
+			9, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FA81D38"] = {
+			1, -- [1]
+			true, -- [2]
+			3230, -- [3]
+			1, -- [4]
+			154, -- [5]
+			12, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FA7E33C"] = {
+			1, -- [1]
+			true, -- [2]
+			3126, -- [3]
+			23, -- [4]
+			1487, -- [5]
+			262, -- [6]
+			229, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CCD6"] = {
@@ -4568,26 +8914,6 @@ RematchSettings = {
 			240, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5D15C"] = {
-			1, -- [1]
-			true, -- [2]
-			2563, -- [3]
-			24, -- [4]
-			1508, -- [5]
-			282, -- [6]
-			242, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000BF5CCD7"] = {
-			1, -- [1]
-			true, -- [2]
-			1324, -- [3]
-			25, -- [4]
-			1465, -- [5]
-			273, -- [6]
-			289, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000BF5CFA3"] = {
 			1, -- [1]
 			true, -- [2]
@@ -4598,25 +8924,25 @@ RematchSettings = {
 			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CE87"] = {
-			4, -- [1]
+		["BattlePet-0-00000BF5CCBF"] = {
+			1, -- [1]
 			true, -- [2]
-			1165, -- [3]
+			1322, -- [3]
 			25, -- [4]
-			1400, -- [5]
-			341, -- [6]
-			244, -- [7]
+			1627, -- [5]
+			305, -- [6]
+			227, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CC49"] = {
-			4, -- [1]
+		["BattlePet-0-0000100B2A97"] = {
+			1, -- [1]
 			true, -- [2]
-			732, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			276, -- [6]
-			273, -- [7]
-			4, -- [8]
+			3484, -- [3]
+			23, -- [4]
+			1193, -- [5]
+			184, -- [6]
+			184, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000FE7A357"] = {
 			1, -- [1]
@@ -4626,6 +8952,26 @@ RematchSettings = {
 			158, -- [5]
 			11, -- [6]
 			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100B2AD4"] = {
+			1, -- [1]
+			true, -- [2]
+			3478, -- [3]
+			23, -- [4]
+			1080, -- [5]
+			201, -- [6]
+			196, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000BF5CDDB"] = {
+			8, -- [1]
+			true, -- [2]
+			1180, -- [3]
+			25, -- [4]
+			1237, -- [5]
+			305, -- [6]
+			305, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CC85"] = {
@@ -4648,14 +8994,14 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CD14"] = {
+		["BattlePet-0-00000BF5D0A4"] = {
 			1, -- [1]
 			true, -- [2]
-			751, -- [3]
+			2440, -- [3]
 			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
+			1766, -- [5]
+			268, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FA88ED0"] = {
@@ -4668,24 +9014,24 @@ RematchSettings = {
 			14, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CDDB"] = {
-			8, -- [1]
-			true, -- [2]
-			1180, -- [3]
-			25, -- [4]
-			1237, -- [5]
-			305, -- [6]
-			305, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FB6E9CD"] = {
+		["BattlePet-0-00000FA9480C"] = {
 			1, -- [1]
 			true, -- [2]
-			3284, -- [3]
+			3175, -- [3]
 			1, -- [4]
-			163, -- [5]
+			154, -- [5]
 			12, -- [6]
-			9, -- [7]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CE11"] = {
+			2, -- [1]
+			true, -- [2]
+			338, -- [3]
+			25, -- [4]
+			1627, -- [5]
+			273, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CDBA"] = {
@@ -4708,26 +9054,6 @@ RematchSettings = {
 			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FA9480C"] = {
-			1, -- [1]
-			true, -- [2]
-			3175, -- [3]
-			1, -- [4]
-			154, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FD0FF22"] = {
-			1, -- [1]
-			true, -- [2]
-			3306, -- [3]
-			1, -- [4]
-			153, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000BF5CCDE"] = {
 			1, -- [1]
 			true, -- [2]
@@ -4737,6 +9063,26 @@ RematchSettings = {
 			244, -- [6]
 			341, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00001010DADA"] = {
+			1, -- [1]
+			true, -- [2]
+			3382, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100B2A71"] = {
+			1, -- [1]
+			true, -- [2]
+			3483, -- [3]
+			23, -- [4]
+			1020, -- [5]
+			196, -- [6]
+			207, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000BF5CC3A"] = {
 			1, -- [1]
@@ -4748,24 +9094,14 @@ RematchSettings = {
 			305, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CE09"] = {
-			4, -- [1]
+		["BattlePet-0-00000BF5CF03"] = {
+			2, -- [1]
 			true, -- [2]
-			1211, -- [3]
+			1660, -- [3]
 			25, -- [4]
-			1237, -- [5]
-			305, -- [6]
-			305, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000BF5D0A4"] = {
-			1, -- [1]
-			true, -- [2]
-			2440, -- [3]
-			25, -- [4]
-			1766, -- [5]
-			268, -- [6]
-			244, -- [7]
+			1319, -- [5]
+			276, -- [6]
+			325, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5D063"] = {
@@ -4778,14 +9114,24 @@ RematchSettings = {
 			251, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5D01F"] = {
-			5, -- [1]
+		["BattlePet-0-00000CF7D33C"] = {
+			1, -- [1]
 			true, -- [2]
-			128, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			276, -- [6]
-			276, -- [7]
+			2925, -- [3]
+			1, -- [4]
+			157, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FC35A06"] = {
+			1, -- [1]
+			true, -- [2]
+			3264, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FACA520"] = {
@@ -4818,14 +9164,24 @@ RematchSettings = {
 			325, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FC35A06"] = {
+		["BattlePet-0-00000BF5CC55"] = {
 			1, -- [1]
 			true, -- [2]
-			3264, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			11, -- [7]
+			127, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			273, -- [6]
+			276, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5D032"] = {
+			1, -- [1]
+			true, -- [2]
+			2134, -- [3]
+			23, -- [4]
+			1505, -- [5]
+			251, -- [6]
+			236, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FC6B6E0"] = {
@@ -4836,16 +9192,6 @@ RematchSettings = {
 			158, -- [5]
 			10, -- [6]
 			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000BF5CC55"] = {
-			1, -- [1]
-			true, -- [2]
-			127, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			273, -- [6]
-			276, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FF321C4"] = {
@@ -4868,26 +9214,6 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CF03"] = {
-			2, -- [1]
-			true, -- [2]
-			1660, -- [3]
-			25, -- [4]
-			1319, -- [5]
-			276, -- [6]
-			325, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000BF5D032"] = {
-			1, -- [1]
-			true, -- [2]
-			2134, -- [3]
-			23, -- [4]
-			1505, -- [5]
-			251, -- [6]
-			236, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000BF5CD63"] = {
 			4, -- [1]
 			true, -- [2]
@@ -4898,34 +9224,24 @@ RematchSettings = {
 			309, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CE11"] = {
-			2, -- [1]
+		["BattlePet-0-00000BF5D01F"] = {
+			5, -- [1]
 			true, -- [2]
-			338, -- [3]
+			128, -- [3]
 			25, -- [4]
-			1627, -- [5]
-			273, -- [6]
-			260, -- [7]
+			1481, -- [5]
+			276, -- [6]
+			276, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CFBA"] = {
-			2, -- [1]
+		["BattlePet-0-00000BF5CE09"] = {
+			4, -- [1]
 			true, -- [2]
-			1975, -- [3]
+			1211, -- [3]
 			25, -- [4]
-			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000CF7D33C"] = {
-			1, -- [1]
-			true, -- [2]
-			2925, -- [3]
-			1, -- [4]
-			157, -- [5]
-			12, -- [6]
-			10, -- [7]
+			1237, -- [5]
+			305, -- [6]
+			305, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000C697AD4"] = {
@@ -4938,14 +9254,44 @@ RematchSettings = {
 			210, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CE9C"] = {
-			1, -- [1]
+		["BattlePet-0-00000BF5CFBA"] = {
+			2, -- [1]
 			true, -- [2]
-			820, -- [3]
+			1975, -- [3]
 			25, -- [4]
 			1546, -- [5]
-			273, -- [6]
-			273, -- [7]
+			289, -- [6]
+			260, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5D15C"] = {
+			1, -- [1]
+			true, -- [2]
+			2563, -- [3]
+			24, -- [4]
+			1508, -- [5]
+			282, -- [6]
+			242, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CD14"] = {
+			1, -- [1]
+			true, -- [2]
+			751, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000FD0FF22"] = {
+			1, -- [1]
+			true, -- [2]
+			3306, -- [3]
+			1, -- [4]
+			153, -- [5]
+			12, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5D122"] = {
@@ -4958,44 +9304,14 @@ RematchSettings = {
 			244, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CE97"] = {
-			14, -- [1]
-			true, -- [2]
-			1155, -- [3]
-			25, -- [4]
-			1725, -- [5]
-			276, -- [6]
-			244, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000BF5CCBF"] = {
+		["BattlePet-0-00000FB6E9CD"] = {
 			1, -- [1]
 			true, -- [2]
-			1322, -- [3]
-			25, -- [4]
-			1627, -- [5]
-			305, -- [6]
-			227, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000C896987"] = {
-			2, -- [1]
-			true, -- [2]
-			2794, -- [3]
-			25, -- [4]
-			1278, -- [5]
-			292, -- [6]
-			317, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000BF5CFCE"] = {
-			2, -- [1]
-			true, -- [2]
-			1725, -- [3]
-			25, -- [4]
-			1506, -- [5]
-			305, -- [6]
-			249, -- [7]
+			3284, -- [3]
+			1, -- [4]
+			163, -- [5]
+			12, -- [6]
+			9, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CF22"] = {
@@ -5008,14 +9324,24 @@ RematchSettings = {
 			276, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000BF5CD41"] = {
+		["BattlePet-0-00000BF5CC49"] = {
 			4, -- [1]
 			true, -- [2]
-			1146, -- [3]
+			732, -- [3]
 			25, -- [4]
 			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
+			276, -- [6]
+			273, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000BF5CFCE"] = {
+			2, -- [1]
+			true, -- [2]
+			1725, -- [3]
+			25, -- [4]
+			1506, -- [5]
+			305, -- [6]
+			249, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FA79F64"] = {
@@ -5028,6 +9354,26 @@ RematchSettings = {
 			13, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-0000100B33CD"] = {
+			1, -- [1]
+			true, -- [2]
+			3480, -- [3]
+			23, -- [4]
+			1239, -- [5]
+			184, -- [6]
+			182, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000BF5CDA6"] = {
+			21, -- [1]
+			true, -- [2]
+			844, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			276, -- [6]
+			309, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000BF5CDB8"] = {
 			1, -- [1]
 			true, -- [2]
@@ -5038,24 +9384,24 @@ RematchSettings = {
 			296, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FA7E33C"] = {
+		["BattlePet-0-00000FA96975"] = {
 			1, -- [1]
 			true, -- [2]
-			3126, -- [3]
+			3367, -- [3]
 			23, -- [4]
-			1487, -- [5]
-			262, -- [6]
-			229, -- [7]
+			1505, -- [5]
+			266, -- [6]
+			224, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FC3544B"] = {
+		["BattlePet-0-00000FD5AB85"] = {
 			1, -- [1]
 			true, -- [2]
-			3378, -- [3]
+			3333, -- [3]
 			1, -- [4]
-			160, -- [5]
+			155, -- [5]
 			11, -- [6]
-			11, -- [7]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000BF5CF83"] = {
@@ -5078,44 +9424,14 @@ RematchSettings = {
 			9, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000FA96792"] = {
+		["BattlePet-0-000010075694"] = {
 			1, -- [1]
 			true, -- [2]
-			3273, -- [3]
-			23, -- [4]
-			1505, -- [5]
-			266, -- [6]
-			224, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FABE13A"] = {
-			1, -- [1]
-			true, -- [2]
-			3316, -- [3]
+			4261, -- [3]
 			1, -- [4]
-			160, -- [5]
+			155, -- [5]
 			11, -- [6]
 			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000FE91E75"] = {
-			1, -- [1]
-			true, -- [2]
-			3580, -- [3]
-			1, -- [4]
-			161, -- [5]
-			12, -- [6]
-			9, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000C75B25F"] = {
-			2, -- [1]
-			true, -- [2]
-			1204, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000FF9740B"] = {
@@ -5128,74 +9444,123 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-0000100AD168"] = {
+			1, -- [1]
+			true, -- [2]
+			3330, -- [3]
+			1, -- [4]
+			158, -- [5]
+			11, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000C75B25F"] = {
+			2, -- [1]
+			true, -- [2]
+			1204, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000100E211A"] = {
+			1, -- [1]
+			true, -- [2]
+			3578, -- [3]
+			1, -- [4]
+			152, -- [5]
+			15, -- [6]
+			8, -- [7]
+			4, -- [8]
+		},
 	},
 	["NotifiedExperimental"] = true,
 	["YPos"] = 303.9998474121094,
-	["SelectedTab"] = 8,
+	["SelectedTab"] = 1,
 	["PetCardYPos"] = 744,
 	["SpecialSlots"] = {
 	},
 	["XPos"] = 42.00001525878906,
 	["CollectionChartType"] = 1,
 	["LevelingQueue"] = {
-		"BattlePet-0-0000100351CD", -- [1]
-		"BattlePet-0-00000FF9740B", -- [2]
-		"BattlePet-0-00000FF321C4", -- [3]
-		"BattlePet-0-00000FE91E75", -- [4]
-		"BattlePet-0-00000FDF51E7", -- [5]
-		"BattlePet-0-00000FE7A357", -- [6]
-		"BattlePet-0-00000FD8EA8E", -- [7]
-		"BattlePet-0-00000FD5AB9A", -- [8]
-		"BattlePet-0-00000FD5AB97", -- [9]
-		"BattlePet-0-00000FD5AB85", -- [10]
-		"BattlePet-0-00000FD46E3E", -- [11]
-		"BattlePet-0-00000FD3F226", -- [12]
-		"BattlePet-0-00000FD0FF22", -- [13]
-		"BattlePet-0-00000FC7BCC3", -- [14]
-		"BattlePet-0-00000FC6B6E0", -- [15]
-		"BattlePet-0-00000FC48309", -- [16]
-		"BattlePet-0-00000FC35A06", -- [17]
-		"BattlePet-0-00000FC35A05", -- [18]
-		"BattlePet-0-00000FC3544B", -- [19]
-		"BattlePet-0-00000FBE8513", -- [20]
-		"BattlePet-0-00000FBD6F80", -- [21]
-		"BattlePet-0-00000C013795", -- [22]
-		"BattlePet-0-00000FB6E9EB", -- [23]
-		"BattlePet-0-00000FB6E9CD", -- [24]
-		"BattlePet-0-00000FACA520", -- [25]
-		"BattlePet-0-00000FACA51D", -- [26]
-		"BattlePet-0-00000FABE13A", -- [27]
-		"BattlePet-0-00000BF5D057", -- [28]
-		"BattlePet-0-00000F9BBB1D", -- [29]
-		"BattlePet-0-00000FA16EDE", -- [30]
-		"BattlePet-0-00000FA79F64", -- [31]
-		"BattlePet-0-00000BF5CF83", -- [32]
-		"BattlePet-0-00000CF7D33C", -- [33]
-		"BattlePet-0-00000F6B3533", -- [34]
-		"BattlePet-0-00000BF5D063", -- [35]
-		"BattlePet-0-00000BF5D032", -- [36]
-		"BattlePet-0-00000D4F6707", -- [37]
-		"BattlePet-0-00000FA79F63", -- [38]
-		"BattlePet-0-00000FAA240A", -- [39]
-		"BattlePet-0-00000FA9F6EB", -- [40]
-		"BattlePet-0-00000FA96975", -- [41]
-		"BattlePet-0-00000FA96792", -- [42]
-		"BattlePet-0-00000FA96693", -- [43]
-		"BattlePet-0-00000FA9480B", -- [44]
-		"BattlePet-0-00000FA9480C", -- [45]
-		"BattlePet-0-00000F4F50B4", -- [46]
-		"BattlePet-0-00000FA8CE36", -- [47]
-		"BattlePet-0-00000FA8B157", -- [48]
-		"BattlePet-0-00000FA88ED0", -- [49]
-		"BattlePet-0-00000FA81D38", -- [50]
-		"BattlePet-0-00000FA81C00", -- [51]
-		"BattlePet-0-00000FA81BF4", -- [52]
-		"BattlePet-0-00000FA81BD4", -- [53]
-		"BattlePet-0-00000FA81BCC", -- [54]
-		"BattlePet-0-00000FA80D06", -- [55]
-		"BattlePet-0-00000FA7E33C", -- [56]
-		"BattlePet-0-00000FC482F9", -- [57]
-		"BattlePet-0-00000FE6D2FF", -- [58]
+		"BattlePet-0-0000101173DD", -- [1]
+		"BattlePet-0-00001010DADA", -- [2]
+		"BattlePet-0-00001010DAD8", -- [3]
+		"BattlePet-0-00001010489F", -- [4]
+		"BattlePet-0-0000100FDE47", -- [5]
+		"BattlePet-0-0000100F7489", -- [6]
+		"BattlePet-0-0000100E211A", -- [7]
+		"BattlePet-0-0000100DDAA4", -- [8]
+		"BattlePet-0-0000100D375A", -- [9]
+		"BattlePet-0-0000100CFAB8", -- [10]
+		"BattlePet-0-0000100B33CD", -- [11]
+		"BattlePet-0-0000100B2AD4", -- [12]
+		"BattlePet-0-0000100B2A97", -- [13]
+		"BattlePet-0-0000100B2A71", -- [14]
+		"BattlePet-0-0000100AD168", -- [15]
+		"BattlePet-0-000010099C53", -- [16]
+		"BattlePet-0-000010052F72", -- [17]
+		"BattlePet-0-000010075694", -- [18]
+		"BattlePet-0-000010075440", -- [19]
+		"BattlePet-0-0000100351CD", -- [20]
+		"BattlePet-0-00000FF9740B", -- [21]
+		"BattlePet-0-00000FF321C4", -- [22]
+		"BattlePet-0-00000FE91E75", -- [23]
+		"BattlePet-0-00000FDF51E7", -- [24]
+		"BattlePet-0-00000FE7A357", -- [25]
+		"BattlePet-0-00000FD8EA8E", -- [26]
+		"BattlePet-0-00000FD5AB9A", -- [27]
+		"BattlePet-0-00000FD5AB97", -- [28]
+		"BattlePet-0-00000FD5AB85", -- [29]
+		"BattlePet-0-00000FD46E3E", -- [30]
+		"BattlePet-0-00000FD3F226", -- [31]
+		"BattlePet-0-00000FD0FF22", -- [32]
+		"BattlePet-0-00000FC7BCC3", -- [33]
+		"BattlePet-0-00000FC6B6E0", -- [34]
+		"BattlePet-0-00000FC48309", -- [35]
+		"BattlePet-0-00000FC35A06", -- [36]
+		"BattlePet-0-00000FC35A05", -- [37]
+		"BattlePet-0-00000FC3544B", -- [38]
+		"BattlePet-0-00000FBE8513", -- [39]
+		"BattlePet-0-00000FBD6F80", -- [40]
+		"BattlePet-0-00000C013795", -- [41]
+		"BattlePet-0-00000FB6E9EB", -- [42]
+		"BattlePet-0-00000FB6E9CD", -- [43]
+		"BattlePet-0-00000FACA520", -- [44]
+		"BattlePet-0-00000FACA51D", -- [45]
+		"BattlePet-0-00000FABE13A", -- [46]
+		"BattlePet-0-00000BF5D057", -- [47]
+		"BattlePet-0-00000F9BBB1D", -- [48]
+		"BattlePet-0-00000FA16EDE", -- [49]
+		"BattlePet-0-00000FA79F64", -- [50]
+		"BattlePet-0-00000BF5CF83", -- [51]
+		"BattlePet-0-00000CF7D33C", -- [52]
+		"BattlePet-0-00000F6B3533", -- [53]
+		"BattlePet-0-00000BF5D063", -- [54]
+		"BattlePet-0-00000BF5D032", -- [55]
+		"BattlePet-0-00000D4F6707", -- [56]
+		"BattlePet-0-00000FA79F63", -- [57]
+		"BattlePet-0-00000FAA240A", -- [58]
+		"BattlePet-0-00000FA9F6EB", -- [59]
+		"BattlePet-0-00000FA96975", -- [60]
+		"BattlePet-0-00000FA96792", -- [61]
+		"BattlePet-0-00000FA96693", -- [62]
+		"BattlePet-0-00000FA9480B", -- [63]
+		"BattlePet-0-00000FA9480C", -- [64]
+		"BattlePet-0-00000F4F50B4", -- [65]
+		"BattlePet-0-00000FA8CE36", -- [66]
+		"BattlePet-0-00000FA8B157", -- [67]
+		"BattlePet-0-00000FA88ED0", -- [68]
+		"BattlePet-0-00000FA81D38", -- [69]
+		"BattlePet-0-00000FA81C00", -- [70]
+		"BattlePet-0-00000FA81BF4", -- [71]
+		"BattlePet-0-00000FA81BD4", -- [72]
+		"BattlePet-0-00000FA81BCC", -- [73]
+		"BattlePet-0-00000FA80D06", -- [74]
+		"BattlePet-0-00000FA7E33C", -- [75]
+		"BattlePet-0-00000FC482F9", -- [76]
+		"BattlePet-0-00000FE6D2FF", -- [77]
 	},
 	["DialogXPos"] = 771.0004272460938,
 	["SinglePanel"] = false,
@@ -5204,47 +9569,43 @@ RematchSettings = {
 		},
 		["Expansion"] = {
 		},
+		["Strong"] = {
+		},
+		["Types"] = {
+		},
+		["Favorite"] = {
+		},
+		["Collected"] = {
+		},
 		["Script"] = {
 		},
-		["Moveset"] = {
-		},
-		["Tough"] = {
-		},
-		["Level"] = {
-		},
 		["Similar"] = {
-		},
-		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Rarity"] = {
 		},
-		["Strong"] = {
+		["Sources"] = {
 		},
-		["Collected"] = {
+		["Level"] = {
 		},
-		["Favorite"] = {
+		["Tough"] = {
 		},
-		["Types"] = {
+		["Moveset"] = {
 		},
 	},
 	["ExpandedOptHeaders"] = {
 	},
 	["QueueSortOrder"] = 2,
-	["UseDefaultJournal"] = true,
 	["CollapsedOptHeaders"] = {
 		true, -- [1]
-		nil, -- [2]
-		true, -- [3]
-		nil, -- [4]
-		true, -- [5]
-		true, -- [6]
-		true, -- [7]
-		nil, -- [8]
-		true, -- [9]
-		true, -- [10]
-		true, -- [11]
+		[6] = true,
+		[7] = true,
+		[3] = true,
+		[10] = true,
+		[9] = true,
+		[5] = true,
+		[11] = true,
 	},
 	["ExpandedTargetHeaders"] = {
 	},
@@ -5270,11 +9631,7 @@ RematchSettings = {
 			"-- Питомцы имеющие несколько видов атак, наносящих урон разным семействам питомцев.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n", -- [2]
 		}, -- [5]
 	},
-	["CollectionChartSources"] = true,
-	["JournalPanel"] = 2,
-	["FavoriteFilters"] = {
-	},
-	["CornerPos"] = "BOTTOMLEFT",
+	["loadedTeam"] = 154926,
 	["TeamGroups"] = {
 		{
 			"Общий", -- [1]
@@ -5309,11 +9666,15 @@ RematchSettings = {
 			134824, -- [2]
 		}, -- [8]
 	},
-	["loadedTeam"] = 196069,
+	["FavoriteFilters"] = {
+	},
+	["CornerPos"] = "BOTTOMLEFT",
+	["JournalPanel"] = 2,
+	["CollectionChartSources"] = true,
 	["UseTypeBar"] = true,
 	["CustomScaleValue"] = 100,
 	["PetNotes"] = {
 	},
 }
-Rematch4Saved = nil
-Rematch4Settings = nil
+RematchSaved = nil
+RematchSettings = nil

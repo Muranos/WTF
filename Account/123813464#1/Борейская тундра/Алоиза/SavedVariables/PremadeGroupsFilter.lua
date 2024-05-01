@@ -1,24 +1,20 @@
 
 PremadeGroupsFilterState = {
 	["version"] = 5,
-	["c3f5"] = {
-		["enabled"] = true,
-		["raid"] = {
-			["expression"] = "",
-			["sorting"] = "",
-		},
-		["minimized"] = false,
-		["expression"] = {
-			["expression"] = "",
-			["sorting"] = "",
-		},
-	},
 	["c6f4"] = {
 		["enabled"] = false,
 		["minimized"] = false,
 		["expression"] = {
-			["expression"] = "",
 			["sorting"] = "",
+			["expression"] = "",
+		},
+	},
+	["c1f4"] = {
+		["enabled"] = false,
+		["minimized"] = false,
+		["expression"] = {
+			["sorting"] = "",
+			["expression"] = "",
 		},
 	},
 	["c2f4"] = {
@@ -29,18 +25,10 @@ PremadeGroupsFilterState = {
 				["min"] = "",
 				["act"] = false,
 			},
-			["tanks"] = {
-				["max"] = "",
-				["min"] = "1",
-				["act"] = true,
-			},
-			["expression"] = "",
 			["heals"] = {
 				["max"] = "",
 				["min"] = "1",
 				["act"] = true,
-			},
-			["difficulty"] = {
 			},
 			["dps"] = {
 				["max"] = "",
@@ -52,20 +40,33 @@ PremadeGroupsFilterState = {
 				["min"] = "",
 				["act"] = false,
 			},
+			["expression"] = "",
+			["difficulty"] = {
+			},
+			["partyfit"] = true,
+			["tanks"] = {
+				["max"] = "",
+				["min"] = "1",
+				["act"] = false,
+			},
 			["sorting"] = "",
 		},
 		["minimized"] = false,
 		["expression"] = {
-			["expression"] = "",
 			["sorting"] = "",
+			["expression"] = "",
 		},
 	},
-	["c1f4"] = {
-		["enabled"] = false,
+	["c3f5"] = {
+		["enabled"] = true,
+		["raid"] = {
+			["sorting"] = "",
+			["expression"] = "",
+		},
 		["minimized"] = false,
 		["expression"] = {
-			["expression"] = "",
 			["sorting"] = "",
+			["expression"] = "",
 		},
 	},
 }

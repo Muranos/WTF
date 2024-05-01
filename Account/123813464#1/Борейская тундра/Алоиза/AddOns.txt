@@ -132,7 +132,7 @@ DailyGlobalCheck: disabled
 DailyGlobalCheck_Midsummer: disabled
 CharacterQuickLinks: disabled
 HandyNotes_LunarFestival: enabled
-HandyNotes_HallowsEnd: enabled
+HandyNotes_HallowsEnd: disabled
 TradeSkillMaster_AppHelper: enabled
 Atlas: disabled
 Atlas_BurningCrusade: disabled
@@ -284,3 +284,6 @@ GottaGoFastHistory: disabled
 MovementSpeed: disabled
 NOP: disabled
 LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Cataclysm: enabled
+BigWigs_DragonIsles: enabled
+LittleWigs_Legion: enabled

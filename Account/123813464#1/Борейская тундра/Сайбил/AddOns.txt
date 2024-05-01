@@ -132,7 +132,7 @@ DailyGlobalCheck: disabled
 DailyGlobalCheck_Midsummer: disabled
 CharacterQuickLinks: disabled
 HandyNotes_LunarFestival: enabled
-HandyNotes_HallowsEnd: enabled
+HandyNotes_HallowsEnd: disabled
 TradeSkillMaster_AppHelper: enabled
 Atlas: disabled
 Atlas_BurningCrusade: disabled
@@ -257,3 +257,12 @@ GottaGoFast: disabled
 GottaGoFastHistory: disabled
 MovementSpeed: disabled
 NOP: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+Blizzard_CombatText: enabled
+RaiderIO_DB_US_R: disabled
+RaiderIO_DB_US_M: disabled
+RaiderIO_DB_TW_R: disabled
+RaiderIO_DB_TW_M: disabled
+RaiderIO_DB_KR_R: disabled
+RaiderIO_DB_KR_M: disabled

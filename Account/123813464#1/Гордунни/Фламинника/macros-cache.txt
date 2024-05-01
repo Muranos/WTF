@@ -42,7 +42,7 @@ VER 3 0100000000000003 "NoStepBack" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000004 "Recklessness" "INV_MISC_QUESTIONMARK"
 #showtooltip Безрассудство
-/use Пузырек с оживленной кровью
+/use 13
 /cast Безрассудство
 END
 VER 3 010000000000000C "Speed" "236307"

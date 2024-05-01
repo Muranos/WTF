@@ -1,12 +1,12 @@
 
 MasterPlanAG = {
 	["EU Mythic Dungeons"] = {
-		["Nietta"] = {
-			["faction"] = "Alliance",
-			["class"] = "PALADIN",
-		},
 		["Estrea"] = {
+			["faction"] = "Alliance",
 			["class"] = "DRUID",
+		},
+		["Nietta"] = {
+			["class"] = "PALADIN",
 			["faction"] = "Alliance",
 		},
 	},
@@ -27,21 +27,26 @@ MasterPlanAG = {
 			["class"] = "SHAMAN",
 			["faction"] = "Alliance",
 		},
-		["Алтэри"] = {
-			["class"] = "DEMONHUNTER",
-			["faction"] = "Alliance",
-		},
-		["Алоиза"] = {
+		["Ниэтта"] = {
 			["summary"] = {
 				["inProgress"] = {
-					[372] = 1639743347,
-					[230] = 1639710055,
+					[91] = 1639716013,
+					[65] = 1639716016,
+					[90] = 1639716018,
 				},
 			},
 			["faction"] = "Alliance",
+			["class"] = "PALADIN",
+			["curRes"] = 2782,
+			["lastCacheTime"] = 1642635541,
+		},
+		["Мэйрика"] = {
 			["class"] = "PRIEST",
-			["curRes"] = 3395,
-			["lastCacheTime"] = 1640611890,
+			["faction"] = "Alliance",
+		},
+		["Алтэри"] = {
+			["class"] = "DEMONHUNTER",
+			["faction"] = "Alliance",
 		},
 		["Фламинника"] = {
 			["summary"] = {
@@ -56,21 +61,8 @@ MasterPlanAG = {
 			["class"] = "WARRIOR",
 		},
 		["Эллиата"] = {
-			["faction"] = "Alliance",
 			["class"] = "WARLOCK",
-		},
-		["Ниэтта"] = {
-			["summary"] = {
-				["inProgress"] = {
-					[91] = 1639716013,
-					[65] = 1639716016,
-					[90] = 1639716018,
-				},
-			},
 			["faction"] = "Alliance",
-			["class"] = "PALADIN",
-			["curRes"] = 2782,
-			["lastCacheTime"] = 1642635541,
 		},
 		["Ниамэй"] = {
 			["class"] = "MONK",
@@ -78,43 +70,26 @@ MasterPlanAG = {
 			["curRes"] = 1334,
 			["faction"] = "Alliance",
 		},
-		["Хилопятьумер"] = {
-			["class"] = "PALADIN",
+		["Алоиза"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[372] = 1639743347,
+					[230] = 1639710055,
+				},
+			},
+			["curOil"] = 12840,
+			["class"] = "PRIEST",
+			["lastCacheTime"] = 1640611890,
+			["curRes"] = 10000,
 			["faction"] = "Alliance",
+		},
+		["Хилопятьумер"] = {
+			["faction"] = "Alliance",
+			["class"] = "PALADIN",
 		},
 		["Эстрэя"] = {
-			["class"] = "DRUID",
-			["faction"] = "Alliance",
-		},
-	},
-	["Alleria"] = {
-		["Estrea"] = {
 			["faction"] = "Alliance",
 			["class"] = "DRUID",
-		},
-	},
-	["Durotan"] = {
-		["Altery"] = {
-			["class"] = "ROGUE",
-			["faction"] = "Alliance",
-		},
-		["Flaminika"] = {
-			["class"] = "ROGUE",
-			["faction"] = "Alliance",
-		},
-		["Elavi"] = {
-			["faction"] = "Alliance",
-			["class"] = "ROGUE",
-		},
-		["Delery"] = {
-			["class"] = "DEMONHUNTER",
-			["faction"] = "Alliance",
-		},
-	},
-	["Bronzebeard"] = {
-		["Altery"] = {
-			["faction"] = "Alliance",
-			["class"] = "ROGUE",
 		},
 	},
 	["Борейская тундра"] = {
@@ -125,14 +100,14 @@ MasterPlanAG = {
 				},
 			},
 			["curOil"] = 1025,
-			["faction"] = "Alliance",
 			["lastCacheTime"] = 1592403163,
-			["curRes"] = 7461,
 			["class"] = "DEMONHUNTER",
+			["curRes"] = 7461,
+			["faction"] = "Alliance",
 		},
 		["Нирейя"] = {
-			["class"] = "DRUID",
 			["faction"] = "Alliance",
+			["class"] = "DRUID",
 		},
 		["Сайбил"] = {
 			["summary"] = {
@@ -148,86 +123,35 @@ MasterPlanAG = {
 			["class"] = "DEATHKNIGHT",
 		},
 		["Тиаз"] = {
-			["class"] = "MAGE",
 			["faction"] = "Alliance",
+			["class"] = "MAGE",
 		},
 		["Эстрея"] = {
 			["summary"] = {
-				["tt2"] = true,
-				["tt3"] = true,
-				["ti1"] = 118529,
-				["tt1"] = 1598838794,
-				["ti3"] = 127855,
+				["ti2"] = 122486,
 				["inProgress"] = {
 					[473] = 1598851110,
 					[316] = 1598865500,
 				},
-				["ti2"] = 122486,
+				["ti3"] = 127855,
+				["tt1"] = 1598838794,
+				["ti1"] = 118529,
+				["tt3"] = true,
+				["tt2"] = true,
 			},
 			["faction"] = "Alliance",
-			["lastCacheTime"] = 1591374186,
+			["curOil"] = 1135,
 			["class"] = "DRUID",
 			["curRes"] = 9063,
-			["curOil"] = 1135,
+			["lastCacheTime"] = 1591374186,
 		},
-		["Алтери"] = {
-			["summary"] = {
-				["inProgress"] = {
-					[478] = 1601275710,
-				},
-			},
-			["curOil"] = 1350,
-			["lastCacheTime"] = 1594399625,
-			["class"] = "ROGUE",
-			["curRes"] = 5773,
+		["Вейлзевулла"] = {
+			["class"] = "WARRIOR",
 			["faction"] = "Alliance",
 		},
 		["Ниоши"] = {
-			["faction"] = "Alliance",
 			["class"] = "MAGE",
-		},
-		["Эрника"] = {
 			["faction"] = "Alliance",
-			["class"] = "MAGE",
-		},
-		["Алоиза"] = {
-			["summary"] = {
-				["lastOilTime"] = 1599856694,
-				["tt2"] = 1597636687,
-				["tt3"] = true,
-				["ti1"] = 118531,
-				["tt1"] = 1598229885,
-				["ti3"] = 127855,
-				["inProgress"] = {
-					[721] = 1599861303,
-				},
-				["ti2"] = 122486,
-			},
-			["faction"] = "Alliance",
-			["class"] = "PRIEST",
-			["lastCacheTime"] = 1591910378,
-			["curRes"] = 10000,
-			["curOil"] = 12840,
-		},
-		["Элави"] = {
-			["class"] = "WARLOCK",
-			["faction"] = "Alliance",
-		},
-		["Зонна"] = {
-			["summary"] = {
-				["tt2"] = true,
-				["tt1"] = true,
-				["ti1"] = 118531,
-				["inProgress"] = {
-					[119] = 1620396384,
-				},
-				["ti2"] = 122486,
-			},
-			["faction"] = "Alliance",
-			["class"] = "MAGE",
-			["lastCacheTime"] = 1592577298,
-			["curRes"] = 9590,
-			["curOil"] = 1415,
 		},
 		["Фламиника"] = {
 			["summary"] = {
@@ -242,17 +166,96 @@ MasterPlanAG = {
 			["curRes"] = 5030,
 			["class"] = "WARRIOR",
 		},
-		["Вейлзевулла"] = {
+		["Зонна"] = {
+			["summary"] = {
+				["ti2"] = 122486,
+				["tt1"] = true,
+				["ti1"] = 118531,
+				["inProgress"] = {
+					[119] = 1620396384,
+				},
+				["tt2"] = true,
+			},
 			["faction"] = "Alliance",
-			["class"] = "WARRIOR",
+			["curOil"] = 1415,
+			["lastCacheTime"] = 1592577298,
+			["curRes"] = 9590,
+			["class"] = "MAGE",
+		},
+		["Элави"] = {
+			["faction"] = "Alliance",
+			["class"] = "WARLOCK",
+		},
+		["Алоиза"] = {
+			["summary"] = {
+				["lastOilTime"] = 1599856694,
+				["ti2"] = 122486,
+				["inProgress"] = {
+					[721] = 1599861303,
+				},
+				["ti3"] = 127855,
+				["tt1"] = 1598229885,
+				["ti1"] = 118531,
+				["tt3"] = true,
+				["tt2"] = 1597636687,
+			},
+			["faction"] = "Alliance",
+			["curOil"] = 12840,
+			["lastCacheTime"] = 1591910378,
+			["curRes"] = 10000,
+			["class"] = "PRIEST",
+		},
+		["Эрника"] = {
+			["class"] = "MAGE",
+			["faction"] = "Alliance",
+		},
+		["Алтери"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[478] = 1601275710,
+				},
+			},
+			["curOil"] = 1350,
+			["faction"] = "Alliance",
+			["class"] = "ROGUE",
+			["curRes"] = 5773,
+			["lastCacheTime"] = 1594399625,
+		},
+	},
+	["Durotan"] = {
+		["Delery"] = {
+			["faction"] = "Alliance",
+			["class"] = "DEMONHUNTER",
+		},
+		["Flaminika"] = {
+			["faction"] = "Alliance",
+			["class"] = "ROGUE",
+		},
+		["Elavi"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+		["Altery"] = {
+			["faction"] = "Alliance",
+			["class"] = "ROGUE",
+		},
+	},
+	["Bronzebeard"] = {
+		["Altery"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+	},
+	["Alleria"] = {
+		["Estrea"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
 		},
 	},
 	["Silvermoon"] = {
 		["Flaminika"] = {
-			["class"] = "WARRIOR",
 			["faction"] = "Alliance",
+			["class"] = "WARRIOR",
 		},
-	},
-	["IgnoreRewards"] = {
 	},
 }

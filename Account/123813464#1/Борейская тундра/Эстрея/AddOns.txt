@@ -138,7 +138,7 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A: disabled
 CharacterQuickLinks: disabled
 HandyNotes_LunarFestival: enabled
-HandyNotes_HallowsEnd: enabled
+HandyNotes_HallowsEnd: disabled
 TradeSkillMaster_AppHelper: enabled
 Atlas: disabled
 Atlas_BurningCrusade: disabled
@@ -267,3 +267,5 @@ RaiderIO_DB_TW_R: disabled
 RaiderIO_DB_TW_M: disabled
 RaiderIO_DB_KR_R: disabled
 RaiderIO_DB_KR_M: disabled
+LittleWigs_MistsOfPandaria: enabled
+BigWigs_DragonIsles: enabled

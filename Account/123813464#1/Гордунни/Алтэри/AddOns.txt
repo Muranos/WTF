@@ -6,7 +6,7 @@ CollectMe: enabled
 EclipseBarPlus: disabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
-HandyNotes_SummerFestival: enabled
+HandyNotes_SummerFestival: disabled
 IgnoreMore: disabled
 LFGCallToArmsBroker: enabled
 LFGForwarder: disabled
@@ -50,8 +50,8 @@ HandyNotes_LegionTreasures: enabled
 HandyNotes_SuramarTelemancy: disabled
 InsanityBar: disabled
 LibSharedMedia-3.0: enabled
-MasterPlan: enabled
-MasterPlanA: enabled
+MasterPlan: disabled
+MasterPlanA: disabled
 MoveAnything: disabled
 NPCScan: enabled
 OmniCC: enabled
@@ -105,7 +105,7 @@ BigWigs_TombOfSargeras: enabled
 ExRT: enabled
 MacroToolkit: enabled
 MacroToolkitIcons: enabled
-RCLootCouncil: enabled
+RCLootCouncil: disabled
 RSA: disabled
 RSA_Options: disabled
 RSA_Reminders: disabled
@@ -131,8 +131,8 @@ DBM-TombofSargeras: disabled
 DailyGlobalCheck: disabled
 DailyGlobalCheck_Midsummer: disabled
 CharacterQuickLinks: disabled
-HandyNotes_LunarFestival: enabled
-HandyNotes_HallowsEnd: enabled
+HandyNotes_LunarFestival: disabled
+HandyNotes_HallowsEnd: disabled
 TradeSkillMaster_AppHelper: enabled
 Atlas: disabled
 Atlas_BurningCrusade: disabled
@@ -234,8 +234,8 @@ LittleWigs_BurningCrusade: enabled
 LittleWigs_WarlordsOfDraenor: enabled
 PitBull4: disabled
 PitBull4_DogTagTexts: disabled
-!BugGrabber: disabled
-BugSack: disabled
+!BugGrabber: enabled
+BugSack: enabled
 Altoholic: disabled
 Altoholic_Agenda: disabled
 Altoholic_Achievements: disabled
@@ -269,3 +269,14 @@ Plater: disabled
 GottaGoFast: disabled
 VenturePlanSoDMissions: disabled
 MovementSpeed: disabled
+HandyNotes_Dragonflight: disabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Cataclysm: enabled
+BigWigs_DragonIsles: enabled
+BigWigs_Amirdrassil: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+HandyNotes_Camel: disabled
+Doom_CooldownPulse: disabled
+EditModeExpanded: disabled
+HandyNotes_Shadowlands: disabled
+Silence: enabled
