@@ -42,7 +42,8 @@ VER 3 0100000000000005 "Riptide" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
 #showtooltip Щит молний
-/castsequence reset=5 Щит молний, Масло теневого ядра
+/cancelaura Искра безумия
+/castsequence reset=5 Щит молний, Оружие языка пламени
 END
 VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
 #showtooltip 

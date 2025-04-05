@@ -1,926 +1,1073 @@
 
 EditModeExpandedADB = {
-	["profileKeys"] = {
-		["Шайэн - Гордунни"] = "Шайэн - Гордунни",
-		["Мэйрика - Гордунни"] = "Мэйрика - Гордунни",
-		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
-		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
-		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
-		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
-	},
-	["global"] = {
-		["PetActionBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["MultiBarBottomLeft"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["ComboPoints"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["enabled"] = true,
-					["x"] = 717.6000366210938,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultScale"] = 1,
-					["y"] = 340.7999572753906,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["PetFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["TalkingHeadFrame"] = {
-			["y"] = 96,
-			["x"] = 738.9998779296875,
-			["profiles"] = {
-				["1-Default"] = {
-					["y"] = 96,
-					["x"] = 738.9998779296875,
-					["settings"] = {
-					},
-				},
-				["0-Современный"] = {
-					["y"] = 96,
-					["x"] = 738.9998779296875,
-					["settings"] = {
-					},
-				},
-			},
-		},
-		["MainStatusTrackingBarContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["y"] = 27.00017929077148,
-					["x"] = 612.9999389648438,
-					["settings"] = {
-					},
-				},
-				["0-Современный"] = {
-					["y"] = 27.00017929077148,
-					["x"] = 612.9998168945312,
-					["settings"] = {
-					},
-				},
-			},
-		},
-		["PlayerFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["TotemFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 362.7999877929688,
-					["settings"] = {
-						[16] = 100,
-						[10] = 0,
-					},
-					["defaultX"] = 846.6000366210938,
-					["x"] = 793.8004760742188,
-					["y"] = 316.7997741699219,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["DebuffFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["ChatFrameMenuButton"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 34,
-					["defaultX"] = -1.500000238418579,
-					["x"] = 0,
-					["y"] = 34,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 50,
-					["defaultX"] = -0.4999971687793732,
-					["x"] = 0,
-					["y"] = 50,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["ContainerFrame1"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["enabled"] = true,
-					["x"] = 1860.000122070313,
-					["defaultScale"] = 1,
-					["y"] = 85,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["VehicleSeatIndicator"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["QueueStatusButton"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 106,
-					["settings"] = {
-						[12] = {
-						},
-					},
-					["defaultX"] = 1732,
-					["x"] = 1782.522583007813,
-					["y"] = 890.9223022460938,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 106,
-					["settings"] = {
-						[12] = {
-						},
-					},
-					["defaultX"] = 1732,
-					["x"] = 1732,
-					["y"] = 106,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["TargetFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["BagsBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-					},
-				},
-			},
-		},
-		["Runes"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 0.949999988079071,
-					["defaultY"] = 357.1578674316406,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-						[12] = {
-						},
-					},
-					["defaultX"] = 749.421142578125,
-					["x"] = 749.421142578125,
-					["enabled"] = true,
-					["y"] = 357.1578674316406,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["CompactArenaFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["BonusRoll"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 57.00000381469727,
-					["defaultX"] = 881,
-					["x"] = 881,
-					["enabled"] = false,
-					["y"] = 57.00000381469727,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["MultiBar6"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["ExtraAbilityContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["FocusSpellBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 717.7999877929688,
-					["settings"] = {
-						[16] = 100,
-						[17] = {
-							["AnchorToDropdown"] = {
-								["checked"] = "FocusFrame",
-							},
-						},
-						[10] = 1,
-					},
-					["defaultX"] = 1325.800048828125,
-					["x"] = 1306.999145507813,
-					["y"] = 688.2000122070312,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1.33299994468689,
-					["defaultY"] = 258.0662841796875,
-					["settings"] = {
-						[16] = 100,
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1582.386352539063,
-					["x"] = 1582.386352539063,
-					["y"] = 258.0662841796875,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["FocusToT"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 683.7999877929688,
-					["settings"] = {
-						[12] = {
-						},
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1406.800170898438,
-					["x"] = 1485.599609375,
-					["y"] = 740.8005981445312,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1.33299994468689,
-					["defaultY"] = 224.0662841796875,
-					["settings"] = {
-						[12] = {
-						},
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1618.429809570313,
-					["x"] = 1618.429809570313,
-					["y"] = 224.0662841796875,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["Achievements"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 128,
-					["settings"] = {
-					},
-					["defaultX"] = 1018.999938964844,
-					["x"] = 1018.999938964844,
-					["y"] = 128,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 128,
-					["defaultX"] = 1018.999938964844,
-					["x"] = 1018.999938964844,
-					["y"] = 128,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["FocusFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["MirrorTimerContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["ChatFrame1"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["DurabilityFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["MainMenuBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["HolyPower"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 327.7999877929688,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 703.1000366210938,
-					["x"] = 703.1000366210938,
-					["enabled"] = true,
-					["y"] = 327.7999877929688,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["PlayerCastingBarFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["TargetSpellBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 439.4000244140625,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1326.200073242188,
-					["x"] = 1326.200317382813,
-					["y"] = 439.4005737304688,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 245,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1367.000122070313,
-					["x"] = 1367.000122070313,
-					["y"] = 245,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["GameTooltipDefaultContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-					},
-				},
-			},
-		},
-		["MainMenuBarVehicleLeaveButton"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["ChatFrameChannelButton"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 198.0000457763672,
-					["defaultX"] = 0.9999986886978149,
-					["x"] = 0.9999986886978149,
-					["y"] = 198.0000457763672,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 144,
-					["defaultX"] = 2.000001668930054,
-					["x"] = 2.000001668930054,
-					["y"] = 144,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["MultiBarRight"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["QuickJoinToastButton"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 251.0000152587891,
-					["defaultX"] = -2.188391590607353e-06,
-					["x"] = 0,
-					["y"] = 251.0000152587891,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 197,
-					["defaultX"] = 1.000000834465027,
-					["x"] = 1.000000834465027,
-					["y"] = 197,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["MultiBar5"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["CompactRaidFrameManager"] = {
-			["defaultScale"] = 1,
-			["defaultY"] = 856.9999389648438,
-			["profiles"] = {
-				["1-Default"] = {
-					["y"] = 813.0000610351562,
-					["x"] = -182.0000152587891,
-					["defaultX"] = -182.0000152587891,
-					["defaultY"] = 813.0000610351562,
-					["enabled"] = true,
-				},
-			},
-			["defaultX"] = -182.0000152587891,
-			["x"] = -182.0000152587891,
-			["enabled"] = true,
-			["y"] = 856.9999389648438,
-			["clamped"] = 0,
-		},
-		["MultiBarLeft"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["MultiBar7"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["EncounterBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["PartyFrame"] = {
-			["settings"] = {
-				[12] = {
-				},
-			},
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["ToT"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 405.4000549316406,
-					["settings"] = {
-						[12] = {
-						},
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1407.200073242188,
-					["x"] = 1486.799560546875,
-					["y"] = 466.6999206542969,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 467.4999694824219,
-					["settings"] = {
-						[12] = {
-						},
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 1518.999877929688,
-					["x"] = 1518.999877929688,
-					["y"] = 467.4999694824219,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["PossessActionBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["ExpansionLandingPageMinimapButton"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 931.0000610351562,
-					["settings"] = {
-						[12] = {
-						},
-					},
-					["defaultX"] = 1817.499877929688,
-					["x"] = 1817.499877929688,
-					["y"] = 931.0000610351562,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-				["0-Современный"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 919,
-					["settings"] = {
-						[12] = {
-						},
-					},
-					["defaultX"] = 1827.499877929688,
-					["x"] = 1827.499877929688,
-					["y"] = 919,
-					["enabled"] = true,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["ObjectiveTrackerFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["ArcaneCharges"] = {
-			["profiles"] = {
-				["0-Современный"] = {
-					["enabled"] = true,
-					["defaultScale"] = 1,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["clamped"] = 1,
-				},
-			},
-		},
-		["ArcheologyDigsiteProgressBar"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["CompactRaidFrameContainer"] = {
-			["settings"] = {
-				[12] = {
-				},
-			},
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["Chi"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 339.7999267578125,
-					["settings"] = {
-						[17] = {
-							["AnchorToDropdown"] = {
-							},
-						},
-					},
-					["defaultX"] = 729.1000366210938,
-					["x"] = 703.5001220703125,
-					["enabled"] = true,
-					["y"] = 331.800048828125,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["BuffFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["LootFrame"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["SecondaryStatusTrackingBarContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["y"] = 44.00017929077148,
-					["x"] = 612.9999389648438,
-					["settings"] = {
-					},
-				},
-				["0-Современный"] = {
-					["y"] = 44.00017929077148,
-					["x"] = 612.9998168945312,
-					["settings"] = {
-					},
-				},
-			},
-		},
-		["BossTargetFrameContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["MinimapCluster"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-		["MultiBarBottomRight"] = {
-			["profiles"] = {
-				["1-Default"] = {
-				},
-				["0-Современный"] = {
-				},
-			},
-		},
-		["GroupLootContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["defaultScale"] = 1,
-					["defaultY"] = 45.00000381469727,
-					["defaultX"] = 895.9998779296875,
-					["x"] = 895.9998779296875,
-					["enabled"] = true,
-					["y"] = 45.00000381469727,
-					["clamped"] = 1,
-				},
-			},
-		},
-		["MicroMenuContainer"] = {
-			["profiles"] = {
-				["1-Default"] = {
-					["settings"] = {
-						[12] = {
-						},
-						[17] = {
-							["PaddingDropdown"] = {
-							},
-						},
-					},
-				},
-				["0-Современный"] = {
-					["settings"] = {
-						[12] = {
-						},
-					},
-				},
-			},
-		},
-	},
+["profileKeys"] = {
+["Шайэн - Гордунни"] = "Шайэн - Гордунни",
+["Мэйрика - Гордунни"] = "Мэйрика - Гордунни",
+["Фламинника - Гордунни"] = "Фламинника - Гордунни",
+["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
+["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+["Дэлери - Гордунни"] = "Дэлери - Гордунни",
+["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
+["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
+["Алоиза - Гордунни"] = "Алоиза - Гордунни",
+["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
+["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+["Рефти - Гордунни"] = "Рефти - Гордунни",
+["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
+},
+["global"] = {
+["PetActionBar"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["MultiBarBottomLeft"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["ComboPoints"] = {
+["profiles"] = {
+["1-Default"] = {
+["enabled"] = true,
+["x"] = 717.6000366210938,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultScale"] = 1,
+["y"] = 340.7999572753906,
+["clamped"] = 1,
+},
+},
+},
+["PetFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["TalkingHeadFrame"] = {
+["y"] = 96,
+["x"] = 738.9998779296875,
+["profiles"] = {
+["1-Default"] = {
+["y"] = 96,
+["x"] = 738.9998779296875,
+["settings"] = {
+},
+},
+["0-Современный"] = {
+["y"] = 96,
+["x"] = 738.9998779296875,
+["settings"] = {
+},
+},
+},
+},
+["MainStatusTrackingBarContainer"] = {
+["y"] = 33.40007400512695,
+["x"] = 609.7999267578125,
+["profiles"] = {
+["1-Default"] = {
+["y"] = 27.00017929077148,
+["x"] = 612.9999389648438,
+["settings"] = {
+},
+},
+["0-Современный"] = {
+["y"] = 27.00017929077148,
+["x"] = 612.9998168945312,
+["settings"] = {
+},
+},
+},
+},
+["PlayerFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["TotemFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 362.7999877929688,
+["settings"] = {
+[16] = 100,
+[10] = 0,
+},
+["defaultX"] = 846.6000366210938,
+["x"] = 793.8004760742188,
+["y"] = 316.7997741699219,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["DebuffFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["ChatFrameMenuButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 95.00000762939453,
+["clamped"] = 1,
+["defaultX"] = -3.500001907348633,
+["y"] = 95.00000762939453,
+["enabled"] = true,
+["x"] = -3.500001907348633,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 34,
+["defaultX"] = -1.500000238418579,
+["x"] = 0,
+["y"] = 34,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 50,
+["defaultX"] = -0.4999971687793732,
+["x"] = 0,
+["y"] = 50,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["ContainerFrame1"] = {
+["profiles"] = {
+["1-Default"] = {
+["enabled"] = true,
+["x"] = 1860.000122070313,
+["y"] = 85,
+["defaultScale"] = 1,
+["clamped"] = 1,
+},
+},
+},
+["VehicleSeatIndicator"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["QueueStatusButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 886.7998046875,
+["clamped"] = 1,
+["defaultX"] = 1780.000244140625,
+["y"] = 886.7998046875,
+["enabled"] = true,
+["x"] = 1780.000244140625,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 886.7998046875,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1780.000244140625,
+["x"] = 1782.522583007813,
+["y"] = 890.9223022460938,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = -3.499999761581421,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1776.000244140625,
+["x"] = 1732,
+["y"] = 106,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["TargetFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["BagsBar"] = {
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+},
+},
+["0-Современный"] = {
+["settings"] = {
+},
+},
+},
+},
+["AuctionHouseMultisellProgressFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 45.0000114440918,
+["defaultX"] = 874,
+["x"] = 874,
+["enabled"] = true,
+["y"] = 45.0000114440918,
+["clamped"] = 1,
+},
+},
+},
+["Runes"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 0.949999988079071,
+["defaultY"] = 357.1578674316406,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+[12] = {
+},
+},
+["defaultX"] = 749.421142578125,
+["x"] = 749.421142578125,
+["enabled"] = true,
+["y"] = 357.1578674316406,
+["clamped"] = 1,
+},
+},
+},
+["CompactArenaFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["BonusRoll"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 57.00000381469727,
+["defaultX"] = 881,
+["x"] = 881,
+["enabled"] = false,
+["y"] = 57.00000381469727,
+["clamped"] = 1,
+},
+},
+},
+["MultiBar6"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["ExtraAbilityContainer"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["FocusSpellBar"] = {
+["defaultScale"] = 1,
+["settings"] = {
+[16] = 100,
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
+["enabled"] = true,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 717.7999877929688,
+["settings"] = {
+[16] = 100,
+[17] = {
+["AnchorToDropdown"] = {
+["checked"] = "FocusFrame",
+},
+},
+[10] = 1,
+},
+["defaultX"] = 1325.800048828125,
+["x"] = 1306.999145507813,
+["y"] = 688.2000122070312,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 258.0662841796875,
+["settings"] = {
+[16] = 100,
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1582.386352539063,
+["x"] = 1582.386352539063,
+["y"] = 258.0662841796875,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["FocusToT"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
+["defaultScale"] = 1,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 683.7999877929688,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1406.800170898438,
+["x"] = 1485.599609375,
+["y"] = 740.8005981445312,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1.33299994468689,
+["defaultY"] = 224.0662841796875,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1618.429809570313,
+["x"] = 1618.429809570313,
+["y"] = 224.0662841796875,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["Achievements"] = {
+["defaultScale"] = 1,
+["defaultY"] = 128,
+["clamped"] = 1,
+["defaultX"] = 1018.999938964844,
+["y"] = 128,
+["enabled"] = true,
+["x"] = 1018.999938964844,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 128,
+["settings"] = {
+},
+["defaultX"] = 1018.999938964844,
+["x"] = 1018.999938964844,
+["y"] = 128,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 128,
+["defaultX"] = 1018.999938964844,
+["x"] = 1018.999938964844,
+["y"] = 128,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["FocusFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["MirrorTimerContainer"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["ChatFrame1"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["DurabilityFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["MainMenuBar"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["HolyPower"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 327.7999877929688,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 703.1000366210938,
+["x"] = 703.1000366210938,
+["enabled"] = true,
+["y"] = 327.7999877929688,
+["clamped"] = 1,
+},
+},
+},
+["PlayerCastingBarFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["TargetSpellBar"] = {
+["enabled"] = true,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
+["defaultScale"] = 1,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 439.4000244140625,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1326.200073242188,
+["x"] = 1326.200317382813,
+["y"] = 439.4005737304688,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 245,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1367.000122070313,
+["x"] = 1367.000122070313,
+["y"] = 245,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["GameTooltipDefaultContainer"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["StanceBar"] = {
+["settings"] = {
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+},
+},
+["0-Современный"] = {
+["settings"] = {
+},
+},
+},
+},
+["MainMenuBarVehicleLeaveButton"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["MultiBar5"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["MultiBarRight"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["QuickJoinToastButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 268.0000305175781,
+["clamped"] = 1,
+["defaultX"] = -2.000001668930054,
+["y"] = 268.0000305175781,
+["enabled"] = true,
+["x"] = -2.000001668930054,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 277.0000305175781,
+["defaultX"] = -2.188391590607353e-06,
+["x"] = 0,
+["y"] = 251.0000152587891,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 223.0000152587891,
+["defaultX"] = 1.000000834465027,
+["x"] = 1.000000834465027,
+["y"] = 197,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["PossessActionBar"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["CompactRaidFrameManager"] = {
+["defaultScale"] = 1,
+["defaultY"] = 810,
+["profiles"] = {
+["1-Default"] = {
+["y"] = 813.0000610351562,
+["x"] = -182.0000152587891,
+["defaultX"] = -200,
+["defaultY"] = 810,
+["enabled"] = true,
+["defaultScale"] = 1,
+["clamped"] = 0,
+},
+},
+["defaultX"] = -200,
+["x"] = -182.0000152587891,
+["enabled"] = true,
+["y"] = 856.9999389648438,
+["clamped"] = 0,
+},
+["MultiBarLeft"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["EncounterBar"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["PartyFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["ChatFrameChannelButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 189.0000152587891,
+["clamped"] = 1,
+["defaultX"] = -1.000000834465027,
+["y"] = 189.0000152587891,
+["enabled"] = true,
+["x"] = -1.000000834465027,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 198.0000457763672,
+["defaultX"] = 0.9999986886978149,
+["x"] = 0.9999986886978149,
+["y"] = 198.0000457763672,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 144,
+["defaultX"] = 2.000001668930054,
+["x"] = 2.000001668930054,
+["y"] = 144,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["ToT"] = {
+["enabled"] = true,
+["x"] = 1407.000122070313,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
+["defaultScale"] = 1,
+["y"] = 404.9999389648438,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 405.4000549316406,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1407.200073242188,
+["x"] = 1486.799560546875,
+["y"] = 466.6999206542969,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 211.0000152587891,
+["settings"] = {
+[12] = {
+},
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 1448,
+["x"] = 1518.999877929688,
+["y"] = 467.4999694824219,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["ExpansionLandingPageMinimapButton"] = {
+["defaultScale"] = 1,
+["defaultY"] = 919,
+["clamped"] = 1,
+["defaultX"] = 1829.999877929688,
+["y"] = 919,
+["enabled"] = true,
+["x"] = 1829.999877929688,
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 931.0000610351562,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1817.499877929688,
+["x"] = 1817.499877929688,
+["y"] = 931.0000610351562,
+["enabled"] = true,
+["clamped"] = 1,
+},
+["0-Современный"] = {
+["defaultScale"] = 1,
+["defaultY"] = 919,
+["settings"] = {
+[12] = {
+},
+},
+["defaultX"] = 1827.499877929688,
+["x"] = 1827.499877929688,
+["y"] = 919,
+["enabled"] = true,
+["clamped"] = 1,
+},
+},
+},
+["CompactRaidFrameContainer"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["ObjectiveTrackerFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["ArcaneCharges"] = {
+["profiles"] = {
+["0-Современный"] = {
+["enabled"] = true,
+["defaultScale"] = 1,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["clamped"] = 1,
+},
+},
+},
+["ArcheologyDigsiteProgressBar"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["MinimapCluster"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["MultiBar7"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["BuffFrame"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["LootFrame"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["Chi"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 339.7999267578125,
+["settings"] = {
+[17] = {
+["AnchorToDropdown"] = {
+},
+},
+},
+["defaultX"] = 729.1000366210938,
+["x"] = 703.5001220703125,
+["enabled"] = true,
+["y"] = 331.800048828125,
+["clamped"] = 1,
+},
+},
+},
+["BossTargetFrameContainer"] = {
+["settings"] = {
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+},
+},
+},
+},
+["MicroMenuContainer"] = {
+["settings"] = {
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+[12] = {
+},
+},
+["profiles"] = {
+["1-Default"] = {
+["settings"] = {
+[12] = {
+},
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+},
+},
+["0-Современный"] = {
+["settings"] = {
+[12] = {
+},
+[17] = {
+["PaddingDropdown"] = {
+},
+},
+},
+},
+},
+},
+["MultiBarBottomRight"] = {
+["profiles"] = {
+["1-Default"] = {
+},
+["0-Современный"] = {
+},
+},
+},
+["GroupLootContainer"] = {
+["profiles"] = {
+["1-Default"] = {
+["defaultScale"] = 1,
+["defaultY"] = 45.00000381469727,
+["defaultX"] = 895.9998779296875,
+["x"] = 895.9998779296875,
+["enabled"] = true,
+["y"] = 45.00000381469727,
+["clamped"] = 1,
+},
+},
+},
+["SecondaryStatusTrackingBarContainer"] = {
+["y"] = 33.40007400512695,
+["x"] = 609.7999267578125,
+["profiles"] = {
+["1-Default"] = {
+["y"] = 44.00017929077148,
+["x"] = 612.9999389648438,
+["settings"] = {
+},
+},
+["0-Современный"] = {
+["y"] = 44.00017929077148,
+["x"] = 612.9998168945312,
+["settings"] = {
+},
+},
+},
+},
+},
 }

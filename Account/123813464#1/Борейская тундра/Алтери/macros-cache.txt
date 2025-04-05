@@ -38,11 +38,19 @@ VER 3 0100000000000016 "HeartOfTheAspect" "Ability_Monk_ThunderFocusTea"
 /cast [noflyable,noindoors] Золотистый древний дикорог
 /dismount [mounted]
 END
+VER 3 0100000000000022 "Kingsbane" "134400"
+#showtooltip
+/use 13
+/cast Погибель королей
+END
 VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
 #showtooltip Ослепление
 /target Сигрин
 /cast Ослепление
 /targetlasttarget
+END
+VER 3 0100000000000021 "Poisons" "132108"
+/castsequence Смертоносный яд, Атрофический яд, Усиление яда, Калечащий яд
 END
 VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
 #showtooltip Отравление

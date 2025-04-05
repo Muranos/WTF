@@ -51,19 +51,14 @@ VER 3 0100000000000018 "IceSpear" "INV_MISC_QUESTIONMARK"
 /cast Ледяное копье
 END
 VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
-#showtooltip Левитация
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Левитация
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Замедленное падение
 END
 VER 3 0100000000000004 "Polymorph" "INV_Misc_QuestionMark"
 #showtooltip Превращение
 /target Сигрин
 /cast Превращение
 /targetlasttarget
-END
-VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
-#showtooltip Слово силы: Щит
-/stopcasting
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Слово силы: Щит
 END
 VER 3 010000000000000E "PrayerOfMending" "135742"
 /target Потусторонняя длань
@@ -78,6 +73,10 @@ VER 3 0100000000000014 "Smite" "INV_MISC_QUESTIONMARK"
 /use Сверкающий подарок
 /cast Стылая кровь
 END
+VER 3 0100000000000005 "SnowStorm" "134400"
+#showtooltip
+/cast [@cursor] Снежная буря
+END
 VER 3 0100000000000007 "TargetFocus" "236227"
 /target focus
 END
@@ -87,4 +86,10 @@ VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
 /cast [flyable,noindoors,nomounted]Гнев Дракона, вечный покой Таресгосы
 /cast [noflyable,noindoors] Повелитель воронов
 /dismount [mounted]
+END
+VER 3 010000000000001D "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 010000000000001E "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Зон[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Эле
 END

@@ -33,16 +33,16 @@ VER 3 0100000000000007 "LustForMe" "537227"
 END
 VER 3 010000000000000C "Statue" "134400"
 #showtooltip
-/cast [@player] Призыв статуи белого тигра
-END
-VER 3 0100000000000005 "Tiger" "INV_MISC_QUESTIONMARK"
-#showtooltip Тигриное рвение
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Тигриное рвение
+/cast [@player] Призыв статуи черного быка
 END
 VER 3 010000000000000D "Tiger" "134400"
 #showtooltip Призыв Сюэня, Белого Тигра
 /use 13
 /cast Призыв Сюэня, Белого Тигра
+END
+VER 3 0100000000000005 "Tiger" "INV_MISC_QUESTIONMARK"
+#showtooltip Тигриное рвение
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Тигриное рвение
 END
 VER 3 010000000000000A "Vivify" "134400"
 #showtooltip Оживить

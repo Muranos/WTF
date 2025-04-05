@@ -31,7 +31,8 @@ VER 3 0100000000000016 "HeartOfTheAspect" "INV_MISC_QUESTIONMARK"
 /cast [@mouseover,nodead,help]Духовное рвение; [harm,nodead] Темная Бездна
 END
 VER 3 0100000000000002 "HolyFire" "INV_Misc_QuestionMark"
-#showtooltip
+#showtooltip Божественное перышко
+/cast Игрушечная призма
 /cast [@cursor] Божественное перышко
 END
 VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"

@@ -1,5 +1,5 @@
 
 AllTheThingsSettingsPerCharacter = {
-	["Filters"] = {
-	},
+["Filters"] = {
+},
 }

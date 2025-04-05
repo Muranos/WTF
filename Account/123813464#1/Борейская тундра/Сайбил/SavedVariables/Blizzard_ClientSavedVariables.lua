@@ -1,8 +1,8 @@
 
 CHANNELPULLOUT_FADEFRAMES = {
-	"ChannelPulloutBackground", -- [1]
-	"ChannelPulloutCloseButton", -- [2]
-	"ChannelPulloutRosterScroll", -- [3]
+"ChannelPulloutBackground",
+"ChannelPulloutCloseButton",
+"ChannelPulloutRosterScroll",
 }
 DISPLAYED_COMMUNITIES_INVITATIONS = {
 }

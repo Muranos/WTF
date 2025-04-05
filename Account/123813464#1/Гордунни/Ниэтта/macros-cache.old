@@ -8,6 +8,10 @@ VER 3 010000000000000A "Cancel" "1723990"
 /cancelaura Призыв к действию: "Брон"
 /cancelaura Божественный скакун
 END
+VER 3 0100000000000015 "ConditionalJudge" "134400"
+#showtooptip
+/cast [exist,harm,nodead] Правосудие; Рывок вперед
+END
 VER 3 010000000000000E "Countdown" "INV_MISC_QUESTIONMARK"
 #showtooltip Последний расчет
 /cast [@cursor] Последний расчет
@@ -56,6 +60,9 @@ VER 3 0100000000000010 "Particle" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover, help] [] Частица Света
 END
+VER 3 0100000000000014 "Puddlehopper" "135909"
+/цель Лужепрыг
+END
 VER 3 0100000000000007 "Sacrifice" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Жертвенное благословение
@@ -64,10 +71,22 @@ VER 3 0100000000000011 "SelfHeal" "134400"
 #showtooltip
 /cast [@player] Торжество
 END
+VER 3 0100000000000017 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСоч[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000016 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ниэ[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000009 "Wrath" "INV_MISC_QUESTIONMARK"
 #showtooltip Гнев карателя
 /cast Гнев карателя
+END
+VER 3 0100000000000018 "Wrath" "134400"
+#showtooltip
+/cast Гнев карателя
+/cast Часовой
+/cast Бастион света
 END

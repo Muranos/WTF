@@ -1,24 +1,45 @@
+VER 3 010000000000000D "Chains" "134400"
+#showtooltip 
+/cast [@cursor] Печать цепей
+END
 VER 3 0100000000000009 "Elisium" "INV_MISC_QUESTIONMARK"
 #showtooltip 
-/cast [@player] Элизийский декрет
+/cast [@cursor] Печать злобы
 END
 VER 3 0100000000000005 "Enemy" "INV_MISC_QUESTIONMARK"
 #showtooltip Заклятый враг
 /use Рог доблести
 /cast Заклятый враг
 END
+VER 3 010000000000000C "Fear" "134400"
+#showtooltip 
+/cast [@cursor] Печать страдания
+END
 VER 3 0100000000000008 "FireSeal" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player] Печать огня
+END
+VER 3 010000000000000B "FlameSigil" "134400"
+#showtooltip
+/cast [@cursor] Печать огня
 END
 VER 3 0100000000000003 "Interrupt" "INV_MISC_QUESTIONMARK"
 #showtooltip Поглощение магии
 /stopcasting
 /cast Поглощение магии
 END
+VER 3 010000000000000F "Leap" "134400"
+#showtooltip Инфернальный удар
+/cast Игрушечная призма
+/cast Инфернальный удар
+END
 VER 3 010000000000000A "OpenCache" "134400"
 #showtooltip Желудок любопытной формы
 /use Желудок любопытной формы
+END
+VER 3 010000000000000E "Silence" "134400"
+#showtooltip 
+/cast [@cursor] Печать немоты
 END
 VER 3 0100000000000007 "Trinket" "INV_MISC_QUESTIONMARK"
 /use Блестящий золотой плюмаж
@@ -31,10 +52,10 @@ VER 3 0100000000000006 "Trinkets" "INV_MISC_QUESTIONMARK"
 /use Ледяная эгида Диимы
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСоч[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Алт[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+NСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Алт[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000004 "Удар Хаоса" "INV_MISC_QUESTIONMARK"
 #showtooltip Удар хаоса

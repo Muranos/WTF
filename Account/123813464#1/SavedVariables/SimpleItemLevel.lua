@@ -1,4 +1,4 @@
 
 SimpleItemLevelDB = {
-	["color"] = false,
+["color"] = false,
 }

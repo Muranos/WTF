@@ -43,7 +43,7 @@ END
 VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
 #showtooltip Щит молний
 /cancelaura Искра безумия
-/castsequence reset=5 Щит молний, Оружие языка пламени
+/castsequence reset=5 Щит молний, Оружие языка пламени, Небесная ярость
 END
 VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
 #showtooltip 

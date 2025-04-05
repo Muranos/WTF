@@ -1,21 +1,21 @@
 
 PremadeGroupsFilterState = {
-	["version"] = 6,
-	["c6f4"] = {
-		["role"] = {
-			["heals"] = {
-			},
-			["tanks"] = {
-			},
-			["dps"] = {
-			},
-			["members"] = {
-			},
-			["expression"] = "",
-		},
-		["mini"] = {
-			["sorting"] = "",
-			["expression"] = "",
-		},
-	},
+["version"] = 6,
+["c6f4"] = {
+["role"] = {
+["heals"] = {
+},
+["tanks"] = {
+},
+["dps"] = {
+},
+["members"] = {
+},
+["expression"] = "",
+},
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+},
 }

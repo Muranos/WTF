@@ -1,36 +1,36 @@
 
 RaiderIO_Config = {
-	["enableKeystoneTooltips"] = true,
-	["disableScoreColors"] = false,
-	["profilePoint"] = {
-		["y"] = 0,
-		["x"] = -16,
-		["point"] = "TOPLEFT",
-	},
-	["enableReplay"] = false,
-	["enableWhoTooltips"] = true,
-	["enableLFGDropdown"] = true,
-	["enableGuildTooltips"] = true,
-	["minimapIcon"] = {
-		["minimapPos"] = 180,
-		["showInCompartment"] = true,
-		["hide"] = false,
-		["lock"] = false,
-	},
-	["showMainsScore"] = true,
-	["enableFriendsTooltips"] = true,
-	["showDropDownCopyURL"] = true,
-	["enableLFGTooltips"] = true,
-	["previouslyEnabledLogging"] = false,
-	["showScoreInCombat"] = true,
-	["enableWhoMessages"] = true,
-	["showSimpleScoreColors"] = false,
-	["alwaysExtendTooltip"] = false,
-	["enableUnitTooltips"] = true,
+["enableKeystoneTooltips"] = true,
+["disableScoreColors"] = false,
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["enableReplay"] = false,
+["enableWhoTooltips"] = true,
+["enableLFGDropdown"] = true,
+["enableGuildTooltips"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["showMainsScore"] = true,
+["enableFriendsTooltips"] = true,
+["showDropDownCopyURL"] = true,
+["enableLFGTooltips"] = true,
+["previouslyEnabledLogging"] = false,
+["showSimpleScoreColors"] = false,
+["enableWhoMessages"] = true,
+["showScoreInCombat"] = true,
+["alwaysExtendTooltip"] = false,
+["enableUnitTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Фламинника-gordunni"
+RaiderIO_LastCharacter = "eu-Эстрэя-gordunni"
 RaiderIO_MissingCharacters = {
-	["eu-Длжс-gordunni"] = true,
+["eu-Эстрэя-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

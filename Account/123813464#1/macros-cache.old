@@ -1,28 +1,9 @@
-VER 3 000000000000004C "AdditionalCovAb" "134400"
-#showtooltip
-/cast [harm,nodead] Правосудие; Рывок вперед
-END
 VER 3 0000000000000033 "Archeology" "INV_MISC_QUESTIONMARK"
 #showtooltip [combat] Рассеивание заклинаний; Исследовать
 /cast [combat] Рассеивание заклинаний; Исследовать
 END
 VER 3 000000000000001F "AutoTurnIn" "Ability_Shaman_Ascendance"
 /script SelectGossipAvailableQuest(1); CompleteQuest(); GetQuestReward();
-END
-VER 3 0000000000000040 "Azerite" "611422"
-/run BuyMerchantItem(3);
-/use Выброшенный азеритовый нагрудник
-END
-VER 3 0000000000000021 "BarrelMark" "132773"
-/run SetRaidTarget("mouseover",13)
-END
-VER 3 000000000000002B "Broom" "136103"
-#showtooltip Волшебная метла
-/dismount [mounted]
-/use Волшебная метла
-END
-VER 3 0000000000000014 "Camera" "SPELL_SHADOW_MINDTWISTING"
-/console cameraDistanceMaxZoomFactor 2.6
 END
 VER 3 000000000000001E "CancelBop" "136223"
 /script PetDismiss()
@@ -35,19 +16,14 @@ VER 3 000000000000001E "CancelBop" "136223"
 END
 VER 3 000000000000002A "CandyAndFish" "INV_MISC_QUESTIONMARK"
 #showtooltip Пригоршня конфет
+/cancelaura Костюм лепрогнома
+/cancelaura Костюм пирата
+/cancelaura Костюм летучей мыши
+/cancelaura Костюм горгульи
 /use Пригоршня конфет
 /use Древний лосось Крутогорья
 /use Карп холодных вод
 /use Горный иглобрюх
-END
-VER 3 0000000000000056 "ChasingDream" "237543"
-/cleartarget
-/target Кряква из Сна
-/target Землехвойка из Сна
-/target Образ невинности
-/cleartarget [dead]
-/stopmacro [dead][noexists]
-/run if not GetRaidTargetIndex("target")then SetRaidTarget("target",8)end
 END
 VER 3 000000000000002F "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
 /cm rc
@@ -58,43 +34,11 @@ END
 VER 3 0000000000000029 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
 /cm rt
 END
-VER 3 0000000000000050 "DrumsAndPot" "INV_MISC_QUESTIONMARK"
-#showtooltip Барабаны гор
-/use Барабаны гор
-/use Зелье длительной силы
-END
-VER 3 0000000000000022 "DualMount" "Ability_AnimusDraw"
-/click [btn:1]MTSB2 LeftButton;[btn:2]MTSB2 RightButton;[btn:3]MTSB2 MiddleButton;[btn:4]MTSB2 Button4;[btn:5]MTSB2 Button5
-END
 VER 3 0000000000000045 "ExtraAction" "INV_MISC_QUESTIONMARK"
 #showtooltip /click ExtraActionButton1
 END
-VER 3 000000000000004E "FaeBlink" "4178535"
-/cast Облик души
-/cast Скульптор плоти
-END
-VER 3 000000000000002D "Fire" "1392549"
-#showtooltip  Пламя феникса
-/stopcasting
-/cast Пламя феникса
-END
 VER 3 0000000000000046 "FocusMouseover" "136001"
 /focus [@mouseover]
-END
-VER 3 0000000000000016 "GroundMount" "Ability_Druid_TwilightsWrath"
-/cast [modifier] Большой як для путешествий
-/castrandom [nomod,nomounted] Большой кодо Хмельного фестиваля, Ископаемый ящер, Лазурный ездовой журавль, Повелитель воронов, Огненный боевой конь
-/dismount [mounted] 
-END
-VER 3 0000000000000026 "GuardianSpirit" "INV_MISC_QUESTIONMARK"
-#showtooltip Оберегающий дух
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Оберегающий дух
-END
-VER 3 0000000000000032 "Hide" "132208"
-/run GetMouseFocus():Enable()
-END
-VER 3 000000000000003D "HideCastBar" "INV_MISC_QUESTIONMARK"
-/run SetCVar("showTargetCastbar", 0) ReloadUI()
 END
 VER 3 0000000000000055 "Invite" "4667426"
 /invite Сочувствие-Гордунни
@@ -106,23 +50,11 @@ VER 3 0000000000000055 "Invite" "4667426"
 /invite Рептилоиды-Гордунни
 /invite Пойдёт-Гордунни
 END
-VER 3 000000000000004F "Kick_Mage" "135730"
-/w Xynnmage-Alleria Your kick
+VER 3 0000000000000054 "IsQuestComplete" "132160"
+/script print(C_QuestLog.IsQuestFlaggedCompleted(65419))
 END
 VER 3 000000000000003C "Kiss" "897141"
 /kiss
-END
-VER 3 0000000000000027 "LightOfTuure" "INV_MISC_QUESTIONMARK"
-#showtooltip Свет Т'ууре
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Свет Т'ууре
-END
-VER 3 000000000000004B "MainCovenantAb" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast Пепельное освящение
-/cast Божественный благовест
-/cast Благословение лета
-/cast Молот покорителя
-/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Пепельное освящение" or G"Божественный благовест" or G"Благословение лета")
 END
 VER 3 0000000000000038 "Mark_Circle" "135744"
 /run SetRaidTarget("mouseover", 2);
@@ -148,20 +80,8 @@ END
 VER 3 000000000000004A "Mark_Triangle" "INV_MISC_QUESTIONMARK"
 /run SetRaidTarget("mouseover", 7);
 END
-VER 3 0000000000000041 "MawMount" "236288"
-/run if(C_Map.GetBestMapForUnit("player")==1543)then C_MountJournal.SummonByID(376);else C_MountJournal.SummonByID(0);end
-END
 VER 3 000000000000001B "Murloc" "Ability_Hunter_FocusedAim"
 /script PlaySoundFile("Sound\\Creature\\Murloc\\mMurlocAggroOld.wav")
-END
-VER 3 0000000000000028 "NumberSeparator" "136103"
-/run LARGE_NUMBER_SEPERATOR = " "
-END
-VER 3 000000000000004D "Owlinator" "3811750"
-/cast Призыв распорядителя
-/cast Облик души
-/cast Скульптор плоти
-/cast Врата теней
 END
 VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
@@ -170,16 +90,9 @@ END
 VER 3 0000000000000031 "Pull" "136103"
 /pull 3
 END
-VER 3 0000000000000034 "Reload" "2115306"
-/reload
-END
 VER 3 0000000000000024 "Renew" "INV_MISC_QUESTIONMARK"
 #showtooltip Обновление
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Обновление
-END
-VER 3 0000000000000052 "Rupture" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@player] Вознесение
 END
 VER 3 0000000000000025 "Serenity" "INV_MISC_QUESTIONMARK"
 #showtooltip Слово Света: Безмятежность
@@ -194,28 +107,8 @@ VER 3 0000000000000015 "Spear" "SPELL_HOLY_SURGEOFLIGHT"
 /click ExtraActionButton1
 /targetlasttarget
 END
-VER 3 000000000000001A "SpecialCast" "Ability_Mage_ColdAsIce"
-/target Гудящий кристалл
-/target Дух дикорога
-/target Живая скверна
-/cast Слово Тьмы: Боль
-/targetlasttarget
-END
-VER 3 0000000000000035 "tar" "132311"
-/ц Статуя
-END
 VER 3 0000000000000042 "TheVaultIsGreat" "135923"
 /run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
-END
-VER 3 0000000000000051 "Tugar_Mindbender" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/target Тугар
-/cast Подчинитель разума
-END
-VER 3 000000000000002E "Turkey" "INV_MISC_QUESTIONMARK"
-#showtooltip Слово тьмы: Боль
-/target Взрывчатка Скверны
-/cast Слово тьмы: Боль
 END
 VER 3 0000000000000047 "UseBelt" "INV_MISC_QUESTIONMARK"
 #showtooltip 6
@@ -227,7 +120,4 @@ VER 3 0000000000000043 "UsetTrinket" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000053 "WorldMarker" "132864"
 /wm [@cursor] 1
-END
-VER 3 0000000000000054 "Цель" "132160"
-/ц Беспокойный цыпоид
 END

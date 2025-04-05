@@ -1,7114 +1,7538 @@
 
 Bartender4DB = {
-	["namespaces"] = {
-		["StatusTrackingBar"] = {
-			["profiles"] = {
-				["Ниамэй - Гордунни"] = {
-					["enabled"] = true,
-					["width"] = 790,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 62.00033569335938,
-						["x"] = -411.9000854492188,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 54.00014877319336,
-						["x"] = -417.5001831054688,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Altery - Durotan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 52.40082550048828,
-						["x"] = -415.9000854492188,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-					["width"] = 802,
-				},
-				["Altery - Bronzebeard"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 61.42992401123047,
-						["x"] = -308.0001220703125,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 57.60009384155273,
-						["x"] = -304.9999389648438,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48.40029907226563,
-						["x"] = -414.3000793457031,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Шайэн - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 54.00014877319336,
-						["x"] = -417.5001831054688,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 29,
-						["x"] = -289.5,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Estrea - Alleria"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 54.499755859375,
-						["x"] = -411.9999084472656,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Elavi - Durotan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Delery - Durotan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 54.00014877319336,
-						["x"] = -417.5001831054688,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 54.00014877319336,
-						["x"] = -417.5001831054688,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["enabled"] = true,
-					["width"] = 827,
-					["position"] = {
-						["y"] = 61.20005035400391,
-						["x"] = -433.5000610351563,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1.264999985694885,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["y"] = 62,
-					},
-				},
-				["Ниэтта - Гордунни"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 64.40007019042969,
-						["x"] = -420.7000732421875,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-					["width"] = 814,
-				},
-				["Фламиника - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 58.0001792907715,
-						["x"] = -417.500183105469,
-						["point"] = "BOTTOM",
-					},
-				},
-			},
-		},
-		["QueueStatus"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -214.0552978515625,
-						["x"] = -266.87744140625,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -216.033203125,
-						["x"] = -267.2996826171875,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["version"] = 3,
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -217.3663330078125,
-						["x"] = -267.72216796875,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -216.07763671875,
-						["x"] = -264.4774169921875,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -214.5999145507813,
-						["x"] = -267.8001708984375,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -218.4854736328125,
-						["x"] = -264.3709716796875,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -217.6445922851563,
-						["x"] = -262.7222900390625,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["position"] = {
-						["y"] = -216.2001953125,
-						["x"] = -264.599853515625,
-						["point"] = "TOPRIGHT",
-					},
-					["version"] = 3,
-				},
-				["Зонна - Борейская тундра"] = {
-					["version"] = 3,
-				},
-				["Ниэтта - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -220.2001953125,
-						["x"] = -266.9998779296875,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 40.5,
-						["x"] = -271,
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-				},
-			},
-		},
-		["ActionBars"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -223.6995753486845,
-								["x"] = 79.49985667466535,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.99999741385955,
-								["x"] = -13.87810887387605,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 67.75009001984563,
-								["x"] = -226.811934426587,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99920272827148,
-								["x"] = 462.188232421875,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["fadeout"] = true,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 2.5,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["states"] = {
-								["stance"] = {
-									["DRUID"] = {
-										["prowl"] = 7,
-										["moonkin"] = 3,
-									},
-								},
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 71.7500239480596,
-								["x"] = -225.0114051700839,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000071525574,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.59933853149414,
-								["x"] = -496.312255859375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.0005695025352,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 79.95016349964453,
-								["x"] = -230.2114711427494,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000071525574,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 2.5,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 2.5,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -223.6995753486845,
-								["x"] = 79.49985667466535,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 75.75000708383686,
-								["x"] = -224.4116337611158,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99920272827148,
-								["x"] = 462.188232421875,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["position"] = {
-								["y"] = 82,
-								["x"] = -285,
-								["point"] = "BOTTOM",
-							},
-							["version"] = 3,
-							["WoW10Layout"] = true,
-							["showgrid"] = true,
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = -223.9998474121094,
-								["x"] = -284.5000915527344,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["flyoutDirection"] = "LEFT",
-							["position"] = {
-								["y"] = 193,
-								["x"] = -54,
-								["point"] = "RIGHT",
-							},
-							["rows"] = 12,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [3]
-						{
-							["flyoutDirection"] = "LEFT",
-							["position"] = {
-								["y"] = 193,
-								["x"] = -104,
-								["point"] = "RIGHT",
-							},
-							["rows"] = 12,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [4]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 184,
-								["x"] = -285,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 133,
-								["x"] = -285,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-							["WoW10Layout"] = true,
-						}, -- [7]
-						{
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["WoW10Layout"] = true,
-						}, -- [9]
-						{
-							["WoW10Layout"] = true,
-						}, -- [10]
-						[14] = {
-							["WoW10Layout"] = true,
-						},
-						[13] = {
-							["WoW10Layout"] = true,
-						},
-						[15] = {
-							["WoW10Layout"] = true,
-						},
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["actionbars"] = {
-						{
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-							["padding"] = 6,
-							["version"] = 3,
-							["states"] = {
-								["stance"] = {
-									["DRUID"] = {
-										["prowl"] = 7,
-										["moonkin"] = 3,
-									},
-								},
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 71.75013285665318,
-								["x"] = -225.8115974485627,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 39.9993896484375,
-								["x"] = 463.1878662109375,
-								["point"] = "BOTTOM",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.0005695025352,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [10]
-					},
-				},
-				["Elavi - Durotan"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -223.6995753486845,
-								["x"] = 79.49985667466535,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 71.75006152181231,
-								["x"] = -226.8114525181118,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99920272827148,
-								["x"] = 462.188232421875,
-								["point"] = "BOTTOM",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -221.699859619141,
-								["x"] = 31.4999914169312,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -221.120788574219,
-								["x"] = 61.0500240325928,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 44,
-								["x"] = -5.27783203125,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 85.75,
-								["x"] = -217.810974121094,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 195.000015258789,
-								["x"] = -237.31201171875,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -221.250885009766,
-								["x"] = 2.05001002550125,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 196.551803588867,
-								["x"] = -117.999755859375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [10]
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["y"] = 35.7499289049802,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 79.49985667466535,
-								["point"] = "TOPLEFT",
-								["y"] = -223.6995753486845,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["y"] = -222.1203272390558,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["y"] = 36.999935806497,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.8500000238418579,
-								["x"] = -226.8115193875128,
-								["point"] = "BOTTOM",
-								["y"] = 86.95001807914105,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99920272827148,
-								["x"] = 462.188232421875,
-								["point"] = "BOTTOM",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["y"] = -222.2509155273438,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["y"] = -222.4470606504765,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["fadeout"] = true,
-						}, -- [10]
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-						}, -- [1]
-						{
-							["rows"] = 2,
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.99993580649698,
-								["x"] = -13.27802520297701,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-						}, -- [5]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 73.15003372841056,
-								["x"] = -228.8116273780252,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000071525574,
-							},
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 38.9996337890625,
-								["x"] = 462.1884765625,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [9]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Ниэтта - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.8511496023857,
-								["x"] = 73.25002732475696,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4184347414412,
-								["x"] = 50.24999101042704,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 68.54992747885262,
-								["x"] = -224.4113831911163,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000071525574,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99920272827148,
-								["x"] = 462.188232421875,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.3052902056952,
-								["x"] = 25.64999918818467,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -221.699859619141,
-								["x"] = 31.4999914169312,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -221.120788574219,
-								["x"] = 61.0500240325928,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 195.000015258789,
-								["x"] = -237.31201171875,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.75,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 196.551803588867,
-								["x"] = -117.999755859375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [10]
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["padding"] = 6.25,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [3]
-						{
-							["padding"] = 6.25,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 71.75006152181231,
-								["x"] = -228.8114739365155,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99939346313477,
-								["x"] = 462.1878662109375,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["padding"] = 6.25,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["padding"] = 6.25,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-							["WoW10Layout"] = true,
-							["version"] = 3,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 79.35015708464198,
-								["x"] = -228.6114955399826,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000071525574,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 39.9993782043457,
-								["x"] = 463.1878662109375,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["padding"] = 6.25,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["padding"] = 6.25,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.99993580649698,
-								["x"] = -13.27802520297701,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 69.75018277309027,
-								["x"] = -226.8115822178224,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 2.5,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["padding"] = 6.25,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["padding"] = 6.25,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Altery - Durotan"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 71.75019770650852,
-								["x"] = -227.8115151071979,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [10]
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["y"] = 35.7499289049802,
-							},
-						}, -- [1]
-						{
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -190.499755859375,
-								["x"] = -120.000610351563,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.75,
-								["x"] = 31.4999914169312,
-								["point"] = "TOPLEFT",
-								["y"] = -221.699859619141,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.75,
-								["x"] = 61.0500240325928,
-								["point"] = "TOPLEFT",
-								["y"] = -221.120788574219,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["y"] = 36.999935806497,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["y"] = 92.7502150802111,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 195.000015258789,
-								["x"] = -237.31201171875,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.75,
-								["x"] = 2.05001002550125,
-								["point"] = "TOPLEFT",
-								["y"] = -221.250885009766,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 4,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 196.551803588867,
-								["x"] = -117.999755859375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [10]
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 70.74999244774062,
-								["x"] = -229.8115105856596,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99913024902344,
-								["x"] = 462.1878662109375,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 70.74999244774062,
-								["x"] = -229.8115105856596,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["y"] = 35.7499289049802,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["y"] = -222.6997462073923,
-							},
-							["fadeout"] = true,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 54.05004945000201,
-								["point"] = "TOPLEFT",
-								["y"] = -222.1204004812462,
-							},
-							["fadeout"] = true,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["y"] = 36.999935806497,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.850000023841858,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["y"] = 92.7502150802111,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["y"] = -222.2509155273438,
-							},
-							["fadeout"] = true,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["scale"] = 0.6000000238418579,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["y"] = -222.4470606504765,
-							},
-							["fadeout"] = true,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [10]
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [3]
-						{
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["rows"] = 12,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 2.5,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["padding"] = 6.25,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["rows"] = 12,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-					},
-				},
-				["Estrea - Alleria"] = {
-					["actionbars"] = {
-						{
-							["states"] = {
-								["stance"] = {
-									["DRUID"] = {
-										["moonkin"] = 7,
-										["cat"] = 10,
-										["prowl"] = 10,
-									},
-								},
-							},
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.74960141321071,
-								["x"] = -439.0007239117549,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [1]
-						{
-							["padding"] = 13,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 38.00008270039507,
-								["x"] = 464.50006742197,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -223.4249171346455,
-								["x"] = -0.8999992489814446,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -223.1201563803479,
-								["x"] = 24.05004139145376,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["version"] = 3,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.00025907405006,
-								["x"] = -10.27858969404042,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 70.74946716391241,
-								["x"] = -217.8121602735009,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8500000238418579,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -223.1199366537767,
-								["x"] = 49.850049283109,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["rows"] = 12,
-							["padding"] = 5,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.9563136003999,
-								["x"] = 75.6500640412196,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.9563136003999,
-								["x"] = 101.4500925322409,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["padding"] = 5,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["version"] = 3,
-						}, -- [10]
-					},
-				},
-				["Delery - Durotan"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 5,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 5,
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6,
-							},
-							["version"] = 3,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 5,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.6000000238418579,
-							},
-							["version"] = 3,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 5,
-						}, -- [10]
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.4998474121094,
-								["x"] = -231.5001831054688,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-							["padding"] = 7.5,
-							["WoW10Layout"] = true,
-							["states"] = {
-								["stance"] = {
-									["DRUID"] = {
-										["prowl"] = 7,
-										["moonkin"] = 3,
-									},
-								},
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 71.75013285665318,
-								["x"] = -225.8115974485627,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734864,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 39.9993896484375,
-								["x"] = 463.1878662109375,
-								["point"] = "BOTTOM",
-								["scale"] = 0.8,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.0005695025352,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-							["WoW10Layout"] = true,
-							["fadeout"] = true,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35.7499289049802,
-								["x"] = -440.000112062346,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["rows"] = 2,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -267.4994812011719,
-								["x"] = -234,
-								["point"] = "RIGHT",
-							},
-						}, -- [2]
-						{
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.6997462073923,
-								["x"] = 78.50000922282561,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-						}, -- [3]
-						{
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.1203272390558,
-								["x"] = 53.05003720323384,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-								["nocombat"] = false,
-							},
-							["padding"] = 6.25,
-						}, -- [4]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36.999935806497,
-								["x"] = -12.277988553833,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [5]
-						{
-							["WoW10Layout"] = true,
-							["padding"] = 7.5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 92.7502150802111,
-								["x"] = -227.811437287372,
-								["point"] = "BOTTOM",
-								["scale"] = 0.6800000190734865,
-							},
-						}, -- [6]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [7]
-						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.99952697753906,
-								["x"] = -466.3118896484375,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.8,
-							},
-							["padding"] = 2.5,
-							["WoW10Layout"] = true,
-						}, -- [8]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.2509155273438,
-								["x"] = 1.05000051856041,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.48,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-						}, -- [9]
-						{
-							["enabled"] = true,
-							["fadeout"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -222.4470606504765,
-								["x"] = 28.00057636899055,
-								["point"] = "TOPLEFT",
-								["scale"] = 0.4800000190734863,
-							},
-							["WoW10Layout"] = true,
-							["rows"] = 12,
-							["visibility"] = {
-								["combat"] = true,
-							},
-							["padding"] = 6.25,
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499847412109,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 94,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 94,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-			},
-		},
-		["LibDualSpec-1.0"] = {
-			["char"] = {
-				["Алоиза - Борейская тундра"] = {
-					["enabled"] = false,
-				},
-			},
-		},
-		["ExtraActionBar"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -177.4091186523438,
-						["x"] = 460.67333984375,
-						["point"] = "TOP",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -250.4091796875,
-						["x"] = 348.673095703125,
-						["point"] = "TOP",
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -235.8258666992188,
-						["x"] = 328.8438720703125,
-						["point"] = "TOP",
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -177.4091186523438,
-						["x"] = 460.67333984375,
-						["point"] = "TOP",
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 287,
-						["x"] = -63.5,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -250.4091796875,
-						["x"] = 348.673095703125,
-						["point"] = "TOP",
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -177.4091186523438,
-						["x"] = 460.67333984375,
-						["point"] = "TOP",
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -198.909301757813,
-						["x"] = 427.172027587891,
-						["point"] = "LEFT",
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -177.4091186523438,
-						["x"] = 460.67333984375,
-						["point"] = "TOP",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["position"] = {
-						["y"] = -167.3131103515625,
-						["x"] = 432.6009521484375,
-						["point"] = "TOP",
-					},
-					["version"] = 3,
-				},
-				["Ниэтта - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -193.2058715820313,
-						["x"] = 446.2156982421875,
-						["point"] = "TOP",
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -207.4091186523438,
-						["x"] = 440.673095703125,
-						["point"] = "TOP",
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -211.8091430664063,
-						["x"] = 481.873046875,
-						["point"] = "TOP",
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -188.0463256835938,
-						["x"] = 400.822998046875,
-						["point"] = "TOP",
-					},
-				},
-				["Altery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -179.4091186523438,
-						["x"] = 439.673095703125,
-						["point"] = "TOP",
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Estrea - Alleria"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -250.4091796875,
-						["x"] = 348.673095703125,
-						["point"] = "TOP",
-					},
-				},
-				["Delery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 110.090759277344,
-						["x"] = 446.673095703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.0000305175781,
-						["x"] = -31.50006103515625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -250.4091796875,
-						["x"] = 348.673095703125,
-						["point"] = "TOP",
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -210.5393676757813,
-						["x"] = 288.882080078125,
-						["point"] = "TOP",
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000030517578,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-			},
-		},
-		["MicroMenu"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["padding"] = 2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 280.2714460326697,
-						["x"] = 32.66621038119774,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["padding"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 279.5714460445906,
-						["x"] = 31.49286178362604,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 283.0714246226817,
-						["x"] = 29.62621829124487,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 34,
-						["x"] = -229,
-						["point"] = "BOTTOMRIGHT",
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 41.0000076293945,
-						["x"] = -291.999877929688,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 1,
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 0.699999988079071,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["y"] = -26.99977379186021,
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 286.4809979288748,
-						["x"] = 31.31334632952985,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-					["padding"] = 2,
-				},
-				["Ниэтта - Гордунни"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 280.9714032961401,
-						["x"] = 30.5062330772837,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.0000076293945,
-						["x"] = -291.999877929688,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 1,
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["padding"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 279.5714460445906,
-						["x"] = 31.46623901186263,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 283.8734509762107,
-						["x"] = 34.46623018696937,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["padding"] = 2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 280.2714460326697,
-						["x"] = 29.27957751956024,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Altery - Durotan"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -291.999877929688,
-						["point"] = "BOTTOMRIGHT",
-						["y"] = 41.0000076293945,
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["fadeout"] = true,
-					["padding"] = 6,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 277.4714460803534,
-						["x"] = 119.835669956281,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["scale"] = 0.699999988079071,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["y"] = -26.99977379186021,
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["padding"] = -2,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -26.99968834264291,
-						["x"] = -438.6509549234434,
-						["point"] = "TOP",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Estrea - Alleria"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Delery - Durotan"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["padding"] = 4,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 283.0714246226817,
-						["x"] = 33.94620761281749,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["fadeout"] = true,
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -26.99977379186021,
-						["x"] = 321.9990332126781,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.699999988079071,
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
-					},
-				},
-			},
-		},
-		["ZoneAbilityBar"] = {
-			["profiles"] = {
-				["Вейлзевулла - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000045776367,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Altery - Durotan"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 0.8,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["y"] = -202.891403198242,
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 0.8,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["y"] = -202.891403198242,
-					},
-				},
-				["Elavi - Durotan"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Delery - Durotan"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -198.891448974609,
-						["x"] = -429.481811523438,
-						["point"] = "CENTER",
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.0000457763672,
-						["x"] = -31.50006103515625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ниэтта - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -202.891403198242,
-						["x"] = -430.481811523438,
-						["point"] = "CENTER",
-						["scale"] = 0.8,
-					},
-				},
-			},
-		},
-		["XPBar"] = {
-			["profiles"] = {
-				["Элави - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 55.4997057907349,
-						["x"] = 454.999941001834,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.959999978542328,
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 0.899999976158142,
-						["x"] = -476.549939564866,
-						["point"] = "BOTTOM",
-						["y"] = 53.4997567309338,
-					},
-				},
-			},
-		},
-		["APBar"] = {
-		},
-		["BlizzardArt"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 87,
-						["x"] = -288.5,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-					["artLayout"] = "MODERN",
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-					["version"] = 3,
-				},
-				["Ниэтта - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Altery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Estrea - Alleria"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Delery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 48,
-						["x"] = 448.000061035156,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-			},
-		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -147.4999542236328,
-						["x"] = 444.5001831054688,
-						["point"] = "LEFT",
-						["scale"] = 1,
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["padding"] = 5.3,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 71.82268731010845,
-						["x"] = -441.0001602289922,
-						["point"] = "BOTTOM",
-						["scale"] = 1.009999990463257,
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.2222213745117,
-						["x"] = -458,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -147.4999542236328,
-						["x"] = 444.5001831054688,
-						["point"] = "LEFT",
-						["scale"] = 1,
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -285,
-						["point"] = "BOTTOM",
-						["y"] = 168,
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 70.99974822998047,
-						["x"] = -439.0001831054688,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -147.4999542236328,
-						["x"] = 444.5001831054688,
-						["point"] = "LEFT",
-						["scale"] = 1,
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 444.5001831054688,
-						["point"] = "LEFT",
-						["y"] = -147.4999542236328,
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 77.00066375732422,
-						["x"] = -442.400146484375,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Ниэтта - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -147.4999542236328,
-						["x"] = 444.5001831054688,
-						["point"] = "LEFT",
-						["scale"] = 1,
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 73.60049438476562,
-						["x"] = -441.6001586914063,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Altery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 155,
-						["x"] = -479.5000610351563,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Estrea - Alleria"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 71.99942779541016,
-						["x"] = -438.0001220703125,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Delery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 155,
-						["x"] = -479.5000610351563,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99996185302734,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 70.99974822998047,
-						["x"] = -439.0001831054688,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-			},
-		},
-		["BagBar"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 11.10004631280754,
-						["x"] = -1.799998497962889,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 60.90030606985965,
-						["x"] = -0.3338699115860422,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -61.29963918128487,
-						["x"] = -2.933863851780245,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 74,
-						["x"] = -212,
-						["point"] = "BOTTOMRIGHT",
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -61.29963918128487,
-						["x"] = -2.933863851780245,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 36,
-						["x"] = -454.93359375,
-						["point"] = "BOTTOMRIGHT",
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["scale"] = 0.6000000238418579,
-						["x"] = -2.933863851780245,
-						["point"] = "LEFT",
-						["y"] = -61.29963918128487,
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Ниэтта - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -61.29963918128487,
-						["x"] = -2.933863851780245,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 37.9997673034668,
-						["x"] = -460.933715820313,
-						["point"] = "BOTTOMRIGHT",
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Altery - Durotan"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = 37.9997673034668,
-						["x"] = -460.933715820313,
-						["point"] = "BOTTOMRIGHT",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 0.6000000238418579,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["y"] = -30.29980884789984,
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Estrea - Alleria"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Delery - Durotan"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["fadeout"] = true,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["fadeout"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = -30.29980884789984,
-						["x"] = -1.933864908769323,
-						["point"] = "LEFT",
-						["scale"] = 0.6000000238418579,
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-			},
-		},
-		["Vehicle"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 90.2221908569336,
-						["x"] = -412,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 119.5483856201172,
-						["x"] = -441.8333740234375,
-						["point"] = "BOTTOM",
-						["scale"] = 1.5,
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 114.0222930908203,
-						["x"] = -413.2000122070313,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 90.2221908569336,
-						["x"] = -412,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 153,
-						["x"] = -337,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 92.222412109375,
-						["x"] = -458.9998474121094,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 90.2221908569336,
-						["x"] = -412,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 90.2221908569336,
-						["x"] = -412,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["position"] = {
-						["y"] = 125.2220993041992,
-						["x"] = -444.3999176025391,
-						["point"] = "BOTTOM",
-						["scale"] = 1.5,
-					},
-					["version"] = 3,
-				},
-				["Ниэтта - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 104.0815124511719,
-						["x"] = -421.6999206542969,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 123.6221542358398,
-						["x"] = -440.400146484375,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Altery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Estrea - Alleria"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 106.2223815917969,
-						["x"] = -433,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Delery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50006103515625,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 92.222412109375,
-						["x"] = -458.9998474121094,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 117.222229003906,
-						["x"] = -426,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-			},
-		},
-		["PetBar"] = {
-			["profiles"] = {
-				["Шайэн - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Алтери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Эстрэя - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Алоиза - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Тиаз - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Эллиата - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Мэйрика - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 168,
-						["x"] = -41,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Estrea - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Elavi - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Nietta - EU Mythic Dungeons"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Элави - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -137.728454589844,
-						["x"] = -3.16436171531677,
-						["point"] = "LEFT",
-					},
-				},
-				["Ниоши - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Алоиза - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -255.5189819335938,
-						["x"] = 91.42378997802734,
-						["point"] = "LEFT",
-					},
-				},
-				["Ниэтта - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Фламиника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Дэлери - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Ниамэй - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -240.7284545898438,
-						["x"] = 103.8356475830078,
-						["point"] = "LEFT",
-					},
-				},
-				["Фламинника - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Altery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Altery - Bronzebeard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Алтэри - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Нирейя - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -120,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Дэлери - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Эрника - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Flaminika - Silvermoon"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Зонна - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Flaminika - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Estrea - Alleria"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Delery - Durotan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Хилопятьумер - Гордунни"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Эстрея - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Сайбил - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -261.728546142578,
-						["x"] = 103.835639953613,
-						["point"] = "LEFT",
-					},
-				},
-				["Вейлзевулла - Борейская тундра"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-			},
-		},
-		["RepBar"] = {
-		},
-	},
-	["profileKeys"] = {
-		["Шайэн - Гордунни"] = "Шайэн - Гордунни",
-		["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
-		["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
-		["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
-		["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
-		["Эллиата - Гордунни"] = "Эллиата - Гордунни",
-		["Мэйрика - Гордунни"] = "Алоиза - Гордунни",
-		["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-		["Elavi - Durotan"] = "Elavi - Durotan",
-		["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
-		["Элави - Борейская тундра"] = "Элави - Борейская тундра",
-		["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
-		["Алоиза - Гордунни"] = "Алоиза - Гордунни",
-		["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
-		["Фламиника - Борейская тундра"] = "Фламиника - Борейская тундра",
-		["Дэлери - Гордунни"] = "Дэлери - Гордунни",
-		["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
-		["Фламинника - Гордунни"] = "Фламинника - Гордунни",
-		["Altery - Durotan"] = "Altery - Durotan",
-		["Altery - Bronzebeard"] = "Altery - Bronzebeard",
-		["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-		["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
-		["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
-		["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
-		["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
-		["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
-		["Flaminika - Durotan"] = "Flaminika - Durotan",
-		["Estrea - Alleria"] = "Estrea - Alleria",
-		["Delery - Durotan"] = "Delery - Durotan",
-		["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
-		["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
-		["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
-		["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
-	},
-	["profiles"] = {
-		["Шайэн - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Алтери - Борейская тундра"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Эстрэя - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Алоиза - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["outofrange"] = "hotkey",
-		},
-		["Тиаз - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["outofrange"] = "hotkey",
-		},
-		["Эллиата - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["outofrange"] = "hotkey",
-		},
-		["Мэйрика - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Estrea - EU Mythic Dungeons"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Elavi - Durotan"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Nietta - EU Mythic Dungeons"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Элави - Борейская тундра"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Ниоши - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Алоиза - Гордунни"] = {
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["outofrange"] = "hotkey",
-		},
-		["Ниэтта - Гордунни"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Фламиника - Борейская тундра"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Дэлери - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Ниамэй - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Фламинника - Гордунни"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Altery - Durotan"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Altery - Bronzebeard"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Алтэри - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Нирейя - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Дэлери - Борейская тундра"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Эрника - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Flaminika - Silvermoon"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Зонна - Борейская тундра"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Flaminika - Durotan"] = {
-			["snapping"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Estrea - Alleria"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Delery - Durotan"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Хилопятьумер - Гордунни"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Эстрея - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["blizzardVehicle"] = true,
-			["snapping"] = false,
-			["outofrange"] = "hotkey",
-		},
-		["Сайбил - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
-			["outofrange"] = "hotkey",
-		},
-		["Вейлзевулла - Борейская тундра"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-	},
+["namespaces"] = {
+["StatusTrackingBar"] = {
+["profiles"] = {
+["Ниамэй - Гордунни"] = {
+["enabled"] = true,
+["width"] = 790,
+["version"] = 3,
+["position"] = {
+["y"] = 62.00033569335938,
+["x"] = -411.9000854492188,
+["point"] = "BOTTOM",
+},
+},
+["Алтери - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 59.60024642944336,
+["x"] = -323.1004638671875,
+["point"] = "BOTTOM",
+},
+},
+["Фламинника - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 59.6001091003418,
+["x"] = -301.5003662109375,
+["point"] = "BOTTOM",
+},
+},
+["Altery - Durotan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Эстрэя - Гордунни"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 62.80068969726563,
+["x"] = -415.1000366210938,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["width"] = 802,
+},
+["Altery - Bronzebeard"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Алоиза - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61.42992401123047,
+["x"] = -308.0001220703125,
+["point"] = "BOTTOM",
+},
+},
+["Elavi - Durotan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Тиаз - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Шайэн - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61.20005035400391,
+["x"] = -299.9004821777344,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Алтэри - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 63.60013580322266,
+["x"] = -302.3002319335938,
+["point"] = "BOTTOM",
+},
+},
+["Сайбил - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.00023651123047,
+["x"] = -292.700439453125,
+["point"] = "BOTTOM",
+},
+},
+["Эллиата - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61.20026016235352,
+["x"] = -302.30029296875,
+["point"] = "BOTTOM",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 57.60009384155273,
+["x"] = -304.9999389648438,
+["point"] = "BOTTOM",
+},
+},
+["Рефти - Гордунни"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 64.40007019042969,
+["x"] = -420.7000732421875,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["width"] = 814,
+},
+["Мэйрика - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Estrea - Alleria"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54.499755859375,
+["x"] = -411.9999084472656,
+["point"] = "BOTTOM",
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Ващеновый - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -289.5,
+["point"] = "BOTTOM",
+["y"] = 29,
+},
+},
+["Зонна - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 61.20026016235352,
+["x"] = -301.5003662109375,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Durotan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Delery - Durotan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54.00014877319336,
+["x"] = -417.5001831054688,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Silvermoon"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Ниоши - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 54.00014877319336,
+["x"] = -417.5001831054688,
+["point"] = "BOTTOM",
+},
+},
+["Алоиза - Гордунни"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 61.20005035400391,
+["x"] = -433.5000610351563,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["width"] = 827,
+},
+["Хилопятьумер - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 1.264999985694885,
+["x"] = -515,
+["point"] = "BOTTOM",
+["y"] = 62,
+},
+},
+["Ниэтта - Гордунни"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 64.40007019042969,
+["x"] = -420.7000732421875,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["width"] = 814,
+},
+["Фламиника - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 58.0001792907715,
+["x"] = -417.500183105469,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["QueueStatus"] = {
+["profiles"] = {
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -217.6445922851563,
+["x"] = -262.7222900390625,
+["point"] = "TOPRIGHT",
+},
+},
+["Алтери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -175.3997192382813,
+["x"] = -275,
+["point"] = "TOPRIGHT",
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -216.033203125,
+["x"] = -267.2996826171875,
+["point"] = "TOPRIGHT",
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -216.07763671875,
+["x"] = -264.4774169921875,
+["point"] = "TOPRIGHT",
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -214.5999145507813,
+["x"] = -267.8001708984375,
+["point"] = "TOPRIGHT",
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+},
+["Рефти - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -220.2001953125,
+["x"] = -266.9998779296875,
+["point"] = "TOPRIGHT",
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -271,
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -324,
+},
+},
+["Зонна - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -173.7999877929688,
+["x"] = -272.5999755859375,
+["point"] = "TOPRIGHT",
+},
+},
+["Шайэн - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -214.0552978515625,
+["x"] = -266.87744140625,
+["point"] = "TOPRIGHT",
+},
+},
+["Эллиата - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -172.9999389648438,
+["x"] = -271.7999267578125,
+["point"] = "TOPRIGHT",
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -216.2001953125,
+["x"] = -264.599853515625,
+["point"] = "TOPRIGHT",
+},
+},
+["Алоиза - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -218.4854736328125,
+["x"] = -264.3709716796875,
+["point"] = "TOPRIGHT",
+},
+},
+["Ниэтта - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -220.2001953125,
+["x"] = -266.9998779296875,
+["point"] = "TOPRIGHT",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -213.7998657226563,
+["x"] = -211,
+["point"] = "TOPRIGHT",
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -217.3663330078125,
+["x"] = -267.72216796875,
+["point"] = "TOPRIGHT",
+},
+},
+},
+},
+["ActionBars"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -223.6995753486845,
+["x"] = 79.49985667466535,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.99999741385955,
+["x"] = -13.87810887387605,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734864,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 79.75016136131035,
+["x"] = -224.4119227419033,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99920272827148,
+["x"] = 462.188232421875,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Алтери - Борейская тундра"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+{
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 76.75026417399431,
+["x"] = -244.6114175832772,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 2.5,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Эстрэя - Гордунни"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["states"] = {
+["stance"] = {
+["DRUID"] = {
+["prowl"] = 7,
+["moonkin"] = 3,
+},
+},
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+["scale"] = 0.8,
+},
+["rows"] = 2,
+["WoW10Layout"] = true,
+["padding"] = 2.5,
+},
+{
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["padding"] = 6.25,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["padding"] = 6.25,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 81.35010064815879,
+["x"] = -223.4113880634104,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.59933853149414,
+["x"] = -496.312255859375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["padding"] = 6.25,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.0005695025352,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["padding"] = 6.25,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Алоиза - Борейская тундра"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 79.95016349964453,
+["x"] = -230.2114711427494,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 2.5,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Тиаз - Борейская тундра"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 92.7502150802111,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 2.5,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Эллиата - Гордунни"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -223.6995753486845,
+["x"] = 79.49985667466535,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+{
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 75.75000708383686,
+["x"] = -224.4116337611158,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734864,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99920272827148,
+["x"] = 462.188232421875,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Мэйрика - Гордунни"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+["padding"] = 6,
+["version"] = 3,
+["states"] = {
+["stance"] = {
+["DRUID"] = {
+["prowl"] = 7,
+["moonkin"] = 3,
+},
+},
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 71.75013285665318,
+["x"] = -225.8115974485627,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 39.9993896484375,
+["x"] = 463.1878662109375,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.0005695025352,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+},
+},
+["Elavi - Durotan"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 92.7502150802111,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -223.6995753486845,
+["x"] = 79.49985667466535,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 71.75006152181231,
+["x"] = -226.8114525181118,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99920272827148,
+["x"] = 462.188232421875,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+},
+},
+["Элави - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -221.699859619141,
+["x"] = 31.4999914169312,
+["point"] = "TOPLEFT",
+["scale"] = 0.75,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -221.120788574219,
+["x"] = 61.0500240325928,
+["point"] = "TOPLEFT",
+["scale"] = 0.75,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 44,
+["x"] = -5.27783203125,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 85.75,
+["x"] = -217.810974121094,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 195.000015258789,
+["x"] = -237.31201171875,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -221.250885009766,
+["x"] = 2.05001002550125,
+["point"] = "TOPLEFT",
+["scale"] = 0.75,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 196.551803588867,
+["x"] = -117.999755859375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+},
+},
+["Ниоши - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["y"] = 35.7499289049802,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = 79.49985667466535,
+["point"] = "TOPLEFT",
+["y"] = -223.6995753486845,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["fadeout"] = true,
+},
+{
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["y"] = -222.1203272390558,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["fadeout"] = true,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["y"] = 36.999935806497,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.8500000238418579,
+["x"] = -226.8115193875128,
+["point"] = "BOTTOM",
+["y"] = 86.95001807914105,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99920272827148,
+["x"] = 462.188232421875,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["y"] = -222.2509155273438,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["y"] = -222.4470606504765,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["fadeout"] = true,
+},
+},
+},
+["Алоиза - Гордунни"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.99993580649698,
+["x"] = -13.27802520297701,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734864,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 73.15003372841056,
+["x"] = -228.8116273780252,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 38.9996337890625,
+["x"] = 462.1884765625,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Ниэтта - Гордунни"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.8511496023857,
+["x"] = 73.25002732475696,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4184347414412,
+["x"] = 50.24999101042704,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 83.75018856402903,
+["x"] = -219.6112073593758,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99920272827148,
+["x"] = 462.188232421875,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.3052902056952,
+["x"] = 25.64999918818467,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Фламиника - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -221.699859619141,
+["x"] = 31.4999914169312,
+["point"] = "TOPLEFT",
+["scale"] = 0.75,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -221.120788574219,
+["x"] = 61.0500240325928,
+["point"] = "TOPLEFT",
+["scale"] = 0.75,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 92.7502150802111,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 195.000015258789,
+["x"] = -237.31201171875,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.75,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 196.551803588867,
+["x"] = -117.999755859375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+},
+},
+["Дэлери - Гордунни"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 71.75006152181231,
+["x"] = -228.8114739365155,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734864,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99939346313477,
+["x"] = 462.1878662109375,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Ниамэй - Гордунни"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 79.35015708464198,
+["x"] = -228.6114955399826,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 39.9993782043457,
+["x"] = 463.1878662109375,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["rows"] = 12,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Фламинника - Гордунни"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.99993580649698,
+["x"] = -13.27802520297701,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734864,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 78.55015371929358,
+["x"] = -226.8115541148,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 2.5,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Altery - Durotan"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 71.75019770650852,
+["x"] = -227.8115151071979,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+},
+},
+["Altery - Bronzebeard"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["y"] = 35.7499289049802,
+},
+},
+{
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = -190.499755859375,
+["x"] = -120.000610351563,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["scale"] = 0.75,
+["x"] = 31.4999914169312,
+["point"] = "TOPLEFT",
+["y"] = -221.699859619141,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["fadeout"] = true,
+},
+{
+["version"] = 3,
+["position"] = {
+["scale"] = 0.75,
+["x"] = 61.0500240325928,
+["point"] = "TOPLEFT",
+["y"] = -221.120788574219,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["fadeout"] = true,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["y"] = 36.999935806497,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["y"] = 92.7502150802111,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 195.000015258789,
+["x"] = -237.31201171875,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.75,
+["x"] = 2.05001002550125,
+["point"] = "TOPLEFT",
+["y"] = -221.250885009766,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 4,
+["version"] = 3,
+["position"] = {
+["y"] = 196.551803588867,
+["x"] = -117.999755859375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+},
+},
+["Алтэри - Гордунни"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.54982918083488,
+["x"] = -437.6001842616606,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 82.74997035282468,
+["x"] = -232.2115444059746,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99913024902344,
+["x"] = 462.1878662109375,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["padding"] = 6.25,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Нирейя - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 83,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 83,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+nil,
+{
+},
+},
+},
+["Дэлери - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 70.74999244774062,
+["x"] = -229.8115105856596,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+},
+},
+["Рефти - Гордунни"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["padding"] = 6.25,
+["version"] = 3,
+["position"] = {
+["y"] = -222.8511496023857,
+["x"] = 73.25002732475696,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["padding"] = 6.25,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4184347414412,
+["x"] = 50.24999101042704,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 78.95007498814857,
+["x"] = -221.2113489777694,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99920272827148,
+["x"] = 462.188232421875,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["padding"] = 6.25,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["padding"] = 6.25,
+["version"] = 3,
+["position"] = {
+["y"] = -222.3052902056952,
+["x"] = 25.64999918818467,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Ващеновый - Гордунни"] = {
+["actionbars"] = {
+{
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 82,
+},
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+["y"] = -223.9998474121094,
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -54,
+["point"] = "RIGHT",
+["y"] = 193,
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -104,
+["point"] = "RIGHT",
+["y"] = 193,
+},
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 184,
+},
+},
+{
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 133,
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Эрника - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 83,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 83,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+nil,
+{
+},
+},
+},
+["Flaminika - Silvermoon"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["y"] = 35.7499289049802,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["y"] = -222.6997462073923,
+},
+["fadeout"] = true,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = 54.05004945000201,
+["point"] = "TOPLEFT",
+["y"] = -222.1204004812462,
+},
+["fadeout"] = true,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["rows"] = 12,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["y"] = 36.999935806497,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.850000023841858,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["y"] = 92.7502150802111,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["y"] = -222.2509155273438,
+},
+["fadeout"] = true,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["y"] = -222.4470606504765,
+},
+["fadeout"] = true,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["rows"] = 12,
+},
+},
+},
+["Зонна - Борейская тундра"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+},
+{
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["version"] = 3,
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 79.15027945802785,
+["x"] = -225.4114198227289,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 2.5,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Flaminika - Durotan"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 92.7502150802111,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+},
+},
+["Estrea - Alleria"] = {
+["actionbars"] = {
+{
+["states"] = {
+["stance"] = {
+["DRUID"] = {
+["moonkin"] = 7,
+["cat"] = 10,
+["prowl"] = 10,
+},
+},
+},
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.74960141321071,
+["x"] = -439.0007239117549,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["padding"] = 13,
+["version"] = 3,
+["position"] = {
+["y"] = 38.00008270039507,
+["x"] = 464.50006742197,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -223.4249171346455,
+["x"] = -0.8999992489814446,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -223.1201563803479,
+["x"] = 24.05004139145376,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["version"] = 3,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.00025907405006,
+["x"] = -10.27858969404042,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 70.74946716391241,
+["x"] = -217.8121602735009,
+["point"] = "BOTTOM",
+["scale"] = 0.8500000238418579,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -223.1199366537767,
+["x"] = 49.850049283109,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["rows"] = 12,
+["padding"] = 5,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.9563136003999,
+["x"] = 75.6500640412196,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.9563136003999,
+["x"] = 101.4500925322409,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["padding"] = 5,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["version"] = 3,
+},
+},
+},
+["Delery - Durotan"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 5,
+},
+{
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 5,
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 92.7502150802111,
+["x"] = -227.811437287372,
+["point"] = "BOTTOM",
+["scale"] = 0.850000023841858,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.6,
+},
+["version"] = 3,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 5,
+},
+{
+["enabled"] = true,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.6000000238418579,
+},
+["version"] = 3,
+["rows"] = 12,
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 5,
+},
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.4998474121094,
+["x"] = -231.5001831054688,
+["point"] = "CENTER",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["rows"] = 12,
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+[10] = {
+},
+},
+},
+["Эстрея - Борейская тундра"] = {
+["actionbars"] = {
+{
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+["padding"] = 7.5,
+["WoW10Layout"] = true,
+["states"] = {
+["stance"] = {
+["DRUID"] = {
+["prowl"] = 7,
+["moonkin"] = 3,
+},
+},
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 71.75013285665318,
+["x"] = -225.8115974485627,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734864,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 39.9993896484375,
+["x"] = 463.1878662109375,
+["point"] = "BOTTOM",
+["scale"] = 0.8,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["fadeout"] = true,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.0005695025352,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["visibility"] = {
+["combat"] = true,
+},
+["padding"] = 6.25,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Сайбил - Борейская тундра"] = {
+["actionbars"] = {
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 35.7499289049802,
+["x"] = -440.000112062346,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["enabled"] = false,
+["rows"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = -267.4994812011719,
+["x"] = -234,
+["point"] = "RIGHT",
+},
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.6997462073923,
+["x"] = 78.50000922282561,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["fadeout"] = true,
+},
+{
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.1203272390558,
+["x"] = 53.05003720323384,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+["nocombat"] = false,
+},
+["fadeout"] = true,
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 36.999935806497,
+["x"] = -12.277988553833,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000190734865,
+},
+},
+{
+["WoW10Layout"] = true,
+["padding"] = 7.5,
+["version"] = 3,
+["position"] = {
+["y"] = 81.55017541832967,
+["x"] = -223.0113734107654,
+["point"] = "BOTTOM",
+["scale"] = 0.6800000071525574,
+},
+},
+{
+["version"] = 3,
+["position"] = {
+["y"] = -227.499923706055,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 41.99952697753906,
+["x"] = -466.3118896484375,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 0.8,
+},
+["padding"] = 2.5,
+["WoW10Layout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.2509155273438,
+["x"] = 1.05000051856041,
+["point"] = "TOPLEFT",
+["scale"] = 0.48,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+},
+["fadeout"] = true,
+},
+{
+["enabled"] = true,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = -222.4470606504765,
+["x"] = 28.00057636899055,
+["point"] = "TOPLEFT",
+["scale"] = 0.4800000190734863,
+},
+["WoW10Layout"] = true,
+["padding"] = 6.25,
+["visibility"] = {
+["combat"] = true,
+},
+["fadeout"] = true,
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -227.499847412109,
+["x"] = -231.500183105469,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 94,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 94,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+[10] = {
+},
+},
+},
+},
+},
+["LibDualSpec-1.0"] = {
+["char"] = {
+["Алоиза - Борейская тундра"] = {
+["enabled"] = false,
+},
+},
+},
+["ExtraActionBar"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -177.4091186523438,
+["x"] = 460.67333984375,
+["point"] = "TOP",
+},
+},
+["Алтери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -250.4091796875,
+["x"] = 348.673095703125,
+["point"] = "TOP",
+},
+},
+["Алоиза - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -235.8258666992188,
+["x"] = 328.8438720703125,
+["point"] = "TOP",
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Эллиата - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -177.4091186523438,
+["x"] = 460.67333984375,
+["point"] = "TOP",
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 287,
+["x"] = -63.5,
+["point"] = "BOTTOM",
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -250.4091796875,
+["x"] = 348.673095703125,
+["point"] = "TOP",
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -177.4091186523438,
+["x"] = 460.67333984375,
+["point"] = "TOP",
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -198.909301757813,
+["x"] = 427.172027587891,
+["point"] = "LEFT",
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -177.4091186523438,
+["x"] = 460.67333984375,
+["point"] = "TOP",
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -167.3131103515625,
+["x"] = 432.6009521484375,
+["point"] = "TOP",
+},
+},
+["Ниэтта - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -193.2058715820313,
+["x"] = 446.2156982421875,
+["point"] = "TOP",
+},
+},
+["Фламиника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -207.4091186523438,
+["x"] = 440.673095703125,
+["point"] = "TOP",
+},
+},
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -211.8091430664063,
+["x"] = 481.873046875,
+["point"] = "TOP",
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -188.0463256835938,
+["x"] = 400.822998046875,
+["point"] = "TOP",
+},
+},
+["Altery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -179.4091186523438,
+["x"] = 439.673095703125,
+["point"] = "TOP",
+},
+},
+["Нирейя - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.000015258789,
+["x"] = -31.5000610351563,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Рефти - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -193.2058715820313,
+["x"] = 446.2156982421875,
+["point"] = "TOP",
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["x"] = -63.5,
+["point"] = "BOTTOM",
+["y"] = 287,
+},
+},
+["Эрника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.000015258789,
+["x"] = -31.5000610351563,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Silvermoon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Зонна - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Estrea - Alleria"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -250.4091796875,
+["x"] = 348.673095703125,
+["point"] = "TOP",
+},
+},
+["Delery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 110.090759277344,
+["x"] = 446.673095703125,
+["point"] = "CENTER",
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.0000305175781,
+["x"] = -31.50006103515625,
+["point"] = "BOTTOM",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -250.4091796875,
+["x"] = 348.673095703125,
+["point"] = "TOP",
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -210.5393676757813,
+["x"] = 288.882080078125,
+["point"] = "TOP",
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.000030517578,
+["x"] = -31.5000610351563,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["MicroMenu"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["fadeout"] = true,
+["padding"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = 280.2714460326697,
+["x"] = 32.66621038119774,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Алтери - Борейская тундра"] = {
+["fadeout"] = true,
+["padding"] = 8,
+["version"] = 3,
+["position"] = {
+["y"] = 281.1004743388639,
+["x"] = 158.7989642756502,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["padding"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = 279.5714460445906,
+["x"] = 31.49286178362604,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Алоиза - Борейская тундра"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 283.0714246226817,
+["x"] = 29.62621829124487,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Эллиата - Гордунни"] = {
+["fadeout"] = true,
+["padding"] = 7,
+["version"] = 3,
+["position"] = {
+["y"] = 279.5006086434532,
+["x"] = 109.1989086628146,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 34,
+["x"] = -229,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = 41.0000076293945,
+["x"] = -291.999877929688,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["Ниоши - Борейская тундра"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.699999988079071,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["y"] = -26.99977379186021,
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["padding"] = 2,
+["fadeout"] = true,
+["position"] = {
+["y"] = 286.4809979288748,
+["x"] = 31.31334632952985,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Ниэтта - Гордунни"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 280.9714032961401,
+["x"] = 30.5062330772837,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Фламиника - Борейская тундра"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 41.0000076293945,
+["x"] = -291.999877929688,
+["point"] = "BOTTOMRIGHT",
+["scale"] = 1,
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["padding"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = 279.5714460445906,
+["x"] = 31.46623901186263,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = 283.8734509762107,
+["x"] = 34.46623018696937,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["padding"] = 2,
+["fadeout"] = true,
+["position"] = {
+["y"] = 280.2714460326697,
+["x"] = 29.27957751956024,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Altery - Durotan"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["scale"] = 1,
+["x"] = -291.999877929688,
+["point"] = "BOTTOMRIGHT",
+["y"] = 41.0000076293945,
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["padding"] = 6,
+["fadeout"] = true,
+["position"] = {
+["y"] = 281.4714093911407,
+["x"] = 32.63568097803113,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Нирейя - Борейская тундра"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = 37.5,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Дэлери - Борейская тундра"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Рефти - Гордунни"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 280.9714032961401,
+["x"] = 30.5062330772837,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+["y"] = 42,
+},
+},
+["Эрника - Борейская тундра"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = 37.5,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Flaminika - Silvermoon"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["scale"] = 0.699999988079071,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["y"] = -26.99977379186021,
+},
+},
+["Зонна - Борейская тундра"] = {
+["fadeout"] = true,
+["padding"] = 7,
+["version"] = 3,
+["position"] = {
+["y"] = 280.3004774042456,
+["x"] = 152.3989674363993,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = -26.99968834264291,
+["x"] = -438.6509549234434,
+["point"] = "TOP",
+["scale"] = 0.699999988079071,
+},
+},
+["Estrea - Alleria"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Delery - Durotan"] = {
+["fadeout"] = true,
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 37.5,
+["point"] = "BOTTOM",
+["y"] = 41.75,
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["padding"] = 4,
+["fadeout"] = true,
+["position"] = {
+["y"] = 283.0714246226817,
+["x"] = 33.94620761281749,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["padding"] = -2,
+["fadeout"] = true,
+["position"] = {
+["y"] = -26.99977379186021,
+["x"] = 321.9990332126781,
+["point"] = "TOPLEFT",
+["scale"] = 0.699999988079071,
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 37.5,
+["point"] = "BOTTOM",
+["y"] = 41.75,
+},
+},
+},
+},
+["ZoneAbilityBar"] = {
+["profiles"] = {
+["Вейлзевулла - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.000045776367,
+["x"] = -31.5000610351563,
+["point"] = "BOTTOM",
+},
+},
+["Алтери - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Фламинника - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Altery - Durotan"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Эстрэя - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Altery - Bronzebeard"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.8,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["y"] = -202.891403198242,
+},
+},
+["Алоиза - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Нирейя - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.000015258789,
+["x"] = -31.5000610351563,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Delery - Durotan"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Сайбил - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Тиаз - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Flaminika - Silvermoon"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.8,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["y"] = -202.891403198242,
+},
+},
+["Зонна - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Flaminika - Durotan"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Elavi - Durotan"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Эрника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.000015258789,
+["x"] = -31.5000610351563,
+["point"] = "BOTTOM",
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -198.891448974609,
+["x"] = -429.481811523438,
+["point"] = "CENTER",
+},
+},
+["Ниамэй - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+},
+},
+["Алоиза - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 223.0000457763672,
+["x"] = -31.50006103515625,
+["point"] = "BOTTOM",
+},
+},
+["Ниэтта - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Фламиника - Борейская тундра"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+["Дэлери - Гордунни"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -202.891403198242,
+["x"] = -430.481811523438,
+["point"] = "CENTER",
+["scale"] = 0.8,
+},
+},
+},
+},
+["XPBar"] = {
+["profiles"] = {
+["Элави - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 55.4997057907349,
+["x"] = 454.999941001834,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.959999978542328,
+},
+},
+["Сайбил - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.899999976158142,
+["x"] = -476.549939564866,
+["point"] = "BOTTOM",
+["y"] = 53.4997567309338,
+},
+},
+},
+},
+["APBar"] = {
+},
+["BlizzardArt"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Алтери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Алоиза - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Эллиата - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Мэйрика - Гордунни"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Estrea - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Ниэтта - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Фламиника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Altery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Нирейя - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Рефти - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Ващеновый - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["artLayout"] = "MODERN",
+["position"] = {
+["x"] = -288.5,
+["point"] = "BOTTOM",
+["y"] = 87,
+},
+},
+["Эрника - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Silvermoon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Зонна - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Estrea - Alleria"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Delery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 448.000061035156,
+["point"] = "BOTTOMLEFT",
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["StanceBar"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -147.4999542236328,
+["x"] = 444.5001831054688,
+["point"] = "LEFT",
+["scale"] = 1,
+},
+},
+["Алтери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80.00047302246094,
+["x"] = -370.4002380371094,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Эстрэя - Гордунни"] = {
+["padding"] = 5.3,
+["version"] = 3,
+["position"] = {
+["y"] = 81.42254950889219,
+["x"] = -441.0001910517458,
+["point"] = "BOTTOM",
+["scale"] = 1.009999990463257,
+},
+},
+["Алоиза - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.2222213745117,
+["x"] = -458,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Эллиата - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -147.4999542236328,
+["x"] = 444.5001831054688,
+["point"] = "LEFT",
+["scale"] = 1,
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 70.99974822998047,
+["x"] = -439.0001831054688,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -147.4999542236328,
+["x"] = 444.5001831054688,
+["point"] = "LEFT",
+["scale"] = 1,
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = 444.5001831054688,
+["point"] = "LEFT",
+["y"] = -147.4999542236328,
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 77.00066375732422,
+["x"] = -442.400146484375,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Ниэтта - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -165.10009765625,
+["x"] = -476.5999145507813,
+["point"] = "CENTER",
+["scale"] = 1,
+},
+},
+["Фламиника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 73.60049438476562,
+["x"] = -441.6001586914063,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Altery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 155,
+["x"] = -479.5000610351563,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = -460,
+["point"] = "BOTTOM",
+["y"] = 116,
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Нирейя - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Дэлери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Рефти - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -147.4999542236328,
+["x"] = 444.5001831054688,
+["point"] = "LEFT",
+["scale"] = 1,
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
+["y"] = -14.99996185302734,
+},
+},
+["Эрника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.9999618530273,
+["x"] = -82.5,
+["point"] = "CENTER",
+},
+},
+["Flaminika - Silvermoon"] = {
+["version"] = 3,
+["position"] = {
+["scale"] = 1,
+["x"] = -460,
+["point"] = "BOTTOM",
+["y"] = 116,
+},
+},
+["Зонна - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Estrea - Alleria"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 71.99942779541016,
+["x"] = -438.0001220703125,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Delery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 155,
+["x"] = -479.5000610351563,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99996185302734,
+["x"] = -82.5,
+["point"] = "CENTER",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 70.99974822998047,
+["x"] = -439.0001831054688,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.9999618530273,
+["x"] = -82.5,
+["point"] = "CENTER",
+},
+},
+},
+},
+["BagBar"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 11.10004631280754,
+["x"] = -1.799998497962889,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Алтери - Борейская тундра"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = 60.90030606985965,
+["x"] = -0.3338699115860422,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Алоиза - Борейская тундра"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Эллиата - Гордунни"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -61.29963918128487,
+["x"] = -2.933863851780245,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 74,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -61.29963918128487,
+["x"] = -2.933863851780245,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = 36,
+["x"] = -454.93359375,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = -2.933863851780245,
+["point"] = "LEFT",
+["y"] = -61.29963918128487,
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Ниэтта - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -61.29963918128487,
+["x"] = -2.933863851780245,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Фламиника - Борейская тундра"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 37.9997673034668,
+["x"] = -460.933715820313,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Ниамэй - Гордунни"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Altery - Durotan"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = 37.9997673034668,
+["x"] = -460.933715820313,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Нирейя - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 38.5,
+["x"] = 345,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Рефти - Гордунни"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -61.29963918128487,
+["x"] = -2.933863851780245,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+["y"] = 80,
+},
+},
+["Эрника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 38.5,
+["x"] = 345,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Silvermoon"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["scale"] = 0.6000000238418579,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["y"] = -30.29980884789984,
+},
+},
+["Зонна - Борейская тундра"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Estrea - Alleria"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Delery - Durotan"] = {
+["fadeout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 38.5,
+["x"] = 345,
+["point"] = "BOTTOM",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["fadeout"] = true,
+["position"] = {
+["y"] = -30.29980884789984,
+["x"] = -1.933864908769323,
+["point"] = "LEFT",
+["scale"] = 0.6000000238418579,
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 38.5,
+["x"] = 345,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["Vehicle"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 90.2221908569336,
+["x"] = -412,
+["point"] = "BOTTOM",
+},
+},
+["Алтери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 77.22264862060547,
+["x"] = -438.7999877929688,
+["point"] = "BOTTOM",
+["scale"] = 0.95,
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 126.7483749389648,
+["x"] = -441.8333740234375,
+["point"] = "BOTTOM",
+["scale"] = 1.5,
+},
+},
+["Алоиза - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 114.0222930908203,
+["x"] = -413.2000122070313,
+["point"] = "BOTTOM",
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Эллиата - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 90.2221908569336,
+["x"] = -412,
+["point"] = "BOTTOM",
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 92.222412109375,
+["x"] = -458.9998474121094,
+["point"] = "BOTTOM",
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 90.2221908569336,
+["x"] = -412,
+["point"] = "BOTTOM",
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 90.2221908569336,
+["x"] = -412,
+["point"] = "BOTTOM",
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 125.2220993041992,
+["x"] = -444.3999176025391,
+["point"] = "BOTTOM",
+["scale"] = 1.5,
+},
+},
+["Ниэтта - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 82.48179626464844,
+["x"] = -438.4998168945313,
+["point"] = "BOTTOM",
+},
+},
+["Фламиника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 123.6221542358398,
+["x"] = -440.400146484375,
+["point"] = "BOTTOM",
+},
+},
+["Altery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 95.62235792566753,
+["x"] = -437.199976682663,
+["point"] = "BOTTOM",
+["scale"] = 1.200000047683716,
+},
+},
+["Нирейя - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47.5000305175781,
+["x"] = 99.5,
+["point"] = "CENTER",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Рефти - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 104.0815124511719,
+["x"] = -421.6999206542969,
+["point"] = "BOTTOM",
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["x"] = -337,
+["point"] = "BOTTOM",
+["y"] = 153,
+},
+},
+["Эрника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47.5000305175781,
+["x"] = 99.5,
+["point"] = "CENTER",
+},
+},
+["Flaminika - Silvermoon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Зонна - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Estrea - Alleria"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 106.2223815917969,
+["x"] = -433,
+["point"] = "BOTTOM",
+},
+},
+["Delery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50006103515625,
+["x"] = 104.5,
+["point"] = "CENTER",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 92.222412109375,
+["x"] = -458.9998474121094,
+["point"] = "BOTTOM",
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 117.222229003906,
+["x"] = -426,
+["point"] = "BOTTOM",
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 47.5000305175781,
+["x"] = 99.5,
+["point"] = "CENTER",
+},
+},
+},
+},
+["PetBar"] = {
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Алтери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -260.1284637451172,
+["x"] = 85.43565368652344,
+["point"] = "LEFT",
+},
+},
+["Эстрэя - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Алоиза - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Тиаз - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Эллиата - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Мэйрика - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -41,
+["point"] = "BOTTOM",
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Elavi - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Nietta - EU Mythic Dungeons"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Элави - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -137.728454589844,
+["x"] = -3.16436171531677,
+["point"] = "LEFT",
+},
+},
+["Ниоши - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Алоиза - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -255.5189819335938,
+["x"] = 91.42378997802734,
+["point"] = "LEFT",
+},
+},
+["Ниэтта - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Фламиника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Дэлери - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Ниамэй - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -240.7284545898438,
+["x"] = 103.8356475830078,
+["point"] = "LEFT",
+},
+},
+["Фламинника - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Altery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Altery - Bronzebeard"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Алтэри - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -257.7284545898438,
+["x"] = 31.03564834594727,
+["point"] = "LEFT",
+},
+},
+["Нирейя - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -120,
+["point"] = "BOTTOM",
+},
+},
+["Дэлери - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Рефти - Гордунни"] = {
+["padding"] = 8,
+["version"] = 3,
+["position"] = {
+["y"] = -264.9280853271484,
+["x"] = 29.43565368652344,
+["point"] = "LEFT",
+},
+},
+["Ващеновый - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
+},
+},
+["Эрника - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 116,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Flaminika - Silvermoon"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Зонна - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Flaminika - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Estrea - Alleria"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Delery - Durotan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Хилопятьумер - Гордунни"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+["Эстрея - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Сайбил - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -261.728546142578,
+["x"] = 103.835639953613,
+["point"] = "LEFT",
+},
+},
+["Вейлзевулла - Борейская тундра"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 127,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
+},
+},
+["RepBar"] = {
+},
+},
+["profileKeys"] = {
+["Шайэн - Гордунни"] = "Шайэн - Гордунни",
+["Алтери - Борейская тундра"] = "Алтери - Борейская тундра",
+["Эстрэя - Гордунни"] = "Эстрэя - Гордунни",
+["Алоиза - Борейская тундра"] = "Алоиза - Борейская тундра",
+["Тиаз - Борейская тундра"] = "Тиаз - Борейская тундра",
+["Эллиата - Гордунни"] = "Эллиата - Гордунни",
+["Мэйрика - Гордунни"] = "Алоиза - Гордунни",
+["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
+["Elavi - Durotan"] = "Elavi - Durotan",
+["Nietta - EU Mythic Dungeons"] = "Nietta - EU Mythic Dungeons",
+["Элави - Борейская тундра"] = "Элави - Борейская тундра",
+["Ниоши - Борейская тундра"] = "Ниоши - Борейская тундра",
+["Алоиза - Гордунни"] = "Алоиза - Гордунни",
+["Ниэтта - Гордунни"] = "Ниэтта - Гордунни",
+["Фламиника - Борейская тундра"] = "Фламиника - Борейская тундра",
+["Дэлери - Гордунни"] = "Дэлери - Гордунни",
+["Ниамэй - Гордунни"] = "Ниамэй - Гордунни",
+["Фламинника - Гордунни"] = "Фламинника - Гордунни",
+["Altery - Durotan"] = "Altery - Durotan",
+["Altery - Bronzebeard"] = "Altery - Bronzebeard",
+["Алтэри - Гордунни"] = "Алтэри - Гордунни",
+["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
+["Рефти - Гордунни"] = "Рефти - Гордунни",
+["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
+["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
+["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
+["Estrea - Alleria"] = "Estrea - Alleria",
+["Delery - Durotan"] = "Delery - Durotan",
+["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
+["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
+["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
+["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
+},
+["profiles"] = {
+["Шайэн - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Алтери - Борейская тундра"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Эстрэя - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Алоиза - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["outofrange"] = "hotkey",
+},
+["Тиаз - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["outofrange"] = "hotkey",
+},
+["Эллиата - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Мэйрика - Гордунни"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Estrea - EU Mythic Dungeons"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Elavi - Durotan"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Nietta - EU Mythic Dungeons"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Элави - Борейская тундра"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Ниоши - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Алоиза - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Ниэтта - Гордунни"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Фламиника - Борейская тундра"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Дэлери - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Ниамэй - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Фламинника - Гордунни"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Altery - Durotan"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Altery - Bronzebeard"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Алтэри - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Нирейя - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Дэлери - Борейская тундра"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Рефти - Гордунни"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Ващеновый - Гордунни"] = {
+["focuscastmodifier"] = false,
+["snapping"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Эрника - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Flaminika - Silvermoon"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Зонна - Борейская тундра"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Flaminika - Durotan"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Estrea - Alleria"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Delery - Durotan"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Хилопятьумер - Гордунни"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Эстрея - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Сайбил - Борейская тундра"] = {
+["snapping"] = false,
+["minimapIcon"] = {
+["hide"] = true,
+},
+["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
+["outofrange"] = "hotkey",
+},
+["Вейлзевулла - Борейская тундра"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+},
 }

@@ -1,0 +1,26 @@
+VER 3 0100000000000006 "CollapsingTrap" "134400"
+#showtooltip
+/cast [@cursor] Коллапсирующая ловушка
+END
+VER 3 0100000000000004 "Mark" "134400"
+#showtooltip Выстрел кобры
+/use Метка охотника
+/use Выстрел кобры
+END
+VER 3 0100000000000003 "Open" "134400"
+#showtooltip Средний бронзовый ларь
+/use Малый бронзовый ларь
+/use Тайник с сокровищами Бесконечности
+/use Средний бронзовый ларь
+END
+VER 3 0100000000000005 "Stempede" "134400"
+#showtooltip Звериный натиск
+/use Погребальный костер
+/cast Звериный натиск
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Реф[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

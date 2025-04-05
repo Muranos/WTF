@@ -1,154 +1,155 @@
 
 OmniCCDB = {
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "10.2.5",
-	},
-	["profileKeys"] = {
-		["Ниамэй - Гордунни"] = "По умолчанию",
-		["Алтери - Борейская тундра"] = "По умолчанию",
-		["Фламинника - Гордунни"] = "По умолчанию",
-		["Altery - Durotan"] = "Default",
-		["Эстрэя - Гордунни"] = "По умолчанию",
-		["Шайэн - Гордунни"] = "По умолчанию",
-		["Алоиза - Борейская тундра"] = "По умолчанию",
-		["Алтэри - Гордунни"] = "По умолчанию",
-		["Тиаз - Борейская тундра"] = "По умолчанию",
-		["Нирейя - Борейская тундра"] = "По умолчанию",
-		["Дэлери - Борейская тундра"] = "По умолчанию",
-		["Эстрея - Борейская тундра"] = "По умолчанию",
-		["Сайбил - Борейская тундра"] = "По умолчанию",
-		["Estrea - EU Mythic Dungeons"] = "Default",
-		["Эллиата - Гордунни"] = "По умолчанию",
-		["Элави - Борейская тундра"] = "По умолчанию",
-		["Мэйрика - Гордунни"] = "По умолчанию",
-		["Nietta - EU Mythic Dungeons"] = "Default",
-		["Estrea - Alleria"] = "Default",
-		["Flaminika - Silvermoon"] = "Default",
-		["Зонна - Борейская тундра"] = "По умолчанию",
-		["Flaminika - Durotan"] = "Standard",
-		["Delery - Durotan"] = "Standard",
-		["Эрника - Борейская тундра"] = "По умолчанию",
-		["Elavi - Durotan"] = "Default",
-		["Ниоши - Борейская тундра"] = "По умолчанию",
-		["Алоиза - Гордунни"] = "По умолчанию",
-		["Хилопятьумер - Гордунни"] = "По умолчанию",
-		["Ниэтта - Гордунни"] = "По умолчанию",
-		["Фламиника - Борейская тундра"] = "По умолчанию",
-		["Дэлери - Гордунни"] = "По умолчанию",
-	},
-	["profiles"] = {
-		["Standard"] = {
-			["themes"] = {
-				["Standard"] = {
-					["textStyles"] = {
-						["seconds"] = {
-						},
-						["soon"] = {
-						},
-						["minutes"] = {
-						},
-					},
-				},
-				["Default"] = {
-					["textStyles"] = {
-						["minutes"] = {
-						},
-						["seconds"] = {
-						},
-						["soon"] = {
-						},
-					},
-				},
-			},
-		},
-		["Default"] = {
-			["themes"] = {
-				["Default"] = {
-					["textStyles"] = {
-						["seconds"] = {
-						},
-						["soon"] = {
-						},
-						["minutes"] = {
-						},
-					},
-				},
-				["Standard"] = {
-					["textStyles"] = {
-						["seconds"] = {
-						},
-						["soon"] = {
-						},
-						["minutes"] = {
-						},
-					},
-				},
-			},
-		},
-		["По умолчанию"] = {
-			["rules"] = {
-				{
-					["patterns"] = {
-						"PlaterMainAuraIcon", -- [1]
-						"PlaterSecondaryAuraIcon", -- [2]
-						"ExtraIconRowIcon", -- [3]
-					},
-					["id"] = "Plater Nameplates Rule",
-					["priority"] = 1,
-					["theme"] = "Plater Nameplates Theme",
-				}, -- [1]
-			},
-			["themes"] = {
-				["По умолчанию"] = {
-					["textStyles"] = {
-						["soon"] = {
-						},
-						["minutes"] = {
-						},
-						["seconds"] = {
-						},
-					},
-				},
-				["Plater Nameplates Theme"] = {
-					["textStyles"] = {
-						["seconds"] = {
-						},
-						["soon"] = {
-						},
-						["minutes"] = {
-						},
-					},
-				},
-			},
-		},
-	},
+["global"] = {
+["dbVersion"] = 6,
+["addonVersion"] = "11.0.7",
+},
+["profileKeys"] = {
+["Ниамэй - Гордунни"] = "По умолчанию",
+["Алтери - Борейская тундра"] = "По умолчанию",
+["Фламинника - Гордунни"] = "По умолчанию",
+["Шайэн - Гордунни"] = "По умолчанию",
+["Altery - Durotan"] = "Default",
+["Эстрэя - Гордунни"] = "По умолчанию",
+["Алоиза - Борейская тундра"] = "По умолчанию",
+["Алтэри - Гордунни"] = "По умолчанию",
+["Тиаз - Борейская тундра"] = "По умолчанию",
+["Нирейя - Борейская тундра"] = "По умолчанию",
+["Эстрея - Борейская тундра"] = "По умолчанию",
+["Дэлери - Борейская тундра"] = "По умолчанию",
+["Сайбил - Борейская тундра"] = "По умолчанию",
+["Estrea - EU Mythic Dungeons"] = "Default",
+["Элави - Борейская тундра"] = "По умолчанию",
+["Эллиата - Гордунни"] = "По умолчанию",
+["Рефти - Гордунни"] = "По умолчанию",
+["Мэйрика - Гордунни"] = "По умолчанию",
+["Nietta - EU Mythic Dungeons"] = "Default",
+["Estrea - Alleria"] = "Default",
+["Flaminika - Silvermoon"] = "Default",
+["Зонна - Борейская тундра"] = "По умолчанию",
+["Flaminika - Durotan"] = "Standard",
+["Delery - Durotan"] = "Standard",
+["Эрника - Борейская тундра"] = "По умолчанию",
+["Elavi - Durotan"] = "Default",
+["Ниоши - Борейская тундра"] = "По умолчанию",
+["Алоиза - Гордунни"] = "По умолчанию",
+["Хилопятьумер - Гордунни"] = "По умолчанию",
+["Ниэтта - Гордунни"] = "По умолчанию",
+["Фламиника - Борейская тундра"] = "По умолчанию",
+["Дэлери - Гордунни"] = "По умолчанию",
+},
+["profiles"] = {
+["Standard"] = {
+["themes"] = {
+["Standard"] = {
+["textStyles"] = {
+["seconds"] = {
+},
+["soon"] = {
+},
+["minutes"] = {
+},
+},
+},
+["Default"] = {
+["textStyles"] = {
+["minutes"] = {
+},
+["seconds"] = {
+},
+["soon"] = {
+},
+},
+},
+},
+},
+["Default"] = {
+["themes"] = {
+["Default"] = {
+["textStyles"] = {
+["seconds"] = {
+},
+["soon"] = {
+},
+["minutes"] = {
+},
+},
+},
+["Standard"] = {
+["textStyles"] = {
+["seconds"] = {
+},
+["soon"] = {
+},
+["minutes"] = {
+},
+},
+},
+},
+},
+["По умолчанию"] = {
+["rules"] = {
+{
+["patterns"] = {
+"PlaterMainAuraIcon",
+"PlaterSecondaryAuraIcon",
+"ExtraIconRowIcon",
+},
+["id"] = "Plater Nameplates Rule",
+["priority"] = 1,
+["theme"] = "Plater Nameplates Theme",
+},
+},
+["themes"] = {
+["По умолчанию"] = {
+["textStyles"] = {
+["soon"] = {
+},
+["minutes"] = {
+},
+["seconds"] = {
+},
+},
+},
+["Plater Nameplates Theme"] = {
+["textStyles"] = {
+["seconds"] = {
+},
+["soon"] = {
+},
+["minutes"] = {
+},
+},
+},
+},
+},
+},
 }
 OmniCC4Config = {
-	["groupSettings"] = {
-		["base"] = {
-			["minDuration"] = 2,
-			["styles"] = {
-				["seconds"] = {
-				},
-				["minutes"] = {
-				},
-				["soon"] = {
-				},
-				["hours"] = {
-				},
-				["charging"] = {
-				},
-				["controlled"] = {
-				},
-			},
-			["tenthsDuration"] = 0,
-			["minSize"] = 0.5,
-			["minEffectDuration"] = 30,
-			["mmSSDuration"] = 0,
-		},
-	},
-	["groups"] = {
-	},
-	["version"] = "8.2.5",
+["groupSettings"] = {
+["base"] = {
+["minDuration"] = 2,
+["styles"] = {
+["seconds"] = {
+},
+["minutes"] = {
+},
+["soon"] = {
+},
+["hours"] = {
+},
+["charging"] = {
+},
+["controlled"] = {
+},
+},
+["tenthsDuration"] = 0,
+["minSize"] = 0.5,
+["minEffectDuration"] = 30,
+["mmSSDuration"] = 0,
+},
+},
+["groups"] = {
+},
+["version"] = "8.2.5",
 }

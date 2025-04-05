@@ -44,6 +44,9 @@ VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
 /cast Ослепление
 /targetlasttarget
 END
+VER 3 0100000000000021 "Poisons" "132108"
+/castsequence Смертоносный яд, Атрофический яд, Усиление яда, Калечащий яд
+END
 VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
 #showtooltip Отравление
 END
