@@ -1,0 +1,20 @@
+
+NewSettingsSeen = {
+["NAMEPLATES_LABEL"] = true,
+["SPELL_DIMINISH_SECTION_HEADER_LABEL"] = true,
+["PROXY_RAID_SPELL_DENSITY"] = true,
+["raidFramesCenterBigDefensive"] = true,
+["EXTERNAL_DEFENSIVES_LABEL"] = true,
+["chatBubblesRaid"] = true,
+["PROXY_SPELL_DENSITY"] = true,
+["raidFramesDisplayClassColor"] = true,
+["panelItemQualityColorOverrides"] = true,
+["GameplaySoundEffects"] = true,
+["raidFramesDisplayLargerRoleSpecificDebuffs"] = true,
+["DAMAGE_METER_LABEL"] = true,
+["cooldownViewerEnabled"] = true,
+["raidFramesDispelIndicatorOverlay"] = true,
+["COMBAT_WARNINGS_LABEL"] = true,
+["raidFramesDispelIndicatorType"] = true,
+["PROXY_ACCESSIBILITY_FONT_SIZE"] = true,
+}

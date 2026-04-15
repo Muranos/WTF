@@ -1,0 +1,77 @@
+VER 3 0100000000000005 "Avatar" "INV_MISC_QUESTIONMARK"
+#showtooltip Аватара
+/use 13
+/cast Аватара
+END
+VER 3 0100000000000009 "CancelHots" "132221"
+/cancelaura Жизнецвет
+/cancelaura Восстановление
+/cancelaura Буйный рост
+/cancelaura Весенние цветы
+/cancelaura Щит Кенария
+/cancelaura Омоложение
+/cancelaura Уход за рощей
+END
+VER 3 010000000000000E "CovenantAbility" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Копье Бастиона
+/cast Повторный толчок Древних
+/cast Знамя завоевателя
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Копье Бастиона" or G"Повторный толчок Древних")
+END
+VER 3 0100000000000006 "Demoralize" "INV_MISC_QUESTIONMARK"
+#showtooltip Деморализующий крик
+/cast Деморализующий крик
+END
+VER 3 010000000000000B "Intercept" "INV_MISC_QUESTIONMARK"
+#showtooltip Вмешательство
+/cast [@mouseove,help] [target=targettarget] Вмешательство
+END
+VER 3 010000000000000D "Intercharge" "INV_MISC_QUESTIONMARK"
+#showtooltip Рывок
+/cast [@mouseover,help][help] Вмешательство;Рывок
+END
+VER 3 0100000000000007 "Judgement" "INV_MISC_QUESTIONMARK"
+#showtooltip Правосудие Света
+/cast Правосудие Света
+END
+VER 3 0100000000000003 "NoStepBack" "INV_MISC_QUESTIONMARK"
+#showtooltip Ни шагу назад
+/use Касание бездны
+/cast Ни шагу назад
+END
+VER 3 0100000000000004 "Recklessness" "INV_MISC_QUESTIONMARK"
+#showtooltip Безрассудство
+/use 13
+/cast Безрассудство
+END
+VER 3 010000000000000C "Speed" "236307"
+/cancelaura Зелье легкой поступи
+END
+VER 3 010000000000000A "Taunt" "132095"
+/w Xynn-Durotan Taunt
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Фла[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "XynnKick" "132279"
+/w Xynn-Durotan Your kick
+END
+VER 3 010000000000000F "Призма" "134400"
+#showtooltip Мощный удар щитом
+/use Игрушечная призма
+/cast Мощный удар щитом
+END
+VER 3 0100000000000010 "Прыжок" "134400"
+#showtooltip Героический прыжок
+/cast Игрушечная призма
+/cast Героический прыжок
+END
+VER 3 0100000000000011 "ПрыжокКопьё" "134400"
+#showtooltip Героический прыжок
+/cast Игрушечная призма
+/cast [harm, nodead] Копье защитника; Героический прыжок
+END

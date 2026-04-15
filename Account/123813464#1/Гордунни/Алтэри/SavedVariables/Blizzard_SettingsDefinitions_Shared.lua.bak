@@ -1,0 +1,10 @@
+
+NewSettingsSeen = {
+["NAMEPLATES_LABEL"] = true,
+["raidFramesDispelIndicatorType"] = true,
+["chatBubblesRaid"] = true,
+["raidFramesDisplayClassColor"] = true,
+["raidFramesCenterBigDefensive"] = true,
+["raidFramesDisplayLargerRoleSpecificDebuffs"] = true,
+["raidFramesDispelIndicatorOverlay"] = true,
+}

@@ -1,0 +1,17 @@
+VER 3 0100000000000003 "Buff" "134400"
+#showtooltip
+/cast [exist,help] Дар бронзовых драконов; [@player] Дар бронзовых драконов
+END
+VER 3 0100000000000002 "Conditional" "134400"
+#showtooltip [exists,harm,nodead] Живой жар; Рывок вперед
+/cast [exists,harm,nodead] Живой жар; Рывок вперед 
+END
+VER 3 0100000000000004 "Rage" "134400"
+#showtooltitp Ярость дракона
+/use 13
+/cast Ярость дракона
+END
+VER 3 0100000000000001 "SelfHeal" "134400"
+#showtooltip
+/cast [@player] Живой жар
+END

@@ -1,0 +1,34 @@
+VER 3 0100000000000008 "Dash" "134400"
+#showtooltip
+/cast [exist,harm,nodead] Хватка смерти ; Рывок вперед
+END
+VER 3 0100000000000004 "DeathAndDecay" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Смерть и разложение
+END
+VER 3 0100000000000006 "DeathStrikePlus" "INV_MISC_QUESTIONMARK"
+#showtooltip Удар смерти
+/cast Кровоотвод
+/cast Удар смерти
+END
+VER 3 0100000000000005 "GoAway" "133584"
+/script PetDismiss()
+END
+VER 3 0100000000000007 "HeartstokePlus" "INV_MISC_QUESTIONMARK"
+#showtooltip Удар в сердце
+/cast Кровоотвод
+/cast Удар в сердце
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1ET[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Лит[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "Weapon" "INV_MISC_QUESTIONMARK"
+#showtooltip Танцующее руническое оружие
+/use Аксессуар скованного жара
+/cast Усиление рунического оружия
+/cast Воскрешение мертвых
+/cast Танцующее руническое оружие
+END

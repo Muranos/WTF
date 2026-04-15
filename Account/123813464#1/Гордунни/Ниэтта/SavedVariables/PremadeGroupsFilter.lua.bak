@@ -13,6 +13,81 @@ PremadeGroupsFilterState = {
 ["expression"] = "",
 },
 },
+["c1f4"] = {
+["enabled"] = false,
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+["minimized"] = false,
+["role"] = {
+["heals"] = {
+},
+["tanks"] = {
+},
+["dps"] = {
+},
+["members"] = {
+},
+["expression"] = "",
+},
+},
+["c2f4"] = {
+["minimized"] = false,
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+["enabled"] = true,
+["dungeon"] = {
+["dungeon7"] = false,
+["partyfit"] = true,
+["dungeon6"] = false,
+["dungeon2"] = true,
+["expression"] = "",
+["dungeon4"] = false,
+["dungeon8"] = false,
+["mprating"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["tanks"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["dungeon3"] = false,
+["members"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["dungeon5"] = false,
+["difficulty"] = {
+["act"] = true,
+["val"] = 4,
+},
+["dungeon1"] = false,
+["heals"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["dps"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["sorting"] = "",
+},
+},
+["c2f5"] = {
+["mini"] = {
+["expression"] = "",
+["sorting"] = "",
+},
+},
 ["c3f6"] = {
 ["enabled"] = true,
 ["raid"] = {
@@ -46,7 +121,7 @@ PremadeGroupsFilterState = {
 ["expression"] = "",
 },
 },
-["version"] = 6,
+["version"] = 8,
 ["c6f4"] = {
 ["enabled"] = false,
 ["mini"] = {
@@ -65,6 +140,9 @@ PremadeGroupsFilterState = {
 ["expression"] = "",
 },
 ["minimized"] = false,
+},
+["c121f4"] = {
+["enabled"] = true,
 },
 ["c3f5"] = {
 ["minimized"] = false,
@@ -104,69 +182,5 @@ PremadeGroupsFilterState = {
 ["expression"] = "",
 },
 ["enabled"] = true,
-},
-["c1f4"] = {
-["enabled"] = false,
-["mini"] = {
-["sorting"] = "",
-["expression"] = "",
-},
-["minimized"] = false,
-},
-["c2f4"] = {
-["minimized"] = false,
-["mini"] = {
-["sorting"] = "",
-["expression"] = "",
-},
-["enabled"] = true,
-["dungeon"] = {
-["dungeon7"] = false,
-["partyfit"] = true,
-["dungeon6"] = false,
-["dungeon2"] = false,
-["expression"] = "",
-["dungeon4"] = false,
-["dungeon8"] = false,
-["mprating"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["tanks"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["dungeon3"] = false,
-["members"] = {
-["max"] = "2",
-["min"] = "",
-["act"] = true,
-},
-["dungeon5"] = false,
-["difficulty"] = {
-["act"] = true,
-["val"] = 4,
-},
-["dungeon1"] = false,
-["heals"] = {
-["max"] = "1",
-["min"] = "1",
-["act"] = true,
-},
-["dps"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["sorting"] = "",
-},
-},
-["c2f5"] = {
-["mini"] = {
-["expression"] = "",
-["sorting"] = "",
-},
 },
 }

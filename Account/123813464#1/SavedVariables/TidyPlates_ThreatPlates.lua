@@ -8,10 +8,10 @@ ThreatPlatesDB = {
 ["welcome"] = true,
 },
 ["Алтери - Борейская тундра"] = {
-["welcome"] = true,
 ["spec"] = {
 [3] = false,
 },
+["welcome"] = true,
 },
 ["Эстрэя - Гордунни"] = {
 ["welcome"] = true,
@@ -29,17 +29,37 @@ false,
 ["welcome"] = true,
 },
 ["Тиаз - Борейская тундра"] = {
-["welcome"] = true,
 ["spec"] = {
 [3] = false,
 },
-},
-["Сайбил - Борейская тундра"] = {
 ["welcome"] = true,
+},
+["Литрэс - Гордунни"] = {
 ["spec"] = {
 true,
 [3] = false,
 },
+["welcome"] = true,
+},
+["Катрэта - Гордунни"] = {
+["welcome"] = true,
+["spec"] = {
+nil,
+true,
+},
+},
+["Лиерми - Гордунни"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Сайбил - Борейская тундра"] = {
+["spec"] = {
+true,
+[3] = false,
+},
+["welcome"] = true,
 },
 ["Мэйрика - Гордунни"] = {
 ["spec"] = {
@@ -57,10 +77,10 @@ false,
 ["welcome"] = true,
 },
 ["Зонна - Борейская тундра"] = {
+["welcome"] = true,
 ["spec"] = {
 [3] = false,
 },
-["welcome"] = true,
 },
 ["Nietta - EU Mythic Dungeons"] = {
 ["welcome"] = true,
@@ -78,16 +98,25 @@ true,
 ["welcome"] = true,
 },
 ["Ниоши - Борейская тундра"] = {
-["welcome"] = true,
 ["spec"] = {
 [3] = false,
 },
+["welcome"] = true,
 },
 ["Алоиза - Гордунни"] = {
-["welcome"] = true,
 ["spec"] = {
 [3] = false,
 },
+["welcome"] = true,
+},
+["Миттенс - Гордунни"] = {
+["spec"] = {
+nil,
+nil,
+true,
+false,
+},
+["welcome"] = true,
 },
 ["Ниэтта - Гордунни"] = {
 ["spec"] = {
@@ -118,10 +147,18 @@ true,
 ["welcome"] = true,
 },
 ["Фламинника - Гордунни"] = {
-["welcome"] = true,
 ["spec"] = {
 [3] = true,
 },
+["welcome"] = true,
+},
+["Элсин - Гордунни"] = {
+["spec"] = {
+nil,
+true,
+false,
+},
+["welcome"] = true,
 },
 ["Altery - Durotan"] = {
 ["spec"] = {
@@ -143,13 +180,19 @@ true,
 },
 },
 ["Нирейя - Борейская тундра"] = {
+["welcome"] = true,
 ["spec"] = {
 nil,
 nil,
 true,
 false,
 },
+},
+["Алиэрена - Гордунни"] = {
 ["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
 },
 ["Дэлери - Борейская тундра"] = {
 ["welcome"] = true,
@@ -158,17 +201,71 @@ nil,
 true,
 },
 },
-["Рефти - Гордунни"] = {
+["Энастари - Гордунни"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Артэмита - Гордунни"] = {
 ["welcome"] = true,
 ["spec"] = {
 [3] = false,
 },
+},
+["Эстрея - Борейская тундра"] = {
+["spec"] = {
+nil,
+nil,
+true,
+false,
+},
+["welcome"] = true,
+},
+["Эраминта - Гордунни"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Рефти - Гордунни"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Зиэ - Гордунни"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
+},
+["Вейлзевулла - Борейская тундра"] = {
+["spec"] = {
+[3] = true,
+},
+["welcome"] = true,
+},
+["Эллиата - Гордунни"] = {
+["spec"] = {
+[3] = false,
+},
+["welcome"] = true,
 },
 ["Ващеновый - Гордунни"] = {
 ["welcome"] = true,
 ["spec"] = {
 true,
 [3] = false,
+},
+},
+["Estrea - EU Mythic Dungeons"] = {
+["welcome"] = true,
+["spec"] = {
+nil,
+nil,
+true,
+false,
 },
 },
 ["Эрника - Борейская тундра"] = {
@@ -183,20 +280,11 @@ true,
 [3] = true,
 },
 },
-["Elavi - Durotan"] = {
+["Flaminika - Durotan"] = {
 ["spec"] = {
 [3] = false,
 },
 ["welcome"] = true,
-},
-["Estrea - EU Mythic Dungeons"] = {
-["welcome"] = true,
-["spec"] = {
-nil,
-nil,
-true,
-false,
-},
 },
 ["Элави - Борейская тундра"] = {
 ["welcome"] = true,
@@ -204,7 +292,13 @@ false,
 [3] = false,
 },
 },
-["Flaminika - Durotan"] = {
+["Элантаис - Гордунни"] = {
+["welcome"] = true,
+["spec"] = {
+[3] = false,
+},
+},
+["Elavi - Durotan"] = {
 ["spec"] = {
 [3] = false,
 },
@@ -218,22 +312,20 @@ true,
 false,
 },
 },
-["Эстрея - Борейская тундра"] = {
+["Терцета - Гордунни"] = {
 ["welcome"] = true,
-["spec"] = {
-nil,
-nil,
-true,
-false,
-},
-},
-["Эллиата - Гордунни"] = {
 ["spec"] = {
 [3] = false,
 },
-["welcome"] = true,
 },
-["Вейлзевулла - Борейская тундра"] = {
+["Нэмея - Гордунни"] = {
+["welcome"] = true,
+["spec"] = {
+true,
+[3] = false,
+},
+},
+["Земкатра - Гордунни"] = {
 ["spec"] = {
 [3] = true,
 },
@@ -242,11 +334,9 @@ false,
 },
 ["global"] = {
 ["CheckNewLookAndFeel"] = true,
-["version"] = "12.1.0",
+["version"] = "13.0.6",
 },
 ["namespaces"] = {
-["LibDualSpec-1.0"] = {
-},
 },
 ["profileKeys"] = {
 ["Шайэн - Гордунни"] = "Default",
@@ -254,6 +344,9 @@ false,
 ["Эстрэя - Гордунни"] = "Default",
 ["Алоиза - Борейская тундра"] = "Default",
 ["Тиаз - Борейская тундра"] = "Default",
+["Литрэс - Гордунни"] = "Default",
+["Катрэта - Гордунни"] = "Default",
+["Лиерми - Гордунни"] = "Default",
 ["Сайбил - Борейская тундра"] = "Default",
 ["Мэйрика - Гордунни"] = "ShadowPriest",
 ["Estrea - Alleria"] = "Default",
@@ -262,37 +355,48 @@ false,
 ["Delery - Durotan"] = "Default",
 ["Ниоши - Борейская тундра"] = "Default",
 ["Алоиза - Гордунни"] = "ShadowPriest",
+["Миттенс - Гордунни"] = "Default",
 ["Ниэтта - Гордунни"] = "Default",
 ["Фламиника - Борейская тундра"] = "Default",
 ["Дэлери - Гордунни"] = "Default",
 ["Ниамэй - Гордунни"] = "Default",
 ["Фламинника - Гордунни"] = "Default",
+["Элсин - Гордунни"] = "Default",
 ["Altery - Durotan"] = "Default",
 ["Altery - Bronzebeard"] = "Default",
 ["Алтэри - Гордунни"] = "Default",
 ["Нирейя - Борейская тундра"] = "Default",
+["Алиэрена - Гордунни"] = "Default",
 ["Дэлери - Борейская тундра"] = "Default",
+["Энастари - Гордунни"] = "Default",
+["Артэмита - Гордунни"] = "Default",
+["Эстрея - Борейская тундра"] = "Default",
+["Эраминта - Гордунни"] = "Default",
 ["Рефти - Гордунни"] = "Default",
+["Зиэ - Гордунни"] = "Default",
+["Вейлзевулла - Борейская тундра"] = "Default",
+["Эллиата - Гордунни"] = "Default",
 ["Ващеновый - Гордунни"] = "Default",
+["Estrea - EU Mythic Dungeons"] = "Default",
 ["Эрника - Борейская тундра"] = "Default",
 ["Flaminika - Silvermoon"] = "Default",
-["Elavi - Durotan"] = "Default",
-["Estrea - EU Mythic Dungeons"] = "Default",
-["Элави - Борейская тундра"] = "Default",
 ["Flaminika - Durotan"] = "Default",
+["Элави - Борейская тундра"] = "Default",
+["Элантаис - Гордунни"] = "Default",
+["Elavi - Durotan"] = "Default",
 ["Хилопятьумер - Гордунни"] = "Default",
-["Эстрея - Борейская тундра"] = "Default",
-["Эллиата - Гордунни"] = "Default",
-["Вейлзевулла - Борейская тундра"] = "Default",
+["Терцета - Гордунни"] = "Default",
+["Нэмея - Гордунни"] = "Default",
+["Земкатра - Гордунни"] = "Default",
 },
 ["profiles"] = {
 ["Мэйрика - Гордунни"] = {
 ["settings"] = {
 ["frame"] = {
 ["heightFriend"] = 61.6817726964263,
-["widthFriend"] = 144.5,
-["height"] = 61.6817726964263,
 ["width"] = 144.5,
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
 },
 },
 },
@@ -304,6 +408,9 @@ false,
 },
 ["alpha"] = {
 ["OccludedUnits"] = 0.35,
+},
+["scale"] = {
+["Target"] = 0.5,
 },
 },
 ["uniqueSettings"] = {
@@ -468,13 +575,19 @@ false,
 },
 },
 {
-["color"] = {
-["b"] = 0.4470588564872742,
-["r"] = 0.9843137860298157,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
 },
 ["allowMarked"] = false,
 ["icon"] = 298642,
 ["AutomaticIcon"] = 298642,
+["color"] = {
+["b"] = 0.4470588564872742,
+["r"] = 0.9843137860298157,
+},
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 408805,
@@ -488,12 +601,6 @@ false,
 },
 },
 ["Name"] = "Incorporeal",
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
 },
 {
 ["Enable"] = {
@@ -505,6 +612,10 @@ false,
 ["allowMarked"] = false,
 ["icon"] = 135978,
 ["AutomaticIcon"] = 135978,
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
+},
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -519,10 +630,6 @@ false,
 },
 },
 ["Name"] = "VampiricTouch",
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
-},
 },
 {
 ["color"] = {
@@ -533,6 +640,11 @@ false,
 ["allowMarked"] = false,
 ["icon"] = 135813,
 ["AutomaticIcon"] = 135813,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+},
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -547,11 +659,35 @@ false,
 },
 },
 ["Name"] = "FlameShock",
+},
+{
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 },
+["showIcon"] = false,
+["allowMarked"] = false,
+["icon"] = 135817,
+["AutomaticIcon"] = 135817,
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
+},
+["Trigger"] = {
+["Type"] = "Aura",
+["Name"] = {
+["Input"] = "",
+},
+["Aura"] = {
+["Input"] = "Жертвенный огонь",
+["AsArray"] = {
+"Жертвенный огонь",
+},
+["ShowOnlyMine"] = true,
+},
+},
+["Name"] = "Immolate",
 },
 {
 ["Enable"] = {
@@ -574,14 +710,19 @@ false,
 },
 },
 ["CheckForIncompatibleAddons"] = false,
+["ColorByHealth"] = {
+["Low"] = {
+["r"] = 0.6549019607843137,
+["g"] = 0.6431372549019607,
+["b"] = 0.6549019607843137,
+},
+["High"] = {
+["g"] = 0.9058823529411765,
+["b"] = 0.9725490196078431,
+},
+},
 ["ComboPoints"] = {
 ["ON"] = true,
-},
-["threatWidget"] = {
-["ThreatPercentage"] = {
-["ShowInGroups"] = false,
-["ShowWithPet"] = false,
-},
 },
 ["CVarsBackup"] = {
 ["nameplateMinAlpha"] = "0.6",
@@ -593,10 +734,12 @@ false,
 ["percent"] = false,
 },
 ["BossModsWidget"] = {
-["ON"] = false,
 ["ShowInHeadlineView"] = false,
+["ON"] = false,
 },
 ["AuraWidget"] = {
+["SwitchScaleByReaction"] = false,
+["FlashWhenExpiring"] = true,
 ["Debuffs"] = {
 ["FilterBySpell"] = {
 "Пытка разума",
@@ -619,8 +762,6 @@ false,
 ["VerticalOffset"] = 25,
 },
 },
-["SwitchScaleByReaction"] = false,
-["FlashWhenExpiring"] = true,
 ["Buffs"] = {
 ["FilterBySpell"] = {
 "Мощь претендента",
@@ -629,9 +770,6 @@ false,
 },
 },
 ["settings"] = {
-["customtext"] = {
-["align"] = "LEFT",
-},
 ["eliteicon"] = {
 ["x"] = -52,
 ["y"] = -2,
@@ -642,12 +780,19 @@ false,
 ["spelltext"] = {
 ["align"] = "CENTER",
 },
+["healthbar"] = {
+["TargetUnit"] = {
+["ShowOnlyInCombat"] = false,
+["CustomColor"] = {
+["b"] = 0.760784387588501,
+["g"] = 0.2862745225429535,
+["r"] = 0.1803921610116959,
+},
+},
+},
 ["skullicon"] = {
 ["x"] = -56,
 ["scale"] = 12,
-},
-["name"] = {
-["y"] = 15,
 },
 ["frame"] = {
 ["heightFriend"] = 61.6817726964263,
@@ -657,26 +802,40 @@ false,
 },
 ["raidicon"] = {
 ["scale"] = 30,
-["hpColor"] = false,
 ["x"] = 56,
 },
 },
 ["targetWidget"] = {
 ["theme"] = "arrow_less_than",
 },
-["aHPbarColor"] = {
-["r"] = 0.6549019607843137,
-["g"] = 0.6431372549019607,
-["b"] = 0.6549019607843137,
+["HeadlineView"] = {
+["ForceHealthbarOnTarget"] = true,
+},
+["Name"] = {
+["HealthbarMode"] = {
+["VerticalOffset"] = 15,
+["Font"] = {
+["VerticalAlignment"] = "BOTTOM",
+},
+},
+},
+["StatusText"] = {
+["HealthbarMode"] = {
+["Font"] = {
+["HorizontalAlignment"] = "LEFT",
+},
+},
 },
 ["Visibility"] = {
 ["FriendlyMinus"] = {
 ["Show"] = false,
 },
 },
-["bHPbarColor"] = {
-["g"] = 0.9058823529411765,
-["b"] = 0.9725490196078431,
+["threat"] = {
+["ThreatPercentage"] = {
+["ShowInGroups"] = false,
+["ShowWithPet"] = false,
+},
 },
 },
 ["ShadowPriest"] = {
@@ -689,118 +848,56 @@ false,
 },
 },
 ["threat"] = {
+["ThreatPercentage"] = {
+["ShowInGroups"] = false,
+["ShowWithPet"] = false,
+},
 ["useHPColor"] = false,
 },
 ["CVarsBackup"] = {
 ["nameplateMinAlpha"] = "0.6",
 ["nameplateMaxAlpha"] = "1.0",
 },
-["bHPbarColor"] = {
-["g"] = 0.9058823529411765,
-["b"] = 0.9725490196078431,
-},
-["aHPbarColor"] = {
-["r"] = 0.6549019607843137,
-["g"] = 0.6431372549019607,
-["b"] = 0.6549019607843137,
-},
 ["text"] = {
 ["percent"] = false,
 ["full"] = true,
 ["amount"] = true,
 },
-["threatWidget"] = {
-["ThreatPercentage"] = {
-["ShowInGroups"] = false,
-["ShowWithPet"] = false,
-},
-},
-["CheckForIncompatibleAddons"] = false,
-["allowClass"] = false,
-["uniqueSettings"] = {
-{
-["color"] = {
-["g"] = 0.5215686559677124,
-["b"] = 0.9764706492424011,
-},
-["Name"] = "TerrifyingScreech",
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
-["Trigger"] = {
-["Cast"] = {
-["Input"] = 255041,
-["AsArray"] = {
-255041,
-},
-},
-["Type"] = "Cast",
-["Name"] = {
-["Input"] = "",
-},
-},
-["allowMarked"] = false,
-["icon"] = 132094,
-["AutomaticIcon"] = 132094,
-},
-{
-["UseThreatGlow"] = true,
-["Name"] = "Spiteful",
-["UseThreatColor"] = true,
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
-["Trigger"] = {
-["Name"] = {
-["Input"] = "Злопамятная тень",
-["AsArray"] = {
-"Злопамятная тень",
-},
-},
-},
-},
-{
-["Name"] = "VampiricTouch",
-["allowMarked"] = false,
-["showIcon"] = false,
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-},
-["Trigger"] = {
-["Type"] = "Aura",
-["Name"] = {
-["Input"] = "",
-},
-["Aura"] = {
-["Input"] = "Прикосновение вампира",
-["AsArray"] = {
-"Прикосновение вампира",
-},
-["ShowOnlyMine"] = true,
-},
-},
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
-},
-["icon"] = 135978,
-["AutomaticIcon"] = 135978,
-},
-},
 ["FocusWidget"] = {
 ["theme"] = "Stripes",
 },
-["BossModsWidget"] = {
-["ShowInHeadlineView"] = false,
-["ON"] = false,
+["settings"] = {
+["elitehealthborder"] = {
+["texture"] = "TP_EliteBorder_Thin",
+},
+["eliteicon"] = {
+["y"] = -2,
+["x"] = -52,
+},
+["spelltext"] = {
+["align"] = "CENTER",
+},
+["frame"] = {
+["heightFriend"] = 61.6817726964263,
+["width"] = 144.5,
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+},
+["skullicon"] = {
+["scale"] = 12,
+["x"] = -56,
+},
+["raidicon"] = {
+["scale"] = 30,
+["x"] = 56,
+["hpMarked"] = {
+["STAR"] = {
+["r"] = 0.8431373238563538,
+["g"] = 0.8509804606437683,
+["b"] = 0.2784313857555389,
+},
+},
+},
 },
 ["AuraWidget"] = {
 ["Debuffs"] = {
@@ -834,41 +931,103 @@ false,
 },
 },
 },
-["settings"] = {
-["spelltext"] = {
-["align"] = "CENTER",
+["uniqueSettings"] = {
+{
+["color"] = {
+["g"] = 0.5215686559677124,
+["b"] = 0.9764706492424011,
 },
-["elitehealthborder"] = {
-["texture"] = "TP_EliteBorder_Thin",
+["Name"] = "TerrifyingScreech",
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
 },
-["eliteicon"] = {
-["y"] = -2,
-["x"] = -52,
+["OutOfInstances"] = false,
 },
-["name"] = {
-["y"] = 15,
-},
-["frame"] = {
-["heightFriend"] = 61.6817726964263,
-["width"] = 144.5,
-["height"] = 61.6817726964263,
-["widthFriend"] = 144.5,
-},
-["skullicon"] = {
-["scale"] = 12,
-["x"] = -56,
-},
-["raidicon"] = {
-["scale"] = 30,
-["x"] = 56,
-["hpColor"] = false,
-["hpMarked"] = {
-["STAR"] = {
-["r"] = 0.8431373238563538,
-["g"] = 0.8509804606437683,
-["b"] = 0.2784313857555389,
+["Trigger"] = {
+["Cast"] = {
+["Input"] = 255041,
+["AsArray"] = {
+255041,
 },
 },
+["Type"] = "Cast",
+["Name"] = {
+["Input"] = "",
+},
+},
+["allowMarked"] = false,
+["icon"] = 132094,
+["AutomaticIcon"] = 132094,
+},
+{
+["UseThreatGlow"] = true,
+["Name"] = "Spiteful",
+["UseThreatColor"] = true,
+["Trigger"] = {
+["Name"] = {
+["Input"] = "Злопамятная тень",
+["AsArray"] = {
+"Злопамятная тень",
+},
+},
+},
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
+},
+},
+{
+["Name"] = "VampiricTouch",
+["allowMarked"] = false,
+["showIcon"] = false,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+},
+["Trigger"] = {
+["Type"] = "Aura",
+["Name"] = {
+["Input"] = "",
+},
+["Aura"] = {
+["Input"] = "Прикосновение вампира",
+["AsArray"] = {
+"Прикосновение вампира",
+},
+["ShowOnlyMine"] = true,
+},
+},
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
+},
+["icon"] = 135978,
+["AutomaticIcon"] = 135978,
+},
+},
+["Name"] = {
+["HealthbarMode"] = {
+["VerticalOffset"] = 15,
+},
+},
+["BossModsWidget"] = {
+["ON"] = false,
+["ShowInHeadlineView"] = false,
+},
+["CheckForIncompatibleAddons"] = false,
+["ColorByHealth"] = {
+["Low"] = {
+["r"] = 0.6549019607843137,
+["g"] = 0.6431372549019607,
+["b"] = 0.6549019607843137,
+},
+["High"] = {
+["g"] = 0.9058823529411765,
+["b"] = 0.9725490196078431,
 },
 },
 ["ComboPoints"] = {
@@ -882,9 +1041,9 @@ false,
 ["settings"] = {
 ["frame"] = {
 ["heightFriend"] = 61.6817726964263,
-["widthFriend"] = 144.5,
-["height"] = 61.6817726964263,
 ["width"] = 144.5,
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
 },
 },
 },
@@ -892,9 +1051,9 @@ false,
 ["settings"] = {
 ["frame"] = {
 ["heightFriend"] = 61.6817726964263,
-["widthFriend"] = 144.5,
-["height"] = 61.6817726964263,
 ["width"] = 144.5,
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
 },
 },
 },

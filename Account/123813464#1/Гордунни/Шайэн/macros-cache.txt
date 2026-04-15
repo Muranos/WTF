@@ -1,3 +1,8 @@
+VER 3 0100000000000012 "Ascendance" "134400"
+#showtooltip Перерождение
+/use 13
+/cast Перерождение
+END
 VER 3 0100000000000006 "ChainLightning" "INV_MISC_QUESTIONMARK"
 #showtooltip 
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Цепное исцеление
@@ -6,18 +11,34 @@ VER 3 0100000000000008 "Earthquake" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] Землетрясение
 END
+VER 3 0100000000000014 "EarthShield" "134400"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Щит земли
+END
+VER 3 0100000000000011 "EarthShock" "134400"
+#showtooltip [known: Земной шок] Земной шок; Удар духов стихий
+/cast [known: Земной шок] Земной шок; Удар духов стихий
+END
 VER 3 010000000000000F "EleCombo" "134400"
 #showtooltip
 /cast [harm,nodead] Элементаль огня; Взлет вверх
 END
+VER 3 0100000000000010 "Elemental" "134400"
+#showtooltip
+/castsequence Элементаль бури, Перерождение
+END
 VER 3 010000000000000E "Elemtrink" "134400"
 #showtooltip Первозданная волна
-/use 13
+/cast Стремительность предков
 /cast Первозданная волна
 END
 VER 3 010000000000000A "EyeOfTheStorm" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [talent:6/2] Око шторма
+END
+VER 3 0100000000000015 "HealingWave" "134400"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Волна исцеления
 END
 VER 3 010000000000000D "Lavaburst" "134400"
 #showtooltip
@@ -44,6 +65,11 @@ VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
 #showtooltip Щит молний
 /cancelaura Искра безумия
 /castsequence reset=5 Щит молний, Оружие языка пламени, Небесная ярость
+END
+VER 3 0100000000000013 "SelfBufHeal" "134400"
+#showtooltip Водный щит
+/cancelaura Искра безумия
+/castsequence reset=5 Водный щит, Щит молний, Оружие жизни земли, Небесная ярость
 END
 VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
 #showtooltip 

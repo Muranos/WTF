@@ -1,6 +1,23 @@
+VER 3 0000000000000066 "_Mark_Target" "1030094"
+/cleartarget
+/tar Мармадьюк
+/stopmacro [noexists]
+/script SetRaidTarget("target", 8);
+/ping [@target]
+END
+VER 3 0000000000000067 "_Track_Achieve" "135769"
+/run local a=40620 print(format("\124cffFFFF00TO DO for %s\124r",GetAchievementLink(a)))for i=1,GetAchievementNumCriteria(a)do local d,_,c,x,y=GetAchievementCriteriaInfo(a,i)if not c then print(format("%s %d/%d",d,x,y))end end
+END
+VER 3 000000000000005D "AllClassHalls" "136029"
+/run local t={108360,108376,108651,108655,108654,108648,108656,108652,108657,108653,108650,108649}for i,id in pairs(t) do local _,_,c = GetAchievementCriteriaInfoByID(42565,id)print(GetClassInfo(i),c and"\124T136814:0\124t"or"\124T136813:0\124t")end
+END
 VER 3 0000000000000033 "Archeology" "INV_MISC_QUESTIONMARK"
 #showtooltip [combat] Рассеивание заклинаний; Исследовать
 /cast [combat] Рассеивание заклинаний; Исследовать
+END
+VER 3 0000000000000059 "ArtifactAbility" "134400"
+#showtooltip
+/cast [known:Гнев бури] Гнев бури; [known:Вечный диск Нарана] Вечный диск Нарана; [known:Правосудие воздаятеля] Правосудие воздаятеля; [known:Авангард из Круговерти] Авангард из Круговерти; [known:Зов леса] Зов леса
 END
 VER 3 000000000000001F "AutoTurnIn" "Ability_Shaman_Ascendance"
 /script SelectGossipAvailableQuest(1); CompleteQuest(); GetQuestReward();
@@ -16,14 +33,14 @@ VER 3 000000000000001E "CancelBop" "136223"
 END
 VER 3 000000000000002A "CandyAndFish" "INV_MISC_QUESTIONMARK"
 #showtooltip Пригоршня конфет
+/sit
 /cancelaura Костюм лепрогнома
 /cancelaura Костюм пирата
 /cancelaura Костюм летучей мыши
-/cancelaura Костюм горгульи
 /use Пригоршня конфет
-/use Древний лосось Крутогорья
 /use Карп холодных вод
 /use Горный иглобрюх
+/use Гора непонятного мяса
 END
 VER 3 000000000000002F "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
 /cm rc
@@ -34,11 +51,24 @@ END
 VER 3 0000000000000029 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
 /cm rt
 END
+VER 3 000000000000006C "Contracts" "538516"
+/use Договор: картель Ба
+/use Договор: картель Зо
+/use Договор: картель Ом
+END
+VER 3 000000000000006A "Drathyr_Mount" "135754"
+/castrandom [flyable] Парение; Мрачный кошмар, Небесный скакун, Огнегривый скакун, Пламенное крыло Алисразор, Породистая индюшка, Призрачный скакун, Свалочный скиталец, Серенада, Стремительная жевра, Гилнеасский хищник, Инфернал ледяных осколков
+END
 VER 3 0000000000000045 "ExtraAction" "INV_MISC_QUESTIONMARK"
 #showtooltip /click ExtraActionButton1
 END
 VER 3 0000000000000046 "FocusMouseover" "136001"
 /focus [@mouseover]
+END
+VER 3 000000000000005C "Healpot" "134400"
+#showtooltip Бодрящее лечебное зелье
+/use Недолговечное бодрящее лечебное зелье
+/use Бодрящее лечебное зелье
 END
 VER 3 0000000000000055 "Invite" "4667426"
 /invite Сочувствие-Гордунни
@@ -49,12 +79,20 @@ VER 3 0000000000000055 "Invite" "4667426"
 /invite Всё-Гордунни
 /invite Рептилоиды-Гордунни
 /invite Пойдёт-Гордунни
+/invite Бсина-Гордунни
+END
+VER 3 000000000000005E "InviteDruid" "1408834"
+/invite Бсина
+/invite Сострадание
 END
 VER 3 0000000000000054 "IsQuestComplete" "132160"
-/script print(C_QuestLog.IsQuestFlaggedCompleted(65419))
+/script print(C_QuestLog.IsQuestFlaggedCompleted(46043))
 END
 VER 3 000000000000003C "Kiss" "897141"
 /kiss
+END
+VER 3 0000000000000068 "Love" "134720"
+/love
 END
 VER 3 0000000000000038 "Mark_Circle" "135744"
 /run SetRaidTarget("mouseover", 2);
@@ -68,11 +106,11 @@ END
 VER 3 000000000000003B "Mark_Skull" "135743"
 /run SetRaidTarget("mouseover", 8);
 END
-VER 3 0000000000000048 "Mark_Square" "INV_MISC_QUESTIONMARK"
-/run SetRaidTarget("mouseover", 4);
-END
 VER 3 000000000000003A "Mark_Square" "135745"
 /run SetRaidTarget("mouseover", 6);
+END
+VER 3 0000000000000048 "Mark_Square" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("mouseover", 4);
 END
 VER 3 0000000000000037 "Mark_Star" "135749"
 /run SetRaidTarget("mouseover", 1);
@@ -82,6 +120,9 @@ VER 3 000000000000004A "Mark_Triangle" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000001B "Murloc" "Ability_Hunter_FocusedAim"
 /script PlaySoundFile("Sound\\Creature\\Murloc\\mMurlocAggroOld.wav")
+END
+VER 3 000000000000006B "OpenBox" "1518636"
+/use Тайник с сокровищами Бесконечности
 END
 VER 3 0000000000000023 "PoM" "INV_MISC_QUESTIONMARK"
 #showtooltip Молитва восстановления
@@ -93,6 +134,12 @@ END
 VER 3 0000000000000024 "Renew" "INV_MISC_QUESTIONMARK"
 #showtooltip Обновление
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Обновление
+END
+VER 3 000000000000005F "SelectDialog" "135925"
+/script GossipFrame:SelectGossipOption(1)
+/click QuestFrameCompleteButton
+/click QuestFrameCompleteQuestButton
+/click QuestFrameAcceptButton
 END
 VER 3 0000000000000025 "Serenity" "INV_MISC_QUESTIONMARK"
 #showtooltip Слово Света: Безмятежность
@@ -107,6 +154,30 @@ VER 3 0000000000000015 "Spear" "SPELL_HOLY_SURGEOFLIGHT"
 /click ExtraActionButton1
 /targetlasttarget
 END
+VER 3 0000000000000061 "Talents_DH" "1450143"
+CUkAVVFIvriGAPx6R1rEiLo2cCAmZMmZMMjMzMMDzMbjxMsNzwMmZMY2mZmNzMmZYGAAAAmtZwwYZhJZwMzgF
+END
+VER 3 0000000000000063 "Talents_Hunter" "236209"
+C0PA11Mk8aZ38kAf+zso3nZ9IYMbDMgBMbsFyYBAAAAAAzM2mxYmBmZYmlZmZmBzYmMjZMDzMMzYGGjZmhxwstMD2AAAAAAgZA
+END
+VER 3 0000000000000065 "Talents_Mage" "1387355"
+CAEAkrVdV3pA5GLQDtVHHbnyGxYDzYMjZMLGYegZaMmZMzMzMGwMmZmZMzMzMzMjZMDEAAAWYmpNAAAAAAAAAAAAAAYA
+END
+VER 3 000000000000005A "Talents_Priest" "1035040"
+CIQAJVmtV83otBfEj5bt80waBMMMGAAAAAAAAAAAAjHwyYMzMbLbMzMzMzMbwsxMzMjZjBGjhZxsN1YmxCmBYmNLTNbGAyYsAAbDA
+END
+VER 3 0000000000000060 "Talents_Rogue" "136058"
+CMQAA0tw2gAD7pPTLoW5IGZDewMzMzMzMYAAAAAAYWGsMDAAAAAAttNmZMzMYmZ2mtZmZMmZGzgxYzyYGgNz2ADYJYbYCMsYA
+END
+VER 3 0000000000000064 "Talents_Shaman" "1370984"
+CYQAL+iDLHPJSLC+6fqMJ8tubCAAAAAMbzy2MjZGzysMGMYmBAAAAwiZW2MzMsZYhZZmphmZBAMLTzgxGzMTDzMzYGLzYGMGLWmZmxMjZmFA
+END
+VER 3 0000000000000062 "Talents_Warlock" "607852"
+CsQAYIOwXTfhprvln24ZeRPDbMMmxMzMjY2MwsZmZY2mlZYmZmlZGz2iZGAAAAYMDLzMLzAGzYYhMw2wCNWwAAAAAAAYYMDAA
+END
+VER 3 0000000000000069 "Talents_Warrior" "132175"
+CkEArbixk/ZKwTdpZGVHeylmL0yAAAAwYGzMzMzMmNzMLDGjZaMLjZYswMzw2MzYGYYAAAAAAAjBAmxGgB2glFjGzAY2CzGMzA
+END
 VER 3 0000000000000042 "TheVaultIsGreat" "135923"
 /run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
 END
@@ -114,9 +185,18 @@ VER 3 0000000000000047 "UseBelt" "INV_MISC_QUESTIONMARK"
 #showtooltip 6
 /use 6
 END
+VER 3 000000000000005B "UseQuestItem" "3615519"
+/click WatchFrameItem1
+END
 VER 3 0000000000000043 "UsetTrinket" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
 /use 13
+END
+VER 3 0000000000000056 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000057 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Зон[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0000000000000053 "WorldMarker" "132864"
 /wm [@cursor] 1

@@ -1,0 +1,6 @@
+
+DandersFramesCharDB = {
+["specProfiles"] = {
+},
+["enableSpecSwitch"] = false,
+}

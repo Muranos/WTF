@@ -1,8 +1,26 @@
 
 PawnOptions = {
-["LastVersion"] = 2.1008,
-["LastPlayerFullName"] = "Сайбил-Борейская тундра",
 ["AutoSelectScales"] = true,
+["Artifacts"] = {
+[128402] = {
+["Relics"] = {
+{
+["ItemLevel"] = 15,
+["Type"] = "Blood",
+},
+{
+["ItemLevel"] = 7,
+["Type"] = "Shadow",
+},
+{
+["Type"] = "Iron",
+},
+},
+["Name"] = "Проклятый Пожиратель",
+},
+},
+["LastVersion"] = 2.1109,
+["LastPlayerFullName"] = "Сайбил-Борейская тундра",
 ["UpgradeTracking"] = false,
 ["ItemLevels"] = {
 {
@@ -86,24 +104,7 @@ nil,
 ["Link"] = "|cffa335ee|Hitem:158124:6148:154127::::::120:250::28:6:4803:4802:6516:6515:1627:4786:::|h[Динобоец]|h|r",
 },
 },
-["Artifacts"] = {
-[128402] = {
-["Relics"] = {
-{
-["ItemLevel"] = 15,
-["Type"] = "Blood",
-},
-{
-["ItemLevel"] = 7,
-["Type"] = "Shadow",
-},
-{
-["Type"] = "Iron",
-},
-},
-["Name"] = "Проклятый Пожиратель",
-},
-},
+["AutoSelectScalesEnabledOnce"] = true,
 ["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

@@ -1,0 +1,15 @@
+
+HandyNotes_MidsummerFireFestivalDB = {
+["profileKeys"] = {
+["Шайэн - Гордунни"] = "Default",
+["Фламинника - Гордунни"] = "Default",
+["Дэлери - Гордунни"] = "Default",
+["Эстрэя - Гордунни"] = "Default",
+["Ниэтта - Гордунни"] = "Default",
+["Алтэри - Гордунни"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}

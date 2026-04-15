@@ -1,0 +1,2 @@
+
+QQI_DB = nil

@@ -3,9 +3,13 @@ RarityDB = {
 ["profileKeys"] = {
 ["Шайэн - Гордунни"] = "Default",
 ["Алтери - Борейская тундра"] = "Default",
+["Эстэро - Гордунни"] = "Default",
 ["Эстрэя - Гордунни"] = "Default",
 ["Алоиза - Борейская тундра"] = "Default",
 ["Тиаз - Борейская тундра"] = "Default",
+["Литрэс - Гордунни"] = "Default",
+["Катрэта - Гордунни"] = "Default",
+["Лиерми - Гордунни"] = "Default",
 ["Сайбил - Борейская тундра"] = "Default",
 ["Мэйрика - Гордунни"] = "Default",
 ["Estrea - Alleria"] = "Default",
@@ -14,28 +18,39 @@ RarityDB = {
 ["Delery - Durotan"] = "Default",
 ["Ниоши - Борейская тундра"] = "Default",
 ["Алоиза - Гордунни"] = "Default",
+["Миттенс - Гордунни"] = "Default",
 ["Ниэтта - Гордунни"] = "Default",
 ["Фламиника - Борейская тундра"] = "Default",
 ["Дэлери - Гордунни"] = "Default",
 ["Ниамэй - Гордунни"] = "Default",
 ["Фламинника - Гордунни"] = "Default",
+["Элсин - Гордунни"] = "Default",
 ["Altery - Durotan"] = "Default",
 ["Altery - Bronzebeard"] = "Default",
 ["Алтэри - Гордунни"] = "Default",
 ["Нирейя - Борейская тундра"] = "Default",
+["Алиэрена - Гордунни"] = "Default",
 ["Дэлери - Борейская тундра"] = "Default",
+["Энастари - Гордунни"] = "Default",
+["Артэмита - Гордунни"] = "Default",
+["Эллиата - Гордунни"] = "Default",
+["Эраминта - Гордунни"] = "Default",
 ["Рефти - Гордунни"] = "Default",
+["Зиэ - Гордунни"] = "Default",
+["Вейлзевулла - Борейская тундра"] = "Default",
+["Эстрея - Борейская тундра"] = "Default",
 ["Ващеновый - Гордунни"] = "Default",
-["Эрника - Борейская тундра"] = "Default",
-["Flaminika - Silvermoon"] = "Default",
-["Elavi - Durotan"] = "Default",
 ["Estrea - EU Mythic Dungeons"] = "Default",
 ["Flaminika - Durotan"] = "Default",
+["Flaminika - Silvermoon"] = "Default",
 ["Элави - Борейская тундра"] = "Default",
+["Эрника - Борейская тундра"] = "Default",
+["Элантаис - Гордунни"] = "Default",
+["Elavi - Durotan"] = "Default",
 ["Хилопятьумер - Гордунни"] = "Default",
-["Эллиата - Гордунни"] = "Default",
-["Эстрея - Борейская тундра"] = "Default",
-["Вейлзевулла - Борейская тундра"] = "Default",
+["Терцета - Гордунни"] = "Default",
+["Нэмея - Гордунни"] = "Default",
+["Земкатра - Гордунни"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -235,21 +250,21 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190421] = {
-["time"] = 1,
+[20180608] = {
 ["attempts"] = 1,
 },
 [20181118] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180608] = {
+[20190421] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20180612] = {
 ["attempts"] = 1,
 },
-[20180628] = {
+[20180616] = {
 ["attempts"] = 1,
 },
 [20181223] = {
@@ -271,7 +286,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180616] = {
+[20180628] = {
 ["attempts"] = 1,
 },
 [20190621] = {
@@ -342,7 +357,7 @@ RarityDB = {
 },
 },
 ["Corpselouse Larva"] = {
-["time"] = 53,
+["time"] = 55,
 ["dates"] = {
 [20221104] = {
 ["time"] = 2,
@@ -438,19 +453,30 @@ RarityDB = {
 [20221031] = {
 ["attempts"] = 1,
 },
+[20221110] = {
+["time"] = 3,
+["attempts"] = 2,
+},
+[20250417] = {
+["attempts"] = 1,
+},
+[20221113] = {
+["attempts"] = 1,
+},
 [20221107] = {
 ["time"] = 5,
 ["attempts"] = 2,
 },
-[20221110] = {
-["time"] = 3,
+[20221024] = {
+["time"] = 1,
 ["attempts"] = 2,
 },
 [20230126] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221113] = {
+[20221019] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20250403] = {
@@ -460,13 +486,13 @@ RarityDB = {
 [20221215] = {
 ["attempts"] = 1,
 },
-[20221231] = {
+[20250411] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221024] = {
+[20221231] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 [20221211] = {
 ["time"] = 1,
@@ -480,19 +506,19 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 3,
 },
-[20221019] = {
-["time"] = 1,
+[20221204] = {
 ["attempts"] = 1,
 },
 [20230104] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221204] = {
+[20250512] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 46,
+["attempts"] = 49,
 },
 ["Mischievous Zephyr"] = {
 ["lastAttempts"] = 20,
@@ -606,22 +632,21 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240606] = {
-["time"] = 1,
+[20240126] = {
 ["attempts"] = 1,
 },
 [20240503] = {
-["attempts"] = 1,
-},
-[20240414] = {
-["time"] = 1,
 ["attempts"] = 1,
 },
 [20240203] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20231114] = {
+[20240414] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240220] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
@@ -632,7 +657,7 @@ RarityDB = {
 [20231106] = {
 ["attempts"] = 1,
 },
-[20240220] = {
+[20231114] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
@@ -640,7 +665,8 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240126] = {
+[20240606] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
@@ -1072,8 +1098,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -1087,8 +1113,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -1099,11 +1125,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -1111,19 +1137,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -1135,11 +1161,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -1156,8 +1182,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -1195,11 +1221,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -1207,8 +1233,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -1216,10 +1242,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -1276,41 +1302,41 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
@@ -1449,9 +1475,33 @@ RarityDB = {
 ["found"] = true,
 },
 ["Soullocked Sinstone"] = {
-["time"] = 198.9679999999935,
+["time"] = 212.9679999999935,
 ["dates"] = {
+[20250905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250801] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250817] = {
+["time"] = 1,
+["attempts"] = 1,
+},
 [20250128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250804] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250701] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250926] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -1459,8 +1509,36 @@ RarityDB = {
 ["time"] = 197.9679999999935,
 ["attempts"] = 3,
 },
+[20250501] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-["attempts"] = 4,
+[20250914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250812] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250916] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250925] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+},
+["attempts"] = 19,
 },
 ["Jadefire Spirit"] = {
 ["enabled"] = false,
@@ -1533,9 +1611,9 @@ RarityDB = {
 [20210905] = {
 ["attempts"] = 1,
 },
-[20210921] = {
-["time"] = 1,
-["attempts"] = 1,
+[20220103] = {
+["time"] = 110.9259999999777,
+["attempts"] = 3,
 },
 [20210620] = {
 ["time"] = 1,
@@ -1549,9 +1627,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20220103] = {
-["time"] = 110.9259999999777,
-["attempts"] = 3,
+[20210921] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
 ["attempts"] = 39,
@@ -1662,11 +1740,11 @@ RarityDB = {
 [20190627] = {
 ["attempts"] = 3,
 },
-[20190707] = {
-["attempts"] = 2,
-},
 [20190326] = {
 ["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20190703] = {
 ["attempts"] = 13,
@@ -1680,11 +1758,11 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
+[20190501] = {
+["attempts"] = 4,
+},
 [20190414] = {
 ["attempts"] = 8,
-},
-[20190628] = {
-["attempts"] = 1,
 },
 [20190430] = {
 ["attempts"] = 4,
@@ -1707,8 +1785,8 @@ RarityDB = {
 [20190428] = {
 ["attempts"] = 3,
 },
-[20190501] = {
-["attempts"] = 4,
+[20190628] = {
+["attempts"] = 1,
 },
 [20190506] = {
 ["attempts"] = 1,
@@ -2114,8 +2192,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -2129,8 +2207,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -2141,11 +2219,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -2153,19 +2231,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -2177,11 +2255,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -2198,8 +2276,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -2237,11 +2315,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -2249,8 +2327,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -2258,10 +2336,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -2318,41 +2396,41 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
@@ -2694,6 +2772,47 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
+["Heka'Tarnos, Bringer of Discord"] = {
+["lastAttempts"] = 6,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 6,
+},
+},
+["time"] = 4,
+["dates"] = {
+[20250918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250919] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250905] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250812] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4,
+},
 ["Craghoof Kid"] = {
 ["enabled"] = false,
 ["known"] = true,
@@ -2722,31 +2841,101 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Maw Crawler"] = {
-["lastAttempts"] = 2,
+["Lesser Circle of Binding"] = {
 ["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 2,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20201216] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-},
-["attempts"] = 2,
+["attempts"] = 14,
 ["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 1,
+},
+["Dread Horrorling"] = {
+["time"] = 370.4820000000764,
+["dates"] = {
+[20260216] = {
+["attempts"] = 2,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251210] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260214] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20251005] = {
+["time"] = 162.8850000001257,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20260306] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20260219] = {
+["time"] = 198.5969999999506,
+["attempts"] = 1,
+},
+[20260220] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20251119] = {
+["time"] = 1,
+},
+[20251125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260121] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 25,
 },
 ["Netherspace Portal-Stone"] = {
 ["enabled"] = false,
@@ -2798,25 +2987,628 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Lesser Circle of Binding"] = {
-["known"] = true,
-["attempts"] = 14,
+["Porcupette"] = {
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Nightmare Whelpling"] = {
-["known"] = true,
-["attempts"] = 31,
-["enabled"] = false,
-["found"] = true,
+["Magnataur Hunting Horn"] = {
+["time"] = 3,
+["dates"] = {
+[20200910] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220205] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 3,
 },
 ["Eye of Allseeing"] = {
 ["known"] = true,
 ["enabled"] = false,
 ["found"] = true,
 },
+["Ridgeback Piglet"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Xanthous Siphonmite"] = {
+["lastAttempts"] = 7,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 7,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 7,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20251004] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251018] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 7,
+["enabled"] = false,
+["realAttempts"] = 7,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Ageless Bronze Drake"] = {
+["lastAttempts"] = 6,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 8.66099999996368,
+["totalTime"] = 8.66099999996368,
+["attempts"] = 6,
+},
+},
+["time"] = 8.66099999996368,
+["dates"] = {
+[20180806] = {
+["time"] = 8.66099999996368,
+["attempts"] = 6,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 8.66099999996368,
+},
+["Warm Arcane Crystal"] = {
+["lastAttempts"] = 11,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 11,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 11,
+},
+},
+["time"] = 10,
+["dates"] = {
+[20181216] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181214] = {
+["attempts"] = 1,
+},
+[20181218] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20181213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181217] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 11,
+["enabled"] = false,
+["realAttempts"] = 11,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
+},
+["Scalebrood Hydra"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Tiny Emerald Whelpling"] = {
+["enabled"] = false,
+["found"] = true,
+["known"] = true,
+},
+["Fodder"] = {
+["known"] = true,
+["attempts"] = 1,
+["enabled"] = false,
+["found"] = true,
+["time"] = 3,
+["dates"] = {
+[20210723] = {
+["time"] = 3,
+["attempts"] = 1,
+},
+},
+},
+["Skull of a Frozen Whelp"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Arfus"] = {
+["lastAttempts"] = 40,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 40,
+["time"] = 34.44800000009127,
+["totalTime"] = 34.44800000009127,
+["attempts"] = 40,
+},
+},
+["time"] = 34.44800000009127,
+["dates"] = {
+[20241031] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231024] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231028] = {
+["time"] = 1,
+["attempts"] = 7,
+},
+[20241107] = {
+["time"] = 5,
+["attempts"] = 7,
+},
+[20231029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241104] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20231101] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20231022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231026] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231030] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20241105] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20241030] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241102] = {
+["time"] = 12.44800000009127,
+["attempts"] = 3,
+},
+[20231031] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20241106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241108] = {
+["attempts"] = 2,
+},
+[20251023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 40,
+["enabled"] = false,
+["realAttempts"] = 40,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 34.44800000009127,
+},
+["Stormforged Rune"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Blackwing Banner"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Crackleroar"] = {
+["lastAttempts"] = 31,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 31,
+["time"] = 2084.030999999988,
+["totalTime"] = 2084.030999999988,
+["attempts"] = 31,
+},
+},
+["time"] = 2084.030999999988,
+["dates"] = {
+[20250404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260102] = {
+["time"] = 977.7730000000156,
+["attempts"] = 18,
+},
+[20260103] = {
+["time"] = 1103.257999999973,
+["attempts"] = 10,
+},
+[20250406] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250407] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 31,
+["enabled"] = false,
+["realAttempts"] = 31,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2084.030999999988,
+},
+["Echo of the Heights"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Microbot 8D"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Scabby"] = {
+["lastAttempts"] = 13,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 13,
+["time"] = 13,
+["totalTime"] = 13,
+["attempts"] = 13,
+},
+},
+["time"] = 13,
+["dates"] = {
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181117] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190131] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 13,
+["enabled"] = false,
+["realAttempts"] = 13,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 13,
+},
+["K'uddly"] = {
+["time"] = 16,
+["dates"] = {
+[20201108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200701] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200717] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200312] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200509] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200525] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200527] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200228] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200830] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200524] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200703] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200313] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200924] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 17,
+},
+["Silithid Mini-Tank"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Playful Frostkin"] = {
+["lastAttempts"] = 0,
+["known"] = true,
+["attempts"] = 115,
+["enabled"] = false,
+["found"] = true,
+["dates"] = {
+[20190407] = {
+["attempts"] = 4,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20190217] = {
+["attempts"] = 2,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20181215] = {
+["attempts"] = 4,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190302] = {
+["attempts"] = 4,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20180923] = {
+["attempts"] = 7,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+},
+},
+["Copperback Etherwyrm"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Toxic Wasteling"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Tainted Core"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Scorched Stone"] = {
+["enabled"] = false,
+["found"] = true,
+},
+["Berylmane"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Micromancer's Mystical Cowl"] = {
+["lastAttempts"] = 3,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 3,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 3,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20210308] = {
+["attempts"] = 1,
+},
+[20210403] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20210503] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+["enabled"] = false,
+["realAttempts"] = 3,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3,
+},
 ["Feasting Larva"] = {
-["time"] = 30,
+["lastAttempts"] = 47,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 47,
+["time"] = 31,
+["totalTime"] = 31,
+["attempts"] = 47,
+},
+},
+["time"] = 31,
 ["dates"] = {
 [20221104] = {
 ["time"] = 1,
@@ -2909,13 +3701,13 @@ RarityDB = {
 [20221031] = {
 ["attempts"] = 1,
 },
-[20221107] = {
-["time"] = 2,
-["attempts"] = 2,
-},
 [20221125] = {
 ["time"] = 1,
 ["attempts"] = 1,
+},
+[20221107] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 [20230126] = {
 ["time"] = 1,
@@ -2924,6 +3716,10 @@ RarityDB = {
 [20221122] = {
 ["attempts"] = 1,
 },
+[20221024] = {
+["time"] = 1,
+["attempts"] = 2,
+},
 [20250403] = {
 ["time"] = 1,
 ["attempts"] = 1,
@@ -2931,13 +3727,13 @@ RarityDB = {
 [20221215] = {
 ["attempts"] = 1,
 },
-[20221231] = {
+[20250411] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221024] = {
+[20221231] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 [20221211] = {
 ["time"] = 1,
@@ -2963,950 +3759,12 @@ RarityDB = {
 ["attempts"] = 1,
 },
 },
-["attempts"] = 46,
-},
-["Stoneclaw"] = {
-["lastAttempts"] = 4,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 4,
-["time"] = 4,
-["totalTime"] = 4,
-["attempts"] = 4,
-},
-},
-["time"] = 4,
-["dates"] = {
-[20191016] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191017] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191023] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 4,
+["attempts"] = 47,
 ["enabled"] = false,
-["realAttempts"] = 4,
+["realAttempts"] = 47,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 4,
-},
-["Ageless Bronze Drake"] = {
-["lastAttempts"] = 6,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 6,
-["time"] = 8.66099999996368,
-["totalTime"] = 8.66099999996368,
-["attempts"] = 6,
-},
-},
-["time"] = 8.66099999996368,
-["dates"] = {
-[20180806] = {
-["time"] = 8.66099999996368,
-["attempts"] = 6,
-},
-},
-["attempts"] = 6,
-["enabled"] = false,
-["realAttempts"] = 6,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 8.66099999996368,
-},
-["Warm Arcane Crystal"] = {
-["lastAttempts"] = 11,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 11,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 11,
-},
-},
-["time"] = 10,
-["dates"] = {
-[20181216] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181214] = {
-["attempts"] = 1,
-},
-[20181218] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20181213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181217] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 11,
-["enabled"] = false,
-["realAttempts"] = 11,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 10,
-},
-["Tiny Emerald Whelpling"] = {
-["enabled"] = false,
-["found"] = true,
-["known"] = true,
-},
-["Rough-Hewn Remote"] = {
-["known"] = true,
-["attempts"] = 1,
-["enabled"] = false,
-["found"] = true,
-},
-["Skull of a Frozen Whelp"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Sprite Darter Egg"] = {
-["time"] = 14181.80799999981,
-["dates"] = {
-[20221029] = {
-["attempts"] = 3,
-},
-[20220525] = {
-["time"] = 10884.91799999983,
-["attempts"] = 484,
-},
-[20220526] = {
-["attempts"] = 154,
-},
-[20180630] = {
-["time"] = 144.588999999993,
-["attempts"] = 14,
-},
-[20220527] = {
-["time"] = 3151.300999999992,
-["attempts"] = 183,
-},
-[20180716] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 839,
-},
-["Stormforged Rune"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Blackwing Banner"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Crackleroar"] = {
-["time"] = 1,
-["dates"] = {
-[20250404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-},
-["Echo of the Heights"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Microbot 8D"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Scabby"] = {
-["lastAttempts"] = 13,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 13,
-["time"] = 13,
-["totalTime"] = 13,
-["attempts"] = 13,
-},
-},
-["time"] = 13,
-["dates"] = {
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190131] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 13,
-["enabled"] = false,
-["realAttempts"] = 13,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 13,
-},
-["K'uddly"] = {
-["time"] = 16,
-["dates"] = {
-[20200509] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200701] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200717] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200312] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200525] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200527] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201023] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200524] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200703] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200313] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200924] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200830] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 17,
-},
-["Silithid Mini-Tank"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Playful Frostkin"] = {
-["lastAttempts"] = 0,
-["known"] = true,
-["attempts"] = 115,
-["enabled"] = false,
-["found"] = true,
-["dates"] = {
-[20190407] = {
-["attempts"] = 4,
-},
-[20181011] = {
-["attempts"] = 13,
-},
-[20181027] = {
-["attempts"] = 5,
-},
-[20190217] = {
-["attempts"] = 2,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20181215] = {
-["attempts"] = 4,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190302] = {
-["attempts"] = 4,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20180923] = {
-["attempts"] = 7,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-},
-},
-["Copperback Etherwyrm"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Tainted Core"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Strange Humming Crystal"] = {
-["time"] = 216.3959999996554,
-["dates"] = {
-[20211019] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190428] = {
-["time"] = 3.48699999996461,
-["attempts"] = 3,
-},
-[20181025] = {
-["time"] = 9.05099999997765,
-["attempts"] = 3,
-},
-[20190524] = {
-["attempts"] = 1,
-},
-[20190811] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180707] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190429] = {
-["attempts"] = 1,
-},
-[20200406] = {
-["attempts"] = 1,
-},
-[20180819] = {
-["attempts"] = 1,
-},
-[20211212] = {
-["attempts"] = 1,
-},
-[20181122] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190111] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181218] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190717] = {
-["time"] = 4.363000000012107,
-["attempts"] = 2,
-},
-[20191020] = {
-["attempts"] = 1,
-},
-[20190526] = {
-["attempts"] = 1,
-},
-[20181123] = {
-["attempts"] = 1,
-},
-[20181219] = {
-["attempts"] = 2,
-},
-[20191212] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180614] = {
-["attempts"] = 1,
-},
-[20200313] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191213] = {
-["attempts"] = 1,
-},
-[20190719] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240205] = {
-["time"] = 3.414999999920838,
-["attempts"] = 1,
-},
-[20180806] = {
-["time"] = 5.84699999995064,
-["attempts"] = 1,
-},
-[20210928] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180902] = {
-["time"] = 6.44000000000233,
-["attempts"] = 3,
-},
-[20220714] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191214] = {
-["attempts"] = 1,
-},
-[20180520] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180807] = {
-["attempts"] = 1,
-},
-[20190529] = {
-["time"] = 4.00300000002608,
-["attempts"] = 1,
-},
-[20180616] = {
-["attempts"] = 1,
-},
-[20191119] = {
-["time"] = 2.605999999999767,
-["attempts"] = 1,
-},
-[20190609] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190705] = {
-["attempts"] = 1,
-},
-[20181031] = {
-["time"] = 2,
-["attempts"] = 4,
-},
-[20180808] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200714] = {
-["time"] = 5.032000000002881,
-["attempts"] = 1,
-},
-[20180601] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190626] = {
-["attempts"] = 1,
-},
-[20190913] = {
-["attempts"] = 2,
-},
-[20231219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190706] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191025] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180602] = {
-["attempts"] = 1,
-},
-[20190611] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190117] = {
-["attempts"] = 1,
-},
-[20180714] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191201] = {
-["time"] = 5.728000000002794,
-["attempts"] = 1,
-},
-[20181017] = {
-["time"] = 59.7289999998175,
-["attempts"] = 5,
-},
-[20180826] = {
-["attempts"] = 1,
-},
-[20180603] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230918] = {
-["attempts"] = 1,
-},
-[20220623] = {
-["attempts"] = 1,
-},
-[20191123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180716] = {
-["attempts"] = 1,
-},
-[20190406] = {
-["attempts"] = 1,
-},
-[20220815] = {
-["attempts"] = 1,
-},
-[20191012] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190805] = {
-["attempts"] = 1,
-},
-[20180908] = {
-["attempts"] = 2,
-},
-[20191124] = {
-["attempts"] = 1,
-},
-[20190120] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180717] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200623] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190423] = {
-["attempts"] = 1,
-},
-[20190726] = {
-["time"] = 3.36600000000908,
-["attempts"] = 1,
-},
-[20190806] = {
-["time"] = 2.826000000000931,
-["attempts"] = 2,
-},
-[20190822] = {
-["attempts"] = 1,
-},
-[20191125] = {
-["attempts"] = 1,
-},
-[20200608] = {
-["attempts"] = 2,
-},
-[20250116] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190504] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 2,
-},
-[20201116] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180515] = {
-["attempts"] = 3,
-},
-[20190823] = {
-["attempts"] = 3,
-},
-[20180824] = {
-["attempts"] = 1,
-},
-[20191118] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181104] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190122] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190523] = {
-["attempts"] = 1,
-},
-[20190919] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180528] = {
-["time"] = 6.17399999999907,
-["attempts"] = 3,
-},
-[20190728] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20180619] = {
-["attempts"] = 1,
-},
-[20190702] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190614] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201123] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190330] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191024] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20191031] = {
-["attempts"] = 2,
-},
-[20190904] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190920] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20190118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210810] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210914] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190729] = {
-["attempts"] = 1,
-},
-[20190923] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200609] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190410] = {
-["attempts"] = 1,
-},
-[20190528] = {
-["attempts"] = 1,
-},
-[20190809] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190210] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180820] = {
-["time"] = 4.62900000001537,
-["attempts"] = 1,
-},
-[20190905] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190921] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20201117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181024] = {
-["time"] = 3.82300000009127,
-["attempts"] = 2,
-},
-[20180530] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220629] = {
-["attempts"] = 1,
-},
-[20190810] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180708] = {
-["attempts"] = 1,
-},
-[20220121] = {
-["attempts"] = 1,
-},
-[20190603] = {
-["time"] = 5.87699999986216,
-["attempts"] = 1,
-},
-[20240227] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 179,
-},
-["Invasive Buzzer"] = {
-["known"] = true,
-["attempts"] = 1,
-["enabled"] = false,
-["found"] = true,
-["time"] = 60.35300000000007,
-["dates"] = {
-[20210702] = {
-["time"] = 60.35300000000007,
-["attempts"] = 1,
-},
-},
-},
-["Micromancer's Mystical Cowl"] = {
-["lastAttempts"] = 3,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 3,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20210308] = {
-["attempts"] = 1,
-},
-[20210403] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20210503] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
+["lastTime"] = 31,
 },
 ["Pommel Jewel of Remornia"] = {
 ["lastAttempts"] = 3,
@@ -3954,283 +3812,10 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 462.0509999999777,
 },
-["Muskflank Calfling"] = {
+["Coral Lashling"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["dates"] = {
-[20200111] = {
-["attempts"] = 9,
-},
-[20200114] = {
-["attempts"] = 3,
-},
-[20200130] = {
-["attempts"] = 3,
-},
-[20200207] = {
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
-["attempts"] = 2,
-},
-[20200105] = {
-["attempts"] = 3,
-},
-[20200106] = {
-["attempts"] = 10,
-},
-[20200122] = {
-["attempts"] = 3,
-},
-[20200218] = {
-["attempts"] = 3,
-},
-[20190302] = {
-["attempts"] = 4,
-},
-[20190217] = {
-["attempts"] = 2,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20200425] = {
-["attempts"] = 2,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20200605] = {
-["attempts"] = 4,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20200506] = {
-["attempts"] = 2,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 3,
-},
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20191003] = {
-["attempts"] = 5,
-},
-[20200504] = {
-["attempts"] = 1,
-},
-[20200503] = {
-["attempts"] = 2,
-},
-[20181011] = {
-["attempts"] = 13,
-},
-[20181027] = {
-["attempts"] = 5,
-},
-[20180923] = {
-["attempts"] = 7,
-},
-[20191129] = {
-["attempts"] = 1,
-},
-[20191130] = {
-["attempts"] = 3,
-},
-[20200223] = {
-["attempts"] = 1,
-},
-[20200222] = {
-["attempts"] = 2,
-},
-[20191218] = {
-["attempts"] = 4,
-},
-[20181215] = {
-["attempts"] = 4,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20191211] = {
-["attempts"] = 4,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20191113] = {
-["attempts"] = 6,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20191108] = {
-["attempts"] = 4,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20191024] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20190808] = {
-["attempts"] = 3,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20191128] = {
-["attempts"] = 4,
-},
-[20191121] = {
-["attempts"] = 4,
-},
-[20200303] = {
-["attempts"] = 3,
-},
-},
-["attempts"] = 308,
 },
 ["Giggling Flame"] = {
 ["lastAttempts"] = 0,
@@ -4418,7 +4003,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20241125] = {
+[20210512] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -4448,7 +4033,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20210512] = {
+[20241125] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -4459,6 +4044,36 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 19,
+},
+["Duskthief"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20250810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
 },
 ["Half-Empty Food Container"] = {
 ["lastAttempts"] = 39,
@@ -4544,11 +4159,7 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 10,
 },
-["Fox Kit"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
+["collapsedGroup"] = true,
 ["Gilded Mechafrog"] = {
 ["lastAttempts"] = 8,
 ["known"] = true,
@@ -4590,15 +4201,15 @@ RarityDB = {
 [20240117] = {
 ["attempts"] = 1,
 },
+[20231102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
 [20240115] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20231105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231102] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -4615,6 +4226,31 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
+["Cerulean Lapbug"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 2,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 2,
+},
+},
+["dates"] = {
+[20250923] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+},
 ["Sea Calf"] = {
 ["time"] = 4,
 ["dates"] = {
@@ -4628,23 +4264,57 @@ RarityDB = {
 },
 ["attempts"] = 7,
 },
-["Jewel of Maddening Whispers"] = {
-["enabled"] = false,
+["Sandkeep"] = {
+["lastAttempts"] = 2,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20190904] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Bubbling Pustule"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 1,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
 ["found"] = true,
 },
 ["Moon Moon"] = {
-["time"] = 4,
+["time"] = 6,
 ["dates"] = {
 [20200909] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190707] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240304] = {
+[20260108] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -4652,23 +4322,295 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
+[20240304] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-["attempts"] = 4,
+[20260207] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190707] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
 },
 ["Scruffles"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Mawsworn Minion"] = {
+["Graceful Cosmic Ray Pup"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 1,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 1,
+},
+},
+["dates"] = {
+[20250923] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Sunscale Hatchling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+["dates"] = {
+[20190407] = {
+["attempts"] = 4,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20190217] = {
+["attempts"] = 2,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20181215] = {
+["attempts"] = 4,
+},
+[20190302] = {
+["attempts"] = 4,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20180923] = {
+["attempts"] = 7,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 86,
+},
+["Blessed Seed"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Stinky Sack"] = {
+["time"] = 5,
+["dates"] = {
+[20200928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200229] = {
+["attempts"] = 1,
+},
+[20200929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200927] = {
+["attempts"] = 1,
+},
+[20200131] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201009] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 7,
+},
+["Parrot Cage (Green Wing Macaw)"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Aldrusian Sproutling"] = {
+["lastAttempts"] = 14,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 14,
+["time"] = 12,
+["totalTime"] = 12,
+["attempts"] = 14,
+},
+},
+["time"] = 12,
+["dates"] = {
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190201] = {
+["attempts"] = 1,
+},
+[20181117] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180927] = {
+["attempts"] = 1,
+},
+[20190204] = {
+["attempts"] = 1,
+},
+[20180928] = {
+["time"] = 1,
+},
+[20190217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 14,
+["enabled"] = false,
+["realAttempts"] = 14,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 12,
+},
+["Darkshore Sentinel"] = {
 ["lastAttempts"] = 17,
 ["known"] = true,
 ["finds"] = {
 {
-["totalAttempts"] = 17,
 ["num"] = 1,
-["time"] = 0,
+["totalAttempts"] = 17,
+["time"] = 13,
+["totalTime"] = 13,
 ["attempts"] = 17,
+},
+},
+["time"] = 13,
+["dates"] = {
+[20190409] = {
+["attempts"] = 1,
+},
+[20190322] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190324] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190430] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190416] = {
+["attempts"] = 1,
+},
+[20190224] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190225] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190317] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190406] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190315] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190415] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 },
 ["attempts"] = 17,
@@ -4676,28 +4618,7 @@ RarityDB = {
 ["realAttempts"] = 17,
 ["totalFinds"] = 1,
 ["found"] = true,
-},
-["Kovok"] = {
-["time"] = 2,
-["dates"] = {
-[20180810] = {
-["attempts"] = 1,
-},
-[20180811] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190318] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 77,
-},
-["Blessed Seed"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["lastTime"] = 13,
 },
 ["Savage Cub"] = {
 ["lastAttempts"] = 0,
@@ -4716,6 +4637,11 @@ RarityDB = {
 },
 },
 ["attempts"] = 100,
+},
+["Emerald Whelpling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Thistlebrush Bud"] = {
 ["lastAttempts"] = 241,
@@ -4982,101 +4908,85 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2,
 },
-["Ironbound Collar"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Wakyn"] = {
+["time"] = 242.6380000000354,
+["dates"] = {
+[20231029] = {
+["time"] = 240.6380000000354,
+["attempts"] = 1,
+},
+[20231105] = {
+["attempts"] = 1,
+},
+[20240122] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 4,
 },
 ["Emmah"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Glittering Arcane Crystal"] = {
-["lastAttempts"] = 28,
+["Box Labeled \"Danger: Void Rat Inside\""] = {
+["enabled"] = false,
 ["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 28,
-["time"] = 22,
-["totalTime"] = 22,
-["attempts"] = 28,
+["found"] = true,
 },
-},
-["time"] = 22,
+["Fossorial Bile Larva"] = {
 ["dates"] = {
-[20190104] = {
+[20181110] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181216] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181217] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181218] = {
-["time"] = 4,
-["attempts"] = 7,
-},
-[20181219] = {
-["time"] = 3,
+[20181022] = {
+["time"] = 11.0150000001304,
 ["attempts"] = 4,
 },
-[20181220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181224] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181223] = {
-["time"] = 2,
+[20181127] = {
 ["attempts"] = 2,
 },
+[20181115] = {
+["attempts"] = 9,
 },
+[20181026] = {
+["time"] = 42.2569999999832,
+["attempts"] = 9,
+},
+[20181029] = {
+["time"] = 499.666999999899,
+["attempts"] = 38,
+},
+[20181120] = {
+["time"] = 30.6969999999856,
+["attempts"] = 9,
+},
+[20181031] = {
+["time"] = 353.792000000365,
 ["attempts"] = 28,
+},
+[20181104] = {
+["time"] = 92.2979999999516,
+["attempts"] = 12,
+},
+[20190109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241206] = {
+["time"] = 1455.947999999975,
+["attempts"] = 123,
+},
+},
+["attempts"] = 236,
+["time"] = 2487.674000000295,
+},
+["Crystal of the Void"] = {
 ["enabled"] = false,
-["realAttempts"] = 28,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 22,
 },
 ["Puddle of Black Liquid"] = {
 ["known"] = true,
@@ -5086,6 +4996,515 @@ RarityDB = {
 },
 ["Zanj'ir Poker"] = {
 ["attempts"] = 15,
+},
+["Cat Carrier (Black Tabby)"] = {
+["time"] = 1625.55400000012,
+["dates"] = {
+[20241231] = {
+["time"] = 570.5160000000615,
+["attempts"] = 6,
+},
+[20201027] = {
+["time"] = 1053.038000000059,
+["attempts"] = 21,
+},
+[20251228] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20260110] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 30,
+},
+["Strange Humming Crystal"] = {
+["known"] = true,
+["dates"] = {
+[20211019] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190428] = {
+["time"] = 3.48699999996461,
+["attempts"] = 3,
+},
+[20181025] = {
+["time"] = 9.05099999997765,
+["attempts"] = 3,
+},
+[20190524] = {
+["attempts"] = 1,
+},
+[20190811] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180707] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190429] = {
+["attempts"] = 1,
+},
+[20200406] = {
+["attempts"] = 1,
+},
+[20180819] = {
+["attempts"] = 1,
+},
+[20211212] = {
+["attempts"] = 1,
+},
+[20181122] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190111] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181218] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190717] = {
+["time"] = 4.363000000012107,
+["attempts"] = 2,
+},
+[20191020] = {
+["attempts"] = 1,
+},
+[20190526] = {
+["attempts"] = 1,
+},
+[20181123] = {
+["attempts"] = 1,
+},
+[20181219] = {
+["attempts"] = 2,
+},
+[20191212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180614] = {
+["attempts"] = 1,
+},
+[20200313] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191213] = {
+["attempts"] = 1,
+},
+[20190719] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240205] = {
+["time"] = 3.414999999920838,
+["attempts"] = 1,
+},
+[20180806] = {
+["time"] = 5.84699999995064,
+["attempts"] = 1,
+},
+[20210928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180902] = {
+["time"] = 6.44000000000233,
+["attempts"] = 3,
+},
+[20220714] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191214] = {
+["attempts"] = 1,
+},
+[20180520] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180807] = {
+["attempts"] = 1,
+},
+[20190529] = {
+["time"] = 4.00300000002608,
+["attempts"] = 1,
+},
+[20180616] = {
+["attempts"] = 1,
+},
+[20191119] = {
+["time"] = 2.605999999999767,
+["attempts"] = 1,
+},
+[20190609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190705] = {
+["attempts"] = 1,
+},
+[20181031] = {
+["time"] = 2,
+["attempts"] = 4,
+},
+[20180808] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200714] = {
+["time"] = 5.032000000002881,
+["attempts"] = 1,
+},
+[20180601] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190626] = {
+["attempts"] = 1,
+},
+[20190913] = {
+["attempts"] = 2,
+},
+[20231219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190706] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191025] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180602] = {
+["attempts"] = 1,
+},
+[20190611] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190117] = {
+["attempts"] = 1,
+},
+[20180714] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191201] = {
+["time"] = 5.728000000002794,
+["attempts"] = 1,
+},
+[20181017] = {
+["time"] = 59.7289999998175,
+["attempts"] = 5,
+},
+[20180826] = {
+["attempts"] = 1,
+},
+[20180603] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230918] = {
+["attempts"] = 1,
+},
+[20220623] = {
+["attempts"] = 1,
+},
+[20191123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180716] = {
+["attempts"] = 1,
+},
+[20190406] = {
+["attempts"] = 1,
+},
+[20220815] = {
+["attempts"] = 1,
+},
+[20191012] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190805] = {
+["attempts"] = 1,
+},
+[20180908] = {
+["attempts"] = 2,
+},
+[20191124] = {
+["attempts"] = 1,
+},
+[20190120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180717] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200623] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190423] = {
+["attempts"] = 1,
+},
+[20190726] = {
+["time"] = 3.36600000000908,
+["attempts"] = 1,
+},
+[20190806] = {
+["time"] = 2.826000000000931,
+["attempts"] = 2,
+},
+[20190822] = {
+["attempts"] = 1,
+},
+[20191125] = {
+["attempts"] = 1,
+},
+[20200608] = {
+["attempts"] = 2,
+},
+[20250116] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201116] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190504] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 2,
+},
+[20180515] = {
+["attempts"] = 3,
+},
+[20180824] = {
+["attempts"] = 1,
+},
+[20190823] = {
+["attempts"] = 3,
+},
+[20180708] = {
+["attempts"] = 1,
+},
+[20181104] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190523] = {
+["attempts"] = 1,
+},
+[20190122] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190919] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180528] = {
+["time"] = 6.17399999999907,
+["attempts"] = 3,
+},
+[20190728] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190702] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190614] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201117] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20201123] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190330] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191024] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20180820] = {
+["time"] = 4.62900000001537,
+["attempts"] = 1,
+},
+[20190118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190904] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190920] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20210810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190729] = {
+["attempts"] = 1,
+},
+[20200609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190410] = {
+["attempts"] = 1,
+},
+[20190528] = {
+["attempts"] = 1,
+},
+[20190923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190809] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191031] = {
+["attempts"] = 2,
+},
+[20191128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190921] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20181101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180619] = {
+["attempts"] = 1,
+},
+[20181024] = {
+["time"] = 3.82300000009127,
+["attempts"] = 2,
+},
+[20180530] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20211211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191118] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20220103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220629] = {
+["attempts"] = 1,
+},
+[20190810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250509] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220121] = {
+["attempts"] = 1,
+},
+[20190603] = {
+["time"] = 5.87699999986216,
+["attempts"] = 1,
+},
+[20240227] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 180,
+["enabled"] = false,
+["found"] = true,
+["time"] = 217.3959999996554,
 },
 ["Bottled Up Rage"] = {
 ["lastAttempts"] = 1,
@@ -5113,10 +5532,117 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Anubisath Idol"] = {
-["enabled"] = false,
+["Proper Parrot"] = {
+["lastAttempts"] = 79,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 79,
+["time"] = 4851.135000000068,
+["totalTime"] = 4851.135000000068,
+["attempts"] = 79,
+},
+},
+["time"] = 4851.135000000068,
+["dates"] = {
+[20260114] = {
+["time"] = 2120.25,
+["attempts"] = 43,
+},
+[20250512] = {
+["time"] = 98.0800000000745,
+["attempts"] = 2,
+},
+[20260115] = {
+["time"] = 1692.168999999994,
+["attempts"] = 22,
+},
+[20260118] = {
+["time"] = 940.6359999999986,
+["attempts"] = 12,
+},
+},
+["attempts"] = 79,
+["enabled"] = false,
+["realAttempts"] = 79,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 4851.135000000068,
+},
+["Impartial Watcher"] = {
+["dates"] = {
+[20260216] = {
+["attempts"] = 2,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20260121] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20260214] = {
+["attempts"] = 2,
+},
+[20260306] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20260219] = {
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20260220] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 25,
 },
 ["Stonewing Dredwing Pup"] = {
 ["lastAttempts"] = 2,
@@ -5148,73 +5674,428 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2,
 },
-["Animated Tome"] = {
-["lastAttempts"] = 13,
+["Muskflank Calfling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+["dates"] = {
+[20200111] = {
+["attempts"] = 9,
+},
+[20200114] = {
+["attempts"] = 3,
+},
+[20200130] = {
+["attempts"] = 3,
+},
+[20200207] = {
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["attempts"] = 2,
+},
+[20200105] = {
+["attempts"] = 3,
+},
+[20200106] = {
+["attempts"] = 10,
+},
+[20200122] = {
+["attempts"] = 3,
+},
+[20200218] = {
+["attempts"] = 3,
+},
+[20190302] = {
+["attempts"] = 4,
+},
+[20190217] = {
+["attempts"] = 2,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20200425] = {
+["attempts"] = 2,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20200605] = {
+["attempts"] = 4,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20200506] = {
+["attempts"] = 2,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 3,
+},
+[20191121] = {
+["attempts"] = 4,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20200504] = {
+["attempts"] = 1,
+},
+[20200503] = {
+["attempts"] = 2,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20191128] = {
+["attempts"] = 4,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191130] = {
+["attempts"] = 3,
+},
+[20200223] = {
+["attempts"] = 1,
+},
+[20200222] = {
+["attempts"] = 2,
+},
+[20191218] = {
+["attempts"] = 4,
+},
+[20181215] = {
+["attempts"] = 4,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20191211] = {
+["attempts"] = 4,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20191113] = {
+["attempts"] = 6,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20191108] = {
+["attempts"] = 4,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20191024] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20191107] = {
+["attempts"] = 2,
+},
+[20190808] = {
+["attempts"] = 3,
+},
+[20191129] = {
+["attempts"] = 1,
+},
+[20180923] = {
+["attempts"] = 7,
+},
+[20191031] = {
+["attempts"] = 3,
+},
+[20200303] = {
+["attempts"] = 3,
+},
+},
+["attempts"] = 308,
+},
+["Writhing Spine"] = {
+["lastAttempts"] = 33,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 13,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 13,
+["totalAttempts"] = 33,
+["time"] = 21,
+["totalTime"] = 21,
+["attempts"] = 33,
 },
 },
-["time"] = 10,
+["time"] = 21,
 ["dates"] = {
-[20210630] = {
-["attempts"] = 1,
-},
-[20210826] = {
+[20221116] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210619] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210905] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210907] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210728] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210609] = {
+[20221104] = {
 ["attempts"] = 2,
 },
-[20210821] = {
+[20221009] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210628] = {
+[20221013] = {
+["attempts"] = 2,
+},
+[20221017] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210719] = {
+[20221025] = {
+["attempts"] = 1,
+},
+[20221016] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210825] = {
+[20221115] = {
+["attempts"] = 1,
+},
+[20210324] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221113] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
+[20221026] = {
+["attempts"] = 1,
 },
-["attempts"] = 13,
+[20221018] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210618] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221029] = {
+["attempts"] = 1,
+},
+[20221106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221110] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221011] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221019] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221020] = {
+["attempts"] = 1,
+},
+[20210623] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221107] = {
+["attempts"] = 2,
+},
+[20211116] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221012] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221028] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221014] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+},
+["attempts"] = 33,
 ["enabled"] = false,
-["realAttempts"] = 13,
+["realAttempts"] = 33,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 10,
+["lastTime"] = 21,
+},
+["Pearlescent Glimmershell"] = {
+["time"] = 2,
+["dates"] = {
+[20191218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200131] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+},
+["Bronze Proto-Whelp"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Gizmo"] = {
 ["lastAttempts"] = 1,
@@ -5233,35 +6114,74 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Devoured Wader"] = {
-["time"] = 6,
+["Grappling Gauntlet"] = {
+["known"] = true,
+["attempts"] = 162,
+["enabled"] = false,
+["found"] = true,
+["time"] = 4975.443999999941,
 ["dates"] = {
-[20210312] = {
+[20210720] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 3,
 },
-[20220517] = {
-["time"] = 1,
-["attempts"] = 1,
+[20210706] = {
+["time"] = 435.0140000000247,
+["attempts"] = 16,
 },
-[20220206] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210509] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250306] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210917] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
+[20210707] = {
+["time"] = 91.8650000000489,
 ["attempts"] = 6,
+},
+[20210723] = {
+["time"] = 198.7580000000016,
+["attempts"] = 5,
+},
+[20210710] = {
+["time"] = 1011.39599999995,
+["attempts"] = 14,
+},
+[20210801] = {
+["time"] = 393.3630000000121,
+["attempts"] = 13,
+},
+[20210802] = {
+["time"] = 867.4679999999935,
+["attempts"] = 15,
+},
+[20210702] = {
+["time"] = 58.35300000000007,
+["attempts"] = 17,
+},
+[20210731] = {
+["time"] = 333.7670000000071,
+["attempts"] = 10,
+},
+[20210730] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20210717] = {
+["attempts"] = 15,
+},
+[20210722] = {
+["time"] = 745.125,
+["attempts"] = 16,
+},
+[20210719] = {
+["time"] = 498.4589999999153,
+["attempts"] = 24,
+},
+[20210716] = {
+["time"] = 339.8759999999893,
+["attempts"] = 5,
+},
+},
+},
+["Shard of Supremus"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Hissing Deathroach"] = {
 ["enabled"] = false,
@@ -5271,6 +6191,12 @@ RarityDB = {
 ["Glittering Diamondshell"] = {
 ["enabled"] = false,
 ["known"] = true,
+["found"] = true,
+},
+["Eye of Corruption"] = {
+["known"] = true,
+["attempts"] = 9,
+["enabled"] = false,
 ["found"] = true,
 },
 ["Corrupted Tentacle"] = {
@@ -5464,7 +6390,7 @@ RarityDB = {
 [20190302] = {
 ["attempts"] = 4,
 },
-[20200605] = {
+[20190430] = {
 ["attempts"] = 4,
 },
 [20190217] = {
@@ -5473,7 +6399,7 @@ RarityDB = {
 [20190414] = {
 ["attempts"] = 8,
 },
-[20190430] = {
+[20200605] = {
 ["attempts"] = 4,
 },
 [20200425] = {
@@ -5482,8 +6408,8 @@ RarityDB = {
 [20190326] = {
 ["attempts"] = 4,
 },
-[20190407] = {
-["attempts"] = 4,
+[20241207] = {
+["attempts"] = 1,
 },
 [20190418] = {
 ["attempts"] = 1,
@@ -5491,14 +6417,14 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
 },
-[20241207] = {
-["attempts"] = 1,
+[20190407] = {
+["attempts"] = 4,
 },
 [20200523] = {
 ["attempts"] = 1,
@@ -5506,8 +6432,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -5518,11 +6444,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -5530,19 +6456,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -5554,11 +6480,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -5575,8 +6501,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -5593,7 +6519,7 @@ RarityDB = {
 [20200222] = {
 ["attempts"] = 2,
 },
-[20191024] = {
+[20190904] = {
 ["attempts"] = 3,
 },
 [20190905] = {
@@ -5614,11 +6540,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -5626,8 +6552,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -5635,10 +6561,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -5692,41 +6618,41 @@ RarityDB = {
 [20190725] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190904] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
-[20190808] = {
+[20191024] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
-[20190802] = {
+[20190913] = {
+["attempts"] = 1,
+},
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 [20200303] = {
 ["attempts"] = 3,
@@ -5734,74 +6660,438 @@ RarityDB = {
 },
 ["attempts"] = 335,
 },
+["Fox Kit"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Vitriolic Inchshifter"] = {
+["lastAttempts"] = 14,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 14,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 14,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20251010] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 14,
+["enabled"] = false,
+["realAttempts"] = 14,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
 ["Green Helper Box"] = {
 ["known"] = true,
 ["enabled"] = false,
 ["found"] = true,
 },
-["Ridgeback Piglet"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Sharpclaw"] = {
-["lastAttempts"] = 6,
+["Snarling Butterfly Crate"] = {
+["lastAttempts"] = 2,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 6,
-["time"] = 5,
-["totalTime"] = 5,
-["attempts"] = 6,
-},
-},
-["time"] = 5,
-["dates"] = {
-[20210216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250209] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250225] = {
-["time"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
 ["attempts"] = 2,
 },
-[20201220] = {
+},
+["time"] = 2,
+["dates"] = {
+[20200710] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250312] = {
+[20200810] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 6,
+["attempts"] = 2,
 ["enabled"] = false,
-["realAttempts"] = 6,
+["realAttempts"] = 2,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 5,
+["lastTime"] = 2,
 },
-["Bubbling Pustule"] = {
-["lastAttempts"] = 1,
+["Writhing Transmutagen"] = {
+["time"] = 1025.801000000123,
+["dates"] = {
+[20250724] = {
+["time"] = 59.38700000010431,
+["attempts"] = 10,
+},
+[20250725] = {
+["time"] = 48.72600000002421,
+["attempts"] = 9,
+},
+[20250412] = {
+["time"] = 109.0599999999977,
+["attempts"] = 25,
+},
+[20250712] = {
+["attempts"] = 10,
+},
+[20250622] = {
+["attempts"] = 11,
+},
+[20250416] = {
+["time"] = 96.60899999999674,
+["attempts"] = 12,
+},
+[20250611] = {
+["time"] = 149.6330000000016,
+["attempts"] = 13,
+},
+[20250417] = {
+["time"] = 398.0619999999763,
+["attempts"] = 6,
+},
+[20250509] = {
+["time"] = 87.53700000001118,
+["attempts"] = 11,
+},
+[20250525] = {
+["attempts"] = 16,
+},
+[20250801] = {
+["attempts"] = 23,
+},
+[20250527] = {
+["attempts"] = 5,
+},
+[20250422] = {
+["time"] = 23.03300000005402,
+["attempts"] = 4,
+},
+[20250830] = {
+["attempts"] = 3,
+},
+[20250904] = {
+["time"] = 53.75399999995716,
+["attempts"] = 9,
+},
+},
+["attempts"] = 167,
+},
+["Echo of the Depths"] = {
+["lastAttempts"] = 2234,
 ["known"] = true,
 ["finds"] = {
 {
-["totalAttempts"] = 1,
 ["num"] = 1,
-["time"] = 0,
-["attempts"] = 1,
+["totalAttempts"] = 2234,
+["time"] = 37769.86500000034,
+["totalTime"] = 37769.86500000034,
+["attempts"] = 2234,
 },
 },
+["time"] = 37769.86500000034,
+["dates"] = {
+[20230925] = {
+["time"] = 1140.820000000002,
+["attempts"] = 59,
+},
+[20230905] = {
+["time"] = 360.2489999999998,
+["attempts"] = 29,
+},
+[20230917] = {
+["time"] = 1383.638999999996,
+["attempts"] = 103,
+},
+[20231112] = {
+["time"] = 292.9539999999106,
+["attempts"] = 48,
+},
+[20231005] = {
+["time"] = 3,
+["attempts"] = 6,
+},
+[20230929] = {
+["time"] = 477.2289999999994,
+["attempts"] = 23,
+},
+[20231009] = {
+["time"] = 92.12300000002142,
+["attempts"] = 4,
+},
+[20231001] = {
+["time"] = 77.0509999999922,
+["attempts"] = 15,
+},
+[20231013] = {
+["attempts"] = 3,
+},
+[20230830] = {
+["time"] = 39.88900000000285,
+["attempts"] = 3,
+},
+[20231113] = {
+["time"] = 1055.727000000072,
+["attempts"] = 63,
+},
+[20231117] = {
+["time"] = 2691.167999999998,
+["attempts"] = 192,
+},
+[20230930] = {
+["time"] = 279.9909999999982,
+["attempts"] = 30,
+},
+[20231209] = {
+["time"] = 1527.871000000043,
+["attempts"] = 125,
+},
+[20231125] = {
+["time"] = 1597.67499999993,
+["attempts"] = 54,
+},
+[20230926] = {
+["time"] = 1604.369000000001,
+["attempts"] = 72,
+},
+[20230902] = {
+["time"] = 196.2200000000016,
+["attempts"] = 5,
+},
+[20230918] = {
+["time"] = 534.6499999999942,
+["attempts"] = 18,
+},
+[20231201] = {
+["attempts"] = 8,
+},
+[20231205] = {
+["attempts"] = 27,
+},
+[20231006] = {
+["time"] = 1,
 ["attempts"] = 1,
+},
+[20231003] = {
+["time"] = 73.3859999999986,
+["attempts"] = 8,
+},
+[20231010] = {
+["time"] = 105.7939999999944,
+["attempts"] = 4,
+},
+[20231002] = {
+["time"] = 3,
+["attempts"] = 15,
+},
+[20231030] = {
+["time"] = 1440.599999999977,
+["attempts"] = 44,
+},
+[20230831] = {
+["time"] = 1098.565999999999,
+["attempts"] = 25,
+},
+[20231102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231031] = {
+["time"] = 705.0740000000224,
+["attempts"] = 9,
+},
+[20230827] = {
+["time"] = 3547.939999999999,
+["attempts"] = 47,
+},
+[20231122] = {
+["attempts"] = 7,
+},
+[20231114] = {
+["attempts"] = 7,
+},
+[20231130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230903] = {
+["time"] = 2257.355,
+["attempts"] = 45,
+},
+[20230907] = {
+["time"] = 750.6360000000004,
+["attempts"] = 28,
+},
+[20231202] = {
+["time"] = 1976.169999999926,
+["attempts"] = 114,
+},
+[20231103] = {
+["time"] = 500.9220000000059,
+["attempts"] = 47,
+},
+[20231007] = {
+["attempts"] = 3,
+},
+[20231023] = {
+["time"] = 251.6330000000307,
+["attempts"] = 21,
+},
+[20231011] = {
+["time"] = 278.7929999999469,
+["attempts"] = 27,
+},
+[20231027] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231019] = {
+["time"] = 1211.942000000039,
+["attempts"] = 94,
+},
+[20231115] = {
+["time"] = 511.7569999999832,
+["attempts"] = 71,
+},
+[20230820] = {
+["attempts"] = 45,
+},
+[20230824] = {
+["time"] = 135.1419999999998,
+["attempts"] = 7,
+},
+[20231107] = {
+["time"] = 437.1499999999651,
+["attempts"] = 53,
+},
+[20231004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230924] = {
+["time"] = 2164.665999999999,
+["attempts"] = 107,
+},
+[20230912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230904] = {
+["time"] = 396.5200000000004,
+["attempts"] = 41,
+},
+[20230920] = {
+["time"] = 237.4539999999979,
+["attempts"] = 24,
+},
+[20231203] = {
+["time"] = 258.0120000001043,
+["attempts"] = 32,
+},
+[20231207] = {
+["time"] = 86.40300000016578,
+["attempts"] = 5,
+},
+[20230928] = {
+["time"] = 243.1640000000007,
+["attempts"] = 28,
+},
+[20231008] = {
+["time"] = 427.0600000000558,
+["attempts"] = 24,
+},
+[20231024] = {
+["time"] = 614.0860000000102,
+["attempts"] = 26,
+},
+[20231015] = {
+["time"] = 49.05900000000111,
+["attempts"] = 6,
+},
+[20230829] = {
+["time"] = 443.7710000000006,
+["attempts"] = 12,
+},
+[20230922] = {
+["time"] = 1394.707999999995,
+["attempts"] = 71,
+},
+[20231116] = {
+["time"] = 699.5250000000015,
+["attempts"] = 23,
+},
+[20230910] = {
+["time"] = 1,
+["attempts"] = 6,
+},
+[20231108] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20231124] = {
+["time"] = 1218.643999999971,
+["attempts"] = 143,
+},
+[20231208] = {
+["time"] = 888.3080000001937,
+["attempts"] = 68,
+},
+},
+["attempts"] = 2234,
 ["enabled"] = false,
-["realAttempts"] = 1,
+["realAttempts"] = 2234,
 ["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 37769.86500000034,
 },
 ["Shard of Fozruk"] = {
 ["lastAttempts"] = 4,
@@ -5837,35 +7127,28 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 4,
 },
-["Snarling Butterfly Crate"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
-},
-},
-["time"] = 2,
+["Tiny Crimson Whelpling"] = {
+["time"] = 200.5690000001341,
 ["dates"] = {
-[20200710] = {
+[20210918] = {
+["time"] = 180.9860000000335,
+["attempts"] = 6,
+},
+[20250704] = {
+["attempts"] = 7,
+},
+[20210917] = {
+["attempts"] = 8,
+},
+[20241104] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 3,
 },
-[20200810] = {
-["time"] = 1,
-["attempts"] = 1,
+[20250705] = {
+["time"] = 18.58300000010058,
 },
 },
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
+["attempts"] = 24,
 },
 ["Sea Pony"] = {
 ["enabled"] = false,
@@ -5932,156 +7215,404 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 4,
 },
-["Mosscoated Hopper"] = {
-["lastAttempts"] = 7,
+["Needleback Pup"] = {
+["lastAttempts"] = 174,
 ["known"] = true,
 ["finds"] = {
 {
+["time"] = 0,
 ["num"] = 1,
-["totalAttempts"] = 7,
-["time"] = 5,
-["totalTime"] = 5,
-["attempts"] = 7,
+["totalAttempts"] = 174,
+["attempts"] = 174,
 },
 },
-["time"] = 5,
 ["dates"] = {
-[20210818] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
-[20211021] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210916] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211001] = {
-["attempts"] = 1,
-},
-[20211124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210830] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 7,
-["enabled"] = false,
-["realAttempts"] = 7,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 5,
-},
-["Wakyn"] = {
-["time"] = 242.6380000000354,
-["dates"] = {
-[20231029] = {
-["time"] = 240.6380000000354,
-["attempts"] = 1,
-},
-[20231105] = {
-["attempts"] = 1,
-},
-[20240122] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
+[20190326] = {
 ["attempts"] = 4,
 },
-["Crystal of the Void"] = {
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20191024] = {
+["attempts"] = 2,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+},
+["attempts"] = 174,
 ["enabled"] = false,
-["known"] = true,
+["realAttempts"] = 174,
+["totalFinds"] = 1,
 ["found"] = true,
+},
+["Scritches"] = {
+["lastAttempts"] = 129,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 129,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 129,
+},
+},
+["dates"] = {
+[20190808] = {
+["attempts"] = 3,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20190905] = {
+["attempts"] = 2,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+},
+["attempts"] = 129,
+["enabled"] = false,
+["realAttempts"] = 129,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Invasive Buzzer"] = {
+["known"] = true,
+["attempts"] = 1,
+["enabled"] = false,
+["found"] = true,
+["time"] = 60.35300000000007,
+["dates"] = {
+[20210702] = {
+["time"] = 60.35300000000007,
+["attempts"] = 1,
+},
+},
 },
 ["Ra'kim"] = {
 ["known"] = true,
 ["enabled"] = false,
 ["found"] = true,
 },
-["Darkshore Sentinel"] = {
-["lastAttempts"] = 17,
+["Void Scarred Scorpid"] = {
+["lastAttempts"] = 8,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 17,
-["time"] = 13,
-["totalTime"] = 13,
-["attempts"] = 17,
+["totalAttempts"] = 8,
+["time"] = 8,
+["totalTime"] = 8,
+["attempts"] = 8,
 },
 },
-["time"] = 13,
+["time"] = 8,
 ["dates"] = {
-[20190409] = {
-["attempts"] = 1,
-},
-[20190322] = {
+[20250919] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190204] = {
+[20250825] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20250921] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190324] = {
-["time"] = 1,
-["attempts"] = 1,
 },
-[20190222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190430] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190416] = {
-["attempts"] = 1,
-},
-[20190224] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190315] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190317] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190406] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190225] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190415] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 17,
+["attempts"] = 8,
 ["enabled"] = false,
-["realAttempts"] = 17,
+["realAttempts"] = 8,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 13,
+["lastTime"] = 8,
 },
-["Sunreaver Micro-Sentry"] = {
-["enabled"] = false,
+["Shimmering Inchshifter"] = {
+["lastAttempts"] = 6,
 ["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 6,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 6,
+},
+},
+["dates"] = {
+[20251004] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
 ["found"] = true,
 },
 ["Mindlost Bloodfrenzy"] = {
@@ -6102,953 +7633,118 @@ RarityDB = {
 ["found"] = true,
 },
 ["Knockoff Blingtron"] = {
-["time"] = 772.4169999997087,
+["time"] = 930.3149999996297,
 ["dates"] = {
-[20210101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230628] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210221] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230704] = {
-["attempts"] = 1,
-},
-[20210313] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210421] = {
-["attempts"] = 1,
-},
-[20230904] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210525] = {
-["attempts"] = 1,
-},
-[20210501] = {
-["attempts"] = 1,
-},
-[20210517] = {
-["attempts"] = 1,
-},
-[20231008] = {
-["attempts"] = 1,
-},
-[20190126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190102] = {
-["attempts"] = 1,
-},
-[20210621] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190122] = {
-["attempts"] = 1,
-},
-[20210601] = {
-["attempts"] = 2,
-},
-[20190206] = {
-["attempts"] = 1,
-},
-[20231120] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190302] = {
-["attempts"] = 1,
-},
-[20231216] = {
-["attempts"] = 1,
-},
-[20231208] = {
-["attempts"] = 1,
-},
-[20190322] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190326] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190330] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210821] = {
-["attempts"] = 1,
-},
-[20190414] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190430] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190410] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210905] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210921] = {
-["attempts"] = 1,
-},
-[20190526] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190502] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190506] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190522] = {
-["time"] = 1,
+[20190525] = {
 ["attempts"] = 1,
 },
 [20211001] = {
 ["attempts"] = 1,
 },
-[20190606] = {
+[20220224] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190622] = {
-["time"] = 1,
+[20190605] = {
 ["attempts"] = 1,
 },
-[20190610] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190602] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190630] = {
-["attempts"] = 2,
-},
-[20190702] = {
-["attempts"] = 1,
-},
-[20211129] = {
-["attempts"] = 1,
-},
-[20190706] = {
-["attempts"] = 1,
-},
-[20190722] = {
-["attempts"] = 2,
-},
-[20190726] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190730] = {
-["attempts"] = 1,
-},
-[20211209] = {
-["attempts"] = 1,
-},
-[20190814] = {
-["attempts"] = 1,
-},
-[20190802] = {
-["attempts"] = 1,
-},
-[20190806] = {
-["attempts"] = 1,
-},
-[20190810] = {
-["attempts"] = 1,
-},
-[20190826] = {
-["attempts"] = 1,
-},
-[20190910] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190914] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190918] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190922] = {
-["attempts"] = 1,
-},
-[20191006] = {
-["attempts"] = 2,
-},
-[20191022] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191010] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191026] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191214] = {
-["attempts"] = 1,
-},
-[20191218] = {
-["attempts"] = 1,
-},
-[20191222] = {
-["attempts"] = 1,
-},
-[20191226] = {
-["attempts"] = 1,
-},
-[20240430] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190614] = {
-["attempts"] = 1,
-},
-[20210829] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210513] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211021] = {
-["attempts"] = 1,
-},
-[20191114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240106] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20220111] = {
-["attempts"] = 1,
-},
-[20220127] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20220115] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20220107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240118] = {
-["attempts"] = 1,
-},
-[20230324] = {
+[20190621] = {
 ["time"] = 2,
 ["attempts"] = 2,
-},
-[20231228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230928] = {
-["attempts"] = 1,
-},
-[20231004] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190822] = {
-["attempts"] = 1,
-},
-[20240710] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230604] = {
-["attempts"] = 1,
-},
-[20190402] = {
-["attempts"] = 2,
-},
-[20181120] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181104] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20220327] = {
-["attempts"] = 1,
-},
-[20220331] = {
-["time"] = 1,
-},
-[20210929] = {
-["attempts"] = 1,
-},
-[20220415] = {
-["attempts"] = 1,
-},
-[20211225] = {
-["attempts"] = 1,
-},
-[20220407] = {
-["attempts"] = 1,
 },
 [20211113] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20220427] = {
-["attempts"] = 1,
-},
-[20220119] = {
-["attempts"] = 1,
-},
-[20220531] = {
-["attempts"] = 1,
-},
-[20220523] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220515] = {
-["attempts"] = 1,
-},
-[20220507] = {
-["attempts"] = 1,
-},
-[20200124] = {
-["attempts"] = 1,
-},
-[20220607] = {
-["attempts"] = 1,
-},
-[20200116] = {
-["time"] = 5.393999999971129,
-["attempts"] = 3,
-},
-[20211221] = {
-["attempts"] = 1,
-},
-[20210917] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220615] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200220] = {
-["attempts"] = 1,
-},
-[20220719] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200224] = {
-["attempts"] = 1,
-},
-[20200216] = {
-["attempts"] = 1,
-},
-[20180904] = {
-["attempts"] = 2,
-},
-[20220723] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200316] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220731] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220815] = {
-["attempts"] = 1,
-},
-[20200420] = {
-["attempts"] = 1,
-},
-[20220807] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200516] = {
-["attempts"] = 1,
-},
-[20220827] = {
-["attempts"] = 1,
-},
-[20221023] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20220911] = {
-["attempts"] = 1,
-},
-[20220927] = {
-["attempts"] = 1,
-},
-[20220915] = {
-["time"] = 1,
-},
-[20220907] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221027] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221103] = {
-["attempts"] = 1,
-},
-[20221007] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200520] = {
-["attempts"] = 1,
-},
-[20211025] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221003] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200620] = {
-["attempts"] = 1,
-},
-[20200608] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200612] = {
-["attempts"] = 1,
-},
-[20200616] = {
-["attempts"] = 1,
-},
-[20221107] = {
-["attempts"] = 1,
-},
-[20221111] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221115] = {
-["attempts"] = 1,
-},
-[20200704] = {
-["attempts"] = 1,
-},
-[20200720] = {
-["attempts"] = 1,
-},
-[20200712] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180816] = {
-["attempts"] = 1,
-},
-[20250331] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180812] = {
-["attempts"] = 1,
-},
-[20250323] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250116] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200808] = {
-["attempts"] = 1,
-},
-[20250128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250303] = {
-["attempts"] = 1,
-},
-[20201124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250208] = {
-["attempts"] = 1,
-},
-[20200916] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200920] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201107] = {
-["attempts"] = 1,
-},
-[20250108] = {
-["time"] = 1,
-},
-[20250124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250112] = {
-["attempts"] = 1,
-},
-[20250104] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180628] = {
-["time"] = 9.01399999999558,
-["attempts"] = 2,
-},
-[20250212] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180713] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180601] = {
-["attempts"] = 1,
-},
-[20180629] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250224] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250216] = {
-["attempts"] = 2,
-},
-[20180717] = {
-["attempts"] = 1,
-},
-[20180705] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250316] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250304] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250324] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250312] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250328] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250131] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180805] = {
-["attempts"] = 1,
-},
-[20180825] = {
-["attempts"] = 1,
-},
-[20250404] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20201115] = {
-["attempts"] = 1,
-},
-[20180909] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180604] = {
-["attempts"] = 1,
-},
-[20180901] = {
-["attempts"] = 2,
-},
-[20180905] = {
-["attempts"] = 1,
-},
-[20180921] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201027] = {
-["attempts"] = 1,
-},
-[20180524] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181021] = {
-["attempts"] = 1,
-},
-[20230105] = {
-["attempts"] = 1,
-},
-[20181025] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181017] = {
-["time"] = 58.7289999998175,
-["attempts"] = 2,
-},
-[20250107] = {
-["attempts"] = 1,
-},
-[20200128] = {
-["attempts"] = 1,
-},
-[20211029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181205] = {
-["attempts"] = 1,
-},
-[20181121] = {
-["attempts"] = 1,
-},
-[20181125] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181129] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20230701] = {
-["attempts"] = 1,
-},
-[20210326] = {
-["attempts"] = 1,
-},
-[20181229] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230321] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231025] = {
-["attempts"] = 1,
-},
-[20181225] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200831] = {
-["attempts"] = 1,
-},
-[20231017] = {
-["attempts"] = 1,
-},
-[20230429] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210618] = {
-["attempts"] = 1,
-},
-[20231125] = {
-["attempts"] = 1,
-},
-[20190227] = {
-["attempts"] = 1,
-},
-[20190315] = {
-["attempts"] = 2,
-},
-[20210914] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190503] = {
-["attempts"] = 1,
-},
-[20230501] = {
-["attempts"] = 1,
-},
-[20230529] = {
-["attempts"] = 1,
-},
-[20230521] = {
-["attempts"] = 1,
-},
-[20221126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
 [20210106] = {
 ["attempts"] = 1,
 },
-[20221122] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230601] = {
-["attempts"] = 1,
-},
-[20221106] = {
+[20190717] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200615] = {
-["time"] = 1,
+[20211209] = {
 ["attempts"] = 1,
 },
-[20210210] = {
+[20180519] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20210214] = {
 ["attempts"] = 1,
 },
 [20210218] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200611] = {
+[20190813] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230725] = {
+[20190829] = {
 ["attempts"] = 1,
 },
-[20210318] = {
+[20220512] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211022] = {
+[20250211] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200607] = {
+[20190909] = {
 ["attempts"] = 1,
 },
-[20230829] = {
+[20190925] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221014] = {
-["attempts"] = 1,
-},
-[20221010] = {
-["time"] = 5.44800000009127,
-["attempts"] = 2,
-},
-[20211102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190619] = {
-["attempts"] = 1,
-},
-[20230909] = {
-["time"] = 8.149999999999636,
+[20250307] = {
+["time"] = 2,
 ["attempts"] = 2,
 },
 [20210410] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190807] = {
+[20191021] = {
 ["attempts"] = 1,
 },
-[20230929] = {
+[20180807] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230921] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190823] = {
-["attempts"] = 1,
-},
-[20231005] = {
-["attempts"] = 1,
-},
-[20210530] = {
-["attempts"] = 1,
-},
-[20190111] = {
-["time"] = 1,
+[20180823] = {
 ["attempts"] = 2,
 },
-[20231013] = {
-["attempts"] = 1,
-},
-[20190103] = {
-["attempts"] = 1,
-},
-[20210622] = {
-["attempts"] = 1,
-},
-[20210610] = {
+[20191101] = {
 ["attempts"] = 2,
 },
-[20210626] = {
+[20220816] = {
 ["attempts"] = 1,
 },
-[20231105] = {
-["attempts"] = 1,
-},
-[20231109] = {
-["time"] = 7.557999999960885,
-["attempts"] = 2,
-},
-[20190211] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20231129] = {
+[20250515] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190219] = {
-["time"] = 5.00400000001537,
+[20210618] = {
 ["attempts"] = 1,
 },
-[20220906] = {
+[20191213] = {
+["attempts"] = 1,
+},
+[20190206] = {
+["attempts"] = 1,
+},
+[20220912] = {
+["attempts"] = 1,
+},
+[20181031] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20231229] = {
+[20190302] = {
+["attempts"] = 1,
+},
+[20181111] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20231217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231209] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210814] = {
-["attempts"] = 1,
-},
-[20210830] = {
-["attempts"] = 1,
-},
-[20190331] = {
 ["attempts"] = 1,
 },
 [20210810] = {
@@ -7059,46 +7755,130 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20190403] = {
+[20190414] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20190419] = {
-["time"] = 12.3969999998808,
-["attempts"] = 2,
-},
-[20190411] = {
+[20190430] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
-[20190427] = {
+[20220113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190526] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220209] = {
+["attempts"] = 1,
+},
+[20190606] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190622] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190702] = {
+["attempts"] = 1,
+},
+[20211210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250116] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20210930] = {
+[20190814] = {
+["attempts"] = 1,
+},
+[20190830] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220914] = {
+[20250212] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191023] = {
+[20210315] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211006] = {
+[20190910] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190531] = {
+[20220609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250324] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191006] = {
+["attempts"] = 2,
+},
+[20191022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220721] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180824] = {
+["attempts"] = 1,
+},
+[20191102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190111] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20211010] = {
+[20220817] = {
+["attempts"] = 1,
+},
+[20210603] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211002] = {
+[20210619] = {
+["attempts"] = 1,
+},
+[20191214] = {
+["attempts"] = 1,
+},
+[20220913] = {
+["attempts"] = 1,
+},
+[20220929] = {
+["time"] = 5.842000000004191,
+["attempts"] = 2,
+},
+[20210811] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181224] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -7110,17 +7890,8 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190611] = {
-["attempts"] = 1,
-},
-[20190603] = {
+[20211115] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20211106] = {
-["attempts"] = 1,
-},
-[20211122] = {
 ["attempts"] = 2,
 },
 [20190703] = {
@@ -7129,42 +7900,21 @@ RarityDB = {
 [20190719] = {
 ["attempts"] = 1,
 },
-[20190707] = {
+[20250101] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190723] = {
-["attempts"] = 1,
-},
-[20211230] = {
-["attempts"] = 1,
-},
-[20211218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211210] = {
-["time"] = 1,
+[20211227] = {
 ["attempts"] = 1,
 },
 [20190815] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190803] = {
+[20251204] = {
 ["attempts"] = 1,
 },
-[20190819] = {
-["attempts"] = 1,
-},
-[20190811] = {
-["attempts"] = 1,
-},
-[20190827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200407] = {
+[20220514] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -7175,64 +7925,32 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190903] = {
-["attempts"] = 1,
-},
-[20190919] = {
-["attempts"] = 1,
-},
-[20190923] = {
+[20180713] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240119] = {
+[20250325] = {
+["attempts"] = 1,
+},
+[20191023] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240123] = {
+[20220722] = {
 ["attempts"] = 1,
 },
-[20240127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220810] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240131] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191019] = {
-["attempts"] = 1,
-},
-[20220818] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220830] = {
+[20250421] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20191119] = {
 ["attempts"] = 1,
 },
-[20240211] = {
-["attempts"] = 1,
-},
-[20191111] = {
-["attempts"] = 1,
-},
-[20191115] = {
+[20190112] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240303] = {
+[20250517] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -7240,778 +7958,48 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 1,
 },
-[20191203] = {
-["time"] = 7.01400000002468,
+[20220914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220930] = {
+["attempts"] = 1,
+},
+[20250629] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221010] = {
+["time"] = 5.44800000009127,
 ["attempts"] = 2,
 },
-[20191207] = {
+[20221026] = {
 ["attempts"] = 1,
 },
-[20191211] = {
-["attempts"] = 2,
-},
-[20240331] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210613] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240423] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200303] = {
-["attempts"] = 1,
-},
-[20240407] = {
-["attempts"] = 1,
-},
-[20240411] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210625] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210605] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220910] = {
-["attempts"] = 1,
-},
-[20200708] = {
-["time"] = 5.712999999988824,
-["attempts"] = 2,
-},
-[20190710] = {
-["attempts"] = 1,
-},
-[20220618] = {
-["attempts"] = 1,
-},
-[20210629] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210529] = {
-["attempts"] = 1,
-},
-[20200119] = {
-["attempts"] = 1,
-},
-[20220120] = {
-["attempts"] = 1,
-},
-[20200628] = {
-["attempts"] = 1,
-},
-[20220216] = {
-["time"] = 6.575000000011642,
-["attempts"] = 1,
-},
-[20220220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220522] = {
-["attempts"] = 1,
-},
-[20220224] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220228] = {
-["attempts"] = 1,
-},
-[20181029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220514] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200528] = {
-["attempts"] = 1,
-},
-[20190407] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20220918] = {
-["attempts"] = 1,
-},
-[20200309] = {
-["attempts"] = 2,
-},
-[20220504] = {
-["attempts"] = 2,
-},
-[20190202] = {
-["attempts"] = 1,
-},
-[20241123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220724] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220420] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220424] = {
+[20181129] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20200325] = {
+[20221106] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20220828] = {
+[20221122] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181225] = {
 ["time"] = 2,
 ["attempts"] = 2,
-},
-[20200509] = {
-["attempts"] = 1,
-},
-[20220512] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220528] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200109] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221020] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200113] = {
-["attempts"] = 2,
-},
-[20221012] = {
-["attempts"] = 1,
-},
-[20200121] = {
-["attempts"] = 1,
-},
-[20220612] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241119] = {
-["attempts"] = 1,
-},
-[20221016] = {
-["attempts"] = 1,
-},
-[20200209] = {
-["attempts"] = 2,
-},
-[20200201] = {
-["attempts"] = 2,
-},
-[20200229] = {
-["attempts"] = 1,
-},
-[20250117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200301] = {
-["attempts"] = 2,
-},
-[20220728] = {
-["attempts"] = 2,
-},
-[20200305] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220812] = {
-["attempts"] = 1,
-},
-[20200313] = {
-["time"] = 7.190999999991618,
-["attempts"] = 2,
-},
-[20220816] = {
-["attempts"] = 1,
-},
-[20220820] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200829] = {
-["attempts"] = 1,
-},
-[20250221] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200405] = {
-["attempts"] = 2,
-},
-[20220924] = {
-["attempts"] = 1,
-},
-[20220912] = {
-["attempts"] = 1,
-},
-[20220916] = {
-["attempts"] = 1,
-},
-[20220920] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200525] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221004] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200517] = {
-["attempts"] = 1,
-},
-[20200521] = {
-["attempts"] = 1,
-},
-[20221024] = {
-["attempts"] = 1,
-},
-[20200605] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200621] = {
-["attempts"] = 1,
-},
-[20250129] = {
-["attempts"] = 1,
-},
-[20200613] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200617] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221112] = {
-["attempts"] = 1,
-},
-[20200717] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200705] = {
-["attempts"] = 1,
-},
-[20200709] = {
-["attempts"] = 1,
-},
-[20200725] = {
-["attempts"] = 1,
-},
-[20200729] = {
-["attempts"] = 1,
-},
-[20221220] = {
-["attempts"] = 1,
-},
-[20250113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200801] = {
-["attempts"] = 1,
-},
-[20250201] = {
-["attempts"] = 1,
-},
-[20200821] = {
-["attempts"] = 1,
-},
-[20180702] = {
-["attempts"] = 1,
-},
-[20250301] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200909] = {
-["attempts"] = 1,
-},
-[20200925] = {
-["attempts"] = 1,
-},
-[20200901] = {
-["attempts"] = 1,
-},
-[20200905] = {
-["attempts"] = 2,
-},
-[20200921] = {
-["attempts"] = 1,
-},
-[20180710] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20250305] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250125] = {
-["attempts"] = 1,
-},
-[20180522] = {
-["attempts"] = 1,
-},
-[20250105] = {
-["attempts"] = 1,
-},
-[20250121] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20250321] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250325] = {
-["attempts"] = 1,
-},
-[20180626] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250209] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250329] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180706] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250317] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180714] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250309] = {
-["attempts"] = 1,
-},
-[20250313] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180814] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180830] = {
-["attempts"] = 2,
-},
-[20180818] = {
-["attempts"] = 1,
-},
-[20180810] = {
-["time"] = 8.48800000001211,
-["attempts"] = 3,
-},
-[20250405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181026] = {
-["attempts"] = 1,
-},
-[20210627] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180914] = {
-["attempts"] = 1,
-},
-[20180930] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230518] = {
-["attempts"] = 1,
-},
-[20231210] = {
-["attempts"] = 1,
-},
-[20190724] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181022] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230902] = {
-["attempts"] = 1,
-},
-[20181014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181018] = {
-["attempts"] = 1,
-},
-[20230930] = {
-["attempts"] = 2,
-},
-[20181102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181118] = {
-["attempts"] = 2,
-},
-[20181106] = {
-["attempts"] = 1,
-},
-[20181122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210519] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190104] = {
-["attempts"] = 1,
-},
-[20191221] = {
-["attempts"] = 1,
-},
-[20181218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230314] = {
-["attempts"] = 1,
-},
-[20181226] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240309] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210611] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230402] = {
-["attempts"] = 1,
-},
-[20230406] = {
-["attempts"] = 1,
-},
-[20210603] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210815] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191125] = {
-["attempts"] = 1,
-},
-[20240213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230502] = {
-["attempts"] = 1,
-},
-[20230506] = {
-["attempts"] = 1,
-},
-[20210811] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190428] = {
-["attempts"] = 1,
-},
-[20210927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210911] = {
-["attempts"] = 1,
-},
-[20230610] = {
-["attempts"] = 1,
-},
-[20191017] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230630] = {
-["attempts"] = 1,
-},
-[20191025] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20191009] = {
-["attempts"] = 1,
-},
-[20210215] = {
-["attempts"] = 1,
-},
-[20190616] = {
-["attempts"] = 1,
-},
-[20230722] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190716] = {
-["attempts"] = 1,
-},
-[20190712] = {
-["attempts"] = 1,
-},
-[20190929] = {
-["attempts"] = 1,
-},
-[20230802] = {
-["attempts"] = 1,
-},
-[20190913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211223] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230826] = {
-["time"] = 6.837999999999738,
-["attempts"] = 2,
-},
-[20210403] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210419] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211227] = {
-["attempts"] = 1,
-},
-[20230914] = {
-["attempts"] = 1,
-},
-[20230918] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230922] = {
-["attempts"] = 1,
-},
-[20210527] = {
-["attempts"] = 1,
-},
-[20210503] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231022] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231030] = {
-["attempts"] = 1,
-},
-[20210623] = {
-["attempts"] = 1,
-},
-[20231102] = {
-["attempts"] = 1,
-},
-[20190204] = {
-["attempts"] = 1,
-},
-[20210619] = {
-["attempts"] = 1,
-},
-[20190804] = {
-["attempts"] = 1,
-},
-[20190224] = {
-["attempts"] = 1,
-},
-[20190216] = {
-["attempts"] = 1,
-},
-[20190916] = {
-["attempts"] = 2,
-},
-[20231214] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20231202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190809] = {
-["attempts"] = 1,
-},
-[20231222] = {
-["attempts"] = 1,
-},
-[20190324] = {
-["attempts"] = 1,
-},
-[20190328] = {
-["attempts"] = 1,
-},
-[20210819] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190412] = {
-["attempts"] = 1,
-},
-[20210827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190408] = {
-["attempts"] = 1,
-},
-[20190424] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210903] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210907] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190524] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190817] = {
-["attempts"] = 1,
 },
 [20190528] = {
 ["time"] = 6.03000000002794,
 ["attempts"] = 2,
 },
-[20190520] = {
-["attempts"] = 1,
-},
-[20190829] = {
-["attempts"] = 1,
-},
-[20190604] = {
-["attempts"] = 1,
-},
-[20211031] = {
-["attempts"] = 1,
-},
 [20190608] = {
 ["attempts"] = 1,
 },
 [20190624] = {
-["attempts"] = 1,
-},
-[20211119] = {
-["attempts"] = 1,
-},
-[20240108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240112] = {
-["time"] = 16.25799999991432,
-["attempts"] = 2,
-},
-[20211127] = {
 ["attempts"] = 1,
 },
 [20190704] = {
@@ -8021,760 +8009,43 @@ RarityDB = {
 [20190720] = {
 ["attempts"] = 1,
 },
-[20211215] = {
-["time"] = 1,
+[20250102] = {
 ["attempts"] = 1,
 },
-[20190728] = {
-["attempts"] = 1,
-},
-[20190729] = {
-["attempts"] = 1,
-},
-[20190812] = {
-["attempts"] = 1,
-},
-[20190828] = {
-["time"] = 1,
+[20180522] = {
 ["attempts"] = 1,
 },
 [20190816] = {
 ["attempts"] = 1,
 },
-[20190820] = {
+[20220515] = {
 ["attempts"] = 1,
 },
-[20190824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190713] = {
-["attempts"] = 1,
-},
-[20190908] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190924] = {
-["attempts"] = 1,
-},
-[20240116] = {
+[20220531] = {
 ["attempts"] = 1,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
-[20190920] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191104] = {
+[20250310] = {
 ["attempts"] = 2,
 },
-[20191004] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191020] = {
+[20250326] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20191008] = {
 ["attempts"] = 2,
 },
-[20191012] = {
-["time"] = 1,
+[20180810] = {
+["time"] = 8.48800000001211,
+["attempts"] = 3,
+},
+[20191104] = {
 ["attempts"] = 2,
-},
-[20191028] = {
-["time"] = 7.676000000006752,
-["attempts"] = 2,
-},
-[20190717] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191116] = {
-["attempts"] = 1,
-},
-[20240208] = {
-["attempts"] = 1,
 },
 [20191120] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20191112] = {
-["attempts"] = 1,
-},
-[20191128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240224] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191212] = {
-["attempts"] = 1,
-},
-[20191228] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20191216] = {
-["attempts"] = 1,
-},
-[20240312] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191224] = {
-["attempts"] = 1,
-},
-[20211120] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190617] = {
-["attempts"] = 1,
-},
-[20190613] = {
-["attempts"] = 1,
-},
-[20240416] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240408] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20240424] = {
-["attempts"] = 1,
-},
-[20240316] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240508] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191204] = {
-["attempts"] = 1,
-},
-[20211016] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190715] = {
-["attempts"] = 2,
-},
-[20190521] = {
-["attempts"] = 1,
-},
-[20220125] = {
-["attempts"] = 1,
-},
-[20220113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190505] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190612] = {
-["attempts"] = 1,
-},
-[20180701] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191002] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220209] = {
-["attempts"] = 1,
-},
-[20220213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220217] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200101] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210912] = {
-["attempts"] = 1,
-},
-[20181217] = {
-["attempts"] = 1,
-},
-[20210908] = {
-["attempts"] = 1,
-},
-[20190423] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190413] = {
-["attempts"] = 1,
-},
-[20180806] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200130] = {
-["attempts"] = 1,
-},
-[20241108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210812] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220405] = {
-["attempts"] = 1,
-},
-[20220409] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231219] = {
-["attempts"] = 1,
-},
-[20200302] = {
-["attempts"] = 1,
-},
-[20200322] = {
-["attempts"] = 2,
-},
-[20220525] = {
-["attempts"] = 1,
-},
-[20220921] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20220505] = {
-["time"] = 33.1869999999999,
-["attempts"] = 1,
-},
-[20220521] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200126] = {
-["attempts"] = 2,
-},
-[20200102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200118] = {
-["attempts"] = 1,
-},
-[20220609] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220601] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20220617] = {
-["attempts"] = 1,
-},
-[20200222] = {
-["attempts"] = 1,
-},
-[20221013] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231127] = {
-["attempts"] = 1,
-},
-[20200218] = {
-["attempts"] = 1,
-},
-[20220721] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200318] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20231123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220813] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200326] = {
-["attempts"] = 1,
-},
-[20220817] = {
-["attempts"] = 1,
-},
-[20220809] = {
-["attempts"] = 1,
-},
-[20220825] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200606] = {
-["attempts"] = 1,
-},
-[20200418] = {
-["attempts"] = 1,
-},
-[20220925] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20220901] = {
-["attempts"] = 2,
-},
-[20220929] = {
-["time"] = 5.842000000004191,
-["attempts"] = 2,
-},
-[20200510] = {
-["attempts"] = 1,
-},
-[20200602] = {
-["attempts"] = 1,
-},
-[20221005] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200530] = {
-["attempts"] = 3,
-},
-[20210624] = {
-["attempts"] = 1,
-},
-[20221001] = {
-["attempts"] = 2,
-},
-[20221029] = {
-["attempts"] = 1,
-},
-[20210608] = {
-["attempts"] = 1,
-},
-[20200610] = {
-["attempts"] = 1,
-},
-[20200626] = {
-["time"] = 1,
-},
-[20200630] = {
-["attempts"] = 1,
-},
-[20190117] = {
-["attempts"] = 2,
-},
-[20221125] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200706] = {
-["attempts"] = 1,
-},
-[20200710] = {
-["attempts"] = 1,
-},
-[20200714] = {
-["attempts"] = 1,
-},
-[20200730] = {
-["attempts"] = 1,
-},
-[20231015] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200702] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200722] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200806] = {
-["attempts"] = 1,
-},
-[20200822] = {
-["attempts"] = 1,
-},
-[20221113] = {
-["attempts"] = 1,
-},
-[20200818] = {
-["attempts"] = 1,
-},
-[20200910] = {
-["attempts"] = 1,
-},
-[20180519] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250118] = {
-["attempts"] = 1,
-},
-[20200930] = {
-["attempts"] = 1,
-},
-[20250222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250226] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180515] = {
-["attempts"] = 1,
-},
-[20250126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250102] = {
-["attempts"] = 1,
-},
-[20250130] = {
-["attempts"] = 1,
-},
-[20250318] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250314] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250206] = {
-["attempts"] = 1,
-},
-[20201118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250210] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250214] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20250218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250330] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250302] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180711] = {
-["attempts"] = 1,
-},
-[20180715] = {
-["attempts"] = 1,
-},
-[20250310] = {
-["attempts"] = 2,
-},
-[20201222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180815] = {
-["attempts"] = 1,
-},
-[20250402] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180807] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180811] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180827] = {
-["attempts"] = 2,
-},
-[20250114] = {
-["attempts"] = 1,
-},
-[20201002] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180707] = {
-["attempts"] = 1,
-},
-[20180915] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180923] = {
-["time"] = 4.13400000002002,
-["attempts"] = 1,
-},
-[20190830] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230111] = {
-["attempts"] = 1,
-},
-[20191124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181011] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230131] = {
-["attempts"] = 1,
-},
-[20181031] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200906] = {
-["attempts"] = 1,
-},
-[20191206] = {
-["attempts"] = 1,
-},
-[20201114] = {
-["attempts"] = 1,
-},
-[20181107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181111] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181115] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180823] = {
-["attempts"] = 2,
-},
-[20230303] = {
-["attempts"] = 1,
-},
-[20181215] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20201230] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230323] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230327] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181227] = {
-["attempts"] = 1,
-},
-[20191108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230415] = {
-["attempts"] = 1,
-},
-[20190504] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191001] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240105] = {
-["attempts"] = 1,
-},
-[20191016] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180509] = {
-["attempts"] = 1,
-},
-[20211028] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190309] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230503] = {
-["attempts"] = 1,
-},
-[20230531] = {
-["attempts"] = 1,
-},
-[20211116] = {
-["attempts"] = 1,
-},
-[20210612] = {
-["attempts"] = 1,
-},
-[20191013] = {
-["attempts"] = 1,
-},
-[20230623] = {
-["attempts"] = 1,
-},
-[20230611] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20191208] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191029] = {
-["attempts"] = 1,
-},
-[20180822] = {
-["attempts"] = 1,
-},
-[20191127] = {
-["attempts"] = 1,
-},
-[20210216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191121] = {
-["attempts"] = 1,
-},
-[20180627] = {
-["attempts"] = 1,
-},
-[20230715] = {
-["time"] = 10.08699999999999,
-["attempts"] = 2,
-},
-[20230731] = {
-["attempts"] = 1,
-},
-[20190904] = {
-["attempts"] = 1,
-},
-[20201122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201110] = {
-["attempts"] = 1,
-},
-[20230819] = {
-["attempts"] = 1,
-},
-[20210412] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210428] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250326] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230911] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180703] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230919] = {
-["attempts"] = 1,
-},
-[20230923] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210512] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210528] = {
-["attempts"] = 1,
-},
-[20190109] = {
-["attempts"] = 2,
-},
-[20231011] = {
 ["attempts"] = 1,
 },
 [20190113] = {
@@ -8784,444 +8055,323 @@ RarityDB = {
 [20190129] = {
 ["attempts"] = 1,
 },
-[20190121] = {
+[20191216] = {
 ["attempts"] = 1,
 },
-[20231103] = {
-["attempts"] = 1,
-},
-[20210628] = {
-["attempts"] = 1,
-},
-[20190221] = {
-["attempts"] = 1,
-},
-[20190209] = {
-["attempts"] = 1,
+[20220915] = {
+["time"] = 1,
 },
 [20190225] = {
 ["attempts"] = 1,
 },
-[20190217] = {
+[20250630] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20221021] = {
-["attempts"] = 1,
-},
-[20200614] = {
-["attempts"] = 1,
-},
-[20220913] = {
 ["attempts"] = 1,
 },
 [20190305] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20231223] = {
+[20181114] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200422] = {
+[20221107] = {
+["attempts"] = 1,
+},
+[20181226] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210816] = {
+[20260109] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250902] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20200110] = {
-["attempts"] = 1,
-},
-[20210824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190627] = {
-["attempts"] = 1,
-},
-[20190405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190421] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190425] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210916] = {
-["attempts"] = 1,
-},
-[20210920] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190525] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["attempts"] = 1,
+["attempts"] = 2,
 },
 [20190529] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211008] = {
+[20220228] = {
 ["attempts"] = 1,
 },
-[20211012] = {
+[20260205] = {
+["time"] = 1,
 ["attempts"] = 1,
-},
-[20190605] = {
-["attempts"] = 1,
-},
-[20190621] = {
-["time"] = 2,
-["attempts"] = 2,
 },
 [20190609] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190601] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211104] = {
-["attempts"] = 1,
-},
-[20211108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191220] = {
-["attempts"] = 1,
-},
-[20211128] = {
-["time"] = 1,
-["attempts"] = 1,
+[20260301] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 [20190705] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190709] = {
-["attempts"] = 1,
-},
-[20211228] = {
-["attempts"] = 1,
-},
-[20211216] = {
+[20220420] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211220] = {
-["attempts"] = 1,
-},
-[20190813] = {
-["time"] = 1,
+[20250119] = {
 ["attempts"] = 1,
 },
 [20190801] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20190805] = {
+[20190817] = {
+["attempts"] = 1,
+},
+[20220516] = {
+["time"] = 1,
+},
+[20190913] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190821] = {
+[20190929] = {
 ["attempts"] = 1,
 },
-[20190825] = {
-["attempts"] = 1,
-},
-[20190808] = {
+[20250311] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190909] = {
+[20191009] = {
 ["attempts"] = 1,
 },
-[20190925] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190901] = {
-["attempts"] = 2,
-},
-[20190905] = {
-["attempts"] = 1,
-},
-[20190921] = {
-["attempts"] = 1,
-},
-[20190708] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211115] = {
+[20191025] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20191021] = {
-["attempts"] = 1,
-},
-[20240101] = {
+[20250407] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240129] = {
-["time"] = 2,
+[20180827] = {
 ["attempts"] = 2,
-},
-[20240121] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210915] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191101] = {
-["attempts"] = 2,
-},
-[20240221] = {
-["attempts"] = 1,
 },
 [20191105] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191109] = {
-["time"] = 1,
+[20191121] = {
 ["attempts"] = 1,
 },
-[20191113] = {
+[20220820] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20191129] = {
+[20250519] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20190320] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191213] = {
 ["attempts"] = 1,
 },
 [20191201] = {
 ["attempts"] = 2,
 },
-[20191205] = {
+[20220916] = {
 ["attempts"] = 1,
 },
-[20191209] = {
-["attempts"] = 1,
-},
-[20240329] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231002] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231006] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240401] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240417] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210315] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240425] = {
-["attempts"] = 1,
-},
-[20231118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230418] = {
-["attempts"] = 1,
-},
-[20210607] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231026] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201221] = {
-["attempts"] = 1,
-},
-[20220102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220106] = {
-["attempts"] = 1,
-},
-[20220122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180630] = {
-["attempts"] = 1,
-},
-[20201117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180530] = {
-["attempts"] = 1,
-},
-[20220202] = {
-["attempts"] = 1,
-},
-[20200721] = {
-["attempts"] = 1,
-},
-[20200625] = {
+[20221012] = {
 ["attempts"] = 1,
 },
 [20221028] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200505] = {
-["time"] = 1,
-["attempts"] = 3,
+[20250727] = {
+["time"] = 8.132999999914318,
+["attempts"] = 2,
 },
-[20220904] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200425] = {
-["attempts"] = 1,
-},
-[20250101] = {
+[20221108] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220330] = {
+[20181227] = {
 ["attempts"] = 1,
 },
-[20241223] = {
+[20221220] = {
+["attempts"] = 1,
+},
+[20220213] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220712] = {
+[20190610] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20241127] = {
+[20190626] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20260302] = {
+["attempts"] = 1,
+},
+[20190706] = {
+["attempts"] = 1,
+},
+[20220405] = {
+["attempts"] = 1,
+},
+[20250104] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190802] = {
+["attempts"] = 1,
+},
+[20190818] = {
+["attempts"] = 1,
+},
+[20250216] = {
+["attempts"] = 2,
+},
+[20190914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190930] = {
+["attempts"] = 1,
+},
+[20250312] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250328] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191010] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191026] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250424] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250520] = {
+["attempts"] = 1,
+},
+[20220901] = {
+["attempts"] = 2,
+},
+[20190211] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190227] = {
+["attempts"] = 1,
+},
+[20230204] = {
+["attempts"] = 1,
+},
+[20230220] = {
+["attempts"] = 1,
+},
+[20221013] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221029] = {
+["attempts"] = 1,
+},
+[20190403] = {
+["attempts"] = 1,
+},
+[20220102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250824] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20230428] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190531] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190611] = {
+["attempts"] = 1,
+},
+[20190627] = {
+["attempts"] = 1,
+},
+[20230604] = {
+["attempts"] = 1,
+},
+[20260303] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190707] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20220406] = {
 ["time"] = 1,
 },
-[20200213] = {
+[20250105] = {
+["attempts"] = 1,
+},
+[20250121] = {
+["time"] = 1,
 ["attempts"] = 2,
 },
-[20220516] = {
-["time"] = 1,
-},
-[20190818] = {
-["attempts"] = 1,
-},
-[20200427] = {
-["attempts"] = 1,
-},
-[20220526] = {
+[20190803] = {
 ["attempts"] = 1,
 },
 [20220502] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191123] = {
+[20250201] = {
 ["attempts"] = 1,
 },
-[20200111] = {
-["attempts"] = 1,
-},
-[20200127] = {
-["attempts"] = 1,
-},
-[20200103] = {
-["attempts"] = 2,
-},
-[20200107] = {
-["attempts"] = 1,
-},
-[20190930] = {
-["attempts"] = 1,
-},
-[20181113] = {
+[20250217] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20220630] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200223] = {
-["attempts"] = 1,
-},
-[20220702] = {
+[20250329] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200215] = {
-["attempts"] = 2,
-},
-[20220714] = {
-["attempts"] = 1,
-},
-[20220722] = {
+[20230924] = {
 ["attempts"] = 1,
 },
 [20220726] = {
 ["attempts"] = 1,
 },
-[20220730] = {
+[20231004] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20200307] = {
-["attempts"] = 1,
-},
-[20240327] = {
-["attempts"] = 1,
-},
-[20200315] = {
+[20191107] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -9233,68 +8383,638 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191107] = {
+[20250521] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191015] = {
+[20191203] = {
+["time"] = 7.01400000002468,
 ["attempts"] = 2,
-},
-[20200419] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200411] = {
-["attempts"] = 1,
 },
 [20220902] = {
 ["attempts"] = 1,
 },
-[20220930] = {
+[20220918] = {
 ["attempts"] = 1,
 },
-[20191003] = {
+[20250617] = {
 ["attempts"] = 1,
 },
-[20190727] = {
+[20231228] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211118] = {
+[20190308] = {
 ["time"] = 1,
-["attempts"] = 2,
-},
-[20190523] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200523] = {
-["attempts"] = 2,
-},
-[20221026] = {
 ["attempts"] = 1,
 },
 [20221030] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200623] = {
+[20250729] = {
 ["time"] = 1,
-["attempts"] = 2,
-},
-[20221102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200627] = {
-["attempts"] = 1,
-},
-[20200619] = {
 ["attempts"] = 1,
 },
 [20221110] = {
 ["time"] = 2,
 ["attempts"] = 2,
+},
+[20221126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220119] = {
+["attempts"] = 1,
+},
+[20230429] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260112] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190612] = {
+["attempts"] = 1,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20220327] = {
+["attempts"] = 1,
+},
+[20190708] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190724] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230701] = {
+["attempts"] = 1,
+},
+[20190804] = {
+["attempts"] = 1,
+},
+[20190820] = {
+["attempts"] = 1,
+},
+[20250202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230829] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190916] = {
+["attempts"] = 2,
+},
+[20220615] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250314] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250330] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230909] = {
+["time"] = 8.149999999999636,
+["attempts"] = 2,
+},
+[20191012] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191028] = {
+["time"] = 7.676000000006752,
+["attempts"] = 2,
+},
+[20250410] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231005] = {
+["attempts"] = 1,
+},
+[20191108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250506] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191204] = {
+["attempts"] = 1,
+},
+[20191220] = {
+["attempts"] = 1,
+},
+[20250602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231229] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190309] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221031] = {
+["attempts"] = 1,
+},
+[20190405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190421] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220120] = {
+["attempts"] = 1,
+},
+[20190501] = {
+["attempts"] = 1,
+},
+[20260113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220216] = {
+["time"] = 6.575000000011642,
+["attempts"] = 1,
+},
+[20190613] = {
+["attempts"] = 1,
+},
+[20190709] = {
+["attempts"] = 1,
+},
+[20220424] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250123] = {
+["attempts"] = 2,
+},
+[20190805] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220504] = {
+["attempts"] = 2,
+},
+[20250219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190901] = {
+["attempts"] = 2,
+},
+[20250315] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250331] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200204] = {
+["attempts"] = 2,
+},
+[20200220] = {
+["attempts"] = 1,
+},
+[20191013] = {
+["attempts"] = 1,
+},
+[20191029] = {
+["attempts"] = 1,
+},
+[20220728] = {
+["attempts"] = 2,
+},
+[20231006] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231022] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191125] = {
+["attempts"] = 1,
+},
+[20231102] = {
+["attempts"] = 1,
+},
+[20231118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191205] = {
+["attempts"] = 1,
+},
+[20191221] = {
+["attempts"] = 1,
+},
+[20220920] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231214] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20221016] = {
+["attempts"] = 1,
+},
+[20190326] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230303] = {
+["attempts"] = 1,
+},
+[20221112] = {
+["attempts"] = 1,
+},
+[20250827] = {
+["attempts"] = 1,
+},
+[20230415] = {
+["attempts"] = 1,
+},
+[20190502] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220217] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190614] = {
+["attempts"] = 1,
+},
+[20190630] = {
+["attempts"] = 2,
+},
+[20230623] = {
+["attempts"] = 1,
+},
+[20190710] = {
+["attempts"] = 1,
+},
+[20220409] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190806] = {
+["attempts"] = 1,
+},
+[20220505] = {
+["time"] = 33.1869999999999,
+["attempts"] = 1,
+},
+[20220521] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220601] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20220617] = {
+["attempts"] = 1,
+},
+[20230911] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200301] = {
+["attempts"] = 2,
+},
+[20190103] = {
+["attempts"] = 1,
+},
+[20220825] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231103] = {
+["attempts"] = 1,
+},
+[20191206] = {
+["attempts"] = 1,
+},
+[20230112] = {
+["attempts"] = 1,
+},
+[20220921] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200509] = {
+["attempts"] = 1,
+},
+[20200525] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230208] = {
+["attempts"] = 1,
+},
+[20200605] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200621] = {
+["attempts"] = 1,
+},
+[20221113] = {
+["attempts"] = 1,
+},
+[20190423] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20220122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200717] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190503] = {
+["attempts"] = 1,
+},
+[20220202] = {
+["attempts"] = 1,
+},
+[20200829] = {
+["attempts"] = 1,
+},
+[20260227] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220330] = {
+["attempts"] = 1,
+},
+[20200909] = {
+["attempts"] = 1,
+},
+[20200925] = {
+["attempts"] = 1,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20190727] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230704] = {
+["attempts"] = 1,
+},
+[20190807] = {
+["attempts"] = 1,
+},
+[20190823] = {
+["attempts"] = 1,
+},
+[20220522] = {
+["attempts"] = 1,
+},
+[20201117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200110] = {
+["attempts"] = 1,
+},
+[20200126] = {
+["attempts"] = 2,
+},
+[20190919] = {
+["attempts"] = 1,
+},
+[20220618] = {
+["attempts"] = 1,
+},
+[20200222] = {
+["attempts"] = 1,
+},
+[20191015] = {
+["attempts"] = 2,
+},
+[20220714] = {
+["attempts"] = 1,
+},
+[20220730] = {
+["attempts"] = 1,
+},
+[20200302] = {
+["attempts"] = 1,
+},
+[20200318] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191111] = {
+["attempts"] = 1,
+},
+[20191127] = {
+["attempts"] = 1,
+},
+[20231104] = {
+["attempts"] = 1,
+},
+[20191207] = {
+["attempts"] = 1,
+},
+[20220906] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190216] = {
+["attempts"] = 1,
+},
+[20200510] = {
+["attempts"] = 1,
+},
+[20231216] = {
+["attempts"] = 1,
+},
+[20190328] = {
+["attempts"] = 1,
+},
+[20200606] = {
+["attempts"] = 1,
+},
+[20190408] = {
+["attempts"] = 1,
+},
+[20190424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200702] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190504] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190520] = {
+["attempts"] = 1,
+},
+[20190616] = {
+["attempts"] = 1,
+},
+[20220331] = {
+["time"] = 1,
+},
+[20200910] = {
+["attempts"] = 1,
+},
+[20190712] = {
+["attempts"] = 1,
+},
+[20190728] = {
+["attempts"] = 1,
+},
+[20220427] = {
+["attempts"] = 1,
+},
+[20190808] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220523] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200111] = {
+["attempts"] = 1,
+},
+[20200127] = {
+["attempts"] = 1,
+},
+[20190920] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201230] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200223] = {
+["attempts"] = 1,
+},
+[20191016] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220731] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200303] = {
+["attempts"] = 1,
+},
+[20231009] = {
+["attempts"] = 1,
+},
+[20191112] = {
+["attempts"] = 1,
+},
+[20191128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190121] = {
+["attempts"] = 1,
+},
+[20231105] = {
+["attempts"] = 1,
+},
+[20191208] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191224] = {
+["attempts"] = 1,
+},
+[20190217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221003] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200607] = {
+["attempts"] = 1,
+},
+[20200623] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221115] = {
+["attempts"] = 1,
+},
+[20190425] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20200703] = {
 ["attempts"] = 1,
@@ -9302,42 +9022,27 @@ RarityDB = {
 [20200719] = {
 ["attempts"] = 1,
 },
-[20210818] = {
+[20230402] = {
+["attempts"] = 1,
+},
+[20190505] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190323] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200715] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200731] = {
-["attempts"] = 1,
-},
-[20190107] = {
-["time"] = 1,
+[20190521] = {
 ["attempts"] = 1,
 },
 [20200815] = {
 ["attempts"] = 2,
 },
-[20200803] = {
+[20200831] = {
 ["attempts"] = 1,
 },
-[20200807] = {
-["attempts"] = 1,
-},
-[20231009] = {
-["attempts"] = 1,
-},
-[20230905] = {
-["attempts"] = 1,
-},
-[20231029] = {
+[20190601] = {
 ["time"] = 1,
+["attempts"] = 1,
+},
+[20190617] = {
 ["attempts"] = 1,
 },
 [20200911] = {
@@ -9347,19 +9052,1625 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
+[20230610] = {
+["attempts"] = 1,
+},
+[20190713] = {
+["attempts"] = 1,
+},
+[20190729] = {
+["attempts"] = 1,
+},
+[20230722] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190825] = {
+["attempts"] = 1,
+},
+[20230802] = {
+["attempts"] = 1,
+},
+[20190905] = {
+["attempts"] = 1,
+},
+[20190921] = {
+["attempts"] = 1,
+},
+[20191001] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230930] = {
+["attempts"] = 2,
+},
+[20191113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190122] = {
+["attempts"] = 1,
+},
+[20191209] = {
+["attempts"] = 1,
+},
+[20190202] = {
+["attempts"] = 1,
+},
+[20230131] = {
+["attempts"] = 1,
+},
+[20231202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200528] = {
+["attempts"] = 1,
+},
+[20190330] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200608] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230323] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200704] = {
+["attempts"] = 1,
+},
+[20200720] = {
+["attempts"] = 1,
+},
+[20190506] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190522] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230531] = {
+["attempts"] = 1,
+},
+[20230611] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190730] = {
+["attempts"] = 1,
+},
+[20190810] = {
+["attempts"] = 1,
+},
+[20190826] = {
+["attempts"] = 1,
+},
+[20230819] = {
+["attempts"] = 1,
+},
+[20190922] = {
+["attempts"] = 1,
+},
+[20191002] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231011] = {
+["attempts"] = 1,
+},
+[20191114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191226] = {
+["attempts"] = 1,
+},
+[20190219] = {
+["time"] = 5.00400000001537,
+["attempts"] = 1,
+},
+[20231219] = {
+["attempts"] = 1,
+},
+[20190315] = {
+["attempts"] = 2,
+},
+[20190331] = {
+["attempts"] = 1,
+},
+[20200625] = {
+["attempts"] = 1,
+},
+[20190411] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190427] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200705] = {
+["attempts"] = 1,
+},
+[20200721] = {
+["attempts"] = 1,
+},
+[20260103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190523] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200801] = {
+["attempts"] = 1,
+},
+[20190603] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190619] = {
+["attempts"] = 1,
+},
+[20190715] = {
+["attempts"] = 2,
+},
+[20190811] = {
+["attempts"] = 1,
+},
+[20190827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200130] = {
+["attempts"] = 1,
+},
+[20191003] = {
+["attempts"] = 1,
+},
+[20191019] = {
+["attempts"] = 1,
+},
+[20200322] = {
+["attempts"] = 2,
+},
+[20200418] = {
+["attempts"] = 1,
+},
+[20231220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200530] = {
+["attempts"] = 3,
+},
+[20200610] = {
+["attempts"] = 1,
+},
+[20200626] = {
+["time"] = 1,
+},
+[20200706] = {
+["attempts"] = 1,
+},
+[20200722] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260104] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200818] = {
+["attempts"] = 1,
+},
+[20260216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200930] = {
+["attempts"] = 1,
+},
+[20260312] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230725] = {
+["attempts"] = 1,
+},
+[20201122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200307] = {
+["attempts"] = 1,
+},
+[20231029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240316] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231109] = {
+["time"] = 7.557999999960885,
+["attempts"] = 2,
+},
+[20231125] = {
+["attempts"] = 1,
+},
+[20240508] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200611] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200627] = {
+["attempts"] = 1,
+},
+[20230406] = {
+["attempts"] = 1,
+},
+[20200803] = {
+["attempts"] = 1,
+},
+[20230502] = {
+["attempts"] = 1,
+},
+[20230518] = {
+["attempts"] = 1,
+},
+[20230630] = {
+["attempts"] = 1,
+},
+[20201011] = {
+["attempts"] = 1,
+},
+[20201027] = {
+["attempts"] = 1,
+},
+[20201107] = {
+["attempts"] = 1,
+},
+[20201123] = {
+["attempts"] = 1,
+},
+[20200116] = {
+["time"] = 5.393999999971129,
+["attempts"] = 3,
+},
+[20230902] = {
+["attempts"] = 1,
+},
+[20230918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241228] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240221] = {
+["attempts"] = 1,
+},
+[20231014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231030] = {
+["attempts"] = 1,
+},
+[20200420] = {
+["attempts"] = 1,
+},
+[20200516] = {
+["attempts"] = 1,
+},
+[20200612] = {
+["attempts"] = 1,
+},
+[20200628] = {
+["attempts"] = 1,
+},
+[20230327] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200708] = {
+["time"] = 5.712999999988824,
+["attempts"] = 2,
+},
+[20260106] = {
+["attempts"] = 1,
+},
+[20230503] = {
+["attempts"] = 1,
+},
+[20260218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200916] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200101] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230919] = {
+["attempts"] = 1,
+},
+[20200229] = {
+["attempts"] = 1,
+},
+[20240206] = {
+["attempts"] = 1,
+},
+[20231015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200325] = {
+["attempts"] = 1,
+},
+[20200405] = {
+["attempts"] = 2,
+},
+[20231127] = {
+["attempts"] = 1,
+},
+[20240430] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200613] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200709] = {
+["attempts"] = 1,
+},
+[20200725] = {
+["attempts"] = 1,
+},
+[20230424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200821] = {
+["attempts"] = 1,
+},
+[20200901] = {
+["attempts"] = 1,
+},
+[20200102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200118] = {
+["attempts"] = 1,
+},
+[20210412] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210428] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201221] = {
+["attempts"] = 1,
+},
+[20200326] = {
+["attempts"] = 1,
+},
+[20240303] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200422] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231208] = {
+["attempts"] = 1,
+},
+[20210812] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200614] = {
+["attempts"] = 1,
+},
+[20200630] = {
+["attempts"] = 1,
+},
+[20210908] = {
+["attempts"] = 1,
+},
+[20200710] = {
+["attempts"] = 1,
+},
+[20200806] = {
+["attempts"] = 1,
+},
+[20200822] = {
+["attempts"] = 1,
+},
+[20230521] = {
+["attempts"] = 1,
+},
+[20211116] = {
+["attempts"] = 1,
+},
+[20230601] = {
+["attempts"] = 1,
+},
+[20211228] = {
+["attempts"] = 1,
+},
+[20210221] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201110] = {
+["attempts"] = 1,
+},
+[20200103] = {
+["attempts"] = 2,
+},
+[20200119] = {
+["attempts"] = 1,
+},
+[20241119] = {
+["attempts"] = 1,
+},
+[20201222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200215] = {
+["attempts"] = 2,
+},
+[20210525] = {
+["attempts"] = 1,
+},
+[20240208] = {
+["attempts"] = 1,
+},
+[20240224] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210605] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210621] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200407] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240416] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210829] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200615] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230314] = {
+["attempts"] = 1,
+},
+[20210925] = {
+["attempts"] = 2,
+},
+[20211021] = {
+["attempts"] = 1,
+},
+[20200807] = {
+["attempts"] = 1,
+},
+[20230506] = {
+["attempts"] = 1,
+},
+[20211101] = {
+["attempts"] = 1,
+},
 [20200903] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181013] = {
-["time"] = 18.1909999999916,
+[20211213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200104] = {
+["attempts"] = 1,
+},
+[20230826] = {
+["time"] = 6.837999999999738,
+["attempts"] = 2,
+},
+[20240129] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20231002] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210622] = {
+["attempts"] = 1,
+},
+[20240401] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240417] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200520] = {
+["attempts"] = 1,
+},
+[20210814] = {
+["attempts"] = 1,
+},
+[20210830] = {
+["attempts"] = 1,
+},
+[20200616] = {
+["attempts"] = 1,
+},
+[20200712] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20211006] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200808] = {
+["attempts"] = 1,
+},
+[20211102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211118] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200920] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211230] = {
+["attempts"] = 1,
+},
+[20230715] = {
+["time"] = 10.08699999999999,
+["attempts"] = 2,
+},
+[20230731] = {
+["attempts"] = 1,
+},
+[20180604] = {
+["attempts"] = 1,
+},
+[20200121] = {
+["attempts"] = 1,
+},
+[20180716] = {
+["attempts"] = 1,
+},
+[20200201] = {
+["attempts"] = 2,
+},
+[20240130] = {
+["attempts"] = 1,
+},
+[20180812] = {
+["attempts"] = 1,
+},
+[20180828] = {
+["attempts"] = 1,
+},
+[20210527] = {
+["attempts"] = 1,
+},
+[20200313] = {
+["time"] = 7.190999999991618,
+["attempts"] = 2,
+},
+[20180908] = {
+["time"] = 13.242,
+["attempts"] = 3,
+},
+[20210607] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210623] = {
+["attempts"] = 1,
+},
+[20200425] = {
+["attempts"] = 1,
+},
+[20200505] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20200521] = {
+["attempts"] = 1,
+},
+[20210815] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200617] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181228] = {
+["time"] = 1,
+},
+[20210927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200729] = {
+["attempts"] = 1,
+},
+[20211119] = {
+["attempts"] = 1,
+},
+[20200905] = {
+["attempts"] = 2,
+},
+[20200921] = {
+["attempts"] = 1,
+},
+[20211215] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180701] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180717] = {
+["attempts"] = 1,
+},
+[20201225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200218] = {
+["attempts"] = 1,
+},
+[20210512] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240211] = {
+["attempts"] = 1,
+},
+[20180909] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210608] = {
+["attempts"] = 1,
+},
+[20210624] = {
+["attempts"] = 1,
+},
+[20181021] = {
+["attempts"] = 1,
+},
+[20210816] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200602] = {
+["attempts"] = 1,
+},
+[20181229] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210912] = {
+["attempts"] = 1,
+},
+[20200714] = {
+["attempts"] = 1,
+},
+[20200730] = {
+["attempts"] = 1,
+},
+[20211008] = {
+["attempts"] = 1,
+},
+[20211104] = {
+["attempts"] = 1,
+},
+[20211120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200906] = {
+["attempts"] = 1,
+},
+[20211216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201002] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201114] = {
+["attempts"] = 1,
+},
+[20200107] = {
+["attempts"] = 1,
+},
+[20180702] = {
+["attempts"] = 1,
+},
+[20241123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240116] = {
+["attempts"] = 1,
+},
+[20180814] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180830] = {
+["attempts"] = 2,
+},
+[20210513] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210529] = {
+["attempts"] = 1,
+},
+[20200315] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210625] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200411] = {
+["attempts"] = 1,
+},
+[20200427] = {
+["attempts"] = 1,
+},
+[20181022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200523] = {
+["attempts"] = 2,
+},
+[20181102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181118] = {
+["attempts"] = 2,
+},
+[20200619] = {
+["attempts"] = 1,
+},
+[20210929] = {
+["attempts"] = 1,
+},
+[20200715] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200731] = {
+["attempts"] = 1,
+},
+[20211025] = {
+["time"] = 2,
 ["attempts"] = 2,
 },
 [20200923] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20210617] = {
+[20210210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201115] = {
+["attempts"] = 1,
+},
+[20180703] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180815] = {
+["attempts"] = 1,
+},
+[20240213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210610] = {
+["attempts"] = 2,
+},
+[20240309] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210818] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181215] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210914] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211010] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211106] = {
+["attempts"] = 1,
+},
+[20211122] = {
+["attempts"] = 2,
+},
+[20250108] = {
+["time"] = 1,
+},
+[20211218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260308] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20260119] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260102] = {
+["attempts"] = 1,
+},
+[20260118] = {
+["attempts"] = 2,
+},
+[20180704] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210403] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210419] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240118] = {
+["attempts"] = 1,
+},
+[20251218] = {
+["attempts"] = 1,
+},
+[20231209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250412] = {
+["attempts"] = 1,
+},
+[20180816] = {
+["attempts"] = 1,
+},
+[20251224] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251205] = {
+["time"] = 1,
+},
+[20220810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251015] = {
+["attempts"] = 1,
+},
+[20250706] = {
+["attempts"] = 1,
+},
+[20180912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210611] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210627] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251016] = {
+["attempts"] = 1,
+},
+[20200216] = {
+["attempts"] = 1,
+},
+[20250604] = {
+["attempts"] = 1,
+},
+[20251002] = {
+["attempts"] = 1,
+},
+[20181024] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180715] = {
+["attempts"] = 1,
+},
+[20250903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220927] = {
+["attempts"] = 1,
+},
+[20181104] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210819] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220911] = {
+["attempts"] = 1,
+},
+[20250930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250826] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250812] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181216] = {
+["time"] = 8.25699999998324,
+["attempts"] = 2,
+},
+[20210915] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250821] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210601] = {
+["attempts"] = 2,
+},
+[20250823] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250908] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220815] = {
+["attempts"] = 1,
+},
+[20190618] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240710] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250612] = {
+["time"] = 9.885999999998603,
+["attempts"] = 2,
+},
+[20251004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250418] = {
+["attempts"] = 1,
+},
+[20180806] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250715] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190209] = {
+["attempts"] = 1,
+},
+[20250710] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250711] = {
+["time"] = 13.78600000000006,
+["attempts"] = 2,
+},
+[20230628] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220528] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250125] = {
+["attempts"] = 1,
+},
+[20220107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220607] = {
+["attempts"] = 1,
+},
+[20190402] = {
+["attempts"] = 2,
+},
+[20230916] = {
+["attempts"] = 1,
+},
+[20210313] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250221] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20230324] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190102] = {
+["attempts"] = 1,
+},
+[20190322] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210528] = {
+["attempts"] = 1,
+},
+[20250301] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250317] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230928] = {
+["attempts"] = 1,
+},
+[20230111] = {
+["attempts"] = 1,
+},
+[20240119] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231008] = {
+["attempts"] = 1,
+},
+[20250413] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190726] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211129] = {
+["attempts"] = 1,
+},
+[20190906] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250411] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210612] = {
+["attempts"] = 1,
+},
+[20210628] = {
+["attempts"] = 1,
+},
+[20240327] = {
+["attempts"] = 1,
+},
+[20221001] = {
+["attempts"] = 2,
+},
+[20250605] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20190822] = {
+["attempts"] = 1,
+},
+[20181025] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240407] = {
+["attempts"] = 1,
+},
+[20240423] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190410] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220809] = {
+["attempts"] = 1,
+},
+[20250717] = {
+["attempts"] = 1,
+},
+[20181121] = {
+["attempts"] = 1,
+},
+[20250929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250419] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200316] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250214] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250423] = {
+["attempts"] = 1,
+},
+[20250829] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210916] = {
+["attempts"] = 1,
+},
+[20191218] = {
+["attempts"] = 1,
+},
+[20250503] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20220127] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250801] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221027] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211012] = {
+["attempts"] = 1,
+},
+[20211028] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230922] = {
+["attempts"] = 1,
+},
+[20250131] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180524] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190117] = {
+["attempts"] = 2,
+},
+[20211108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250107] = {
+["attempts"] = 1,
+},
+[20200128] = {
+["attempts"] = 1,
+},
+[20210911] = {
+["attempts"] = 1,
+},
+[20211220] = {
+["attempts"] = 1,
+},
+[20250126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180530] = {
+["attempts"] = 1,
+},
+[20190404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210907] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20240112] = {
+["time"] = 16.25799999991432,
+["attempts"] = 2,
+},
+[20250206] = {
+["attempts"] = 1,
+},
+[20250222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180626] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220910] = {
+["attempts"] = 1,
+},
+[20220507] = {
+["attempts"] = 1,
+},
+[20190320] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250302] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180706] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180711] = {
+["attempts"] = 1,
+},
+[20210421] = {
+["attempts"] = 1,
+},
+[20200308] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180901] = {
+["attempts"] = 2,
+},
+[20210501] = {
+["attempts"] = 1,
+},
+[20250414] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250430] = {
+["attempts"] = 2,
+},
+[20210517] = {
+["attempts"] = 1,
+},
+[20220115] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20220807] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210629] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250510] = {
+["attempts"] = 2,
+},
+[20250526] = {
+["attempts"] = 1,
+},
+[20210613] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240312] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220111] = {
+["attempts"] = 1,
+},
+[20200224] = {
+["attempts"] = 1,
+},
+[20220907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211225] = {
+["attempts"] = 1,
+},
+[20181026] = {
+["attempts"] = 1,
+},
+[20240408] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20240424] = {
+["attempts"] = 1,
+},
+[20250718] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250702] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181106] = {
+["attempts"] = 1,
+},
+[20181122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210821] = {
+["attempts"] = 1,
+},
+[20230914] = {
+["attempts"] = 1,
+},
+[20220827] = {
+["attempts"] = 1,
+},
+[20210901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250814] = {
+["time"] = 10.64699999999721,
+["attempts"] = 2,
+},
+[20181218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210917] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190224] = {
+["attempts"] = 1,
+},
+[20201124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221014] = {
+["attempts"] = 1,
+},
+[20190428] = {
+["attempts"] = 1,
+},
+[20220220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180629] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200620] = {
+["attempts"] = 1,
+},
+[20190324] = {
+["attempts"] = 1,
+},
+[20251006] = {
+["attempts"] = 1,
+},
+[20251022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190809] = {
+["attempts"] = 1,
+},
+[20210102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221111] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250129] = {
+["attempts"] = 1,
+},
+[20251118] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -9369,163 +10680,325 @@ RarityDB = {
 [20250127] = {
 ["attempts"] = 1,
 },
-[20201011] = {
+[20210214] = {
 ["attempts"] = 1,
 },
-[20250119] = {
-["attempts"] = 1,
-},
-[20250123] = {
-["attempts"] = 2,
-},
-[20250228] = {
+[20250113] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
-[20250207] = {
+[20180515] = {
+["attempts"] = 1,
+},
+[20251214] = {
+["attempts"] = 1,
+},
+[20251230] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20250223] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250211] = {
-["time"] = 1,
+[20180627] = {
 ["attempts"] = 1,
 },
-[20201123] = {
+[20210326] = {
 ["attempts"] = 1,
 },
-[20180716] = {
+[20180630] = {
 ["attempts"] = 1,
 },
-[20180704] = {
-["time"] = 1,
+[20180707] = {
 ["attempts"] = 1,
 },
-[20180708] = {
+[20250303] = {
 ["attempts"] = 1,
 },
 [20250319] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250307] = {
+[20231210] = {
+["attempts"] = 1,
+},
+[20240105] = {
+["attempts"] = 1,
+},
+[20240121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200305] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250316] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250415] = {
+["attempts"] = 1,
+},
+[20180601] = {
+["attempts"] = 1,
+},
+[20250228] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200209] = {
+["attempts"] = 2,
+},
+[20230105] = {
+["attempts"] = 1,
+},
+[20220812] = {
+["attempts"] = 1,
+},
+[20220828] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20250311] = {
+[20180915] = {
+["attempts"] = 1,
+},
+[20181018] = {
+["attempts"] = 1,
+},
+[20191017] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250315] = {
+[20240329] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181011] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180828] = {
+[20220924] = {
+["attempts"] = 1,
+},
+[20250623] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210626] = {
+["attempts"] = 1,
+},
+[20181107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240425] = {
+["attempts"] = 1,
+},
+[20221004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221020] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250719] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220830] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180923] = {
+["time"] = 4.13400000002002,
+["attempts"] = 1,
+},
+[20230929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250816] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240131] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220125] = {
+["attempts"] = 1,
+},
+[20250313] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190419] = {
+["time"] = 12.3969999998808,
+["attempts"] = 2,
+},
+[20230905] = {
+["attempts"] = 1,
+},
+[20221024] = {
+["attempts"] = 1,
+},
+[20250911] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250927] = {
+["time"] = 9.06600000000617,
+["attempts"] = 2,
+},
+[20200213] = {
+["attempts"] = 2,
+},
+[20250704] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20220904] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190407] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20251007] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210530] = {
+["attempts"] = 1,
+},
+[20211002] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191123] = {
+["attempts"] = 1,
+},
+[20200309] = {
+["attempts"] = 2,
+},
+[20191115] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250409] = {
+["attempts"] = 1,
+},
+[20251119] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190903] = {
+["attempts"] = 1,
+},
+[20250112] = {
+["attempts"] = 1,
+},
+[20250128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190323] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250224] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220525] = {
+["attempts"] = 1,
+},
+[20250208] = {
+["attempts"] = 1,
+},
+[20180628] = {
+["time"] = 9.01399999999558,
+["attempts"] = 2,
+},
+[20190819] = {
+["attempts"] = 1,
+},
+[20190923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190723] = {
+["attempts"] = 1,
+},
+[20250304] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210519] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240106] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180820] = {
+["attempts"] = 2,
+},
+[20250416] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220712] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20180804] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20180820] = {
-["attempts"] = 2,
-},
-[20180824] = {
-["attempts"] = 1,
-},
-[20221031] = {
-["attempts"] = 1,
-},
-[20180908] = {
-["time"] = 13.242,
-["attempts"] = 3,
-},
-[20220903] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180912] = {
+[20210503] = {
 ["time"] = 1,
 ["attempts"] = 1,
+},
+[20240202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180708] = {
+["attempts"] = 1,
+},
+[20191211] = {
+["attempts"] = 2,
+},
+[20220813] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221125] = {
+["time"] = 1,
+["attempts"] = 2,
 },
 [20180916] = {
 ["attempts"] = 1,
 },
-[20200324] = {
-["attempts"] = 1,
-},
-[20211205] = {
-["attempts"] = 1,
-},
-[20200204] = {
-["attempts"] = 2,
-},
-[20200104] = {
-["attempts"] = 1,
-},
-[20230112] = {
-["attempts"] = 1,
-},
-[20181024] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210925] = {
-["attempts"] = 2,
-},
-[20211101] = {
-["attempts"] = 1,
-},
-[20230204] = {
-["attempts"] = 1,
-},
-[20230220] = {
-["attempts"] = 1,
-},
-[20230208] = {
-["attempts"] = 1,
-},
-[20181108] = {
-["attempts"] = 1,
-},
-[20190906] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230916] = {
-["attempts"] = 1,
-},
-[20190626] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230924] = {
-["attempts"] = 1,
-},
-[20181228] = {
-["time"] = 1,
-},
-[20181216] = {
-["time"] = 8.25699999998324,
-["attempts"] = 2,
-},
-[20181220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181224] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231104] = {
-["attempts"] = 1,
-},
-[20240206] = {
-["attempts"] = 1,
-},
-[20230428] = {
+[20251231] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -9533,124 +11006,578 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190618] = {
+[20210215] = {
+["attempts"] = 1,
+},
+[20250601] = {
+["attempts"] = 1,
+},
+[20220925] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250608] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230424] = {
+[20250624] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240130] = {
+[20200517] = {
 ["attempts"] = 1,
 },
-[20211213] = {
+[20231013] = {
+["attempts"] = 1,
+},
+[20221005] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
+[20221021] = {
+["attempts"] = 1,
 },
-["attempts"] = 1132,
+[20181108] = {
+["attempts"] = 1,
 },
-["Grappling Gauntlet"] = {
-["known"] = true,
-["attempts"] = 162,
-["enabled"] = false,
-["found"] = true,
-["time"] = 4975.443999999941,
-["dates"] = {
-[20210720] = {
+[20240127] = {
 ["time"] = 1,
-["attempts"] = 3,
+["attempts"] = 1,
 },
-[20210706] = {
-["time"] = 435.0140000000247,
-["attempts"] = 16,
+[20250505] = {
+["time"] = 2,
+["attempts"] = 2,
 },
-[20210707] = {
-["time"] = 91.8650000000489,
-["attempts"] = 6,
+[20231025] = {
+["attempts"] = 1,
 },
-[20210723] = {
-["time"] = 198.7580000000016,
-["attempts"] = 5,
+[20180818] = {
+["attempts"] = 1,
 },
-[20210710] = {
-["time"] = 1011.39599999995,
-["attempts"] = 14,
+[20230529] = {
+["attempts"] = 1,
 },
-[20210801] = {
-["time"] = 393.3630000000121,
-["attempts"] = 13,
+[20230501] = {
+["attempts"] = 1,
 },
-[20210802] = {
-["time"] = 867.4679999999935,
-["attempts"] = 15,
-},
-[20210731] = {
-["time"] = 333.7670000000071,
-["attempts"] = 10,
-},
-[20210702] = {
-["time"] = 58.35300000000007,
-["attempts"] = 17,
-},
-[20210716] = {
-["time"] = 339.8759999999893,
-["attempts"] = 5,
-},
-[20210717] = {
-["attempts"] = 15,
-},
-[20210722] = {
-["time"] = 745.125,
-["attempts"] = 16,
-},
-[20210719] = {
-["time"] = 498.4589999999153,
-["attempts"] = 24,
-},
-[20210730] = {
+[20210903] = {
 ["time"] = 1,
-["attempts"] = 3,
+["attempts"] = 1,
+},
+[20231017] = {
+["attempts"] = 1,
+},
+[20200113] = {
+["attempts"] = 2,
+},
+[20220612] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250524] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181113] = {
+["attempts"] = 1,
+},
+[20220222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250607] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211031] = {
+["attempts"] = 1,
+},
+[20230418] = {
+["attempts"] = 1,
+},
+[20250404] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180825] = {
+["attempts"] = 1,
+},
+[20251008] = {
+["attempts"] = 1,
+},
+[20251024] = {
+["attempts"] = 1,
+},
+[20211127] = {
+["attempts"] = 1,
+},
+[20180705] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200419] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180905] = {
+["attempts"] = 1,
+},
+[20250207] = {
+["attempts"] = 1,
+},
+[20250117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211221] = {
+["attempts"] = 1,
+},
+[20211205] = {
+["attempts"] = 1,
+},
+[20181017] = {
+["time"] = 58.7289999998175,
+["attempts"] = 2,
+},
+[20220526] = {
+["attempts"] = 1,
+},
+[20250209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220903] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180811] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180509] = {
+["attempts"] = 1,
+},
+[20190821] = {
+["attempts"] = 1,
+},
+[20250305] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250321] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240123] = {
+["attempts"] = 1,
+},
+[20220702] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190104] = {
+["attempts"] = 1,
+},
+[20180805] = {
+["attempts"] = 1,
+},
+[20250417] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180914] = {
+["attempts"] = 1,
+},
+[20231126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250513] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250529] = {
+["attempts"] = 1,
+},
+[20250318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240331] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190204] = {
+["attempts"] = 1,
+},
+[20220723] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181013] = {
+["time"] = 18.1909999999916,
+["attempts"] = 2,
+},
+[20181029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240411] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220407] = {
+["attempts"] = 1,
+},
+[20200324] = {
+["attempts"] = 1,
+},
+[20200124] = {
+["attempts"] = 1,
+},
+[20250323] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181125] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190904] = {
+["attempts"] = 1,
+},
+[20221102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190412] = {
+["attempts"] = 1,
+},
+[20181205] = {
+["attempts"] = 1,
+},
+[20250817] = {
+["attempts"] = 1,
+},
+[20210920] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191222] = {
+["attempts"] = 1,
+},
+[20181217] = {
+["attempts"] = 1,
+},
+[20190918] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190524] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211016] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180904] = {
+["attempts"] = 2,
+},
+[20250118] = {
+["attempts"] = 1,
+},
+[20190604] = {
+["attempts"] = 1,
+},
+[20190722] = {
+["attempts"] = 2,
+},
+[20250309] = {
+["attempts"] = 1,
+},
+[20251025] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250518] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190716] = {
+["attempts"] = 1,
+},
+[20220415] = {
+["attempts"] = 1,
+},
+[20190126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250114] = {
+["attempts"] = 1,
+},
+[20250130] = {
+["attempts"] = 1,
+},
+[20181115] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190812] = {
+["attempts"] = 1,
+},
+[20190828] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231222] = {
+["attempts"] = 1,
+},
+[20250210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250226] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230904] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190908] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190924] = {
+["attempts"] = 1,
+},
+[20220724] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180710] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250627] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220106] = {
+["attempts"] = 1,
+},
+[20191004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191020] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220719] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250402] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180822] = {
+["attempts"] = 1,
+},
+[20250820] = {
+["attempts"] = 1,
+},
+[20250614] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191116] = {
+["attempts"] = 1,
+},
+[20190109] = {
+["attempts"] = 2,
+},
+[20250919] = {
+["attempts"] = 1,
+},
+[20250514] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210617] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250805] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191212] = {
+["attempts"] = 1,
+},
+[20191228] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190221] = {
+["attempts"] = 1,
+},
+[20181014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220818] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231026] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221007] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221023] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181110] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250722] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230321] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221103] = {
+["attempts"] = 1,
+},
+[20190413] = {
+["attempts"] = 1,
+},
+[20180714] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210921] = {
+["attempts"] = 1,
+},
+[20260210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260213] = {
+["time"] = 14.38000000000466,
+["attempts"] = 2,
+},
+[20260306] = {
+["attempts"] = 1,
 },
 },
+["attempts"] = 1278,
 },
-["Budding Algan"] = {
-["lastAttempts"] = 4,
+["Vial of Roiling Emotions"] = {
+["lastAttempts"] = 3,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 4,
+["totalAttempts"] = 3,
 ["time"] = 3,
 ["totalTime"] = 3,
-["attempts"] = 4,
+["attempts"] = 3,
 },
 },
 ["time"] = 3,
 ["dates"] = {
-[20191111] = {
+[20210216] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190927] = {
+[20210226] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200212] = {
+[20210502] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190914] = {
-["attempts"] = 1,
 },
-},
-["attempts"] = 4,
+["attempts"] = 3,
 ["enabled"] = false,
-["realAttempts"] = 4,
+["realAttempts"] = 3,
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 3,
+},
+["Ice Chip"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
 },
 ["Aquapo"] = {
 ["time"] = 1,
@@ -9775,8 +11702,8 @@ RarityDB = {
 [20190816] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -9856,7 +11783,7 @@ RarityDB = {
 [20191218] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -9919,7 +11846,7 @@ RarityDB = {
 [20190928] = {
 ["attempts"] = 1,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
 [20190904] = {
@@ -9946,20 +11873,118 @@ RarityDB = {
 [20200826] = {
 ["attempts"] = 3,
 },
-[20190802] = {
-["attempts"] = 3,
+[20200827] = {
+["attempts"] = 4,
 },
 },
 ["attempts"] = 300,
 },
-["Shard of Supremus"] = {
-["enabled"] = false,
+["Ambre"] = {
+["lastAttempts"] = 26,
 ["known"] = true,
-["found"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 26,
+["time"] = 438.2399999999907,
+["totalTime"] = 438.2399999999907,
+["attempts"] = 26,
 },
-["Toxic Wasteling"] = {
-["known"] = true,
+},
+["time"] = 438.2399999999907,
+["dates"] = {
+[20231024] = {
+["attempts"] = 1,
+},
+[20230901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230917] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20231112] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231025] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230906] = {
+["attempts"] = 1,
+},
+[20230922] = {
+["attempts"] = 1,
+},
+[20231109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231026] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231028] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230924] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231027] = {
+["time"] = 419.2399999999907,
+["attempts"] = 3,
+},
+[20231019] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230916] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20231118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 26,
 ["enabled"] = false,
+["realAttempts"] = 26,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 438.2399999999907,
+},
+["Eye of Inquisition"] = {
+["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
 ["Droplet of Y'Shaarj"] = {
@@ -9988,118 +12013,332 @@ RarityDB = {
 },
 },
 },
-["Cat Carrier (Black Tabby)"] = {
-["time"] = 1623.55400000012,
+["Devoured Wader"] = {
+["time"] = 6,
 ["dates"] = {
-[20201027] = {
-["time"] = 1053.038000000059,
-["attempts"] = 21,
+[20210312] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20241231] = {
-["time"] = 570.5160000000615,
+[20220517] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220206] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210509] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250306] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210917] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
 ["attempts"] = 6,
 },
+["Inquisitive Cosmic Ray Pup"] = {
+["time"] = 2,
+["dates"] = {
+[20260216] = {
+["time"] = 1,
+["attempts"] = 2,
 },
-["attempts"] = 27,
+[20250923] = {
+["attempts"] = 1,
 },
-["Porcupette"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+[20260121] = {
+["attempts"] = 1,
 },
-["Writhing Spine"] = {
-["lastAttempts"] = 33,
+[20251209] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20260214] = {
+["attempts"] = 2,
+},
+[20260306] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20260219] = {
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20260220] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 25,
+},
+["Mosscoated Hopper"] = {
+["lastAttempts"] = 7,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 33,
-["time"] = 21,
-["totalTime"] = 21,
-["attempts"] = 33,
+["totalAttempts"] = 7,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 7,
 },
 },
-["time"] = 21,
+["time"] = 5,
 ["dates"] = {
-[20221116] = {
+[20210818] = {
+["attempts"] = 1,
+},
+[20211021] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221104] = {
-["attempts"] = 2,
-},
-[20221009] = {
+[20210916] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221013] = {
-["attempts"] = 2,
+[20211001] = {
+["attempts"] = 1,
 },
-[20221017] = {
+[20211124] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221025] = {
-["attempts"] = 1,
-},
-[20221016] = {
+[20210830] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221115] = {
-["attempts"] = 1,
-},
-[20210324] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221113] = {
+[20211112] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221014] = {
+},
+["attempts"] = 7,
+["enabled"] = false,
+["realAttempts"] = 7,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 5,
+},
+["Instant Arcane Sanctum Security Kit"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Craboom"] = {
+["lastAttempts"] = 20,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 20,
+["time"] = 20,
+["totalTime"] = 20,
+["attempts"] = 20,
+},
+},
+["time"] = 20,
+["dates"] = {
+[20250907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250602] = {
 ["time"] = 2,
-["attempts"] = 1,
-},
-[20221018] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210618] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221029] = {
-["attempts"] = 1,
-},
-[20221106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221110] = {
-["time"] = 1,
 ["attempts"] = 2,
 },
-[20221011] = {
+[20250702] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221015] = {
+[20250528] = {
+["time"] = 1,
+},
+[20250814] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221019] = {
+[20250818] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221020] = {
+[20250608] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20210623] = {
+[20250727] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250628] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250624] = {
+["attempts"] = 1,
+},
+[20250902] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250716] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250711] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250601] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250526] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250625] = {
+["time"] = 1,
+},
+[20250527] = {
+["attempts"] = 1,
+},
+[20250903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250614] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 20,
+["enabled"] = false,
+["realAttempts"] = 20,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 20,
+},
+["Torghast Lurker"] = {
+["lastAttempts"] = 27,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 27,
+["time"] = 24,
+["totalTime"] = 24,
+["attempts"] = 27,
+},
+},
+["time"] = 24,
+["dates"] = {
+[20201220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210125] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210129] = {
+["attempts"] = 1,
+},
+[20210110] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210201] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210217] = {
+["attempts"] = 1,
+},
+[20210106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201218] = {
+["attempts"] = 1,
+},
+[20210210] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20210127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210107] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201229] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -10107,50 +12346,85 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221107] = {
+[20210122] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20210119] = {
+["time"] = 2,
 ["attempts"] = 2,
 },
-[20211116] = {
+[20201228] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221012] = {
+[20210226] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221028] = {
-["time"] = 1,
-["attempts"] = 1,
 },
-[20221026] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 33,
+["attempts"] = 27,
 ["enabled"] = false,
-["realAttempts"] = 33,
+["realAttempts"] = 27,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 21,
-},
-["Instant Arcane Sanctum Security Kit"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Undulating Blue Sac"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["lastTime"] = 24,
 },
 ["Grumpling"] = {
-["known"] = true,
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Gu'chi Swarmling"] = {
-["enabled"] = false,
+["Poro"] = {
+["lastAttempts"] = 51,
 ["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 51,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 51,
+},
+},
+["dates"] = {
+[20181215] = {
+["attempts"] = 4,
+},
+[20190217] = {
+["attempts"] = 2,
+},
+[20190414] = {
+["attempts"] = 1,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20180923] = {
+["attempts"] = 7,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190302] = {
+["attempts"] = 4,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+},
+["attempts"] = 51,
+["enabled"] = false,
+["realAttempts"] = 51,
+["totalFinds"] = 1,
 ["found"] = true,
 },
 ["Doomrubble"] = {
@@ -10300,7 +12574,7 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 30,
 },
-["Box Labeled \"Danger: Void Rat Inside\""] = {
+["Jewel of Maddening Whispers"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -10308,8 +12582,9 @@ RarityDB = {
 ["Gilded Wader"] = {
 ["time"] = 368.4389999998966,
 ["dates"] = {
-[20221112] = {
-["attempts"] = 1,
+[20221031] = {
+["time"] = 68.52499999990687,
+["attempts"] = 2,
 },
 [20211021] = {
 ["time"] = 1,
@@ -10319,8 +12594,7 @@ RarityDB = {
 ["time"] = 294.9139999999898,
 ["attempts"] = 4,
 },
-[20250120] = {
-["time"] = 1,
+[20221112] = {
 ["attempts"] = 1,
 },
 [20211110] = {
@@ -10331,17 +12605,49 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221031] = {
-["time"] = 68.52499999990687,
-["attempts"] = 2,
+[20250120] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
 ["attempts"] = 12,
 },
-["Imbued Jade Fragment"] = {
-["enabled"] = false,
+["Celestial Gift"] = {
+["lastAttempts"] = 6,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 6,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20191126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191016] = {
+["attempts"] = 1,
+},
+[20191017] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191023] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 3,
 },
 ["Corrupted Nest Guardian"] = {
 ["lastAttempts"] = 23,
@@ -10663,14 +12969,14 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Nerubian Relic"] = {
+["Zandalari Anklerender"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Severs"] = {
-["enabled"] = false,
+["Eye of Extermination"] = {
 ["known"] = true,
+["enabled"] = false,
 ["found"] = true,
 },
 ["Skittering Venomspitter"] = {
@@ -10699,20 +13005,20 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 281.1460000000079,
 },
-["Void-Scarred Anubisath"] = {
-["lastAttempts"] = 14,
+["Sludge Feeler"] = {
+["lastAttempts"] = 9,
 ["known"] = true,
 ["finds"] = {
 {
 ["time"] = 0,
 ["num"] = 1,
-["totalAttempts"] = 14,
-["attempts"] = 14,
+["totalAttempts"] = 9,
+["attempts"] = 9,
 },
 },
-["attempts"] = 14,
+["attempts"] = 9,
 ["enabled"] = false,
-["realAttempts"] = 14,
+["realAttempts"] = 9,
 ["totalFinds"] = 1,
 ["found"] = true,
 },
@@ -10852,104 +13158,10 @@ RarityDB = {
 },
 ["attempts"] = 155,
 },
-["Torghast Lurker"] = {
-["lastAttempts"] = 27,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 27,
-["time"] = 24,
-["totalTime"] = 24,
-["attempts"] = 27,
-},
-},
-["time"] = 24,
-["dates"] = {
-[20201220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210125] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210129] = {
-["attempts"] = 1,
-},
-[20210110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210201] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210217] = {
-["attempts"] = 1,
-},
-[20210106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201218] = {
-["attempts"] = 1,
-},
-[20210210] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20210127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210107] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201229] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210122] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20210119] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20201228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210226] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 27,
+["Spirit of the Spring"] = {
 ["enabled"] = false,
-["realAttempts"] = 27,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 24,
 },
 ["Rotting Ghoul"] = {
 ["lastAttempts"] = 259,
@@ -11204,63 +13416,333 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Blazing Rune"] = {
+["Dark Whelpling"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
 ["Frightened Bush Chicken"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
-["Fossorial Bile Larva"] = {
+["Nightmare Whelpling"] = {
+["known"] = true,
+["attempts"] = 31,
+["enabled"] = false,
+["found"] = true,
+},
+["Parrot Cage (Hyacinth Macaw)"] = {
+["time"] = 17130.364,
 ["dates"] = {
 [20181110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181022] = {
-["time"] = 11.0150000001304,
-["attempts"] = 4,
-},
-[20181127] = {
+["time"] = 2,
 ["attempts"] = 2,
 },
-[20181115] = {
-["attempts"] = 9,
-},
-[20181026] = {
-["time"] = 42.2569999999832,
-["attempts"] = 9,
-},
-[20181029] = {
-["time"] = 499.666999999899,
-["attempts"] = 38,
-},
-[20181120] = {
-["time"] = 30.6969999999856,
-["attempts"] = 9,
-},
-[20181031] = {
-["time"] = 353.792000000365,
-["attempts"] = 28,
-},
-[20181104] = {
-["time"] = 92.2979999999516,
-["attempts"] = 12,
-},
-[20190109] = {
+[20181126] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20241206] = {
-["time"] = 1455.947999999975,
-["attempts"] = 123,
+[20190126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200812] = {
+["attempts"] = 204,
+},
+[20220529] = {
+["time"] = 3028.940999999992,
+["attempts"] = 98,
+},
+[20190305] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200813] = {
+["time"] = 4998.631000000052,
+["attempts"] = 312,
+},
+[20181104] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190322] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190227] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241112] = {
+["time"] = 2099.83899999992,
+["attempts"] = 93,
+},
+[20240401] = {
+["time"] = 263.410000000149,
+["attempts"] = 19,
+},
+[20190330] = {
+["time"] = 179.21399999992,
+["attempts"] = 12,
+},
+[20181212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200811] = {
+["attempts"] = 93,
+},
+[20181031] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230920] = {
+["time"] = 2305.413000000001,
+["attempts"] = 195,
+},
+[20181209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200814] = {
+["time"] = 4241.915999999968,
+["attempts"] = 175,
 },
 },
-["attempts"] = 236,
-["time"] = 2487.674000000295,
+["attempts"] = 1214,
+},
+["Korthian Specimen"] = {
+["lastAttempts"] = 56,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 56,
+["time"] = 41,
+["totalTime"] = 41,
+["attempts"] = 56,
+},
+},
+["time"] = 41,
+["dates"] = {
+[20221104] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20210819] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221029] = {
+["attempts"] = 1,
+},
+[20221113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210927] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20211118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221125] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20221114] = {
+["attempts"] = 4,
+},
+[20221030] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20220320] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250128] = {
+["time"] = 3,
+["attempts"] = 7,
+},
+[20221126] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20220114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221110] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211119] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221027] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20221031] = {
+["attempts"] = 1,
+},
+[20221112] = {
+["time"] = 3,
+["attempts"] = 7,
+},
+[20210913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210816] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220115] = {
+["attempts"] = 1,
+},
+[20220107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221028] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 56,
+["enabled"] = false,
+["realAttempts"] = 56,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 41,
+},
+["Undying Deathroach"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Spineclaw Crab"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Core of Hardened Ash"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Clockwork Rocket Bot"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Strand Crawler"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Servant's Bell"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Land Shark"] = {
+["time"] = 2,
+["dates"] = {
+[20180715] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20190106] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 7,
+},
+["Sharpclaw"] = {
+["lastAttempts"] = 6,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 6,
+},
+},
+["time"] = 5,
+["dates"] = {
+[20210216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250225] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20201220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250312] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 5,
+},
+["Spraybot 0D"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Wicked Lurker"] = {
 ["lastAttempts"] = 23,
@@ -11365,6 +13847,200 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 19,
 },
+["Lucy's Lost Collar"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Bakar Companion"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Stormwrath"] = {
+["time"] = 1,
+["dates"] = {
+[20200228] = {
+["attempts"] = 1,
+},
+[20200511] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+},
+["Whistle of Chromatic Bone"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Fuzzy Creepling"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Smelly Gravestone"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Ohuna Companion"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Blaise"] = {
+["lastAttempts"] = 5,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 5,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 5,
+},
+},
+["time"] = 5,
+["dates"] = {
+[20230901] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20230824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230906] = {
+["attempts"] = 1,
+},
+[20230907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 5,
+["enabled"] = false,
+["realAttempts"] = 5,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 5,
+},
+["Animated Tome"] = {
+["lastAttempts"] = 13,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 13,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 13,
+},
+},
+["time"] = 10,
+["dates"] = {
+[20210630] = {
+["attempts"] = 1,
+},
+[20210826] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210619] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210728] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210609] = {
+["attempts"] = 2,
+},
+[20210821] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210719] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210628] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210825] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 13,
+["enabled"] = false,
+["realAttempts"] = 13,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
+},
+["Imbued Jade Fragment"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
 ["Golden Eye"] = {
 ["lastAttempts"] = 11,
 ["known"] = true,
@@ -11395,11 +14071,11 @@ RarityDB = {
 ["time"] = 826.015999999945,
 ["attempts"] = 4,
 },
-[20210721] = {
+[20210728] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210728] = {
+[20210721] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -11410,934 +14086,6 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 1412.165999999968,
-},
-["Undying Deathroach"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Spineclaw Crab"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Core of Hardened Ash"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Bronze Proto-Whelp"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Korthian Specimen"] = {
-["lastAttempts"] = 56,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 56,
-["time"] = 41,
-["totalTime"] = 41,
-["attempts"] = 56,
-},
-},
-["time"] = 41,
-["dates"] = {
-[20221104] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20210819] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221029] = {
-["attempts"] = 1,
-},
-[20211118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210927] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221109] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221125] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20221126] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20221030] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20211114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250128] = {
-["time"] = 3,
-["attempts"] = 7,
-},
-[20221114] = {
-["attempts"] = 4,
-},
-[20220114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211119] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221027] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221031] = {
-["attempts"] = 1,
-},
-[20221112] = {
-["time"] = 3,
-["attempts"] = 7,
-},
-[20210913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210816] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220115] = {
-["attempts"] = 1,
-},
-[20220107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220320] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221028] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 56,
-["enabled"] = false,
-["realAttempts"] = 56,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 41,
-},
-["Black Chitinous Plate"] = {
-["lastAttempts"] = 18,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 18,
-["time"] = 16,
-["totalTime"] = 16,
-["attempts"] = 18,
-},
-},
-["time"] = 16,
-["dates"] = {
-[20200130] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200521] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200327] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200512] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200513] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200315] = {
-["attempts"] = 1,
-},
-[20200317] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200318] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200423] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200229] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200425] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200412] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200511] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200522] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 18,
-["enabled"] = false,
-["realAttempts"] = 18,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 16,
-},
-["Mana-Warped Egg"] = {
-["lastAttempts"] = 6,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 6,
-["time"] = 6,
-["totalTime"] = 6,
-["attempts"] = 6,
-},
-},
-["time"] = 6,
-["dates"] = {
-[20181216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 6,
-["enabled"] = false,
-["realAttempts"] = 6,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 6,
-},
-["Berylmane"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Murgle"] = {
-["lastAttempts"] = 4,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 4,
-["time"] = 4,
-["totalTime"] = 4,
-["attempts"] = 4,
-},
-},
-["time"] = 4,
-["dates"] = {
-[20190830] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190816] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200820] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 4,
-["enabled"] = false,
-["realAttempts"] = 4,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 4,
-},
-["Trapped Stonefiend"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Echo of the Depths"] = {
-["lastAttempts"] = 2234,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2234,
-["time"] = 37769.86500000034,
-["totalTime"] = 37769.86500000034,
-["attempts"] = 2234,
-},
-},
-["time"] = 37769.86500000034,
-["dates"] = {
-[20230925] = {
-["time"] = 1140.820000000002,
-["attempts"] = 59,
-},
-[20230905] = {
-["time"] = 360.2489999999998,
-["attempts"] = 29,
-},
-[20230917] = {
-["time"] = 1383.638999999996,
-["attempts"] = 103,
-},
-[20231112] = {
-["time"] = 292.9539999999106,
-["attempts"] = 48,
-},
-[20231208] = {
-["time"] = 888.3080000001937,
-["attempts"] = 68,
-},
-[20230929] = {
-["time"] = 477.2289999999994,
-["attempts"] = 23,
-},
-[20231009] = {
-["time"] = 92.12300000002142,
-["attempts"] = 4,
-},
-[20231001] = {
-["time"] = 77.0509999999922,
-["attempts"] = 15,
-},
-[20231013] = {
-["attempts"] = 3,
-},
-[20230830] = {
-["time"] = 39.88900000000285,
-["attempts"] = 3,
-},
-[20231113] = {
-["time"] = 1055.727000000072,
-["attempts"] = 63,
-},
-[20231117] = {
-["time"] = 2691.167999999998,
-["attempts"] = 192,
-},
-[20230918] = {
-["time"] = 534.6499999999942,
-["attempts"] = 18,
-},
-[20231209] = {
-["time"] = 1527.871000000043,
-["attempts"] = 125,
-},
-[20230910] = {
-["time"] = 1,
-["attempts"] = 6,
-},
-[20230926] = {
-["time"] = 1604.369000000001,
-["attempts"] = 72,
-},
-[20230902] = {
-["time"] = 196.2200000000016,
-["attempts"] = 5,
-},
-[20230930] = {
-["time"] = 279.9909999999982,
-["attempts"] = 30,
-},
-[20230922] = {
-["time"] = 1394.707999999995,
-["attempts"] = 71,
-},
-[20231205] = {
-["attempts"] = 27,
-},
-[20231006] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231027] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231010] = {
-["time"] = 105.7939999999944,
-["attempts"] = 4,
-},
-[20231002] = {
-["time"] = 3,
-["attempts"] = 15,
-},
-[20231030] = {
-["time"] = 1440.599999999977,
-["attempts"] = 44,
-},
-[20230831] = {
-["time"] = 1098.565999999999,
-["attempts"] = 25,
-},
-[20231102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231031] = {
-["time"] = 705.0740000000224,
-["attempts"] = 9,
-},
-[20230827] = {
-["time"] = 3547.939999999999,
-["attempts"] = 47,
-},
-[20231122] = {
-["attempts"] = 7,
-},
-[20231114] = {
-["attempts"] = 7,
-},
-[20231130] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230903] = {
-["time"] = 2257.355,
-["attempts"] = 45,
-},
-[20230907] = {
-["time"] = 750.6360000000004,
-["attempts"] = 28,
-},
-[20231202] = {
-["time"] = 1976.169999999926,
-["attempts"] = 114,
-},
-[20231103] = {
-["time"] = 500.9220000000059,
-["attempts"] = 47,
-},
-[20231007] = {
-["attempts"] = 3,
-},
-[20231023] = {
-["time"] = 251.6330000000307,
-["attempts"] = 21,
-},
-[20231011] = {
-["time"] = 278.7929999999469,
-["attempts"] = 27,
-},
-[20231015] = {
-["time"] = 49.05900000000111,
-["attempts"] = 6,
-},
-[20231019] = {
-["time"] = 1211.942000000039,
-["attempts"] = 94,
-},
-[20230924] = {
-["time"] = 2164.665999999999,
-["attempts"] = 107,
-},
-[20230820] = {
-["attempts"] = 45,
-},
-[20230824] = {
-["time"] = 135.1419999999998,
-["attempts"] = 7,
-},
-[20231107] = {
-["time"] = 437.1499999999651,
-["attempts"] = 53,
-},
-[20231004] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231115] = {
-["time"] = 511.7569999999832,
-["attempts"] = 71,
-},
-[20230912] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230928] = {
-["time"] = 243.1640000000007,
-["attempts"] = 28,
-},
-[20230920] = {
-["time"] = 237.4539999999979,
-["attempts"] = 24,
-},
-[20231203] = {
-["time"] = 258.0120000001043,
-["attempts"] = 32,
-},
-[20231207] = {
-["time"] = 86.40300000016578,
-["attempts"] = 5,
-},
-[20230904] = {
-["time"] = 396.5200000000004,
-["attempts"] = 41,
-},
-[20231008] = {
-["time"] = 427.0600000000558,
-["attempts"] = 24,
-},
-[20231024] = {
-["time"] = 614.0860000000102,
-["attempts"] = 26,
-},
-[20231003] = {
-["time"] = 73.3859999999986,
-["attempts"] = 8,
-},
-[20230829] = {
-["time"] = 443.7710000000006,
-["attempts"] = 12,
-},
-[20231201] = {
-["attempts"] = 8,
-},
-[20231116] = {
-["time"] = 699.5250000000015,
-["attempts"] = 23,
-},
-[20231125] = {
-["time"] = 1597.67499999993,
-["attempts"] = 54,
-},
-[20231108] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20231124] = {
-["time"] = 1218.643999999971,
-["attempts"] = 143,
-},
-[20231005] = {
-["time"] = 3,
-["attempts"] = 6,
-},
-},
-["attempts"] = 2234,
-["enabled"] = false,
-["realAttempts"] = 2234,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 37769.86500000034,
-},
-["Bakar Companion"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Stormwrath"] = {
-["time"] = 1,
-["dates"] = {
-[20200228] = {
-["attempts"] = 1,
-},
-[20200511] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-},
-["Eye of Extermination"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Cursed Dune Watcher"] = {
-["lastAttempts"] = 12,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 12,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 12,
-},
-},
-["time"] = 10,
-["dates"] = {
-[20200401] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200613] = {
-["attempts"] = 1,
-},
-[20200419] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200630] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200722] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200319] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200424] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200723] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200531] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200629] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200514] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200622] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 12,
-["enabled"] = false,
-["realAttempts"] = 12,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 10,
-},
-["Brinestone Algan"] = {
-["time"] = 6,
-["dates"] = {
-[20201105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190823] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190903] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190909] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190925] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190924] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 6,
-},
-["Ohuna Companion"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Vial of Roiling Emotions"] = {
-["lastAttempts"] = 3,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 3,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20210216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210226] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210502] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
-},
-["Ambre"] = {
-["lastAttempts"] = 26,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 26,
-["time"] = 438.2399999999907,
-["totalTime"] = 438.2399999999907,
-["attempts"] = 26,
-},
-},
-["time"] = 438.2399999999907,
-["dates"] = {
-[20231024] = {
-["attempts"] = 1,
-},
-[20230901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230917] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20231112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231025] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230906] = {
-["attempts"] = 1,
-},
-[20230922] = {
-["attempts"] = 1,
-},
-[20231109] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231026] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230907] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231028] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231023] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230924] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231027] = {
-["time"] = 419.2399999999907,
-["attempts"] = 3,
-},
-[20230916] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20230927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231019] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 26,
-["enabled"] = false,
-["realAttempts"] = 26,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 438.2399999999907,
-},
-["Sunscale Hatchling"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-["dates"] = {
-[20190407] = {
-["attempts"] = 4,
-},
-[20181011] = {
-["attempts"] = 13,
-},
-[20181027] = {
-["attempts"] = 5,
-},
-[20190217] = {
-["attempts"] = 2,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20181215] = {
-["attempts"] = 4,
-},
-[20190302] = {
-["attempts"] = 4,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20180923] = {
-["attempts"] = 7,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-},
-["attempts"] = 86,
-},
-["Eye of Inquisition"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
 },
 ["Blushing Spiderling"] = {
 ["time"] = 12,
@@ -12416,7 +14164,7 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Strand Crawler"] = {
+["Undulating Blue Sac"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -12467,9 +14215,9 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Syd the Squid"] = {
-["known"] = true,
+["Trapped Stonefiend"] = {
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
 ["Thundering Scale of Akunda"] = {
@@ -12489,183 +14237,123 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Fractured Obsidian Claw"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Scorched Stone"] = {
-["enabled"] = false,
-["found"] = true,
-},
-["Transmutant"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Sludge Feeler"] = {
-["lastAttempts"] = 9,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 9,
-["attempts"] = 9,
-},
-},
-["attempts"] = 9,
-["enabled"] = false,
-["realAttempts"] = 9,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Spawn of Krag'wa"] = {
-["attempts"] = 14,
-},
 ["Shadowy Pile of Bones"] = {
 ["known"] = true,
 ["attempts"] = 1,
 ["enabled"] = false,
 ["found"] = true,
 },
-["Scritches"] = {
-["lastAttempts"] = 129,
+["Fractured Obsidian Claw"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Uuna's Doll"] = {
+["lastAttempts"] = 5,
 ["known"] = true,
 ["finds"] = {
 {
-["totalAttempts"] = 129,
 ["num"] = 1,
-["time"] = 0,
-["attempts"] = 129,
+["totalAttempts"] = 5,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 5,
 },
 },
+["time"] = 4,
 ["dates"] = {
-[20190808] = {
-["attempts"] = 3,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20190418] = {
+[20181112] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20190725] = {
+[20181110] = {
+["time"] = 2,
 ["attempts"] = 3,
 },
-[20190506] = {
+[20181113] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20190522] = {
-["attempts"] = 4,
 },
-[20190331] = {
-["attempts"] = 3,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190905] = {
-["attempts"] = 2,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-},
-["attempts"] = 129,
+["attempts"] = 5,
 ["enabled"] = false,
-["realAttempts"] = 129,
+["realAttempts"] = 5,
 ["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 4,
 },
-["Parrot Cage (Green Wing Macaw)"] = {
+["Bucket of Primordial Sludge"] = {
+["lastAttempts"] = 4,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 4,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 4,
+},
+},
+["time"] = 4,
+["dates"] = {
+[20210209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210316] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210203] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 4,
+["enabled"] = false,
+["realAttempts"] = 4,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4,
+},
+["Spawn of Krag'wa"] = {
+["attempts"] = 17,
+},
+["Daggertooth Frenzy"] = {
+["known"] = true,
+["attempts"] = 4,
+["enabled"] = false,
+["found"] = true,
+["time"] = 3,
+["dates"] = {
+[20190913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190912] = {
+["attempts"] = 1,
+},
+[20200526] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+},
+["Rough-Hewn Remote"] = {
+["known"] = true,
+["attempts"] = 1,
+["enabled"] = false,
+["found"] = true,
+},
+["Transmutant"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -12743,102 +14431,316 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Parrot Cage (Hyacinth Macaw)"] = {
-["time"] = 17130.364,
+["Armored Vaultbot"] = {
+["lastAttempts"] = 40,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 40,
+["time"] = 52.95200000004843,
+["totalTime"] = 52.95200000004843,
+["attempts"] = 40,
+},
+},
+["time"] = 52.95200000004843,
 ["dates"] = {
-[20181110] = {
-["time"] = 2,
+[20220826] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241206] = {
+["time"] = 1,
 ["attempts"] = 2,
 },
-[20181126] = {
+[20241107] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190126] = {
+[20241111] = {
+["attempts"] = 1,
+},
+[20241127] = {
+["attempts"] = 1,
+},
+[20220827] = {
+["attempts"] = 1,
+},
+[20231017] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200812] = {
-["attempts"] = 204,
-},
-[20220529] = {
-["time"] = 3028.940999999992,
-["attempts"] = 98,
-},
-[20190305] = {
+[20221010] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200813] = {
-["time"] = 4998.631000000052,
-["attempts"] = 312,
-},
-[20181104] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190318] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190322] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190227] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181101] = {
+[20241108] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20241112] = {
-["time"] = 2099.83899999992,
-["attempts"] = 93,
-},
-[20240401] = {
-["time"] = 263.410000000149,
-["attempts"] = 19,
-},
-[20190330] = {
-["time"] = 179.21399999992,
-["attempts"] = 12,
-},
-[20181212] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200811] = {
-["attempts"] = 93,
+[20220907] = {
+["attempts"] = 1,
 },
-[20181031] = {
+[20241218] = {
+["attempts"] = 2,
+},
+[20220824] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230920] = {
-["time"] = 2305.413000000001,
-["attempts"] = 195,
+[20241110] = {
+["time"] = 3,
+["attempts"] = 3,
 },
-[20181209] = {
+[20241117] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20241215] = {
+["time"] = 1,
+},
+[20241109] = {
+["attempts"] = 2,
+},
+[20241125] = {
+["attempts"] = 1,
+},
+[20241203] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20241124] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200814] = {
-["time"] = 4241.915999999968,
-["attempts"] = 175,
+[20241214] = {
+["attempts"] = 1,
+},
+[20231015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241207] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241219] = {
+["time"] = 32.95200000004843,
+["attempts"] = 9,
 },
 },
-["attempts"] = 1214,
-},
-["Clockwork Rocket Bot"] = {
-["known"] = true,
+["attempts"] = 40,
+["enabled"] = false,
+["realAttempts"] = 40,
+["totalFinds"] = 1,
 ["found"] = true,
-["enabled"] = false,
+["lastTime"] = 52.95200000004843,
 },
-["Breezy Essence"] = {
+["Shadefeather Hatchling"] = {
+["lastAttempts"] = 190,
 ["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 190,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 190,
+},
+},
+["dates"] = {
+[20190808] = {
+["attempts"] = 3,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20191024] = {
+["attempts"] = 3,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20191113] = {
+["attempts"] = 3,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 3,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20191031] = {
+["attempts"] = 3,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20191108] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 190,
 ["enabled"] = false,
+["realAttempts"] = 190,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Tiny Fel Engine Key"] = {
+["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
 ["Ball of Tentacles"] = {
@@ -12861,12 +14763,12 @@ RarityDB = {
 },
 ["attempts"] = 2,
 },
-["Servant's Bell"] = {
-["enabled"] = false,
+["Breezy Essence"] = {
 ["known"] = true,
+["enabled"] = false,
 ["found"] = true,
 },
-["Tiny Fel Engine Key"] = {
+["Brightfeather"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -12977,42 +14879,48 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 7,
 },
-["Celestial Gift"] = {
-["lastAttempts"] = 6,
+["Spectral Bell"] = {
+["lastAttempts"] = 8,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 6,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 6,
+["totalAttempts"] = 8,
+["time"] = 5.61299999999756,
+["totalTime"] = 5.61299999999756,
+["attempts"] = 8,
 },
 },
-["time"] = 3,
+["time"] = 5.61299999999756,
 ["dates"] = {
-[20191126] = {
+[20180616] = {
+["time"] = 2.61299999999756,
+["attempts"] = 2,
+},
+[20180613] = {
+["attempts"] = 1,
+},
+[20180614] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191016] = {
+[20180611] = {
 ["attempts"] = 1,
 },
-[20191017] = {
-["time"] = 1,
+[20180612] = {
 ["attempts"] = 1,
 },
-[20191023] = {
-["time"] = 1,
-["attempts"] = 3,
+[20180618] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 },
-["attempts"] = 6,
+["attempts"] = 8,
 ["enabled"] = false,
-["realAttempts"] = 6,
+["realAttempts"] = 8,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 3,
+["lastTime"] = 5.61299999999756,
 },
 ["Baby Crawg"] = {
 ["enabled"] = false,
@@ -13029,43 +14937,67 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Sandkeep"] = {
-["lastAttempts"] = 2,
+["Murgle"] = {
+["lastAttempts"] = 4,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
+["totalAttempts"] = 4,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 4,
 },
 },
-["time"] = 2,
+["time"] = 4,
 ["dates"] = {
-[20190904] = {
-["time"] = 2,
-["attempts"] = 2,
+[20190830] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190816] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200820] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
-["attempts"] = 2,
+["attempts"] = 4,
 ["enabled"] = false,
-["realAttempts"] = 2,
+["realAttempts"] = 4,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 2,
+["lastTime"] = 4,
 },
-["Ice Chip"] = {
-["known"] = true,
+["Ominous Flame"] = {
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Red Helper Box"] = {
+["Rebellious Imp"] = {
+["lastAttempts"] = 1,
 ["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 1,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
 ["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
 ["found"] = true,
 },
-["Amber Goo Puddle"] = {
+["Glittering Ball of Yarn"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -13085,60 +15017,73 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Blaise"] = {
-["lastAttempts"] = 5,
+["Young Talbuk"] = {
+["lastAttempts"] = 12,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 5,
+["totalAttempts"] = 12,
 ["time"] = 5,
 ["totalTime"] = 5,
-["attempts"] = 5,
+["attempts"] = 12,
 },
 },
 ["time"] = 5,
 ["dates"] = {
-[20230901] = {
-["time"] = 2,
+[20180616] = {
 ["attempts"] = 1,
 },
-[20230824] = {
+[20180618] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230902] = {
+[20180608] = {
+["attempts"] = 1,
+},
+[20180622] = {
+["attempts"] = 1,
+},
+[20180628] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230906] = {
-["attempts"] = 1,
-},
-[20230907] = {
+[20180713] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
+[20180612] = {
+["attempts"] = 1,
 },
-["attempts"] = 5,
+[20180701] = {
+["attempts"] = 1,
+},
+[20180611] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180703] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180613] = {
+["attempts"] = 1,
+},
+[20180706] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 12,
 ["enabled"] = false,
-["realAttempts"] = 5,
+["realAttempts"] = 12,
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 5,
 },
-["Magnataur Hunting Horn"] = {
-["time"] = 3,
-["dates"] = {
-[20200910] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220205] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 3,
+["Unscathed Egg"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Coldlight Surfrunner"] = {
 ["dates"] = {
@@ -13199,8 +15144,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -13214,8 +15159,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -13226,11 +15171,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -13238,19 +15183,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -13262,11 +15207,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -13283,8 +15228,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -13322,11 +15267,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -13334,8 +15279,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -13343,10 +15288,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -13403,64 +15348,87 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
 },
-["Unscathed Egg"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Fodder"] = {
-["known"] = true,
-["attempts"] = 1,
-["enabled"] = false,
-["found"] = true,
-["time"] = 3,
+["Seaborne Spore"] = {
 ["dates"] = {
-[20210723] = {
-["time"] = 3,
+[20190310] = {
+["time"] = 25.8569999999891,
+["attempts"] = 9,
+},
+[20180810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190313] = {
+["attempts"] = 1,
+},
+[20190304] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
+["attempts"] = 13,
+["time"] = 28.8569999999891,
+},
+["Ironbound Collar"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Thistleleaf Adventurer"] = {
+["lastAttempts"] = 105,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 105,
+["time"] = 120.2790000000042,
+["totalTime"] = 120.2790000000042,
+["attempts"] = 105,
+},
+},
 ["time"] = 120.2790000000042,
 ["dates"] = {
 [20240422] = {
@@ -13676,7 +15644,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250131] = {
+[20191128] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -13704,8 +15672,8 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240205] = {
-["time"] = 3.414999999920838,
+[20191226] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20180617] = {
@@ -13750,8 +15718,8 @@ RarityDB = {
 ["time"] = 2.826000000000931,
 ["attempts"] = 2,
 },
-[20191226] = {
-["time"] = 1,
+[20240205] = {
+["time"] = 3.414999999920838,
 ["attempts"] = 1,
 },
 [20200401] = {
@@ -13770,7 +15738,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191128] = {
+[20250131] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -13799,6 +15767,11 @@ RarityDB = {
 },
 },
 ["attempts"] = 105,
+["enabled"] = false,
+["realAttempts"] = 105,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 120.2790000000042,
 },
 ["Blackfuse Bombling"] = {
 ["known"] = true,
@@ -13806,40 +15779,89 @@ RarityDB = {
 ["enabled"] = false,
 ["found"] = true,
 },
-["Imperial Moth"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Copper Lapbug"] = {
+["dates"] = {
+[20260216] = {
+["attempts"] = 2,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20260121] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20260214] = {
+["attempts"] = 2,
+},
+[20260306] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20260219] = {
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20260220] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 25,
 },
 ["Snowy Panda"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Seaborne Spore"] = {
-["dates"] = {
-[20190310] = {
-["time"] = 25.8569999999891,
-["attempts"] = 9,
-},
-[20180810] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190313] = {
-["attempts"] = 1,
-},
-[20190304] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 13,
-["time"] = 28.8569999999891,
+["Imperial Silkworm"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Overcomplicated Controller"] = {
 ["enabled"] = false,
@@ -13958,8 +15980,8 @@ RarityDB = {
 [20190816] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -14039,7 +16061,7 @@ RarityDB = {
 [20191218] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -14102,7 +16124,7 @@ RarityDB = {
 [20190928] = {
 ["attempts"] = 1,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
 [20190904] = {
@@ -14129,8 +16151,8 @@ RarityDB = {
 [20200826] = {
 ["attempts"] = 3,
 },
-[20190802] = {
-["attempts"] = 3,
+[20200827] = {
+["attempts"] = 4,
 },
 },
 ["attempts"] = 301,
@@ -14140,67 +16162,17 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Tower Deathroach"] = {
-["lastAttempts"] = 11,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 11,
-["time"] = 8,
-["totalTime"] = 8,
-["attempts"] = 11,
-},
-},
-["time"] = 8,
-["dates"] = {
-[20210407] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210408] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210304] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210306] = {
-["attempts"] = 1,
-},
-[20210217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210308] = {
-["attempts"] = 1,
-},
-[20210114] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210409] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 11,
+["Blighted Spore"] = {
 ["enabled"] = false,
-["realAttempts"] = 11,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 8,
 },
 ["Spawn of Nalaada"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Brilliant Phoenix Hawk Feather"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -14210,53 +16182,15 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Scalebrood Hydra"] = {
+["Imperial Moth"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Skunky Alemental"] = {
+["Muckbreaths's Bucket"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-},
-["Bucket of Primordial Sludge"] = {
-["lastAttempts"] = 4,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 4,
-["time"] = 4,
-["totalTime"] = 4,
-["attempts"] = 4,
-},
-},
-["time"] = 4,
-["dates"] = {
-[20210209] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210316] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210203] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 4,
-["enabled"] = false,
-["realAttempts"] = 4,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 4,
 },
 ["Sky-Bo"] = {
 ["enabled"] = false,
@@ -14268,33 +16202,15 @@ RarityDB = {
 ["found"] = true,
 },
 ["Darkmoon Rabbit"] = {
-["known"] = true,
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Daggertooth Frenzy"] = {
+["Severed Tentacle"] = {
 ["known"] = true,
-["attempts"] = 4,
+["attempts"] = 8,
 ["enabled"] = false,
 ["found"] = true,
-["time"] = 3,
-["dates"] = {
-[20190913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190912] = {
-["attempts"] = 1,
-},
-[20200526] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
 },
 ["Juvenile Brineshell"] = {
 ["dates"] = {
@@ -14355,8 +16271,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -14370,8 +16286,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -14382,11 +16298,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -14394,19 +16310,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -14418,11 +16334,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -14439,8 +16355,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -14478,11 +16394,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -14490,8 +16406,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -14499,10 +16415,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -14559,61 +16475,56 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
 },
-["Caverndark Nightmare"] = {
-["time"] = 1,
-["dates"] = {
-[20190903] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
+["Hollow Reed"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Voidwoven Cat Collar"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Viscidus Globule"] = {
+["Everburning Treant"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -14680,11 +16591,11 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
+[20190314] = {
+["attempts"] = 4,
+},
 [20190707] = {
 ["attempts"] = 2,
-},
-[20190326] = {
-["attempts"] = 4,
 },
 [20190711] = {
 ["attempts"] = 1,
@@ -14716,7 +16627,7 @@ RarityDB = {
 [20180923] = {
 ["attempts"] = 7,
 },
-[20190314] = {
+[20190326] = {
 ["attempts"] = 4,
 },
 [20190506] = {
@@ -14749,243 +16660,100 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Imperial Silkworm"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Shadefeather Hatchling"] = {
-["lastAttempts"] = 190,
+["Mawsworn Minion"] = {
+["lastAttempts"] = 17,
 ["known"] = true,
 ["finds"] = {
 {
-["totalAttempts"] = 190,
+["totalAttempts"] = 17,
 ["num"] = 1,
 ["time"] = 0,
-["attempts"] = 190,
+["attempts"] = 17,
 },
 },
-["dates"] = {
-[20190808] = {
-["attempts"] = 3,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20191024] = {
-["attempts"] = 3,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-[20191108] = {
-["attempts"] = 4,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20191113] = {
-["attempts"] = 3,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 3,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20191003] = {
-["attempts"] = 5,
-},
-[20191031] = {
-["attempts"] = 3,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-},
-["attempts"] = 190,
+["attempts"] = 17,
 ["enabled"] = false,
-["realAttempts"] = 190,
+["realAttempts"] = 17,
 ["totalFinds"] = 1,
 ["found"] = true,
-},
-["Uuna's Doll"] = {
-["lastAttempts"] = 5,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 5,
-["time"] = 4,
-["totalTime"] = 4,
-["attempts"] = 5,
-},
-},
-["time"] = 4,
-["dates"] = {
-[20181112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181110] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20181113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 5,
-["enabled"] = false,
-["realAttempts"] = 5,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 4,
 },
 ["Red-Hot Coal"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Toothy's Bucket"] = {
+["Dusty Clutch of Eggs"] = {
 ["enabled"] = false,
 ["known"] = true,
+["found"] = true,
+},
+["Zandalari Footslasher"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Cyan Siphonmite"] = {
+["lastAttempts"] = 15,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 15,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 15,
+},
+},
+["dates"] = {
+[20251010] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 15,
+["enabled"] = false,
+["realAttempts"] = 15,
+["totalFinds"] = 1,
 ["found"] = true,
 },
 ["Zephyr's Call"] = {
@@ -14999,15 +16767,45 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Dusty Clutch of Eggs"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Caverndark Nightmare"] = {
+["time"] = 1,
+["dates"] = {
+[20190903] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-["Brightfeather"] = {
-["enabled"] = false,
+},
+["attempts"] = 1,
+},
+["Spawn of Garalon"] = {
+["lastAttempts"] = 2,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20190414] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190612] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 2,
 },
 ["Tide Spirit"] = {
 ["time"] = 2,
@@ -15025,9 +16823,10 @@ RarityDB = {
 },
 ["attempts"] = 2,
 },
-["Everburning Treant"] = {
-["enabled"] = false,
+["Pygmy Direhorn"] = {
 ["known"] = true,
+["attempts"] = 6,
+["enabled"] = false,
 ["found"] = true,
 },
 ["Adventurous Hopling Pack"] = {
@@ -15048,8 +16847,8 @@ RarityDB = {
 [20190808] = {
 ["attempts"] = 3,
 },
-[20190718] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190725] = {
 ["attempts"] = 3,
@@ -15063,8 +16862,8 @@ RarityDB = {
 [20190816] = {
 ["attempts"] = 1,
 },
-[20190802] = {
-["attempts"] = 3,
+[20190718] = {
+["attempts"] = 4,
 },
 },
 ["attempts"] = 20,
@@ -15073,10 +16872,81 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Mountain Panda"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Veridian Thorntail"] = {
+["time"] = 6.947000000043772,
+["dates"] = {
+[20260216] = {
+["attempts"] = 2,
+},
+[20250923] = {
+["attempts"] = 1,
+},
+[20260121] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20260214] = {
+["attempts"] = 2,
+},
+[20260306] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20260219] = {
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20260220] = {
+["time"] = 6.947000000043772,
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 25,
 },
 ["Kunchong Hatchling"] = {
 ["lastAttempts"] = 46,
@@ -15279,11 +17149,11 @@ RarityDB = {
 [20190915] = {
 ["attempts"] = 2,
 },
-[20190919] = {
-["attempts"] = 6,
-},
 [20190716] = {
 ["attempts"] = 2,
+},
+[20190919] = {
+["attempts"] = 6,
 },
 [20190720] = {
 ["attempts"] = 3,
@@ -15316,9 +17186,14 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Darkmoon Eye"] = {
-["known"] = true,
+["Rotten Helper Box"] = {
 ["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Gahz'rooki's Summoning Stone"] = {
+["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
 ["Jar of Ashes"] = {
@@ -15402,9 +17277,8 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210318] = {
-["time"] = 3,
-["attempts"] = 3,
+[20210405] = {
+["attempts"] = 1,
 },
 [20210427] = {
 ["time"] = 3,
@@ -15425,8 +17299,9 @@ RarityDB = {
 [20210331] = {
 ["attempts"] = 1,
 },
-[20210405] = {
-["attempts"] = 1,
+[20210318] = {
+["time"] = 3,
+["attempts"] = 3,
 },
 },
 ["attempts"] = 31,
@@ -15436,73 +17311,83 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 25,
 },
-["Young Talbuk"] = {
-["lastAttempts"] = 12,
+["Maw Stalker"] = {
+["lastAttempts"] = 19,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 12,
-["time"] = 5,
-["totalTime"] = 5,
-["attempts"] = 12,
+["totalAttempts"] = 19,
+["time"] = 18,
+["totalTime"] = 18,
+["attempts"] = 19,
 },
 },
-["time"] = 5,
+["time"] = 18,
 ["dates"] = {
-[20180616] = {
-["attempts"] = 1,
-},
-[20180618] = {
+[20210119] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180713] = {
+[20210105] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180622] = {
-["attempts"] = 1,
+[20210106] = {
+["time"] = 1,
+["attempts"] = 2,
 },
-[20180628] = {
+[20210107] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180608] = {
-["attempts"] = 1,
-},
-[20180612] = {
-["attempts"] = 1,
-},
-[20180701] = {
-["attempts"] = 1,
-},
-[20180611] = {
+[20210110] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180703] = {
+[20210224] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180613] = {
+[20210114] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210218] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20180706] = {
+[20210205] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210117] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20210210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210125] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 12,
+["attempts"] = 19,
 ["enabled"] = false,
-["realAttempts"] = 12,
+["realAttempts"] = 19,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 5,
-},
-["Zandalari Footslasher"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["lastTime"] = 18,
 },
 ["Inky"] = {
 ["lastAttempts"] = 132,
@@ -15625,15 +17510,159 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Pygmy Direhorn"] = {
+["Briarhorn Hatchling"] = {
+["lastAttempts"] = 116,
 ["known"] = true,
-["attempts"] = 6,
-["enabled"] = false,
-["found"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 116,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 116,
 },
-["Ominous Flame"] = {
+},
+["time"] = 4,
+["dates"] = {
+[20230917] = {
+["attempts"] = 2,
+},
+[20231005] = {
+["attempts"] = 1,
+},
+[20231001] = {
+["attempts"] = 2,
+},
+[20230830] = {
+["attempts"] = 2,
+},
+[20231101] = {
+["attempts"] = 3,
+},
+[20231117] = {
+["attempts"] = 13,
+},
+[20231125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230902] = {
+["attempts"] = 5,
+},
+[20230906] = {
+["attempts"] = 2,
+},
+[20231002] = {
+["attempts"] = 3,
+},
+[20230831] = {
+["attempts"] = 1,
+},
+[20231102] = {
+["attempts"] = 4,
+},
+[20231118] = {
+["attempts"] = 6,
+},
+[20230827] = {
+["attempts"] = 2,
+},
+[20231114] = {
+["attempts"] = 6,
+},
+[20231130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230903] = {
+["attempts"] = 1,
+},
+[20230907] = {
+["attempts"] = 2,
+},
+[20231015] = {
+["attempts"] = 2,
+},
+[20231119] = {
+["attempts"] = 2,
+},
+[20231103] = {
+["attempts"] = 1,
+},
+[20230824] = {
+["attempts"] = 2,
+},
+[20230820] = {
+["attempts"] = 2,
+},
+[20231123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231014] = {
+["attempts"] = 1,
+},
+[20230928] = {
+["attempts"] = 1,
+},
+[20231027] = {
+["attempts"] = 1,
+},
+[20230929] = {
+["attempts"] = 1,
+},
+[20231004] = {
+["attempts"] = 1,
+},
+[20231025] = {
+["attempts"] = 6,
+},
+[20231008] = {
+["attempts"] = 1,
+},
+[20231024] = {
+["attempts"] = 7,
+},
+[20230818] = {
+["attempts"] = 2,
+},
+[20231026] = {
+["attempts"] = 5,
+},
+[20230905] = {
+["attempts"] = 2,
+},
+[20231116] = {
+["attempts"] = 9,
+},
+[20230825] = {
+["attempts"] = 2,
+},
+[20231120] = {
+["attempts"] = 1,
+},
+[20231115] = {
+["attempts"] = 7,
+},
+[20231111] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 116,
 ["enabled"] = false,
+["realAttempts"] = 116,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4,
+},
+["Experiment-In-A-Jar"] = {
 ["known"] = true,
+["attempts"] = 1,
+["enabled"] = false,
 ["found"] = true,
 },
 ["Phoenix Hatchling"] = {
@@ -15663,17 +17692,17 @@ RarityDB = {
 ["time"] = 253.1639999998733,
 ["attempts"] = 3,
 },
-[20210530] = {
-["time"] = 1,
-["attempts"] = 1,
+[20210606] = {
+["time"] = 69.5350000000326,
+["attempts"] = 12,
 },
 [20210201] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210428] = {
-["time"] = 419.5500000000466,
-["attempts"] = 2,
+[20210322] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20210429] = {
 ["time"] = 1,
@@ -15683,13 +17712,13 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210608] = {
-["time"] = 449.270000000135,
-["attempts"] = 9,
+[20210503] = {
+["time"] = 2,
+["attempts"] = 2,
 },
-[20210610] = {
-["time"] = 663.7550000000047,
-["attempts"] = 16,
+[20210505] = {
+["time"] = 1,
+["attempts"] = 2,
 },
 [20210508] = {
 ["time"] = 1,
@@ -15713,17 +17742,17 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20210513] = {
-["time"] = 73.21299999998882,
-["attempts"] = 2,
+[20210528] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20210424] = {
 ["time"] = 186.88400000002,
 ["attempts"] = 1,
 },
-[20210425] = {
+[20210530] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 [20210426] = {
 ["time"] = 1,
@@ -15732,16 +17761,16 @@ RarityDB = {
 [20210623] = {
 ["attempts"] = 1,
 },
-[20210503] = {
-["time"] = 2,
-["attempts"] = 2,
+[20210608] = {
+["time"] = 449.270000000135,
+["attempts"] = 9,
 },
 [20210624] = {
 ["time"] = 1,
 },
-[20210505] = {
-["time"] = 1,
-["attempts"] = 2,
+[20210610] = {
+["time"] = 663.7550000000047,
+["attempts"] = 16,
 },
 [20210521] = {
 ["time"] = 1,
@@ -15755,20 +17784,20 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221102] = {
+[20221026] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20210821] = {
+[20221102] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
 [20210601] = {
 ["attempts"] = 5,
 },
-[20211004] = {
-["time"] = 1,
-["attempts"] = 2,
+[20210928] = {
+["time"] = 2,
+["attempts"] = 3,
 },
 [20210603] = {
 ["attempts"] = 3,
@@ -15777,57 +17806,56 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210914] = {
-["time"] = 1,
-["attempts"] = 2,
+[20221014] = {
+["time"] = 132.4280000000726,
+["attempts"] = 4,
 },
 [20221022] = {
 ["time"] = 421.2250000000931,
 ["attempts"] = 3,
 },
-[20210825] = {
+[20221030] = {
 ["time"] = 1,
-["attempts"] = 3,
+["attempts"] = 1,
 },
 [20210728] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221123] = {
+[20221018] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20221025] = {
 ["attempts"] = 1,
 },
-[20221026] = {
+[20210821] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
 [20221027] = {
 ["attempts"] = 1,
 },
-[20221013] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210824] = {
-["time"] = 30.02099999994971,
-["attempts"] = 2,
-},
-[20221030] = {
+[20211004] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20210826] = {
-["time"] = 224.9539999999106,
-["attempts"] = 7,
+[20210914] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210825] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20210916] = {
+["attempts"] = 3,
 },
 [20210827] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221018] = {
+[20221123] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -15883,7 +17911,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20201228] = {
+[20211207] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -15898,7 +17926,7 @@ RarityDB = {
 [20250218] = {
 ["attempts"] = 1,
 },
-[20211207] = {
+[20201228] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -16048,16 +18076,17 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210916] = {
-["attempts"] = 3,
+[20210826] = {
+["time"] = 224.9539999999106,
+["attempts"] = 7,
 },
-[20221014] = {
-["time"] = 132.4280000000726,
-["attempts"] = 4,
+[20210824] = {
+["time"] = 30.02099999994971,
+["attempts"] = 2,
 },
-[20210928] = {
+[20221013] = {
 ["time"] = 2,
-["attempts"] = 3,
+["attempts"] = 2,
 },
 [20210626] = {
 ["attempts"] = 1,
@@ -16070,17 +18099,17 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20210606] = {
-["time"] = 69.5350000000326,
-["attempts"] = 12,
-},
-[20210528] = {
+[20210425] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20210322] = {
-["time"] = 1,
-["attempts"] = 1,
+[20210513] = {
+["time"] = 73.21299999998882,
+["attempts"] = 2,
+},
+[20210428] = {
+["time"] = 419.5500000000466,
+["attempts"] = 2,
 },
 },
 ["attempts"] = 354,
@@ -16096,12 +18125,7 @@ RarityDB = {
 ["enabled"] = false,
 ["found"] = true,
 },
-["Glittering Ball of Yarn"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Satyr Charm"] = {
+["Violet Abyssal Eel"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -16160,23 +18184,21 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 5,
 },
-["Bloodstone Tunneler"] = {
-["enabled"] = false,
+["Irongrasp"] = {
+["lastAttempts"] = 13,
 ["known"] = true,
-["found"] = true,
-["dates"] = {
-[20180923] = {
-["attempts"] = 7,
-},
-[20181011] = {
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 13,
 ["attempts"] = 13,
 },
 },
-["attempts"] = 20,
-},
-["Shell of Tide-Calling"] = {
+["attempts"] = 13,
 ["enabled"] = false,
-["known"] = true,
+["realAttempts"] = 13,
+["totalFinds"] = 1,
 ["found"] = true,
 },
 ["Zomstrok"] = {
@@ -16205,10 +18227,68 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 230.896999999997,
 },
-["Blighted Spore"] = {
+["Shell of Tide-Calling"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
+},
+["Skittering Eel"] = {
+["time"] = 1,
+["dates"] = {
+[20190927] = {
+["attempts"] = 1,
+},
+[20201028] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190920] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+},
+["Void-Scarred Egg"] = {
+["time"] = 12,
+["dates"] = {
+[20251129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260115] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251005] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250825] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20251007] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251008] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250919] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 12,
 },
 ["Boneweave Hatchling"] = {
 ["lastAttempts"] = 4,
@@ -16253,17 +18333,17 @@ RarityDB = {
 ["enabled"] = false,
 ["found"] = true,
 },
-["Scraps"] = {
+["Satyr Charm"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Violet Abyssal Eel"] = {
+["Lump of Coal"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Muckbreaths's Bucket"] = {
+["Toothy's Bucket"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -16302,90 +18382,70 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 63.148999999743,
 },
-["Maw Stalker"] = {
-["lastAttempts"] = 19,
+["Jimmy"] = {
+["lastAttempts"] = 7,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 19,
-["time"] = 18,
-["totalTime"] = 18,
-["attempts"] = 19,
+["totalAttempts"] = 7,
+["time"] = 6,
+["totalTime"] = 6,
+["attempts"] = 7,
 },
 },
-["time"] = 18,
+["time"] = 6,
 ["dates"] = {
-[20210119] = {
+[20250830] = {
+["attempts"] = 1,
+},
+[20250825] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210105] = {
+[20250810] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210106] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210107] = {
+[20250909] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210110] = {
+[20250926] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210224] = {
+[20251010] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210205] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210114] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210117] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20210210] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210125] = {
+[20251210] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 19,
+["attempts"] = 7,
 ["enabled"] = false,
-["realAttempts"] = 19,
+["realAttempts"] = 7,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 18,
+["lastTime"] = 6,
 },
-["Azure Crane Chick"] = {
+["Bloodstone Tunneler"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
+["dates"] = {
+[20180923] = {
+["attempts"] = 7,
 },
-["Lump of Coal"] = {
+[20181011] = {
+["attempts"] = 13,
+},
+},
+["attempts"] = 20,
+},
+["Chitterspine Needler"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -16419,11 +18479,11 @@ RarityDB = {
 [20180611] = {
 ["attempts"] = 1,
 },
-[20180619] = {
+[20180612] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180612] = {
+[20180619] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -16438,7 +18498,7 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 6.61299999999756,
 },
-["Rotten Helper Box"] = {
+["Azure Crane Chick"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -16448,53 +18508,17 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Spawn of Garalon"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
-},
-},
-["time"] = 2,
-["dates"] = {
-[20190414] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190612] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
+["Scraps"] = {
 ["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 2,
 },
-["Skittering Eel"] = {
-["time"] = 1,
-["dates"] = {
-[20190927] = {
-["attempts"] = 1,
+["Darkmoon Eye"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
 },
-[20201028] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190920] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-},
-["Hollow Reed"] = {
+["Baa'lial Soulstone"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -16606,21 +18630,9 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Irongrasp"] = {
-["lastAttempts"] = 13,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 13,
-["attempts"] = 13,
-},
-},
-["attempts"] = 13,
+["Viscidus Globule"] = {
 ["enabled"] = false,
-["realAttempts"] = 13,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
 },
 ["Vibrating Stone"] = {
@@ -16711,10 +18723,191 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Whistle of Chromatic Bone"] = {
-["enabled"] = false,
+["N'Ruby"] = {
+["lastAttempts"] = 116,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 116,
+["time"] = 820.6360000000004,
+["totalTime"] = 820.6360000000004,
+["attempts"] = 116,
+},
+},
+["time"] = 820.6360000000004,
+["dates"] = {
+[20230917] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20231005] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231001] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230830] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231101] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20231117] = {
+["time"] = 4,
+["attempts"] = 13,
+},
+[20231125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230902] = {
+["time"] = 4,
+["attempts"] = 5,
+},
+[20230906] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231002] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20230831] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231102] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20231118] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20230827] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231114] = {
+["time"] = 1,
+["attempts"] = 6,
+},
+[20231130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230907] = {
+["time"] = 752.6360000000004,
+["attempts"] = 2,
+},
+[20231015] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20231119] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230824] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230820] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231027] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231025] = {
+["time"] = 5,
+["attempts"] = 6,
+},
+[20231008] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231024] = {
+["time"] = 6,
+["attempts"] = 7,
+},
+[20230818] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231026] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20230905] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231116] = {
+["time"] = 1,
+["attempts"] = 9,
+},
+[20230825] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231115] = {
+["time"] = 3,
+["attempts"] = 7,
+},
+[20231111] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 116,
+["enabled"] = false,
+["realAttempts"] = 116,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 820.6360000000004,
 },
 ["Firesting Buzzer"] = {
 ["lastAttempts"] = 49,
@@ -16743,8 +18936,8 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20190506] = {
-["attempts"] = 1,
+[20190326] = {
+["attempts"] = 4,
 },
 [20190522] = {
 ["attempts"] = 2,
@@ -16767,8 +18960,8 @@ RarityDB = {
 [20190428] = {
 ["attempts"] = 3,
 },
-[20190326] = {
-["attempts"] = 4,
+[20190506] = {
+["attempts"] = 1,
 },
 },
 ["attempts"] = 49,
@@ -16782,181 +18975,140 @@ RarityDB = {
 ["enabled"] = false,
 ["found"] = true,
 },
-["Experiment-In-A-Jar"] = {
-["known"] = true,
-["attempts"] = 1,
+["False Knucklebump"] = {
 ["enabled"] = false,
+["known"] = true,
+["found"] = true,
+["dates"] = {
+[20180923] = {
+["attempts"] = 7,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20181215] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 29,
+},
+["Mountain Panda"] = {
+["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Briarhorn Hatchling"] = {
-["lastAttempts"] = 116,
+["Palek'ti, the Mouth of Nothingness"] = {
+["lastAttempts"] = 4,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 116,
+["totalAttempts"] = 4,
 ["time"] = 4,
 ["totalTime"] = 4,
-["attempts"] = 116,
+["attempts"] = 4,
 },
 },
 ["time"] = 4,
 ["dates"] = {
-[20230917] = {
-["attempts"] = 2,
-},
-[20231005] = {
-["attempts"] = 1,
-},
-[20231001] = {
-["attempts"] = 2,
-},
-[20230830] = {
-["attempts"] = 2,
-},
-[20231101] = {
-["attempts"] = 3,
-},
-[20231117] = {
-["attempts"] = 13,
-},
-[20231125] = {
+[20250811] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230902] = {
-["attempts"] = 5,
-},
-[20230906] = {
+[20250814] = {
+["time"] = 2,
 ["attempts"] = 2,
 },
-[20231002] = {
-["attempts"] = 3,
-},
-[20230831] = {
+[20250815] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20231102] = {
+},
 ["attempts"] = 4,
-},
-[20231118] = {
-["attempts"] = 6,
-},
-[20230827] = {
-["attempts"] = 2,
-},
-[20231114] = {
-["attempts"] = 6,
-},
-[20231130] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230903] = {
-["attempts"] = 1,
-},
-[20230907] = {
-["attempts"] = 2,
-},
-[20231015] = {
-["attempts"] = 2,
-},
-[20230824] = {
-["attempts"] = 2,
-},
-[20231103] = {
-["attempts"] = 1,
-},
-[20231119] = {
-["attempts"] = 2,
-},
-[20230820] = {
-["attempts"] = 2,
-},
-[20231111] = {
-["attempts"] = 1,
-},
-[20231115] = {
-["attempts"] = 7,
-},
-[20231014] = {
-["attempts"] = 1,
-},
-[20230928] = {
-["attempts"] = 1,
-},
-[20231027] = {
-["attempts"] = 1,
-},
-[20230929] = {
-["attempts"] = 1,
-},
-[20231004] = {
-["attempts"] = 1,
-},
-[20231025] = {
-["attempts"] = 6,
-},
-[20231008] = {
-["attempts"] = 1,
-},
-[20231024] = {
-["attempts"] = 7,
-},
-[20230818] = {
-["attempts"] = 2,
-},
-[20231026] = {
-["attempts"] = 5,
-},
-[20230905] = {
-["attempts"] = 2,
-},
-[20231116] = {
-["attempts"] = 9,
-},
-[20230825] = {
-["attempts"] = 2,
-},
-[20231120] = {
-["attempts"] = 1,
-},
-[20231127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 116,
 ["enabled"] = false,
-["realAttempts"] = 116,
+["realAttempts"] = 4,
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 4,
-},
-["Severed Tentacle"] = {
-["known"] = true,
-["attempts"] = 8,
-["enabled"] = false,
-["found"] = true,
 },
 ["Ominous Pile of Snow"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Gahz'rooki's Summoning Stone"] = {
-["enabled"] = false,
+["Frenzied Mawrat"] = {
+["lastAttempts"] = 7,
 ["known"] = true,
-["found"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 7,
+["time"] = 6,
+["totalTime"] = 6,
+["attempts"] = 7,
 },
-["Fragment of Anger"] = {
+},
+["time"] = 6,
+["dates"] = {
+[20201215] = {
+["attempts"] = 1,
+},
+[20210110] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201216] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 7,
 ["enabled"] = false,
-["known"] = true,
+["realAttempts"] = 7,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 6,
+},
+["Eye of Chaos"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20250916] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
 },
 ["Voru'kar Leecher"] = {
 ["lastAttempts"] = 279,
@@ -17274,205 +19426,36 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 8.7270000000135,
 },
-["Chitterspine Needler"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Kovok"] = {
+["time"] = 2,
+["dates"] = {
+[20180810] = {
+["attempts"] = 1,
+},
+[20180811] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 78,
 },
 ["Dripping Strider Egg"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["N'Ruby"] = {
-["lastAttempts"] = 116,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 116,
-["time"] = 820.6360000000004,
-["totalTime"] = 820.6360000000004,
-["attempts"] = 116,
-},
-},
-["time"] = 820.6360000000004,
-["dates"] = {
-[20230917] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20231005] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231001] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230830] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231101] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20231117] = {
-["time"] = 4,
-["attempts"] = 13,
-},
-[20231125] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230902] = {
-["time"] = 4,
-["attempts"] = 5,
-},
-[20230906] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231002] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20230831] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231102] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20231118] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20230827] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231114] = {
-["time"] = 1,
-["attempts"] = 6,
-},
-[20231130] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230903] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230907] = {
-["time"] = 752.6360000000004,
-["attempts"] = 2,
-},
-[20231015] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20230824] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231119] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230820] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231111] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231115] = {
-["time"] = 3,
-["attempts"] = 7,
-},
-[20231014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230928] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231027] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230929] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231004] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231025] = {
-["time"] = 5,
-["attempts"] = 6,
-},
-[20231008] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231024] = {
-["time"] = 6,
-["attempts"] = 7,
-},
-[20230818] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231026] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20230905] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231116] = {
-["time"] = 1,
-["attempts"] = 9,
-},
-[20230825] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231120] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 116,
+["Void Collar"] = {
 ["enabled"] = false,
-["realAttempts"] = 116,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 820.6360000000004,
 },
-["Brilliant Phoenix Hawk Feather"] = {
-["enabled"] = false,
+["Red Helper Box"] = {
 ["known"] = true,
+["enabled"] = false,
 ["found"] = true,
 },
 ["Jingling Bell"] = {
@@ -17480,55 +19463,17 @@ RarityDB = {
 ["enabled"] = false,
 ["found"] = true,
 },
-["Spectral Bell"] = {
-["lastAttempts"] = 8,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 8,
-["time"] = 5.61299999999756,
-["totalTime"] = 5.61299999999756,
-["attempts"] = 8,
-},
-},
-["time"] = 5.61299999999756,
-["dates"] = {
-[20180616] = {
-["time"] = 2.61299999999756,
-["attempts"] = 2,
-},
-[20180613] = {
-["attempts"] = 1,
-},
-[20180614] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180611] = {
-["attempts"] = 1,
-},
-[20180612] = {
-["attempts"] = 1,
-},
-[20180618] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 8,
+["Fragment of Anger"] = {
 ["enabled"] = false,
-["realAttempts"] = 8,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 5.61299999999756,
 },
 ["Ashleaf Spriteling"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Void Collar"] = {
+["Skunky Alemental"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -17547,7 +19492,7 @@ RarityDB = {
 },
 ["time"] = 8,
 ["dates"] = {
-[20210313] = {
+[20210425] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -17559,7 +19504,8 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210418] = {
+[20210313] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20210421] = {
@@ -17574,8 +19520,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210425] = {
-["time"] = 1,
+[20210418] = {
 ["attempts"] = 1,
 },
 },
@@ -17611,60 +19556,135 @@ RarityDB = {
 },
 ["attempts"] = 5,
 },
-["Land Shark"] = {
-["time"] = 2,
+["Cursed Dune Watcher"] = {
+["lastAttempts"] = 12,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 12,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 12,
+},
+},
+["time"] = 10,
 ["dates"] = {
-[20180715] = {
-["time"] = 2,
-["attempts"] = 3,
+[20200401] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20190106] = {
-["attempts"] = 4,
+[20200613] = {
+["attempts"] = 1,
+},
+[20200419] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200630] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200722] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200319] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200723] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200622] = {
+["attempts"] = 1,
+},
+[20200629] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200514] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200531] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
-["attempts"] = 7,
+["attempts"] = 12,
+["enabled"] = false,
+["realAttempts"] = 12,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
 },
 ["Nightshade Sproutling"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["False Knucklebump"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Nightmare Bell"] = {
 ["dates"] = {
-[20180923] = {
-["attempts"] = 7,
+[20190310] = {
+["attempts"] = 9,
 },
-[20181011] = {
+[20180810] = {
+["attempts"] = 1,
+},
+[20190123] = {
+["attempts"] = 1,
+},
+[20190313] = {
+["attempts"] = 1,
+},
+[20190304] = {
+["attempts"] = 1,
+},
+},
 ["attempts"] = 13,
 },
-[20181027] = {
-["attempts"] = 5,
-},
-[20181215] = {
-["attempts"] = 4,
-},
-},
-["attempts"] = 29,
-},
-["Lucy's Lost Collar"] = {
-["lastAttempts"] = 1,
+["Budding Algan"] = {
+["lastAttempts"] = 4,
 ["known"] = true,
 ["finds"] = {
 {
-["time"] = 0,
 ["num"] = 1,
-["totalAttempts"] = 1,
+["totalAttempts"] = 4,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 4,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20191111] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190914] = {
 ["attempts"] = 1,
 },
 },
-["attempts"] = 1,
+["attempts"] = 4,
 ["enabled"] = false,
-["realAttempts"] = 1,
+["realAttempts"] = 4,
 ["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 3,
 },
 ["Living Sandling"] = {
 ["known"] = true,
@@ -17731,777 +19751,6 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Emerald Whelpling"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Dark Whelpling"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["collapsedGroup"] = true,
-["Smoldering Treat"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-["attempts"] = 2,
-},
-["Armored Vaultbot"] = {
-["lastAttempts"] = 40,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 40,
-["time"] = 52.95200000004843,
-["totalTime"] = 52.95200000004843,
-["attempts"] = 40,
-},
-},
-["time"] = 52.95200000004843,
-["dates"] = {
-[20220826] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241206] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20241107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241111] = {
-["attempts"] = 1,
-},
-[20241127] = {
-["attempts"] = 1,
-},
-[20220827] = {
-["attempts"] = 1,
-},
-[20231017] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221010] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241108] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220907] = {
-["attempts"] = 1,
-},
-[20241218] = {
-["attempts"] = 2,
-},
-[20220824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241110] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20241117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20241215] = {
-["time"] = 1,
-},
-[20241109] = {
-["attempts"] = 2,
-},
-[20241125] = {
-["attempts"] = 1,
-},
-[20241203] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20241124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241214] = {
-["attempts"] = 1,
-},
-[20231015] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241207] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241212] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241219] = {
-["time"] = 32.95200000004843,
-["attempts"] = 9,
-},
-},
-["attempts"] = 40,
-["enabled"] = false,
-["realAttempts"] = 40,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 52.95200000004843,
-},
-["Twilight Summoning Portal"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Enchanted Talon of Pa'ku"] = {
-["time"] = 1,
-["dates"] = {
-[20250117] = {
-["time"] = 1,
-},
-},
-["attempts"] = 63,
-},
-["Amaranthine Stinger"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Spirit of the Spring"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Fuzzy Creepling"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
-},
-},
-["time"] = 2,
-["dates"] = {
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
-},
-["Thunderscale Whelpling"] = {
-["lastAttempts"] = 25,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 25,
-["attempts"] = 25,
-},
-},
-["dates"] = {
-[20190314] = {
-["attempts"] = 4,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190420] = {
-["attempts"] = 1,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-},
-["attempts"] = 25,
-["enabled"] = false,
-["realAttempts"] = 25,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Needleback Pup"] = {
-["lastAttempts"] = 174,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 174,
-["attempts"] = 174,
-},
-},
-["dates"] = {
-[20190808] = {
-["attempts"] = 3,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20191024] = {
-["attempts"] = 2,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20191003] = {
-["attempts"] = 5,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-},
-["attempts"] = 174,
-["enabled"] = false,
-["realAttempts"] = 174,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Gnashtooth"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
-},
-},
-["time"] = 2,
-["dates"] = {
-[20210930] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
-},
-["Wayward Spirit"] = {
-["lastAttempts"] = 9,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 9,
-["time"] = 9,
-["totalTime"] = 9,
-["attempts"] = 9,
-},
-},
-["time"] = 9,
-["dates"] = {
-[20191017] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191023] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200416] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200517] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191016] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200504] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 9,
-["enabled"] = false,
-["realAttempts"] = 9,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 9,
-},
-["Thaumaturgical Piglet"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Amethyst Softshell"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 2,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20190817] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["collapsed"] = false,
-["Cobalt Raven Hatchling"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Eye of Corruption"] = {
-["known"] = true,
-["attempts"] = 9,
-["enabled"] = false,
-["found"] = true,
-},
-["Spraybot 0D"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Tiny Crimson Whelpling"] = {
-["time"] = 181.9860000000335,
-["dates"] = {
-[20210917] = {
-["attempts"] = 8,
-},
-[20210918] = {
-["time"] = 180.9860000000335,
-["attempts"] = 6,
-},
-[20241104] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-},
-["attempts"] = 17,
-},
-["Ji-Kun Hatchling"] = {
-["known"] = true,
-["attempts"] = 60,
-["enabled"] = false,
-["found"] = true,
-},
-["Frenzied Mawrat"] = {
-["lastAttempts"] = 7,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 7,
-["time"] = 6,
-["totalTime"] = 6,
-["attempts"] = 7,
-},
-},
-["time"] = 6,
-["dates"] = {
-[20201215] = {
-["attempts"] = 1,
-},
-[20210110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201216] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210121] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 7,
-["enabled"] = false,
-["realAttempts"] = 7,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 6,
-},
-["Coral Lashling"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Aldrusian Sproutling"] = {
-["lastAttempts"] = 14,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 14,
-["time"] = 12,
-["totalTime"] = 12,
-["attempts"] = 14,
-},
-},
-["time"] = 12,
-["dates"] = {
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190201] = {
-["attempts"] = 1,
-},
-[20181117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["attempts"] = 1,
-},
-[20190204] = {
-["attempts"] = 1,
-},
-[20180928] = {
-["time"] = 1,
-},
-[20190217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 14,
-["enabled"] = false,
-["realAttempts"] = 14,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 12,
-},
-["Gooey Sha-ling"] = {
-["attempts"] = 90,
-},
-["Poro"] = {
-["lastAttempts"] = 51,
-["known"] = true,
-["finds"] = {
-{
-["totalAttempts"] = 51,
-["num"] = 1,
-["time"] = 0,
-["attempts"] = 51,
-},
-},
-["dates"] = {
-[20181215] = {
-["attempts"] = 4,
-},
-[20190217] = {
-["attempts"] = 2,
-},
-[20190414] = {
-["attempts"] = 1,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20181027] = {
-["attempts"] = 5,
-},
-[20180923] = {
-["attempts"] = 7,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190302] = {
-["attempts"] = 4,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20181011] = {
-["attempts"] = 13,
-},
-},
-["attempts"] = 51,
-["enabled"] = false,
-["realAttempts"] = 51,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Nightmare Bell"] = {
-["dates"] = {
-[20190310] = {
-["attempts"] = 9,
-},
-[20180810] = {
-["attempts"] = 1,
-},
-[20190123] = {
-["attempts"] = 1,
-},
-[20190313] = {
-["attempts"] = 1,
-},
-[20190304] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 13,
-},
-["Hyjal Wisp"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Void-Link Frostwolf Collar"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Zandalari Anklerender"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
 ["Red Goren Egg"] = {
 ["time"] = 725.322000000029,
 ["dates"] = {
@@ -18545,6 +19794,638 @@ RarityDB = {
 },
 ["attempts"] = 23,
 },
+["Tower Deathroach"] = {
+["lastAttempts"] = 11,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 11,
+["time"] = 8,
+["totalTime"] = 8,
+["attempts"] = 11,
+},
+},
+["time"] = 8,
+["dates"] = {
+[20210407] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210408] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210304] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210306] = {
+["attempts"] = 1,
+},
+[20210217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210308] = {
+["attempts"] = 1,
+},
+[20210114] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210409] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201228] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 11,
+["enabled"] = false,
+["realAttempts"] = 11,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 8,
+},
+["Parrot Cage (Void-Scarred Parrot)"] = {
+["lastAttempts"] = 4,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 4,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 4,
+},
+},
+["time"] = 4,
+["dates"] = {
+[20250916] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 4,
+["enabled"] = false,
+["realAttempts"] = 4,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4,
+},
+["Smoldering Treat"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+["attempts"] = 2,
+},
+["Anubisath Idol"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Twilight Summoning Portal"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Enchanted Talon of Pa'ku"] = {
+["time"] = 1,
+["dates"] = {
+[20250117] = {
+["time"] = 1,
+},
+},
+["attempts"] = 72,
+},
+["Syd the Squid"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Gu'chi Swarmling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Blazing Rune"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Thunderscale Whelpling"] = {
+["lastAttempts"] = 25,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 25,
+["attempts"] = 25,
+},
+},
+["dates"] = {
+[20190314] = {
+["attempts"] = 4,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20190420] = {
+["attempts"] = 1,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 25,
+["enabled"] = false,
+["realAttempts"] = 25,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Nerubian Relic"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Gnashtooth"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20210930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Maw Crawler"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 2,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20201216] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Thaumaturgical Piglet"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Severs"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["collapsed"] = false,
+["Cobalt Raven Hatchling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Glittering Arcane Crystal"] = {
+["lastAttempts"] = 28,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 28,
+["time"] = 22,
+["totalTime"] = 22,
+["attempts"] = 28,
+},
+},
+["time"] = 22,
+["dates"] = {
+[20181224] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181216] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181217] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181218] = {
+["time"] = 4,
+["attempts"] = 7,
+},
+[20181219] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20181220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181223] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190104] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181228] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 28,
+["enabled"] = false,
+["realAttempts"] = 28,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 22,
+},
+["Sprite Darter Egg"] = {
+["time"] = 14181.80799999981,
+["dates"] = {
+[20221029] = {
+["attempts"] = 3,
+},
+[20220525] = {
+["time"] = 10884.91799999983,
+["attempts"] = 484,
+},
+[20220526] = {
+["attempts"] = 154,
+},
+[20180630] = {
+["time"] = 144.588999999993,
+["attempts"] = 14,
+},
+[20220527] = {
+["time"] = 3151.300999999992,
+["attempts"] = 183,
+},
+[20180716] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 839,
+},
+["Amethyst Softshell"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 2,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20190817] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Ji-Kun Hatchling"] = {
+["known"] = true,
+["attempts"] = 60,
+["enabled"] = false,
+["found"] = true,
+},
+["Brinestone Algan"] = {
+["time"] = 6,
+["dates"] = {
+[20201105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190925] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190924] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190909] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190823] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+},
+["Kor'thik Swarmling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Scrappy Thorntail"] = {
+["lastAttempts"] = 18,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 18,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 18,
+},
+},
+["time"] = 5,
+["dates"] = {
+[20250923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251209] = {
+["attempts"] = 1,
+},
+[20251023] = {
+["attempts"] = 1,
+},
+[20251130] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20251004] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["attempts"] = 1,
+},
+[20251019] = {
+["attempts"] = 1,
+},
+[20251018] = {
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 18,
+["enabled"] = false,
+["realAttempts"] = 18,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 5,
+},
+["Gooey Sha-ling"] = {
+["attempts"] = 90,
+},
+["Void-Scarred Anubisath"] = {
+["lastAttempts"] = 14,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 14,
+["attempts"] = 14,
+},
+},
+["attempts"] = 14,
+["enabled"] = false,
+["realAttempts"] = 14,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Quivering Blob"] = {
+["attempts"] = 109,
+},
+["Hyjal Wisp"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Void-Link Frostwolf Collar"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Viridian Mechasaur"] = {
+["lastAttempts"] = 28,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 28,
+["time"] = 645.1070000000036,
+["totalTime"] = 645.1070000000036,
+["attempts"] = 28,
+},
+},
+["time"] = 645.1070000000036,
+["dates"] = {
+[20260205] = {
+["time"] = 28.96899999999732,
+["attempts"] = 13,
+},
+[20260206] = {
+["time"] = 7.868000000016764,
+["attempts"] = 6,
+},
+[20260207] = {
+["time"] = 608.2699999999895,
+["attempts"] = 9,
+},
+},
+["attempts"] = 28,
+["enabled"] = false,
+["realAttempts"] = 28,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 645.1070000000036,
+},
+["Wayward Spirit"] = {
+["lastAttempts"] = 9,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 9,
+["time"] = 9,
+["totalTime"] = 9,
+["attempts"] = 9,
+},
+},
+["time"] = 9,
+["dates"] = {
+[20191017] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191023] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200504] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200517] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191016] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200416] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 9,
+["enabled"] = false,
+["realAttempts"] = 9,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 9,
+},
 ["Odd Twilight Egg"] = {
 ["known"] = true,
 ["attempts"] = 13,
@@ -18573,19 +20454,10 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Pearlescent Glimmershell"] = {
-["time"] = 2,
-["dates"] = {
-[20191218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200131] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
+["Snarly's Bucket"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Foulwing Buzzer"] = {
 ["time"] = 1,
@@ -18600,10 +20472,12 @@ RarityDB = {
 },
 ["attempts"] = 2,
 },
-["Quivering Blob"] = {
-["attempts"] = 109,
+["Sunreaver Micro-Sentry"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
-["Kor'thik Swarmling"] = {
+["Amber Goo Puddle"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -18630,10 +20504,86 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Snarly's Bucket"] = {
-["enabled"] = false,
+["Black Chitinous Plate"] = {
+["lastAttempts"] = 18,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 18,
+["time"] = 16,
+["totalTime"] = 16,
+["attempts"] = 18,
+},
+},
+["time"] = 16,
+["dates"] = {
+[20200130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200521] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200327] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200423] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200315] = {
+["attempts"] = 1,
+},
+[20200317] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200512] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200513] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200229] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200425] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200412] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200511] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200522] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 18,
+["enabled"] = false,
+["realAttempts"] = 18,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 16,
 },
 ["Sunfire Kaliri"] = {
 ["enabled"] = false,
@@ -18685,116 +20635,91 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Smelly Gravestone"] = {
+["Mana-Warped Egg"] = {
+["lastAttempts"] = 6,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 6,
+["totalTime"] = 6,
+["attempts"] = 6,
+},
+},
+["time"] = 6,
+["dates"] = {
+[20181216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181117] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 6,
+},
+["Amaranthine Stinger"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-},
-["Stinky Sack"] = {
-["time"] = 5,
-["dates"] = {
-[20200928] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200229] = {
-["attempts"] = 1,
-},
-[20200929] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200927] = {
-["attempts"] = 1,
-},
-[20200131] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201009] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 7,
 },
 ["Sunfur Panda"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Arfus"] = {
+["Stoneclaw"] = {
+["lastAttempts"] = 4,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 4,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 4,
+},
+},
+["time"] = 4,
 ["dates"] = {
-[20231029] = {
+[20191016] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20231030] = {
+[20191017] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
-[20231031] = {
+[20191023] = {
 ["time"] = 2,
-["attempts"] = 3,
-},
-[20241031] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231028] = {
-["time"] = 1,
-["attempts"] = 7,
-},
-[20241030] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231022] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231101] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20231024] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241104] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20241105] = {
-["time"] = 1,
 ["attempts"] = 2,
 },
-[20231026] = {
-["time"] = 1,
-["attempts"] = 1,
 },
-[20241107] = {
-["time"] = 5,
-["attempts"] = 7,
-},
-[20241108] = {
-["attempts"] = 2,
-},
-[20241102] = {
-["time"] = 12.44800000009127,
-["attempts"] = 3,
-},
-},
-["attempts"] = 39,
-["time"] = 33.44800000009127,
+["attempts"] = 4,
+["enabled"] = false,
+["realAttempts"] = 4,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4,
 },
 ["Contained Essence of Dread"] = {
 ["enabled"] = false,
@@ -18819,9 +20744,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20230902] = {
-["time"] = 4,
-["attempts"] = 5,
+[20230917] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20230824] = {
 ["time"] = 1,
@@ -18835,9 +20760,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20230827] = {
-["time"] = 1,
-["attempts"] = 2,
+[20230902] = {
+["time"] = 4,
+["attempts"] = 5,
 },
 [20230903] = {
 ["time"] = 1,
@@ -18863,9 +20788,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20230917] = {
+[20230827] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
 },
 ["attempts"] = 26,
@@ -19049,11 +20974,11 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220205] = {
-["time"] = 2,
-["attempts"] = 2,
-},
 [20220220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220114] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -19146,9 +21071,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220114] = {
-["time"] = 1,
-["attempts"] = 1,
+[20220205] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 [20220130] = {
 ["time"] = 1,
@@ -19338,17 +21263,24 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210722] = {
-["time"] = 1,
-["attempts"] = 1,
-},
 [20211119] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
+[20210722] = {
+["time"] = 1,
+["attempts"] = 1,
+},
 [20210826] = {
 ["time"] = 2,
 ["attempts"] = 2,
+},
+[20210901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210917] = {
+["attempts"] = 1,
 },
 [20210913] = {
 ["time"] = 1,
@@ -19356,13 +21288,6 @@ RarityDB = {
 },
 [20210802] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20210901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210917] = {
 ["attempts"] = 1,
 },
 [20210930] = {
@@ -19407,21 +21332,21 @@ RarityDB = {
 },
 ["time"] = 40.9029999999329,
 ["dates"] = {
+[20181029] = {
+["time"] = 3,
+["attempts"] = 11,
+},
 [20190128] = {
 ["time"] = 16.8379999999888,
-["attempts"] = 2,
-},
-[20181021] = {
-["time"] = 2,
 ["attempts"] = 2,
 },
 [20181027] = {
 ["time"] = 19.0649999999441,
 ["attempts"] = 12,
 },
-[20181029] = {
-["time"] = 3,
-["attempts"] = 11,
+[20181021] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 },
 ["attempts"] = 27,
@@ -19451,7 +21376,7 @@ RarityDB = {
 ["time"] = 97.4259999999777,
 ["attempts"] = 33,
 },
-[20180805] = {
+[20181119] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -19459,16 +21384,16 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 12,
 },
-[20180603] = {
-["time"] = 14.1800000000003,
-["attempts"] = 127,
+[20191205] = {
+["attempts"] = 1,
 },
-[20181119] = {
+[20180805] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191205] = {
-["attempts"] = 1,
+[20180603] = {
+["time"] = 14.1800000000003,
+["attempts"] = 127,
 },
 },
 ["attempts"] = 179,
@@ -19508,11 +21433,11 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20200529] = {
+[20200610] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200610] = {
+[20200529] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -19592,9 +21517,9 @@ RarityDB = {
 ["attempts"] = 29,
 },
 ["Hearthstation (Alliance)"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Whiskerwax Candle"] = {
 ["lastAttempts"] = 246,
@@ -19846,9 +21771,9 @@ RarityDB = {
 ["found"] = true,
 },
 ["Sack of Spectral Spiders"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Vesper of Harmony"] = {
 ["known"] = true,
@@ -19864,9 +21789,9 @@ RarityDB = {
 ["time"] = 1,
 },
 ["Silver-Plated Turkey Shooter"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Acrobatic Steward"] = {
 ["lastAttempts"] = 1,
@@ -19922,6 +21847,43 @@ RarityDB = {
 },
 ["attempts"] = 5,
 },
+["Cyclonic Runekey"] = {
+["lastAttempts"] = 8,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 8,
+["time"] = 838.1520000000019,
+["totalTime"] = 838.1520000000019,
+["attempts"] = 8,
+},
+},
+["time"] = 838.1520000000019,
+["dates"] = {
+[20250406] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250407] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260102] = {
+["time"] = 835.1520000000019,
+["attempts"] = 5,
+},
+},
+["attempts"] = 8,
+["enabled"] = false,
+["realAttempts"] = 8,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 838.1520000000019,
+},
 ["Essence of the Breeze"] = {
 ["lastAttempts"] = 2,
 ["known"] = true,
@@ -19952,31 +21914,10 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2,
 },
-["Sphere of Enlightened Cogitation"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20220602] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
+["Holoviewer: The Timeless One"] = {
 ["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 1,
 },
 ["Azerite Firework Launcher"] = {
 ["lastAttempts"] = 1,
@@ -20084,52 +22025,116 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 3,
 },
-["Toy War Machine"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Jailer's Cage"] = {
+["time"] = 1,
+["dates"] = {
+[20250426] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-["Sassy Imp"] = {
+},
+["attempts"] = 1,
+},
+["Judgment of Mechagon"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
 ["time"] = 2,
 ["dates"] = {
-[20210923] = {
+[20241219] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Crashin' Thrashin' Flamer Controller"] = {
+["lastAttempts"] = 39,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 39,
+["time"] = 39.8540000000504,
+["totalTime"] = 39.8540000000504,
+["attempts"] = 39,
+},
+},
+["time"] = 39.8540000000504,
+["dates"] = {
+[20191219] = {
+["attempts"] = 1,
+},
+[20181231] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200103] = {
+[20181216] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20200702] = {
-["attempts"] = 1,
+[20181217] = {
+["time"] = 1,
 },
+[20181218] = {
+["time"] = 13.2550000000047,
+["attempts"] = 7,
 },
+[20181219] = {
+["time"] = 1,
 ["attempts"] = 3,
 },
-["Hell-Bent Bracers"] = {
-["time"] = 4,
-["dates"] = {
-[20200309] = {
+[20181220] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 3,
 },
-[20241125] = {
+[20190101] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 8,
 },
-[20200311] = {
+[20190102] = {
+["time"] = 5.84700000006706,
+["attempts"] = 4,
+},
+[20181224] = {
+["time"] = 8.33299999998417,
+["attempts"] = 2,
+},
+[20181225] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20200629] = {
+[20181226] = {
 ["time"] = 1,
+["attempts"] = 2,
+},
+[20181229] = {
+["time"] = 4.41899999999441,
+["attempts"] = 3,
+},
+[20191218] = {
 ["attempts"] = 1,
 },
-[20200528] = {
-["attempts"] = 1,
 },
-},
-["attempts"] = 5,
+["attempts"] = 39,
+["enabled"] = false,
+["realAttempts"] = 39,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 39.8540000000504,
 },
 ["Vesper of Faith"] = {
 ["enabled"] = false,
@@ -20172,14 +22177,14 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180927] = {
+[20190106] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20190105] = {
 ["attempts"] = 1,
 },
-[20190106] = {
+[20180927] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -20280,8 +22285,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -20295,8 +22300,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -20307,11 +22312,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -20319,19 +22324,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -20343,11 +22348,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -20364,8 +22369,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -20403,11 +22408,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -20415,8 +22420,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -20424,10 +22429,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -20484,49 +22489,49 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
 },
 ["Wild Holly"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Ley Spider Eggs"] = {
 ["enabled"] = false,
@@ -20543,55 +22548,28 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["All-Seeing Left Eye"] = {
+["Cosmic Hearthstone"] = {
+["known"] = true,
+["attempts"] = 7,
+["enabled"] = false,
+["found"] = true,
+},
+["Primal Egg"] = {
 ["lastAttempts"] = 13,
 ["finds"] = {
 {
 ["num"] = 1,
 ["totalAttempts"] = 13,
-["time"] = 10,
-["totalTime"] = 10,
+["time"] = 526.362999999983,
+["totalTime"] = 526.362999999983,
 ["attempts"] = 13,
 },
 },
-["time"] = 10,
+["time"] = 526.362999999983,
 ["dates"] = {
-[20200415] = {
-["attempts"] = 1,
-},
-[20200508] = {
-["attempts"] = 1,
-},
-[20200510] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200511] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200302] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200303] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200424] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200412] = {
-["attempts"] = 1,
-},
-[20200413] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200312] = {
-["time"] = 2,
-["attempts"] = 2,
+[20210924] = {
+["time"] = 526.362999999983,
+["attempts"] = 12,
 },
 },
 ["attempts"] = 13,
@@ -20599,36 +22577,7 @@ RarityDB = {
 ["realAttempts"] = 13,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 10,
-},
-["A Collection Of Me"] = {
-["time"] = 5,
-["dates"] = {
-[20231129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240418] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240513] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240330] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240401] = {
-["attempts"] = 1,
-},
-[20231127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 6,
+["lastTime"] = 526.362999999983,
 },
 ["Bowl of Glowing Pufferfish"] = {
 ["lastAttempts"] = 12,
@@ -20662,7 +22611,7 @@ RarityDB = {
 [20190130] = {
 ["attempts"] = 1,
 },
-[20190319] = {
+[20191113] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -20677,7 +22626,7 @@ RarityDB = {
 [20190226] = {
 ["attempts"] = 1,
 },
-[20191113] = {
+[20190319] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -20697,10 +22646,114 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 9,
 },
-["The Heartbreaker"] = {
+["Barrier Generator"] = {
+["lastAttempts"] = 89,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 89,
+["time"] = 38,
+["totalTime"] = 38,
+["attempts"] = 89,
+},
+},
+["time"] = 38,
+["dates"] = {
+[20181122] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190118] = {
+["attempts"] = 5,
+},
+[20180909] = {
+["attempts"] = 1,
+},
+[20181127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190111] = {
+["time"] = 2,
+["attempts"] = 5,
+},
+[20181215] = {
+["attempts"] = 5,
+},
+[20181116] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20180711] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20181120] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20181112] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20181029] = {
+["time"] = 3,
+["attempts"] = 7,
+},
+[20190104] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20190120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190119] = {
+["time"] = 2,
+["attempts"] = 10,
+},
+[20180601] = {
+["attempts"] = 1,
+},
+[20180514] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190109] = {
+["time"] = 2,
+["attempts"] = 10,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190113] = {
+["time"] = 2,
+["attempts"] = 8,
+},
+[20181101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190103] = {
+["attempts"] = 1,
+},
+[20181124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190107] = {
+["time"] = 1,
+["attempts"] = 6,
+},
+},
+["attempts"] = 89,
 ["enabled"] = false,
+["realAttempts"] = 89,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 38,
 },
 ["Ancient Elethium Coin"] = {
 ["lastAttempts"] = 12,
@@ -20728,11 +22781,12 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210127] = {
+[20210321] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210116] = {
+[20210311] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20201222] = {
@@ -20747,19 +22801,18 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210101] = {
-["time"] = 1,
+[20210116] = {
 ["attempts"] = 1,
 },
 [20210223] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210311] = {
+[20210101] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210321] = {
+[20210127] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -20796,293 +22849,6 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 1,
-},
-["Bag of Furious Winds"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Apprentice Slimemancer's Boots"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Brazier Cap"] = {
-["lastAttempts"] = 27,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 27,
-["time"] = 25,
-["totalTime"] = 25,
-["attempts"] = 27,
-},
-},
-["time"] = 25,
-["dates"] = {
-[20190308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190213] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190106] = {
-["attempts"] = 1,
-},
-[20190122] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190420] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190421] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190330] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190311] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190221] = {
-["attempts"] = 1,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190331] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190418] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 27,
-["enabled"] = false,
-["realAttempts"] = 27,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 25,
-},
-["Blight Boar Microphone"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20190107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Coin of Many Faces"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
-["Falling Star Flinger"] = {
-["lastAttempts"] = 11,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 11,
-["time"] = 15.83799999998882,
-["totalTime"] = 15.83799999998882,
-["attempts"] = 11,
-},
-},
-["time"] = 15.83799999998882,
-["dates"] = {
-[20231230] = {
-["time"] = 9.837999999988824,
-["attempts"] = 3,
-},
-[20241230] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20241222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231229] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20241223] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 11,
-["enabled"] = false,
-["realAttempts"] = 11,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 15.83799999998882,
-},
-["Special Edition Foot Ball"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
-["Toy Weapon Set (Alliance)"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
-["Talisman of Sargha"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Odd Polished Stone"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Toy Siege Tower"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Micro-Artillery Controller"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Infested Arachnid Casing"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20210308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Pineapple Lounge Cushion"] = {
-["lastAttempts"] = 14,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 14,
-["time"] = 16.2550000000047,
-["totalTime"] = 16.2550000000047,
-["attempts"] = 14,
-},
-},
-["time"] = 16.2550000000047,
-["dates"] = {
-[20181219] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20181216] = {
-["attempts"] = 2,
-},
-[20181220] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181217] = {
-["time"] = 1,
-},
-[20181218] = {
-["time"] = 13.2550000000047,
-["attempts"] = 7,
-},
-},
-["attempts"] = 14,
-["enabled"] = false,
-["realAttempts"] = 14,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 16.2550000000047,
 },
 ["Small Corpsefly Egg"] = {
 ["lastAttempts"] = 24,
@@ -21183,9 +22949,415 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 22,
 },
-["Toy Weapon Set (Horde)"] = {
-["lastAttempts"] = 2,
+["Bag of Furious Winds"] = {
+["enabled"] = false,
 ["known"] = true,
+["found"] = true,
+},
+["Apprentice Slimemancer's Boots"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Vixx's Chest of Tricks"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Blight Boar Microphone"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20190107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Coin of Many Faces"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Falling Star Flinger"] = {
+["lastAttempts"] = 11,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 11,
+["time"] = 15.83799999998882,
+["totalTime"] = 15.83799999998882,
+["attempts"] = 11,
+},
+},
+["time"] = 15.83799999998882,
+["dates"] = {
+[20231230] = {
+["time"] = 9.837999999988824,
+["attempts"] = 3,
+},
+[20241230] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20241222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231229] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20241223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 11,
+["enabled"] = false,
+["realAttempts"] = 11,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 15.83799999998882,
+},
+["Unstable Portal Emitter"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Special Edition Foot Ball"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Rockin' Rollin' Racer Customizer 19.9.3"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Crashin' Thrashin' Mortar Controller"] = {
+["lastAttempts"] = 15,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 15,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 15,
+},
+},
+["time"] = 10,
+["dates"] = {
+[20180616] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180620] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180621] = {
+["attempts"] = 1,
+},
+[20180622] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180624] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180625] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180628] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180612] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180613] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180627] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 15,
+["enabled"] = false,
+["realAttempts"] = 15,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
+},
+["Odd Polished Stone"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Pristine Cloud Serpent Scale"] = {
+["lastAttempts"] = 3,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 3,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 3,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20200405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200613] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+["enabled"] = false,
+["realAttempts"] = 3,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3,
+},
+["A Collection Of Me"] = {
+["time"] = 5,
+["dates"] = {
+[20231129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240418] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240513] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240401] = {
+["attempts"] = 1,
+},
+[20240330] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+},
+["All-Seeing Left Eye"] = {
+["lastAttempts"] = 13,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 13,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 13,
+},
+},
+["time"] = 10,
+["dates"] = {
+[20200415] = {
+["attempts"] = 1,
+},
+[20200508] = {
+["attempts"] = 1,
+},
+[20200510] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200511] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200302] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200303] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200424] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200412] = {
+["attempts"] = 1,
+},
+[20200413] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200312] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 13,
+["enabled"] = false,
+["realAttempts"] = 13,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
+},
+["Unusual Compass"] = {
+["lastAttempts"] = 29,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 29,
+["time"] = 46.55200000005427,
+["totalTime"] = 46.55200000005427,
+["attempts"] = 29,
+},
+},
+["time"] = 46.55200000005427,
+["dates"] = {
+[20190320] = {
+["attempts"] = 24,
+},
+[20181209] = {
+["time"] = 37.5260000000708,
+["attempts"] = 3,
+},
+[20191119] = {
+["time"] = 9.025999999983469,
+["attempts"] = 2,
+},
+},
+["attempts"] = 29,
+["enabled"] = false,
+["realAttempts"] = 29,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 46.55200000005427,
+},
+["Molten Lava Pack"] = {
+["lastAttempts"] = 9,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 9,
+["time"] = 6,
+["totalTime"] = 6,
+["attempts"] = 9,
+},
+},
+["time"] = 6,
+["dates"] = {
+[20231028] = {
+["attempts"] = 1,
+},
+[20231022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231010] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231014] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231031] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231015] = {
+["attempts"] = 1,
+},
+[20231217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 9,
+["enabled"] = false,
+["realAttempts"] = 9,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 6,
+},
+["Toy Siege Tower"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Micro-Artillery Controller"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Explosive Hearthstone"] = {
+["lastAttempts"] = 2,
 ["finds"] = {
 {
 ["totalAttempts"] = 2,
@@ -21194,125 +23366,123 @@ RarityDB = {
 ["attempts"] = 2,
 },
 },
-["dates"] = {
-[20241231] = {
-["attempts"] = 2,
-},
-},
 ["attempts"] = 2,
 ["enabled"] = false,
 ["realAttempts"] = 2,
-["found"] = true,
 ["totalFinds"] = 1,
+["found"] = true,
 },
-["Barrier Generator"] = {
-["lastAttempts"] = 89,
+["Glittering Vault Shard"] = {
+["lastAttempts"] = 4,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 89,
-["time"] = 38,
-["totalTime"] = 38,
-["attempts"] = 89,
+["totalAttempts"] = 4,
+["time"] = 98.28099999995902,
+["totalTime"] = 98.28099999995902,
+["attempts"] = 4,
 },
 },
-["time"] = 38,
+["time"] = 98.28099999995902,
 ["dates"] = {
-[20181122] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190118] = {
-["attempts"] = 5,
-},
-[20180909] = {
-["attempts"] = 1,
-},
-[20181127] = {
+[20250406] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190111] = {
-["time"] = 2,
-["attempts"] = 5,
+[20250407] = {
+["time"] = 96.28099999995902,
+["attempts"] = 2,
 },
-[20181215] = {
-["attempts"] = 5,
-},
-[20181116] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20180711] = {
-["time"] = 3,
-["attempts"] = 5,
-},
-[20181120] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20181112] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181029] = {
-["time"] = 3,
-["attempts"] = 7,
-},
-[20190104] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20190120] = {
+[20260102] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190119] = {
-["time"] = 2,
-["attempts"] = 10,
 },
-[20180601] = {
-["attempts"] = 1,
-},
-[20180514] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190109] = {
-["time"] = 2,
-["attempts"] = 10,
-},
-[20190113] = {
-["time"] = 2,
-["attempts"] = 8,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190103] = {
-["attempts"] = 1,
-},
-[20181124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190107] = {
-["time"] = 1,
-["attempts"] = 6,
-},
-},
-["attempts"] = 89,
+["attempts"] = 4,
 ["enabled"] = false,
-["realAttempts"] = 89,
+["realAttempts"] = 4,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 38,
+["lastTime"] = 98.28099999995902,
+},
+["Infested Arachnid Casing"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20210308] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Safari Lounge Cushion"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["The Heartbreaker"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Toy Weapon Set (Alliance)"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Shard of Archstone"] = {
+["lastAttempts"] = 4,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 4,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 4,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20191129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200922] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200416] = {
+["attempts"] = 1,
+},
+[20200918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 4,
+["enabled"] = false,
+["realAttempts"] = 4,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3,
 },
 ["Spectral Visage"] = {
 ["lastAttempts"] = 21,
@@ -21368,19 +23538,19 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190311] = {
-["time"] = 1,
-["attempts"] = 1,
-},
 [20180927] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181213] = {
+[20190311] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181213] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -21407,12 +23577,24 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 20,
 },
-["Rockin' Rollin' Racer Customizer 19.9.3"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
+["Shadescale"] = {
+["time"] = 2,
+["dates"] = {
+[20200508] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-["Twiddle Twirler: Sentinel's Glaive"] = {
+[20190915] = {
+["attempts"] = 1,
+},
+[20190903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+},
+["Black Whirlwind"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -21431,33 +23613,33 @@ RarityDB = {
 },
 ["time"] = 40,
 ["dates"] = {
-[20190213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190122] = {
-["time"] = 3,
-["attempts"] = 3,
-},
 [20191118] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20190217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190602] = {
+[20190308] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 [20191114] = {
 ["time"] = 1,
 ["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190122] = {
+["time"] = 3,
+["attempts"] = 3,
 },
 [20191003] = {
 ["time"] = 2,
@@ -21467,16 +23649,17 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191024] = {
+[20191115] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20190204] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190202] = {
-["time"] = 1,
-["attempts"] = 1,
+[20191004] = {
+["time"] = 3,
+["attempts"] = 3,
 },
 [20190611] = {
 ["time"] = 1,
@@ -21486,8 +23669,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191115] = {
-["time"] = 1,
+[20191024] = {
 ["attempts"] = 1,
 },
 [20181021] = {
@@ -21530,13 +23712,13 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190311] = {
-["time"] = 1,
-["attempts"] = 2,
-},
 [20180927] = {
 ["time"] = 1,
 ["attempts"] = 1,
+},
+[20190311] = {
+["time"] = 1,
+["attempts"] = 2,
 },
 [20190101] = {
 ["time"] = 1,
@@ -21546,15 +23728,15 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191004] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191023] = {
+[20190202] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191209] = {
+[20190602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190217] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -21624,57 +23806,45 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 10,
 },
-["Molten Lava Pack"] = {
-["lastAttempts"] = 9,
+["Pineapple Lounge Cushion"] = {
+["lastAttempts"] = 14,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 9,
-["time"] = 6,
-["totalTime"] = 6,
-["attempts"] = 9,
+["totalAttempts"] = 14,
+["time"] = 16.2550000000047,
+["totalTime"] = 16.2550000000047,
+["attempts"] = 14,
 },
 },
-["time"] = 6,
+["time"] = 16.2550000000047,
 ["dates"] = {
-[20231028] = {
-["attempts"] = 1,
-},
-[20231022] = {
+[20181219] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 3,
 },
-[20231010] = {
-["time"] = 1,
-["attempts"] = 1,
+[20181216] = {
+["attempts"] = 2,
 },
-[20231014] = {
+[20181220] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20231217] = {
+[20181217] = {
 ["time"] = 1,
-["attempts"] = 1,
 },
-[20231015] = {
-["attempts"] = 1,
-},
-[20231031] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231210] = {
-["time"] = 1,
-["attempts"] = 1,
+[20181218] = {
+["time"] = 13.2550000000047,
+["attempts"] = 7,
 },
 },
-["attempts"] = 9,
+["attempts"] = 14,
 ["enabled"] = false,
-["realAttempts"] = 9,
+["realAttempts"] = 14,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 6,
+["lastTime"] = 16.2550000000047,
 },
 ["Aquatic Shades"] = {
 ["enabled"] = false,
@@ -21686,35 +23856,38 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Mark of Purity"] = {
-["lastAttempts"] = 1,
+["Void-Touched Souvenir Totem"] = {
+["lastAttempts"] = 2,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
 },
 },
-["time"] = 1,
 ["dates"] = {
-[20210118] = {
+[20200318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200325] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 1,
+["attempts"] = 2,
 ["enabled"] = false,
-["realAttempts"] = 1,
+["realAttempts"] = 2,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 1,
+["lastTime"] = 2,
+["time"] = 2,
 },
-["Orb of the Sin'dorei"] = {
+["Old Ironjaw"] = {
 ["enabled"] = false,
-["known"] = true,
 ["found"] = true,
 },
 ["Box of Rattling Chains"] = {
@@ -21958,64 +24131,14 @@ RarityDB = {
 ["found"] = true,
 },
 ["The Pigskin"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
+},
+["Crashin' Thrashin' Shredder Controller"] = {
 ["enabled"] = false,
-},
-["Trans-mogu-rifier"] = {
-["time"] = 10,
-["dates"] = {
-[20201029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200612] = {
-["attempts"] = 1,
-},
-[20200602] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200601] = {
-["attempts"] = 1,
-},
-[20200407] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200514] = {
-["attempts"] = 1,
-},
-[20200710] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200825] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200923] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200124] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 13,
+["known"] = true,
+["found"] = true,
 },
 ["Adamant Vaults Cell"] = {
 ["enabled"] = false,
@@ -22027,43 +24150,43 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Makaris's Satchel of Mines"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
+["All-Seeing Right Eye"] = {
 ["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 2,
-},
-},
 ["dates"] = {
-[20220318] = {
+[20200309] = {
+["attempts"] = 1,
+},
+[20200502] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220512] = {
+[20200701] = {
 ["attempts"] = 1,
 },
 },
-["attempts"] = 2,
+["attempts"] = 3,
+},
+["Chain Pet Leash"] = {
 ["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 1,
-["time"] = 1,
 },
-["Hozen Beach Ball"] = {
+["Sphere of Enlightened Cogitation"] = {
 ["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
 {
-["time"] = 0,
 ["num"] = 1,
 ["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20220602] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
@@ -22072,50 +24195,32 @@ RarityDB = {
 ["realAttempts"] = 1,
 ["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 1,
 },
-["Void-Touched Souvenir Totem"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
-},
-},
+["Hell-Bent Bracers"] = {
+["time"] = 4,
 ["dates"] = {
-[20200318] = {
+[20200309] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200325] = {
+[20241125] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
-["time"] = 2,
-},
-["Bottled Shade Heart"] = {
-["lastAttempts"] = 0,
-["known"] = true,
-["time"] = 1,
-["dates"] = {
-[20210818] = {
+[20200311] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-},
+[20200629] = {
+["time"] = 1,
 ["attempts"] = 1,
-["enabled"] = false,
-["found"] = true,
+},
+[20200528] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 5,
 },
 ["Piccolo of the Flaming Fire"] = {
 ["lastAttempts"] = 9,
@@ -22173,7 +24278,17 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 9,
 },
-["Old Ironjaw"] = {
+["Bottled Shade Heart"] = {
+["lastAttempts"] = 0,
+["known"] = true,
+["time"] = 1,
+["dates"] = {
+[20210818] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
 ["enabled"] = false,
 ["found"] = true,
 },
@@ -22257,27 +24372,92 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Helpful Wikky's Whistle"] = {
+["Skull of Corruption"] = {
+["lastAttempts"] = 66,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 66,
+["time"] = 591.177,
+["totalTime"] = 591.177,
+["attempts"] = 66,
+},
+},
+["time"] = 591.177,
+["dates"] = {
+[20190214] = {
+["time"] = 589.177,
+["attempts"] = 2,
+},
+[20190303] = {
+["attempts"] = 1,
+},
+[20181215] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 66,
 ["enabled"] = false,
+["realAttempts"] = 66,
+["totalFinds"] = 1,
 ["known"] = true,
 ["found"] = true,
+["lastTime"] = 591.177,
 },
-["Shadescale"] = {
-["time"] = 2,
+["Highborne Memento"] = {
+["lastAttempts"] = 10,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 10,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 10,
+},
+},
+["time"] = 10,
 ["dates"] = {
-[20200508] = {
+[20190322] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190915] = {
+[20190204] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20190903] = {
+[20190221] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190317] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190224] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190406] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190303] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190315] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 3,
+["attempts"] = 10,
+["enabled"] = false,
+["realAttempts"] = 10,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
 },
 ["Bewitching Tea Set"] = {
 ["lastAttempts"] = 1,
@@ -22344,30 +24524,145 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 405.027000000002,
 },
-["Primal Egg"] = {
-["lastAttempts"] = 13,
+["Greatfather Winter's Hearthstone"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Brazier Cap"] = {
+["lastAttempts"] = 27,
+["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 13,
-["time"] = 526.362999999983,
-["totalTime"] = 526.362999999983,
-["attempts"] = 13,
+["totalAttempts"] = 27,
+["time"] = 25,
+["totalTime"] = 25,
+["attempts"] = 27,
 },
 },
-["time"] = 526.362999999983,
+["time"] = 25,
 ["dates"] = {
-[20210924] = {
-["time"] = 526.362999999983,
-["attempts"] = 12,
+[20190308] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190106] = {
+["attempts"] = 1,
+},
+[20190122] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190420] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190421] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190330] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190311] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190221] = {
+["attempts"] = 1,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190331] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190418] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
-["attempts"] = 13,
+["attempts"] = 27,
 ["enabled"] = false,
-["realAttempts"] = 13,
+["realAttempts"] = 27,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 526.362999999983,
+["lastTime"] = 25,
+},
+["Sightless Eye"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Hearthstation (Horde)"] = {
+["time"] = 1,
+["dates"] = {
+[20241231] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+},
+["attempts"] = 2,
 },
 ["Sira's Extra Cloak"] = {
 ["lastAttempts"] = 31,
@@ -22383,23 +24678,23 @@ RarityDB = {
 },
 ["time"] = 113.187999999951,
 ["dates"] = {
-[20180705] = {
-["time"] = 44.5040000000008,
-["attempts"] = 5,
-},
 [20181021] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180513] = {
+[20180705] = {
+["time"] = 44.5040000000008,
+["attempts"] = 5,
+},
+[20180814] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180902] = {
-["time"] = 6.44000000000233,
-["attempts"] = 2,
+[20180512] = {
+["time"] = 1,
+["attempts"] = 4,
 },
-[20180603] = {
+[20180513] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -22435,13 +24730,13 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180814] = {
+[20180603] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180512] = {
-["time"] = 1,
-["attempts"] = 4,
+[20180902] = {
+["time"] = 6.44000000000233,
+["attempts"] = 2,
 },
 },
 ["attempts"] = 31,
@@ -22451,124 +24746,49 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 113.187999999951,
 },
-["Mnemonic Attunement Pane"] = {
-["lastAttempts"] = 16,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 16,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 16,
-},
-},
-["time"] = 10,
-["dates"] = {
-[20250304] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210330] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250305] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250228] = {
-["attempts"] = 2,
-},
-[20250221] = {
-["attempts"] = 1,
-},
-[20210412] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250223] = {
-["attempts"] = 1,
-},
-[20250225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250302] = {
-["attempts"] = 1,
-},
-[20250301] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250226] = {
-["attempts"] = 1,
-},
-[20250303] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210823] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250311] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 16,
-["enabled"] = false,
-["realAttempts"] = 16,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 10,
-},
-["Chalice of Secrets"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Festive Trans-Dimensional Bird Whistle"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20231229] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
 ["Moonfang Shroud"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Twiddle Twirler: Shredder Blade"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Unstable Powder Box"] = {
-["enabled"] = false,
+["Falling Star Catcher"] = {
+["lastAttempts"] = 7,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 7,
+["time"] = 11.83799999998882,
+["totalTime"] = 11.83799999998882,
+["attempts"] = 7,
+},
+},
+["time"] = 11.83799999998882,
+["dates"] = {
+[20231229] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20231230] = {
+["time"] = 9.837999999988824,
+["attempts"] = 3,
+},
+[20241222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 7,
+["enabled"] = false,
+["realAttempts"] = 7,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 11.83799999998882,
 },
 ["Strange Goop"] = {
 ["lastAttempts"] = 135,
@@ -22596,10 +24816,10 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2048.323999999999,
 },
-["Scroll of Storytelling"] = {
+["MiniZep Controller"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Holoviewer: The Lady of Dreams"] = {
 ["enabled"] = false,
@@ -22636,104 +24856,70 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2,
 },
-["Eternal Kiln"] = {
-["lastAttempts"] = 261,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 261,
-["time"] = 4308.22600000065,
-["totalTime"] = 4308.22600000065,
-["attempts"] = 261,
-},
-},
-["time"] = 4308.22600000065,
-["dates"] = {
-[20181027] = {
-["time"] = 260.410000000149,
-["attempts"] = 30,
-},
-[20181021] = {
-["time"] = 116.942000000039,
-["attempts"] = 18,
-},
-[20190302] = {
-["time"] = 809.657000000007,
-["attempts"] = 35,
-},
-[20190128] = {
-["time"] = 1302.45500000007,
-["attempts"] = 86,
-},
-[20181029] = {
-["time"] = 223.775000000373,
-["attempts"] = 28,
-},
-[20190301] = {
-["time"] = 1594.987,
-["attempts"] = 64,
-},
-},
-["attempts"] = 261,
+["Crashin' Thrashin' Flyer Controller"] = {
 ["enabled"] = false,
-["realAttempts"] = 261,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 4308.22600000065,
 },
-["Falling Star Catcher"] = {
-["lastAttempts"] = 7,
+["Mr. Pinchy"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Chowdar's Favorite Ribbon"] = {
+["lastAttempts"] = 6,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 7,
-["time"] = 11.83799999998882,
-["totalTime"] = 11.83799999998882,
-["attempts"] = 7,
+["totalAttempts"] = 6,
+["time"] = 6,
+["totalTime"] = 6,
+["attempts"] = 6,
 },
 },
-["time"] = 11.83799999998882,
+["time"] = 6,
 ["dates"] = {
-[20231229] = {
+[20251002] = {
 ["time"] = 1,
-["attempts"] = 3,
+["attempts"] = 1,
 },
-[20231230] = {
-["time"] = 9.837999999988824,
-["attempts"] = 3,
+[20250922] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20241222] = {
+[20250912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250925] = {
+["attempts"] = 1,
+},
+[20251012] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250926] = {
+["time"] = 1,
+},
+[20251006] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 7,
+["attempts"] = 6,
 ["enabled"] = false,
-["realAttempts"] = 7,
+["realAttempts"] = 6,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 11.83799999998882,
-},
-["Worn Troll Dice"] = {
-["enabled"] = false,
-["found"] = true,
-["known"] = true,
+["lastTime"] = 6,
 },
 ["Crackling Shard"] = {
-["time"] = 33423.95600000122,
+["time"] = 234434.0270000032,
 ["dates"] = {
-[20250324] = {
-["time"] = 20.30200000002515,
-["attempts"] = 2,
-},
-[20250328] = {
-["time"] = 6643.611000000266,
-["attempts"] = 391,
-},
-[20250317] = {
-["attempts"] = 47,
+[20250815] = {
+["time"] = 156.4820000000182,
+["attempts"] = 11,
 },
 [20250305] = {
 ["attempts"] = 45,
@@ -22741,142 +24927,937 @@ RarityDB = {
 [20250321] = {
 ["attempts"] = 80,
 },
-[20250325] = {
-["time"] = 558.6579999999376,
-["attempts"] = 31,
+[20250608] = {
+["time"] = 1233.763999999967,
+["attempts"] = 121,
 },
-[20250329] = {
-["time"] = 5515.570000000531,
-["attempts"] = 271,
+[20250624] = {
+["attempts"] = 48,
 },
 [20250401] = {
 ["time"] = 1,
 ["attempts"] = 8,
 },
-[20250318] = {
-["time"] = 665.2569999999832,
-["attempts"] = 57,
+[20250417] = {
+["time"] = 2029.794000000052,
+["attempts"] = 175,
+},
+[20251214] = {
+["time"] = 1210.018999999971,
+["attempts"] = 97,
+},
+[20250704] = {
+["time"] = 687.2060000000056,
+["attempts"] = 36,
+},
+[20250720] = {
+["time"] = 332.9960000000428,
+["attempts"] = 5,
+},
+[20251007] = {
+["time"] = 712.0919999999896,
+["attempts"] = 53,
+},
+[20251023] = {
+["attempts"] = 16,
+},
+[20250513] = {
+["time"] = 140.8189999999013,
+["attempts"] = 110,
+},
+[20250529] = {
+["time"] = 3554.268000000157,
+["attempts"] = 62,
 },
 [20250322] = {
 ["attempts"] = 14,
 },
-[20250326] = {
-["time"] = 2425.665000000037,
-["attempts"] = 150,
+[20251119] = {
+["time"] = 139.7759999999998,
+["attempts"] = 37,
 },
-[20250330] = {
-["time"] = 3053.466000000015,
-["attempts"] = 77,
+[20250609] = {
+["time"] = 1166.219000000041,
+["attempts"] = 40,
+},
+[20250625] = {
+["time"] = 1175.611000000034,
+["attempts"] = 124,
 },
 [20250402] = {
 ["time"] = 387.3020000001416,
 ["attempts"] = 5,
 },
-[20250319] = {
-["attempts"] = 90,
+[20250418] = {
+["time"] = 2964.133000000147,
+["attempts"] = 334,
 },
-[20250406] = {
-["time"] = 427.4180000000633,
+[20251215] = {
+["time"] = 5393.21899999999,
+["attempts"] = 283,
+},
+[20250705] = {
+["time"] = 185.9659999997821,
+["attempts"] = 13,
+},
+[20250721] = {
+["time"] = 652.8819999999832,
+["attempts"] = 47,
+},
+[20251008] = {
+["time"] = 55.45800000001327,
 ["attempts"] = 9,
+},
+[20250514] = {
+["time"] = 2011.72900000005,
+["attempts"] = 75,
+},
+[20250801] = {
+["time"] = 371.5169999997597,
+["attempts"] = 65,
+},
+[20250817] = {
+["time"] = 403.9309999999824,
+["attempts"] = 27,
 },
 [20250323] = {
 ["time"] = 2884.098999999813,
 ["attempts"] = 198,
 },
-[20250327] = {
-["time"] = 2764.50800000038,
-["attempts"] = 151,
+[20250610] = {
+["attempts"] = 18,
 },
-[20250331] = {
-["time"] = 3502.051000000211,
-["attempts"] = 448,
-},
-[20250405] = {
-["time"] = 2532.763999999734,
-["attempts"] = 47,
+[20250626] = {
+["time"] = 693.807999999728,
+["attempts"] = 56,
 },
 [20250403] = {
 ["time"] = 826.445000000298,
 ["attempts"] = 49,
 },
-[20250316] = {
-["time"] = 274.19200000001,
-["attempts"] = 20,
+[20250419] = {
+["time"] = 2120.411000000197,
+["attempts"] = 74,
+},
+[20250706] = {
+["time"] = 420.0279999999329,
+["attempts"] = 64,
+},
+[20250722] = {
+["time"] = 532.966999999946,
+["attempts"] = 23,
+},
+[20251009] = {
+["time"] = 186.2549999999756,
+["attempts"] = 42,
+},
+[20251025] = {
+["time"] = 32.78800000005867,
+["attempts"] = 6,
+},
+[20250531] = {
+["time"] = 3797.602000000188,
+["attempts"] = 252,
+},
+[20250802] = {
+["attempts"] = 42,
+},
+[20250818] = {
+["time"] = 63.1929999999702,
+["attempts"] = 21,
+},
+[20250324] = {
+["time"] = 20.30200000002515,
+["attempts"] = 2,
+},
+[20250611] = {
+["time"] = 2166.496999999992,
+["attempts"] = 229,
+},
+[20250627] = {
+["time"] = 319.4069999998901,
+["attempts"] = 69,
 },
 [20250404] = {
 ["time"] = 690.0369999997783,
 ["attempts"] = 26,
 },
+[20250420] = {
+["time"] = 515.8289999999106,
+["attempts"] = 26,
+},
+[20250707] = {
+["time"] = 1558.528000000166,
+["attempts"] = 336,
+},
+[20250723] = {
+["time"] = 1420.97900000005,
+["attempts"] = 116,
+},
+[20251010] = {
+["time"] = 839.8429999999353,
+["attempts"] = 34,
+},
+[20250516] = {
+["time"] = 2062.620000000024,
+["attempts"] = 98,
+},
+[20250803] = {
+["time"] = 56.07200000016019,
+["attempts"] = 4,
+},
+[20250819] = {
+["time"] = 194.8849999999511,
+["attempts"] = 13,
+},
+[20250325] = {
+["time"] = 558.6579999999376,
+["attempts"] = 31,
+},
+[20250612] = {
+["time"] = 2742.419000000024,
+["attempts"] = 69,
+},
+[20250628] = {
+["time"] = 2392.702000000281,
+["attempts"] = 85,
+},
+[20250927] = {
+["time"] = 722.5820000000022,
+["attempts"] = 34,
+},
+[20250405] = {
+["time"] = 2532.763999999734,
+["attempts"] = 47,
+},
+[20260218] = {
+["time"] = 427.1210000000428,
+["attempts"] = 27,
+},
+[20251202] = {
+["time"] = 175.2380000000003,
+["attempts"] = 20,
+},
+[20250708] = {
+["time"] = 4430.986000000499,
+["attempts"] = 72,
+},
+[20250724] = {
+["time"] = 873.4189999999944,
+["attempts"] = 93,
+},
+[20260221] = {
+["time"] = 493.362000000081,
+["attempts"] = 3,
+},
+[20250501] = {
+["time"] = 727.3710000000028,
+["attempts"] = 98,
+},
+[20250517] = {
+["attempts"] = 20,
+},
+[20260220] = {
+["time"] = 5.947000000043772,
+["attempts"] = 2,
+},
+[20250804] = {
+["time"] = 303.6529999999329,
+["attempts"] = 18,
+},
+[20250820] = {
+["time"] = 1,
+["attempts"] = 8,
+},
+[20250326] = {
+["time"] = 2425.665000000037,
+["attempts"] = 150,
+},
+[20251216] = {
+["time"] = 2471.292000000001,
+["attempts"] = 92,
+},
+[20250613] = {
+["time"] = 2397.227000000013,
+["attempts"] = 118,
+},
+[20250629] = {
+["time"] = 187.5220000001136,
+["attempts"] = 17,
+},
+[20250614] = {
+["time"] = 364.0999999999995,
+["attempts"] = 113,
+},
+[20250406] = {
+["time"] = 3773.385000000009,
+["attempts"] = 222,
+},
+[20250422] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251203] = {
+["time"] = 134.351999999999,
+["attempts"] = 18,
+},
+[20250709] = {
+["time"] = 54.29500000025291,
+["attempts"] = 49,
+},
+[20250725] = {
+["time"] = 4169.122999999905,
+["attempts"] = 155,
+},
+[20250929] = {
+["time"] = 1,
+["attempts"] = 11,
+},
+[20250502] = {
+["time"] = 285.1359999999986,
+["attempts"] = 28,
+},
+[20250518] = {
+["attempts"] = 40,
+},
+[20251213] = {
+["time"] = 215.9710000000196,
+["attempts"] = 26,
+},
+[20250805] = {
+["time"] = 48.00100000016391,
+["attempts"] = 2,
+},
+[20250821] = {
+["time"] = 1724.866000000038,
+["attempts"] = 81,
+},
+[20250327] = {
+["time"] = 2764.50800000038,
+["attempts"] = 151,
+},
+[20251108] = {
+["attempts"] = 20,
+},
+[20251124] = {
+["time"] = 78.55499999999302,
+["attempts"] = 6,
+},
+[20250630] = {
+["time"] = 3243.246000000043,
+["attempts"] = 106,
+},
+[20250901] = {
+["time"] = 223.969000000041,
+["attempts"] = 37,
+},
+[20250407] = {
+["time"] = 111.1689999999944,
+["attempts"] = 31,
+},
+[20250423] = {
+["time"] = 183.8319999999367,
+["attempts"] = 60,
+},
+[20250710] = {
+["time"] = 990.2909999999902,
+["attempts"] = 258,
+},
+[20251220] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20250726] = {
+["time"] = 724.0779999999795,
+["attempts"] = 37,
+},
+[20250615] = {
+["time"] = 599.7159999999931,
+["attempts"] = 121,
+},
+[20250503] = {
+["time"] = 328.4229999999807,
+["attempts"] = 23,
+},
+[20250519] = {
+["time"] = 966.304999999993,
+["attempts"] = 96,
+},
+[20260225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250806] = {
+["time"] = 535.0159999998286,
+["attempts"] = 40,
+},
+[20251013] = {
+["time"] = 2489.824000000022,
+["attempts"] = 168,
+},
+[20250328] = {
+["time"] = 6643.611000000266,
+["attempts"] = 391,
+},
+[20251121] = {
+["time"] = 248.4900000000198,
+["attempts"] = 17,
+},
+[20260305] = {
+["time"] = 2078.782999999821,
+["attempts"] = 165,
+},
+[20250711] = {
+["time"] = 1800.247000000003,
+["attempts"] = 128,
+},
+[20250928] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250408] = {
+["time"] = 180.5380000001751,
+["attempts"] = 88,
+},
+[20250424] = {
+["time"] = 1634.267,
+["attempts"] = 91,
+},
+[20251205] = {
+["attempts"] = 13,
+},
+[20251221] = {
+["time"] = 622.6319999999832,
+["attempts"] = 45,
+},
+[20250727] = {
+["time"] = 986.9480000000913,
+["attempts"] = 49,
+},
+[20251011] = {
+["time"] = 24.65700000000652,
+["attempts"] = 8,
+},
+[20251014] = {
+["time"] = 342.5219999999972,
+["attempts"] = 6,
+},
+[20250520] = {
+["attempts"] = 80,
+},
+[20251012] = {
+["time"] = 232.698999999906,
+["attempts"] = 32,
+},
+[20250918] = {
+["time"] = 353.9020000000019,
+["attempts"] = 12,
+},
+[20250823] = {
+["time"] = 1094.603000000003,
+["attempts"] = 37,
+},
+[20250329] = {
+["time"] = 5515.570000000531,
+["attempts"] = 271,
+},
+[20250919] = {
+["time"] = 1768.134999999893,
+["attempts"] = 130,
+},
+[20250616] = {
+["attempts"] = 42,
+},
+[20250930] = {
+["time"] = 63.28200000000652,
+["attempts"] = 3,
+},
+[20250903] = {
+["time"] = 453.7630000000354,
+["attempts"] = 41,
+},
+[20250409] = {
+["time"] = 3799.210999999662,
+["attempts"] = 397,
+},
+[20250617] = {
+["attempts"] = 38,
+},
+[20251206] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250712] = {
+["time"] = 2644.660000000003,
+["attempts"] = 86,
+},
+[20250728] = {
+["time"] = 139.5939999998082,
+["attempts"] = 12,
+},
+[20250920] = {
+["attempts"] = 32,
+},
+[20250505] = {
+["time"] = 2456.318000000028,
+["attempts"] = 222,
+},
+[20250521] = {
+["time"] = 151.1170000000275,
+["attempts"] = 17,
+},
+[20260227] = {
+["time"] = 111.7330000000075,
+["attempts"] = 13,
+},
+[20250808] = {
+["attempts"] = 16,
+},
+[20250824] = {
+["attempts"] = 30,
+},
+[20250330] = {
+["time"] = 3053.466000000015,
+["attempts"] = 77,
+},
+[20250601] = {
+["time"] = 605.7820000001229,
+["attempts"] = 36,
+},
+[20260307] = {
+["time"] = 1086.656999999657,
+["attempts"] = 20,
+},
+[20250915] = {
+["time"] = 587.4440000000177,
+["attempts"] = 53,
+},
+[20250904] = {
+["time"] = 475.5110000001732,
+["attempts"] = 97,
+},
+[20250410] = {
+["time"] = 5698.560000000522,
+["attempts"] = 229,
+},
+[20250426] = {
+["time"] = 250.5139999999956,
+["attempts"] = 12,
+},
+[20251207] = {
+["time"] = 397.7719999999972,
+["attempts"] = 25,
+},
+[20250713] = {
+["time"] = 366.4530000000086,
+["attempts"] = 148,
+},
+[20250729] = {
+["time"] = 142.528999999864,
+["attempts"] = 24,
+},
+[20250411] = {
+["time"] = 1558.32000000024,
+["attempts"] = 99,
+},
+[20251016] = {
+["time"] = 1230.648000000045,
+["attempts"] = 61,
+},
+[20250522] = {
+["time"] = 1023.335000000079,
+["attempts"] = 15,
+},
+[20251212] = {
+["time"] = 487.3999999999651,
+["attempts"] = 5,
+},
+[20250809] = {
+["time"] = 1121.13199999975,
+["attempts"] = 186,
+},
 [20250315] = {
 ["time"] = 251.6109999999972,
 ["attempts"] = 28,
 },
+[20250331] = {
+["time"] = 3502.051000000211,
+["attempts"] = 448,
 },
-["attempts"] = 2244,
+[20250602] = {
+["time"] = 186.7739999999758,
+["attempts"] = 9,
 },
-["Safari Lounge Cushion"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
+[20250917] = {
+["attempts"] = 6,
 },
-["Crashin' Thrashin' Flyer Controller"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
+[20250415] = {
+["attempts"] = 34,
 },
-["Highborne Memento"] = {
-["lastAttempts"] = 10,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 10,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 10,
+[20250905] = {
+["time"] = 1108.936999999918,
+["attempts"] = 36,
 },
+[20250921] = {
+["time"] = 106.8049999999348,
+["attempts"] = 46,
 },
-["time"] = 10,
-["dates"] = {
-[20190322] = {
-["time"] = 1,
-["attempts"] = 1,
+[20250427] = {
+["time"] = 1361.69000000001,
+["attempts"] = 39,
 },
-[20190204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190224] = {
-["time"] = 2,
+[20251208] = {
 ["attempts"] = 2,
 },
-[20190315] = {
+[20250714] = {
+["attempts"] = 36,
+},
+[20250730] = {
+["attempts"] = 130,
+},
+[20251001] = {
+["time"] = 517.9469999999856,
+["attempts"] = 31,
+},
+[20250507] = {
+["time"] = 2852.890000000014,
+["attempts"] = 74,
+},
+[20250523] = {
+["attempts"] = 10,
+},
+[20250914] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190221] = {
-["time"] = 2,
+[20250810] = {
+["time"] = 192.6699999999255,
+["attempts"] = 34,
+},
+[20250922] = {
+["time"] = 424.1389999999665,
+["attempts"] = 42,
+},
+[20260102] = {
+["time"] = 1542.436000000002,
+["attempts"] = 62,
+},
+[20250603] = {
+["time"] = 3517.336000000127,
+["attempts"] = 111,
+},
+[20260309] = {
+["time"] = 219.8590000001714,
+["attempts"] = 4,
+},
+[20250524] = {
+["time"] = 3443.740000000108,
+["attempts"] = 168,
+},
+[20250412] = {
+["time"] = 1579.523000000016,
+["attempts"] = 200,
+},
+[20250428] = {
+["time"] = 1173.88499999998,
+["attempts"] = 87,
+},
+[20250912] = {
+["time"] = 1111.567000000003,
+["attempts"] = 36,
+},
+[20251209] = {
+["time"] = 222.0170000000071,
+["attempts"] = 11,
+},
+[20250715] = {
+["time"] = 583.7719999999972,
+["attempts"] = 43,
+},
+[20250731] = {
+["time"] = 2512.236000000034,
+["attempts"] = 57,
+},
+[20251002] = {
+["time"] = 2024.91100000008,
+["attempts"] = 87,
+},
+[20251018] = {
+["time"] = 1,
+["attempts"] = 25,
+},
+[20250829] = {
+["attempts"] = 39,
+},
+[20251130] = {
+["time"] = 138.2970000000205,
+["attempts"] = 22,
+},
+[20250317] = {
+["attempts"] = 47,
+},
+[20250827] = {
+["time"] = 568.5879999999888,
+["attempts"] = 28,
+},
+[20250604] = {
+["time"] = 902.5949999999721,
+["attempts"] = 54,
+},
+[20250620] = {
+["time"] = 2209.330999999947,
+["attempts"] = 119,
+},
+[20260310] = {
+["time"] = 11.51399999996647,
+},
+[20250907] = {
+["time"] = 1496.156999999657,
+["attempts"] = 92,
+},
+[20250413] = {
+["time"] = 1980.271999999968,
+["attempts"] = 172,
+},
+[20250923] = {
+["time"] = 140.1530000000494,
+["attempts"] = 22,
+},
+[20251210] = {
+["time"] = 44.92600000000675,
+["attempts"] = 4,
+},
+[20250716] = {
+["time"] = 1896.558999999892,
+["attempts"] = 70,
+},
+[20250510] = {
+["attempts"] = 52,
+},
+[20251003] = {
+["time"] = 853.0100000000093,
+["attempts"] = 95,
+},
+[20250509] = {
+["time"] = 1900.368000000017,
+["attempts"] = 159,
+},
+[20250525] = {
+["time"] = 2042.022999999928,
+["attempts"] = 147,
+},
+[20250828] = {
+["time"] = 731.4539999999106,
+["attempts"] = 27,
+},
+[20250812] = {
+["time"] = 90.55600000033155,
+["attempts"] = 26,
+},
+[20250318] = {
+["time"] = 665.2569999999832,
+["attempts"] = 57,
+},
+[20250913] = {
+["time"] = 753.064000000013,
+["attempts"] = 49,
+},
+[20250414] = {
+["time"] = 4565.323999999993,
+["attempts"] = 114,
+},
+[20250621] = {
+["time"] = 2593.687000000035,
+["attempts"] = 197,
+},
+[20260104] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250908] = {
+["time"] = 367.1419999999926,
+["attempts"] = 38,
+},
+[20250924] = {
+["time"] = 19.24699999997392,
 ["attempts"] = 2,
 },
-[20190406] = {
+[20250430] = {
+["time"] = 313.935999999987,
+["attempts"] = 9,
+},
+[20250701] = {
+["time"] = 404.2840000002179,
+["attempts"] = 39,
+},
+[20250717] = {
+["time"] = 1857.359000000055,
+["attempts"] = 63,
+},
+[20251019] = {
+["time"] = 107.2390000000014,
+["attempts"] = 23,
+},
+[20251004] = {
+["attempts"] = 8,
+},
+[20251020] = {
+["time"] = 675.5169999999925,
+["attempts"] = 33,
+},
+[20250526] = {
+["time"] = 53.32500000006985,
+["attempts"] = 8,
+},
+[20250906] = {
+["time"] = 1313.721000000136,
+["attempts"] = 41,
+},
+[20250429] = {
+["time"] = 370.1809999999823,
+["attempts"] = 30,
+},
+[20250319] = {
+["attempts"] = 90,
+},
+[20250508] = {
+["time"] = 124.2140000000363,
+["attempts"] = 5,
+},
+[20250825] = {
+["time"] = 1405.780000000144,
+["attempts"] = 92,
+},
+[20250622] = {
+["time"] = 3809.668000000063,
+["attempts"] = 259,
+},
+[20260312] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190303] = {
+[20250316] = {
+["time"] = 274.19200000001,
+["attempts"] = 20,
+},
+[20250925] = {
+["time"] = 429.7069999997038,
+["attempts"] = 34,
+},
+[20251017] = {
+["time"] = 651.704000000027,
+["attempts"] = 4,
+},
+[20250702] = {
+["time"] = 1099.43200000003,
+["attempts"] = 85,
+},
+[20250718] = {
+["time"] = 1302.55700000003,
+["attempts"] = 134,
+},
+[20250506] = {
+["time"] = 2716.88400000002,
+["attempts"] = 254,
+},
+[20251005] = {
+["time"] = 1014.342000000062,
+["attempts"] = 61,
+},
+[20251021] = {
+["time"] = 558.704000000027,
+["attempts"] = 54,
+},
+[20250527] = {
+["time"] = 1069.891000000178,
+["attempts"] = 85,
+},
+[20260306] = {
+["time"] = 150.4389999997802,
+["attempts"] = 16,
+},
+[20250814] = {
+["time"] = 1824.97600000001,
+["attempts"] = 112,
+},
+[20250830] = {
+["time"] = 427.7749999999069,
+["attempts"] = 77,
+},
+[20250504] = {
+["attempts"] = 89,
+},
+[20250607] = {
+["time"] = 151.8170000000391,
+["attempts"] = 12,
+},
+[20250623] = {
+["time"] = 625.1560000001919,
+["attempts"] = 67,
+},
+[20260313] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20190317] = {
-["time"] = 1,
-["attempts"] = 1,
+[20250910] = {
+["time"] = 688.7139999996871,
+["attempts"] = 48,
 },
-},
+[20251026] = {
 ["attempts"] = 10,
+},
+[20250416] = {
+["time"] = 827.6250000001164,
+["attempts"] = 167,
+},
+[20250703] = {
+["time"] = 1731.960999999894,
+["attempts"] = 90,
+},
+[20250719] = {
+["time"] = 1602.624000000069,
+["attempts"] = 68,
+},
+[20251122] = {
+["time"] = 318.1189999999479,
+["attempts"] = 27,
+},
+[20251006] = {
+["time"] = 1811.940000000061,
+["attempts"] = 53,
+},
+[20260219] = {
+["time"] = 713.1289999999572,
+["attempts"] = 36,
+},
+[20260222] = {
+["time"] = 113.2660000000615,
+["attempts"] = 6,
+},
+[20250528] = {
+["time"] = 5796.857000000193,
+["attempts"] = 424,
+},
+[20251103] = {
+["attempts"] = 57,
+},
+},
+["attempts"] = 16571,
+},
+["Helpful Wikky's Whistle"] = {
 ["enabled"] = false,
-["realAttempts"] = 10,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 10,
+},
+["Crashin' Thrashin' Juggernaught"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Unstable Powder Box"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Mechagonian Sawblades"] = {
 ["enabled"] = false,
@@ -22888,37 +25869,67 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["All-Seeing Right Eye"] = {
-["time"] = 1,
+["Trans-mogu-rifier"] = {
+["time"] = 10,
 ["dates"] = {
-[20200309] = {
-["attempts"] = 1,
-},
-[20200502] = {
+[20201029] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200701] = {
+[20200612] = {
+["attempts"] = 1,
+},
+[20200407] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200601] = {
+["attempts"] = 1,
+},
+[20200602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200124] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200514] = {
+["attempts"] = 1,
+},
+[20200710] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200825] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200123] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 3,
+["attempts"] = 13,
 },
 ["Moonfang's Paw"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
-["Infected Ichor"] = {
-["time"] = 1,
-["dates"] = {
-[20240407] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-},
+["collapsed"] = true,
 ["Syndicate Mask"] = {
 ["lastAttempts"] = 30,
 ["known"] = true,
@@ -23062,10 +26073,34 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Crashin' Thrashin' Cannon Controller"] = {
-["enabled"] = false,
+["Farwater Conch"] = {
+["lastAttempts"] = 2,
 ["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 2,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20200922] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240621] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 1,
 },
 ["Fuzzy Green Lounge Cushion"] = {
 ["lastAttempts"] = 20,
@@ -23159,15 +26194,31 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 3136.29600000027,
 },
-["Hearthstation (Horde)"] = {
+["Mark of Purity"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
 ["time"] = 1,
 ["dates"] = {
-[20241231] = {
+[20210118] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 },
-["attempts"] = 2,
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
 },
 ["Necroray Egg"] = {
 ["lastAttempts"] = 16,
@@ -23235,6 +26286,67 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 16.48699999999371,
+},
+["Frenzyheart Brew"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Scroll of Storytelling"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Rime of the Time-Lost Mariner"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Eternal Kiln"] = {
+["lastAttempts"] = 261,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 261,
+["time"] = 4308.22600000065,
+["totalTime"] = 4308.22600000065,
+["attempts"] = 261,
+},
+},
+["time"] = 4308.22600000065,
+["dates"] = {
+[20181027] = {
+["time"] = 260.410000000149,
+["attempts"] = 30,
+},
+[20181021] = {
+["time"] = 116.942000000039,
+["attempts"] = 18,
+},
+[20190302] = {
+["time"] = 809.657000000007,
+["attempts"] = 35,
+},
+[20190128] = {
+["time"] = 1302.45500000007,
+["attempts"] = 86,
+},
+[20181029] = {
+["time"] = 223.775000000373,
+["attempts"] = 28,
+},
+[20190301] = {
+["time"] = 1594.987,
+["attempts"] = 64,
+},
+},
+["attempts"] = 261,
+["enabled"] = false,
+["realAttempts"] = 261,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4308.22600000065,
 },
 ["Gravewing Crystal"] = {
 ["lastAttempts"] = 23,
@@ -23327,26 +26439,6 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 20,
 },
-["MiniZep Controller"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
-["Rime of the Time-Lost Mariner"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Frenzyheart Brew"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Crashin' Thrashin' Juggernaught"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
 ["Xy'rath's Booby-Trapped Cache"] = {
 ["time"] = 17,
 ["dates"] = {
@@ -23431,10 +26523,15 @@ RarityDB = {
 },
 ["attempts"] = 21,
 },
-["Holoviewer: The Timeless One"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Goren \"Log\" Roller"] = {
+["time"] = 1,
+["dates"] = {
+[20190126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
 },
 ["Gastropod Shell"] = {
 ["lastAttempts"] = 66,
@@ -23504,49 +26601,58 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 228.1589999999851,
 },
-["collapsed"] = true,
+["Disposable Winter Veil Suits"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
 ["Proudmoore Music Box"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Disposable Winter Veil Suits"] = {
+["Stormforged Vrykul Horn"] = {
+["lastAttempts"] = 1,
 ["known"] = true,
-["found"] = true,
-["enabled"] = false,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
 },
-["Skull of Corruption"] = {
-["lastAttempts"] = 66,
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Soothing Vesper"] = {
+["lastAttempts"] = 1,
+["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 66,
-["time"] = 591.177,
-["totalTime"] = 591.177,
-["attempts"] = 66,
-},
-},
-["time"] = 591.177,
-["dates"] = {
-[20190214] = {
-["time"] = 589.177,
-["attempts"] = 2,
-},
-[20190303] = {
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
 ["attempts"] = 1,
 },
-[20181215] = {
-["time"] = 2,
-["attempts"] = 2,
+},
+["dates"] = {
+[20211110] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
-["attempts"] = 66,
+["attempts"] = 1,
 ["enabled"] = false,
-["realAttempts"] = 66,
+["realAttempts"] = 1,
 ["totalFinds"] = 1,
-["known"] = true,
 ["found"] = true,
-["lastTime"] = 591.177,
+["lastTime"] = 1,
+["time"] = 1,
 },
 ["Regenerating Slime Vial"] = {
 ["lastAttempts"] = 15,
@@ -23629,80 +26735,31 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 14,
 },
-["Crashin' Thrashin' Flamer Controller"] = {
-["lastAttempts"] = 39,
+["Red Wooden Sled"] = {
+["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 39,
-["time"] = 39.8540000000504,
-["totalTime"] = 39.8540000000504,
-["attempts"] = 39,
-},
-},
-["time"] = 39.8540000000504,
-["dates"] = {
-[20191219] = {
-["attempts"] = 1,
-},
-[20181231] = {
+["totalAttempts"] = 1,
 ["time"] = 1,
+["totalTime"] = 1,
 ["attempts"] = 1,
 },
+},
+["time"] = 1,
+["dates"] = {
 [20181216] = {
 ["time"] = 1,
-["attempts"] = 2,
-},
-[20181217] = {
-["time"] = 1,
-},
-[20181218] = {
-["time"] = 13.2550000000047,
-["attempts"] = 7,
-},
-[20181219] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20181220] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 8,
-},
-[20190102] = {
-["time"] = 5.84700000006706,
-["attempts"] = 4,
-},
-[20181224] = {
-["time"] = 8.33299999998417,
-["attempts"] = 2,
-},
-[20181225] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181226] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181229] = {
-["time"] = 4.41899999999441,
-["attempts"] = 3,
-},
-[20191218] = {
 ["attempts"] = 1,
 },
 },
-["attempts"] = 39,
+["attempts"] = 1,
 ["enabled"] = false,
-["realAttempts"] = 39,
+["realAttempts"] = 1,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 39.8540000000504,
+["lastTime"] = 1,
 },
 ["Nightwreathed Egg"] = {
 ["lastAttempts"] = 6,
@@ -23774,75 +26831,66 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 4,
 },
-["Crashin' Thrashin' Mortar Controller"] = {
-["lastAttempts"] = 15,
+["Blackflame Daggers"] = {
+["lastAttempts"] = 3,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 15,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 15,
+["totalAttempts"] = 3,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 3,
 },
 },
-["time"] = 10,
+["time"] = 1,
 ["dates"] = {
-[20180616] = {
+[20190128] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20180620] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180621] = {
-["attempts"] = 1,
-},
-[20180622] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180624] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180625] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180613] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180627] = {
-["attempts"] = 1,
-},
-[20180628] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180612] = {
-["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 3,
 },
 },
-["attempts"] = 15,
+["attempts"] = 3,
 ["enabled"] = false,
-["realAttempts"] = 15,
+["realAttempts"] = 3,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 10,
+["lastTime"] = 1,
 },
-["Salyin Battle Banner"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
+["Old Crafty"] = {
+["time"] = 954.7529999999682,
+["dates"] = {
+[20220218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220215] = {
+["time"] = 100.5650000000023,
+["attempts"] = 7,
+},
+[20180714] = {
+["time"] = 105.635999999999,
+["attempts"] = 6,
+},
+[20220209] = {
+["time"] = 31.01900000002934,
+["attempts"] = 4,
+},
+[20220221] = {
+["time"] = 337.3179999999702,
+["attempts"] = 20,
+},
+[20220219] = {
+["time"] = 379.2149999999674,
+["attempts"] = 23,
+},
+},
+["attempts"] = 61,
 },
 ["Endothermic Blaster"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Crashin' Thrashin' Racer Controller"] = {
 ["lastAttempts"] = 5,
@@ -23917,7 +26965,7 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 5,
 },
-["Faintly Glowing Flagon of Mead"] = {
+["Steward's First Feather"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -23954,20 +27002,20 @@ RarityDB = {
 [20180515] = {
 ["attempts"] = 1,
 },
-[20180521] = {
-["attempts"] = 1,
-},
 [20180806] = {
 ["time"] = 8.70900000003167,
 ["attempts"] = 4,
 },
+[20180521] = {
+["attempts"] = 1,
+},
 [20180627] = {
 ["attempts"] = 1,
 },
-[20180523] = {
+[20180628] = {
 ["attempts"] = 1,
 },
-[20180628] = {
+[20180523] = {
 ["attempts"] = 1,
 },
 },
@@ -24037,11 +27085,12 @@ RarityDB = {
 ["time"] = 170.6949999999997,
 ["attempts"] = 1,
 },
+[20230922] = {
+["time"] = 309.1959999999999,
+["attempts"] = 2,
+},
 [20231228] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20240128] = {
 ["attempts"] = 1,
 },
 [20231103] = {
@@ -24075,12 +27124,12 @@ RarityDB = {
 ["time"] = 54.86699999996927,
 ["attempts"] = 1,
 },
-[20231209] = {
-["time"] = 2.324999999953434,
-["attempts"] = 1,
-},
 [20240403] = {
 ["time"] = 1,
+["attempts"] = 1,
+},
+[20231209] = {
+["time"] = 2.324999999953434,
 ["attempts"] = 1,
 },
 [20231023] = {
@@ -24107,9 +27156,8 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20230922] = {
-["time"] = 309.1959999999999,
-["attempts"] = 2,
+[20240128] = {
+["attempts"] = 1,
 },
 },
 ["attempts"] = 34,
@@ -24119,7 +27167,17 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 942.2320000000036,
 },
-["Steward's First Feather"] = {
+["Red Conservatory Scroll"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Faintly Glowing Flagon of Mead"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Zhevra Lounge Cushion"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -24129,53 +27187,19 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Zhevra Lounge Cushion"] = {
+["Salyin Battle Banner"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
-["Blackflame Daggers"] = {
-["lastAttempts"] = 3,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 3,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20190128] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Red Wooden Sled"] = {
+["Personal Ball and Chain"] = {
 ["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
 {
+["time"] = 0,
 ["num"] = 1,
 ["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20181216] = {
-["time"] = 1,
 ["attempts"] = 1,
 },
 },
@@ -24184,39 +27208,8 @@ RarityDB = {
 ["realAttempts"] = 1,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 1,
 },
-["Old Crafty"] = {
-["time"] = 954.7529999999682,
-["dates"] = {
-[20220218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220215] = {
-["time"] = 100.5650000000023,
-["attempts"] = 7,
-},
-[20180714] = {
-["time"] = 105.635999999999,
-["attempts"] = 6,
-},
-[20220209] = {
-["time"] = 31.01900000002934,
-["attempts"] = 4,
-},
-[20220221] = {
-["time"] = 337.3179999999702,
-["attempts"] = 20,
-},
-[20220219] = {
-["time"] = 379.2149999999674,
-["attempts"] = 23,
-},
-},
-["attempts"] = 61,
-},
-["Red Conservatory Scroll"] = {
+["Pilfered Sweeper"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -24247,91 +27240,47 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Soothing Vesper"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["dates"] = {
-[20211110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
+["Toy War Machine"] = {
 ["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 1,
-["time"] = 1,
 },
 ["Crashin' Thrashin' Battleship)"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
-["Unusual Compass"] = {
-["lastAttempts"] = 29,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 29,
-["time"] = 46.55200000005427,
-["totalTime"] = 46.55200000005427,
-["attempts"] = 29,
-},
-},
-["time"] = 46.55200000005427,
+["Cloak of Many Faces"] = {
+["time"] = 1,
 ["dates"] = {
-[20190320] = {
-["attempts"] = 24,
+[20231116] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20181209] = {
-["time"] = 37.5260000000708,
-["attempts"] = 3,
 },
-[20191119] = {
-["time"] = 9.025999999983469,
-["attempts"] = 2,
+["attempts"] = 1,
+},
+["Worn Troll Dice"] = {
+["enabled"] = false,
+["found"] = true,
+["known"] = true,
+},
+["Jinyu Light Globe"] = {
+["dates"] = {
+[20180923] = {
+["attempts"] = 7,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20181215] = {
+["attempts"] = 4,
 },
 },
 ["attempts"] = 29,
-["enabled"] = false,
-["realAttempts"] = 29,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 46.55200000005427,
-},
-["Personal Ball and Chain"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Pilfered Sweeper"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
 },
 ["Malfunctioning Goliath Gauntlet"] = {
 ["enabled"] = false,
@@ -24390,14 +27339,14 @@ RarityDB = {
 [20210611] = {
 ["attempts"] = 1,
 },
-[20210405] = {
+[20210520] = {
 ["attempts"] = 1,
 },
 [20210504] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210520] = {
+[20210405] = {
 ["attempts"] = 1,
 },
 [20210528] = {
@@ -24453,44 +27402,36 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Farwater Conch"] = {
-["lastAttempts"] = 2,
+["Festive Trans-Dimensional Bird Whistle"] = {
+["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 2,
+["totalAttempts"] = 1,
 ["time"] = 1,
 ["totalTime"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 },
 ["time"] = 1,
 ["dates"] = {
-[20200922] = {
+[20231229] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20240621] = {
+},
 ["attempts"] = 1,
-},
-},
-["attempts"] = 2,
 ["enabled"] = false,
-["realAttempts"] = 2,
+["realAttempts"] = 1,
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Goren \"Log\" Roller"] = {
-["time"] = 1,
-["dates"] = {
-[20190126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
+["Crashin' Thrashin' Cannon Controller"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
 },
 ["Warning Sign"] = {
 ["lastAttempts"] = 5,
@@ -24610,20 +27551,83 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 10,
 },
-["Mr. Pinchy"] = {
-["known"] = true,
+["Chalice of Secrets"] = {
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Cloak of Many Faces"] = {
-["time"] = 1,
+["Mnemonic Attunement Pane"] = {
+["lastAttempts"] = 16,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 16,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 16,
+},
+},
+["time"] = 10,
 ["dates"] = {
-[20231116] = {
+[20250304] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210330] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250305] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250228] = {
+["attempts"] = 2,
+},
+[20250221] = {
+["attempts"] = 1,
+},
+[20250311] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250223] = {
+["attempts"] = 1,
+},
+[20250225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250302] = {
+["attempts"] = 1,
+},
+[20250301] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250226] = {
+["attempts"] = 1,
+},
+[20250303] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210823] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210412] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 1,
+["attempts"] = 16,
+["enabled"] = false,
+["realAttempts"] = 16,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
 },
 ["Eternal Palace Dining Set"] = {
 ["enabled"] = false,
@@ -24802,31 +27806,36 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Crashin' Thrashin' Shredder Controller"] = {
+["Hozen Beach Ball"] = {
+["lastAttempts"] = 1,
 ["known"] = true,
-["found"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
 ["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
 },
-["Jinyu Light Globe"] = {
+["Infected Ichor"] = {
+["time"] = 1,
 ["dates"] = {
-[20180923] = {
-["attempts"] = 7,
-},
-[20181011] = {
-["attempts"] = 13,
-},
-[20181027] = {
-["attempts"] = 5,
-},
-[20181215] = {
-["attempts"] = 4,
+[20240407] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 },
-["attempts"] = 29,
+["attempts"] = 1,
 },
 ["Ocean Simulator"] = {
 ["enabled"] = false,
-["realAttempts"] = 1,
+["lastAttempts"] = 1,
 ["known"] = true,
 ["totalFinds"] = 1,
 ["finds"] = {
@@ -24838,7 +27847,7 @@ RarityDB = {
 },
 },
 ["found"] = true,
-["lastAttempts"] = 1,
+["realAttempts"] = 1,
 ["attempts"] = 1,
 },
 ["Kovork Kostume"] = {
@@ -24873,37 +27882,39 @@ RarityDB = {
 ["found"] = true,
 },
 ["Wreath-A-Rang"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
 ["Mr. Smite's Brass Compass"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Greatfather Winter's Hearthstone"] = {
+["Orb of the Sin'dorei"] = {
+["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-["enabled"] = false,
 },
-["Judgment of Mechagon"] = {
+["Makaris's Satchel of Mines"] = {
 ["lastAttempts"] = 2,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
 ["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
+["time"] = 1,
+["totalTime"] = 1,
 ["attempts"] = 2,
 },
 },
-["time"] = 2,
 ["dates"] = {
-[20241219] = {
-["time"] = 2,
-["attempts"] = 2,
+[20220318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220512] = {
+["attempts"] = 1,
 },
 },
 ["attempts"] = 2,
@@ -24911,7 +27922,8 @@ RarityDB = {
 ["realAttempts"] = 2,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 2,
+["lastTime"] = 1,
+["time"] = 1,
 },
 ["Viable Cobra Egg"] = {
 ["time"] = 3,
@@ -24989,7 +28001,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221012] = {
+[20221115] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -24997,7 +28009,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221115] = {
+[20221012] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -25014,7 +28026,7 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Chain Pet Leash"] = {
+["Talisman of Sargha"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -25023,6 +28035,28 @@ RarityDB = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
+},
+["Time-Lost Figurine"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Sassy Imp"] = {
+["time"] = 2,
+["dates"] = {
+[20210923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200702] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
 },
 ["Flopping Fish"] = {
 ["lastAttempts"] = 2,
@@ -25053,77 +28087,7 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Pristine Cloud Serpent Scale"] = {
-["lastAttempts"] = 3,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 3,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20200405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200613] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
-},
-["Shard of Archstone"] = {
-["lastAttempts"] = 4,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 4,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 4,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20191129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200922] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200416] = {
-["attempts"] = 1,
-},
-[20200918] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 4,
-["enabled"] = false,
-["realAttempts"] = 4,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
-},
-["Time-Lost Figurine"] = {
+["Twiddle Twirler: Sentinel's Glaive"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
@@ -25133,15 +28097,27 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Cyclonic Runekey"] = {
-["time"] = 1,
+["Toy Weapon Set (Horde)"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 2,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 2,
+},
+},
 ["dates"] = {
-[20250404] = {
-["time"] = 1,
-["attempts"] = 1,
+[20241231] = {
+["attempts"] = 2,
 },
 },
-["attempts"] = 1,
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
 },
 ["Aqua Jewel"] = {
 ["lastAttempts"] = 2,
@@ -25210,20 +28186,20 @@ RarityDB = {
 },
 ["time"] = 7.0170000000071,
 ["dates"] = {
+[20180612] = {
+["time"] = 2,
+["attempts"] = 6,
+},
 [20180609] = {
 ["attempts"] = 2,
 },
-[20180612] = {
+[20180619] = {
 ["time"] = 2,
 ["attempts"] = 6,
 },
 [20181114] = {
 ["time"] = 3.0170000000071,
 ["attempts"] = 4,
-},
-[20180619] = {
-["time"] = 2,
-["attempts"] = 6,
 },
 },
 ["attempts"] = 18,
@@ -25250,23 +28226,23 @@ RarityDB = {
 [20200807] = {
 ["time"] = 1,
 },
-[20191024] = {
+[20190228] = {
 ["time"] = 1,
 },
-[20190906] = {
-["time"] = 1,
+[20190320] = {
+["time"] = 531.087000000001,
 },
 [20191120] = {
 ["time"] = 593.755999999994,
 },
-[20190228] = {
+[20191024] = {
 ["time"] = 1,
 },
 [20200831] = {
 ["time"] = 1,
 },
-[20190320] = {
-["time"] = 531.087000000001,
+[20190906] = {
+["time"] = 1,
 },
 },
 ["attempts"] = 546,
@@ -25302,13 +28278,13 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20180925] = {
-["time"] = 2,
-["attempts"] = 3,
-},
 [20180923] = {
 ["time"] = 5.13400000002002,
 ["attempts"] = 2,
+},
+[20180925] = {
+["time"] = 2,
+["attempts"] = 3,
 },
 [20180926] = {
 ["time"] = 1,
@@ -25377,6 +28353,20 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 41.7269999999445,
 ["enabled"] = false,
+},
+["Pearlescent Krolusk"] = {
+["time"] = 2,
+["dates"] = {
+[20250918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250922] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
 },
 ["Cloudwing Hippogryph"] = {
 ["lastAttempts"] = 3,
@@ -25470,8 +28460,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -25485,8 +28475,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -25497,11 +28487,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -25509,19 +28499,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -25533,11 +28523,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -25554,8 +28544,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -25593,11 +28583,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -25605,8 +28595,9 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["time"] = 6,
+["attempts"] = 7,
 },
 [20181011] = {
 ["time"] = 11,
@@ -25616,10 +28607,10 @@ RarityDB = {
 ["time"] = 5,
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -25677,42 +28668,41 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["time"] = 6,
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
@@ -25885,8 +28875,8 @@ RarityDB = {
 [20190314] = {
 ["attempts"] = 4,
 },
-[20190420] = {
-["attempts"] = 7,
+[20200716] = {
+["attempts"] = 8,
 },
 [20190331] = {
 ["attempts"] = 3,
@@ -25900,8 +28890,8 @@ RarityDB = {
 [20200506] = {
 ["attempts"] = 2,
 },
-[20190628] = {
-["attempts"] = 1,
+[20200713] = {
+["attempts"] = 3,
 },
 [20190501] = {
 ["attempts"] = 4,
@@ -25912,11 +28902,11 @@ RarityDB = {
 [20190503] = {
 ["attempts"] = 3,
 },
-[20200715] = {
-["attempts"] = 4,
+[20190720] = {
+["attempts"] = 3,
 },
-[20200710] = {
-["attempts"] = 1,
+[20190716] = {
+["attempts"] = 2,
 },
 [20190626] = {
 ["attempts"] = 6,
@@ -25924,19 +28914,19 @@ RarityDB = {
 [20190703] = {
 ["attempts"] = 13,
 },
-[20200713] = {
-["attempts"] = 3,
+[20190628] = {
+["attempts"] = 1,
 },
 [20200714] = {
 ["attempts"] = 1,
 },
-[20190720] = {
-["attempts"] = 3,
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
 },
 [20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
 ["attempts"] = 1,
 },
 [20190829] = {
@@ -25948,11 +28938,11 @@ RarityDB = {
 [20190710] = {
 ["attempts"] = 2,
 },
-[20190816] = {
+[20200826] = {
 ["attempts"] = 3,
 },
-[20200827] = {
-["attempts"] = 4,
+[20190802] = {
+["attempts"] = 3,
 },
 [20190818] = {
 ["attempts"] = 3,
@@ -25969,8 +28959,8 @@ RarityDB = {
 [20200223] = {
 ["attempts"] = 1,
 },
-[20190913] = {
-["attempts"] = 1,
+[20190808] = {
+["attempts"] = 3,
 },
 [20190824] = {
 ["attempts"] = 1,
@@ -26008,11 +28998,11 @@ RarityDB = {
 [20191030] = {
 ["attempts"] = 3,
 },
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
+[20191121] = {
 ["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
 },
 [20191003] = {
 ["attempts"] = 5,
@@ -26020,8 +29010,8 @@ RarityDB = {
 [20190711] = {
 ["attempts"] = 1,
 },
-[20191128] = {
-["attempts"] = 4,
+[20180923] = {
+["attempts"] = 7,
 },
 [20181011] = {
 ["attempts"] = 13,
@@ -26029,10 +29019,10 @@ RarityDB = {
 [20181027] = {
 ["attempts"] = 5,
 },
-[20191218] = {
+[20191128] = {
 ["attempts"] = 4,
 },
-[20191129] = {
+[20191219] = {
 ["attempts"] = 1,
 },
 [20191130] = {
@@ -26089,41 +29079,41 @@ RarityDB = {
 [20191024] = {
 ["attempts"] = 3,
 },
-[20191219] = {
+[20191129] = {
 ["attempts"] = 1,
 },
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
+[20191218] = {
 ["attempts"] = 4,
 },
-[20190808] = {
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
 ["attempts"] = 3,
 },
 [20190928] = {
 ["attempts"] = 1,
 },
+[20190913] = {
+["attempts"] = 1,
+},
 [20200303] = {
 ["attempts"] = 3,
 },
-[20190802] = {
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
 ["attempts"] = 3,
 },
-[20200826] = {
-["attempts"] = 3,
+[20200822] = {
+["attempts"] = 1,
 },
-[20190707] = {
-["attempts"] = 2,
+[20200710] = {
+["attempts"] = 1,
 },
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
+[20190420] = {
+["attempts"] = 7,
 },
 },
 ["attempts"] = 334,
@@ -26726,9 +29716,9 @@ RarityDB = {
 ["time"] = 119.7489999999962,
 ["attempts"] = 4,
 },
-[20191207] = {
-["time"] = 107.75,
-["attempts"] = 5,
+[20250112] = {
+["time"] = 256.4810000001453,
+["attempts"] = 7,
 },
 [20200501] = {
 ["time"] = 29.65800000005402,
@@ -26790,9 +29780,9 @@ RarityDB = {
 ["time"] = 39.064000000013,
 ["attempts"] = 9,
 },
-[20250112] = {
-["time"] = 256.4810000001453,
-["attempts"] = 7,
+[20191207] = {
+["time"] = 107.75,
+["attempts"] = 5,
 },
 [20200921] = {
 ["time"] = 1,
@@ -26854,6 +29844,36 @@ RarityDB = {
 ["realAttempts"] = 1,
 ["totalFinds"] = 1,
 ["found"] = true,
+},
+["Salvaged Goblin Gazillionaire's Flying Machine"] = {
+["lastAttempts"] = 6,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 526.4950000001118,
+["totalTime"] = 526.4950000001118,
+["attempts"] = 6,
+},
+},
+["time"] = 526.4950000001118,
+["dates"] = {
+[20250804] = {
+["time"] = 525.4950000001118,
+["attempts"] = 5,
+},
+[20250805] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 526.4950000001118,
 },
 ["Invincible's Reins"] = {
 ["known"] = true,
@@ -26939,9 +29959,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220911] = {
-["time"] = 15.6579999999376,
-["attempts"] = 7,
+[20220413] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20220620] = {
 ["time"] = 2,
@@ -26955,9 +29975,9 @@ RarityDB = {
 ["time"] = 54.80999999999767,
 ["attempts"] = 4,
 },
-[20220413] = {
-["time"] = 1,
-["attempts"] = 1,
+[20220911] = {
+["time"] = 15.6579999999376,
+["attempts"] = 7,
 },
 [20220502] = {
 ["time"] = 2,
@@ -26989,9 +30009,9 @@ RarityDB = {
 ["time"] = 36.09700000000157,
 ["attempts"] = 3,
 },
-[20220812] = {
-["time"] = 407.0489999999991,
-["attempts"] = 2,
+[20221015] = {
+["time"] = 193.1780000000003,
+["attempts"] = 8,
 },
 [20220505] = {
 ["time"] = 2,
@@ -27009,7 +30029,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20220330] = {
+[20220609] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -27021,7 +30041,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220609] = {
+[20220330] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -27033,9 +30053,9 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20221015] = {
-["time"] = 193.1780000000003,
-["attempts"] = 8,
+[20220812] = {
+["time"] = 407.0489999999991,
+["attempts"] = 2,
 },
 [20221004] = {
 ["time"] = 1,
@@ -27132,7 +30152,21 @@ RarityDB = {
 ["found"] = true,
 },
 ["Experiment 12-B"] = {
-["attempts"] = 347,
+["lastAttempts"] = 350,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 350,
+["attempts"] = 350,
+},
+},
+["attempts"] = 350,
+["totalFinds"] = 1,
+["realAttempts"] = 350,
+["found"] = true,
+["enabled"] = false,
 },
 ["Blackpaw"] = {
 ["enabled"] = false,
@@ -27218,11 +30252,11 @@ RarityDB = {
 [20181214] = {
 ["attempts"] = 1,
 },
-[20190101] = {
+[20181231] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181231] = {
+[20190101] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -27267,17 +30301,17 @@ RarityDB = {
 [20190214] = {
 ["attempts"] = 1,
 },
-[20190816] = {
-["time"] = 1,
+[20200702] = {
 ["attempts"] = 1,
 },
-[20200702] = {
+[20190816] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20191206] = {
 ["attempts"] = 1,
 },
-[20190204] = {
+[20200103] = {
 ["attempts"] = 1,
 },
 [20181227] = {
@@ -27310,7 +30344,7 @@ RarityDB = {
 [20190303] = {
 ["attempts"] = 1,
 },
-[20200103] = {
+[20190204] = {
 ["attempts"] = 1,
 },
 [20190304] = {
@@ -27356,14 +30390,14 @@ RarityDB = {
 [20190305] = {
 ["attempts"] = 1,
 },
-[20200725] = {
-["time"] = 1,
+[20181103] = {
 ["attempts"] = 1,
 },
 [20181215] = {
 ["attempts"] = 1,
 },
-[20181103] = {
+[20200725] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
@@ -27373,6 +30407,60 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 3,
+},
+["Ashenvale Chimaera"] = {
+["lastAttempts"] = 9,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 9,
+["time"] = 8,
+["totalTime"] = 8,
+["attempts"] = 9,
+},
+},
+["time"] = 8,
+["dates"] = {
+[20190207] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190322] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190224] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190317] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190302] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190315] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 9,
+["enabled"] = false,
+["realAttempts"] = 9,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 8,
 },
 ["Felsteel Annihilator"] = {
 ["lastAttempts"] = 17,
@@ -27395,6 +30483,15 @@ RarityDB = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
+},
+["Solar Spirehawk"] = {
+["time"] = 1,
+["dates"] = {
+[20180715] = {
+["time"] = 1,
+},
+},
+["attempts"] = 147,
 },
 ["Sulfur Hound's Leash"] = {
 ["lastAttempts"] = 35,
@@ -27472,14 +30569,6 @@ RarityDB = {
 ["Fallen Charger's Reins"] = {
 ["time"] = 4,
 ["dates"] = {
-[20250301] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
 [20211009] = {
 ["time"] = 1,
 ["attempts"] = 1,
@@ -27488,122 +30577,83 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
+[20250301] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
 },
 ["attempts"] = 4,
+},
+["Void-Scarred Lynx"] = {
+["time"] = 156.3430000000954,
+["dates"] = {
+[20250831] = {
+["time"] = 5.875999999931082,
+["attempts"] = 2,
+},
+[20250801] = {
+["time"] = 18.57700000004843,
+["attempts"] = 3,
+},
+[20250727] = {
+["attempts"] = 1,
+},
+[20250818] = {
+["time"] = 15.22800000000279,
+["attempts"] = 5,
+},
+[20250505] = {
+["time"] = 2.017999999981839,
+["attempts"] = 2,
+},
+[20250806] = {
+["time"] = 11.18500000005588,
+["attempts"] = 2,
+},
+[20250507] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250516] = {
+["time"] = 24.65099999999802,
+["attempts"] = 3,
+},
+[20250825] = {
+["time"] = 24.5570000000298,
+["attempts"] = 4,
+},
+[20250601] = {
+["time"] = 29.99699999997392,
+["attempts"] = 3,
+},
+[20250726] = {
+["time"] = 14.64700000011362,
+["attempts"] = 3,
+},
+[20250814] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250817] = {
+["time"] = 7.606999999959953,
+["attempts"] = 2,
+},
+},
+["attempts"] = 32,
 },
 ["Reins of the Blue Proto-Drake"] = {
 ["known"] = true,
 ["enabled"] = false,
 ["found"] = true,
 },
-["Lil' Donkey"] = {
-["lastAttempts"] = 26,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 26,
-["time"] = 25,
-["totalTime"] = 25,
-["attempts"] = 26,
-},
-},
-["time"] = 25,
-["dates"] = {
-[20190308] = {
-["attempts"] = 1,
-},
-[20190213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190122] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190420] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190123] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190421] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190330] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190219] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190311] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190418] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 26,
+["Horn of the White War Wolf"] = {
 ["enabled"] = false,
-["realAttempts"] = 26,
-["totalFinds"] = 1,
+["known"] = true,
 ["found"] = true,
-["lastTime"] = 25,
 },
 ["Reins of the Cobalt Primordial Direhorn"] = {
 ["lastAttempts"] = 148,
@@ -27655,376 +30705,97 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2019.379999999973,
 },
-["Captured Dune Scavenger"] = {
-["time"] = 14234.14,
+["The Headless Horseman's Ghoulish Charger"] = {
 ["dates"] = {
-[20200110] = {
-["time"] = 499.6440000000293,
-["attempts"] = 15,
-},
-[20200113] = {
-["time"] = 38.50500000000466,
-["attempts"] = 7,
-},
-[20200115] = {
+[20251023] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200101] = {
-["attempts"] = 7,
 },
-[20200103] = {
-["time"] = 725.9250000000466,
-["attempts"] = 12,
-},
-[20190112] = {
-["time"] = 203.394,
-["attempts"] = 12,
-},
-[20200201] = {
 ["attempts"] = 1,
+["time"] = 1,
 },
-[20190103] = {
-["attempts"] = 2,
-},
-[20190224] = {
-["time"] = 125.734999999986,
-["attempts"] = 7,
-},
-[20190120] = {
-["time"] = 162.558999999997,
+["Undying Darkhound's Harness"] = {
+["lastAttempts"] = 13,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 13,
+["time"] = 10,
+["totalTime"] = 10,
 ["attempts"] = 13,
 },
-[20200326] = {
-["attempts"] = 8,
 },
-[20190107] = {
+["time"] = 10,
+["dates"] = {
+[20210809] = {
+["attempts"] = 1,
+},
+[20211111] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190123] = {
-["time"] = 12.045999999973,
-["attempts"] = 2,
-},
-[20200525] = {
-["time"] = 240.5009999999311,
-["attempts"] = 7,
-},
-[20200420] = {
-["time"] = 167.3229999999749,
-["attempts"] = 24,
-},
-[20190413] = {
-["time"] = 158.559000000008,
-["attempts"] = 4,
-},
-[20190429] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20190309] = {
-["time"] = 587.525000000009,
-["attempts"] = 40,
-},
-[20190310] = {
-["time"] = 460.284000000014,
-},
-[20190524] = {
+[20210917] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190404] = {
-["time"] = 508.101000000024,
-["attempts"] = 5,
-},
-[20200701] = {
-["time"] = 36.39000000001397,
-["attempts"] = 5,
-},
-[20190527] = {
-["time"] = 398.829000000027,
-["attempts"] = 4,
-},
-[20190407] = {
-["time"] = 125.891999999993,
-["attempts"] = 6,
-},
-[20190425] = {
-["time"] = 182.918999999994,
-["attempts"] = 6,
-},
-[20190411] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190427] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190506] = {
-["attempts"] = 7,
-},
-[20200713] = {
-["time"] = 527.8140000002459,
-["attempts"] = 42,
-},
-[20200910] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190615] = {
-["time"] = 78.2439999999988,
-["attempts"] = 6,
-},
-[20190617] = {
-["time"] = 454.243000000017,
-["attempts"] = 20,
-},
-[20201004] = {
-["time"] = 104.438000000082,
-["attempts"] = 6,
-},
-[20190815] = {
-["time"] = 120.3919999999926,
-["attempts"] = 9,
-},
-[20190725] = {
-["time"] = 185.9339999999792,
-["attempts"] = 11,
-},
-[20190726] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190728] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200822] = {
-["time"] = 61.23899999994319,
-["attempts"] = 7,
-},
-[20200805] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201011] = {
+[20210918] = {
 ["time"] = 2,
-["attempts"] = 14,
-},
-[20201118] = {
-["time"] = 1,
 ["attempts"] = 2,
 },
-[20191004] = {
-["time"] = 85.07399999999325,
-["attempts"] = 4,
-},
-[20201104] = {
-["time"] = 481.0319999998901,
-["attempts"] = 8,
-},
-[20201105] = {
-["time"] = 256.6180000000168,
-["attempts"] = 4,
-},
-[20201031] = {
-["attempts"] = 5,
-},
-[20200717] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20201110] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190919] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20191101] = {
-["attempts"] = 1,
-},
-[20200521] = {
-["attempts"] = 1,
-},
-[20200518] = {
+[20210905] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200509] = {
-["time"] = 546.9679999999935,
-["attempts"] = 14,
+[20210906] = {
+["attempts"] = 1,
 },
-[20200227] = {
+[20210818] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200208] = {
-["time"] = 97.47499999997672,
-["attempts"] = 4,
-},
-[20250112] = {
+[20221030] = {
 ["time"] = 1,
-["attempts"] = 2,
-},
-[20191213] = {
-["time"] = 726.3330000000424,
-["attempts"] = 26,
-},
-[20191217] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20180919] = {
-["time"] = 239.438999999999,
-["attempts"] = 10,
-},
-[20181116] = {
-["time"] = 22.6310000000231,
-["attempts"] = 2,
-},
-[20181102] = {
-["time"] = 152.557999999728,
-["attempts"] = 12,
-},
-[20181103] = {
-["time"] = 94.2349999998696,
-["attempts"] = 18,
-},
-[20180923] = {
-["time"] = 10.4689999999828,
-["attempts"] = 4,
-},
-[20181027] = {
-["time"] = 77.4210000000894,
-["attempts"] = 3,
-},
-[20181120] = {
-["time"] = 86.8479999999982,
-["attempts"] = 3,
-},
-[20181212] = {
-["attempts"] = 10,
-},
-[20191223] = {
-["time"] = 91.95000000001164,
-["attempts"] = 7,
-},
-[20181229] = {
-["attempts"] = 8,
-},
-[20181124] = {
-["time"] = 22.6010000000242,
-["attempts"] = 3,
-},
-[20181110] = {
-["time"] = 433.034,
-["attempts"] = 29,
-},
-[20181126] = {
-["time"] = 339.180999999982,
-["attempts"] = 2,
-},
-[20181217] = {
-["time"] = 165.762999999977,
-["attempts"] = 16,
-},
-[20181218] = {
-["time"] = 104.330000000016,
-},
-[20190414] = {
-["attempts"] = 5,
-},
-[20181115] = {
-["time"] = 367.335000000006,
-["attempts"] = 9,
-},
-[20190203] = {
-["time"] = 202.195999999996,
-["attempts"] = 4,
-},
-[20191215] = {
-["time"] = 14.16599999999744,
-["attempts"] = 3,
-},
-[20190426] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20191020] = {
 ["attempts"] = 1,
 },
-[20191228] = {
-["time"] = 131.2060000000056,
-["attempts"] = 11,
+[20211130] = {
+["time"] = 1,
+["attempts"] = 2,
 },
-[20191216] = {
-["time"] = 40.41300000000047,
-["attempts"] = 7,
+[20210723] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20181125] = {
+[20211005] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
 ["attempts"] = 13,
-},
-[20190818] = {
-["time"] = 138.6089999999967,
-["attempts"] = 9,
-},
-[20191203] = {
-["time"] = 137.7360000000335,
-["attempts"] = 10,
-},
-[20250221] = {
-["time"] = 245.350999999966,
-["attempts"] = 51,
-},
-[20191122] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200327] = {
-["attempts"] = 16,
-},
-[20200507] = {
-["time"] = 472.1669999999576,
-["attempts"] = 3,
-},
-[20200902] = {
-["time"] = 146.9530000000377,
-["attempts"] = 13,
-},
-[20200909] = {
-["time"] = 19.97700000007171,
-["attempts"] = 6,
-},
-[20200915] = {
-["time"] = 145.3559999999998,
-["attempts"] = 21,
-},
-[20191005] = {
-["time"] = 129.4750000000349,
-["attempts"] = 6,
-},
-[20220528] = {
-["time"] = 1817.804999999993,
-["attempts"] = 35,
-},
-},
-["attempts"] = 768,
+["enabled"] = false,
+["realAttempts"] = 13,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
 },
 ["Reins of the Bone-White Primal Raptor"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
+},
+["Venture Co-ordinator"] = {
+["time"] = 1,
+["dates"] = {
+[20260212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260304] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
 },
 ["Underrot Crawg Harness"] = {
 ["lastAttempts"] = 9,
@@ -28043,20 +30814,105 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Antoran Charhound"] = {
-["known"] = true,
-["time"] = 1,
-["dates"] = {
-[20230314] = {
-["time"] = 1,
-},
-},
-["attempts"] = 137,
+["Tyrael's Charger"] = {
 ["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
-["Mummified Raptor Skull"] = {
-["attempts"] = 266,
+["Great Sea Ray"] = {
+["lastAttempts"] = 53,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 53,
+["time"] = 672.2889999997913,
+["totalTime"] = 672.2889999997913,
+["attempts"] = 53,
+},
+},
+["time"] = 672.2889999997913,
+["dates"] = {
+[20190606] = {
+["time"] = 65.2049999999872,
+["attempts"] = 4,
+},
+[20190622] = {
+["time"] = 212.415999999968,
+["attempts"] = 17,
+},
+[20190323] = {
+["attempts"] = 1,
+},
+[20190415] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190325] = {
+["time"] = 137.895000000004,
+["attempts"] = 10,
+},
+[20190629] = {
+["time"] = 20.40299999993295,
+["attempts"] = 2,
+},
+[20190705] = {
+["time"] = 14.94200000001001,
+["attempts"] = 2,
+},
+[20190430] = {
+["time"] = 29.6309999999357,
+["attempts"] = 3,
+},
+[20190602] = {
+["time"] = 10.2849999999162,
+["attempts"] = 2,
+},
+[20190708] = {
+["time"] = 39.41500000003725,
+["attempts"] = 3,
+},
+[20190504] = {
+["time"] = 141.097,
+["attempts"] = 8,
+},
+},
+["attempts"] = 53,
+["realAttempts"] = 53,
+["totalFinds"] = 1,
+["enabled"] = false,
+["found"] = true,
+["lastTime"] = 672.2889999997913,
+},
+["Nesting Swarmite"] = {
+["lastAttempts"] = 15,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 15,
+["time"] = 2181.153000000049,
+["totalTime"] = 2181.153000000049,
+["attempts"] = 15,
+},
+},
+["time"] = 2181.153000000049,
+["dates"] = {
+[20250825] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250930] = {
+["time"] = 2179.153000000049,
+["attempts"] = 13,
+},
+},
+["attempts"] = 15,
+["enabled"] = false,
+["realAttempts"] = 15,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2181.153000000049,
 },
 ["Vengeance's Reins"] = {
 ["lastAttempts"] = 7,
@@ -28075,66 +30931,45 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Slime-Covered Reins of the Hulking Deathroc"] = {
-["time"] = 9,
+["Reins of the Ravenous Black Gryphon"] = {
+["lastAttempts"] = 3,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 3,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 3,
+},
+},
 ["dates"] = {
-[20221009] = {
-["time"] = 1,
-["attempts"] = 1,
+[20230818] = {
+["attempts"] = 2,
 },
-[20221010] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221011] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220908] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220114] = {
-["attempts"] = 1,
-},
-[20210126] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210729] = {
-["attempts"] = 1,
-},
-[20210626] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250107] = {
-["attempts"] = 1,
-},
-[20221014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221122] = {
-["time"] = 1,
+[20230820] = {
 ["attempts"] = 1,
 },
 },
-["attempts"] = 12,
+["attempts"] = 3,
+["enabled"] = false,
+["realAttempts"] = 3,
+["totalFinds"] = 1,
+["found"] = true,
 },
 ["Fiery Warhorse's Reins"] = {
 ["known"] = true,
 ["enabled"] = false,
 ["found"] = true,
 },
-["Reins of the Vitreous Stone Drake"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
+["Cobalt Shalewing"] = {
+["time"] = 1,
+["dates"] = {
+[20240109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
 },
 ["Armored Razzashi Raptor"] = {
 ["lastAttempts"] = 378,
@@ -28229,22 +31064,24 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20180529] = {
-["attempts"] = 1,
-},
-[20180701] = {
+[20180514] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180627] = {
+[20180625] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180703] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
-[20180812] = {
-["time"] = 2,
-["attempts"] = 5,
+[20180601] = {
+["time"] = 1,
+["attempts"] = 2,
 },
-[20180813] = {
-["time"] = 2,
+[20180828] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20180509] = {
@@ -28253,9 +31090,9 @@ RarityDB = {
 [20180510] = {
 ["attempts"] = 2,
 },
-[20180814] = {
+[20180708] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 [20180527] = {
 ["attempts"] = 1,
@@ -28266,8 +31103,7 @@ RarityDB = {
 [20180528] = {
 ["attempts"] = 1,
 },
-[20180514] = {
-["time"] = 1,
+[20180529] = {
 ["attempts"] = 1,
 },
 [20180621] = {
@@ -28282,25 +31118,24 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181116] = {
+[20181025] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 3,
 },
 [20180609] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180716] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180714] = {
+[20180701] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180612] = {
+[20180804] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
+},
+[20180627] = {
+["attempts"] = 1,
 },
 [20180628] = {
 ["attempts"] = 1,
@@ -28311,27 +31146,27 @@ RarityDB = {
 [20180705] = {
 ["attempts"] = 1,
 },
-[20180601] = {
+[20180812] = {
+["time"] = 2,
+["attempts"] = 5,
+},
+[20180813] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20180814] = {
 ["time"] = 1,
 ["attempts"] = 2,
-},
-[20180828] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180618] = {
-["time"] = 1,
-["attempts"] = 1,
 },
 [20180815] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20181025] = {
+[20181116] = {
 ["time"] = 1,
-["attempts"] = 3,
+["attempts"] = 1,
 },
-[20180816] = {
+[20180711] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -28343,7 +31178,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180819] = {
+[20180714] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -28355,9 +31190,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20181104] = {
-["time"] = 1,
-["attempts"] = 2,
+[20181029] = {
+["time"] = 2,
+["attempts"] = 5,
 },
 [20180808] = {
 ["attempts"] = 1,
@@ -28366,13 +31201,13 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20181021] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20180811] = {
-["time"] = 1,
+[20180810] = {
+["time"] = 3,
 ["attempts"] = 3,
+},
+[20181022] = {
+["time"] = 4,
+["attempts"] = 5,
 },
 [20180902] = {
 ["attempts"] = 1,
@@ -28400,15 +31235,15 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20181029] = {
-["time"] = 2,
-["attempts"] = 5,
+[20181104] = {
+["time"] = 1,
+["attempts"] = 2,
 },
 [20181120] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20181121] = {
+[20181212] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -28419,9 +31254,9 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181215] = {
+[20181124] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
 },
 [20181110] = {
 ["time"] = 2,
@@ -28431,16 +31266,16 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20181114] = {
-["attempts"] = 1,
+[20181129] = {
+["time"] = 1,
+["attempts"] = 3,
 },
 [20181218] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20181129] = {
-["time"] = 1,
-["attempts"] = 3,
+[20181114] = {
+["attempts"] = 1,
 },
 [20180610] = {
 ["attempts"] = 1,
@@ -28448,13 +31283,13 @@ RarityDB = {
 [20180622] = {
 ["attempts"] = 2,
 },
-[20181124] = {
+[20181215] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 2,
 },
-[20181212] = {
+[20181031] = {
 ["time"] = 1,
-["attempts"] = 1,
+["attempts"] = 3,
 },
 [20181209] = {
 ["time"] = 1,
@@ -28464,41 +31299,41 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181022] = {
+[20180811] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20181021] = {
 ["time"] = 4,
-["attempts"] = 5,
+["attempts"] = 4,
 },
-[20180810] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181031] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20180804] = {
+[20181121] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180711] = {
+[20180819] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180708] = {
+[20180816] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180703] = {
+[20180618] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180625] = {
+[20180612] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
 [20180520] = {
 ["time"] = 1,
 ["attempts"] = 1,
+},
+[20180716] = {
+["time"] = 1,
+["attempts"] = 2,
 },
 [20190210] = {
 ["time"] = 1,
@@ -28526,4242 +31361,6 @@ RarityDB = {
 ["enabled"] = false,
 ["found"] = true,
 ["lastTime"] = 96,
-},
-["Chain of Bahmethra"] = {
-["known"] = true,
-["attempts"] = 1,
-["enabled"] = false,
-["found"] = true,
-["time"] = 1,
-["dates"] = {
-[20210702] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-},
-["Harvester's Dredwing Saddle"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-["time"] = 1,
-["dates"] = {
-[20210706] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-},
-["Reins of the Infinite Timereaver"] = {
-["known"] = true,
-["time"] = 147156.0220000013,
-["dates"] = {
-[20220103] = {
-["time"] = 2784.69700000016,
-["attempts"] = 14,
-},
-[20210225] = {
-["time"] = 70.58899999999994,
-["attempts"] = 4,
-},
-[20210101] = {
-["time"] = 578.4329999999609,
-["attempts"] = 3,
-},
-[20200108] = {
-["time"] = 3249.460000000021,
-["attempts"] = 15,
-},
-[20210103] = {
-["time"] = 1031.762000000104,
-["attempts"] = 5,
-},
-[20220415] = {
-["time"] = 2256.299999999814,
-["attempts"] = 8,
-},
-[20230410] = {
-["time"] = 69.71600000000035,
-["attempts"] = 2,
-},
-[20210317] = {
-["attempts"] = 4,
-},
-[20210227] = {
-["time"] = 3446.215999999957,
-["attempts"] = 15,
-},
-[20230407] = {
-["time"] = 866.4760000000006,
-["attempts"] = 9,
-},
-[20220416] = {
-["time"] = 924.065000000177,
-["attempts"] = 6,
-},
-[20200221] = {
-["attempts"] = 16,
-},
-[20200131] = {
-["time"] = 601.3209999999963,
-["attempts"] = 10,
-},
-[20200102] = {
-["attempts"] = 16,
-},
-[20210218] = {
-["time"] = 2019.259999999995,
-["attempts"] = 16,
-},
-[20210219] = {
-["time"] = 576.1530000000002,
-["attempts"] = 4,
-},
-[20210311] = {
-["time"] = 589.6689999999944,
-["attempts"] = 4,
-},
-[20190127] = {
-["time"] = 3555.84499999986,
-["attempts"] = 15,
-},
-[20200201] = {
-["time"] = 627.502999999997,
-["attempts"] = 13,
-},
-[20200508] = {
-["time"] = 1392.663000000059,
-["attempts"] = 28,
-},
-[20190129] = {
-["time"] = 4782.932,
-["attempts"] = 19,
-},
-[20210315] = {
-["time"] = 1801.707999999984,
-["attempts"] = 7,
-},
-[20190222] = {
-["time"] = 684.607000000076,
-["attempts"] = 6,
-},
-[20190223] = {
-["time"] = 838.543999999994,
-["attempts"] = 4,
-},
-[20190103] = {
-["time"] = 472.354999999981,
-["attempts"] = 3,
-},
-[20190224] = {
-["attempts"] = 4,
-},
-[20190225] = {
-["time"] = 1228.41799999983,
-["attempts"] = 11,
-},
-[20190106] = {
-["time"] = 765.916999999987,
-["attempts"] = 6,
-},
-[20190318] = {
-["time"] = 767.158999999985,
-["attempts"] = 6,
-},
-[20200509] = {
-["time"] = 582.344000000041,
-["attempts"] = 4,
-},
-[20190317] = {
-["time"] = 2056.27200000006,
-["attempts"] = 23,
-},
-[20190320] = {
-["time"] = 440.236,
-["attempts"] = 7,
-},
-[20190313] = {
-["time"] = 1353.237,
-["attempts"] = 7,
-},
-[20190413] = {
-["time"] = 616.966000000015,
-["attempts"] = 3,
-},
-[20220818] = {
-["time"] = 451.1509999999544,
-["attempts"] = 4,
-},
-[20220819] = {
-["time"] = 875.7759999999544,
-["attempts"] = 8,
-},
-[20200706] = {
-["time"] = 354.3889999999665,
-["attempts"] = 3,
-},
-[20200603] = {
-["time"] = 722.4969999999739,
-["attempts"] = 4,
-},
-[20190508] = {
-["time"] = 2523.27600000001,
-["attempts"] = 20,
-},
-[20220823] = {
-["time"] = 372.9340000000084,
-["attempts"] = 2,
-},
-[20210619] = {
-["attempts"] = 8,
-},
-[20210809] = {
-["time"] = 4055.813999999984,
-["attempts"] = 17,
-},
-[20180528] = {
-["time"] = 6185.91799999995,
-["attempts"] = 29,
-},
-[20200507] = {
-["time"] = 758.9389999999548,
-["attempts"] = 4,
-},
-[20200719] = {
-["time"] = 567.2019999999902,
-["attempts"] = 4,
-},
-[20200704] = {
-["time"] = 1722.537999999942,
-["attempts"] = 9,
-},
-[20190410] = {
-["time"] = 3591.50800000003,
-["attempts"] = 17,
-},
-[20190531] = {
-["time"] = 921.506000000052,
-["attempts"] = 4,
-},
-[20200722] = {
-["time"] = 963.2299999999814,
-["attempts"] = 4,
-},
-[20180524] = {
-["attempts"] = 9,
-},
-[20190504] = {
-["time"] = 713.464000000036,
-["attempts"] = 3,
-},
-[20190505] = {
-["time"] = 2238.667,
-["attempts"] = 8,
-},
-[20180527] = {
-["attempts"] = 11,
-},
-[20180523] = {
-["attempts"] = 3,
-},
-[20200818] = {
-["time"] = 1101.320999999996,
-["attempts"] = 8,
-},
-[20180620] = {
-["time"] = 145.423999999999,
-["attempts"] = 2,
-},
-[20180530] = {
-["time"] = 478.09,
-["attempts"] = 3,
-},
-[20190601] = {
-["time"] = 772.800999999978,
-["attempts"] = 5,
-},
-[20180623] = {
-["attempts"] = 4,
-},
-[20190814] = {
-["attempts"] = 4,
-},
-[20190910] = {
-["time"] = 886.8300000000163,
-},
-[20180716] = {
-["time"] = 782.195,
-["attempts"] = 4,
-},
-[20180626] = {
-["attempts"] = 3,
-},
-[20180627] = {
-["time"] = 567.384000000006,
-},
-[20200903] = {
-["attempts"] = 5,
-},
-[20190925] = {
-["time"] = 2054.778000000166,
-["attempts"] = 10,
-},
-[20190503] = {
-["attempts"] = 1,
-},
-[20190927] = {
-["time"] = 716.2129999999888,
-["attempts"] = 8,
-},
-[20201230] = {
-["time"] = 580.5479999999516,
-["attempts"] = 5,
-},
-[20190808] = {
-["time"] = 3313.930000000051,
-["attempts"] = 16,
-},
-[20191028] = {
-["time"] = 4495.049000000006,
-["attempts"] = 26,
-},
-[20191029] = {
-["time"] = 2534.195999999996,
-["attempts"] = 10,
-},
-[20181021] = {
-["time"] = 1171.59100000001,
-["attempts"] = 12,
-},
-[20191023] = {
-["time"] = 536.3479999999981,
-["attempts"] = 4,
-},
-[20180713] = {
-["time"] = 1671.58700000001,
-["attempts"] = 11,
-},
-[20190904] = {
-["time"] = 645.4660000000149,
-["attempts"] = 4,
-},
-[20191025] = {
-["time"] = 1112.975999999908,
-["attempts"] = 7,
-},
-[20191117] = {
-["time"] = 2652.272000000012,
-["attempts"] = 15,
-},
-[20191118] = {
-["time"] = 1481.266000000003,
-["attempts"] = 11,
-},
-[20191119] = {
-["attempts"] = 6,
-},
-[20180929] = {
-["time"] = 491.546000000002,
-["attempts"] = 3,
-},
-[20180930] = {
-["time"] = 2878.80400000001,
-["attempts"] = 18,
-},
-[20190908] = {
-["time"] = 1851.863000000012,
-["attempts"] = 11,
-},
-[20191002] = {
-["time"] = 2141.186999999998,
-["attempts"] = 24,
-},
-[20190107] = {
-["time"] = 1028.89600000001,
-["attempts"] = 4,
-},
-[20190506] = {
-["time"] = 1727.40800000001,
-["attempts"] = 12,
-},
-[20180526] = {
-["attempts"] = 5,
-},
-[20181117] = {
-["time"] = 3892.86000000004,
-["attempts"] = 20,
-},
-[20181118] = {
-["time"] = 1032.27900000004,
-["attempts"] = 8,
-},
-[20191218] = {
-["time"] = 1804.393000000011,
-["attempts"] = 21,
-},
-[20191114] = {
-["time"] = 1966.192000000039,
-["attempts"] = 7,
-},
-[20181120] = {
-["time"] = 1954.53300000017,
-["attempts"] = 11,
-},
-[20181121] = {
-["time"] = 79.0039999999572,
-["attempts"] = 4,
-},
-[20181017] = {
-["time"] = 1269.94800000009,
-["attempts"] = 7,
-},
-[20181018] = {
-["time"] = 1747.52099999995,
-["attempts"] = 8,
-},
-[20190909] = {
-["time"] = 961.8360000000102,
-["attempts"] = 16,
-},
-[20190603] = {
-["time"] = 4689.474,
-["attempts"] = 15,
-},
-[20190813] = {
-["time"] = 556.8829999999143,
-["attempts"] = 4,
-},
-[20181001] = {
-["time"] = 1501.382,
-["attempts"] = 11,
-},
-[20190411] = {
-["time"] = 365.196000000055,
-["attempts"] = 10,
-},
-[20190227] = {
-["time"] = 700.349000000002,
-["attempts"] = 4,
-},
-[20190626] = {
-["time"] = 462.361000000034,
-["attempts"] = 3,
-},
-[20191120] = {
-["attempts"] = 12,
-},
-[20190906] = {
-["time"] = 1472.858999999939,
-["attempts"] = 8,
-},
-[20180715] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20181209] = {
-["time"] = 887.022000000347,
-["attempts"] = 4,
-},
-[20180621] = {
-["attempts"] = 7,
-},
-[20200904] = {
-["time"] = 2640.968999999997,
-["attempts"] = 17,
-},
-[20180622] = {
-["time"] = 630.906000000003,
-["attempts"] = 4,
-},
-[20180529] = {
-["time"] = 433.793999999994,
-["attempts"] = 4,
-},
-[20190623] = {
-["time"] = 827.305000000051,
-["attempts"] = 6,
-},
-[20200721] = {
-["time"] = 1804.35400000005,
-["attempts"] = 10,
-},
-[20200819] = {
-["time"] = 1957.840000000026,
-["attempts"] = 9,
-},
-[20210618] = {
-["time"] = 618.8769999999786,
-["attempts"] = 6,
-},
-[20200413] = {
-["time"] = 3715.31799999997,
-["attempts"] = 18,
-},
-[20190319] = {
-["attempts"] = 7,
-},
-[20210621] = {
-["time"] = 839.8840000000782,
-["attempts"] = 4,
-},
-[20190221] = {
-["time"] = 846.079000000027,
-["attempts"] = 6,
-},
-[20210316] = {
-["time"] = 589.4300000000003,
-["attempts"] = 4,
-},
-[20220414] = {
-["attempts"] = 7,
-},
-[20210105] = {
-["time"] = 1036.573000000091,
-["attempts"] = 5,
-},
-},
-["attempts"] = 1040,
-["enabled"] = false,
-["found"] = true,
-},
-["Ashenvale Chimaera"] = {
-["lastAttempts"] = 9,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 9,
-["time"] = 8,
-["totalTime"] = 8,
-["attempts"] = 9,
-},
-},
-["time"] = 8,
-["dates"] = {
-[20190207] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190322] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190224] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190315] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190302] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190209] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190317] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 9,
-["enabled"] = false,
-["realAttempts"] = 9,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 8,
-},
-["Infested Necroray"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 2,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20210201] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20211022] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
-},
-["Flametalon of Alysrazor"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Shackled Ur'zul"] = {
-["lastAttempts"] = 28,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 28,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 28,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20230531] = {
-["time"] = 1,
-},
-},
-["enabled"] = false,
-["attempts"] = 28,
-["realAttempts"] = 28,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Mail Muncher"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Torn Invitation"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Flaming Shalewing Subject 01"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Reins of the Springtide Dreamtalon"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Reins of the Colossal Slaughterclaw"] = {
-["lastAttempts"] = 5,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 5,
-["time"] = 6,
-["totalTime"] = 6,
-["attempts"] = 5,
-},
-},
-["time"] = 6,
-["dates"] = {
-[20210308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210511] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210503] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20210608] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210403] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 5,
-["enabled"] = false,
-["realAttempts"] = 5,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 6,
-},
-["Horrid Dredwing"] = {
-["lastAttempts"] = 15,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 15,
-["time"] = 13,
-["totalTime"] = 13,
-["attempts"] = 15,
-},
-},
-["time"] = 13,
-["dates"] = {
-[20210422] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210424] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210425] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210426] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210428] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210503] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210505] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210501] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210507] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210429] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210508] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 15,
-["enabled"] = false,
-["realAttempts"] = 15,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 13,
-},
-["Crimson Slavermaw"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Captured Umber Nightsaber"] = {
-["lastAttempts"] = 5,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 5,
-["time"] = 4,
-["totalTime"] = 4,
-["attempts"] = 5,
-},
-},
-["time"] = 4,
-["dates"] = {
-[20190221] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190224] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-},
-["attempts"] = 5,
-["enabled"] = false,
-["realAttempts"] = 5,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 4,
-},
-["Life-Binder's Handmaiden"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Ashes of Al'ar"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Crimson Shardhide"] = {
-["lastAttempts"] = 15,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 15,
-["time"] = 15,
-["totalTime"] = 15,
-["attempts"] = 15,
-},
-},
-["time"] = 15,
-["dates"] = {
-[20210815] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210826] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210903] = {
-["attempts"] = 1,
-},
-[20210904] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20210710] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210905] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210802] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210818] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210820] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210911] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210828] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210730] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 15,
-["enabled"] = false,
-["realAttempts"] = 15,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 15,
-},
-["Blisterback Bloodtusk"] = {
-["lastAttempts"] = 3,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 3,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20210404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210729] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
-},
-["Ny'alotha Allseer"] = {
-["attempts"] = 9,
-},
-["Alunira"] = {
-["time"] = 1,
-["dates"] = {
-[20250316] = {
-["attempts"] = 1,
-},
-[20250323] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-},
-["Reins of the Blossoming Dreamstag"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Soulbound Gloomcharger's Reins"] = {
-["lastAttempts"] = 12,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 12,
-["time"] = 405.3630000000121,
-["totalTime"] = 405.3630000000121,
-["attempts"] = 12,
-},
-},
-["time"] = 405.3630000000121,
-["dates"] = {
-[20210929] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211007] = {
-["attempts"] = 1,
-},
-[20211023] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210904] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210801] = {
-["time"] = 395.3630000000121,
-["attempts"] = 1,
-},
-[20210908] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210819] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210820] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211009] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211111] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 12,
-["enabled"] = false,
-["realAttempts"] = 12,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 405.3630000000121,
-},
-["Reins of the Blue Drake"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Mechagon Peacekeeper"] = {
-["time"] = 41,
-["dates"] = {
-[20241220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241224] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20250109] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250101] = {
-["attempts"] = 1,
-},
-[20250117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250305] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241110] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200312] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250218] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20241230] = {
-["attempts"] = 1,
-},
-[20200918] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250111] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250115] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200524] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250303] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20241219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250222] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20250112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250116] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190903] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190924] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250107] = {
-["time"] = 3,
-["attempts"] = 5,
-},
-[20250131] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250208] = {
-["attempts"] = 1,
-},
-[20250106] = {
-["attempts"] = 2,
-},
-[20250102] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190808] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20241228] = {
-["attempts"] = 1,
-},
-[20200924] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 51,
-},
-["Fiendish Hellfire Core"] = {
-["lastAttempts"] = 116,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 116,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 116,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20220209] = {
-["time"] = 1,
-},
-},
-["attempts"] = 116,
-["enabled"] = false,
-["realAttempts"] = 116,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Pestilent Necroray"] = {
-["lastAttempts"] = 3,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 3,
-},
-},
-["time"] = 2,
-["dates"] = {
-[20220823] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210201] = {
-["attempts"] = 1,
-},
-[20211022] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
-},
-["Reins of the Liberated Slyvern"] = {
-["time"] = 2,
-["dates"] = {
-[20230829] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230924] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240331] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-},
-["Reins of the Raven Lord"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
-["Sturdy Silver Mawrat Harness"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20220320] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Perfected Juggernaut"] = {
-["lastAttempts"] = 97,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 97,
-["time"] = 86.30499999993481,
-["totalTime"] = 86.30499999993481,
-["attempts"] = 97,
-},
-},
-["time"] = 86.30499999993481,
-["dates"] = {
-[20230917] = {
-["attempts"] = 2,
-},
-[20231005] = {
-["attempts"] = 1,
-},
-[20231001] = {
-["attempts"] = 2,
-},
-[20230830] = {
-["attempts"] = 2,
-},
-[20231101] = {
-["attempts"] = 3,
-},
-[20231117] = {
-["attempts"] = 7,
-},
-[20230902] = {
-["attempts"] = 5,
-},
-[20230906] = {
-["attempts"] = 2,
-},
-[20231002] = {
-["attempts"] = 3,
-},
-[20230831] = {
-["attempts"] = 1,
-},
-[20231102] = {
-["attempts"] = 4,
-},
-[20230827] = {
-["attempts"] = 2,
-},
-[20231114] = {
-["time"] = 86.30499999993481,
-["attempts"] = 6,
-},
-[20230903] = {
-["attempts"] = 1,
-},
-[20230907] = {
-["attempts"] = 2,
-},
-[20231015] = {
-["attempts"] = 2,
-},
-[20231103] = {
-["attempts"] = 1,
-},
-[20230824] = {
-["attempts"] = 2,
-},
-[20231111] = {
-["attempts"] = 1,
-},
-[20231115] = {
-["attempts"] = 7,
-},
-[20230928] = {
-["attempts"] = 1,
-},
-[20230820] = {
-["attempts"] = 2,
-},
-[20231004] = {
-["attempts"] = 1,
-},
-[20231014] = {
-["attempts"] = 1,
-},
-[20231008] = {
-["attempts"] = 1,
-},
-[20231024] = {
-["attempts"] = 7,
-},
-[20231026] = {
-["attempts"] = 5,
-},
-[20230818] = {
-["attempts"] = 2,
-},
-[20231025] = {
-["attempts"] = 6,
-},
-[20231116] = {
-["attempts"] = 9,
-},
-[20230825] = {
-["attempts"] = 2,
-},
-[20230905] = {
-["attempts"] = 2,
-},
-[20230929] = {
-["attempts"] = 1,
-},
-[20231027] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 97,
-["enabled"] = false,
-["realAttempts"] = 97,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 86.30499999993481,
-},
-["Hopecrusher Gargon"] = {
-["time"] = 508.0840000000026,
-["dates"] = {
-[20250221] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250209] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250217] = {
-["time"] = 476.0840000000026,
-["attempts"] = 1,
-},
-[20250301] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20211105] = {
-["time"] = 3,
-["attempts"] = 2,
-},
-[20250309] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250210] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250214] = {
-["time"] = 7,
-["attempts"] = 10,
-},
-[20221113] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20221014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250211] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20250215] = {
-["time"] = 3,
-["attempts"] = 6,
-},
-[20250219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221015] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250220] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20250311] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250216] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250324] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 37,
-},
-["Wild Glimmerfur Prowler"] = {
-["lastAttempts"] = 39,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 39,
-["time"] = 380.2019999998156,
-["totalTime"] = 380.2019999998156,
-["attempts"] = 39,
-},
-},
-["time"] = 380.2019999998156,
-["dates"] = {
-[20210616] = {
-["attempts"] = 1,
-},
-[20210505] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210526] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20210609] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210613] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210614] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210331] = {
-["time"] = 358.2019999998156,
-["attempts"] = 2,
-},
-[20210601] = {
-["attempts"] = 1,
-},
-[20210617] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210530] = {
-["attempts"] = 1,
-},
-[20210622] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210618] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210606] = {
-["attempts"] = 1,
-},
-[20210225] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210610] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210527] = {
-["attempts"] = 1,
-},
-[20210122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210531] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210523] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210429] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210607] = {
-["attempts"] = 2,
-},
-[20210619] = {
-["attempts"] = 1,
-},
-[20210524] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210603] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210528] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210318] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210602] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210604] = {
-["attempts"] = 1,
-},
-[20210620] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210608] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210612] = {
-["attempts"] = 2,
-},
-[20210529] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 39,
-["enabled"] = false,
-["realAttempts"] = 39,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 380.2019999998156,
-},
-["Mawsworn Soulhunter"] = {
-["lastAttempts"] = 6,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 6,
-["time"] = 5,
-["totalTime"] = 5,
-["attempts"] = 6,
-},
-},
-["time"] = 5,
-["dates"] = {
-[20201230] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210116] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210101] = {
-["attempts"] = 1,
-},
-[20210129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210128] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 6,
-["enabled"] = false,
-["realAttempts"] = 6,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 5,
-},
-["Smoky Direwolf"] = {
-["lastAttempts"] = 30,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 30,
-["time"] = 13.0170000000071,
-["totalTime"] = 13.0170000000071,
-["attempts"] = 30,
-},
-},
-["time"] = 13.0170000000071,
-["dates"] = {
-[20181114] = {
-["time"] = 5.0170000000071,
-["attempts"] = 10,
-},
-[20181115] = {
-["time"] = 1,
-},
-[20190203] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190211] = {
-["time"] = 2,
-["attempts"] = 4,
-},
-[20180612] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20180619] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20180609] = {
-["attempts"] = 2,
-},
-},
-["attempts"] = 30,
-["enabled"] = false,
-["realAttempts"] = 30,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 13.0170000000071,
-},
-["Reins of the Blazing Drake"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Fossilized Raptor"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Rusted Keys to the Junkheap Drifter"] = {
-["lastAttempts"] = 37,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 37,
-["time"] = 28,
-["totalTime"] = 28,
-["attempts"] = 37,
-},
-},
-["time"] = 28,
-["dates"] = {
-[20190828] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190816] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190923] = {
-["attempts"] = 1,
-},
-[20190908] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191011] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20191003] = {
-["attempts"] = 1,
-},
-[20190904] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190921] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190812] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190825] = {
-["attempts"] = 1,
-},
-[20191107] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190909] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191012] = {
-["attempts"] = 1,
-},
-[20190814] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190830] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190818] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190822] = {
-["attempts"] = 1,
-},
-[20191005] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20190926] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191013] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190815] = {
-["attempts"] = 1,
-},
-[20190906] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190819] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20191006] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190827] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190930] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190911] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191002] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-},
-["attempts"] = 37,
-["enabled"] = false,
-["realAttempts"] = 37,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 28,
-},
-["Glacial Tidestorm"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Predatory Plagueroc"] = {
-["lastAttempts"] = 31,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 31,
-["time"] = 23,
-["totalTime"] = 23,
-["attempts"] = 31,
-},
-},
-["time"] = 23,
-["dates"] = {
-[20210628] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210902] = {
-["attempts"] = 1,
-},
-[20210831] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210819] = {
-["attempts"] = 1,
-},
-[20210621] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210625] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210629] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211026] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210610] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210614] = {
-["attempts"] = 1,
-},
-[20210618] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210912] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210916] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211022] = {
-["attempts"] = 1,
-},
-[20211010] = {
-["attempts"] = 1,
-},
-[20210613] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211009] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210615] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210619] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210914] = {
-["attempts"] = 1,
-},
-[20210830] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210906] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210620] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211005] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210612] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20211017] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 31,
-["enabled"] = false,
-["realAttempts"] = 31,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 23,
-},
-["Qinsho's Eternal Hound"] = {
-["dates"] = {
-[20200111] = {
-["attempts"] = 9,
-},
-[20200114] = {
-["attempts"] = 3,
-},
-[20200130] = {
-["attempts"] = 3,
-},
-[20200207] = {
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
-["attempts"] = 2,
-},
-[20200105] = {
-["attempts"] = 3,
-},
-[20200106] = {
-["attempts"] = 10,
-},
-[20200122] = {
-["attempts"] = 3,
-},
-[20200218] = {
-["attempts"] = 3,
-},
-[20190302] = {
-["attempts"] = 4,
-},
-[20190217] = {
-["attempts"] = 2,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20200425] = {
-["attempts"] = 2,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20200605] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20200506] = {
-["attempts"] = 2,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20200715] = {
-["attempts"] = 4,
-},
-[20200710] = {
-["attempts"] = 1,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20200713] = {
-["attempts"] = 3,
-},
-[20200714] = {
-["attempts"] = 1,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
-["attempts"] = 1,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20200827] = {
-["attempts"] = 4,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20200504] = {
-["attempts"] = 1,
-},
-[20200503] = {
-["attempts"] = 2,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20200223] = {
-["attempts"] = 1,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20200222] = {
-["attempts"] = 2,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 3,
-},
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20191003] = {
-["attempts"] = 5,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20191128] = {
-["attempts"] = 4,
-},
-[20181011] = {
-["attempts"] = 13,
-},
-[20181027] = {
-["attempts"] = 5,
-},
-[20191218] = {
-["attempts"] = 4,
-},
-[20191129] = {
-["attempts"] = 1,
-},
-[20191130] = {
-["attempts"] = 3,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20181215] = {
-["attempts"] = 4,
-},
-[20191113] = {
-["attempts"] = 6,
-},
-[20191211] = {
-["attempts"] = 4,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20191108] = {
-["attempts"] = 4,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20191024] = {
-["attempts"] = 3,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
-["attempts"] = 4,
-},
-[20190808] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20200303] = {
-["attempts"] = 3,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20200826] = {
-["attempts"] = 3,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
-},
-},
-["attempts"] = 334,
-},
-["Amber Ardenmoth"] = {
-["lastAttempts"] = 7,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 7,
-["time"] = 3,
-["totalTime"] = 3,
-["attempts"] = 7,
-},
-},
-["time"] = 3,
-["dates"] = {
-[20210203] = {
-["attempts"] = 1,
-},
-[20210405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210228] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210319] = {
-["attempts"] = 1,
-},
-[20210513] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210504] = {
-["attempts"] = 1,
-},
-[20210408] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 7,
-["enabled"] = false,
-["realAttempts"] = 7,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3,
-},
-["Dusklight Razorwing"] = {
-["known"] = true,
-["dates"] = {
-[20210719] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["found"] = true,
-},
-["Bonehoof Tauralus"] = {
-["dates"] = {
-[20221116] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221104] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221120] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221128] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221220] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20230109] = {
-["attempts"] = 2,
-},
-[20221013] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221029] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221113] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221129] = {
-["attempts"] = 1,
-},
-[20221213] = {
-["attempts"] = 1,
-},
-[20221201] = {
-["attempts"] = 1,
-},
-[20221217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221221] = {
-["attempts"] = 1,
-},
-[20221022] = {
-["attempts"] = 1,
-},
-[20230122] = {
-["attempts"] = 1,
-},
-[20221014] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221030] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221102] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221016] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221110] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221019] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221227] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221020] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221222] = {
-["attempts"] = 1,
-},
-[20221031] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221218] = {
-["attempts"] = 1,
-},
-[20221210] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221023] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221011] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221015] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230103] = {
-["attempts"] = 1,
-},
-[20221125] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230219] = {
-["attempts"] = 1,
-},
-[20221107] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221017] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221115] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221127] = {
-["attempts"] = 1,
-},
-[20250403] = {
-["attempts"] = 1,
-},
-[20221215] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221231] = {
-["attempts"] = 1,
-},
-[20221219] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221211] = {
-["attempts"] = 1,
-},
-[20230108] = {
-["attempts"] = 1,
-},
-[20221024] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221028] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20230104] = {
-["attempts"] = 1,
-},
-[20221018] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 67,
-["time"] = 43,
-},
-["Vibrant Mana Ray"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Midnight's Eternal Reins"] = {
-["lastAttempts"] = 7,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 7,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 7,
-},
-},
-["time"] = 2,
-["dates"] = {
-[20180514] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20180520] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-},
-["attempts"] = 7,
-["enabled"] = false,
-["realAttempts"] = 7,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
-},
-["Bulbous Necroray"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20210201] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Malevolent Drone"] = {
-["lastAttempts"] = 5,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 5,
-["time"] = 4,
-["totalTime"] = 4,
-["attempts"] = 5,
-},
-},
-["time"] = 4,
-["dates"] = {
-[20200229] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200122] = {
-["attempts"] = 1,
-},
-[20200315] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200130] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 5,
-["enabled"] = false,
-["realAttempts"] = 5,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 4,
-},
-["Deathcharger's Reins"] = {
-["known"] = true,
-["attempts"] = 288,
-["enabled"] = false,
-["found"] = true,
-},
-["Tamed Mauler Harness"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20210930] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Reins of the Evening Sun Dreamsaber"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Scintillating Mana Ray"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Umber Nightsaber"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["G.M.O.D."] = {
-["tooltipNpcs"] = {
-146409,
-},
-["attempts"] = 77,
-},
-["Island Thunderscale"] = {
-["dates"] = {
-[20200111] = {
-["attempts"] = 9,
-},
-[20200114] = {
-["attempts"] = 3,
-},
-[20200130] = {
-["attempts"] = 3,
-},
-[20200207] = {
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
-["attempts"] = 2,
-},
-[20200105] = {
-["attempts"] = 3,
-},
-[20200106] = {
-["attempts"] = 10,
-},
-[20200122] = {
-["attempts"] = 3,
-},
-[20200218] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20200425] = {
-["attempts"] = 2,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20200714] = {
-["attempts"] = 1,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20211103] = {
-["attempts"] = 1,
-},
-[20200715] = {
-["attempts"] = 4,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20200713] = {
-["attempts"] = 3,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20200605] = {
-["attempts"] = 4,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20200506] = {
-["attempts"] = 2,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 3,
-},
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20191003] = {
-["attempts"] = 5,
-},
-[20200504] = {
-["attempts"] = 1,
-},
-[20200503] = {
-["attempts"] = 2,
-},
-[20200223] = {
-["attempts"] = 1,
-},
-[20200222] = {
-["attempts"] = 2,
-},
-[20191218] = {
-["attempts"] = 4,
-},
-[20191129] = {
-["attempts"] = 1,
-},
-[20191130] = {
-["attempts"] = 3,
-},
-[20191113] = {
-["attempts"] = 6,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20191211] = {
-["attempts"] = 4,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20191121] = {
-["attempts"] = 4,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20191128] = {
-["attempts"] = 4,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20191024] = {
-["attempts"] = 3,
-},
-[20191108] = {
-["attempts"] = 4,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20190808] = {
-["attempts"] = 3,
-},
-[20200303] = {
-["attempts"] = 3,
-},
-[20200710] = {
-["attempts"] = 1,
-},
-[20200716] = {
-["attempts"] = 8,
-},
-[20200822] = {
-["attempts"] = 1,
-},
-[20200826] = {
-["attempts"] = 3,
-},
-[20200827] = {
-["attempts"] = 4,
-},
-},
-["attempts"] = 299,
-},
-["Marrowfang's Reins"] = {
-["lastAttempts"] = 72,
-["known"] = true,
-["finds"] = {
-{
-["totalAttempts"] = 72,
-["num"] = 1,
-["time"] = 0,
-["attempts"] = 72,
-},
-},
-["attempts"] = 72,
-["enabled"] = false,
-["realAttempts"] = 72,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Reins of the Scourgebound Vanquisher"] = {
-["lastAttempts"] = 61,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 61,
-["time"] = 148.2910000000575,
-["totalTime"] = 148.2910000000575,
-["attempts"] = 61,
-},
-},
-["time"] = 148.2910000000575,
-["dates"] = {
-[20230825] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231008] = {
-["attempts"] = 1,
-},
-[20231024] = {
-["time"] = 1,
-["attempts"] = 7,
-},
-[20230905] = {
-["attempts"] = 2,
-},
-[20230818] = {
-["attempts"] = 2,
-},
-[20231005] = {
-["attempts"] = 1,
-},
-[20231001] = {
-["attempts"] = 2,
-},
-[20230902] = {
-["time"] = 39.85600000000159,
-["attempts"] = 5,
-},
-[20230906] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231101] = {
-["time"] = 102.4350000000559,
-["attempts"] = 2,
-},
-[20230831] = {
-["attempts"] = 1,
-},
-[20230827] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230830] = {
-["attempts"] = 2,
-},
-[20231026] = {
-["attempts"] = 5,
-},
-[20231002] = {
-["attempts"] = 3,
-},
-[20230903] = {
-["attempts"] = 1,
-},
-[20230907] = {
-["attempts"] = 2,
-},
-[20230820] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230824] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230917] = {
-["attempts"] = 2,
-},
-[20231015] = {
-["attempts"] = 2,
-},
-[20230929] = {
-["attempts"] = 1,
-},
-[20231027] = {
-["attempts"] = 1,
-},
-[20230928] = {
-["attempts"] = 1,
-},
-[20231014] = {
-["attempts"] = 1,
-},
-[20231004] = {
-["attempts"] = 1,
-},
-[20231025] = {
-["attempts"] = 6,
-},
-},
-["attempts"] = 61,
-["enabled"] = false,
-["realAttempts"] = 61,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 148.2910000000575,
-},
-["Beryl Shardhide"] = {
-["lastAttempts"] = 3,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 3,
-["time"] = 5,
-["totalTime"] = 5,
-["attempts"] = 3,
-},
-},
-["time"] = 5,
-["dates"] = {
-[20210818] = {
-["time"] = 3,
-["attempts"] = 1,
-},
-[20210830] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210916] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-["enabled"] = false,
-["realAttempts"] = 3,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 5,
-},
-["Reins of the Morning Flourish Dreamsaber"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Darkspore Mana Ray"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Big Love Rocket"] = {
-["dates"] = {
-[20220208] = {
-["time"] = 1,
-["attempts"] = 8,
-},
-[20230219] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20220210] = {
-["time"] = 2,
-["attempts"] = 4,
-},
-[20220211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220212] = {
-["time"] = 3.398999999975786,
-["attempts"] = 2,
-},
-[20220213] = {
-["time"] = 211.0579999999609,
-["attempts"] = 16,
-},
-[20220214] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20220215] = {
-["time"] = 3,
-["attempts"] = 6,
-},
-[20210222] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20220217] = {
-["time"] = 4,
-["attempts"] = 10,
-},
-[20220218] = {
-["time"] = 2,
-["attempts"] = 13,
-},
-[20220219] = {
-["time"] = 3,
-["attempts"] = 18,
-},
-[20210210] = {
-["attempts"] = 1,
-},
-[20210211] = {
-["time"] = 495.6749999999884,
-["attempts"] = 3,
-},
-[20210212] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20210213] = {
-["time"] = 1,
-["attempts"] = 5,
-},
-[20210214] = {
-["time"] = 5,
-["attempts"] = 8,
-},
-[20200221] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210216] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210217] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20210218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200209] = {
-["attempts"] = 1,
-},
-[20200210] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200212] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200213] = {
-["attempts"] = 1,
-},
-[20190220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190222] = {
-["attempts"] = 2,
-},
-[20200217] = {
-["time"] = 4.649999999906868,
-["attempts"] = 5,
-},
-[20200218] = {
-["time"] = 4.362999999895692,
-["attempts"] = 8,
-},
-[20190224] = {
-["attempts"] = 1,
-},
-[20190225] = {
-["attempts"] = 34,
-},
-[20190212] = {
-["attempts"] = 1,
-},
-[20190213] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190214] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190215] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190216] = {
-["attempts"] = 2,
-},
-[20190217] = {
-["time"] = 19.1589999999851,
-["attempts"] = 10,
-},
-[20190218] = {
-["time"] = 250.183000000019,
-["attempts"] = 6,
-},
-[20190219] = {
-["time"] = 5.00400000001537,
-["attempts"] = 2,
-},
-[20250204] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20250208] = {
-["attempts"] = 73,
-},
-[20200219] = {
-["time"] = 4,
-["attempts"] = 5,
-},
-[20200222] = {
-["attempts"] = 1,
-},
-[20210215] = {
-["time"] = 2,
-["attempts"] = 4,
-},
-[20210219] = {
-["attempts"] = 1,
-},
-[20200216] = {
-["time"] = 2,
-["attempts"] = 4,
-},
-[20200208] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240206] = {
-["time"] = 2,
-["attempts"] = 4,
-},
-[20240207] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20200220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250203] = {
-["attempts"] = 1,
-},
-[20240209] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20240210] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20240211] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20240212] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20240213] = {
-["time"] = 3,
-["attempts"] = 5,
-},
-[20240214] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20240215] = {
-["time"] = 5,
-["attempts"] = 6,
-},
-[20240216] = {
-["time"] = 114.8560000001453,
-["attempts"] = 6,
-},
-[20240217] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20240218] = {
-["time"] = 6,
-["attempts"] = 11,
-},
-[20240219] = {
-["attempts"] = 1,
-},
-[20210220] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20230220] = {
-["attempts"] = 7,
-},
-[20240208] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20210209] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20220220] = {
-["time"] = 4,
-["attempts"] = 5,
-},
-[20220221] = {
-["attempts"] = 7,
-},
-[20220209] = {
-["time"] = 8,
-["attempts"] = 16,
-},
-[20220216] = {
-["time"] = 5.575000000011642,
-["attempts"] = 5,
-},
-},
-["attempts"] = 399,
-["time"] = 1219.921999999904,
-},
-["Kaldorei Nightsaber"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Pond Nettle"] = {
-["time"] = 828.953999999965,
-["dates"] = {
-[20181017] = {
-["time"] = 224.486999999965,
-["attempts"] = 20,
-},
-[20190301] = {
-["time"] = 604.467,
-["attempts"] = 83,
-},
-},
-["attempts"] = 103,
-},
-["Witherbark Direwing"] = {
-["lastAttempts"] = 27,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 27,
-["time"] = 25,
-["totalTime"] = 25,
-["attempts"] = 27,
-},
-},
-["time"] = 25,
-["dates"] = {
-[20190308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190213] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190122] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190404] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190420] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190202] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181215] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190421] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190330] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190219] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20181117] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190311] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190221] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190331] = {
-["attempts"] = 1,
-},
-[20190418] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 27,
-["enabled"] = false,
-["realAttempts"] = 27,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 25,
-},
-["Silent Glider"] = {
-["time"] = 12,
-["dates"] = {
-[20191229] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190918] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200822] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200823] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190913] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200526] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190914] = {
-["attempts"] = 1,
-},
-[20191018] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200125] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190915] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200515] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201008] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 16,
-},
-["Wild Dreamrunner"] = {
-["lastAttempts"] = 35,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 35,
-["time"] = 42.2979999999971,
-["totalTime"] = 42.2979999999971,
-["attempts"] = 35,
-},
-},
-["time"] = 42.2979999999971,
-["dates"] = {
-[20180614] = {
-["time"] = 2.92100000000028,
-["attempts"] = 1,
-},
-[20180515] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180531] = {
-["attempts"] = 1,
-},
-[20180607] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180710] = {
-["attempts"] = 1,
-},
-[20180611] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180512] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20180814] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180703] = {
-["attempts"] = 1,
-},
-[20180806] = {
-["time"] = 17.25,
-["attempts"] = 6,
-},
-[20180521] = {
-["attempts"] = 1,
-},
-[20180605] = {
-["attempts"] = 1,
-},
-[20180820] = {
-["time"] = 4.62900000001537,
-["attempts"] = 1,
-},
-[20180617] = {
-["time"] = 5.45799999998417,
-["attempts"] = 1,
-},
-[20180518] = {
-["attempts"] = 1,
-},
-[20180522] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180717] = {
-["attempts"] = 1,
-},
-[20180705] = {
-["time"] = 1,
-["attempts"] = 7,
-},
-[20180812] = {
-["attempts"] = 1,
-},
-[20180530] = {
-["time"] = 4.03999999999724,
-["attempts"] = 1,
-},
-[20180902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 35,
-["enabled"] = false,
-["realAttempts"] = 35,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 42.2979999999971,
-},
-["Rampaging Mauler"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Royal Snapdragon"] = {
-["lastAttempts"] = 8,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 8,
-["time"] = 5,
-["totalTime"] = 5,
-["attempts"] = 8,
-},
-},
-["time"] = 5,
-["dates"] = {
-[20190827] = {
-["attempts"] = 1,
-},
-[20190920] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190906] = {
-["attempts"] = 1,
-},
-[20191015] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190919] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190911] = {
-["attempts"] = 1,
-},
-[20191002] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 8,
-["enabled"] = false,
-["realAttempts"] = 8,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 5,
-},
-["Xinlao"] = {
-["time"] = 3,
-["dates"] = {
-[20200516] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200602] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200903] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 3,
-},
-["Glorious Felcrusher"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Reins of the Astral Cloud Serpent"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Swift Albino Raptor"] = {
-["lastAttempts"] = 11,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 11,
-["time"] = 11,
-["totalTime"] = 11,
-["attempts"] = 11,
-},
-},
-["time"] = 11,
-["dates"] = {
-[20181231] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181218] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181117] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190105] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190122] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 11,
-["enabled"] = false,
-["realAttempts"] = 11,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 11,
-},
-["Reins of the Grand Black War Mammoth Alliance"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Slightly Damp Pile of Fur"] = {
-["dates"] = {
-[20210510] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200717] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20250221] = {
-["time"] = 3,
-["attempts"] = 6,
-},
-[20221220] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200606] = {
-["attempts"] = 1,
-},
-[20201120] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20210511] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200718] = {
-["attempts"] = 1,
-},
-[20210507] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20200722] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20201009] = {
-["attempts"] = 1,
-},
-[20201013] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200830] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20200312] = {
-["time"] = 74.09699999999975,
-["attempts"] = 3,
-},
-[20201121] = {
-["attempts"] = 1,
-},
-[20210213] = {
-["time"] = 3,
-["attempts"] = 5,
-},
-[20210512] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20250111] = {
-["time"] = 1,
-["attempts"] = 6,
-},
-[20200715] = {
-["attempts"] = 1,
-},
-[20201014] = {
-["attempts"] = 2,
-},
-[20200831] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20200313] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210509] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211023] = {
-["attempts"] = 4,
-},
-[20250112] = {
-["time"] = 2,
-["attempts"] = 5,
-},
-[20201011] = {
-["time"] = 5,
-["attempts"] = 6,
-},
-[20200828] = {
-["attempts"] = 1,
-},
-[20201118] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200605] = {
-["time"] = 3,
-["attempts"] = 7,
-},
-[20200424] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250110] = {
-["attempts"] = 1,
-},
-[20201123] = {
-["attempts"] = 7,
-},
-[20250222] = {
-["time"] = 2,
-["attempts"] = 8,
-},
-[20250226] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 101,
-["time"] = 117.0969999999998,
-},
-["Highland Mustang"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
-},
-},
-["time"] = 2,
-["dates"] = {
-[20180907] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 2,
-},
-["Swift Zulian Panther"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Great Sea Ray"] = {
-["lastAttempts"] = 53,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 53,
-["time"] = 672.2889999997913,
-["totalTime"] = 672.2889999997913,
-["attempts"] = 53,
-},
-},
-["time"] = 672.2889999997913,
-["dates"] = {
-[20190606] = {
-["time"] = 65.2049999999872,
-["attempts"] = 4,
-},
-[20190622] = {
-["time"] = 212.415999999968,
-["attempts"] = 17,
-},
-[20190323] = {
-["attempts"] = 1,
-},
-[20190415] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190325] = {
-["time"] = 137.895000000004,
-["attempts"] = 10,
-},
-[20190629] = {
-["time"] = 20.40299999993295,
-["attempts"] = 2,
-},
-[20190705] = {
-["time"] = 14.94200000001001,
-["attempts"] = 2,
-},
-[20190430] = {
-["time"] = 29.6309999999357,
-["attempts"] = 3,
-},
-[20190602] = {
-["time"] = 10.2849999999162,
-["attempts"] = 2,
-},
-[20190708] = {
-["time"] = 39.41500000003725,
-["attempts"] = 3,
-},
-[20190504] = {
-["time"] = 141.097,
-["attempts"] = 8,
-},
-},
-["attempts"] = 53,
-["realAttempts"] = 53,
-["totalFinds"] = 1,
-["enabled"] = false,
-["found"] = true,
-["lastTime"] = 672.2889999997913,
-},
-["Giant Coldsnout"] = {
-["dates"] = {
-[20190828] = {
-["time"] = 7.874000000068918,
-["attempts"] = 2,
-},
-[20181114] = {
-["time"] = 2,
-["attempts"] = 10,
-},
-[20200613] = {
-["time"] = 8.865999999994528,
-["attempts"] = 2,
-},
-[20200617] = {
-["time"] = 5.811999999976251,
-["attempts"] = 2,
-},
-[20190428] = {
-["attempts"] = 2,
-},
-[20190531] = {
-["time"] = 9.08499999996275,
-["attempts"] = 2,
-},
-[20181115] = {
-["time"] = 1,
-},
-[20200626] = {
-["attempts"] = 2,
-},
-[20190722] = {
-["time"] = 2.62400000001071,
-["attempts"] = 2,
-},
-[20190413] = {
-["time"] = 21.1099999998696,
-["attempts"] = 4,
-},
-[20190925] = {
-["time"] = 4.625,
-["attempts"] = 2,
-},
-[20180612] = {
-["attempts"] = 6,
-},
-[20200722] = {
-["time"] = 6.702999999979511,
-["attempts"] = 2,
-},
-[20190211] = {
-["time"] = 10.1899999999441,
-["attempts"] = 6,
-},
-[20190711] = {
-["time"] = 3.030999999959022,
-["attempts"] = 2,
-},
-[20180609] = {
-["attempts"] = 2,
-},
-[20190815] = {
-["attempts"] = 1,
-},
-[20200708] = {
-["time"] = 5.841000000014901,
-["attempts"] = 2,
-},
-[20190203] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180619] = {
-["attempts"] = 6,
-},
-[20200627] = {
-["time"] = 2.217000000004191,
-},
-[20200702] = {
-["attempts"] = 2,
-},
-[20200717] = {
-["time"] = 2.261999999987893,
-["attempts"] = 2,
-},
-},
-["attempts"] = 63,
-["time"] = 94.23999999977242,
-},
-["Reins of the Amber Primordial Direhorn"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Solar Spirehawk"] = {
-["time"] = 1,
-["dates"] = {
-[20180715] = {
-["time"] = 1,
-},
-},
-["attempts"] = 147,
 },
 ["Impressionable Gorger Spawn"] = {
 ["lastAttempts"] = 95,
@@ -32939,20 +31538,20 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250302] = {
-["time"] = 1,
-["attempts"] = 1,
+[20250211] = {
+["attempts"] = 3,
 },
 [20250209] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20250210] = {
+[20250301] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20250211] = {
-["attempts"] = 3,
+[20250302] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20250227] = {
 ["time"] = 1,
@@ -33050,7 +31649,7 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 3,
 },
-[20250301] = {
+[20250210] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -33062,503 +31661,548 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 547.0840000000026,
 },
-["Captured Kaldorei Nightsaber"] = {
+["Harvester's Dredwing Saddle"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
-},
-["Reins of the Jade Primordial Direhorn"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Valarjar Stormwing"] = {
-["lastAttempts"] = 21,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 21,
-["time"] = 50.4350000000013,
-["totalTime"] = 50.4350000000013,
-["attempts"] = 21,
-},
-},
-["time"] = 50.4350000000013,
+["time"] = 1,
 ["dates"] = {
-[20180526] = {
-["attempts"] = 1,
-},
-[20180512] = {
-["time"] = 15.2799999999988,
-["attempts"] = 2,
-},
-[20180604] = {
-["time"] = 3.25300000000061,
-["attempts"] = 1,
-},
-[20180530] = {
-["attempts"] = 1,
-},
-[20180623] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180518] = {
-["attempts"] = 1,
-},
-[20180609] = {
+[20210706] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180716] = {
+},
 ["attempts"] = 1,
 },
-[20180806] = {
-["time"] = 1,
+["Reins of the Infinite Timereaver"] = {
+["known"] = true,
+["time"] = 147156.0220000013,
+["dates"] = {
+[20220103] = {
+["time"] = 2784.69700000016,
+["attempts"] = 14,
+},
+[20210105] = {
+["time"] = 1036.573000000091,
 ["attempts"] = 5,
 },
-[20180612] = {
-["time"] = 1,
-["attempts"] = 1,
+[20210101] = {
+["time"] = 578.4329999999609,
+["attempts"] = 3,
 },
-[20180708] = {
-["attempts"] = 1,
+[20200108] = {
+["time"] = 3249.460000000021,
+["attempts"] = 15,
 },
-[20180705] = {
-["time"] = 26.9020000000019,
+[20210103] = {
+["time"] = 1031.762000000104,
+["attempts"] = 5,
+},
+[20220415] = {
+["time"] = 2256.299999999814,
+["attempts"] = 8,
+},
+[20210225] = {
+["time"] = 70.58899999999994,
 ["attempts"] = 4,
 },
+[20210317] = {
+["attempts"] = 4,
 },
-["attempts"] = 21,
-["realAttempts"] = 21,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 50.4350000000013,
-["enabled"] = false,
+[20210227] = {
+["time"] = 3446.215999999957,
+["attempts"] = 15,
 },
-["Gnawed Reins of the Battle-Bound Warhound"] = {
-["lastAttempts"] = 17,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 17,
-["time"] = 445.8910000000033,
-["totalTime"] = 445.8910000000033,
-["attempts"] = 17,
-},
-},
-["time"] = 445.8910000000033,
-["dates"] = {
-[20210203] = {
-["time"] = 67.95100000000093,
-["attempts"] = 2,
-},
-[20210131] = {
-["time"] = 67.50199999997858,
-["attempts"] = 2,
-},
-[20210128] = {
-["time"] = 68.80099999997765,
-["attempts"] = 2,
-},
-[20210202] = {
-["time"] = 239.6370000000461,
-["attempts"] = 6,
-},
-[20210204] = {
-["time"] = 2,
-["attempts"] = 5,
-},
-},
-["attempts"] = 17,
-["enabled"] = false,
-["realAttempts"] = 17,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 445.8910000000033,
-},
-["Stonehide Elderhorn"] = {
-["time"] = 275,
-["dates"] = {
-[20200111] = {
-["time"] = 6,
+[20230407] = {
+["time"] = 866.4760000000006,
 ["attempts"] = 9,
 },
-[20200114] = {
-["time"] = 2,
-["attempts"] = 3,
+[20220416] = {
+["time"] = 924.065000000177,
+["attempts"] = 6,
 },
-[20200130] = {
-["time"] = 3,
-["attempts"] = 3,
+[20200221] = {
+["attempts"] = 16,
 },
-[20200207] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
-["time"] = 3,
-["attempts"] = 2,
-},
-[20200105] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200106] = {
-["time"] = 8,
+[20200131] = {
+["time"] = 601.3209999999963,
 ["attempts"] = 10,
 },
-[20200122] = {
-["time"] = 3,
-["attempts"] = 3,
+[20200102] = {
+["attempts"] = 16,
 },
-[20200218] = {
-["time"] = 2,
-["attempts"] = 3,
+[20210218] = {
+["time"] = 2019.259999999995,
+["attempts"] = 16,
 },
-[20190428] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190414] = {
-["time"] = 8,
-["attempts"] = 8,
-},
-[20190430] = {
-["time"] = 4,
+[20210219] = {
+["time"] = 576.1530000000002,
 ["attempts"] = 4,
 },
-[20200425] = {
-["time"] = 1,
-["attempts"] = 2,
+[20190127] = {
+["time"] = 3555.84499999986,
+["attempts"] = 15,
 },
-[20190326] = {
-["time"] = 3,
+[20210311] = {
+["time"] = 589.6689999999944,
 ["attempts"] = 4,
 },
-[20190418] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190314] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190420] = {
-["time"] = 5,
-["attempts"] = 7,
-},
-[20190331] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190407] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190427] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190503] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20241207] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190716] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190626] = {
-["time"] = 4,
+[20190222] = {
+["time"] = 684.607000000076,
 ["attempts"] = 6,
 },
-[20190703] = {
-["time"] = 13,
+[20190318] = {
+["time"] = 767.158999999985,
+["attempts"] = 6,
+},
+[20190129] = {
+["time"] = 4782.932,
+["attempts"] = 19,
+},
+[20190221] = {
+["time"] = 846.079000000027,
+["attempts"] = 6,
+},
+[20200201] = {
+["time"] = 627.502999999997,
 ["attempts"] = 13,
 },
-[20190628] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200714] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190720] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20211103] = {
-["attempts"] = 1,
-},
-[20190707] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190829] = {
-["time"] = 6,
-["attempts"] = 6,
-},
-[20190830] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190710] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200826] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190802] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190818] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200715] = {
-["time"] = 4,
+[20190223] = {
+["time"] = 838.543999999994,
 ["attempts"] = 4,
 },
-[20200713] = {
-["time"] = 3,
+[20190103] = {
+["time"] = 472.354999999981,
 ["attempts"] = 3,
 },
-[20190927] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200605] = {
-["time"] = 4,
+[20190224] = {
 ["attempts"] = 4,
 },
-[20190823] = {
-["time"] = 1,
-["attempts"] = 2,
+[20210621] = {
+["time"] = 839.8840000000782,
+["attempts"] = 4,
 },
-[20190824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190915] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191023] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20200506] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190919] = {
-["time"] = 6,
+[20190106] = {
+["time"] = 765.916999999987,
 ["attempts"] = 6,
 },
-[20190905] = {
-["time"] = 6,
-["attempts"] = 6,
+[20200508] = {
+["time"] = 1392.663000000059,
+["attempts"] = 28,
 },
-[20200504] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190922] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191013] = {
-["time"] = 6,
+[20190319] = {
 ["attempts"] = 7,
 },
-[20191014] = {
-["time"] = 2,
-["attempts"] = 1,
+[20190317] = {
+["time"] = 2056.27200000006,
+["attempts"] = 23,
 },
-[20191030] = {
-["time"] = 2,
-["attempts"] = 3,
+[20190320] = {
+["time"] = 440.236,
+["attempts"] = 7,
 },
-[20191031] = {
-["time"] = 4,
-["attempts"] = 3,
-},
-[20191017] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20191003] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20200503] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200223] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20200222] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20191218] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191113] = {
-["time"] = 5,
+[20210618] = {
+["time"] = 618.8769999999786,
 ["attempts"] = 6,
 },
-[20191114] = {
-["time"] = 1,
-},
-[20191130] = {
-["time"] = 3,
+[20190413] = {
+["time"] = 616.966000000015,
 ["attempts"] = 3,
 },
-[20190808] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191107] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190904] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190928] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20191211] = {
-["time"] = 3,
+[20220818] = {
+["time"] = 451.1509999999544,
 ["attempts"] = 4,
 },
-[20190725] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191024] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20190630] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191108] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191128] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20190913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190718] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190719] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191121] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190627] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191006] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190711] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200303] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200710] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200716] = {
-["time"] = 7,
+[20220819] = {
+["time"] = 875.7759999999544,
 ["attempts"] = 8,
 },
-[20200822] = {
-["time"] = 1,
-["attempts"] = 1,
+[20200721] = {
+["time"] = 1804.35400000005,
+["attempts"] = 10,
 },
-[20200827] = {
-["time"] = 4,
-["attempts"] = 4,
+[20180524] = {
+["attempts"] = 9,
 },
-[20190816] = {
-["time"] = 3,
+[20190508] = {
+["time"] = 2523.27600000001,
+["attempts"] = 20,
+},
+[20190313] = {
+["time"] = 1353.237,
+["attempts"] = 7,
+},
+[20210619] = {
+["attempts"] = 8,
+},
+[20190504] = {
+["time"] = 713.464000000036,
 ["attempts"] = 3,
 },
+[20200818] = {
+["time"] = 1101.320999999996,
+["attempts"] = 8,
 },
-["attempts"] = 302,
+[20200507] = {
+["time"] = 758.9389999999548,
+["attempts"] = 4,
 },
-["Reins of the Winter Night Dreamsaber"] = {
+[20200719] = {
+["time"] = 567.2019999999902,
+["attempts"] = 4,
+},
+[20200704] = {
+["time"] = 1722.537999999942,
+["attempts"] = 9,
+},
+[20190410] = {
+["time"] = 3591.50800000003,
+["attempts"] = 17,
+},
+[20200706] = {
+["time"] = 354.3889999999665,
+["attempts"] = 3,
+},
+[20190623] = {
+["time"] = 827.305000000051,
+["attempts"] = 6,
+},
+[20200603] = {
+["time"] = 722.4969999999739,
+["attempts"] = 4,
+},
+[20210809] = {
+["time"] = 4055.813999999984,
+["attempts"] = 17,
+},
+[20190505] = {
+["time"] = 2238.667,
+["attempts"] = 8,
+},
+[20180527] = {
+["attempts"] = 11,
+},
+[20200903] = {
+["attempts"] = 5,
+},
+[20180528] = {
+["time"] = 6185.91799999995,
+["attempts"] = 29,
+},
+[20180529] = {
+["time"] = 433.793999999994,
+["attempts"] = 4,
+},
+[20180530] = {
+["time"] = 478.09,
+["attempts"] = 3,
+},
+[20180622] = {
+["time"] = 630.906000000003,
+["attempts"] = 4,
+},
+[20180623] = {
+["attempts"] = 4,
+},
+[20190814] = {
+["attempts"] = 4,
+},
+[20200904] = {
+["time"] = 2640.968999999997,
+["attempts"] = 17,
+},
+[20180716] = {
+["time"] = 782.195,
+["attempts"] = 4,
+},
+[20180626] = {
+["attempts"] = 3,
+},
+[20180627] = {
+["time"] = 567.384000000006,
+},
+[20180523] = {
+["attempts"] = 3,
+},
+[20190910] = {
+["time"] = 886.8300000000163,
+},
+[20190503] = {
+["attempts"] = 1,
+},
+[20190927] = {
+["time"] = 716.2129999999888,
+["attempts"] = 8,
+},
+[20201230] = {
+["time"] = 580.5479999999516,
+["attempts"] = 5,
+},
+[20190808] = {
+["time"] = 3313.930000000051,
+["attempts"] = 16,
+},
+[20191119] = {
+["attempts"] = 6,
+},
+[20180929] = {
+["time"] = 491.546000000002,
+["attempts"] = 3,
+},
+[20191120] = {
+["attempts"] = 12,
+},
+[20191023] = {
+["time"] = 536.3479999999981,
+["attempts"] = 4,
+},
+[20180713] = {
+["time"] = 1671.58700000001,
+["attempts"] = 11,
+},
+[20190904] = {
+["time"] = 645.4660000000149,
+["attempts"] = 4,
+},
+[20180715] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20190906] = {
+["time"] = 1472.858999999939,
+["attempts"] = 8,
+},
+[20191118] = {
+["time"] = 1481.266000000003,
+["attempts"] = 11,
+},
+[20191028] = {
+["time"] = 4495.049000000006,
+["attempts"] = 26,
+},
+[20191029] = {
+["time"] = 2534.195999999996,
+["attempts"] = 10,
+},
+[20181021] = {
+["time"] = 1171.59100000001,
+["attempts"] = 12,
+},
+[20190908] = {
+["time"] = 1851.863000000012,
+["attempts"] = 11,
+},
+[20191002] = {
+["time"] = 2141.186999999998,
+["attempts"] = 24,
+},
+[20190107] = {
+["time"] = 1028.89600000001,
+["attempts"] = 4,
+},
+[20190506] = {
+["time"] = 1727.40800000001,
+["attempts"] = 12,
+},
+[20180526] = {
+["attempts"] = 5,
+},
+[20181117] = {
+["time"] = 3892.86000000004,
+["attempts"] = 20,
+},
+[20181118] = {
+["time"] = 1032.27900000004,
+["attempts"] = 8,
+},
+[20191218] = {
+["time"] = 1804.393000000011,
+["attempts"] = 21,
+},
+[20191114] = {
+["time"] = 1966.192000000039,
+["attempts"] = 7,
+},
+[20181120] = {
+["time"] = 1954.53300000017,
+["attempts"] = 11,
+},
+[20181001] = {
+["time"] = 1501.382,
+["attempts"] = 11,
+},
+[20181017] = {
+["time"] = 1269.94800000009,
+["attempts"] = 7,
+},
+[20181018] = {
+["time"] = 1747.52099999995,
+["attempts"] = 8,
+},
+[20190909] = {
+["time"] = 961.8360000000102,
+["attempts"] = 16,
+},
+[20190603] = {
+["time"] = 4689.474,
+["attempts"] = 15,
+},
+[20190813] = {
+["time"] = 556.8829999999143,
+["attempts"] = 4,
+},
+[20181121] = {
+["time"] = 79.0039999999572,
+["attempts"] = 4,
+},
+[20190411] = {
+["time"] = 365.196000000055,
+["attempts"] = 10,
+},
+[20190227] = {
+["time"] = 700.349000000002,
+["attempts"] = 4,
+},
+[20190626] = {
+["time"] = 462.361000000034,
+["attempts"] = 3,
+},
+[20180930] = {
+["time"] = 2878.80400000001,
+["attempts"] = 18,
+},
+[20191117] = {
+["time"] = 2652.272000000012,
+["attempts"] = 15,
+},
+[20191025] = {
+["time"] = 1112.975999999908,
+["attempts"] = 7,
+},
+[20181209] = {
+["time"] = 887.022000000347,
+["attempts"] = 4,
+},
+[20180621] = {
+["attempts"] = 7,
+},
+[20190925] = {
+["time"] = 2054.778000000166,
+["attempts"] = 10,
+},
+[20190601] = {
+["time"] = 772.800999999978,
+["attempts"] = 5,
+},
+[20200819] = {
+["time"] = 1957.840000000026,
+["attempts"] = 9,
+},
+[20200722] = {
+["time"] = 963.2299999999814,
+["attempts"] = 4,
+},
+[20190531] = {
+["time"] = 921.506000000052,
+["attempts"] = 4,
+},
+[20180620] = {
+["time"] = 145.423999999999,
+["attempts"] = 2,
+},
+[20220823] = {
+["time"] = 372.9340000000084,
+["attempts"] = 2,
+},
+[20200413] = {
+["time"] = 3715.31799999997,
+["attempts"] = 18,
+},
+[20200509] = {
+["time"] = 582.344000000041,
+["attempts"] = 4,
+},
+[20190225] = {
+["time"] = 1228.41799999983,
+["attempts"] = 11,
+},
+[20210315] = {
+["time"] = 1801.707999999984,
+["attempts"] = 7,
+},
+[20210316] = {
+["time"] = 589.4300000000003,
+["attempts"] = 4,
+},
+[20220414] = {
+["attempts"] = 7,
+},
+[20230410] = {
+["time"] = 69.71600000000035,
+["attempts"] = 2,
+},
+},
+["attempts"] = 1040,
+["enabled"] = false,
+["found"] = true,
+},
+["Wild Goretusk"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Reins of the Blazing Drake"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Flametalon of Alysrazor"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Shackled Ur'zul"] = {
+["lastAttempts"] = 28,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 28,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 28,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20230531] = {
+["time"] = 1,
+},
+},
+["enabled"] = false,
+["attempts"] = 28,
+["realAttempts"] = 28,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Reins of the Azure Drake"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Deathcharger's Reins"] = {
+["known"] = true,
+["attempts"] = 288,
+["enabled"] = false,
+["found"] = true,
+},
+["Flaming Shalewing Subject 01"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Reins of the Springtide Dreamtalon"] = {
 ["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
@@ -33575,568 +32219,33 @@ RarityDB = {
 ["totalFinds"] = 1,
 ["found"] = true,
 },
-["Bloodgorged Hunter"] = {
-["lastAttempts"] = 301,
+["Reins of the Colossal Slaughterclaw"] = {
+["lastAttempts"] = 5,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 301,
-["time"] = 1460.943999999946,
-["totalTime"] = 1460.943999999946,
-["attempts"] = 301,
-},
-},
-["time"] = 1460.943999999946,
-["dates"] = {
-[20200111] = {
-["time"] = 6,
-["attempts"] = 9,
-},
-[20200114] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20200130] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200207] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
-["time"] = 3,
-["attempts"] = 2,
-},
-[20200105] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200106] = {
-["time"] = 8,
-["attempts"] = 10,
-},
-[20200122] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200218] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20190428] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190414] = {
-["time"] = 8,
-["attempts"] = 8,
-},
-[20190430] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20200425] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190326] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20190418] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190314] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190420] = {
-["time"] = 5,
-["attempts"] = 7,
-},
-[20190331] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190407] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20241207] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190501] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190427] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190503] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190720] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190716] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190626] = {
-["time"] = 4,
-["attempts"] = 6,
-},
-[20190703] = {
-["time"] = 13,
-["attempts"] = 13,
-},
-[20190628] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200714] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200715] = {
-["time"] = 5,
-["attempts"] = 4,
-},
-[20190707] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20211103] = {
-["attempts"] = 1,
-},
-[20190829] = {
-["time"] = 6,
-["attempts"] = 6,
-},
-[20190830] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190710] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190816] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200827] = {
-["time"] = 71.36300000001211,
-["attempts"] = 4,
-},
-[20190818] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200713] = {
-["time"] = 71.72999999998137,
-["attempts"] = 3,
-},
-[20200605] = {
-["time"] = 5,
-["attempts"] = 4,
-},
-[20190927] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200507] = {
-["time"] = 759.9389999999548,
-},
-[20190823] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190915] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191023] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20200506] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190919] = {
-["time"] = 6,
-["attempts"] = 6,
-},
-[20190905] = {
-["time"] = 6,
-["attempts"] = 6,
-},
-[20200504] = {
-["time"] = 90.09500000000116,
-["attempts"] = 1,
-},
-[20190922] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191013] = {
-["time"] = 6,
-["attempts"] = 7,
-},
-[20191014] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20191030] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20191031] = {
-["time"] = 4,
-["attempts"] = 3,
-},
-[20191017] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20191003] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20200503] = {
-["time"] = 58.22900000000664,
-["attempts"] = 2,
-},
-[20200223] = {
-["time"] = 2,
-["attempts"] = 1,
-},
-[20200222] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20191218] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191113] = {
-["time"] = 5,
-["attempts"] = 6,
-},
-[20191114] = {
-["time"] = 1,
-},
-[20191130] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190808] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191107] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190904] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190928] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20191211] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20190725] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191024] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20190630] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191108] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191128] = {
-["time"] = 3,
-["attempts"] = 4,
-},
-[20190913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190718] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20190719] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191121] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20191129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20190627] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190902] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191006] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190711] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200303] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200710] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200716] = {
-["time"] = 8,
-["attempts"] = 8,
-},
-[20190802] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20200826] = {
-["time"] = 48.19700000004377,
-["attempts"] = 3,
-},
-[20200822] = {
-["time"] = 99.39099999994505,
-["attempts"] = 1,
-},
-},
-["attempts"] = 301,
-["enabled"] = false,
-["realAttempts"] = 301,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1460.943999999946,
-},
-["Scepter of Azj'Aqir"] = {
-["attempts"] = 415,
-},
-["Clutch of Ha-Li"] = {
-["lastAttempts"] = 12,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 12,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 12,
-},
-},
-["time"] = 10,
-["dates"] = {
-[20200220] = {
-["attempts"] = 1,
-},
-[20200610] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200405] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200211] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200602] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200319] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200125] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200710] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200709] = {
-["attempts"] = 1,
-},
-[20200603] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200308] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200601] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 12,
-["enabled"] = false,
-["realAttempts"] = 12,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 10,
-},
-["Smoldering Egg of Millagazor"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Fractal Cypher of the Zereth Overseer"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Reins of the White Polar Bear"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Endmire Flyer Tether"] = {
-["lastAttempts"] = 2,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 2,
-},
-},
-["time"] = 1,
-["dates"] = {
-[20210311] = {
-["attempts"] = 1,
-},
-[20210902] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 2,
-["enabled"] = false,
-["realAttempts"] = 2,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 1,
-},
-["Clayscale Hornstrider"] = {
-["lastAttempts"] = 8,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 8,
-["time"] = 8,
-["totalTime"] = 8,
-["attempts"] = 8,
-},
-},
-["time"] = 8,
-["dates"] = {
-[20240331] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20240401] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-},
-["attempts"] = 8,
-["enabled"] = false,
-["realAttempts"] = 8,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 8,
-},
-["Gorespine"] = {
-["lastAttempts"] = 6,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 6,
+["totalAttempts"] = 5,
 ["time"] = 6,
 ["totalTime"] = 6,
-["attempts"] = 6,
+["attempts"] = 5,
 },
 },
 ["time"] = 6,
 ["dates"] = {
-[20210430] = {
+[20210308] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20221011] = {
+[20210511] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210503] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20210608] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -34144,389 +32253,227 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210223] = {
-["time"] = 1,
-["attempts"] = 1,
 },
-[20211116] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210207] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 6,
+["attempts"] = 5,
 ["enabled"] = false,
-["realAttempts"] = 6,
+["realAttempts"] = 5,
 ["totalFinds"] = 1,
 ["found"] = true,
 ["lastTime"] = 6,
 },
-["Ancient Salamanther"] = {
-["lastAttempts"] = 14,
+["Reins of the Vitreous Stone Drake"] = {
 ["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 14,
-["time"] = 964.1260000000475,
-["totalTime"] = 964.1260000000475,
-["attempts"] = 14,
-},
-},
-["time"] = 964.1260000000475,
-["dates"] = {
-[20231009] = {
-["attempts"] = 1,
-},
-[20231010] = {
-["attempts"] = 2,
-},
-[20231030] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231003] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20231029] = {
-["time"] = 962.1260000000475,
-["attempts"] = 8,
-},
-},
-["attempts"] = 14,
 ["enabled"] = false,
-["realAttempts"] = 14,
-["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 964.1260000000475,
 },
-["Vile Fiend"] = {
-["lastAttempts"] = 52,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 52,
-["time"] = 388.792000000365,
-["totalTime"] = 388.792000000365,
-["attempts"] = 52,
-},
-},
-["time"] = 388.792000000365,
+["Brewfest Barrel Bomber"] = {
 ["dates"] = {
-[20181110] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181031] = {
-["time"] = 357.792000000365,
-["attempts"] = 5,
-},
-[20181103] = {
+[20250924] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20181024] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20180520] = {
-["attempts"] = 1,
-},
-[20180703] = {
+[20251005] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181116] = {
+[20250930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+},
 ["attempts"] = 5,
-},
-[20181104] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181021] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181025] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20181029] = {
-["time"] = 6,
-["attempts"] = 6,
-},
-[20181022] = {
 ["time"] = 4,
-["attempts"] = 4,
 },
-[20180617] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181026] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20181120] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20181028] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181017] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181023] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 52,
-["realAttempts"] = 52,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 388.792000000365,
-["enabled"] = false,
-},
-["Reins of the Green Proto-Drake"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Maddened Chaosrunner"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Reins of the Heavenly Onyx Cloud Serpent"] = {
-["lastAttempts"] = 299,
+["Captured Umber Nightsaber"] = {
+["lastAttempts"] = 5,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 299,
-["time"] = 564.7820000000356,
-["totalTime"] = 564.7820000000356,
-["attempts"] = 299,
-},
-},
-["time"] = 564.7820000000356,
-["dates"] = {
-[20190304] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190305] = {
-["attempts"] = 1,
-},
-[20200416] = {
-["time"] = 1,
-},
-[20181129] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190310] = {
-["attempts"] = 1,
-},
-[20191017] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181119] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190705] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190316] = {
-["attempts"] = 1,
-},
-[20200519] = {
-["time"] = 92.92200000002049,
-},
-[20200725] = {
-["time"] = 465.8600000000151,
-["attempts"] = 1,
-},
-},
-["enabled"] = false,
-["attempts"] = 299,
-["realAttempts"] = 299,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 564.7820000000356,
-},
-["Highmountain Elderhorn"] = {
-["lastAttempts"] = 17,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 17,
-["time"] = 24.5500000000502,
-["totalTime"] = 24.5500000000502,
-["attempts"] = 17,
-},
-},
-["time"] = 24.5500000000502,
-["dates"] = {
-[20180629] = {
-["attempts"] = 1,
-},
-[20180705] = {
+["totalAttempts"] = 5,
+["time"] = 4,
+["totalTime"] = 4,
 ["attempts"] = 5,
 },
-[20180512] = {
-["time"] = 8.89400000000023,
-["attempts"] = 3,
 },
-[20180604] = {
-["time"] = 3.25300000000061,
-["attempts"] = 1,
-},
-[20180530] = {
+["time"] = 4,
+["dates"] = {
+[20190221] = {
+["time"] = 1,
 ["attempts"] = 2,
 },
-[20180609] = {
+[20190204] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180716] = {
-["attempts"] = 1,
-},
-[20180717] = {
-["attempts"] = 1,
-},
-[20180612] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180806] = {
-["time"] = 10.4030000000494,
-["attempts"] = 1,
+[20190224] = {
+["time"] = 2,
+["attempts"] = 2,
 },
 },
-["attempts"] = 17,
+["attempts"] = 5,
 ["enabled"] = false,
-["realAttempts"] = 17,
+["realAttempts"] = 5,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 24.5500000000502,
+["lastTime"] = 4,
 },
-["Garn Nighthowl"] = {
-["lastAttempts"] = 1,
+["Life-Binder's Handmaiden"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Personalized Goblin S.C.R.A.Per"] = {
+["lastAttempts"] = 11,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
+["totalAttempts"] = 11,
+["time"] = 28.96899999999732,
+["totalTime"] = 28.96899999999732,
+["attempts"] = 11,
 },
 },
-["time"] = 1,
+["time"] = 28.96899999999732,
 ["dates"] = {
-[20180810] = {
-["time"] = 1,
-["attempts"] = 1,
+[20260205] = {
+["time"] = 28.96899999999732,
+["attempts"] = 11,
 },
 },
-["attempts"] = 1,
+["attempts"] = 11,
 ["enabled"] = false,
-["realAttempts"] = 1,
+["realAttempts"] = 11,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 1,
+["lastTime"] = 28.96899999999732,
 },
-["Deepstar Polyp"] = {
-["lastAttempts"] = 10,
+["Marrowfang's Reins"] = {
+["lastAttempts"] = 72,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 72,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 72,
+},
+},
+["attempts"] = 72,
+["enabled"] = false,
+["realAttempts"] = 72,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Crimson Shardhide"] = {
+["lastAttempts"] = 15,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 10,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 10,
+["totalAttempts"] = 15,
+["time"] = 15,
+["totalTime"] = 15,
+["attempts"] = 15,
 },
 },
-["time"] = 10,
+["time"] = 15,
 ["dates"] = {
-[20220514] = {
+[20210904] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20210826] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220515] = {
+[20210902] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220622] = {
+[20210903] = {
+["attempts"] = 1,
+},
+[20210815] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220413] = {
+[20210710] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220701] = {
+[20210905] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220612] = {
+[20210802] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220914] = {
+[20210818] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220526] = {
+[20210730] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220507] = {
+[20210820] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220424] = {
+[20210828] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210911] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210827] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 10,
+["attempts"] = 15,
 ["enabled"] = false,
-["realAttempts"] = 10,
+["realAttempts"] = 15,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 10,
+["lastTime"] = 15,
 },
-["Reins of the Ravenous Black Gryphon"] = {
+["Blisterback Bloodtusk"] = {
 ["lastAttempts"] = 3,
 ["known"] = true,
 ["finds"] = {
 {
-["totalAttempts"] = 3,
 ["num"] = 1,
-["time"] = 0,
+["totalAttempts"] = 3,
+["time"] = 3,
+["totalTime"] = 3,
 ["attempts"] = 3,
 },
 },
+["time"] = 3,
 ["dates"] = {
-[20230818] = {
-["attempts"] = 2,
+[20210404] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20230820] = {
+[20210729] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210204] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
@@ -34535,1988 +32482,522 @@ RarityDB = {
 ["realAttempts"] = 3,
 ["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 3,
 },
-["Swift White Hawkstrider"] = {
-["known"] = true,
-["found"] = true,
-["enabled"] = false,
-},
-["Living Infernal Core"] = {
-["lastAttempts"] = 215,
+["Armored Bonehoof Tauralus"] = {
+["lastAttempts"] = 4,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 215,
-["time"] = 677.067000000014,
-["totalTime"] = 677.067000000014,
-["attempts"] = 215,
+["totalAttempts"] = 4,
+["time"] = 95.5109999999404,
+["totalTime"] = 95.5109999999404,
+["attempts"] = 4,
 },
 },
-["time"] = 677.067000000014,
+["time"] = 95.5109999999404,
 ["dates"] = {
-[20190214] = {
-["time"] = 589.177,
-},
-[20210811] = {
-["time"] = 1,
-},
-[20200830] = {
-["time"] = 1,
-},
-[20200709] = {
-["time"] = 1,
-},
-[20220824] = {
-["time"] = 2,
-},
-[20220825] = {
-["time"] = 1,
-},
-[20220121] = {
-["time"] = 1,
-},
-[20220108] = {
-["time"] = 1,
-},
-[20200909] = {
-["time"] = 78.89000000001397,
-},
-[20220209] = {
-["time"] = 1,
-},
-},
-["enabled"] = false,
-["attempts"] = 215,
-["realAttempts"] = 215,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 677.067000000014,
-},
-["Darkmaul"] = {
-["known"] = true,
-["dates"] = {
-[20210810] = {
+[20211010] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210811] = {
+[20210921] = {
+["time"] = 93.5109999999404,
+["attempts"] = 2,
+},
+[20210615] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 },
 ["attempts"] = 4,
 ["enabled"] = false,
+["realAttempts"] = 4,
+["totalFinds"] = 1,
 ["found"] = true,
-["time"] = 1,
+["lastTime"] = 95.5109999999404,
 },
-["Avenging Felcrusher"] = {
-["lastAttempts"] = 2,
+["Lil' Donkey"] = {
+["lastAttempts"] = 26,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 2,
-["time"] = 2,
-["totalTime"] = 2,
-["attempts"] = 2,
+["totalAttempts"] = 26,
+["time"] = 25,
+["totalTime"] = 25,
+["attempts"] = 26,
 },
 },
-["time"] = 2,
+["time"] = 25,
 ["dates"] = {
-[20180512] = {
+[20190308] = {
+["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190122] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
+[20190420] = {
+["time"] = 1,
+["attempts"] = 1,
 },
+[20190222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190123] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190421] = {
+["time"] = 2,
 ["attempts"] = 2,
+},
+[20190330] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190219] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181117] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190311] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190418] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 26,
 ["enabled"] = false,
-["realAttempts"] = 2,
+["realAttempts"] = 26,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 2,
+["lastTime"] = 25,
 },
-["Goldenmane's Reins"] = {
-["time"] = 25273.4050000005,
+["Captured Dune Scavenger"] = {
+["time"] = 14264.48400000004,
 ["dates"] = {
-[20191129] = {
-["attempts"] = 16,
+[20200110] = {
+["time"] = 499.6440000000293,
+["attempts"] = 15,
 },
-[20190906] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190922] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190715] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191002] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200724] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200405] = {
-["time"] = 606.7949999999255,
-["attempts"] = 5,
-},
-[20190811] = {
-["time"] = 60.51500000001397,
-},
-[20201011] = {
-["time"] = 115.8450000000157,
-["attempts"] = 11,
-},
-[20200310] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200804] = {
-["time"] = 92.08700000005774,
-["attempts"] = 10,
-},
-[20210526] = {
-["attempts"] = 3,
-},
-[20250131] = {
-["attempts"] = 2,
-},
-[20190907] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190923] = {
-["time"] = 4,
-["attempts"] = 5,
-},
-[20181120] = {
-["time"] = 59.4479999999749,
-["attempts"] = 3,
-},
-[20190716] = {
-["time"] = 228.0260000000126,
-["attempts"] = 20,
-},
-[20200916] = {
-["time"] = 65.52299999999741,
-["attempts"] = 6,
-},
-[20200422] = {
-["attempts"] = 2,
-},
-[20200820] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190525] = {
-["time"] = 466.841000000015,
+[20200113] = {
+["time"] = 38.50500000000466,
 ["attempts"] = 7,
 },
-[20200901] = {
-["time"] = 141.9889999999723,
-["attempts"] = 16,
+[20200115] = {
+["time"] = 1,
+["attempts"] = 1,
 },
-[20190302] = {
-["time"] = 6.34500000000116,
+[20200101] = {
+["attempts"] = 7,
+},
+[20200103] = {
+["time"] = 725.9250000000466,
+["attempts"] = 12,
+},
+[20190112] = {
+["time"] = 203.394,
+["attempts"] = 12,
+},
+[20200201] = {
+["attempts"] = 1,
+},
+[20190103] = {
+["attempts"] = 2,
+},
+[20190224] = {
+["time"] = 125.734999999986,
+["attempts"] = 7,
+},
+[20190120] = {
+["time"] = 162.558999999997,
+["attempts"] = 13,
+},
+[20200326] = {
+["attempts"] = 8,
+},
+[20190107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190123] = {
+["time"] = 12.045999999973,
+["attempts"] = 2,
+},
+[20200525] = {
+["time"] = 240.5009999999311,
+["attempts"] = 7,
+},
+[20200420] = {
+["time"] = 167.3229999999749,
+["attempts"] = 24,
+},
+[20190413] = {
+["time"] = 158.559000000008,
 ["attempts"] = 4,
 },
-[20181122] = {
-["time"] = 323.956000000006,
-["attempts"] = 53,
+[20190429] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20190309] = {
+["time"] = 587.525000000009,
+["attempts"] = 40,
+},
+[20190310] = {
+["time"] = 460.284000000014,
+},
+[20190524] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190404] = {
+["time"] = 508.101000000024,
+["attempts"] = 5,
+},
+[20200701] = {
+["time"] = 36.39000000001397,
+["attempts"] = 5,
+},
+[20190527] = {
+["time"] = 398.829000000027,
+["attempts"] = 4,
+},
+[20190407] = {
+["time"] = 125.891999999993,
+["attempts"] = 6,
+},
+[20190425] = {
+["time"] = 182.918999999994,
+["attempts"] = 6,
+},
+[20190411] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190427] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190506] = {
+["attempts"] = 7,
+},
+[20200713] = {
+["time"] = 527.8140000002459,
+["attempts"] = 42,
+},
+[20200910] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190615] = {
+["time"] = 78.2439999999988,
+["attempts"] = 6,
+},
+[20251109] = {
+["time"] = 30.34400000004098,
+["attempts"] = 2,
+},
+[20190617] = {
+["time"] = 454.243000000017,
+["attempts"] = 20,
+},
+[20201004] = {
+["time"] = 104.438000000082,
+["attempts"] = 6,
+},
+[20190815] = {
+["time"] = 120.3919999999926,
+["attempts"] = 9,
+},
+[20190725] = {
+["time"] = 185.9339999999792,
+["attempts"] = 11,
+},
+[20190726] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190728] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200822] = {
+["time"] = 61.23899999994319,
+["attempts"] = 7,
+},
+[20200805] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201011] = {
+["time"] = 2,
+["attempts"] = 14,
+},
+[20201118] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191004] = {
+["time"] = 85.07399999999325,
+["attempts"] = 4,
+},
+[20191005] = {
+["time"] = 129.4750000000349,
+["attempts"] = 6,
+},
+[20201105] = {
+["time"] = 256.6180000000168,
+["attempts"] = 4,
+},
+[20201031] = {
+["attempts"] = 5,
+},
+[20200717] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191101] = {
+["attempts"] = 1,
+},
+[20190919] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20201110] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200521] = {
+["attempts"] = 1,
 },
 [20200518] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190319] = {
-["time"] = 119.795000000042,
-["attempts"] = 19,
-},
-[20200805] = {
-["time"] = 114.8240000000224,
-["attempts"] = 7,
-},
-[20200311] = {
-["attempts"] = 5,
-},
-[20190908] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190414] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20201201] = {
-["attempts"] = 3,
-},
-[20200806] = {
-["time"] = 10.00699999998324,
-["attempts"] = 4,
-},
-[20181011] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20191227] = {
-["time"] = 163.1689999999944,
-["attempts"] = 7,
-},
-[20200423] = {
-["time"] = 65.0339999999851,
-["attempts"] = 6,
-},
-[20190220] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200710] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190112] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190813] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200503] = {
-["time"] = 56.22900000000664,
-["attempts"] = 6,
-},
-[20201029] = {
-["attempts"] = 1,
-},
-[20191116] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180916] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200822] = {
-["time"] = 445.3909999999451,
-["attempts"] = 21,
-},
-[20200902] = {
-["time"] = 181.505999999994,
-["attempts"] = 8,
-},
-[20190415] = {
-["time"] = 18.5540000000037,
-["attempts"] = 7,
-},
-[20200615] = {
-["time"] = 50.88200000004144,
-["attempts"] = 5,
-},
-[20200121] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190718] = {
-["time"] = 58.33900000000722,
-["attempts"] = 6,
-},
-[20181028] = {
-["attempts"] = 2,
-},
-[20200424] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191021] = {
-["time"] = 67.5219999999972,
-["attempts"] = 6,
-},
-[20200201] = {
-["time"] = 69.84100000000035,
-["attempts"] = 6,
-},
-[20200217] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190814] = {
-["time"] = 166.7970000000205,
-["attempts"] = 6,
-},
-[20201014] = {
-["time"] = 91.89100000000326,
-["attempts"] = 19,
-},
-[20190320] = {
-["time"] = 77.7280000000028,
-["attempts"] = 3,
-},
-[20190607] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180917] = {
-["time"] = 779.698999999993,
-["attempts"] = 11,
-},
-[20200823] = {
-["time"] = 1,
-["attempts"] = 5,
-},
-[20200903] = {
-["time"] = 125.2360000000044,
-["attempts"] = 8,
-},
-[20201110] = {
-["time"] = 242.6589999999851,
-["attempts"] = 8,
-},
-[20200106] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20190905] = {
-["time"] = 35.49200000008568,
-["attempts"] = 2,
-},
-[20190719] = {
-["time"] = 70.34100000000035,
-["attempts"] = 6,
-},
-[20181029] = {
-["attempts"] = 3,
-},
-[20200821] = {
-["time"] = 51.07599999994272,
-["attempts"] = 4,
-},
-[20190829] = {
-["time"] = 57.83100000000559,
-["attempts"] = 8,
-},
-[20191112] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200218] = {
-["time"] = 210.0060000000522,
-["attempts"] = 32,
-},
-[20191225] = {
-["time"] = 60.35700000001816,
-["attempts"] = 9,
-},
-[20190831] = {
-["time"] = 12.46999999997206,
-["attempts"] = 3,
-},
-[20200601] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191118] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200331] = {
-["time"] = 161.3070000000298,
-["attempts"] = 3,
-},
-[20200824] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190911] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190927] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200107] = {
-["time"] = 173.8139999999985,
-["attempts"] = 33,
-},
-[20191214] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200904] = {
-["time"] = 283.8000000000029,
+[20200509] = {
+["time"] = 546.9679999999935,
 ["attempts"] = 14,
-},
-[20190720] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200426] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191023] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200713] = {
-["time"] = 68.72999999998137,
-["attempts"] = 6,
-},
-[20190529] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200108] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190928] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191231] = {
-["time"] = 871.4180000000633,
-["attempts"] = 18,
-},
-[20201001] = {
-["time"] = 154.5579999999609,
-["attempts"] = 17,
-},
-[20201113] = {
-["time"] = 99.73600000003353,
-["attempts"] = 8,
-},
-[20200315] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181206] = {
-["time"] = 13.8369999998249,
-["attempts"] = 2,
-},
-[20190402] = {
-["time"] = 18.3609999999171,
-["attempts"] = 3,
-},
-[20200124] = {
-["attempts"] = 6,
-},
-[20191223] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250120] = {
-["attempts"] = 1,
-},
-[20200921] = {
-["time"] = 157.4949999999953,
-["attempts"] = 8,
-},
-[20250112] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200204] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200220] = {
-["time"] = 56.6019999999844,
-["attempts"] = 6,
-},
-[20190530] = {
-["attempts"] = 3,
-},
-[20250216] = {
-["attempts"] = 1,
-},
-[20200507] = {
-["time"] = 222.4880000000121,
-["attempts"] = 14,
-},
-[20200626] = {
-["attempts"] = 1,
-},
-[20201120] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20191120] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210516] = {
-["attempts"] = 16,
-},
-[20200508] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181223] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200619] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201002] = {
-["time"] = 98.78900000010617,
-["attempts"] = 10,
-},
-[20200412] = {
-["time"] = 58.637000000017,
-["attempts"] = 6,
-},
-[20200922] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200524] = {
-["time"] = 193.722000000067,
-["attempts"] = 20,
-},
-[20200205] = {
-["time"] = 145.1319999999832,
-["attempts"] = 6,
-},
-[20200221] = {
-["time"] = 499.6659999999974,
-["attempts"] = 13,
-},
-[20191111] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20190802] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20181128] = {
-["attempts"] = 15,
-},
-[20190610] = {
-["time"] = 295.162000000011,
-["attempts"] = 12,
-},
-[20200301] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191121] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190117] = {
-["time"] = 165.900000000023,
-["attempts"] = 10,
-},
-[20200620] = {
-["time"] = 23.10699999998906,
-["attempts"] = 8,
-},
-[20200110] = {
-["time"] = 69.99700000003213,
-["attempts"] = 6,
-},
-[20200907] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191201] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191217] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190723] = {
-["time"] = 87.77100000000792,
-["attempts"] = 10,
-},
-[20250223] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200716] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200222] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190309] = {
-["time"] = 127.399999999994,
-["attempts"] = 3,
-},
-[20201003] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190819] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191015] = {
-["time"] = 16.82500000000073,
-["attempts"] = 3,
-},
-[20191106] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20180922] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200430] = {
-["time"] = 1760.563000000082,
-["attempts"] = 29,
-},
-[20200111] = {
-["time"] = 1,
-["attempts"] = 8,
-},
-[20220527] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20200908] = {
-["time"] = 72.05499999999302,
-["attempts"] = 9,
-},
-[20191218] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20190724] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190712] = {
-["time"] = 73.12900000007357,
-["attempts"] = 5,
-},
-[20200717] = {
-["attempts"] = 18,
-},
-[20190501] = {
-["attempts"] = 1,
-},
-[20201004] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20200625] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181130] = {
-["time"] = 1,
-["attempts"] = 3,
-},
-[20181027] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200813] = {
-["time"] = 655.9890000000596,
-["attempts"] = 18,
-},
-[20191123] = {
-["time"] = 313.2120000000577,
-["attempts"] = 39,
-},
-[20190103] = {
-["time"] = 8.77800000016578,
-["attempts"] = 3,
-},
-[20190122] = {
-["time"] = 19.362999999983,
-["attempts"] = 6,
-},
-[20200829] = {
-["time"] = 131.2169999999969,
-["attempts"] = 6,
-},
-[20200112] = {
-["time"] = 91.70900000003166,
-["attempts"] = 6,
-},
-[20200128] = {
-["time"] = 507.6639999999898,
-["attempts"] = 22,
-},
-[20200415] = {
-["attempts"] = 11,
-},
-[20200925] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20190308] = {
-["attempts"] = 83,
-},
-[20190502] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201005] = {
-["time"] = 153.1140000000596,
-["attempts"] = 12,
-},
-[20190805] = {
-["time"] = 60.27600000001257,
-["attempts"] = 6,
-},
-[20200830] = {
-["time"] = 3,
-["attempts"] = 5,
-},
-[20190614] = {
-["time"] = 34.7160000000004,
-["attempts"] = 2,
-},
-[20201101] = {
-["time"] = 72.74599999992643,
-["attempts"] = 6,
-},
-[20200304] = {
-["attempts"] = 2,
-},
-[20190120] = {
-["time"] = 395.156000000003,
-["attempts"] = 21,
-},
-[20190901] = {
-["time"] = 28.07200000016019,
-["attempts"] = 3,
-},
-[20190407] = {
-["time"] = 255.573999999994,
-["attempts"] = 15,
-},
-[20190423] = {
-["attempts"] = 1,
-},
-[20191220] = {
-["time"] = 828.6849999999977,
-["attempts"] = 20,
-},
-[20200926] = {
-["time"] = 36.49199999996927,
-["attempts"] = 11,
-},
-[20190726] = {
-["time"] = 66.25500000000466,
-["attempts"] = 6,
-},
-[20191011] = {
-["time"] = 155.6080000000075,
-["attempts"] = 13,
-},
-[20190710] = {
-["time"] = 77.00800000003073,
-["attempts"] = 4,
-},
-[20190426] = {
-["time"] = 838.300999999978,
-["attempts"] = 9,
-},
-[20201006] = {
-["time"] = 2,
-["attempts"] = 8,
-},
-[20190717] = {
-["time"] = 3,
-["attempts"] = 3,
-},
-[20190221] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20191125] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190902] = {
-["attempts"] = 4,
-},
-[20200305] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201102] = {
-["time"] = 543.2069999999367,
-["attempts"] = 8,
-},
-[20201118] = {
-["time"] = 45.68700000003446,
-["attempts"] = 12,
-},
-[20200608] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200624] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20181021] = {
-["attempts"] = 1,
-},
-[20200801] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190727] = {
-["time"] = 1052.866999999998,
-["attempts"] = 17,
-},
-[20191222] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-[20200113] = {
-["attempts"] = 18,
-},
-[20181101] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201007] = {
-["attempts"] = 6,
-},
-[20190807] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200109] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20200529] = {
-["time"] = 15.57200000004377,
-["attempts"] = 3,
-},
-[20191228] = {
-["time"] = 158.4039999999804,
-["attempts"] = 24,
-},
-[20190709] = {
-["time"] = 181.6269999999786,
-["attempts"] = 20,
-},
-[20201103] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201119] = {
-["time"] = 229.3090000000084,
-["attempts"] = 13,
-},
-[20180923] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190425] = {
-["time"] = 397.299999999988,
-["attempts"] = 2,
-},
-[20200131] = {
-["attempts"] = 8,
-},
-[20200912] = {
-["time"] = 673.3939999999711,
-["attempts"] = 26,
-},
-[20190728] = {
-["time"] = 166.8699999999953,
-["attempts"] = 9,
-},
-[20201115] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190505] = {
-["time"] = 212.781000000003,
-["attempts"] = 4,
-},
-[20200211] = {
-["attempts"] = 1,
 },
 [20200227] = {
-["time"] = 154.0559999999823,
-["attempts"] = 3,
-},
-[20190808] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200514] = {
-["time"] = 1,
-["attempts"] = 1,
+[20200208] = {
+["time"] = 97.47499999997672,
+["attempts"] = 4,
 },
-[20181224] = {
-["time"] = 105.889000000025,
-["attempts"] = 13,
-},
-[20190601] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190914] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190818] = {
-["time"] = 163.005999999994,
+[20180919] = {
+["time"] = 239.438999999999,
 ["attempts"] = 10,
 },
-[20190212] = {
-["time"] = 194.328999999911,
-["attempts"] = 8,
-},
-[20190920] = {
-["time"] = 161.7189999999246,
-["attempts"] = 14,
-},
-[20200116] = {
-["time"] = 26.6239999999525,
-["attempts"] = 8,
-},
-[20191207] = {
-["time"] = 89.79499999999825,
-["attempts"] = 5,
-},
-[20190713] = {
-["attempts"] = 7,
-},
-[20200929] = {
-["time"] = 38.92700000014156,
-["attempts"] = 2,
-},
-[20200810] = {
-["time"] = 130.3619999999646,
+[20191122] = {
+["time"] = 2,
 ["attempts"] = 3,
 },
-[20190506] = {
-["time"] = 1,
-["attempts"] = 1,
+[20250221] = {
+["time"] = 245.350999999966,
+["attempts"] = 51,
 },
-[20200212] = {
-["attempts"] = 7,
-},
-[20201112] = {
-["time"] = 57.36800000001676,
-["attempts"] = 2,
-},
-[20201009] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200330] = {
-["time"] = 67.64599999994971,
-["attempts"] = 7,
-},
-[20181012] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190602] = {
-["time"] = 126.705000000075,
-["attempts"] = 5,
-},
-[20191128] = {
-["time"] = 554.188000000082,
-["attempts"] = 19,
-},
-[20181215] = {
-["time"] = 434.407999999996,
-["attempts"] = 28,
-},
-[20201105] = {
-["attempts"] = 1,
-},
-[20190411] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190427] = {
+[20250112] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20190204] = {
-["time"] = 1141.13899999997,
-["attempts"] = 26,
-},
-[20190714] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20190622] = {
-["time"] = 1,
-["attempts"] = 5,
-},
-[20191001] = {
-["time"] = 282.3730000001378,
-["attempts"] = 21,
-},
-[20200917] = {
-["time"] = 101.7479999999923,
-["attempts"] = 6,
-},
-[20190523] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200819] = {
-["time"] = 207.2279999999446,
-["attempts"] = 6,
-},
-[20190810] = {
-["time"] = 1,
-["attempts"] = 7,
-},
-[20200516] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20201107] = {
-["time"] = 875.7949999996927,
-["attempts"] = 26,
-},
-[20191113] = {
-["time"] = 43.90100000007078,
-["attempts"] = 6,
-},
-[20201106] = {
-["time"] = 234.1990000000224,
-["attempts"] = 18,
-},
-},
-["attempts"] = 1676,
-},
-["Surf Jelly"] = {
-["time"] = 1,
-["dates"] = {
-[20200111] = {
-["attempts"] = 9,
-},
-[20200114] = {
-["attempts"] = 3,
-},
-[20200130] = {
-["attempts"] = 3,
-},
-[20200207] = {
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
+[20181116] = {
+["time"] = 22.6310000000231,
 ["attempts"] = 2,
 },
-[20200105] = {
-["attempts"] = 3,
+[20181102] = {
+["time"] = 152.557999999728,
+["attempts"] = 12,
 },
-[20200106] = {
+[20191217] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20191203] = {
+["time"] = 137.7360000000335,
 ["attempts"] = 10,
-},
-[20200122] = {
-["attempts"] = 3,
-},
-[20200218] = {
-["attempts"] = 3,
-},
-[20190302] = {
-["attempts"] = 4,
-},
-[20200605] = {
-["attempts"] = 4,
-},
-[20190217] = {
-["attempts"] = 2,
-},
-[20190414] = {
-["attempts"] = 8,
-},
-[20190430] = {
-["attempts"] = 4,
-},
-[20200425] = {
-["attempts"] = 2,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190407] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190420] = {
-["attempts"] = 7,
-},
-[20190331] = {
-["attempts"] = 3,
-},
-[20241207] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20200506] = {
-["attempts"] = 2,
-},
-[20190628] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20200715] = {
-["attempts"] = 4,
-},
-[20200710] = {
-["attempts"] = 1,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190703] = {
-["attempts"] = 13,
-},
-[20200713] = {
-["attempts"] = 3,
-},
-[20200714] = {
-["attempts"] = 1,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20211103] = {
-["attempts"] = 1,
-},
-[20200822] = {
-["attempts"] = 1,
-},
-[20190829] = {
-["attempts"] = 6,
-},
-[20190830] = {
-["attempts"] = 3,
-},
-[20190710] = {
-["attempts"] = 2,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20200827] = {
-["attempts"] = 4,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20200504] = {
-["attempts"] = 1,
-},
-[20200503] = {
-["attempts"] = 2,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20200223] = {
-["attempts"] = 1,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20200222] = {
-["attempts"] = 2,
-},
-[20191024] = {
-["attempts"] = 3,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 3,
-},
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20191003] = {
-["attempts"] = 5,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20191128] = {
-["attempts"] = 4,
-},
-[20181011] = {
-["attempts"] = 13,
 },
 [20181027] = {
-["attempts"] = 5,
-},
-[20191218] = {
-["attempts"] = 4,
-},
-[20191129] = {
-["attempts"] = 1,
-},
-[20191130] = {
+["time"] = 77.4210000000894,
 ["attempts"] = 3,
 },
-[20190719] = {
-["attempts"] = 1,
-},
-[20190902] = {
+[20181120] = {
+["time"] = 86.8479999999982,
 ["attempts"] = 3,
 },
-[20190428] = {
-["attempts"] = 3,
-},
-[20181215] = {
-["attempts"] = 4,
-},
-[20191113] = {
-["attempts"] = 6,
-},
-[20191211] = {
-["attempts"] = 4,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20191108] = {
-["attempts"] = 4,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20180923] = {
-["attempts"] = 7,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20191121] = {
-["attempts"] = 4,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-[20190808] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-[20200826] = {
-["attempts"] = 3,
-},
-[20190707] = {
-["attempts"] = 2,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20200716] = {
-["attempts"] = 8,
-},
-[20200303] = {
-["attempts"] = 3,
-},
-},
-["attempts"] = 335,
-},
-["Bristling Hellboar"] = {
-["lastAttempts"] = 0,
-["dates"] = {
-[20190310] = {
-["attempts"] = 1,
-},
-[20180716] = {
-["time"] = 179.088999999993,
-["attempts"] = 4,
-},
-[20180623] = {
-["time"] = 817.703999999998,
-["attempts"] = 18,
-},
-},
-["attempts"] = 100,
-["time"] = 996.792999999991,
-},
-["Reins of the Crimson Water Strider"] = {
-["time"] = 6,
-["dates"] = {
-[20180715] = {
-["time"] = 2,
-["attempts"] = 3,
-},
-[20190106] = {
-["time"] = 4,
-["attempts"] = 4,
-},
-},
-["attempts"] = 7,
-},
-["Reins of the Thundering Onyx Cloud Serpent"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Phalynx of Humility"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["totalAttempts"] = 1,
-["num"] = 1,
-["time"] = 0,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Reins of the Snowfluff Dreamtalon"] = {
-["lastAttempts"] = 1,
-["known"] = true,
-["finds"] = {
-{
-["time"] = 0,
-["num"] = 1,
-["totalAttempts"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-["enabled"] = false,
-["realAttempts"] = 1,
-["totalFinds"] = 1,
-["found"] = true,
-},
-["Reins of the Grand Black War Mammoth Horde"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Risen Mare"] = {
-["dates"] = {
-[20200111] = {
-["attempts"] = 9,
-},
-[20200114] = {
-["attempts"] = 3,
-},
-[20200130] = {
-["attempts"] = 3,
-},
-[20200207] = {
-["attempts"] = 3,
-},
-[20200117] = {
-["attempts"] = 1,
-},
-[20200118] = {
-["attempts"] = 2,
-},
-[20200105] = {
-["attempts"] = 3,
-},
-[20200106] = {
+[20181212] = {
 ["attempts"] = 10,
 },
-[20200122] = {
-["attempts"] = 3,
-},
-[20200218] = {
-["attempts"] = 3,
-},
-[20190428] = {
-["attempts"] = 3,
-},
-[20190414] = {
+[20181229] = {
 ["attempts"] = 8,
 },
-[20190430] = {
-["attempts"] = 4,
-},
-[20200425] = {
-["attempts"] = 2,
-},
-[20190326] = {
-["attempts"] = 4,
-},
-[20190418] = {
-["attempts"] = 1,
-},
-[20190314] = {
-["attempts"] = 4,
-},
-[20190420] = {
+[20191223] = {
+["time"] = 91.95000000001164,
 ["attempts"] = 7,
 },
-[20190331] = {
+[20181124] = {
+["time"] = 22.6010000000242,
 ["attempts"] = 3,
 },
-[20190407] = {
-["attempts"] = 4,
-},
-[20200523] = {
-["attempts"] = 1,
-},
-[20190501] = {
-["attempts"] = 4,
-},
-[20190427] = {
-["attempts"] = 1,
-},
-[20190503] = {
-["attempts"] = 3,
-},
-[20190716] = {
-["attempts"] = 2,
-},
-[20190626] = {
-["attempts"] = 6,
-},
-[20190703] = {
+[20181125] = {
 ["attempts"] = 13,
 },
-[20190628] = {
-["attempts"] = 1,
-},
-[20200714] = {
-["attempts"] = 1,
-},
-[20190630] = {
-["attempts"] = 4,
-},
-[20241207] = {
-["attempts"] = 1,
-},
-[20190707] = {
+[20181126] = {
+["time"] = 339.180999999982,
 ["attempts"] = 2,
 },
-[20190829] = {
-["attempts"] = 6,
+[20181217] = {
+["time"] = 165.762999999977,
+["attempts"] = 16,
 },
-[20190830] = {
-["attempts"] = 3,
+[20181218] = {
+["time"] = 104.330000000016,
 },
-[20190710] = {
-["attempts"] = 2,
-},
-[20190816] = {
-["attempts"] = 3,
-},
-[20200827] = {
-["attempts"] = 4,
-},
-[20190818] = {
-["attempts"] = 3,
-},
-[20211103] = {
-["attempts"] = 1,
-},
-[20200715] = {
-["attempts"] = 4,
-},
-[20190927] = {
-["attempts"] = 3,
-},
-[20200713] = {
-["attempts"] = 3,
-},
-[20190823] = {
-["attempts"] = 2,
-},
-[20190824] = {
-["attempts"] = 1,
-},
-[20190915] = {
-["attempts"] = 2,
-},
-[20190901] = {
-["attempts"] = 1,
-},
-[20191023] = {
-["attempts"] = 3,
-},
-[20200605] = {
-["attempts"] = 4,
-},
-[20190919] = {
-["attempts"] = 6,
-},
-[20190905] = {
-["attempts"] = 6,
-},
-[20200506] = {
-["attempts"] = 2,
-},
-[20190922] = {
-["attempts"] = 3,
-},
-[20191013] = {
-["attempts"] = 7,
-},
-[20191014] = {
-["attempts"] = 1,
-},
-[20191030] = {
-["attempts"] = 3,
-},
-[20191031] = {
-["attempts"] = 3,
-},
-[20191017] = {
-["attempts"] = 4,
-},
-[20191003] = {
+[20190414] = {
 ["attempts"] = 5,
 },
-[20200504] = {
-["attempts"] = 1,
-},
-[20200503] = {
-["attempts"] = 2,
-},
-[20200223] = {
-["attempts"] = 1,
-},
-[20200222] = {
-["attempts"] = 2,
-},
-[20191218] = {
-["attempts"] = 4,
-},
-[20191129] = {
-["attempts"] = 1,
-},
-[20191130] = {
-["attempts"] = 3,
-},
-[20191113] = {
-["attempts"] = 6,
-},
-[20190711] = {
-["attempts"] = 1,
-},
-[20191006] = {
-["attempts"] = 3,
-},
-[20190719] = {
-["attempts"] = 1,
-},
-[20190902] = {
-["attempts"] = 3,
-},
-[20191211] = {
-["attempts"] = 4,
-},
-[20190627] = {
-["attempts"] = 3,
-},
-[20191121] = {
-["attempts"] = 4,
-},
-[20190718] = {
-["attempts"] = 4,
-},
-[20190913] = {
-["attempts"] = 1,
-},
-[20191120] = {
-["attempts"] = 1,
-},
-[20190720] = {
-["attempts"] = 3,
-},
-[20191128] = {
-["attempts"] = 4,
-},
-[20190522] = {
-["attempts"] = 4,
-},
-[20190506] = {
-["attempts"] = 1,
-},
-[20191024] = {
-["attempts"] = 3,
-},
-[20191108] = {
-["attempts"] = 4,
-},
-[20190725] = {
-["attempts"] = 3,
-},
-[20190928] = {
-["attempts"] = 1,
-},
-[20191219] = {
-["attempts"] = 1,
-},
-[20190904] = {
-["attempts"] = 3,
-},
-[20191107] = {
-["attempts"] = 2,
-},
-[20190808] = {
-["attempts"] = 3,
-},
-[20200303] = {
-["attempts"] = 3,
-},
-[20200710] = {
-["attempts"] = 1,
-},
-[20200716] = {
-["attempts"] = 8,
-},
-[20200822] = {
-["attempts"] = 1,
-},
-[20200826] = {
-["attempts"] = 3,
-},
-[20190802] = {
-["attempts"] = 3,
-},
-},
-["attempts"] = 300,
-},
-["Reins of the Azure Drake"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["collapsed"] = false,
-["Caged Bear"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["The Horseman's Reins"] = {
-["lastAttempts"] = 136,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 136,
-["time"] = 489.5580000004264,
-["totalTime"] = 489.5580000004264,
-["attempts"] = 136,
-},
-},
-["time"] = 489.5580000004264,
-["dates"] = {
-[20181031] = {
-["time"] = 59.0360000003129,
-["attempts"] = 30,
-},
-[20191023] = {
-["time"] = 5,
-["attempts"] = 7,
-},
-[20181020] = {
-["time"] = 2,
-["attempts"] = 6,
-},
-[20191019] = {
-["time"] = 1,
-["attempts"] = 4,
-},
-[20191020] = {
-["time"] = 5,
-["attempts"] = 6,
-},
-[20191024] = {
-["time"] = 3,
-["attempts"] = 5,
-},
-[20181021] = {
-["time"] = 6,
+[20181115] = {
+["time"] = 367.335000000006,
 ["attempts"] = 9,
 },
-[20181029] = {
-["time"] = 21.8319999999367,
-["attempts"] = 5,
+[20190203] = {
+["time"] = 202.195999999996,
+["attempts"] = 4,
 },
-[20191021] = {
-["time"] = 6.605000000039581,
-["attempts"] = 8,
+[20191215] = {
+["time"] = 14.16599999999744,
+["attempts"] = 3,
 },
-[20191025] = {
-["time"] = 336.9100000000326,
+[20190426] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191020] = {
+["attempts"] = 1,
+},
+[20191228] = {
+["time"] = 131.2060000000056,
 ["attempts"] = 11,
 },
-[20181022] = {
-["time"] = 4,
-["attempts"] = 5,
+[20181110] = {
+["time"] = 433.034,
+["attempts"] = 29,
 },
-[20191101] = {
-["time"] = 14.20699999993667,
-["attempts"] = 20,
+[20191216] = {
+["time"] = 40.41300000000047,
+["attempts"] = 7,
 },
-[20181018] = {
-["time"] = 2,
+[20180923] = {
+["time"] = 10.4689999999828,
 ["attempts"] = 4,
 },
-[20181101] = {
+[20181103] = {
+["time"] = 94.2349999998696,
+["attempts"] = 18,
+},
+[20191213] = {
+["time"] = 726.3330000000424,
+["attempts"] = 26,
+},
+[20190818] = {
+["time"] = 138.6089999999967,
+["attempts"] = 9,
+},
+[20190101] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20191022] = {
-["time"] = 5.200000000011642,
-["attempts"] = 6,
-},
-[20181019] = {
-["attempts"] = 1,
-},
-[20191026] = {
-["attempts"] = 1,
-},
-[20181030] = {
-["time"] = 16.7680000001565,
-["attempts"] = 7,
-},
-},
-["attempts"] = 136,
-["enabled"] = false,
-["realAttempts"] = 136,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 489.5580000004264,
-},
-["Felstorm Dragon"] = {
-["lastAttempts"] = 82,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 82,
-["time"] = 3743.67999999999,
-["totalTime"] = 3743.67999999999,
-["attempts"] = 82,
-},
-},
-["time"] = 3743.67999999999,
-["dates"] = {
-[20230917] = {
 ["attempts"] = 2,
 },
-[20231005] = {
-["attempts"] = 1,
+[20200327] = {
+["attempts"] = 16,
 },
-[20231001] = {
-["attempts"] = 2,
-},
-[20230830] = {
-["attempts"] = 2,
-},
-[20231101] = {
-["time"] = 102.4350000000559,
+[20200507] = {
+["time"] = 472.1669999999576,
 ["attempts"] = 3,
 },
-[20230902] = {
-["time"] = 1,
-["attempts"] = 5,
+[20200902] = {
+["time"] = 146.9530000000377,
+["attempts"] = 13,
 },
-[20230906] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231002] = {
-["attempts"] = 3,
-},
-[20230831] = {
-["attempts"] = 1,
-},
-[20231102] = {
-["attempts"] = 4,
-},
-[20230827] = {
-["time"] = 3548.939999999999,
-["attempts"] = 2,
-},
-[20231114] = {
-["time"] = 86.30499999993481,
+[20200909] = {
+["time"] = 19.97700000007171,
 ["attempts"] = 6,
 },
-[20230903] = {
-["attempts"] = 1,
+[20201104] = {
+["time"] = 481.0319999998901,
+["attempts"] = 8,
 },
-[20230907] = {
-["attempts"] = 2,
+[20200915] = {
+["time"] = 145.3559999999998,
+["attempts"] = 21,
 },
-[20231015] = {
-["attempts"] = 2,
-},
-[20231103] = {
-["attempts"] = 1,
-},
-[20230824] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231111] = {
-["attempts"] = 1,
-},
-[20231115] = {
-["attempts"] = 7,
-},
-[20230928] = {
-["attempts"] = 1,
-},
-[20230820] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20231004] = {
-["attempts"] = 1,
-},
-[20231014] = {
-["attempts"] = 1,
-},
-[20231008] = {
-["attempts"] = 1,
-},
-[20231024] = {
-["time"] = 1,
-["attempts"] = 7,
-},
-[20231026] = {
-["attempts"] = 5,
-},
-[20230818] = {
-["attempts"] = 2,
-},
-[20231025] = {
-["attempts"] = 6,
-},
-[20231116] = {
-["attempts"] = 1,
-},
-[20230825] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20230905] = {
-["attempts"] = 2,
-},
-[20230929] = {
-["attempts"] = 1,
-},
-[20231027] = {
-["attempts"] = 1,
+[20220528] = {
+["time"] = 1817.804999999993,
+["attempts"] = 35,
 },
 },
-["attempts"] = 82,
-["enabled"] = false,
-["realAttempts"] = 82,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 3743.67999999999,
+["attempts"] = 770,
 },
-["Ascended Skymane"] = {
+["Fierce Razorwing"] = {
 ["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
@@ -36530,7 +33011,7 @@ RarityDB = {
 },
 ["time"] = 1,
 ["dates"] = {
-[20210830] = {
+[20210818] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -36542,337 +33023,507 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 1,
 },
-["Wild Goretusk"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Reins of the Onyxian Drake"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Garnet Razorwing"] = {
-["lastAttempts"] = 90,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 90,
-["time"] = 56,
-["totalTime"] = 56,
-["attempts"] = 90,
-},
-},
-["time"] = 56,
+["Big Love Rocket"] = {
 ["dates"] = {
-[20211017] = {
+[20220208] = {
 ["time"] = 1,
-["attempts"] = 1,
-},
-[20210906] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221112] = {
-["time"] = 7,
 ["attempts"] = 8,
 },
-[20250206] = {
+[20230219] = {
 ["time"] = 1,
-["attempts"] = 5,
+["attempts"] = 4,
 },
-[20220124] = {
-["attempts"] = 1,
-},
-[20250205] = {
-["attempts"] = 1,
-},
-[20250202] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20220216] = {
-["time"] = 1,
-["attempts"] = 2,
-},
-[20221113] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20220121] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221126] = {
-["time"] = 5,
-["attempts"] = 5,
-},
-[20221030] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211114] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211015] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250203] = {
-["time"] = 4,
-["attempts"] = 14,
-},
-[20250128] = {
-["time"] = 7,
-["attempts"] = 10,
-},
-[20221023] = {
+[20220210] = {
 ["time"] = 2,
+["attempts"] = 4,
+},
+[20220211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220212] = {
+["time"] = 3.398999999975786,
 ["attempts"] = 2,
 },
-[20221114] = {
-["time"] = 3,
+[20220213] = {
+["time"] = 211.0579999999609,
+["attempts"] = 16,
+},
+[20220214] = {
+["time"] = 1,
 ["attempts"] = 3,
 },
-[20250204] = {
-["time"] = 6,
-["attempts"] = 15,
-},
-[20210930] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250125] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210901] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210905] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210921] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221125] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20221127] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211021] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20250126] = {
+[20220215] = {
 ["time"] = 3,
 ["attempts"] = 6,
 },
+[20210222] = {
+["time"] = 2,
+["attempts"] = 3,
 },
-["attempts"] = 90,
-["enabled"] = false,
-["realAttempts"] = 90,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 56,
+[20220217] = {
+["time"] = 4,
+["attempts"] = 10,
 },
-["Reins of the Slate Primordial Direhorn"] = {
+[20220218] = {
+["time"] = 2,
+["attempts"] = 13,
+},
+[20220219] = {
+["time"] = 3,
+["attempts"] = 18,
+},
+[20210210] = {
+["attempts"] = 1,
+},
+[20210211] = {
+["time"] = 495.6749999999884,
+["attempts"] = 3,
+},
+[20210212] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20210213] = {
+["time"] = 1,
+["attempts"] = 5,
+},
+[20210214] = {
+["time"] = 5,
+["attempts"] = 8,
+},
+[20200221] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210216] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210217] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200209] = {
+["attempts"] = 1,
+},
+[20200210] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200212] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200213] = {
+["attempts"] = 1,
+},
+[20190220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190222] = {
+["attempts"] = 2,
+},
+[20200217] = {
+["time"] = 4.649999999906868,
+["attempts"] = 5,
+},
+[20200218] = {
+["time"] = 4.362999999895692,
+["attempts"] = 8,
+},
+[20190224] = {
+["attempts"] = 1,
+},
+[20190225] = {
+["attempts"] = 34,
+},
+[20190212] = {
+["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190214] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190215] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190216] = {
+["attempts"] = 2,
+},
+[20190217] = {
+["time"] = 19.1589999999851,
+["attempts"] = 10,
+},
+[20190218] = {
+["time"] = 250.183000000019,
+["attempts"] = 6,
+},
+[20190219] = {
+["time"] = 5.00400000001537,
+["attempts"] = 2,
+},
+[20200219] = {
+["time"] = 4,
+["attempts"] = 5,
+},
+[20260221] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20260222] = {
+["time"] = 4,
+["attempts"] = 9,
+},
+[20260223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250204] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20260218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260210] = {
+["attempts"] = 1,
+},
+[20260211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260212] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20260213] = {
+["time"] = 2,
+["attempts"] = 5,
+},
+[20260214] = {
+["time"] = 6.684999999997672,
+["attempts"] = 2,
+},
+[20260215] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20260216] = {
+["attempts"] = 1,
+},
+[20260217] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20250208] = {
+["attempts"] = 73,
+},
+[20260219] = {
+["attempts"] = 1,
+},
+[20200222] = {
+["attempts"] = 1,
+},
+[20210219] = {
+["attempts"] = 1,
+},
+[20200216] = {
+["time"] = 2,
+["attempts"] = 4,
+},
+[20200208] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240206] = {
+["time"] = 2,
+["attempts"] = 4,
+},
+[20240207] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20230220] = {
+["attempts"] = 7,
+},
+[20240208] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20240209] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20240210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240211] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20240212] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20240213] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20240214] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20240215] = {
+["time"] = 5,
+["attempts"] = 6,
+},
+[20240216] = {
+["time"] = 114.8560000001453,
+["attempts"] = 6,
+},
+[20240217] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20240218] = {
+["time"] = 6,
+["attempts"] = 11,
+},
+[20240219] = {
+["attempts"] = 1,
+},
+[20250203] = {
+["attempts"] = 1,
+},
+[20210220] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20210209] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210215] = {
+["time"] = 2,
+["attempts"] = 4,
+},
+[20220220] = {
+["time"] = 4,
+["attempts"] = 5,
+},
+[20220221] = {
+["attempts"] = 7,
+},
+[20220216] = {
+["time"] = 5.575000000011642,
+["attempts"] = 5,
+},
+[20220209] = {
+["time"] = 8,
+["attempts"] = 16,
+},
+},
+["attempts"] = 435,
+["time"] = 1244.606999999902,
+},
+["Red Qiraji Resonating Crystal"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
-["Ren's Stalwart Hound"] = {
-["time"] = 3,
-["dates"] = {
-[20200309] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200904] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200122] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20200318] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 4,
-},
-["Undying Darkhound's Harness"] = {
-["lastAttempts"] = 13,
+["Slightly Damp Pile of Fur"] = {
+["lastAttempts"] = 103,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 13,
-["time"] = 10,
-["totalTime"] = 10,
-["attempts"] = 13,
+["totalAttempts"] = 103,
+["time"] = 119.0969999999998,
+["totalTime"] = 119.0969999999998,
+["attempts"] = 103,
 },
 },
-["time"] = 10,
+["time"] = 119.0969999999998,
 ["dates"] = {
-[20210809] = {
-["attempts"] = 1,
-},
-[20211111] = {
+[20210510] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210917] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210918] = {
+[20200717] = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20210905] = {
+[20250221] = {
+["time"] = 3,
+["attempts"] = 6,
+},
+[20221220] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210906] = {
+[20200606] = {
 ["attempts"] = 1,
 },
-[20210818] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20221030] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20211130] = {
+[20201120] = {
 ["time"] = 1,
 ["attempts"] = 2,
 },
-[20210723] = {
+[20210511] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200718] = {
+["attempts"] = 1,
+},
+[20210507] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20200722] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20250628] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20201009] = {
+["attempts"] = 1,
+},
+[20201013] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200830] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20200312] = {
+["time"] = 74.09699999999975,
+["attempts"] = 3,
+},
+[20201121] = {
+["attempts"] = 1,
+},
+[20210213] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20210512] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250111] = {
+["time"] = 1,
+["attempts"] = 6,
+},
+[20200715] = {
+["attempts"] = 1,
+},
+[20201014] = {
+["attempts"] = 2,
+},
+[20200831] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20200313] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200827] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20211005] = {
+[20210509] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211023] = {
+["attempts"] = 4,
+},
+[20250112] = {
+["time"] = 2,
+["attempts"] = 5,
+},
+[20201011] = {
+["time"] = 5,
+["attempts"] = 6,
+},
+[20200828] = {
+["attempts"] = 1,
+},
+[20201118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200605] = {
+["time"] = 3,
+["attempts"] = 7,
+},
+[20200424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250110] = {
+["attempts"] = 1,
+},
+[20201123] = {
+["attempts"] = 7,
+},
+[20250222] = {
+["time"] = 2,
+["attempts"] = 8,
+},
+[20250226] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 13,
+["attempts"] = 103,
 ["enabled"] = false,
-["realAttempts"] = 13,
+["realAttempts"] = 103,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 10,
+["lastTime"] = 119.0969999999998,
 },
-["Cartel Master's Gearglider"] = {
-["lastAttempts"] = 14,
+["Reins of the Blossoming Dreamstag"] = {
+["lastAttempts"] = 1,
 ["known"] = true,
 ["finds"] = {
 {
 ["time"] = 0,
 ["num"] = 1,
-["totalAttempts"] = 14,
-["attempts"] = 14,
+["totalAttempts"] = 1,
+["attempts"] = 1,
 },
 },
-["attempts"] = 14,
+["attempts"] = 1,
 ["enabled"] = false,
-["realAttempts"] = 14,
+["realAttempts"] = 1,
 ["totalFinds"] = 1,
 ["found"] = true,
-},
-["Cobalt Shalewing"] = {
-["time"] = 1,
-["dates"] = {
-[20240109] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
-},
-["Mimiron's Head"] = {
-["known"] = true,
-["enabled"] = false,
-["found"] = true,
-},
-["Smoldering Ember Wyrm"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Legsplitter War Harness"] = {
-["lastAttempts"] = 12,
-["known"] = true,
-["finds"] = {
-{
-["num"] = 1,
-["totalAttempts"] = 12,
-["time"] = 9,
-["totalTime"] = 9,
-["attempts"] = 12,
-},
-},
-["time"] = 9,
-["dates"] = {
-[20210914] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20211022] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210827] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210815] = {
-["attempts"] = 1,
-},
-[20210801] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210828] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210913] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210702] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210912] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-[20210719] = {
-["attempts"] = 1,
-},
-[20210816] = {
-["attempts"] = 1,
-},
-},
-["attempts"] = 12,
-["enabled"] = false,
-["realAttempts"] = 12,
-["totalFinds"] = 1,
-["found"] = true,
-["lastTime"] = 9,
 },
 ["Rusty Mechanocrawler"] = {
 ["lastAttempts"] = 267,
@@ -37284,13 +33935,13 @@ RarityDB = {
 [20200911] = {
 ["attempts"] = 1,
 },
-[20231017] = {
-["time"] = 1,
-["attempts"] = 2,
-},
 [20241217] = {
 ["time"] = 1,
 ["attempts"] = 1,
+},
+[20231017] = {
+["time"] = 1,
+["attempts"] = 2,
 },
 [20241207] = {
 ["time"] = 1,
@@ -37337,7 +33988,7 @@ RarityDB = {
 [20241104] = {
 ["attempts"] = 1,
 },
-[20250111] = {
+[20200115] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -37377,7 +34028,7 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190920] = {
+[20221010] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -37393,7 +34044,7 @@ RarityDB = {
 ["time"] = 2,
 ["attempts"] = 2,
 },
-[20221010] = {
+[20190920] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -37401,16 +34052,16 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20220819] = {
-["attempts"] = 1,
+[20241219] = {
+["time"] = 6,
+["attempts"] = 10,
 },
 [20241203] = {
 ["time"] = 2,
 ["attempts"] = 3,
 },
-[20241219] = {
-["time"] = 6,
-["attempts"] = 10,
+[20220819] = {
+["attempts"] = 1,
 },
 [20200904] = {
 ["time"] = 1,
@@ -37443,7 +34094,7 @@ RarityDB = {
 [20241108] = {
 ["attempts"] = 1,
 },
-[20200115] = {
+[20250111] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -37514,109 +34165,7020 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 180,
 },
-["Warsong Direfang"] = {
-["dates"] = {
-[20190214] = {
+["Bulbous Necroray"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
 ["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20210201] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Sanctum Gloomcharger's Reins"] = {
+["lastAttempts"] = 91,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 91,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 91,
+},
+},
+["attempts"] = 91,
+["enabled"] = false,
+["realAttempts"] = 91,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Reins of the Blue Drake"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Mechagon Peacekeeper"] = {
+["time"] = 41,
+["dates"] = {
+[20241220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241224] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250109] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250101] = {
+["attempts"] = 1,
+},
+[20250117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250305] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191228] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241110] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200312] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250218] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20241230] = {
+["attempts"] = 1,
+},
+[20200918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250111] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250115] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200524] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250303] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20241219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250222] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250112] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250116] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190924] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250107] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20250131] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250208] = {
+["attempts"] = 1,
+},
+[20250106] = {
+["attempts"] = 2,
+},
+[20250102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190808] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20241228] = {
+["attempts"] = 1,
+},
+[20200924] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 51,
+},
+["Fiendish Hellfire Core"] = {
+["lastAttempts"] = 116,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 116,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 116,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20220209] = {
+["time"] = 1,
+},
+},
+["attempts"] = 116,
+["enabled"] = false,
+["realAttempts"] = 116,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Pestilent Necroray"] = {
+["lastAttempts"] = 3,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 3,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 3,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20220823] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210201] = {
+["attempts"] = 1,
+},
+[20211022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+["enabled"] = false,
+["realAttempts"] = 3,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Reins of the Liberated Slyvern"] = {
+["time"] = 2,
+["dates"] = {
+[20230829] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230924] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20240331] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+},
+["Smoldering Ember Wyrm"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Reins of the Grand Black War Mammoth Horde"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Sturdy Silver Mawrat Harness"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20220320] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Perfected Juggernaut"] = {
+["lastAttempts"] = 97,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 97,
+["time"] = 86.30499999993481,
+["totalTime"] = 86.30499999993481,
+["attempts"] = 97,
+},
+},
+["time"] = 86.30499999993481,
+["dates"] = {
+[20230917] = {
+["attempts"] = 2,
+},
+[20231005] = {
+["attempts"] = 1,
+},
+[20231001] = {
+["attempts"] = 2,
+},
+[20230830] = {
+["attempts"] = 2,
+},
+[20231101] = {
+["attempts"] = 3,
+},
+[20231117] = {
+["attempts"] = 7,
+},
+[20230902] = {
+["attempts"] = 5,
+},
+[20230906] = {
+["attempts"] = 2,
+},
+[20231002] = {
+["attempts"] = 3,
+},
+[20230831] = {
+["attempts"] = 1,
+},
+[20231102] = {
+["attempts"] = 4,
+},
+[20230827] = {
+["attempts"] = 2,
+},
+[20231114] = {
+["time"] = 86.30499999993481,
+["attempts"] = 6,
+},
+[20230903] = {
+["attempts"] = 1,
+},
+[20230907] = {
+["attempts"] = 2,
+},
+[20231015] = {
+["attempts"] = 2,
+},
+[20231103] = {
+["attempts"] = 1,
+},
+[20230824] = {
+["attempts"] = 2,
+},
+[20231111] = {
+["attempts"] = 1,
+},
+[20231115] = {
+["attempts"] = 7,
+},
+[20230928] = {
+["attempts"] = 1,
+},
+[20230820] = {
+["attempts"] = 2,
+},
+[20231004] = {
+["attempts"] = 1,
+},
+[20231014] = {
+["attempts"] = 1,
+},
+[20231008] = {
+["attempts"] = 1,
+},
+[20231024] = {
+["attempts"] = 7,
+},
+[20231026] = {
+["attempts"] = 5,
+},
+[20230818] = {
+["attempts"] = 2,
+},
+[20231025] = {
+["attempts"] = 6,
+},
+[20231116] = {
+["attempts"] = 9,
+},
+[20230825] = {
+["attempts"] = 2,
+},
+[20230905] = {
+["attempts"] = 2,
+},
+[20230929] = {
+["attempts"] = 1,
+},
+[20231027] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 97,
+["enabled"] = false,
+["realAttempts"] = 97,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 86.30499999993481,
+},
+["Reins of the Raven Lord"] = {
+["known"] = true,
+["found"] = true,
+["enabled"] = false,
+},
+["Torn Invitation"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Hopecrusher Gargon"] = {
+["time"] = 509.0840000000026,
+["dates"] = {
+[20250221] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250217] = {
+["time"] = 476.0840000000026,
+["attempts"] = 1,
+},
+[20250301] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20211105] = {
+["time"] = 3,
+["attempts"] = 2,
+},
+[20250309] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250210] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250214] = {
+["time"] = 7,
+["attempts"] = 10,
+},
+[20221113] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20221014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250211] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20250215] = {
+["time"] = 3,
+["attempts"] = 6,
+},
+[20250219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250220] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20250311] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250510] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250324] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 38,
+},
+["Wild Glimmerfur Prowler"] = {
+["lastAttempts"] = 39,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 39,
+["time"] = 380.2019999998156,
+["totalTime"] = 380.2019999998156,
+["attempts"] = 39,
+},
+},
+["time"] = 380.2019999998156,
+["dates"] = {
+[20210616] = {
+["attempts"] = 1,
+},
+[20210505] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210613] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210526] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20210602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210331] = {
+["time"] = 358.2019999998156,
+["attempts"] = 2,
+},
+[20210601] = {
+["attempts"] = 1,
+},
+[20210617] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210530] = {
+["attempts"] = 1,
+},
+[20210622] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210606] = {
+["attempts"] = 1,
+},
+[20210225] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210610] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210527] = {
+["attempts"] = 1,
+},
+[20210618] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210531] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210523] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210619] = {
+["attempts"] = 1,
+},
+[20210607] = {
+["attempts"] = 2,
+},
+[20210528] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210524] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210603] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210429] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210318] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210614] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210604] = {
+["attempts"] = 1,
+},
+[20210620] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210608] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210612] = {
+["attempts"] = 2,
+},
+[20210529] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 39,
+["enabled"] = false,
+["realAttempts"] = 39,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 380.2019999998156,
+},
+["Crimson Slavermaw"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Smoky Direwolf"] = {
+["lastAttempts"] = 30,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 30,
+["time"] = 13.0170000000071,
+["totalTime"] = 13.0170000000071,
+["attempts"] = 30,
+},
+},
+["time"] = 13.0170000000071,
+["dates"] = {
+[20181114] = {
+["time"] = 5.0170000000071,
+["attempts"] = 10,
+},
+[20181115] = {
+["time"] = 1,
+},
+[20190203] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190211] = {
+["time"] = 2,
+["attempts"] = 4,
+},
+[20180612] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20180619] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20180609] = {
+["attempts"] = 2,
+},
+},
+["attempts"] = 30,
+["enabled"] = false,
+["realAttempts"] = 30,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 13.0170000000071,
+},
+["Steamwheedle Supplier"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 3.774999999965075,
+["totalTime"] = 3.774999999965075,
+["attempts"] = 2,
+},
+},
+["time"] = 3.774999999965075,
+["dates"] = {
+[20260212] = {
+["attempts"] = 1,
+},
+[20260216] = {
+["time"] = 3.774999999965075,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3.774999999965075,
+},
+["Fossilized Raptor"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Infested Necroray"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 2,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20210201] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20211022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3,
+},
+["Glorious Felcrusher"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Predatory Plagueroc"] = {
+["lastAttempts"] = 31,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 31,
+["time"] = 23,
+["totalTime"] = 23,
+["attempts"] = 31,
+},
+},
+["time"] = 23,
+["dates"] = {
+[20210628] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210902] = {
+["attempts"] = 1,
+},
+[20210831] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210819] = {
+["attempts"] = 1,
+},
+[20210621] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210625] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210629] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211026] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210610] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210614] = {
+["attempts"] = 1,
+},
+[20210618] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210916] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211022] = {
+["attempts"] = 1,
+},
+[20211010] = {
+["attempts"] = 1,
+},
+[20210613] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211009] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210615] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210619] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210914] = {
+["attempts"] = 1,
+},
+[20210830] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210906] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210620] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211005] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210612] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20211017] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 31,
+["enabled"] = false,
+["realAttempts"] = 31,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 23,
+},
+["Qinsho's Eternal Hound"] = {
+["dates"] = {
+[20200111] = {
+["attempts"] = 9,
+},
+[20200114] = {
+["attempts"] = 3,
+},
+[20200130] = {
+["attempts"] = 3,
+},
+[20200207] = {
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["attempts"] = 2,
+},
+[20200105] = {
+["attempts"] = 3,
+},
+[20200106] = {
+["attempts"] = 10,
+},
+[20200122] = {
+["attempts"] = 3,
+},
+[20200218] = {
+["attempts"] = 3,
+},
+[20190302] = {
+["attempts"] = 4,
+},
+[20190217] = {
+["attempts"] = 2,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20200425] = {
+["attempts"] = 2,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20200605] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20200716] = {
+["attempts"] = 8,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20200506] = {
+["attempts"] = 2,
+},
+[20200713] = {
+["attempts"] = 3,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20200714] = {
+["attempts"] = 1,
+},
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20211103] = {
+["attempts"] = 1,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20200826] = {
+["attempts"] = 3,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20200504] = {
+["attempts"] = 1,
+},
+[20200503] = {
+["attempts"] = 2,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20200223] = {
+["attempts"] = 1,
+},
+[20190808] = {
+["attempts"] = 3,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20200222] = {
+["attempts"] = 2,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 3,
+},
+[20191121] = {
+["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20180923] = {
+["attempts"] = 7,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20191128] = {
+["attempts"] = 4,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191130] = {
+["attempts"] = 3,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20181215] = {
+["attempts"] = 4,
+},
+[20191113] = {
+["attempts"] = 6,
+},
+[20191211] = {
+["attempts"] = 4,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20191108] = {
+["attempts"] = 4,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20191024] = {
+["attempts"] = 3,
+},
+[20191129] = {
+["attempts"] = 1,
+},
+[20191218] = {
+["attempts"] = 4,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20200303] = {
+["attempts"] = 3,
+},
+[20200827] = {
+["attempts"] = 4,
 },
 [20190816] = {
+["attempts"] = 3,
+},
+[20200822] = {
+["attempts"] = 1,
+},
+[20200710] = {
+["attempts"] = 1,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+},
+["attempts"] = 334,
+},
+["Dusklight Razorwing"] = {
+["known"] = true,
+["dates"] = {
+[20210719] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["found"] = true,
+},
+["Reins of the Thundering Onyx Cloud Serpent"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Bonehoof Tauralus"] = {
+["dates"] = {
+[20221116] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200702] = {
+[20221104] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20191206] = {
+[20221120] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20221112] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221128] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221220] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250512] = {
+["attempts"] = 1,
+},
+[20230109] = {
+["attempts"] = 2,
+},
+[20221013] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221213] = {
+["attempts"] = 1,
+},
+[20221016] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221117] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221201] = {
+["attempts"] = 1,
+},
+[20221227] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221113] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221129] = {
+["attempts"] = 1,
+},
+[20221020] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250417] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250716] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221221] = {
+["attempts"] = 1,
+},
+[20221022] = {
+["attempts"] = 1,
+},
+[20221219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221030] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221018] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221102] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250419] = {
+["attempts"] = 1,
+},
+[20221106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221110] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20230219] = {
+["attempts"] = 1,
+},
+[20230103] = {
+["attempts"] = 1,
+},
+[20221115] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221031] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221218] = {
+["attempts"] = 1,
+},
+[20221222] = {
+["attempts"] = 1,
+},
+[20221023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221011] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221019] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221017] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221125] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221107] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20221122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221127] = {
+["attempts"] = 1,
+},
+[20230122] = {
+["attempts"] = 1,
+},
+[20250403] = {
+["attempts"] = 1,
+},
+[20221215] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221231] = {
+["attempts"] = 1,
+},
+[20250706] = {
+["attempts"] = 1,
+},
+[20221211] = {
+["attempts"] = 1,
+},
+[20230108] = {
+["attempts"] = 1,
+},
+[20221024] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221028] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20230104] = {
+["attempts"] = 1,
+},
+[20250412] = {
+["attempts"] = 2,
+},
+},
+["attempts"] = 74,
+["time"] = 45,
+},
+["Mummified Raptor Skull"] = {
+["lastAttempts"] = 276,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 276,
+["attempts"] = 276,
+},
+},
+["attempts"] = 276,
+["enabled"] = false,
+["realAttempts"] = 276,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Midnight's Eternal Reins"] = {
+["lastAttempts"] = 7,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 7,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 7,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20180514] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20180520] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+},
+["attempts"] = 7,
+["enabled"] = false,
+["realAttempts"] = 7,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Dauntless Imperial Lynx"] = {
+["time"] = 1600.580000000083,
+["dates"] = {
+[20250612] = {
+["time"] = 13.20799999999872,
+["attempts"] = 5,
+},
+[20250613] = {
+["attempts"] = 3,
+},
+[20250704] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250601] = {
+["time"] = 18.67100000008941,
+["attempts"] = 5,
+},
+[20250722] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250829] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250831] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250711] = {
+["time"] = 15.68200000000797,
+["attempts"] = 8,
+},
+[20250908] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250924] = {
+["time"] = 4.628999999957159,
+["attempts"] = 4,
+},
+[20250925] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250805] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250821] = {
+["time"] = 419.1219999999739,
+["attempts"] = 4,
+},
+[20250912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251020] = {
+["time"] = 2.447000000014668,
+["attempts"] = 2,
+},
+[20251021] = {
+["time"] = 14.5350000000326,
+["attempts"] = 5,
+},
+[20251023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251008] = {
+["attempts"] = 1,
+},
+[20250905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251012] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20251119] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251001] = {
+["time"] = 2.833999999973457,
+["attempts"] = 4,
+},
+[20251017] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20251018] = {
+["time"] = 10.10400000005029,
+["attempts"] = 3,
+},
+[20251019] = {
+["time"] = 4.851999999998952,
+["attempts"] = 7,
+},
+[20251216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251127] = {
+["time"] = 3.37699999997858,
+["attempts"] = 2,
+},
+[20251128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251205] = {
+["attempts"] = 1,
+},
+[20251221] = {
+["time"] = 1,
+},
+[20251208] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251225] = {
+["attempts"] = 1,
+},
+[20251226] = {
+["attempts"] = 1,
+},
+[20251122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250915] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250729] = {
+["time"] = 10.37000000011176,
+["attempts"] = 6,
+},
+[20251212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251220] = {
+["attempts"] = 1,
+},
+[20251202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250516] = {
+["time"] = 3.762999999999011,
+["attempts"] = 3,
+},
+[20251121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260221] = {
+["time"] = 13.94000000006054,
+["attempts"] = 8,
+},
+[20250424] = {
+["attempts"] = 5,
+},
+[20260102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260103] = {
+["attempts"] = 3,
+},
+[20250513] = {
+["time"] = 6.638999999966472,
+["attempts"] = 8,
+},
+[20260225] = {
+["attempts"] = 1,
+},
+[20260226] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250422] = {
+["time"] = 20.29599999997299,
+["attempts"] = 4,
+},
+[20251025] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250926] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20260215] = {
+["attempts"] = 1,
+},
+[20260216] = {
+["time"] = 19.43499999999767,
+["attempts"] = 11,
+},
+[20250812] = {
+["time"] = 16.44500000029802,
+["attempts"] = 9,
+},
+[20260219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260309] = {
+["attempts"] = 6,
+},
+[20250508] = {
+["time"] = 28.02899999998044,
+["attempts"] = 12,
+},
+[20250712] = {
+["attempts"] = 1,
+},
+[20250727] = {
+["attempts"] = 1,
+},
+[20250824] = {
+["time"] = 5.172000000020489,
+["attempts"] = 5,
+},
+[20250620] = {
+["time"] = 2.020000000018627,
+["attempts"] = 2,
+},
+[20250911] = {
+["attempts"] = 2,
+},
+[20250827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250922] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250429] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250804] = {
+["time"] = 77.02599999960512,
+["attempts"] = 8,
+},
+[20251010] = {
+["attempts"] = 1,
+},
+[20250703] = {
+["time"] = 3.470999999903143,
+["attempts"] = 2,
+},
+[20250417] = {
+["time"] = 17.31699999998091,
+["attempts"] = 6,
+},
+[20250524] = {
+["time"] = 65.94099999999162,
+["attempts"] = 18,
+},
+[20250929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250420] = {
+["time"] = 55.28300000005402,
+["attempts"] = 10,
+},
+[20250810] = {
+["time"] = 37.12199999997392,
+["attempts"] = 8,
+},
+[20250512] = {
+["time"] = 62.80499999993481,
+["attempts"] = 2,
+},
+[20250423] = {
+["time"] = 13.92999999993481,
+["attempts"] = 8,
+},
+[20250605] = {
+["time"] = 32.85600000014529,
+["attempts"] = 6,
+},
+[20250606] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250501] = {
+["time"] = 459.7479999999996,
+["attempts"] = 6,
+},
+[20250427] = {
+["attempts"] = 5,
+},
+[20250518] = {
+["time"] = 1,
+["attempts"] = 9,
+},
+[20250519] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250716] = {
+["time"] = 91.91700000001583,
+["attempts"] = 2,
+},
+[20250626] = {
+["time"] = 6.594000000040978,
+["attempts"] = 4,
+},
+[20251011] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 283,
+},
+["Kaldorei Nightsaber"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Malevolent Drone"] = {
+["lastAttempts"] = 5,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 5,
+["time"] = 4,
+["totalTime"] = 4,
+["attempts"] = 5,
+},
+},
+["time"] = 4,
+["dates"] = {
+[20200229] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200122] = {
+["attempts"] = 1,
+},
+[20200315] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 5,
+["enabled"] = false,
+["realAttempts"] = 5,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 4,
+},
+["Curious Slateback"] = {
+["time"] = 22,
+["dates"] = {
+[20260216] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20250923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251118] = {
+["attempts"] = 1,
+},
+[20251209] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251130] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251119] = {
+["time"] = 1,
+},
+[20251210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260214] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20251019] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260306] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250926] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20251018] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260208] = {
+["attempts"] = 1,
+},
+[20260219] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260220] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251004] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251010] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250927] = {
+["attempts"] = 1,
+},
+[20260212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 25,
+},
+["Alunira"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+["time"] = 1,
+["dates"] = {
+[20250316] = {
+["attempts"] = 1,
+},
+[20250323] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+},
+["Reins of the Evening Sun Dreamsaber"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Scintillating Mana Ray"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Umber Nightsaber"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["G.M.O.D."] = {
+["lastAttempts"] = 89,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 89,
+["attempts"] = 89,
+},
+},
+["attempts"] = 89,
+["enabled"] = false,
+["realAttempts"] = 89,
+["totalFinds"] = 1,
+["tooltipNpcs"] = {
+146409,
+},
+["found"] = true,
+},
+["Island Thunderscale"] = {
+["dates"] = {
+[20200111] = {
+["attempts"] = 9,
+},
+[20200114] = {
+["attempts"] = 3,
+},
+[20200130] = {
+["attempts"] = 3,
+},
+[20200207] = {
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["attempts"] = 2,
+},
+[20200105] = {
+["attempts"] = 3,
+},
+[20200106] = {
+["attempts"] = 10,
+},
+[20200122] = {
+["attempts"] = 3,
+},
+[20200218] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20200425] = {
+["attempts"] = 2,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20200714] = {
+["attempts"] = 1,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20211103] = {
+["attempts"] = 1,
+},
+[20200715] = {
+["attempts"] = 4,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20200713] = {
+["attempts"] = 3,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20200605] = {
+["attempts"] = 4,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20200506] = {
+["attempts"] = 2,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 3,
+},
+[20191031] = {
+["attempts"] = 3,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20200504] = {
+["attempts"] = 1,
+},
+[20200503] = {
+["attempts"] = 2,
+},
+[20200223] = {
+["attempts"] = 1,
+},
+[20200222] = {
+["attempts"] = 2,
+},
+[20191218] = {
+["attempts"] = 4,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191130] = {
+["attempts"] = 3,
+},
+[20191113] = {
+["attempts"] = 6,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20191211] = {
+["attempts"] = 4,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20191121] = {
+["attempts"] = 4,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20191128] = {
+["attempts"] = 4,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20191024] = {
+["attempts"] = 3,
+},
+[20191108] = {
+["attempts"] = 4,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+[20191129] = {
+["attempts"] = 1,
+},
+[20191107] = {
+["attempts"] = 2,
+},
+[20190808] = {
+["attempts"] = 3,
+},
+[20200303] = {
+["attempts"] = 3,
+},
+[20200710] = {
+["attempts"] = 1,
+},
+[20200716] = {
+["attempts"] = 8,
+},
+[20200822] = {
+["attempts"] = 1,
+},
+[20200826] = {
+["attempts"] = 3,
+},
+[20200827] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 299,
+},
+["Glacial Tidestorm"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Reins of the Scourgebound Vanquisher"] = {
+["lastAttempts"] = 61,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 61,
+["time"] = 148.2910000000575,
+["totalTime"] = 148.2910000000575,
+["attempts"] = 61,
+},
+},
+["time"] = 148.2910000000575,
+["dates"] = {
+[20230825] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231008] = {
+["attempts"] = 1,
+},
+[20231024] = {
+["time"] = 1,
+["attempts"] = 7,
+},
+[20230905] = {
+["attempts"] = 2,
+},
+[20230818] = {
+["attempts"] = 2,
+},
+[20231005] = {
+["attempts"] = 1,
+},
+[20231001] = {
+["attempts"] = 2,
+},
+[20230902] = {
+["time"] = 39.85600000000159,
+["attempts"] = 5,
+},
+[20230906] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231101] = {
+["time"] = 102.4350000000559,
+["attempts"] = 2,
+},
+[20230831] = {
+["attempts"] = 1,
+},
+[20230827] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230830] = {
+["attempts"] = 2,
+},
+[20231014] = {
+["attempts"] = 1,
+},
+[20231026] = {
+["attempts"] = 5,
+},
+[20230903] = {
+["attempts"] = 1,
+},
+[20230907] = {
+["attempts"] = 2,
+},
+[20230820] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230824] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230917] = {
+["attempts"] = 2,
+},
+[20231015] = {
+["attempts"] = 2,
+},
+[20230929] = {
+["attempts"] = 1,
+},
+[20231027] = {
+["attempts"] = 1,
+},
+[20230928] = {
+["attempts"] = 1,
+},
+[20231002] = {
+["attempts"] = 3,
+},
+[20231004] = {
+["attempts"] = 1,
+},
+[20231025] = {
+["attempts"] = 6,
+},
+},
+["attempts"] = 61,
+["enabled"] = false,
+["realAttempts"] = 61,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 148.2910000000575,
+},
+["Beryl Shardhide"] = {
+["lastAttempts"] = 3,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 3,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 3,
+},
+},
+["time"] = 5,
+["dates"] = {
+[20210818] = {
+["time"] = 3,
+["attempts"] = 1,
+},
+[20210830] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210916] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+["enabled"] = false,
+["realAttempts"] = 3,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 5,
+},
+["Reins of the Morning Flourish Dreamsaber"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Ny'alotha Allseer"] = {
+["lastAttempts"] = 16,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 16,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 16,
+},
+},
+["attempts"] = 16,
+["enabled"] = false,
+["realAttempts"] = 16,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Mail Muncher"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Wick's Lead"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 1,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Pond Nettle"] = {
+["time"] = 828.953999999965,
+["dates"] = {
+[20181017] = {
+["time"] = 224.486999999965,
+["attempts"] = 20,
+},
+[20190301] = {
+["time"] = 604.467,
+["attempts"] = 83,
+},
+},
+["attempts"] = 103,
+},
+["Witherbark Direwing"] = {
+["lastAttempts"] = 27,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 27,
+["time"] = 25,
+["totalTime"] = 25,
+["attempts"] = 27,
+},
+},
+["time"] = 25,
+["dates"] = {
+[20190308] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190213] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190122] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190404] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190420] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190202] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181215] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181231] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190421] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190330] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190219] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181117] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20190204] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181227] = {
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190311] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190221] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190331] = {
+["attempts"] = 1,
+},
+[20190418] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 27,
+["enabled"] = false,
+["realAttempts"] = 27,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 25,
+},
+["Silent Glider"] = {
+["time"] = 12,
+["dates"] = {
+[20190913] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190918] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200822] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200823] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191229] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200526] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201008] = {
+["attempts"] = 1,
+},
+[20190914] = {
+["attempts"] = 1,
+},
+[20200515] = {
+["attempts"] = 1,
+},
+[20190915] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191018] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 16,
+},
+["Garnet Razorwing"] = {
+["lastAttempts"] = 90,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 90,
+["time"] = 56,
+["totalTime"] = 56,
+["attempts"] = 90,
+},
+},
+["time"] = 56,
+["dates"] = {
+[20211017] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210906] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221112] = {
+["time"] = 7,
+["attempts"] = 8,
+},
+[20250206] = {
+["time"] = 1,
+["attempts"] = 5,
+},
+[20220124] = {
+["attempts"] = 1,
+},
+[20250205] = {
+["attempts"] = 1,
+},
+[20250202] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20220216] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20221113] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221114] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20221030] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250203] = {
+["time"] = 4,
+["attempts"] = 14,
+},
+[20250128] = {
+["time"] = 7,
+["attempts"] = 10,
+},
+[20221023] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20221126] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20250204] = {
+["time"] = 6,
+["attempts"] = 15,
+},
+[20210930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221125] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20221127] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211021] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250126] = {
+["time"] = 3,
+["attempts"] = 6,
+},
+},
+["attempts"] = 90,
+["enabled"] = false,
+["realAttempts"] = 90,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 56,
+},
+["Rampaging Mauler"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Royal Snapdragon"] = {
+["lastAttempts"] = 8,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 8,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 8,
+},
+},
+["time"] = 5,
+["dates"] = {
+[20190827] = {
+["attempts"] = 1,
+},
+[20190920] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191002] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190906] = {
+["attempts"] = 1,
+},
+[20191015] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190919] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190911] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 8,
+["enabled"] = false,
+["realAttempts"] = 8,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 5,
+},
+["Xinlao"] = {
+["time"] = 3,
+["dates"] = {
+[20200516] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200903] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 3,
+},
+["Reins of the Heavenly Onyx Cloud Serpent"] = {
+["lastAttempts"] = 299,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 299,
+["time"] = 564.7820000000356,
+["totalTime"] = 564.7820000000356,
+["attempts"] = 299,
+},
+},
+["time"] = 564.7820000000356,
+["dates"] = {
+[20190304] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190305] = {
+["attempts"] = 1,
+},
+[20200416] = {
+["time"] = 1,
+},
+[20181129] = {
+["time"] = 1,
 ["attempts"] = 1,
 },
 [20190310] = {
+["attempts"] = 1,
+},
+[20191017] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20180806] = {
+[20181119] = {
 ["time"] = 1,
-["attempts"] = 2,
+["attempts"] = 1,
+},
+[20190705] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190316] = {
+["attempts"] = 1,
+},
+[20200519] = {
+["time"] = 92.92200000002049,
+},
+[20200725] = {
+["time"] = 465.8600000000151,
+["attempts"] = 1,
+},
+},
+["enabled"] = false,
+["attempts"] = 299,
+["realAttempts"] = 299,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 564.7820000000356,
+},
+["Reins of the Astral Cloud Serpent"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Fractal Cypher of the Zereth Overseer"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Reins of the Grand Black War Mammoth Alliance"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Wild Dreamrunner"] = {
+["lastAttempts"] = 35,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 35,
+["time"] = 42.2979999999971,
+["totalTime"] = 42.2979999999971,
+["attempts"] = 35,
+},
+},
+["time"] = 42.2979999999971,
+["dates"] = {
+[20180614] = {
+["time"] = 2.92100000000028,
+["attempts"] = 1,
+},
+[20180515] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180531] = {
+["attempts"] = 1,
+},
+[20180607] = {
+["time"] = 1,
+["attempts"] = 1,
 },
 [20180710] = {
 ["attempts"] = 1,
 },
-[20210923] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180612] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20180715] = {
-["time"] = 2,
-["attempts"] = 2,
-},
-[20181226] = {
+[20180611] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190303] = {
+[20180512] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20180814] = {
+["time"] = 1,
 ["attempts"] = 1,
+},
+[20180703] = {
+["attempts"] = 1,
+},
+[20180806] = {
+["time"] = 17.25,
+["attempts"] = 6,
+},
+[20180521] = {
+["attempts"] = 1,
+},
+[20180605] = {
+["attempts"] = 1,
+},
+[20180705] = {
+["time"] = 1,
+["attempts"] = 7,
+},
+[20180617] = {
+["time"] = 5.45799999998417,
+["attempts"] = 1,
+},
+[20180518] = {
+["attempts"] = 1,
+},
+[20180522] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180717] = {
+["attempts"] = 1,
+},
+[20180820] = {
+["time"] = 4.62900000001537,
+["attempts"] = 1,
+},
+[20180812] = {
+["attempts"] = 1,
+},
+[20180530] = {
+["time"] = 4.03999999999724,
+["attempts"] = 1,
+},
+[20180902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 35,
+["enabled"] = false,
+["realAttempts"] = 35,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 42.2979999999971,
+},
+["Highland Mustang"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20180907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Swift Zulian Panther"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Captured Kaldorei Nightsaber"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Giant Coldsnout"] = {
+["dates"] = {
+[20190828] = {
+["time"] = 7.874000000068918,
+["attempts"] = 2,
+},
+[20181114] = {
+["time"] = 2,
+["attempts"] = 10,
+},
+[20200613] = {
+["time"] = 8.865999999994528,
+["attempts"] = 2,
+},
+[20200617] = {
+["time"] = 5.811999999976251,
+["attempts"] = 2,
+},
+[20190428] = {
+["attempts"] = 2,
+},
+[20190531] = {
+["time"] = 9.08499999996275,
+["attempts"] = 2,
+},
+[20181115] = {
+["time"] = 1,
+},
+[20200626] = {
+["attempts"] = 2,
+},
+[20190722] = {
+["time"] = 2.62400000001071,
+["attempts"] = 2,
+},
+[20190413] = {
+["time"] = 21.1099999998696,
+["attempts"] = 4,
+},
+[20190925] = {
+["time"] = 4.625,
+["attempts"] = 2,
+},
+[20180612] = {
+["attempts"] = 6,
+},
+[20200722] = {
+["time"] = 6.702999999979511,
+["attempts"] = 2,
+},
+[20190211] = {
+["time"] = 10.1899999999441,
+["attempts"] = 6,
+},
+[20190711] = {
+["time"] = 3.030999999959022,
+["attempts"] = 2,
+},
+[20180609] = {
+["attempts"] = 2,
+},
+[20190815] = {
+["attempts"] = 1,
+},
+[20200708] = {
+["time"] = 5.841000000014901,
+["attempts"] = 2,
+},
+[20190203] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180619] = {
+["attempts"] = 6,
+},
+[20200627] = {
+["time"] = 2.217000000004191,
+},
+[20200702] = {
+["attempts"] = 2,
+},
+[20200717] = {
+["time"] = 2.261999999987893,
+["attempts"] = 2,
+},
+},
+["attempts"] = 63,
+["time"] = 94.23999999977242,
+},
+["Reins of the Amber Primordial Direhorn"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Darkmaul"] = {
+["known"] = true,
+["dates"] = {
+[20210810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210811] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 4,
+["enabled"] = false,
+["found"] = true,
+["time"] = 1,
+},
+["Clayscale Hornstrider"] = {
+["lastAttempts"] = 8,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 8,
+["time"] = 8,
+["totalTime"] = 8,
+["attempts"] = 8,
+},
+},
+["time"] = 8,
+["dates"] = {
+[20240331] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20240401] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+},
+["attempts"] = 8,
+["enabled"] = false,
+["realAttempts"] = 8,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 8,
+},
+["Bronze Goblin Waveshredder"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20260307] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Reins of the Jade Primordial Direhorn"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Valarjar Stormwing"] = {
+["lastAttempts"] = 21,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 21,
+["time"] = 50.4350000000013,
+["totalTime"] = 50.4350000000013,
+["attempts"] = 21,
+},
+},
+["time"] = 50.4350000000013,
+["dates"] = {
+[20180526] = {
+["attempts"] = 1,
+},
+[20180512] = {
+["time"] = 15.2799999999988,
+["attempts"] = 2,
+},
+[20180604] = {
+["time"] = 3.25300000000061,
+["attempts"] = 1,
+},
+[20180530] = {
+["attempts"] = 1,
+},
+[20180623] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180518] = {
+["attempts"] = 1,
+},
+[20180609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180716] = {
+["attempts"] = 1,
+},
+[20180806] = {
+["time"] = 1,
+["attempts"] = 5,
+},
+[20180612] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180708] = {
+["attempts"] = 1,
+},
+[20180705] = {
+["time"] = 26.9020000000019,
+["attempts"] = 4,
+},
+},
+["attempts"] = 21,
+["realAttempts"] = 21,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 50.4350000000013,
+["enabled"] = false,
+},
+["Gnawed Reins of the Battle-Bound Warhound"] = {
+["lastAttempts"] = 17,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 17,
+["time"] = 445.8910000000033,
+["totalTime"] = 445.8910000000033,
+["attempts"] = 17,
+},
+},
+["time"] = 445.8910000000033,
+["dates"] = {
+[20210203] = {
+["time"] = 67.95100000000093,
+["attempts"] = 2,
+},
+[20210131] = {
+["time"] = 67.50199999997858,
+["attempts"] = 2,
+},
+[20210128] = {
+["time"] = 68.80099999997765,
+["attempts"] = 2,
+},
+[20210202] = {
+["time"] = 239.6370000000461,
+["attempts"] = 6,
+},
+[20210204] = {
+["time"] = 2,
+["attempts"] = 5,
+},
+},
+["attempts"] = 17,
+["enabled"] = false,
+["realAttempts"] = 17,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 445.8910000000033,
+},
+["Love Witch's Sweeper"] = {
+["lastAttempts"] = 21,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 21,
+["time"] = 21.45999999996275,
+["totalTime"] = 21.45999999996275,
+["attempts"] = 21,
+},
+},
+["time"] = 21.45999999996275,
+["dates"] = {
+[20260219] = {
+["attempts"] = 1,
+},
+[20260221] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260210] = {
+["attempts"] = 1,
+},
+[20260211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260212] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260213] = {
+["time"] = 2,
+["attempts"] = 5,
+},
+[20260214] = {
+["time"] = 6.684999999997672,
+["attempts"] = 2,
+},
+[20260215] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20260216] = {
+["time"] = 3.774999999965075,
+["attempts"] = 1,
+},
+[20260217] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20260218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 21,
+["enabled"] = false,
+["realAttempts"] = 21,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 21.45999999996275,
+},
+["Bristling Hellboar"] = {
+["lastAttempts"] = 0,
+["dates"] = {
+[20190310] = {
+["attempts"] = 1,
+},
+[20180716] = {
+["time"] = 179.088999999993,
+["attempts"] = 4,
+},
+[20180623] = {
+["time"] = 817.703999999998,
+["attempts"] = 18,
+},
+},
+["attempts"] = 100,
+["time"] = 996.792999999991,
+},
+["Bloodgorged Hunter"] = {
+["lastAttempts"] = 301,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 301,
+["time"] = 1460.943999999946,
+["totalTime"] = 1460.943999999946,
+["attempts"] = 301,
+},
+},
+["time"] = 1460.943999999946,
+["dates"] = {
+[20200111] = {
+["time"] = 6,
+["attempts"] = 9,
+},
+[20200114] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20200130] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200207] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["time"] = 3,
+["attempts"] = 2,
+},
+[20200105] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200106] = {
+["time"] = 8,
+["attempts"] = 10,
+},
+[20200122] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200218] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20190428] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190414] = {
+["time"] = 8,
+["attempts"] = 8,
+},
+[20190430] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20200425] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190326] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190418] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190314] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190420] = {
+["time"] = 5,
+["attempts"] = 7,
+},
+[20190331] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190407] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20241207] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190501] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190427] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190503] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200715] = {
+["time"] = 5,
+["attempts"] = 4,
+},
+[20190716] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190626] = {
+["time"] = 4,
+["attempts"] = 6,
+},
+[20190703] = {
+["time"] = 13,
+["attempts"] = 13,
+},
+[20190628] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200714] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190720] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200822] = {
+["time"] = 99.39099999994505,
+["attempts"] = 1,
+},
+[20190707] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190829] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20190830] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190710] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200826] = {
+["time"] = 48.19700000004377,
+["attempts"] = 3,
+},
+[20190802] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190818] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200713] = {
+["time"] = 71.72999999998137,
+["attempts"] = 3,
+},
+[20200605] = {
+["time"] = 5,
+["attempts"] = 4,
+},
+[20190927] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200507] = {
+["time"] = 759.9389999999548,
+},
+[20190823] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190915] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191023] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20200506] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190919] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20190905] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20200504] = {
+["time"] = 90.09500000000116,
+["attempts"] = 1,
+},
+[20190922] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191013] = {
+["time"] = 6,
+["attempts"] = 7,
+},
+[20191014] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20191030] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20191031] = {
+["time"] = 4,
+["attempts"] = 3,
+},
+[20191017] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20191003] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20200503] = {
+["time"] = 58.22900000000664,
+["attempts"] = 2,
+},
+[20200223] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20200222] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191113] = {
+["time"] = 5,
+["attempts"] = 6,
+},
+[20191218] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191130] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190808] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191107] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190904] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20191211] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190725] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191024] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190630] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191108] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191128] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190718] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190719] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191121] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191114] = {
+["time"] = 1,
+},
+[20190627] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190902] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191006] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190711] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200303] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200710] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200716] = {
+["time"] = 8,
+["attempts"] = 8,
+},
+[20200827] = {
+["time"] = 71.36300000001211,
+["attempts"] = 4,
+},
+[20190816] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20211103] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 301,
+["enabled"] = false,
+["realAttempts"] = 301,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1460.943999999946,
+},
+["Ascended Skymane"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20210830] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Clutch of Ha-Li"] = {
+["lastAttempts"] = 12,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 12,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 12,
+},
+},
+["time"] = 10,
+["dates"] = {
+[20200220] = {
+["attempts"] = 1,
+},
+[20200610] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200211] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200602] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200319] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200710] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200709] = {
+["attempts"] = 1,
+},
+[20200603] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200308] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200601] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 12,
+["enabled"] = false,
+["realAttempts"] = 12,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
+},
+["Smoldering Egg of Millagazor"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Blackwater Bonecrusher"] = {
+["time"] = 1,
+["dates"] = {
+[20260306] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+},
+["Sthaarbs's Last Lunch"] = {
+["time"] = 13,
+["dates"] = {
+[20250919] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250820] = {
+["attempts"] = 1,
+},
+[20250928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250817] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250809] = {
+["attempts"] = 1,
+},
+[20251210] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251127] = {
+["attempts"] = 1,
+},
+[20250814] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250905] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260306] = {
+["attempts"] = 1,
+},
+[20250926] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260211] = {
+["attempts"] = 1,
+},
+[20260226] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251006] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250821] = {
+["time"] = 1,
+},
+[20251125] = {
+["attempts"] = 1,
+},
+[20250812] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251024] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 18,
+},
+["Reins of the White Polar Bear"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Reins of the Onyxian Drake"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Soulbound Gloomcharger's Reins"] = {
+["lastAttempts"] = 12,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 12,
+["time"] = 405.3630000000121,
+["totalTime"] = 405.3630000000121,
+["attempts"] = 12,
+},
+},
+["time"] = 405.3630000000121,
+["dates"] = {
+[20210929] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211007] = {
+["attempts"] = 1,
+},
+[20211023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210904] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210801] = {
+["time"] = 395.3630000000121,
+["attempts"] = 1,
+},
+[20210908] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210819] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210820] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211029] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211009] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211111] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 12,
+["enabled"] = false,
+["realAttempts"] = 12,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 405.3630000000121,
+},
+["Felstorm Dragon"] = {
+["lastAttempts"] = 82,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 82,
+["time"] = 3743.67999999999,
+["totalTime"] = 3743.67999999999,
+["attempts"] = 82,
+},
+},
+["time"] = 3743.67999999999,
+["dates"] = {
+[20230917] = {
+["attempts"] = 2,
+},
+[20231005] = {
+["attempts"] = 1,
+},
+[20231001] = {
+["attempts"] = 2,
+},
+[20230830] = {
+["attempts"] = 2,
+},
+[20231101] = {
+["time"] = 102.4350000000559,
+["attempts"] = 3,
+},
+[20230902] = {
+["time"] = 1,
+["attempts"] = 5,
+},
+[20230906] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231002] = {
+["attempts"] = 3,
+},
+[20230831] = {
+["attempts"] = 1,
+},
+[20231102] = {
+["attempts"] = 4,
+},
+[20230827] = {
+["time"] = 3548.939999999999,
+["attempts"] = 2,
+},
+[20231114] = {
+["time"] = 86.30499999993481,
+["attempts"] = 6,
+},
+[20230903] = {
+["attempts"] = 1,
+},
+[20230907] = {
+["attempts"] = 2,
+},
+[20231015] = {
+["attempts"] = 2,
+},
+[20231103] = {
+["attempts"] = 1,
+},
+[20230824] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231111] = {
+["attempts"] = 1,
+},
+[20231115] = {
+["attempts"] = 7,
+},
+[20230928] = {
+["attempts"] = 1,
+},
+[20230820] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231004] = {
+["attempts"] = 1,
+},
+[20231014] = {
+["attempts"] = 1,
+},
+[20231008] = {
+["attempts"] = 1,
+},
+[20231024] = {
+["time"] = 1,
+["attempts"] = 7,
+},
+[20231026] = {
+["attempts"] = 5,
+},
+[20230818] = {
+["attempts"] = 2,
+},
+[20231025] = {
+["attempts"] = 6,
+},
+[20231116] = {
+["attempts"] = 1,
+},
+[20230825] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20230905] = {
+["attempts"] = 2,
+},
+[20230929] = {
+["attempts"] = 1,
+},
+[20231027] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 82,
+["enabled"] = false,
+["realAttempts"] = 82,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3743.67999999999,
+},
+["Darkfuse Spy-Eye"] = {
+["lastAttempts"] = 16,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 16,
+["time"] = 15,
+["totalTime"] = 15,
+["attempts"] = 16,
+},
+},
+["time"] = 15,
+["dates"] = {
+[20260114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251223] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20260118] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260205] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20260108] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260213] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20251231] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20260216] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260111] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20260212] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250822] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 16,
+["enabled"] = false,
+["realAttempts"] = 16,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 15,
+},
+["Vile Fiend"] = {
+["lastAttempts"] = 52,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 52,
+["time"] = 388.792000000365,
+["totalTime"] = 388.792000000365,
+["attempts"] = 52,
+},
+},
+["time"] = 388.792000000365,
+["dates"] = {
+[20181110] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20181031] = {
+["time"] = 357.792000000365,
+["attempts"] = 5,
+},
+[20181103] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181024] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180520] = {
+["attempts"] = 1,
+},
+[20180703] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181116] = {
+["attempts"] = 5,
+},
+[20181104] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20181021] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181025] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20181029] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20181022] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20180617] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181026] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20181120] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20181028] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20181017] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20181023] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 52,
+["realAttempts"] = 52,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 388.792000000365,
+["enabled"] = false,
+},
+["Reins of the Green Proto-Drake"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Maddened Chaosrunner"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Horrid Dredwing"] = {
+["lastAttempts"] = 15,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 15,
+["time"] = 13,
+["totalTime"] = 13,
+["attempts"] = 15,
+},
+},
+["time"] = 13,
+["dates"] = {
+[20210422] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210425] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210426] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210428] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210503] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20210505] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20210501] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210508] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210429] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210507] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 15,
+["enabled"] = false,
+["realAttempts"] = 15,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 13,
+},
+["Garn Nighthowl"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20180810] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Reins of the Crimson Water Strider"] = {
+["time"] = 6,
+["dates"] = {
+[20180715] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20190106] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+},
+["attempts"] = 7,
+},
+["Deepstar Polyp"] = {
+["lastAttempts"] = 10,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 10,
+["time"] = 10,
+["totalTime"] = 10,
+["attempts"] = 10,
+},
+},
+["time"] = 10,
+["dates"] = {
+[20220514] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220515] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220622] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220413] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220701] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220612] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220526] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220507] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 10,
+["enabled"] = false,
+["realAttempts"] = 10,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 10,
+},
+["Avenging Felcrusher"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 2,
+["totalTime"] = 2,
+["attempts"] = 2,
+},
+},
+["time"] = 2,
+["dates"] = {
+[20180512] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 2,
+},
+["Swift White Hawkstrider"] = {
+["known"] = true,
+["found"] = true,
+["enabled"] = false,
+},
+["Living Infernal Core"] = {
+["lastAttempts"] = 215,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 215,
+["time"] = 677.067000000014,
+["totalTime"] = 677.067000000014,
+["attempts"] = 215,
+},
+},
+["time"] = 677.067000000014,
+["dates"] = {
+[20190214] = {
+["time"] = 589.177,
+},
+[20210811] = {
+["time"] = 1,
+},
+[20200709] = {
+["time"] = 1,
+},
+[20200830] = {
+["time"] = 1,
+},
+[20220209] = {
+["time"] = 1,
+},
+[20220825] = {
+["time"] = 1,
+},
+[20220121] = {
+["time"] = 1,
+},
+[20220108] = {
+["time"] = 1,
+},
+[20200909] = {
+["time"] = 78.89000000001397,
+},
+[20220824] = {
+["time"] = 2,
+},
+},
+["enabled"] = false,
+["attempts"] = 215,
+["realAttempts"] = 215,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 677.067000000014,
+},
+["Risen Mare"] = {
+["dates"] = {
+[20200111] = {
+["attempts"] = 9,
+},
+[20200114] = {
+["attempts"] = 3,
+},
+[20200130] = {
+["attempts"] = 3,
+},
+[20200207] = {
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["attempts"] = 2,
+},
+[20200105] = {
+["attempts"] = 3,
+},
+[20200106] = {
+["attempts"] = 10,
+},
+[20200122] = {
+["attempts"] = 3,
+},
+[20200218] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20200425] = {
+["attempts"] = 2,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20200714] = {
+["attempts"] = 1,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20241207] = {
+["attempts"] = 1,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20211103] = {
+["attempts"] = 1,
+},
+[20200715] = {
+["attempts"] = 4,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20200713] = {
+["attempts"] = 3,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20200605] = {
+["attempts"] = 4,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20200506] = {
+["attempts"] = 2,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 3,
+},
+[20191031] = {
+["attempts"] = 3,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20200504] = {
+["attempts"] = 1,
+},
+[20200503] = {
+["attempts"] = 2,
+},
+[20200223] = {
+["attempts"] = 1,
+},
+[20200222] = {
+["attempts"] = 2,
+},
+[20191218] = {
+["attempts"] = 4,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191130] = {
+["attempts"] = 3,
+},
+[20191113] = {
+["attempts"] = 6,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20191211] = {
+["attempts"] = 4,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20191121] = {
+["attempts"] = 4,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20191128] = {
+["attempts"] = 4,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20191024] = {
+["attempts"] = 3,
+},
+[20191108] = {
+["attempts"] = 4,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20191129] = {
+["attempts"] = 1,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+[20191107] = {
+["attempts"] = 2,
+},
+[20190808] = {
+["attempts"] = 3,
+},
+[20200303] = {
+["attempts"] = 3,
+},
+[20200710] = {
+["attempts"] = 1,
+},
+[20200716] = {
+["attempts"] = 8,
+},
+[20200822] = {
+["attempts"] = 1,
+},
+[20200826] = {
+["attempts"] = 3,
+},
+[20200827] = {
+["attempts"] = 4,
+},
+},
+["attempts"] = 300,
+},
+["Ancient Salamanther"] = {
+["lastAttempts"] = 14,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 14,
+["time"] = 964.1260000000475,
+["totalTime"] = 964.1260000000475,
+["attempts"] = 14,
+},
+},
+["time"] = 964.1260000000475,
+["dates"] = {
+[20231009] = {
+["attempts"] = 1,
+},
+[20231010] = {
+["attempts"] = 2,
+},
+[20231030] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20231003] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20231029] = {
+["time"] = 962.1260000000475,
+["attempts"] = 8,
+},
+},
+["attempts"] = 14,
+["enabled"] = false,
+["realAttempts"] = 14,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 964.1260000000475,
+},
+["Goldenmane's Reins"] = {
+["time"] = 25274.4050000005,
+["dates"] = {
+[20191129] = {
+["attempts"] = 16,
+},
+[20190906] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190922] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190715] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191002] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200405] = {
+["time"] = 606.7949999999255,
+["attempts"] = 5,
+},
+[20200724] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201011] = {
+["time"] = 115.8450000000157,
+["attempts"] = 11,
+},
+[20190811] = {
+["time"] = 60.51500000001397,
+},
+[20200820] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201107] = {
+["time"] = 875.7949999996927,
+["attempts"] = 26,
+},
+[20200804] = {
+["time"] = 92.08700000005774,
+["attempts"] = 10,
+},
+[20210526] = {
+["attempts"] = 3,
+},
+[20181120] = {
+["time"] = 59.4479999999749,
+["attempts"] = 3,
+},
+[20190907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190923] = {
+["time"] = 4,
+["attempts"] = 5,
+},
+[20250131] = {
+["attempts"] = 2,
+},
+[20190716] = {
+["time"] = 228.0260000000126,
+["attempts"] = 20,
+},
+[20200916] = {
+["time"] = 65.52299999999741,
+["attempts"] = 6,
+},
+[20200422] = {
+["attempts"] = 2,
+},
+[20200821] = {
+["time"] = 51.07599999994272,
+["attempts"] = 4,
+},
+[20190525] = {
+["time"] = 466.841000000015,
+["attempts"] = 7,
+},
+[20200901] = {
+["time"] = 141.9889999999723,
+["attempts"] = 16,
+},
+[20190302] = {
+["time"] = 6.34500000000116,
+["attempts"] = 4,
+},
+[20181122] = {
+["time"] = 323.956000000006,
+["attempts"] = 53,
+},
+[20200518] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201201] = {
+["attempts"] = 3,
+},
+[20200805] = {
+["time"] = 114.8240000000224,
+["attempts"] = 7,
+},
+[20200311] = {
+["attempts"] = 5,
+},
+[20190908] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190414] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20200503] = {
+["time"] = 56.22900000000664,
+["attempts"] = 6,
+},
+[20190220] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181011] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200917] = {
+["time"] = 101.7479999999923,
+["attempts"] = 6,
+},
+[20200423] = {
+["time"] = 65.0339999999851,
+["attempts"] = 6,
+},
+[20180916] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200710] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190112] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190813] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190319] = {
+["time"] = 119.795000000042,
+["attempts"] = 19,
+},
+[20201029] = {
+["attempts"] = 1,
+},
+[20191116] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200806] = {
+["time"] = 10.00699999998324,
+["attempts"] = 4,
+},
+[20200822] = {
+["time"] = 445.3909999999451,
+["attempts"] = 21,
+},
+[20200902] = {
+["time"] = 181.505999999994,
+["attempts"] = 8,
+},
+[20190415] = {
+["time"] = 18.5540000000037,
+["attempts"] = 7,
+},
+[20200615] = {
+["time"] = 50.88200000004144,
+["attempts"] = 5,
+},
+[20200121] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190718] = {
+["time"] = 58.33900000000722,
+["attempts"] = 6,
+},
+[20181028] = {
+["attempts"] = 2,
+},
+[20200424] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191021] = {
+["time"] = 67.5219999999972,
+["attempts"] = 6,
+},
+[20200201] = {
+["time"] = 69.84100000000035,
+["attempts"] = 6,
+},
+[20200217] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190814] = {
+["time"] = 166.7970000000205,
+["attempts"] = 6,
+},
+[20201014] = {
+["time"] = 91.89100000000326,
+["attempts"] = 19,
+},
+[20190320] = {
+["time"] = 77.7280000000028,
+["attempts"] = 3,
+},
+[20190607] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180917] = {
+["time"] = 779.698999999993,
+["attempts"] = 11,
+},
+[20200823] = {
+["time"] = 1,
+["attempts"] = 5,
+},
+[20190905] = {
+["time"] = 35.49200000008568,
+["attempts"] = 2,
+},
+[20201110] = {
+["time"] = 242.6589999999851,
+["attempts"] = 8,
+},
+[20200106] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20200903] = {
+["time"] = 125.2360000000044,
+["attempts"] = 8,
+},
+[20190719] = {
+["time"] = 70.34100000000035,
+["attempts"] = 6,
+},
+[20181029] = {
+["attempts"] = 3,
+},
+[20190829] = {
+["time"] = 57.83100000000559,
+["attempts"] = 8,
+},
+[20191112] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191225] = {
+["time"] = 60.35700000001816,
+["attempts"] = 9,
+},
+[20200218] = {
+["time"] = 210.0060000000522,
+["attempts"] = 32,
+},
+[20190927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190831] = {
+["time"] = 12.46999999997206,
+["attempts"] = 3,
+},
+[20201112] = {
+["time"] = 57.36800000001676,
+["attempts"] = 2,
+},
+[20191118] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190610] = {
+["time"] = 295.162000000011,
+["attempts"] = 12,
+},
+[20200824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200330] = {
+["time"] = 67.64599999994971,
+["attempts"] = 7,
+},
+[20200601] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200107] = {
+["time"] = 173.8139999999985,
+["attempts"] = 33,
+},
+[20191214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200904] = {
+["time"] = 283.8000000000029,
+["attempts"] = 14,
+},
+[20190720] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200426] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191023] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200713] = {
+["time"] = 68.72999999998137,
+["attempts"] = 6,
+},
+[20190529] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190402] = {
+["time"] = 18.3609999999171,
+["attempts"] = 3,
+},
+[20190928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250216] = {
+["attempts"] = 1,
+},
+[20191120] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200315] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181206] = {
+["time"] = 13.8369999998249,
+["attempts"] = 2,
+},
+[20200108] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200124] = {
+["attempts"] = 6,
+},
+[20250112] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20250120] = {
+["attempts"] = 1,
+},
+[20200921] = {
+["time"] = 157.4949999999953,
+["attempts"] = 8,
+},
+[20200626] = {
+["attempts"] = 1,
+},
+[20200204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200220] = {
+["time"] = 56.6019999999844,
+["attempts"] = 6,
+},
+[20190530] = {
+["attempts"] = 3,
+},
+[20201001] = {
+["time"] = 154.5579999999609,
+["attempts"] = 17,
+},
+[20200507] = {
+["time"] = 222.4880000000121,
+["attempts"] = 14,
+},
+[20201120] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20201113] = {
+["time"] = 99.73600000003353,
+["attempts"] = 8,
+},
+[20200810] = {
+["time"] = 130.3619999999646,
+["attempts"] = 3,
+},
+[20210516] = {
+["attempts"] = 16,
+},
+[20200922] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200619] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201002] = {
+["time"] = 98.78900000010617,
+["attempts"] = 10,
+},
+[20200412] = {
+["time"] = 58.637000000017,
+["attempts"] = 6,
+},
+[20190212] = {
+["time"] = 194.328999999911,
+["attempts"] = 8,
+},
+[20191111] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20200205] = {
+["time"] = 145.1319999999832,
+["attempts"] = 6,
+},
+[20200221] = {
+["time"] = 499.6659999999974,
+["attempts"] = 13,
+},
+[20190818] = {
+["time"] = 163.005999999994,
+["attempts"] = 10,
+},
+[20200508] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200524] = {
+["time"] = 193.722000000067,
+["attempts"] = 20,
+},
+[20200620] = {
+["time"] = 23.10699999998906,
+["attempts"] = 8,
+},
+[20200301] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191121] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190117] = {
+["time"] = 165.900000000023,
+["attempts"] = 10,
+},
+[20200907] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181224] = {
+["time"] = 105.889000000025,
+["attempts"] = 13,
+},
+[20250223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191201] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191217] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190723] = {
+["time"] = 87.77100000000792,
+["attempts"] = 10,
+},
+[20190309] = {
+["time"] = 127.399999999994,
+["attempts"] = 3,
+},
+[20200716] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200222] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191015] = {
+["time"] = 16.82500000000073,
+["attempts"] = 3,
+},
+[20201003] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190819] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180922] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191106] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200430] = {
+["time"] = 1760.563000000082,
+["attempts"] = 29,
+},
+[20190712] = {
+["time"] = 73.12900000007357,
+["attempts"] = 5,
+},
+[20201115] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220527] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20200908] = {
+["time"] = 72.05499999999302,
+["attempts"] = 9,
+},
+[20191218] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190724] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190501] = {
+["attempts"] = 1,
+},
+[20200717] = {
+["attempts"] = 18,
+},
+[20200625] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20201004] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20181027] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181130] = {
+["time"] = 1,
+["attempts"] = 3,
+},
+[20191123] = {
+["time"] = 313.2120000000577,
+["attempts"] = 39,
+},
+[20200813] = {
+["time"] = 655.9890000000596,
+["attempts"] = 18,
+},
+[20200829] = {
+["time"] = 131.2169999999969,
+["attempts"] = 6,
+},
+[20190122] = {
+["time"] = 19.362999999983,
+["attempts"] = 6,
+},
+[20190103] = {
+["time"] = 8.77800000016578,
+["attempts"] = 3,
+},
+[20200415] = {
+["attempts"] = 11,
+},
+[20200112] = {
+["time"] = 91.70900000003166,
+["attempts"] = 6,
+},
+[20200128] = {
+["time"] = 507.6639999999898,
+["attempts"] = 22,
+},
+[20200925] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191228] = {
+["time"] = 158.4039999999804,
+["attempts"] = 24,
 },
 [20200103] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20190304] = {
+[20190502] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200109] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20201005] = {
+["time"] = 153.1140000000596,
+["attempts"] = 12,
+},
+[20190805] = {
+["time"] = 60.27600000001257,
+["attempts"] = 6,
+},
+[20191011] = {
+["time"] = 155.6080000000075,
+["attempts"] = 13,
+},
+[20200304] = {
+["attempts"] = 2,
+},
+[20190614] = {
+["time"] = 34.7160000000004,
+["attempts"] = 2,
+},
+[20200830] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20190120] = {
+["time"] = 395.156000000003,
+["attempts"] = 21,
+},
+[20190901] = {
+["time"] = 28.07200000016019,
+["attempts"] = 3,
+},
+[20190407] = {
+["time"] = 255.573999999994,
+["attempts"] = 15,
+},
+[20190423] = {
+["attempts"] = 1,
+},
+[20200926] = {
+["time"] = 36.49199999996927,
+["attempts"] = 11,
+},
+[20191220] = {
+["time"] = 828.6849999999977,
+["attempts"] = 20,
+},
+[20190726] = {
+["time"] = 66.25500000000466,
+["attempts"] = 6,
+},
+[20191222] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190426] = {
+["time"] = 838.300999999978,
+["attempts"] = 9,
+},
+[20200801] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201006] = {
+["time"] = 2,
+["attempts"] = 8,
+},
+[20190717] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190221] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190902] = {
+["attempts"] = 4,
+},
+[20191125] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200305] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201102] = {
+["time"] = 543.2069999999367,
+["attempts"] = 8,
+},
+[20201118] = {
+["time"] = 45.68700000003446,
+["attempts"] = 12,
+},
+[20200608] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200624] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181021] = {
+["attempts"] = 1,
+},
+[20190710] = {
+["time"] = 77.00800000003073,
+["attempts"] = 4,
+},
+[20190727] = {
+["time"] = 1052.866999999998,
+["attempts"] = 17,
+},
+[20200113] = {
+["attempts"] = 18,
+},
+[20201101] = {
+["time"] = 72.74599999992643,
+["attempts"] = 6,
+},
+[20181101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201007] = {
+["attempts"] = 6,
+},
+[20190807] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190308] = {
+["attempts"] = 83,
+},
+[20200529] = {
+["time"] = 15.57200000004377,
+["attempts"] = 3,
+},
+[20190709] = {
+["time"] = 181.6269999999786,
+["attempts"] = 20,
+},
+[20250812] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20201103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20201119] = {
+["time"] = 229.3090000000084,
+["attempts"] = 13,
+},
+[20180923] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190425] = {
+["time"] = 397.299999999988,
+["attempts"] = 2,
+},
+[20200131] = {
+["attempts"] = 8,
+},
+[20200912] = {
+["time"] = 673.3939999999711,
+["attempts"] = 26,
+},
+[20190728] = {
+["time"] = 166.8699999999953,
+["attempts"] = 9,
+},
+[20200111] = {
+["time"] = 1,
+["attempts"] = 8,
+},
+[20190505] = {
+["time"] = 212.781000000003,
+["attempts"] = 4,
+},
+[20200211] = {
+["attempts"] = 1,
+},
+[20200227] = {
+["time"] = 154.0559999999823,
+["attempts"] = 3,
+},
+[20190808] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200514] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190914] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190601] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181128] = {
+["attempts"] = 15,
+},
+[20190802] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200110] = {
+["time"] = 69.99700000003213,
+["attempts"] = 6,
+},
+[20190920] = {
+["time"] = 161.7189999999246,
+["attempts"] = 14,
+},
+[20200116] = {
+["time"] = 26.6239999999525,
+["attempts"] = 8,
+},
+[20191207] = {
+["time"] = 89.79499999999825,
+["attempts"] = 5,
+},
+[20190713] = {
+["attempts"] = 7,
+},
+[20200929] = {
+["time"] = 38.92700000014156,
+["attempts"] = 2,
+},
+[20191231] = {
+["time"] = 871.4180000000633,
+["attempts"] = 18,
+},
+[20190506] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200212] = {
+["attempts"] = 7,
+},
+[20200331] = {
+["time"] = 161.3070000000298,
+["attempts"] = 3,
+},
+[20201009] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190911] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181012] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190602] = {
+["time"] = 126.705000000075,
+["attempts"] = 5,
+},
+[20191128] = {
+["time"] = 554.188000000082,
+["attempts"] = 19,
+},
+[20181215] = {
+["time"] = 434.407999999996,
+["attempts"] = 28,
+},
+[20201105] = {
+["attempts"] = 1,
+},
+[20190411] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190427] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190204] = {
+["time"] = 1141.13899999997,
+["attempts"] = 26,
+},
+[20190714] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190622] = {
+["time"] = 1,
+["attempts"] = 5,
+},
+[20191001] = {
+["time"] = 282.3730000001378,
+["attempts"] = 21,
+},
+[20191227] = {
+["time"] = 163.1689999999944,
+["attempts"] = 7,
+},
+[20190523] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200819] = {
+["time"] = 207.2279999999446,
+["attempts"] = 6,
+},
+[20190810] = {
+["time"] = 1,
+["attempts"] = 7,
+},
+[20200516] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200310] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191113] = {
+["time"] = 43.90100000007078,
+["attempts"] = 6,
+},
+[20201106] = {
+["time"] = 234.1990000000224,
+["attempts"] = 18,
+},
+},
+["attempts"] = 1678,
+},
+["Surf Jelly"] = {
+["time"] = 1,
+["dates"] = {
+[20200111] = {
+["attempts"] = 9,
+},
+[20200114] = {
+["attempts"] = 3,
+},
+[20200130] = {
+["attempts"] = 3,
+},
+[20200207] = {
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["attempts"] = 2,
+},
+[20200105] = {
+["attempts"] = 3,
+},
+[20200106] = {
+["attempts"] = 10,
+},
+[20200122] = {
+["attempts"] = 3,
+},
+[20200218] = {
+["attempts"] = 3,
+},
+[20190302] = {
+["attempts"] = 4,
+},
+[20190430] = {
+["attempts"] = 4,
+},
+[20190217] = {
+["attempts"] = 2,
+},
+[20190414] = {
+["attempts"] = 8,
+},
+[20200605] = {
+["attempts"] = 4,
+},
+[20200425] = {
+["attempts"] = 2,
+},
+[20190326] = {
+["attempts"] = 4,
+},
+[20241207] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190418] = {
+["attempts"] = 1,
+},
+[20190314] = {
+["attempts"] = 4,
+},
+[20200716] = {
+["attempts"] = 8,
+},
+[20190331] = {
+["attempts"] = 3,
+},
+[20190407] = {
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20200506] = {
+["attempts"] = 2,
+},
+[20200713] = {
+["attempts"] = 3,
+},
+[20190501] = {
+["attempts"] = 4,
+},
+[20190427] = {
+["attempts"] = 1,
+},
+[20190503] = {
+["attempts"] = 3,
+},
+[20190720] = {
+["attempts"] = 3,
+},
+[20190716] = {
+["attempts"] = 2,
+},
+[20190626] = {
+["attempts"] = 6,
+},
+[20190703] = {
+["attempts"] = 13,
+},
+[20190628] = {
+["attempts"] = 1,
+},
+[20200714] = {
+["attempts"] = 1,
+},
+[20200715] = {
+["attempts"] = 4,
+},
+[20190707] = {
+["attempts"] = 2,
+},
+[20211103] = {
+["attempts"] = 1,
+},
+[20190829] = {
+["attempts"] = 6,
+},
+[20190830] = {
+["attempts"] = 3,
+},
+[20190710] = {
+["attempts"] = 2,
+},
+[20200826] = {
+["attempts"] = 3,
+},
+[20190802] = {
+["attempts"] = 3,
+},
+[20190818] = {
+["attempts"] = 3,
+},
+[20200504] = {
+["attempts"] = 1,
+},
+[20200503] = {
+["attempts"] = 2,
+},
+[20190927] = {
+["attempts"] = 3,
+},
+[20200223] = {
+["attempts"] = 1,
+},
+[20190808] = {
+["attempts"] = 3,
+},
+[20190824] = {
+["attempts"] = 1,
+},
+[20190915] = {
+["attempts"] = 2,
+},
+[20190901] = {
+["attempts"] = 1,
+},
+[20191023] = {
+["attempts"] = 3,
+},
+[20200222] = {
+["attempts"] = 2,
+},
+[20190904] = {
+["attempts"] = 3,
+},
+[20190905] = {
+["attempts"] = 6,
+},
+[20190823] = {
+["attempts"] = 2,
+},
+[20190922] = {
+["attempts"] = 3,
+},
+[20191013] = {
+["attempts"] = 7,
+},
+[20191014] = {
+["attempts"] = 1,
+},
+[20191030] = {
+["attempts"] = 3,
+},
+[20191121] = {
+["attempts"] = 4,
+},
+[20191107] = {
+["attempts"] = 2,
+},
+[20191003] = {
+["attempts"] = 5,
+},
+[20190711] = {
+["attempts"] = 1,
+},
+[20180923] = {
+["attempts"] = 7,
+},
+[20181011] = {
+["attempts"] = 13,
+},
+[20181027] = {
+["attempts"] = 5,
+},
+[20191128] = {
+["attempts"] = 4,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191130] = {
+["attempts"] = 3,
+},
+[20190719] = {
+["attempts"] = 1,
+},
+[20190902] = {
+["attempts"] = 3,
+},
+[20190428] = {
+["attempts"] = 3,
+},
+[20181215] = {
+["attempts"] = 4,
+},
+[20191113] = {
+["attempts"] = 6,
+},
+[20191211] = {
+["attempts"] = 4,
+},
+[20191006] = {
+["attempts"] = 3,
+},
+[20190627] = {
+["attempts"] = 3,
+},
+[20190919] = {
+["attempts"] = 6,
+},
+[20190718] = {
+["attempts"] = 4,
+},
+[20190630] = {
+["attempts"] = 4,
+},
+[20191108] = {
+["attempts"] = 4,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["attempts"] = 4,
+},
+[20190725] = {
+["attempts"] = 3,
+},
+[20191129] = {
+["attempts"] = 1,
+},
+[20191218] = {
+["attempts"] = 4,
+},
+[20191017] = {
+["attempts"] = 4,
+},
+[20191031] = {
+["attempts"] = 3,
+},
+[20191024] = {
+["attempts"] = 3,
+},
+[20190928] = {
+["attempts"] = 1,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20200827] = {
+["attempts"] = 4,
+},
+[20190816] = {
+["attempts"] = 3,
+},
+[20200822] = {
+["attempts"] = 1,
+},
+[20200710] = {
+["attempts"] = 1,
+},
+[20190420] = {
+["attempts"] = 7,
+},
+[20200303] = {
+["attempts"] = 3,
+},
+},
+["attempts"] = 335,
+},
+["Scepter of Azj'Aqir"] = {
+["attempts"] = 415,
+},
+["Slime-Covered Reins of the Hulking Deathroc"] = {
+["time"] = 9,
+["dates"] = {
+[20221009] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221010] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221011] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220908] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20220114] = {
+["attempts"] = 1,
+},
+[20210126] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210729] = {
+["attempts"] = 1,
+},
+[20210626] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250107] = {
+["attempts"] = 1,
+},
+[20221014] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221122] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 20,
-["time"] = 14,
+["attempts"] = 12,
 },
-["Red Qiraji Resonating Crystal"] = {
-["enabled"] = false,
-["known"] = true,
-["found"] = true,
-},
-["Armored Bonehoof Tauralus"] = {
-["lastAttempts"] = 4,
+["Swift Albino Raptor"] = {
+["lastAttempts"] = 11,
 ["known"] = true,
 ["finds"] = {
 {
 ["num"] = 1,
-["totalAttempts"] = 4,
-["time"] = 95.5109999999404,
-["totalTime"] = 95.5109999999404,
-["attempts"] = 4,
+["totalAttempts"] = 11,
+["time"] = 11,
+["totalTime"] = 11,
+["attempts"] = 11,
 },
 },
-["time"] = 95.5109999999404,
+["time"] = 11,
 ["dates"] = {
-[20211010] = {
+[20181231] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20210921] = {
-["time"] = 93.5109999999404,
+[20181218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181117] = {
+["time"] = 2,
 ["attempts"] = 2,
 },
-[20210615] = {
+[20190105] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190122] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181214] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190106] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
 },
-["attempts"] = 4,
+["attempts"] = 11,
 ["enabled"] = false,
-["realAttempts"] = 4,
+["realAttempts"] = 11,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 95.5109999999404,
+["lastTime"] = 11,
+},
+["Phalynx of Humility"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["totalAttempts"] = 1,
+["num"] = 1,
+["time"] = 0,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Reins of the Snowfluff Dreamtalon"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Stonehide Elderhorn"] = {
+["time"] = 275,
+["dates"] = {
+[20200111] = {
+["time"] = 6,
+["attempts"] = 9,
+},
+[20200114] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20200130] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200207] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200117] = {
+["attempts"] = 1,
+},
+[20200118] = {
+["time"] = 3,
+["attempts"] = 2,
+},
+[20200105] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200106] = {
+["time"] = 8,
+["attempts"] = 10,
+},
+[20200122] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200218] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20190428] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190414] = {
+["time"] = 8,
+["attempts"] = 8,
+},
+[20190430] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20200425] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190326] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190418] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190314] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190420] = {
+["time"] = 5,
+["attempts"] = 7,
+},
+[20190331] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190407] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20200523] = {
+["attempts"] = 1,
+},
+[20190501] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190427] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190503] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20241207] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190716] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190626] = {
+["time"] = 4,
+["attempts"] = 6,
+},
+[20190703] = {
+["time"] = 13,
+["attempts"] = 13,
+},
+[20190628] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200714] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190720] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190707] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20211103] = {
+["attempts"] = 1,
+},
+[20190829] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20190830] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190710] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190816] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200827] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190818] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200715] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20200713] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190927] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200605] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190823] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190824] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190915] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190901] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191023] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20200506] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190919] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20190905] = {
+["time"] = 6,
+["attempts"] = 6,
+},
+[20200504] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190922] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191013] = {
+["time"] = 6,
+["attempts"] = 7,
+},
+[20191014] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20191030] = {
+["time"] = 2,
+["attempts"] = 3,
+},
+[20191031] = {
+["time"] = 4,
+["attempts"] = 3,
+},
+[20191017] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20191003] = {
+["time"] = 5,
+["attempts"] = 5,
+},
+[20200503] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20200223] = {
+["time"] = 2,
+["attempts"] = 1,
+},
+[20200222] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20191113] = {
+["time"] = 5,
+["attempts"] = 6,
+},
+[20191218] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191130] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190808] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191107] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190904] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190928] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191120] = {
+["attempts"] = 1,
+},
+[20191211] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190725] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191024] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190506] = {
+["attempts"] = 1,
+},
+[20190522] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190630] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191108] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20191128] = {
+["time"] = 3,
+["attempts"] = 4,
+},
+[20190913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190718] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190719] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191121] = {
+["time"] = 4,
+["attempts"] = 4,
+},
+[20190627] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191219] = {
+["attempts"] = 1,
+},
+[20191114] = {
+["time"] = 1,
+},
+[20190902] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20191006] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20190711] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200303] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200710] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200716] = {
+["time"] = 7,
+["attempts"] = 8,
+},
+[20200822] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190802] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+[20200826] = {
+["time"] = 3,
+["attempts"] = 3,
+},
+},
+["attempts"] = 302,
+},
+["Reins of the Winter Night Dreamsaber"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Gorespine"] = {
+["lastAttempts"] = 6,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 6,
+["time"] = 6,
+["totalTime"] = 6,
+["attempts"] = 6,
+},
+},
+["time"] = 6,
+["dates"] = {
+[20210430] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20221011] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210207] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210223] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20211116] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210403] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
+["enabled"] = false,
+["realAttempts"] = 6,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 6,
+},
+["collapsed"] = false,
+["Caged Bear"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["The Horseman's Reins"] = {
+["lastAttempts"] = 136,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 136,
+["time"] = 489.5580000004264,
+["totalTime"] = 489.5580000004264,
+["attempts"] = 136,
+},
+},
+["time"] = 489.5580000004264,
+["dates"] = {
+[20181031] = {
+["time"] = 59.0360000003129,
+["attempts"] = 30,
+},
+[20191023] = {
+["time"] = 5,
+["attempts"] = 7,
+},
+[20181020] = {
+["time"] = 2,
+["attempts"] = 6,
+},
+[20191019] = {
+["time"] = 1,
+["attempts"] = 4,
+},
+[20191020] = {
+["time"] = 5,
+["attempts"] = 6,
+},
+[20191024] = {
+["time"] = 3,
+["attempts"] = 5,
+},
+[20181021] = {
+["time"] = 6,
+["attempts"] = 9,
+},
+[20181029] = {
+["time"] = 21.8319999999367,
+["attempts"] = 5,
+},
+[20191021] = {
+["time"] = 6.605000000039581,
+["attempts"] = 8,
+},
+[20191025] = {
+["time"] = 336.9100000000326,
+["attempts"] = 11,
+},
+[20181022] = {
+["time"] = 4,
+["attempts"] = 5,
+},
+[20191101] = {
+["time"] = 14.20699999993667,
+["attempts"] = 20,
+},
+[20181018] = {
+["time"] = 2,
+["attempts"] = 4,
+},
+[20181101] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191022] = {
+["time"] = 5.200000000011642,
+["attempts"] = 6,
+},
+[20181019] = {
+["attempts"] = 1,
+},
+[20191026] = {
+["attempts"] = 1,
+},
+[20181030] = {
+["time"] = 16.7680000001565,
+["attempts"] = 7,
+},
+},
+["attempts"] = 136,
+["enabled"] = false,
+["realAttempts"] = 136,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 489.5580000004264,
 },
 ["Reins of a Tamed Bloodfeaster"] = {
 ["time"] = 6752.705000000605,
@@ -37665,13 +41227,13 @@ RarityDB = {
 ["time"] = 207.146000000008,
 ["attempts"] = 6,
 },
-[20200921] = {
-["time"] = 324.7779999999912,
-["attempts"] = 12,
+[20181016] = {
+["time"] = 326.10400000005,
+["attempts"] = 17,
 },
-[20200909] = {
-["time"] = 58.91299999994226,
-["attempts"] = 7,
+[20200128] = {
+["time"] = 33.13500000000931,
+["attempts"] = 5,
 },
 [20200925] = {
 ["time"] = 219.3510000000242,
@@ -37685,28 +41247,27 @@ RarityDB = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20181016] = {
-["time"] = 326.10400000005,
-["attempts"] = 17,
-},
-[20190901] = {
-["time"] = 251.8689999999479,
-["attempts"] = 7,
-},
-[20190120] = {
-["time"] = 150.926999999996,
-["attempts"] = 11,
+[20200921] = {
+["time"] = 324.7779999999912,
+["attempts"] = 12,
 },
 [20190403] = {
 ["time"] = 321.7570000001,
 ["attempts"] = 15,
 },
+[20190120] = {
+["time"] = 150.926999999996,
+["attempts"] = 11,
+},
+[20190901] = {
+["time"] = 251.8689999999479,
+["attempts"] = 7,
+},
 [20200519] = {
 ["attempts"] = 3,
 },
-[20181120] = {
-["time"] = 79.6719999999041,
-["attempts"] = 6,
+[20190411] = {
+["time"] = 1,
 },
 [20201029] = {
 ["time"] = 237.2310000000289,
@@ -37851,28 +41412,619 @@ RarityDB = {
 ["time"] = 77.67700000002515,
 ["attempts"] = 12,
 },
-[20190411] = {
-["time"] = 1,
+[20181120] = {
+["time"] = 79.6719999999041,
+["attempts"] = 6,
 },
 [20181222] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
-[20200128] = {
-["time"] = 33.13500000000931,
-["attempts"] = 5,
+[20200909] = {
+["time"] = 58.91299999994226,
+["attempts"] = 7,
 },
 },
 ["attempts"] = 435,
 },
-["Horn of the White War Wolf"] = {
+["Bilgewater Bombardier"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20260218] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Tamed Mauler Harness"] = {
+["lastAttempts"] = 1,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 1,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 1,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20210930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 1,
+["enabled"] = false,
+["realAttempts"] = 1,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Highmountain Elderhorn"] = {
+["lastAttempts"] = 17,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 17,
+["time"] = 24.5500000000502,
+["totalTime"] = 24.5500000000502,
+["attempts"] = 17,
+},
+},
+["time"] = 24.5500000000502,
+["dates"] = {
+[20180629] = {
+["attempts"] = 1,
+},
+[20180705] = {
+["attempts"] = 5,
+},
+[20180512] = {
+["time"] = 8.89400000000023,
+["attempts"] = 3,
+},
+[20180604] = {
+["time"] = 3.25300000000061,
+["attempts"] = 1,
+},
+[20180530] = {
+["attempts"] = 2,
+},
+[20180609] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180716] = {
+["attempts"] = 1,
+},
+[20180717] = {
+["attempts"] = 1,
+},
+[20180612] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180806] = {
+["time"] = 10.4030000000494,
+["attempts"] = 1,
+},
+},
+["attempts"] = 17,
+["enabled"] = false,
+["realAttempts"] = 17,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 24.5500000000502,
+},
+["Endmire Flyer Tether"] = {
+["lastAttempts"] = 2,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 2,
+["time"] = 1,
+["totalTime"] = 1,
+["attempts"] = 2,
+},
+},
+["time"] = 1,
+["dates"] = {
+[20210311] = {
+["attempts"] = 1,
+},
+[20210902] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+["enabled"] = false,
+["realAttempts"] = 2,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 1,
+},
+["Reins of the Slate Primordial Direhorn"] = {
 ["enabled"] = false,
 ["known"] = true,
 ["found"] = true,
 },
+["Ren's Stalwart Hound"] = {
+["time"] = 3,
+["dates"] = {
+[20200309] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200904] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200122] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20200318] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 4,
+},
+["Ashes of Al'ar"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Cartel Master's Gearglider"] = {
+["lastAttempts"] = 14,
+["known"] = true,
+["finds"] = {
+{
+["time"] = 0,
+["num"] = 1,
+["totalAttempts"] = 14,
+["attempts"] = 14,
+},
+},
+["attempts"] = 14,
+["enabled"] = false,
+["realAttempts"] = 14,
+["totalFinds"] = 1,
+["found"] = true,
+},
+["Amber Ardenmoth"] = {
+["lastAttempts"] = 7,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 7,
+["time"] = 3,
+["totalTime"] = 3,
+["attempts"] = 7,
+},
+},
+["time"] = 3,
+["dates"] = {
+[20210203] = {
+["attempts"] = 1,
+},
+[20210405] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210228] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210319] = {
+["attempts"] = 1,
+},
+[20210513] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210504] = {
+["attempts"] = 1,
+},
+[20210408] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 7,
+["enabled"] = false,
+["realAttempts"] = 7,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 3,
+},
+["Mimiron's Head"] = {
+["known"] = true,
+["enabled"] = false,
+["found"] = true,
+},
+["Inarius' Charger"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Legsplitter War Harness"] = {
+["lastAttempts"] = 12,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 12,
+["time"] = 9,
+["totalTime"] = 9,
+["attempts"] = 12,
+},
+},
+["time"] = 9,
+["dates"] = {
+[20210914] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20211022] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210827] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210815] = {
+["attempts"] = 1,
+},
+[20210801] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210828] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210913] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210702] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210912] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210719] = {
+["attempts"] = 1,
+},
+[20210816] = {
+["attempts"] = 1,
+},
+},
+["attempts"] = 12,
+["enabled"] = false,
+["realAttempts"] = 12,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 9,
+},
 ["Reins of the Drake of the South Wind"] = {
 ["known"] = true,
 ["enabled"] = false,
+["found"] = true,
+},
+["Warsong Direfang"] = {
+["dates"] = {
+[20190214] = {
+["attempts"] = 1,
+},
+[20200702] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190816] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191206] = {
+["attempts"] = 1,
+},
+[20200103] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20181227] = {
+["attempts"] = 1,
+},
+[20190310] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20180806] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20180710] = {
+["attempts"] = 1,
+},
+[20210923] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180612] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20180715] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20181226] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190303] = {
+["attempts"] = 1,
+},
+[20190204] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190304] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 20,
+["time"] = 14,
+},
+["Vibrant Mana Ray"] = {
+["enabled"] = false,
+["known"] = true,
+["found"] = true,
+},
+["Rusted Keys to the Junkheap Drifter"] = {
+["lastAttempts"] = 37,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 37,
+["time"] = 28,
+["totalTime"] = 28,
+["attempts"] = 37,
+},
+},
+["time"] = 28,
+["dates"] = {
+[20190828] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190816] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190923] = {
+["attempts"] = 1,
+},
+[20190908] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191011] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191003] = {
+["attempts"] = 1,
+},
+[20190904] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190818] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190812] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190825] = {
+["attempts"] = 1,
+},
+[20191107] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190909] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20191012] = {
+["attempts"] = 1,
+},
+[20190814] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190830] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20190921] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190822] = {
+["attempts"] = 1,
+},
+[20191005] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190913] = {
+["attempts"] = 1,
+},
+[20191013] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190926] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190815] = {
+["attempts"] = 1,
+},
+[20190930] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190819] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191006] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190827] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190906] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20190911] = {
+["time"] = 2,
+["attempts"] = 2,
+},
+[20191002] = {
+["time"] = 1,
+["attempts"] = 2,
+},
+[20190927] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 37,
+["enabled"] = false,
+["realAttempts"] = 37,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 28,
+},
+["Beledar's Spawn"] = {
+["time"] = 3,
+["dates"] = {
+[20250502] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20250809] = {
+["time"] = 1,
+},
+[20260102] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 2,
+},
+["Chain of Bahmethra"] = {
+["known"] = true,
+["attempts"] = 1,
+["enabled"] = false,
+["found"] = true,
+["time"] = 1,
+["dates"] = {
+[20210702] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+},
+["Machine Defense Unit 1-11"] = {
+["lastAttempts"] = 19,
+["known"] = true,
+["finds"] = {
+{
+["num"] = 1,
+["totalAttempts"] = 19,
+["time"] = 68.46799999986251,
+["totalTime"] = 68.46799999986251,
+["attempts"] = 19,
+},
+},
+["dates"] = {
+[20250628] = {
+["time"] = 4.912000000011176,
+["attempts"] = 2,
+},
+[20250911] = {
+["time"] = 6.945999999996275,
+["attempts"] = 2,
+},
+[20250502] = {
+["time"] = 18.30800000000454,
+["attempts"] = 4,
+},
+[20250823] = {
+["time"] = 4.76500000001397,
+["attempts"] = 2,
+},
+[20250627] = {
+["time"] = 10.21899999980815,
+["attempts"] = 3,
+},
+[20250428] = {
+["time"] = 17.87599999998929,
+["attempts"] = 4,
+},
+[20250902] = {
+["time"] = 5.442000000039116,
+["attempts"] = 2,
+},
+},
+["attempts"] = 19,
+["enabled"] = false,
+["realAttempts"] = 19,
+["totalFinds"] = 1,
+["found"] = true,
+["lastTime"] = 68.46799999986251,
+["time"] = 68.46799999986251,
+},
+["Darkspore Mana Ray"] = {
+["enabled"] = false,
+["known"] = true,
 ["found"] = true,
 },
 ["Clutch of Ji-Kun"] = {
@@ -37900,22 +42052,50 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 42.563000000082,
 },
-["Sharkbait's Favorite Crackers"] = {
-["lastAttempts"] = 26,
+["Mawsworn Soulhunter"] = {
+["lastAttempts"] = 6,
 ["known"] = true,
 ["finds"] = {
 {
-["totalAttempts"] = 26,
 ["num"] = 1,
-["time"] = 0,
-["attempts"] = 26,
+["totalAttempts"] = 6,
+["time"] = 5,
+["totalTime"] = 5,
+["attempts"] = 6,
 },
 },
-["attempts"] = 26,
+["time"] = 5,
+["dates"] = {
+[20201230] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210116] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210101] = {
+["attempts"] = 1,
+},
+[20210129] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210114] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+[20210128] = {
+["time"] = 1,
+["attempts"] = 1,
+},
+},
+["attempts"] = 6,
 ["enabled"] = false,
-["realAttempts"] = 26,
+["realAttempts"] = 6,
 ["totalFinds"] = 1,
 ["found"] = true,
+["lastTime"] = 5,
 },
 ["Craghorn Chasm-Leaper"] = {
 ["lastAttempts"] = 278,
@@ -38181,25 +42361,34 @@ RarityDB = {
 ["known"] = true,
 ["found"] = true,
 },
-["Sanctum Gloomcharger's Reins"] = {
-["attempts"] = 69,
+["Antoran Charhound"] = {
+["known"] = true,
+["time"] = 1,
+["dates"] = {
+[20230314] = {
+["time"] = 1,
+},
+},
+["attempts"] = 137,
+["enabled"] = false,
+["found"] = true,
 },
 ["Tundra Icehoof"] = {
 ["dates"] = {
 [20190214] = {
 ["attempts"] = 1,
 },
-[20190816] = {
-["attempts"] = 1,
-},
 [20200702] = {
 ["time"] = 1,
+["attempts"] = 1,
+},
+[20190816] = {
 ["attempts"] = 1,
 },
 [20191206] = {
 ["attempts"] = 1,
 },
-[20190204] = {
+[20200103] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -38233,7 +42422,7 @@ RarityDB = {
 [20190303] = {
 ["attempts"] = 1,
 },
-[20200103] = {
+[20190204] = {
 ["time"] = 1,
 ["attempts"] = 1,
 },
@@ -38275,31 +42464,22 @@ RarityDB = {
 ["found"] = true,
 ["lastTime"] = 2,
 },
-["Fierce Razorwing"] = {
-["lastAttempts"] = 1,
+["Sharkbait's Favorite Crackers"] = {
+["lastAttempts"] = 26,
 ["known"] = true,
 ["finds"] = {
 {
+["totalAttempts"] = 26,
 ["num"] = 1,
-["totalAttempts"] = 1,
-["time"] = 1,
-["totalTime"] = 1,
-["attempts"] = 1,
+["time"] = 0,
+["attempts"] = 26,
 },
 },
-["time"] = 1,
-["dates"] = {
-[20210818] = {
-["time"] = 1,
-["attempts"] = 1,
-},
-},
-["attempts"] = 1,
+["attempts"] = 26,
 ["enabled"] = false,
-["realAttempts"] = 1,
+["realAttempts"] = 26,
 ["totalFinds"] = 1,
 ["found"] = true,
-["lastTime"] = 1,
 },
 },
 ["user"] = {
@@ -38336,9 +42516,9 @@ RarityDB = {
 ["type"] = "PET",
 ["enableAnnouncements"] = true,
 ["creatureId"] = 233564,
-["method"] = "USE",
+["realAttempts"] = 17,
 ["totalFinds"] = 1,
-["chance"] = 100,
+["attempts"] = 17,
 ["import"] = false,
 ["items"] = {
 116762,
@@ -38346,9 +42526,9 @@ RarityDB = {
 ["found"] = true,
 ["name"] = "Grunch",
 ["lastTime"] = 20.04700000002049,
-["attempts"] = 17,
+["chance"] = 100,
 ["holidayReminder"] = true,
-["realAttempts"] = 17,
+["method"] = "USE",
 },
 ["Schematic: Goldplate Bufonid"] = {
 ["export"] = false,
@@ -38381,6 +42561,9 @@ RarityDB = {
 ["realAttempts"] = 35,
 ["totalFinds"] = 2,
 ["import"] = false,
+["enableAnnouncements"] = true,
+["found"] = true,
+["name"] = "Schematic: Goldplate Bufonid",
 ["dates"] = {
 [20220306] = {
 ["time"] = 613.6230000000214,
@@ -38391,12 +42574,9 @@ RarityDB = {
 ["attempts"] = 35,
 },
 },
-["found"] = true,
-["name"] = "Schematic: Goldplate Bufonid",
-["attempts"] = 35,
 ["holidayReminder"] = true,
 ["lastTime"] = 1740.636000000028,
-["enableAnnouncements"] = true,
+["attempts"] = 35,
 },
 ["Schematic: Mawdapted Raptora"] = {
 ["export"] = false,
@@ -38422,9 +42602,12 @@ RarityDB = {
 ["realAttempts"] = 40,
 ["totalFinds"] = 1,
 ["import"] = false,
-["itemId"] = 189459,
+["method"] = "NPC",
 ["found"] = true,
 ["name"] = "Schematic: Mawdapted Raptora",
+["itemId"] = 189459,
+["lastTime"] = 1251.107999999978,
+["holidayReminder"] = true,
 ["dates"] = {
 [20220307] = {
 ["attempts"] = 1,
@@ -38434,9 +42617,6 @@ RarityDB = {
 ["attempts"] = 40,
 },
 },
-["lastTime"] = 1251.107999999978,
-["holidayReminder"] = true,
-["method"] = "NPC",
 },
 },
 },
@@ -39451,9 +43631,16 @@ nil,
 [2202] = "Гневерот",
 [2204] = "Азмерлот",
 [2206] = "АЗЕРОТ",
+[2310] = "Снующий пролом",
+[1157] = "Великое море",
+[1158] = "Нагорье Арати",
 [2214] = "Гулкие глубины",
 [2216] = "Город Нитей (нижний уровень)",
+[1162] = "Осада Боралуса",
 [2220] = "Цитадель Ночи",
+[1174] = "\"Мощь Растахана\"",
+[1184] = "Шахта Зимней Стужи",
+[1016] = "Усадьба Уэйкрестов",
 [2228] = "Темная Империя",
 [2230] = "Чертоги Доблести",
 [2232] = "Амирдрассил",
@@ -39461,80 +43648,128 @@ nil,
 [2236] = "Восточные ветви",
 [2238] = "Амирдрассил",
 [2240] = "Амирдрассил",
+[1187] = "Азсуна",
 [2244] = "Амирдрассил",
+[1015] = "Усадьба Уэйкрестов",
 [2248] = "Остров Дорн",
 [2250] = "Покой Кригвала",
 [2252] = "Драконьи острова",
 [2254] = "Холмы Грез",
 [2256] = "Аз-Кахет – Нижний ярус",
+[2374] = "Нижняя Шахта",
+[1014] = "Кул-Тирас",
 [2262] = "Удел Предателя",
+[1192] = "Расколотый берег",
 [2266] = "Порог миллениума",
 [2268] = "Амирдрассил",
 [2270] = "Аз-Кахет",
 [2272] = "Гулкие глубины",
 [2274] = "Каз Алгар",
 [2276] = "Каз Алгар",
+[1013] = "Тюрьма",
+[1193] = "Зулдазар",
+[1012] = "Штормград",
+[2388] = "Операция: шлюз",
+[2394] = "Лабиринт",
+[1203] = "Темные берега",
+[1010] = "ЗОЛОТАЯ ЖИЛА!!!",
 [2292] = "Неруб'арский дворец",
 [1148] = "Ульдир",
 [1149] = "Ульдир",
 [1150] = "Ульдир",
 [1151] = "Ульдир",
 [1152] = "Ульдир",
-[1153] = "Ульдир",
+[2304] = "Расселина Темного Пламени",
 [1154] = "Ульдир",
 [1155] = "Ульдир",
 [1156] = "Великое море",
-[1157] = "Великое море",
-[1158] = "Нагорье Арати",
+[2312] = "Пещера микомантов",
+[2314] = "Глубины Так-Ретана",
 [1159] = "Глубины Черной горы",
 [1160] = "Глубины Черной горы",
 [1161] = "Боралус",
-[1162] = "Осада Боралуса",
+[2322] = "Зал Пробуждения",
 [1163] = "Дазар'алор",
 [1164] = "Дазар'алор",
 [1165] = "Дазар'алор",
 [1166] = "Занчул",
 [1167] = "Занчул",
+[2496] = "Шпили Ветрокрылых",
 [1169] = "Тол Дагор",
 [1170] = "Gorgrond - Mag'har Scenario",
 [1171] = "Гол Товас",
 [1172] = "Гол Товас",
 [1173] = "\"Мощь Растахана\"",
-[1174] = "\"Мощь Растахана\"",
+[2346] = "Нижняя Шахта",
 [2348] = "Логово Зеквира",
 [1176] = "\"Дыхание Па'ку\"",
-[1177] = "\"Дыхание Па'ку\"",
+[2352] = "Лагерь Основателя",
 [2354] = "Силитус",
 [1179] = "\"Мелодия глубин\"",
 [1180] = "\"Мелодия глубин\"",
 [1181] = "Зулдазар",
 [1182] = "Солекаменная шахта",
 [1183] = "Терновое Сердце",
-[1184] = "Шахта Зимней Стужи",
+[2366] = "Скитающийся остров",
 [1185] = "Шахта Зимней Стужи",
 [1186] = "Глубины Черной горы",
-[1187] = "Азсуна",
+[2372] = "Нагорье Арати",
 [1188] = "Валь'шара",
 [1189] = "Крутогорье",
 [1190] = "Штормхейм",
 [1191] = "Сурамар",
-[1192] = "Расколотый берег",
-[1193] = "Зулдазар",
+[2382] = "Ни'алота, Пробуждающийся Город",
+[2384] = "Ни'алота, Пробуждающийся Город",
 [1194] = "Назмир",
 [1195] = "Вол'дун",
 [1196] = "Тирагардское поморье",
 [1197] = "Друствар",
 [1198] = "Долина Штормов",
 [2396] = "Место раскопок 9",
-[1203] = "Темные берега",
+[2398] = "К'ареш",
+[1009] = "Атул'Аман",
+[2402] = "Район Орды",
+[2404] = "Видение Штормграда",
 [2406] = "Нижняя Шахта",
 [2408] = "Нижняя Шахта",
+[1251] = "Предгорья Хилсбрада",
+[1252] = "Внутренние земли",
 [1208] = "Восточные королевства",
 [1209] = "Калимдор",
+[2418] = "Залы Алого ордена",
 [2420] = "Переулочный шлюз",
 [2422] = "Переулочный шлюз",
+[2424] = "Остров Кель'Данас",
 [2426] = "Купол Крушителей",
 [2428] = "Нижняя Шахта",
+[1253] = "Дун Морог",
+[2432] = "Остров Кель'Данас",
+[2434] = "Терраса Авгуров",
+[1256] = "Элвиннский лес",
+[2438] = "Залы Алого ордена",
+[2520] = "Терраса Магистров",
+[2522] = "Изобильный грот",
+[2444] = "Зубец убийцы",
+[2526] = "Берлога Предаксаса",
+[1265] = "Стальгорн",
+[2530] = "Шпиль Бездны",
+[2452] = "Штурм архивов",
+[2454] = "Штурм архивов",
+[2007] = "Лощина громитов",
+[2532] = "Провал снов",
+[2460] = "Манагорн Омега",
+[2462] = "Манагорн Омега",
+[2464] = "Манагорн Омега",
+[2466] = "Манагорн Омега",
+[2468] = "Манагорн Омега",
+[2470] = "Манагорн Омега",
+[2472] = "Тазавеш",
+[2534] = "Марш на Кель'Данас",
+[2476] = "Штурм архивов",
+[1269] = "Луносвет",
+[2480] = "Харандар",
+[2540] = "Святилище Солнцеубийцы",
+[2484] = "Убежище рассекателя Бездны",
 [1244] = "Нагорье Арати",
 [1245] = "Бесплодные земли",
 [1246] = "Выжженные земли",
@@ -39542,25 +43777,25 @@ nil,
 [1248] = "Серебряный бор",
 [1249] = "Западные Чумные земли",
 [1250] = "Восточные Чумные земли",
-[1251] = "Предгорья Хилсбрада",
-[1252] = "Внутренние земли",
-[1253] = "Дун Морог",
+[2500] = "Слепящая долина",
+[2502] = "Анклав Теней",
+[2504] = "Сумеречные склепы",
 [1254] = "Тлеющее ущелье",
 [1255] = "Пылающие степи",
-[1256] = "Элвиннский лес",
+[2510] = "Грызальня",
 [1257] = "Перевал Мертвого Ветра",
 [1258] = "Сумеречный лес",
 [1259] = "Лок Модан",
-[1260] = "Красногорье",
+[2518] = "Терраса Магистров",
 [1261] = "Болото Печали",
 [1262] = "Западный край",
 [1263] = "Болотина",
 [1264] = "Штормград",
-[1265] = "Стальгорн",
+[2528] = "Святилище Солнцеубийцы",
 [1266] = "Подгород",
 [1267] = "Леса Вечной Песни",
 [1268] = "Призрачные земли",
-[1269] = "Луносвет",
+[2536] = "Атал'Аман",
 [1270] = "Остров Кель'Данас",
 [1271] = "Гилнеас",
 [1272] = "Вайш'ир",
@@ -39569,6 +43804,33 @@ nil,
 [1275] = "Сумеречное нагорье",
 [1276] = "Тол Барад",
 [1277] = "Полуостров Тол Барад",
+[2344] = "Город Нитей",
+[2556] = "Узел Нексуса Зенас",
+[2558] = "Брошенный корабль Легиона",
+[2330] = "Приорат Священного Пламени",
+[2506] = "Форпост Темной Стражи",
+[2564] = "Берлога Налоракка",
+[2566] = "Остров Кель'Данас",
+[2568] = "Зул'Аман",
+[2328] = "Авансцена",
+[2572] = "Арена Шрама Бездны",
+[2574] = "Арена Шрама Бездны",
+[2576] = "Логово",
+[2578] = "Общая Беда",
+[2580] = "Логово зверей лоа",
+[2582] = "Нора Бездны",
+[2584] = "Тростинник Сломанного Клыка",
+[2362] = "Глубины Черной горы",
+[2300] = "Воронка",
+[2498] = "Шпили Ветрокрылых",
+[998] = "Подгород",
+[2358] = "Город Отголосков",
+[997] = "Тирисфальские леса",
+[2298] = "Неруб'арский дворец",
+[2318] = "Гнездовье",
+[2316] = "Гнездовье",
+[2294] = "Неруб'арский дворец",
+[2296] = "Неруб'арский дворец",
 [1305] = "Дуротар",
 [1306] = "Мулгор",
 [1307] = "Северные степи",
@@ -39604,7 +43866,11 @@ nil,
 [1337] = "Йорундалль",
 [1338] = "Темные берега",
 [1339] = "Ущелье Песни Войны",
+[1987] = "Торгаст",
+[2368] = "Зал Пробуждения",
+[1985] = "Торгаст",
 [1343] = "8.1 Darkshore Outdoor Final Phase",
+[2072] = "Ульдаман: наследие Тира",
 [1345] = "Горнило Штормов",
 [1346] = "Горнило Штормов",
 [1347] = "Сокровищница Зандалари",
@@ -39625,18 +43891,37 @@ nil,
 [1362] = "Святилище Штормов",
 [1363] = "Горнило Штормов",
 [1364] = "Битва за Дазар'алор",
+[992] = "Кул-Тирас",
 [1366] = "Низина Арати",
 [1367] = "Битва за Дазар'алор",
+[2302] = "Яма Ужаса",
+[1981] = "Торгаст",
+[2088] = "Пандаренская революция",
 [1371] = "ГномреганА",
 [1372] = "ГномреганБ",
+[990] = "Дренор",
 [1374] = "ГномреганВ",
 [1375] = "Чертоги Камня",
+[2306] = "Даларан",
+[989] = "Пандария",
+[2308] = "Приорат Священного Пламени",
 [1379] = "8.3 Visions of N'Zoth - Prototype",
 [1380] = "ГномреганГ",
 [1381] = "Ульдир",
 [1382] = "Ульдир",
 [1383] = "Низина Арати",
 [1384] = "Нордскол",
+[1975] = "Торгаст",
+[2084] = "Изумрудный Путь Снов",
+[2080] = "Нелтарий",
+[2074] = "Лазурное хранилище",
+[1971] = "Небесная Цитадель",
+[2082] = "Чертоги Насыщения",
+[985] = "Восточные королевства",
+[2049] = "Гробница Предвечных",
+[2051] = "Гробница Предвечных",
+[2059] = "Пики Отголосков",
+[2063] = "Драконьи острова",
 [1396] = "Борейская тундра",
 [1397] = "Драконий Погост",
 [1398] = "Седые холмы",
@@ -39651,43 +43936,63 @@ nil,
 [1407] = "Чернильная тюрьма",
 [1408] = "Ашран",
 [1409] = "Остров Изгнанников",
-[2362] = "Глубины Черной горы",
-[2368] = "Зал Пробуждения",
-[2374] = "Нижняя Шахта",
-[2344] = "Город Нитей",
-[2330] = "Приорат Священного Пламени",
-[2328] = "Авансцена",
-[1016] = "Усадьба Уэйкрестов",
-[2312] = "Пещера микомантов",
-[1015] = "Усадьба Уэйкрестов",
-[2306] = "Даларан",
-[1014] = "Кул-Тирас",
-[2310] = "Снующий пролом",
-[1013] = "Тюрьма",
-[2320] = "Гнездовье",
-[1012] = "Штормград",
-[2302] = "Яма Ужаса",
-[2316] = "Гнездовье",
-[2314] = "Глубины Так-Ретана",
-[1010] = "ЗОЛОТАЯ ЖИЛА!!!",
-[2294] = "Неруб'арский дворец",
-[1009] = "Атул'Аман",
-[2084] = "Изумрудный Путь Снов",
-[2296] = "Неруб'арский дворец",
-[2088] = "Пандаренская революция",
-[2308] = "Приорат Священного Пламени",
-[1537] = "Альтеракская долина",
-[1573] = "Город Мехагон",
-[1578] = "Глубины Черной горы",
-[1596] = "Ни'алота",
+[1548] = "Подземелья Могу'шан",
+[2073] = "Лазурное хранилище",
+[2075] = "Лазурное хранилище",
+[981] = "Руины Ун'гола",
+[2081] = "Нелтарий",
+[980] = "Тол Дагор",
+[1555] = "Крепость Бурь",
+[1557] = "Наксрамас",
+[1558] = "Цитадель Ледяной Короны",
+[1560] = "Логово Крыла Тьмы",
+[1561] = "Огненные Просторы",
+[2121] = "Хранилище Воплощений",
+[1574] = "Город Мехагон",
+[1577] = "Гилнеас",
+[2131] = "Запретный край",
+[2135] = "Вальдраккен",
+[2165] = "Проход",
 [2169] = "Аберрий, Затененное Горнило",
-[2007] = "Лощина громитов",
-[2183] = "Лазурное хранилище",
-[1462] = "Остров Мехагон",
+[1600] = "Зал И'Шараджа",
 [2193] = "Край нескончаемой зимы",
-[2207] = "Земли Войны",
-[1465] = "Залы Алого ордена",
+[2195] = "Слияние Бесконечности",
+[2203] = "Азескорб",
+[2205] = "Ульдерот",
 [1618] = "Торгаст",
+[2213] = "Город Нитей",
+[2257] = "Нагорье Арати",
+[2271] = "Остров Дорн",
+[1651] = "Раскаленный горн",
+[1662] = "Королевский зимний сад",
+[2303] = "Расселина Темного Пламени",
+[2307] = "Даларан",
+[2309] = "Приорат Священного Пламени",
+[2315] = "Гнездовье",
+[1671] = "Орибос",
+[2321] = "Зал Сердца",
+[2335] = "Искроварня",
+[1682] = "Цитадель Ледяной Короны",
+[2341] = "Каменный Свод",
+[1684] = "Театр Боли",
+[1685] = "Театр Боли",
+[2347] = "Сплетенная Спираль",
+[2351] = "Берега Колючего Ветра",
+[2357] = "Город Отголосков",
+[2359] = "\"Сияющий Рассвет\"",
+[2363] = "Глубины Черной горы",
+[2369] = "Остров Сирен",
+[1700] = "Грехопад",
+[2379] = "Ни'алота, Пробуждающийся Город",
+[2381] = "Ни'алота, Пробуждающийся Город",
+[1713] = "Путь Мудрости",
+[2403] = "Видение Оргриммара",
+[1715] = "Преддверие Вечности",
+[1462] = "Остров Мехагон",
+[1716] = "Torghast - Map Floor 22",
+[2409] = "Нижняя Шахта",
+[1465] = "Залы Алого ордена",
+[1724] = "\"Вихрексис\"",
 [1467] = "Запределье",
 [1468] = "Роща Снов",
 [1469] = "Видение Оргриммара",
@@ -39698,41 +44003,41 @@ nil,
 [1474] = "Водоворот – Сердце Азерот",
 [1475] = "Изумрудный Сон",
 [1476] = "Сумеречное нагорье",
-[2213] = "Город Нитей",
+[1728] = "Резчик Рун",
 [1478] = "Ашран",
 [1479] = "Спасение Бейна",
-[2215] = "Тайносводье",
-[1623] = "Торгаст",
-[1628] = "Торгаст",
-[1629] = "Торгаст",
-[1630] = "Торгаст",
-[1631] = "Торгаст",
-[998] = "Подгород",
-[1632] = "Торгаст",
-[997] = "Тирисфальские леса",
-[1642] = "Валь'шара",
+[1734] = "Ревендрет",
+[1736] = "Торгаст",
+[2453] = "Штурм архивов",
+[1740] = "Арденвельд",
+[2463] = "Манагорн Омега",
+[1745] = "Замок Нафрия",
+[1746] = "Замок Нафрия",
+[1747] = "Замок Нафрия",
+[1748] = "Замок Нафрия",
+[1751] = "Торгаст",
 [1490] = "Мехагон",
 [1491] = "Мехагон",
-[1647] = "Темные Земли",
+[1752] = "Торгаст",
 [1493] = "Мехагон",
 [1494] = "Мехагон",
-[2273] = "Тайносводье",
-[2275] = "11.0 - Underground [Deprecated]",
+[1753] = "Торгаст",
+[1759] = "Торгаст",
 [1497] = "Мехагон",
-[2277] = "Святыня Сумерек",
+[1761] = "Торгаст",
 [1499] = "Зин-Азшари",
 [1500] = "",
 [1501] = "Остров Отчаяния",
 [1502] = "Цветущая Зима",
-[1987] = "Торгаст",
+[1762] = "Торгаст, Башня Проклятых",
 [1504] = "Назжатар",
 [1505] = "Стратхольм",
-[1658] = "Alpha_TG_R02",
-[1985] = "Торгаст",
-[1659] = "Alpha_TG_R03",
-[992] = "Кул-Тирас",
-[1662] = "Королевский зимний сад",
-[1981] = "Торгаст",
+[1763] = "Торгаст",
+[1764] = "Торгаст",
+[1765] = "Торгаст",
+[1766] = "Торгаст",
+[1768] = "Торгаст",
+[1769] = "Торгаст",
 [1512] = "Вечный дворец",
 [1513] = "Вечный дворец",
 [1514] = "Вечный дворец",
@@ -39747,10 +44052,10 @@ nil,
 [1523] = "Solesa Naksu [DNT]",
 [1524] = "",
 [1525] = "Ревендрет",
-[1663] = "Чертоги Покаяния",
+[1770] = "Торгаст",
 [1527] = "Ульдум",
 [1528] = "Назжатар",
-[990] = "Дренор",
+[1771] = "Торгаст",
 [1530] = "Вечноцветущий дол",
 [1531] = "Гуляйполис",
 [1532] = "Гуляйполис",
@@ -39758,7 +44063,7 @@ nil,
 [1534] = "Оргриммар",
 [1535] = "Дуротар",
 [1536] = "Малдраксус",
-[2049] = "Гробница Предвечных",
+[1537] = "Альтеракская долина",
 [1538] = "Твердыня Крыла Тьмы",
 [1539] = "Твердыня Крыла Тьмы",
 [1540] = "Чертоги Созидания",
@@ -39769,23 +44074,23 @@ nil,
 [1545] = "Дворец Могу'шан",
 [1546] = "Дворец Могу'шан",
 [1547] = "Подземелья Могу'шан",
-[1548] = "Подземелья Могу'шан",
+[2071] = "Ульдаман: наследие Тира",
 [1549] = "Подземелья Могу'шан",
 [1550] = "Темные Земли",
 [2077] = "Лазурное хранилище",
 [1552] = "Пещеры Времени",
 [1553] = "Пещеры Времени",
 [1554] = "Змеиное святилище",
-[1555] = "Крепость Бурь",
+[2085] = "Будущее воинов стихий",
 [1556] = "Вершина Хиджала",
-[1557] = "Наксрамас",
-[1558] = "Цитадель Ледяной Короны",
+[2089] = "Темная Империя",
+[2091] = "Война Зыбучих Песков",
 [1559] = "Сумеречный бастион",
-[1560] = "Логово Крыла Тьмы",
-[1561] = "Огненные Просторы",
+[2095] = "Рубиновые Омуты Жизни",
+[2097] = "Академия Алгет'ар",
 [2099] = "Академия Алгет'ар",
-[1563] = "Испытание крестоносца",
-[1665] = "Чертоги Покаяния",
+[2101] = "Колыбель целителей",
+[1772] = "Торгаст",
 [1565] = "Арденвельд",
 [2107] = "Запретный край",
 [2109] = "Колыбель воинов",
@@ -39794,236 +44099,236 @@ nil,
 [1570] = "Вечноцветущий дол",
 [1571] = "Ульдум",
 [2119] = "Хранилище Воплощений",
-[2121] = "Хранилище Воплощений",
-[1574] = "Город Мехагон",
+[1573] = "Город Мехагон",
+[2123] = "Хранилище Воплощений",
 [2125] = "Хранилище Воплощений",
-[1576] = "Каньон Суровых Ветров",
-[1577] = "Гилнеас",
-[2131] = "Запретный край",
+[2127] = "Берега Пробуждения",
+[2129] = "Равнины Он'ары",
+[1578] = "Глубины Черной горы",
 [1579] = "Источники силы",
 [1580] = "Ни'алота",
 [1581] = "Ни'алота",
 [1582] = "Ни'алота",
-[989] = "Пандария",
-[2309] = "Приорат Священного Пламени",
-[1975] = "Торгаст",
+[1774] = "Торгаст",
+[1776] = "Торгаст",
+[1777] = "Торгаст",
 [2147] = "Азерот",
 [2149] = "Равнины Он'ары",
 [2151] = "Запретный край",
-[2311] = "11.0 -  Hallowfall - [Spreading the Light]- Disabled",
+[1778] = "Торгаст",
 [1590] = "Ни'алота",
 [1591] = "Ни'алота",
 [1592] = "Ни'алота",
 [1593] = "Ни'алота",
 [1594] = "Ни'алота",
-[2165] = "Проход",
+[1595] = "Ни'алота",
 [2167] = "Аберрий, Затененное Горнило",
 [1597] = "Ни'алота",
 [2171] = "Аберрий, Затененное Горнило",
 [2173] = "Аберрий, Затененное Горнило",
-[1600] = "Зал И'Шараджа",
-[2313] = "Сплетенная Спираль",
+[2175] = "Пещера Заралек",
+[1779] = "Торгаст",
 [1602] = "Цитадель Ледяной Короны",
 [1603] = "Арденвельд",
 [1604] = "Зал Сердца",
-[1671] = "Орибос",
-[1971] = "Небесная Цитадель",
-[1673] = "Орибос",
+[1780] = "Торгаст",
+[1781] = "Торгаст",
+[1783] = "Торгаст",
 [2191] = "Порог миллениума",
 [1609] = "Цитадель Темного Молота",
 [1610] = "Цитадель Темного Молота",
-[1611] = "Dark Citadel",
+[2197] = "Поле бесконечной битвы",
 [2199] = "Тирхолдский резервуар",
 [2201] = "Азк'рот",
 [1614] = "JT_New_A",
 [1615] = "TG10_Floor [Deprecated]",
-[1616] = "TG11_Floor [Deprecated]",
+[2207] = "Земли Войны",
 [1617] = "TG12_Floor [Deprecated]",
 [2211] = "Аберрий, Затененное Горнило",
 [1619] = "Торгаст",
-[1620] = "Торгаст",
+[2215] = "Тайносводье",
 [1621] = "Торгаст",
-[985] = "Восточные королевства",
+[1785] = "Торгаст",
 [2221] = "Цитадель Ночи",
 [1624] = "Торгаст",
-[2339] = "Дорногал",
-[2343] = "Город Нитей",
+[1786] = "Торгаст",
+[1791] = "Торгаст",
 [1627] = "Торгаст",
 [2231] = "Чертоги Доблести",
 [2233] = "Амирдрассил",
 [2235] = "Северные ветви",
-[2237] = "Южные ветви",
+[1631] = "Торгаст",
 [2239] = "Амирдрассил",
 [2241] = "Изумрудный Сон",
-[2347] = "Сплетенная Спираль",
+[1793] = "Торгаст",
 [1635] = "Торгаст",
 [1636] = "Торгаст",
 [2249] = "Грибные гадости",
 [2251] = "Водокачка",
 [2253] = "Обитель Сор'терил",
 [2255] = "Аз-Кахет",
-[2257] = "Нагорье Арати",
+[1641] = "Торгаст",
 [2259] = "Глубины Так-Ретана",
 [1643] = "Арденвельд",
 [1644] = "Пепельный двор",
 [1645] = "Торгаст",
-[2359] = "\"Сияющий Рассвет\"",
-[2269] = "Шахты Землескребов",
-[2271] = "Остров Дорн",
-[1649] = "Хранилище эфира",
-[1650] = "Слепая цитадель",
-[1651] = "Раскаленный горн",
+[1795] = "Торгаст",
+[1647] = "Темные Земли",
+[1648] = "Утроба",
+[2273] = "Тайносводье",
+[2275] = "11.0 - Underground [Deprecated]",
+[2277] = "Святыня Сумерек",
 [1652] = "Хранилище душ",
-[1697] = "Чумные каскады",
-[2373] = "Колыбель воинов",
-[2375] = "Забытое хранилище",
+[1796] = "Торгаст",
+[1797] = "Торгаст",
+[1798] = "Торгаст",
 [1656] = "Torghast - Map Floor 10 [Deprecated]",
-[981] = "Руины Ун'гола",
-[2291] = "Неруб'арский дворец",
+[1799] = "Торгаст",
+[1658] = "Alpha_TG_R02",
 [2293] = "Неруб'арский дворец",
 [2295] = "Неруб'арский дворец",
 [1661] = "Alpha_TG_R05",
 [2299] = "Подоплот",
-[2301] = "Воронка",
-[2303] = "Расселина Темного Пламени",
+[1663] = "Чертоги Покаяния",
+[1664] = "Чертоги Покаяния",
 [2305] = "Даларан",
-[2307] = "Даларан",
+[1666] = "Смертельная тризна",
 [1667] = "Смертельная тризна",
-[1668] = "Смертельная тризна",
+[2311] = "11.0 -  Hallowfall - [Spreading the Light]- Disabled",
 [1669] = "Туманы Тирна Скитта",
 [1670] = "Орибос",
 [2317] = "Гнездовье",
 [2319] = "Гнездовье",
-[2321] = "Зал Сердца",
+[1673] = "Орибос",
 [1674] = "Чумные каскады",
 [1675] = "Кровавые катакомбы",
 [1676] = "Кровавые катакомбы",
 [1677] = "Та Сторона",
 [1678] = "Та Сторона",
 [1679] = "Та Сторона",
-[2335] = "Искроварня",
+[1680] = "Та Сторона",
 [1681] = "Цитадель Ледяной Короны",
-[1682] = "Цитадель Ледяной Короны",
-[2341] = "Каменный Свод",
-[1684] = "Театр Боли",
+[2339] = "Дорногал",
+[1683] = "Театр Боли",
+[2343] = "Город Нитей",
 [2345] = "Золотоносная падь",
 [1686] = "Театр Боли",
 [1687] = "Театр Боли",
 [1688] = "Ревендрет",
 [1689] = "Малдраксус",
 [1690] = "Кельи претендентов",
-[2357] = "Город Отголосков",
+[1691] = "Опустошенная роща",
 [1692] = "Шпили Перерождения",
 [1693] = "Шпили Перерождения",
-[2363] = "Глубины Черной горы",
+[1694] = "Шпили Перерождения",
 [1695] = "Шпили Перерождения",
 [2367] = "Хранилище воспоминаний",
-[2369] = "Остров Сирен",
+[1697] = "Чумные каскады",
 [1698] = "Престол Примаса",
 [1699] = "Грехопад",
-[1700] = "Грехопад",
+[2375] = "Забытое хранилище",
 [1701] = "Сердце леса",
 [1702] = "Сердце леса",
 [1703] = "Сердце леса",
-[1716] = "Torghast - Map Floor 22",
+[2383] = "Ни'алота, Пробуждающийся Город",
 [1705] = "Торгаст – вход",
 [2387] = "Операция: шлюз",
 [1707] = "Элизийская цитадель",
 [1708] = "Элизийская цитадель",
-[1709] = "Арденвельд",
-[980] = "Тол Дагор",
-[1711] = "Колизей Перерождения",
+[2393] = "Луносвет",
+[2395] = "Леса Вечной Песни",
+[2397] = "Зубец убийцы",
 [1712] = "Торгаст",
-[1713] = "Путь Мудрости",
+[2401] = "Район Альянса",
 [1714] = "Третий зал Каллиопы",
-[1715] = "Преддверие Вечности",
+[2405] = "Буря Бездны",
 [2407] = "Нижняя Шахта",
-[2409] = "Нижняя Шахта",
+[1717] = "Стылый рубеж",
 [2411] = "Нижняя Шахта",
-[1724] = "\"Вихрексис\"",
+[2413] = "Харандар",
 [1720] = "Covenant_Ard_Torghast",
 [1721] = "Торгаст",
-[1728] = "Резчик Рун",
+[1800] = "Торгаст",
 [2421] = "Переулочный шлюз",
 [2423] = "Переулочный шлюз",
 [2425] = "Купол Крушителей",
 [1726] = "Северное море",
 [1727] = "Северное море",
 [2431] = "Мини-карта_ГулкиеГлубины_Артерия",
-[2085] = "Будущее воинов стихий",
-[1717] = "Стылый рубеж",
-[2059] = "Пики Отголосков",
-[1694] = "Шпили Перерождения",
-[2203] = "Азескорб",
-[1734] = "Ревендрет",
+[2433] = "Закоулок душегубов",
+[2435] = "Темный дождь",
+[2437] = "Зул'Аман",
+[1802] = "Торгаст",
+[2581] = "Нора Бездны",
+[2443] = "Луносвет",
 [1735] = "Замок Нафрия",
-[1736] = "Торгаст",
-[2089] = "Темная Империя",
+[2447] = "Коварный Купол",
+[2449] = "Заповедник \"Аль'дани\"",
 [1738] = "Ревендрет",
 [1739] = "Арденвельд",
-[1740] = "Арденвельд",
+[2455] = "Штурм архивов",
 [1741] = "Малдраксус",
 [1742] = "Ревендрет",
-[2123] = "Хранилище Воплощений",
+[2461] = "Манагорн Омега",
 [1744] = "Замок Нафрия",
-[1745] = "Замок Нафрия",
-[1746] = "Замок Нафрия",
-[1747] = "Замок Нафрия",
-[1748] = "Замок Нафрия",
+[2465] = "Манагорн Омега",
+[2467] = "Манагорн Омега",
+[2469] = "Манагорн Омега",
+[2471] = "Манагорн Омега",
 [1749] = "Торгаст",
 [1750] = "Замок Нафрия",
-[1751] = "Торгаст",
-[1752] = "Торгаст",
-[1753] = "Торгаст",
+[2477] = "Пещера Шрама Бездны",
+[2479] = "Буря Бездны",
+[2481] = "Восточные королевства",
 [1754] = "Торгаст",
 [1755] = "Замок Нафрия",
 [1756] = "Торгаст",
 [1757] = "Торгаст",
 [1758] = "Торгаст",
-[1759] = "Торгаст",
+[2493] = "Шпили Ветрокрылых",
 [1760] = "Торгаст",
-[1761] = "Торгаст",
-[1762] = "Торгаст, Башня Проклятых",
-[1763] = "Торгаст",
-[1764] = "Торгаст",
-[1765] = "Торгаст",
-[1766] = "Торгаст",
+[2497] = "Шпили Ветрокрылых",
+[2499] = "Шпили Ветрокрылых",
+[2501] = "Пещеры Маисара",
+[2503] = "Сумеречные склепы",
+[2505] = "Залив воспоминаний",
+[2507] = "Пик мучений",
 [1767] = "Торгаст",
-[1768] = "Торгаст",
-[1769] = "Торгаст",
-[1770] = "Торгаст",
-[1771] = "Торгаст",
-[1772] = "Торгаст",
+[2511] = "Терраса Магистров",
+[2513] = "Берлога Налоракка",
+[2515] = "Терраса Магистров",
+[2517] = "Терраса Магистров",
+[2519] = "Терраса Магистров",
 [1773] = "Торгаст",
-[1774] = "Торгаст",
-[2051] = "Гробница Предвечных",
-[1776] = "Торгаст",
-[1777] = "Торгаст",
-[1778] = "Торгаст",
-[1779] = "Торгаст",
-[1780] = "Торгаст",
-[1781] = "Торгаст",
+[2523] = "Изобильный грот",
+[2525] = "Катакомбы тьмы",
+[2527] = "Берлога Предаксаса",
+[2529] = "Шпиль Бездны",
+[2531] = "Провал снов",
+[2533] = "Марш на Кель'Данас",
+[2535] = "Атал'Аман",
+[2537] = "Кель'Талас",
 [1782] = "Торгаст",
-[1783] = "Торгаст",
+[2541] = "Тайная таверна",
 [1784] = "Торгаст",
-[1785] = "Торгаст",
-[1786] = "Торгаст",
+[2545] = "Площадь Паргелия",
+[2547] = "Общая Беда",
 [1787] = "Торгаст",
 [1788] = "Торгаст",
 [1789] = "Торгаст",
-[2097] = "Академия Алгет'ар",
-[1791] = "Торгаст",
+[2583] = "Вит'Каларский склеп",
+[2557] = "Брошенный корабль Легиона",
 [1792] = "Торгаст",
-[1793] = "Торгаст",
+[2561] = "Кель'Талас",
 [1794] = "Торгаст",
-[1795] = "Торгаст",
-[1796] = "Торгаст",
-[1797] = "Торгаст",
-[1798] = "Торгаст",
-[1799] = "Торгаст",
-[1800] = "Торгаст",
-[1801] = "Торгаст",
-[1802] = "Торгаст",
+[2565] = "Остров Кель'Данас",
+[2567] = "Леса Вечной Песни",
+[2569] = "Остров Кель'Данас",
+[2571] = "Святилище Солнцеубийцы",
+[2573] = "Арена Шрама Бездны",
+[2575] = "Залив воспоминаний",
+[2577] = "Общая Беда",
+[2579] = "Ватха'нанские склепы",
 [1803] = "Торгаст",
 [1804] = "Торгаст",
 [1805] = "Торгаст",
@@ -40036,9 +44341,9 @@ nil,
 [1812] = "Торгаст",
 [1813] = "Бастион",
 [1814] = "Малдраксус",
-[2075] = "Лазурное хранилище",
+[1672] = "Орибос",
 [1816] = "Урочище Когтя",
-[2093] = "Наступление клана Нокхуд",
+[2083] = "Чертоги Насыщения",
 [1818] = "Тирна Ваал",
 [1819] = "Центр мицелия",
 [1820] = "Яма Страданий",
@@ -40049,11 +44354,11 @@ nil,
 [1825] = "\"Погребок в корнях\"",
 [1826] = "\"Погребок в корнях\"",
 [1827] = "\"Погребок в корнях\"",
-[1648] = "Утроба",
+[2057] = "Драконьи острова",
 [1829] = "",
-[2071] = "Ульдаман: наследие Тира",
-[2080] = "Нелтарий",
-[2074] = "Лазурное хранилище",
+[2061] = "Гробница Предвечных",
+[2066] = "Двор Катализатора",
+[2055] = "Гробница Предвечных",
 [1833] = "Торгаст",
 [1834] = "Torghast - Map Floor 24",
 [1835] = "Torghast - Map Floor 25",
@@ -40087,7 +44392,7 @@ nil,
 [1863] = "Torghast - Map Floor 61",
 [1864] = "Torghast - Map Floor 63",
 [1865] = "Torghast - Map Floor 64",
-[2175] = "Пещера Заралек",
+[1801] = "Торгаст",
 [1867] = "Torghast - Map Floor 66",
 [1868] = "Torghast - Map Floor 67",
 [1869] = "Torghast - Map Floor 68",
@@ -40127,7 +44432,7 @@ nil,
 [1903] = "Torghast - Map Floor 85",
 [1904] = "Torghast - Map Floor 90",
 [1905] = "Torghast - Map Floor 96",
-[2073] = "Лазурное хранилище",
+[2451] = "Нагорье Арати",
 [1907] = "Torghast - Map Floor 102",
 [1908] = "Torghast - Map Floor 60",
 [1909] = "Torghast - Map Floor 21",
@@ -40136,48 +44441,48 @@ nil,
 [1912] = "Темница Резчика Рун",
 [1913] = "Торгаст",
 [1914] = "Торгаст",
-[1664] = "Чертоги Покаяния",
-[2076] = "Лазурное хранилище",
+[1711] = "Колизей Перерождения",
+[1709] = "Арденвельд",
 [1917] = "Та Сторона",
-[1666] = "Смертельная тризна",
-[2057] = "Драконьи острова",
+[2373] = "Колыбель воинов",
+[2371] = "К'ареш",
 [1920] = "Торгаст",
 [1921] = "Торгаст",
 [1922] = "Дренор",
 [1923] = "Пандария",
-[2061] = "Гробница Предвечных",
-[2066] = "Двор Катализатора",
-[2055] = "Гробница Предвечных",
-[2101] = "Колыбель целителей",
-[1672] = "Орибос",
-[2063] = "Драконьи острова",
-[1680] = "Та Сторона",
-[2095] = "Рубиновые Омуты Жизни",
-[1683] = "Театр Боли",
-[2083] = "Чертоги Насыщения",
-[1685] = "Театр Боли",
-[2082] = "Чертоги Насыщения",
-[2070] = "Тирисфальские леса",
-[2135] = "Вальдраккен",
-[1691] = "Опустошенная роща",
-[2072] = "Ульдаман: наследие Тира",
-[2091] = "Война Зыбучих Песков",
+[2313] = "Сплетенная Спираль",
+[1668] = "Смертельная тризна",
+[1665] = "Чертоги Покаяния",
+[2301] = "Воронка",
+[1659] = "Alpha_TG_R03",
+[2291] = "Неруб'арский дворец",
+[1650] = "Слепая цитадель",
+[1649] = "Хранилище эфира",
+[2269] = "Шахты Землескребов",
+[1642] = "Валь'шара",
+[1632] = "Торгаст",
+[2237] = "Южные ветви",
+[1630] = "Торгаст",
+[1629] = "Торгаст",
+[1628] = "Торгаст",
+[1623] = "Торгаст",
+[1620] = "Торгаст",
 [971] = "Телогрус",
-[2205] = "Ульдерот",
+[1616] = "TG11_Floor [Deprecated]",
 [972] = "Телогрус",
-[2129] = "Равнины Он'ары",
+[1611] = "Dark Citadel",
 [973] = "Солнечный Колодец",
-[2197] = "Поле бесконечной битвы",
+[2183] = "Лазурное хранилище",
 [974] = "Тол Дагор",
-[2195] = "Слияние Бесконечности",
+[1596] = "Ни'алота",
 [975] = "Тол Дагор",
-[2127] = "Берега Пробуждения",
-[976] = "Тол Дагор",
-[2081] = "Нелтарий",
-[977] = "Тол Дагор",
 [2133] = "Пещера Заралек",
+[976] = "Тол Дагор",
+[1576] = "Каньон Суровых Ветров",
+[977] = "Тол Дагор",
+[1563] = "Испытание крестоносца",
 [978] = "Тол Дагор",
-[1595] = "Ни'алота",
+[2093] = "Наступление клана Нокхуд",
 [979] = "Тол Дагор",
 [1958] = "Огненные Просторы",
 [1959] = "Огненные Просторы",
@@ -40193,7 +44498,7 @@ nil,
 [1969] = "Торгаст",
 [1970] = "Зерет Мортис",
 [986] = "Калимдор",
-[2315] = "Гнездовье",
+[2076] = "Лазурное хранилище",
 [987] = "Запределье",
 [1974] = "Торгаст",
 [988] = "Нордскол",
@@ -40215,7 +44520,7 @@ nil,
 [1991] = "Тайный рынок Тазавеш",
 [1992] = "Тайный рынок Тазавеш",
 [1993] = "Тайный рынок Тазавеш",
-[1641] = "Торгаст",
+[2494] = "Шпили Ветрокрылых",
 [1995] = "Тайный рынок Тазавеш",
 [1996] = "Тайный рынок Тазавеш",
 [1997] = "Тайный рынок Тазавеш",
@@ -40234,14 +44539,14 @@ nil,
 [2010] = "Торгаст",
 [2011] = "Торгаст",
 [2012] = "Торгаст",
-[2318] = "Гнездовье",
-[2298] = "Неруб'арский дворец",
-[2358] = "Город Отголосков",
+[1260] = "Красногорье",
+[2516] = "Терраса Магистров",
+[2514] = "Берлога Налоракка",
 [2016] = "Тайный рынок Тазавеш",
 [2017] = "Шпили Перерождения",
 [2018] = "Шпили Перерождения",
 [2019] = "Торгаст",
-[2300] = "Воронка",
+[2492] = "Шпили Ветрокрылых",
 [1011] = "Зандалар",
 [2022] = "Берега Пробуждения",
 [2023] = "Равнины Он'ары",
@@ -40253,14 +44558,14 @@ nil,
 [2029] = "Приют Отягощенных",
 [2030] = "Нексус Воплощения",
 [2031] = "Склепы Вечных",
-[2322] = "Зал Пробуждения",
+[1177] = "\"Дыхание Па'ку\"",
 [1017] = "Усадьба Уэйкрестов",
-[2346] = "Нижняя Шахта",
+[2320] = "Гнездовье",
 [1018] = "Усадьба Уэйкрестов",
-[2388] = "Операция: шлюз",
-[2304] = "Расселина Темного Пламени",
+[1153] = "Ульдир",
+[2070] = "Тирисфальские леса",
 },
-["lastRevision"] = 742,
+["lastRevision"] = 751,
 ["feedText"] = "FEED_NORMAL",
 ["accountWideStatistics"] = {
 ["Player-1625-0351E6A0"] = {
@@ -40304,15 +44609,15 @@ nil,
 [13593] = 0,
 [13594] = 0,
 [9279] = 0,
-[13600] = 0,
-[14107] = 0,
 [14108] = 0,
+[14107] = 0,
+[13600] = 0,
 [13601] = 0,
 [13602] = 0,
 [13603] = 0,
 [14110] = 0,
 [14109] = 0,
-[13366] = 0,
+[14128] = 0,
 [8169] = 0,
 [11957] = 0,
 [8170] = 0,
@@ -40326,14 +44631,14 @@ nil,
 [13617] = 0,
 [13364] = 0,
 [13365] = 0,
-[14128] = 0,
+[13366] = 0,
 [14129] = 0,
 [14130] = 0,
 [14127] = 0,
 [13619] = 0,
 [8178] = 0,
 [13372] = 0,
-[13373] = 0,
+[8179] = 0,
 [13374] = 0,
 [8180] = 0,
 [13618] = 0,
@@ -40344,7 +44649,7 @@ nil,
 [8182] = 0,
 [11958] = 0,
 [11986] = 0,
-[8179] = 0,
+[13373] = 0,
 [10226] = 0,
 [10228] = 0,
 [12752] = 0,
@@ -40447,12 +44752,12 @@ nil,
 [13364] = 0,
 [8626] = 0,
 [14107] = 0,
-[14108] = 0,
 [8627] = 0,
+[14108] = 0,
 [14109] = 0,
 [8628] = 0,
-[14110] = 0,
 [8629] = 0,
+[14110] = 0,
 [8178] = 0,
 [8630] = 0,
 [6162] = 0,
@@ -40477,6 +44782,51 @@ nil,
 [13372] = 0,
 },
 ["server"] = "Durotan",
+},
+["Player-1602-0FC65CD5"] = {
+["playerName"] = "Миттенс",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[40296] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[40295] = 0,
+[8631] = 0,
+[13616] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[19386] = 0,
+[8571] = 0,
+[13366] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[8567] = 0,
+[41663] = 0,
+[40722] = 0,
+[8179] = 0,
+[13364] = 0,
+[41661] = 0,
+[13617] = 0,
+},
+["server"] = "Гордунни",
 },
 ["Player-1625-03627EE0"] = {
 ["playerName"] = "Эрника",
@@ -40519,15 +44869,15 @@ nil,
 [13593] = 0,
 [13594] = 0,
 [9279] = 0,
-[14108] = 0,
-[14107] = 0,
 [13600] = 0,
+[14107] = 0,
+[14108] = 0,
 [13601] = 0,
-[14110] = 0,
+[13602] = 0,
 [13603] = 0,
 [14109] = 0,
 [8567] = 0,
-[14128] = 0,
+[13366] = 0,
 [8169] = 0,
 [11957] = 0,
 [8170] = 0,
@@ -40541,14 +44891,14 @@ nil,
 [13617] = 0,
 [13364] = 0,
 [13365] = 0,
-[13366] = 0,
+[14128] = 0,
 [14129] = 0,
 [14130] = 0,
 [14127] = 0,
 [13619] = 0,
 [8178] = 0,
 [13372] = 0,
-[8179] = 0,
+[13373] = 0,
 [13374] = 0,
 [8180] = 0,
 [13618] = 0,
@@ -40559,12 +44909,12 @@ nil,
 [8182] = 0,
 [11958] = 0,
 [11986] = 0,
-[13373] = 0,
+[8179] = 0,
 [10226] = 0,
 [10228] = 0,
 [12752] = 0,
 [12118] = 0,
-[13602] = 0,
+[14110] = 0,
 },
 ["server"] = "Борейская тундра",
 },
@@ -40632,14 +44982,14 @@ nil,
 [13365] = 0,
 [8181] = 0,
 [10228] = 0,
-[8182] = 0,
+[13379] = 0,
 [12745] = 0,
 [10226] = 0,
 [11958] = 0,
 [11986] = 0,
 [10980] = 0,
 [13373] = 0,
-[13379] = 0,
+[8182] = 0,
 [12752] = 0,
 [12118] = 0,
 [14128] = 0,
@@ -40677,10 +45027,10 @@ nil,
 [8627] = 0,
 [8628] = 0,
 [8629] = 0,
-[8630] = 0,
 [8567] = 0,
-[8631] = 0,
+[8630] = 0,
 [8568] = 0,
+[8631] = 0,
 [10979] = 0,
 [8569] = 0,
 [11986] = 0,
@@ -40718,27 +45068,27 @@ nil,
 [9279] = 0,
 [41327] = 0,
 [41329] = 0,
-[8567] = 0,
 [13617] = 0,
+[41313] = 0,
 [13364] = 0,
 [13379] = 0,
-[41313] = 0,
+[13374] = 0,
 [15144] = 0,
 [19386] = 0,
 [15145] = 0,
-[40722] = 0,
 [15146] = 0,
+[14138] = 0,
 [8626] = 0,
 [15147] = 0,
 [8627] = 0,
-[13374] = 0,
+[8567] = 0,
 [8628] = 0,
-[12763] = 0,
-[40296] = 0,
+[8178] = 0,
+[8629] = 0,
 [40298] = 0,
 [8630] = 0,
-[8178] = 0,
-[8631] = 0,
+[12763] = 0,
+[41312] = 0,
 [41314] = 0,
 [8569] = 0,
 [8568] = 0,
@@ -40750,13 +45100,349 @@ nil,
 [41330] = 0,
 [8573] = 0,
 [6162] = 0,
-[41312] = 0,
+[8631] = 0,
 [20484] = 0,
+[40296] = 0,
+[8179] = 0,
+[13616] = 0,
+[40722] = 0,
+[40295] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0FBEFB05"] = {
+["playerName"] = "Элсин",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[13617] = 0,
+[40296] = 0,
+[40298] = 0,
+[8630] = 0,
+[40295] = 0,
+[8631] = 0,
+[13364] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[40722] = 0,
+[8571] = 0,
+[41663] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[8567] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
 [8629] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1099-0A4E9E8A"] = {
+["playerName"] = "Estrea",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[13617] = 0,
+[11986] = 0,
+[15168] = 0,
+[13373] = 0,
+[15169] = 0,
+[9279] = 0,
+[15170] = 0,
+[13372] = 0,
+[15171] = 0,
+[13616] = 0,
+[15172] = 0,
+[10980] = 0,
+[6989] = 1,
+[12118] = 0,
+[8152] = 0,
+[13379] = 0,
+[6990] = 0,
+[15144] = 0,
+[10979] = 0,
+[15145] = 0,
+[11959] = 0,
+[14138] = 0,
+[8626] = 0,
+[15147] = 0,
+[8627] = 0,
+[14455] = 0,
+[8628] = 0,
+[8178] = 0,
+[8629] = 0,
+[8567] = 0,
+[8630] = 0,
+[14458] = 0,
+[8568] = 0,
+[11958] = 0,
+[8569] = 0,
+[6162] = 0,
+[8570] = 0,
+[8631] = 0,
+[8571] = 0,
+[6161] = 0,
+[11957] = 0,
+[8146] = 0,
+[8573] = 0,
+[12763] = 0,
+[15146] = 0,
+[8147] = 2,
+[13366] = 0,
+[8179] = 0,
+[13364] = 0,
+[13374] = 0,
+[10978] = 0,
+},
+["server"] = "Alleria",
+},
+["Player-1602-0FCF9D71"] = {
+["playerName"] = "Энастари",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[19386] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[8568] = 0,
+[8569] = 0,
+[8567] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[13364] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[8631] = 0,
+[13366] = 0,
+[40722] = 0,
 [8179] = 0,
 [13616] = 0,
 [40295] = 0,
-[14138] = 0,
+[40296] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0EEA86DF"] = {
+["playerName"] = "Алтэри",
+["statistics"] = {
+[15168] = 0,
+[10978] = 4,
+[10979] = 7,
+[10980] = 28,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 1,
+[12763] = 13,
+[8573] = 0,
+[6161] = 1,
+[6162] = 1,
+[6989] = 1,
+[6990] = 0,
+[40297] = 0,
+[1097] = 16,
+[41329] = 0,
+[40722] = 0,
+[16097] = 0,
+[41663] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 1,
+[8149] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 2,
+[8626] = 1,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 1,
+[8631] = 0,
+[41664] = 0,
+[19386] = 0,
+[12118] = 5,
+[15176] = 3,
+[15172] = 0,
+[9279] = 5,
+[15171] = 0,
+[40295] = 0,
+[8150] = 0,
+[15170] = 0,
+[20484] = 1,
+[41327] = 0,
+[41312] = 0,
+[13619] = 0,
+[13379] = 2,
+[15147] = 10,
+[11957] = 1,
+[11958] = 0,
+[11959] = 0,
+[40296] = 0,
+[14138] = 3,
+[15153] = 0,
+[15152] = 0,
+[13373] = 3,
+[13616] = 0,
+[13617] = 0,
+[13618] = 1,
+[13365] = 2,
+[13366] = 3,
+[15145] = 2,
+[15146] = 4,
+[41661] = 3,
+[15144] = 1,
+[8178] = 0,
+[13372] = 3,
+[8179] = 0,
+[13374] = 3,
+[8180] = 2,
+[15154] = 0,
+[8181] = 0,
+[13364] = 2,
+[8182] = 0,
+[15155] = 0,
+[41328] = 0,
+[15169] = 0,
+[11986] = 0,
+[41311] = 0,
+[8567] = 0,
+[41313] = 0,
+[41314] = 0,
+[14404] = 6,
+[41662] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0FC36A68"] = {
+["playerName"] = "Терцета",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[40296] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[40295] = 0,
+[8631] = 0,
+[13616] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[19386] = 0,
+[8571] = 0,
+[13366] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[8567] = 0,
+[41663] = 0,
+[40722] = 0,
+[8179] = 0,
+[13364] = 0,
+[41661] = 0,
+[13617] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0FC9AAAB"] = {
+["playerName"] = "Элантаис",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8567] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[8631] = 0,
+[8568] = 0,
+[13364] = 0,
+[8569] = 0,
+[40722] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[40295] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[41663] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[40296] = 0,
 },
 ["server"] = "Гордунни",
 },
@@ -40783,6 +45469,7 @@ nil,
 [40722] = 0,
 [9365] = 45,
 [16097] = 0,
+[41663] = 0,
 [8146] = 2,
 [8147] = 3,
 [14455] = 0,
@@ -40799,55 +45486,58 @@ nil,
 [8630] = 2,
 [8631] = 0,
 [41314] = 0,
+[41664] = 0,
 [12118] = 1,
 [41313] = 0,
-[9279] = 9,
-[40295] = 0,
-[41311] = 0,
 [19386] = 0,
 [15176] = 0,
-[15169] = 0,
-[41327] = 0,
-[20484] = 0,
+[9279] = 9,
+[41311] = 0,
+[40295] = 0,
+[15172] = 0,
 [8181] = 0,
-[13618] = 0,
+[41312] = 0,
+[41327] = 0,
+[13364] = 1,
 [8182] = 0,
+[15143] = 0,
+[15155] = 0,
 [11957] = 0,
 [11958] = 0,
 [11959] = 0,
-[13619] = 0,
-[40296] = 0,
 [14138] = 0,
 [8180] = 3,
 [15152] = 0,
+[13373] = 0,
+[15147] = 0,
 [13616] = 0,
 [13617] = 0,
-[13364] = 1,
-[13365] = 0,
+[13618] = 0,
+[13619] = 0,
 [15144] = 0,
 [15145] = 0,
 [15146] = 0,
-[15147] = 0,
-[13373] = 0,
+[41661] = 0,
+[13366] = 0,
 [8178] = 1,
 [13372] = 1,
 [8179] = 0,
 [13374] = 0,
 [15153] = 0,
 [15154] = 0,
-[15155] = 0,
-[13366] = 0,
+[40296] = 0,
+[13365] = 0,
 [13379] = 1,
-[15143] = 0,
+[20484] = 0,
 [41328] = 0,
-[41312] = 0,
+[15169] = 0,
 [11986] = 0,
-[15172] = 0,
 [8150] = 0,
 [15171] = 0,
 [15170] = 0,
-[14404] = 0,
 [8567] = 3,
+[14404] = 0,
+[41662] = 0,
 },
 ["server"] = "Борейская тундра",
 },
@@ -40888,9 +45578,9 @@ nil,
 [8568] = 0,
 [10980] = 0,
 [8569] = 0,
-[6162] = 0,
-[8570] = 0,
 [8178] = 0,
+[8570] = 0,
+[6162] = 0,
 [8571] = 0,
 [6161] = 0,
 [13366] = 0,
@@ -40953,16 +45643,16 @@ nil,
 [15171] = 0,
 [15172] = 0,
 [15170] = 0,
-[41311] = 0,
 [14107] = 0,
+[41311] = 0,
 [13591] = 0,
 [13592] = 0,
 [13593] = 0,
 [13594] = 0,
-[11957] = 3,
+[20484] = 0,
 [8182] = 0,
 [9279] = 0,
-[13365] = 0,
+[14127] = 0,
 [40295] = 0,
 [14108] = 0,
 [14109] = 0,
@@ -40972,35 +45662,35 @@ nil,
 [14138] = 0,
 [15153] = 0,
 [15152] = 0,
-[20484] = 0,
+[11957] = 3,
 [11958] = 3,
 [11959] = 3,
 [13373] = 0,
 [13364] = 0,
-[14127] = 0,
-[14129] = 0,
+[13365] = 0,
+[15145] = 0,
 [15146] = 0,
 [13616] = 0,
 [13617] = 0,
 [13618] = 0,
 [13619] = 0,
-[13366] = 0,
-[15145] = 0,
+[14128] = 0,
+[14129] = 0,
 [14130] = 0,
 [15147] = 0,
-[14128] = 0,
+[15144] = 0,
 [8178] = 0,
 [13372] = 0,
 [8179] = 0,
 [13374] = 0,
 [8180] = 0,
 [15154] = 0,
-[15155] = 0,
-[15144] = 0,
-[13379] = 0,
 [41312] = 0,
-[41328] = 0,
+[13366] = 0,
+[13379] = 0,
 [8181] = 0,
+[41328] = 0,
+[15155] = 0,
 [11986] = 2,
 [41329] = 0,
 [19386] = 0,
@@ -41044,16 +45734,16 @@ nil,
 [13374] = 0,
 [14128] = 0,
 [10979] = 0,
-[14108] = 0,
-[14107] = 0,
-[8178] = 0,
 [8627] = 0,
+[8626] = 0,
+[8178] = 0,
+[14108] = 0,
 [11986] = 0,
 [8628] = 0,
 [14109] = 0,
 [8629] = 0,
 [6162] = 0,
-[8567] = 0,
+[8630] = 0,
 [8631] = 0,
 [8568] = 0,
 [13366] = 0,
@@ -41063,11 +45753,11 @@ nil,
 [9365] = 0,
 [8571] = 0,
 [6161] = 0,
-[8630] = 0,
+[8567] = 0,
 [8146] = 0,
 [8573] = 0,
 [12763] = 0,
-[8626] = 0,
+[14107] = 0,
 [8147] = 0,
 [10978] = 0,
 [8179] = 0,
@@ -41088,10 +45778,10 @@ nil,
 [8569] = 1,
 [8570] = 0,
 [8571] = 1,
-[12763] = 6,
+[12763] = 7,
 [8573] = 0,
-[6161] = 1,
-[6162] = 2,
+[6161] = 2,
+[6162] = 3,
 [6989] = 0,
 [6990] = 1,
 [40297] = 0,
@@ -41100,6 +45790,7 @@ nil,
 [40722] = 0,
 [9365] = 0,
 [16097] = 29,
+[41663] = 0,
 [8146] = 0,
 [8147] = 0,
 [14455] = 1,
@@ -41115,56 +45806,2971 @@ nil,
 [8629] = 0,
 [8630] = 1,
 [8631] = 0,
-[19386] = 0,
+[41662] = 0,
+[41664] = 0,
 [14404] = 46,
+[19386] = 0,
 [10980] = 29,
-[9279] = 0,
 [15171] = 12,
-[40295] = 0,
+[9279] = 0,
 [15169] = 0,
+[41311] = 2,
 [10979] = 2,
 [8150] = 0,
+[40296] = 0,
 [41327] = 0,
-[8181] = 0,
-[11957] = 5,
-[13364] = 11,
+[15155] = 1,
 [8182] = 0,
-[20484] = 0,
+[13618] = 0,
+[41312] = 0,
+[11957] = 5,
 [11958] = 5,
 [11959] = 14,
-[13619] = 0,
-[41312] = 0,
 [15154] = 8,
 [8180] = 0,
-[13374] = 6,
+[13374] = 7,
+[8179] = 0,
+[41661] = 3,
 [13616] = 1,
 [13617] = 0,
-[13618] = 0,
-[13365] = 5,
-[13366] = 6,
-[15145] = 5,
-[15146] = 9,
-[15147] = 21,
-[8179] = 0,
+[13364] = 12,
+[13365] = 6,
+[15144] = 1,
+[15145] = 7,
+[15146] = 10,
+[15147] = 22,
+[13619] = 0,
 [8178] = 0,
-[13372] = 11,
-[13373] = 5,
+[13372] = 12,
+[13373] = 6,
 [15152] = 0,
 [15153] = 4,
-[14138] = 1,
-[40296] = 0,
-[15144] = 0,
-[13379] = 6,
-[15155] = 1,
+[14138] = 2,
+[8181] = 0,
+[13366] = 7,
+[13379] = 7,
+[20484] = 0,
 [41328] = 0,
 [14398] = 8,
 [11986] = 17,
+[40295] = 0,
 [15172] = 0,
 [15176] = 4,
-[41311] = 0,
 [41313] = 0,
 [12118] = 0,
 [41314] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0FCA7D7C"] = {
+["playerName"] = "Эраминта",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8630] = 0,
+[40296] = 0,
+[40298] = 0,
+[8567] = 0,
+[8631] = 0,
+[8568] = 0,
+[13364] = 0,
+[8569] = 0,
+[40722] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[40295] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[41663] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[8629] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-4606-00489D48"] = {
+["playerName"] = "Estrea",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[11986] = 0,
+[15168] = 0,
+[13373] = 0,
+[9279] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[10978] = 0,
+[6989] = 0,
+[12118] = 0,
+[10980] = 0,
+[13379] = 0,
+[6990] = 0,
+[15144] = 0,
+[13616] = 0,
+[15145] = 0,
+[8152] = 0,
+[14138] = 0,
+[8626] = 0,
+[15147] = 0,
+[8627] = 0,
+[14455] = 0,
+[8628] = 0,
+[15146] = 0,
+[8629] = 0,
+[8630] = 0,
+[8567] = 0,
+[14458] = 0,
+[8568] = 0,
+[13372] = 0,
+[8569] = 0,
+[12763] = 0,
+[8570] = 0,
+[6162] = 0,
+[8571] = 0,
+[6161] = 0,
+[13366] = 0,
+[8146] = 0,
+[8573] = 0,
+[8178] = 0,
+[8631] = 0,
+[8147] = 0,
+[13374] = 0,
+[8179] = 0,
+[13364] = 0,
+[10979] = 0,
+[13617] = 0,
+},
+["server"] = "EU Mythic Dungeons",
+},
+["Player-1602-0FCAAEB0"] = {
+["playerName"] = "Алиэрена",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8567] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[8631] = 0,
+[8568] = 0,
+[13364] = 0,
+[8569] = 0,
+[40722] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[40295] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[41663] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[40296] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-535-08E78119"] = {
+["playerName"] = "Delery",
+["statistics"] = {
+[13365] = 0,
+[9365] = 0,
+[13618] = 0,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[11986] = 0,
+[8152] = 0,
+[13373] = 0,
+[9279] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[6989] = 0,
+[12118] = 0,
+[13379] = 0,
+[6990] = 0,
+[8626] = 0,
+[10978] = 0,
+[8627] = 0,
+[13372] = 0,
+[8628] = 0,
+[13616] = 0,
+[8629] = 0,
+[8630] = 0,
+[8567] = 0,
+[10979] = 0,
+[8568] = 0,
+[10980] = 0,
+[8569] = 0,
+[8631] = 0,
+[8570] = 0,
+[12763] = 0,
+[8571] = 0,
+[6161] = 0,
+[13366] = 0,
+[8146] = 0,
+[8573] = 0,
+[6162] = 0,
+[8178] = 0,
+[8147] = 0,
+[8180] = 0,
+[8179] = 0,
+[13364] = 0,
+[13374] = 0,
+[13617] = 0,
+},
+["server"] = "Durotan",
+},
+["Player-1602-0BF4C108"] = {
+["playerName"] = "Ниамэй",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 4,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 1,
+[6990] = 2,
+[40297] = 0,
+[1097] = 0,
+[6167] = 0,
+[6168] = 0,
+[40722] = 0,
+[9365] = 0,
+[16097] = 0,
+[41663] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 1,
+[8149] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 1,
+[15169] = 0,
+[12118] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[41314] = 0,
+[41662] = 0,
+[8150] = 0,
+[41313] = 0,
+[19386] = 0,
+[41329] = 0,
+[41312] = 0,
+[41664] = 0,
+[14107] = 0,
+[8182] = 0,
+[13619] = 0,
+[15155] = 0,
+[9279] = 0,
+[14138] = 9,
+[41311] = 0,
+[14108] = 0,
+[14109] = 2,
+[14110] = 0,
+[41327] = 0,
+[8180] = 1,
+[15152] = 0,
+[13373] = 6,
+[13618] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[13365] = 6,
+[14128] = 0,
+[41661] = 0,
+[14130] = 0,
+[14129] = 2,
+[13616] = 0,
+[13617] = 0,
+[13364] = 6,
+[14127] = 0,
+[15144] = 0,
+[15145] = 0,
+[15146] = 3,
+[15147] = 0,
+[13366] = 5,
+[8178] = 0,
+[13372] = 6,
+[8179] = 0,
+[13374] = 5,
+[15153] = 0,
+[15154] = 0,
+[40296] = 0,
+[20484] = 0,
+[13379] = 1,
+[40295] = 0,
+[41328] = 0,
+[8181] = 0,
+[11986] = 0,
+[15171] = 0,
+[15176] = 0,
+[10980] = 0,
+[15170] = 0,
+[14404] = 7,
+[15172] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1929-0E2E5E1D"] = {
+["playerName"] = "Алтери",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 11,
+[8568] = 4,
+[8569] = 0,
+[8570] = 0,
+[8571] = 1,
+[12763] = 3,
+[8573] = 0,
+[6161] = 1,
+[6162] = 6,
+[6989] = 8,
+[6990] = 8,
+[40297] = 0,
+[1097] = 0,
+[41329] = 0,
+[40722] = 0,
+[9365] = 49,
+[41663] = 0,
+[8146] = 6,
+[8147] = 9,
+[14455] = 0,
+[19386] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 1,
+[8626] = 2,
+[8627] = 0,
+[8628] = 0,
+[8629] = 1,
+[8630] = 1,
+[8631] = 0,
+[41664] = 0,
+[9279] = 6,
+[40295] = 0,
+[41327] = 0,
+[11957] = 3,
+[11958] = 2,
+[11959] = 0,
+[41662] = 0,
+[14404] = 0,
+[10980] = 0,
+[15176] = 0,
+[41661] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[15144] = 0,
+[8178] = 5,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 1,
+[14138] = 0,
+[40296] = 0,
+[13618] = 0,
+[13379] = 0,
+[13373] = 0,
+[41328] = 0,
+[8182] = 0,
+[11986] = 0,
+[8181] = 0,
+[13365] = 0,
+[8149] = 1,
+[8150] = 0,
+[12118] = 5,
+[20484] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1929-0E2E5070"] = {
+["playerName"] = "Дэлери",
+["statistics"] = {
+[13365] = 0,
+[9365] = 53,
+[13618] = 1,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 16,
+[8182] = 0,
+[8151] = 0,
+[11986] = 0,
+[8152] = 2,
+[13373] = 1,
+[9279] = 5,
+[11957] = 1,
+[11958] = 0,
+[11959] = 0,
+[6989] = 1,
+[12118] = 5,
+[13379] = 0,
+[6990] = 0,
+[8180] = 2,
+[13372] = 1,
+[13364] = 0,
+[8626] = 0,
+[13374] = 0,
+[8627] = 0,
+[14455] = 0,
+[8628] = 0,
+[13617] = 0,
+[8629] = 0,
+[8630] = 0,
+[8567] = 0,
+[14458] = 0,
+[8568] = 0,
+[10980] = 21,
+[8569] = 0,
+[8178] = 0,
+[8570] = 0,
+[6162] = 0,
+[8571] = 0,
+[6161] = 0,
+[13366] = 0,
+[8146] = 0,
+[8573] = 0,
+[12763] = 12,
+[8631] = 0,
+[8147] = 0,
+[10979] = 7,
+[8179] = 0,
+[13616] = 0,
+[14404] = 4,
+[10978] = 4,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0F382183"] = {
+["playerName"] = "Эллиата",
+["statistics"] = {
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 1,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[41313] = 0,
+[41329] = 0,
+[40722] = 0,
+[41663] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[19386] = 0,
+[41314] = 0,
+[14458] = 0,
+[41330] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[41664] = 0,
+[9279] = 0,
+[41311] = 0,
+[41327] = 0,
+[20484] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[15176] = 0,
+[40297] = 0,
+[13364] = 0,
+[40296] = 0,
+[8179] = 0,
+[13616] = 0,
+[13617] = 0,
+[13618] = 0,
+[13365] = 0,
+[15144] = 0,
+[15145] = 0,
+[15146] = 0,
+[41661] = 0,
+[8181] = 0,
+[8178] = 0,
+[13372] = 0,
+[13373] = 0,
+[13374] = 0,
+[8180] = 0,
+[14138] = 0,
+[41312] = 0,
+[8182] = 0,
+[13379] = 0,
+[13366] = 0,
+[41328] = 0,
+[40295] = 0,
+[11986] = 0,
+[15147] = 0,
+[13619] = 0,
+[10980] = 0,
+[40298] = 0,
+[12118] = 0,
+[41662] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1929-0E218FE3"] = {
+["playerName"] = "Ниоши",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[40297] = 0,
+[1097] = 0,
+[41329] = 0,
+[40722] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[19386] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[9279] = 0,
+[40295] = 0,
+[41327] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[15144] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[14138] = 0,
+[40296] = 0,
+[13365] = 0,
+[13379] = 0,
+[10980] = 0,
+[41328] = 0,
+[13373] = 0,
+[11986] = 0,
+[8182] = 0,
+[8150] = 0,
+[8181] = 0,
+[13618] = 0,
+[12118] = 0,
+[8149] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0FCA7D84"] = {
+["playerName"] = "Литрэс",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8567] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[8631] = 0,
+[8568] = 0,
+[13364] = 0,
+[8569] = 0,
+[40722] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[40295] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[41663] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[40296] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1625-03A9281A"] = {
+["playerName"] = "Эстрея",
+["statistics"] = {
+[10977] = 0,
+[10978] = 0,
+[10979] = 3,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 14,
+[8573] = 0,
+[10225] = 0,
+[6161] = 1,
+[10227] = 0,
+[6162] = 1,
+[6989] = 3,
+[6990] = 3,
+[1097] = 24,
+[6167] = 1,
+[6168] = 1,
+[10252] = 1,
+[9365] = 33,
+[8146] = 0,
+[8147] = 0,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[13591] = 0,
+[13592] = 0,
+[13593] = 0,
+[13594] = 0,
+[13601] = 0,
+[9279] = 9,
+[14110] = 0,
+[14107] = 0,
+[13600] = 0,
+[14109] = 0,
+[13602] = 0,
+[13603] = 0,
+[10226] = 0,
+[11958] = 1,
+[13365] = 0,
+[8169] = 0,
+[11957] = 0,
+[8170] = 0,
+[11959] = 0,
+[8171] = 0,
+[13612] = 0,
+[8172] = 0,
+[13614] = 0,
+[13615] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 0,
+[14129] = 0,
+[14130] = 0,
+[10228] = 1,
+[13371] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[13373] = 0,
+[8181] = 0,
+[8182] = 0,
+[13379] = 0,
+[12745] = 1,
+[10980] = 0,
+[13613] = 0,
+[11986] = 0,
+[13618] = 0,
+[14128] = 0,
+[14127] = 0,
+[12752] = 1,
+[12118] = 3,
+[14108] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1929-0D66030E"] = {
+["playerName"] = "Эрника",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[11986] = 0,
+[8152] = 0,
+[13373] = 0,
+[9279] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[6989] = 0,
+[12118] = 0,
+[13379] = 0,
+[6990] = 0,
+[8626] = 0,
+[8627] = 0,
+[13617] = 0,
+[8628] = 0,
+[8567] = 0,
+[8629] = 0,
+[13364] = 0,
+[8630] = 0,
+[13374] = 0,
+[8568] = 0,
+[13372] = 0,
+[8569] = 0,
+[8631] = 0,
+[8570] = 0,
+[6162] = 0,
+[8571] = 0,
+[6161] = 0,
+[8178] = 0,
+[8146] = 0,
+[8573] = 0,
+[12763] = 0,
+[13366] = 0,
+[8147] = 0,
+[10979] = 0,
+[8179] = 0,
+[13616] = 0,
+[10980] = 0,
+[10978] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1625-039D009A"] = {
+["playerName"] = "Зонна",
+["statistics"] = {
+[10977] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 3,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 4,
+[12763] = 2,
+[8573] = 0,
+[10225] = 1,
+[6161] = 0,
+[10227] = 0,
+[6162] = 2,
+[6989] = 7,
+[6990] = 2,
+[1097] = 0,
+[6167] = 0,
+[6168] = 1,
+[10252] = 0,
+[9365] = 42,
+[8146] = 2,
+[8147] = 3,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 3,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 2,
+[8631] = 0,
+[10226] = 0,
+[10228] = 0,
+[14108] = 0,
+[13591] = 0,
+[13592] = 0,
+[13593] = 0,
+[13594] = 0,
+[13365] = 0,
+[8172] = 1,
+[9279] = 9,
+[13364] = 0,
+[14107] = 0,
+[13600] = 0,
+[14109] = 0,
+[14110] = 0,
+[13603] = 0,
+[13619] = 0,
+[8178] = 1,
+[8179] = 0,
+[8169] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[8171] = 0,
+[13612] = 0,
+[13613] = 0,
+[13614] = 0,
+[13615] = 0,
+[13616] = 0,
+[13617] = 0,
+[13618] = 0,
+[14127] = 0,
+[13366] = 0,
+[14129] = 0,
+[14130] = 0,
+[14137] = 0,
+[13379] = 1,
+[13371] = 0,
+[13372] = 0,
+[14135] = 0,
+[13374] = 0,
+[8180] = 3,
+[14138] = 0,
+[8181] = 0,
+[13373] = 0,
+[8182] = 0,
+[12745] = 1,
+[14136] = 0,
+[14128] = 0,
+[11986] = 0,
+[8170] = 0,
+[13602] = 0,
+[13601] = 0,
+[12752] = 1,
+[12118] = 1,
+[10980] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0FD0AB80"] = {
+["playerName"] = "Эстэро",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[19386] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[8568] = 0,
+[8569] = 0,
+[8631] = 0,
+[8570] = 0,
+[8567] = 0,
+[8571] = 0,
+[13364] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[40722] = 0,
+[13366] = 0,
+[13617] = 0,
+[8179] = 0,
+[13616] = 0,
+[40295] = 0,
+[40296] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1625-0357DB16"] = {
+["playerName"] = "Алоиза",
+["statistics"] = {
+[10977] = 11,
+[10978] = 11,
+[10979] = 19,
+[8567] = 5,
+[8568] = 12,
+[8569] = 3,
+[8570] = 0,
+[8571] = 3,
+[12763] = 7,
+[8573] = 0,
+[10225] = 4,
+[10226] = 2,
+[10227] = 1,
+[10228] = 4,
+[5972] = 44,
+[5973] = 21,
+[6990] = 53,
+[1097] = 88,
+[6167] = 48,
+[6168] = 16,
+[6157] = 61,
+[6161] = 64,
+[10252] = 6,
+[6158] = 45,
+[9365] = 61,
+[6162] = 43,
+[13592] = 0,
+[5560] = 19,
+[4653] = 3,
+[8146] = 54,
+[10930] = 2,
+[8147] = 40,
+[14110] = 0,
+[13619] = 0,
+[8170] = 4,
+[8149] = 14,
+[13379] = 0,
+[8150] = 3,
+[5567] = 2,
+[8151] = 24,
+[13613] = 0,
+[8620] = 13,
+[8621] = 2,
+[8622] = 0,
+[8623] = 0,
+[8624] = 1,
+[8625] = 0,
+[8626] = 11,
+[8627] = 2,
+[8628] = 1,
+[8629] = 0,
+[8630] = 2,
+[8631] = 0,
+[13614] = 0,
+[5570] = 11,
+[4687] = 5,
+[13373] = 4,
+[13364] = 2,
+[5557] = 3,
+[13591] = 1,
+[5558] = 21,
+[13593] = 0,
+[13594] = 0,
+[10928] = 23,
+[10929] = 1,
+[9279] = 27,
+[10931] = 2,
+[14107] = 0,
+[13600] = 0,
+[13601] = 0,
+[13602] = 0,
+[13603] = 0,
+[8178] = 32,
+[8168] = 23,
+[13365] = 4,
+[8169] = 7,
+[11957] = 6,
+[11958] = 10,
+[11959] = 9,
+[8171] = 23,
+[13612] = 0,
+[8172] = 1,
+[5569] = 3,
+[13615] = 0,
+[13616] = 0,
+[13617] = 0,
+[13618] = 0,
+[14127] = 0,
+[13366] = 0,
+[14129] = 0,
+[14130] = 0,
+[5576] = 13,
+[14128] = 0,
+[13371] = 0,
+[13372] = 1,
+[8179] = 14,
+[13374] = 0,
+[8180] = 3,
+[5577] = 27,
+[8181] = 16,
+[5568] = 11,
+[8182] = 4,
+[12745] = 3,
+[14109] = 0,
+[14108] = 0,
+[11986] = 4,
+[5559] = 4,
+[8152] = 5,
+[10980] = 2,
+[12752] = 22,
+[12118] = 3,
+[6989] = 84,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0FC8D60D"] = {
+["playerName"] = "Катрэта",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[40296] = 0,
+[40298] = 0,
+[8630] = 0,
+[40295] = 0,
+[8631] = 0,
+[13616] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[19386] = 0,
+[8571] = 0,
+[13366] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[8567] = 0,
+[41663] = 0,
+[40722] = 0,
+[8179] = 0,
+[13364] = 0,
+[41661] = 0,
+[13617] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1929-0E21F0D3"] = {
+["playerName"] = "Элави",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[11986] = 0,
+[8152] = 0,
+[13373] = 0,
+[9279] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[6989] = 0,
+[12118] = 0,
+[13379] = 0,
+[6990] = 0,
+[8626] = 0,
+[8627] = 0,
+[10978] = 0,
+[8628] = 0,
+[10980] = 0,
+[8629] = 0,
+[13616] = 0,
+[8630] = 0,
+[13374] = 0,
+[8568] = 0,
+[10979] = 0,
+[8569] = 0,
+[8631] = 0,
+[8570] = 0,
+[13366] = 0,
+[8571] = 0,
+[6161] = 0,
+[12763] = 0,
+[8146] = 0,
+[8573] = 0,
+[8178] = 0,
+[6162] = 0,
+[8147] = 0,
+[13372] = 0,
+[8179] = 0,
+[13364] = 0,
+[8567] = 0,
+[13617] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1929-0E2E5479"] = {
+["playerName"] = "Эстрея",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 3,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[15176] = 0,
+[8573] = 0,
+[6161] = 1,
+[6162] = 1,
+[6989] = 3,
+[6990] = 3,
+[40297] = 0,
+[1097] = 24,
+[41329] = 0,
+[40722] = 0,
+[9365] = 35,
+[16097] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[19386] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[9279] = 9,
+[40295] = 0,
+[41327] = 0,
+[11957] = 0,
+[11958] = 1,
+[11959] = 0,
+[8150] = 0,
+[12118] = 3,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13365] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[13619] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[14138] = 0,
+[40296] = 0,
+[13618] = 0,
+[13379] = 0,
+[8149] = 0,
+[41328] = 0,
+[8182] = 0,
+[11986] = 0,
+[13373] = 0,
+[10980] = 0,
+[8181] = 0,
+[12763] = 14,
+[14404] = 0,
+[15144] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1625-090E929C"] = {
+["playerName"] = "Фламиника",
+["statistics"] = {
+[10977] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 41,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 2,
+[6990] = 0,
+[1097] = 8,
+[6167] = 0,
+[6168] = 0,
+[9365] = 25,
+[8146] = 0,
+[8147] = 1,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 3,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[13591] = 0,
+[13592] = 0,
+[13593] = 0,
+[13594] = 1,
+[9279] = 1,
+[13600] = 1,
+[13601] = 1,
+[13602] = 4,
+[13603] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[13612] = 1,
+[13613] = 0,
+[13614] = 0,
+[13615] = 0,
+[13616] = 0,
+[13617] = 3,
+[13364] = 0,
+[13365] = 0,
+[13366] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 2,
+[8181] = 0,
+[13379] = 0,
+[12745] = 0,
+[11986] = 0,
+[13619] = 0,
+[13618] = 1,
+[8182] = 0,
+[10980] = 0,
+[12118] = 0,
+[13373] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-578-094D6CD0"] = {
+["playerName"] = "Flaminika",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[15170] = 0,
+[10980] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[1097] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[8149] = 0,
+[14458] = 0,
+[8151] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[9279] = 0,
+[15172] = 0,
+[15171] = 0,
+[8150] = 0,
+[13618] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[15140] = 0,
+[13364] = 0,
+[13365] = 0,
+[15144] = 0,
+[8180] = 0,
+[13616] = 0,
+[13617] = 0,
+[15142] = 0,
+[15143] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[8181] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[15152] = 0,
+[15153] = 0,
+[15154] = 0,
+[15155] = 0,
+[8182] = 0,
+[13379] = 0,
+[14138] = 0,
+[13374] = 0,
+[13373] = 0,
+[11986] = 0,
+[15141] = 0,
+[13619] = 0,
+[15169] = 0,
+[10979] = 0,
+[12118] = 0,
+[8567] = 0,
+},
+["server"] = "Durotan",
+},
+["Player-1625-087553EE"] = {
+["playerName"] = "Дэлери",
+["statistics"] = {
+[10977] = 9,
+[10978] = 3,
+[10979] = 4,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 12,
+[8573] = 0,
+[10225] = 0,
+[6161] = 0,
+[10227] = 0,
+[6162] = 0,
+[6989] = 1,
+[6990] = 0,
+[1097] = 16,
+[6167] = 0,
+[6168] = 0,
+[10252] = 10,
+[9365] = 51,
+[8146] = 0,
+[8147] = 0,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 2,
+[8630] = 0,
+[8626] = 0,
+[8627] = 0,
+[14089] = 0,
+[8629] = 0,
+[14091] = 0,
+[8631] = 0,
+[14093] = 0,
+[14094] = 0,
+[10226] = 0,
+[10228] = 7,
+[13602] = 0,
+[11958] = 0,
+[13591] = 0,
+[13592] = 0,
+[13593] = 0,
+[13594] = 0,
+[13613] = 0,
+[13618] = 1,
+[9279] = 5,
+[14127] = 0,
+[14107] = 0,
+[13600] = 1,
+[13601] = 0,
+[14110] = 0,
+[13603] = 0,
+[14128] = 1,
+[8178] = 0,
+[13379] = 0,
+[8169] = 0,
+[11957] = 1,
+[8170] = 0,
+[11959] = 0,
+[8171] = 0,
+[13612] = 0,
+[8172] = 2,
+[13614] = 0,
+[13615] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13365] = 0,
+[13366] = 0,
+[14129] = 2,
+[14130] = 0,
+[14136] = 0,
+[14137] = 0,
+[13371] = 0,
+[13372] = 1,
+[14135] = 0,
+[13374] = 0,
+[8180] = 2,
+[14138] = 0,
+[8181] = 0,
+[13373] = 1,
+[8182] = 0,
+[12745] = 3,
+[8179] = 0,
+[13619] = 0,
+[11986] = 0,
+[14109] = 3,
+[14108] = 0,
+[10980] = 14,
+[12752] = 1,
+[12118] = 5,
+[8628] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-578-094F53FA"] = {
+["playerName"] = "Altery",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[1097] = 0,
+[9365] = 3,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[8149] = 0,
+[14458] = 0,
+[8151] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[9279] = 0,
+[15171] = 0,
+[15170] = 0,
+[15169] = 0,
+[13619] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[13617] = 0,
+[15142] = 0,
+[13365] = 0,
+[15152] = 0,
+[15153] = 0,
+[15140] = 0,
+[15141] = 0,
+[13618] = 0,
+[15143] = 0,
+[15144] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[14138] = 0,
+[8178] = 0,
+[13372] = 0,
+[13373] = 0,
+[13374] = 0,
+[8180] = 0,
+[15154] = 0,
+[15155] = 0,
+[13379] = 0,
+[8182] = 0,
+[8181] = 0,
+[8179] = 0,
+[13366] = 0,
+[11986] = 0,
+[13364] = 0,
+[13616] = 0,
+[10980] = 0,
+[8150] = 0,
+[12118] = 0,
+[15172] = 0,
+},
+["server"] = "Durotan",
+},
+["Player-3391-0AE621A4"] = {
+["playerName"] = "Flaminika",
+["statistics"] = {
+[13365] = 0,
+[9365] = 0,
+[13618] = 0,
+[8149] = 0,
+[13619] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[6167] = 0,
+[11986] = 0,
+[8152] = 0,
+[13373] = 0,
+[6168] = 0,
+[9279] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[6989] = 0,
+[12118] = 0,
+[13379] = 0,
+[6990] = 0,
+[8626] = 0,
+[13617] = 0,
+[8627] = 0,
+[10979] = 0,
+[8628] = 0,
+[13364] = 0,
+[8629] = 0,
+[8567] = 0,
+[8630] = 0,
+[8180] = 0,
+[8568] = 0,
+[13374] = 0,
+[8569] = 0,
+[6162] = 0,
+[8570] = 0,
+[8178] = 0,
+[8571] = 0,
+[6161] = 0,
+[13366] = 0,
+[8146] = 0,
+[8573] = 0,
+[12763] = 0,
+[8631] = 0,
+[8147] = 0,
+[13372] = 0,
+[8179] = 0,
+[13616] = 0,
+[10980] = 0,
+[10978] = 0,
+},
+["server"] = "Silvermoon",
+},
+["Player-1602-0FC9C1FA"] = {
+["playerName"] = "Лиерми",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8630] = 0,
+[40296] = 0,
+[40298] = 0,
+[8567] = 0,
+[8631] = 0,
+[8568] = 0,
+[13364] = 0,
+[8569] = 0,
+[40722] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[40295] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[41663] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[8629] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1929-0D6602DE"] = {
+["playerName"] = "Тиаз",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[13372] = 0,
+[13373] = 0,
+[9279] = 0,
+[40722] = 0,
+[40295] = 0,
+[41327] = 0,
+[41329] = 0,
+[13616] = 0,
+[13374] = 0,
+[6989] = 0,
+[15176] = 0,
+[12763] = 0,
+[13379] = 0,
+[6990] = 0,
+[15144] = 0,
+[19386] = 0,
+[15145] = 0,
+[8629] = 0,
+[14138] = 0,
+[8626] = 0,
+[15147] = 0,
+[8627] = 0,
+[14455] = 0,
+[8628] = 0,
+[6162] = 0,
+[40296] = 0,
+[40298] = 0,
+[8567] = 0,
+[14458] = 0,
+[8568] = 0,
+[16097] = 0,
+[8569] = 0,
+[8631] = 0,
+[8570] = 0,
+[41330] = 0,
+[8571] = 0,
+[6161] = 0,
+[41328] = 0,
+[8146] = 0,
+[8573] = 0,
+[8178] = 0,
+[8630] = 0,
+[8147] = 0,
+[15146] = 0,
+[8179] = 0,
+[13364] = 0,
+[13366] = 0,
+[13617] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0F6D5364"] = {
+["playerName"] = "Алоиза",
+["statistics"] = {
+[13365] = 4,
+[8180] = 3,
+[13618] = 0,
+[13617] = 0,
+[13619] = 0,
+[8181] = 16,
+[13366] = 0,
+[13364] = 2,
+[40295] = 0,
+[8182] = 4,
+[40297] = 0,
+[41313] = 0,
+[8147] = 40,
+[41311] = 0,
+[13372] = 1,
+[13374] = 0,
+[13373] = 4,
+[12763] = 8,
+[9279] = 27,
+[15176] = 0,
+[41330] = 0,
+[41327] = 0,
+[41329] = 0,
+[19386] = 0,
+[15145] = 1,
+[6989] = 84,
+[14138] = 1,
+[41312] = 0,
+[13379] = 0,
+[6990] = 53,
+[15144] = 1,
+[41662] = 0,
+[41664] = 0,
+[8567] = 5,
+[15146] = 0,
+[8626] = 11,
+[15147] = 0,
+[8627] = 2,
+[14455] = 0,
+[8628] = 1,
+[8568] = 12,
+[8629] = 0,
+[40298] = 0,
+[8630] = 2,
+[14458] = 0,
+[8631] = 0,
+[41314] = 0,
+[8569] = 3,
+[16097] = 1,
+[8570] = 0,
+[40296] = 0,
+[8571] = 3,
+[6161] = 64,
+[41328] = 0,
+[8146] = 54,
+[8573] = 0,
+[6162] = 43,
+[8178] = 32,
+[20484] = 0,
+[40722] = 0,
+[8179] = 14,
+[13616] = 0,
+[41661] = 1,
+[41663] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1929-0D66034B"] = {
+["playerName"] = "Нирейя",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[10980] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[40297] = 0,
+[1097] = 0,
+[41329] = 0,
+[40722] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[19386] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[9279] = 0,
+[40295] = 0,
+[41327] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[8567] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[14138] = 0,
+[40296] = 0,
+[13365] = 0,
+[13379] = 0,
+[15144] = 0,
+[41328] = 0,
+[13373] = 0,
+[11986] = 0,
+[8182] = 0,
+[8150] = 0,
+[8181] = 0,
+[13618] = 0,
+[12118] = 0,
+[8149] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0FCA7D82"] = {
+["playerName"] = "Земкатра",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[40296] = 0,
+[8629] = 0,
+[40298] = 0,
+[8630] = 0,
+[40295] = 0,
+[8631] = 0,
+[13616] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[19386] = 0,
+[8571] = 0,
+[13366] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[8567] = 0,
+[41663] = 0,
+[40722] = 0,
+[8179] = 0,
+[13364] = 0,
+[41661] = 0,
+[13617] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1625-08764551"] = {
+["playerName"] = "Элави",
+["statistics"] = {
+[10977] = 0,
+[10978] = 0,
+[10979] = 0,
+[10980] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[10225] = 0,
+[6161] = 0,
+[10227] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[1097] = 0,
+[6167] = 0,
+[6168] = 0,
+[10252] = 0,
+[9365] = 0,
+[8146] = 0,
+[8147] = 0,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[9279] = 0,
+[14107] = 0,
+[14108] = 0,
+[14109] = 0,
+[14110] = 0,
+[8169] = 0,
+[11957] = 0,
+[8170] = 0,
+[11959] = 0,
+[8171] = 0,
+[8172] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 0,
+[14129] = 0,
+[14130] = 0,
+[14128] = 0,
+[14127] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[13365] = 0,
+[8181] = 0,
+[13379] = 0,
+[8182] = 0,
+[12745] = 0,
+[13618] = 0,
+[11958] = 0,
+[11986] = 0,
+[10226] = 0,
+[10228] = 0,
+[13373] = 0,
+[12752] = 0,
+[12118] = 0,
+[8567] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1929-0E2E5712"] = {
+["playerName"] = "Алоиза",
+["statistics"] = {
+[15168] = 0,
+[10978] = 11,
+[10979] = 19,
+[8567] = 5,
+[8568] = 12,
+[8569] = 3,
+[8570] = 0,
+[8571] = 3,
+[12763] = 7,
+[8573] = 0,
+[6161] = 64,
+[6162] = 43,
+[6989] = 84,
+[6990] = 53,
+[1097] = 88,
+[9365] = 62,
+[8146] = 54,
+[8147] = 40,
+[14455] = 0,
+[8149] = 14,
+[14458] = 0,
+[8151] = 24,
+[8152] = 5,
+[8626] = 11,
+[8627] = 2,
+[8628] = 1,
+[8629] = 0,
+[8630] = 2,
+[8631] = 0,
+[9279] = 27,
+[15176] = 0,
+[12118] = 3,
+[15172] = 0,
+[11957] = 6,
+[11958] = 10,
+[11959] = 9,
+[13619] = 0,
+[13364] = 2,
+[15143] = 0,
+[13373] = 4,
+[8180] = 3,
+[13616] = 0,
+[13617] = 0,
+[13618] = 0,
+[13365] = 4,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[15147] = 0,
+[8181] = 16,
+[8178] = 32,
+[13372] = 1,
+[8179] = 14,
+[15152] = 0,
+[15153] = 0,
+[14138] = 0,
+[15155] = 0,
+[13379] = 0,
+[8182] = 4,
+[10980] = 2,
+[15154] = 0,
+[13374] = 0,
+[11986] = 5,
+[15144] = 0,
+[8150] = 3,
+[15169] = 0,
+[15171] = 0,
+[14404] = 0,
+[15170] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0E52ACB3"] = {
+["playerName"] = "Дэлери",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 2,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[40297] = 0,
+[1097] = 0,
+[41329] = 0,
+[40722] = 0,
+[9365] = 0,
+[16097] = 1,
+[41663] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[8149] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[41664] = 0,
+[41662] = 0,
+[14404] = 0,
+[15176] = 0,
+[15170] = 0,
+[9279] = 0,
+[15171] = 0,
+[40295] = 0,
+[10980] = 0,
+[8150] = 0,
+[15169] = 0,
+[41327] = 0,
+[41312] = 0,
+[8181] = 0,
+[13379] = 0,
+[13364] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[40296] = 0,
+[15154] = 0,
+[15153] = 0,
+[15152] = 0,
+[13373] = 0,
+[13616] = 0,
+[13617] = 0,
+[13618] = 0,
+[13619] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 3,
+[41661] = 0,
+[13365] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[14138] = 0,
+[15155] = 0,
+[15147] = 0,
+[8182] = 0,
+[15144] = 0,
+[41328] = 0,
+[20484] = 0,
+[11986] = 0,
+[15172] = 0,
+[41311] = 0,
+[19386] = 0,
+[41313] = 0,
+[12118] = 0,
+[41314] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1625-03966AFB"] = {
+["playerName"] = "Нирейя",
+["statistics"] = {
+[10977] = 0,
+[10978] = 0,
+[10979] = 0,
+[10980] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[10225] = 0,
+[6161] = 0,
+[10227] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[1097] = 0,
+[6167] = 0,
+[6168] = 0,
+[10252] = 0,
+[9365] = 0,
+[8146] = 0,
+[8147] = 0,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[13591] = 0,
+[13592] = 0,
+[13593] = 0,
+[13594] = 0,
+[9279] = 0,
+[8567] = 0,
+[14107] = 0,
+[13600] = 0,
+[13601] = 0,
+[13602] = 0,
+[13603] = 0,
+[14110] = 0,
+[14108] = 0,
+[10228] = 0,
+[8169] = 0,
+[11957] = 0,
+[8170] = 0,
+[11959] = 0,
+[8171] = 0,
+[13612] = 0,
+[8172] = 0,
+[13614] = 0,
+[13615] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13365] = 0,
+[13366] = 0,
+[14129] = 0,
+[14130] = 0,
+[10226] = 0,
+[8179] = 0,
+[8178] = 0,
+[13372] = 0,
+[13373] = 0,
+[13374] = 0,
+[8180] = 0,
+[13618] = 0,
+[8181] = 0,
+[11958] = 0,
+[13379] = 0,
+[12745] = 0,
+[8182] = 0,
+[13613] = 0,
+[11986] = 0,
+[13619] = 0,
+[14127] = 0,
+[14128] = 0,
+[12752] = 0,
+[12118] = 0,
+[14109] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0F8A3993"] = {
+["playerName"] = "Рефти",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 1,
+[41663] = 0,
+[13617] = 0,
+[13616] = 0,
+[8182] = 0,
+[40297] = 0,
+[40295] = 0,
+[41313] = 0,
+[41311] = 0,
+[13372] = 0,
+[20484] = 0,
+[13373] = 0,
+[13374] = 0,
+[9279] = 0,
+[12763] = 1,
+[41662] = 0,
+[41327] = 0,
+[41329] = 0,
+[8146] = 0,
+[41664] = 0,
+[6989] = 1,
+[14138] = 0,
+[8568] = 0,
+[13379] = 1,
+[6990] = 0,
+[15144] = 1,
+[19386] = 0,
+[15145] = 1,
+[40296] = 0,
+[15146] = 1,
+[8626] = 13,
+[15147] = 1,
+[8627] = 0,
+[14455] = 0,
+[8628] = 0,
+[8631] = 0,
+[8629] = 0,
+[40298] = 0,
+[8567] = 3,
+[14458] = 0,
+[41312] = 0,
+[41314] = 0,
+[8569] = 0,
+[13366] = 0,
+[8570] = 0,
+[8630] = 0,
+[8571] = 0,
+[6161] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 1,
+[15176] = 0,
+[8147] = 0,
+[6162] = 0,
+[8179] = 0,
+[13364] = 0,
+[41661] = 0,
+[40722] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1929-0D66036B"] = {
+["playerName"] = "Сайбил",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 1,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[40297] = 0,
+[1097] = 0,
+[41329] = 0,
+[40722] = 0,
+[41663] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[19386] = 0,
+[40298] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[41664] = 0,
+[9279] = 0,
+[40295] = 0,
+[41327] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[10980] = 0,
+[14404] = 0,
+[15176] = 0,
+[15147] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 0,
+[15145] = 0,
+[15146] = 0,
+[41661] = 0,
+[41662] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[14138] = 0,
+[8181] = 0,
+[15144] = 0,
+[8182] = 0,
+[13618] = 0,
+[41328] = 0,
+[13373] = 0,
+[11986] = 0,
+[13379] = 0,
+[40296] = 0,
+[13365] = 0,
+[8150] = 0,
+[12118] = 0,
+[8149] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0F3602F7"] = {
+["playerName"] = "Шайэн",
+["statistics"] = {
+[10978] = 0,
+[10979] = 0,
+[8567] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 1,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 1,
+[40297] = 0,
+[41329] = 0,
+[40722] = 0,
+[16097] = 0,
+[41663] = 0,
+[8146] = 0,
+[8147] = 0,
+[14455] = 0,
+[19386] = 0,
+[40298] = 0,
+[14458] = 0,
+[41330] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[41664] = 0,
+[9279] = 1,
+[40295] = 0,
+[41327] = 0,
+[20484] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[15176] = 0,
+[41314] = 0,
+[13618] = 0,
+[13365] = 0,
+[13373] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13619] = 0,
+[13366] = 1,
+[15145] = 0,
+[15146] = 0,
+[41661] = 0,
+[41312] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 1,
+[8180] = 0,
+[14138] = 0,
+[40296] = 0,
+[8182] = 0,
+[13379] = 0,
+[8181] = 0,
+[41328] = 0,
+[41311] = 0,
+[11986] = 0,
+[15147] = 0,
+[15144] = 0,
+[10980] = 6,
+[41313] = 0,
+[12118] = 0,
+[41662] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0BB6166D"] = {
+["playerName"] = "Эстрэя",
+["statistics"] = {
+[15168] = 0,
+[10978] = 0,
+[10979] = 0,
+[10980] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 7,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[40297] = 0,
+[1097] = 0,
+[6167] = 0,
+[6168] = 0,
+[40722] = 0,
+[9365] = 0,
+[16097] = 8,
+[41662] = 0,
+[41663] = 0,
+[8146] = 0,
+[12118] = 0,
+[8147] = 0,
+[8567] = 0,
+[15171] = 1,
+[14455] = 0,
+[8149] = 0,
+[41314] = 0,
+[8150] = 0,
+[14458] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 0,
+[15176] = 0,
+[15172] = 0,
+[15169] = 0,
+[40296] = 0,
+[8181] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[8182] = 0,
+[8180] = 0,
+[41312] = 0,
+[14138] = 1,
+[14137] = 0,
+[13374] = 1,
+[14135] = 0,
+[41664] = 0,
+[41311] = 0,
+[14107] = 0,
+[15143] = 0,
+[41661] = 0,
+[9279] = 0,
+[14130] = 0,
+[40295] = 0,
+[14108] = 0,
+[14109] = 0,
+[14110] = 0,
+[41327] = 0,
+[15145] = 2,
+[13366] = 1,
+[14127] = 0,
+[13618] = 0,
+[20484] = 0,
+[11958] = 0,
+[11959] = 0,
+[13617] = 0,
+[13616] = 0,
+[13619] = 0,
+[11957] = 0,
+[15142] = 0,
+[15140] = 0,
+[15141] = 0,
+[13364] = 1,
+[13365] = 1,
+[15144] = 1,
+[14129] = 0,
+[15146] = 4,
+[15147] = 9,
+[14128] = 0,
+[8178] = 0,
+[13372] = 1,
+[8179] = 0,
+[15152] = 0,
+[15153] = 0,
+[15154] = 0,
+[15155] = 0,
+[13373] = 1,
+[13379] = 1,
+[14136] = 0,
+[41328] = 0,
+[14398] = 1,
+[11986] = 0,
+[15170] = 0,
+[41329] = 0,
+[40298] = 0,
+[19386] = 0,
+[14404] = 8,
+[41313] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1625-053AD02B"] = {
+["playerName"] = "Ниоши",
+["statistics"] = {
+[10977] = 0,
+[10978] = 0,
+[10979] = 0,
+[10980] = 0,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 0,
+[12763] = 0,
+[8573] = 0,
+[10225] = 0,
+[6161] = 0,
+[10227] = 0,
+[6162] = 0,
+[6989] = 0,
+[6990] = 0,
+[1097] = 0,
+[6167] = 0,
+[6168] = 0,
+[10252] = 0,
+[9365] = 0,
+[8146] = 0,
+[8147] = 0,
+[8149] = 0,
+[8150] = 0,
+[8151] = 0,
+[8152] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8631] = 0,
+[13591] = 0,
+[13592] = 0,
+[13593] = 0,
+[13594] = 0,
+[9279] = 0,
+[8567] = 0,
+[14107] = 0,
+[13600] = 0,
+[14109] = 0,
+[13602] = 0,
+[13603] = 0,
+[14110] = 0,
+[14108] = 0,
+[10228] = 0,
+[8169] = 0,
+[11957] = 0,
+[8170] = 0,
+[11959] = 0,
+[8171] = 0,
+[13612] = 0,
+[8172] = 0,
+[13614] = 0,
+[13615] = 0,
+[13616] = 0,
+[13617] = 0,
+[13364] = 0,
+[13365] = 0,
+[14128] = 0,
+[14129] = 0,
+[14130] = 0,
+[10226] = 0,
+[13373] = 0,
+[8178] = 0,
+[13372] = 0,
+[8179] = 0,
+[13374] = 0,
+[8180] = 0,
+[13618] = 0,
+[8181] = 0,
+[11958] = 0,
+[13379] = 0,
+[12745] = 0,
+[8182] = 0,
+[13613] = 0,
+[11986] = 0,
+[13619] = 0,
+[14127] = 0,
+[13366] = 0,
+[12752] = 0,
+[12118] = 0,
+[13601] = 0,
+},
+["server"] = "Борейская тундра",
+},
+["Player-1602-0BC52020"] = {
+["playerName"] = "Фламинника",
+["statistics"] = {
+[15168] = 0,
+[10978] = 2,
+[10979] = 5,
+[10980] = 13,
+[8568] = 0,
+[8569] = 0,
+[8570] = 0,
+[8571] = 1,
+[12763] = 111,
+[8573] = 0,
+[6161] = 0,
+[6162] = 0,
+[6989] = 3,
+[6990] = 2,
+[40297] = 0,
+[1097] = 8,
+[6167] = 0,
+[6168] = 0,
+[40722] = 0,
+[9365] = 36,
+[16097] = 0,
+[41663] = 0,
+[8146] = 0,
+[8147] = 1,
+[14455] = 0,
+[8149] = 0,
+[40298] = 0,
+[8150] = 0,
+[8151] = 0,
+[41330] = 0,
+[8152] = 3,
+[41662] = 0,
+[14404] = 0,
+[41314] = 0,
+[41313] = 0,
+[19386] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 1,
+[8631] = 0,
+[41329] = 0,
+[15176] = 0,
+[8567] = 0,
+[8181] = 0,
+[15153] = 0,
+[8182] = 0,
+[40295] = 0,
+[41664] = 0,
+[15155] = 0,
+[14138] = 0,
+[8180] = 3,
+[15152] = 0,
+[9279] = 1,
+[14135] = 0,
+[41311] = 0,
+[14108] = 3,
+[14109] = 7,
+[14110] = 0,
+[41327] = 0,
+[8179] = 0,
+[20484] = 0,
+[13619] = 0,
+[41661] = 0,
+[11957] = 0,
+[11958] = 0,
+[11959] = 0,
+[15146] = 5,
+[15145] = 1,
+[14128] = 3,
+[14127] = 0,
+[13618] = 4,
+[13616] = 0,
+[13617] = 3,
+[13364] = 0,
+[13365] = 0,
+[15144] = 0,
+[14129] = 6,
+[14130] = 0,
+[15147] = 0,
+[13366] = 0,
+[8178] = 0,
+[13372] = 0,
+[13373] = 0,
+[14136] = 2,
+[14137] = 7,
+[15154] = 0,
+[41312] = 0,
+[14107] = 0,
+[13379] = 0,
+[13374] = 0,
+[41328] = 0,
+[40296] = 0,
+[11986] = 0,
+[14458] = 0,
+[15171] = 0,
+[15169] = 0,
+[15170] = 0,
+[12118] = 0,
+[15172] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1602-0FC9C9D4"] = {
+["playerName"] = "Артэмита",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8630] = 0,
+[8629] = 0,
+[40298] = 0,
+[8567] = 0,
+[40295] = 0,
+[8631] = 0,
+[13364] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[41663] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[40722] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[40296] = 0,
+},
+["server"] = "Гордунни",
+},
+["Player-1081-08DB5B7A"] = {
+["playerName"] = "Altery",
+["statistics"] = {
+[8180] = 0,
+[8149] = 0,
+[8181] = 0,
+[8150] = 0,
+[1097] = 0,
+[8182] = 0,
+[8151] = 0,
+[10977] = 0,
+[6167] = 0,
+[10978] = 0,
+[8152] = 0,
+[10979] = 0,
+[6168] = 0,
+[9279] = 0,
+[11957] = 0,
+[12745] = 0,
+[11958] = 0,
+[11959] = 0,
+[6989] = 0,
+[12118] = 0,
+[6990] = 0,
+[12752] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8629] = 0,
+[8630] = 0,
+[8568] = 0,
+[8569] = 0,
+[9365] = 0,
+[8570] = 0,
+[8567] = 0,
+[8571] = 0,
+[6161] = 0,
+[6162] = 0,
+[8146] = 0,
+[8573] = 0,
+[12763] = 0,
+[8631] = 0,
+[8147] = 0,
+[10252] = 0,
+[8179] = 0,
+[8178] = 0,
+[10980] = 0,
+[11986] = 0,
+},
+["server"] = "Bronzebeard",
+},
+["Player-1602-0FCA7DC4"] = {
+["playerName"] = "Зиэ",
+["statistics"] = {
+[13365] = 0,
+[8180] = 0,
+[13618] = 0,
+[13619] = 0,
+[8181] = 0,
+[8182] = 0,
+[40297] = 0,
+[9279] = 0,
+[41327] = 0,
+[41329] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
+[8627] = 0,
+[8628] = 0,
+[8630] = 0,
+[40296] = 0,
+[40298] = 0,
+[8567] = 0,
+[8631] = 0,
+[8568] = 0,
+[13364] = 0,
+[8569] = 0,
+[40722] = 0,
+[8570] = 0,
+[13617] = 0,
+[8571] = 0,
+[40295] = 0,
+[41328] = 0,
+[41330] = 0,
+[8573] = 0,
+[8178] = 0,
+[41663] = 0,
+[13366] = 0,
+[19386] = 0,
+[8179] = 0,
+[13616] = 0,
+[41661] = 0,
+[8629] = 0,
 },
 ["server"] = "Гордунни",
 },
@@ -41305,2525 +48911,6 @@ nil,
 },
 ["server"] = "Борейская тундра",
 },
-["Player-4606-00489D48"] = {
-["playerName"] = "Estrea",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[15168] = 0,
-[13373] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[10978] = 0,
-[6989] = 0,
-[12118] = 0,
-[10980] = 0,
-[13379] = 0,
-[6990] = 0,
-[15144] = 0,
-[13616] = 0,
-[15145] = 0,
-[8152] = 0,
-[14138] = 0,
-[8626] = 0,
-[15147] = 0,
-[8627] = 0,
-[14455] = 0,
-[8628] = 0,
-[15146] = 0,
-[8629] = 0,
-[8630] = 0,
-[8567] = 0,
-[14458] = 0,
-[8568] = 0,
-[13372] = 0,
-[8569] = 0,
-[12763] = 0,
-[8570] = 0,
-[6162] = 0,
-[8571] = 0,
-[6161] = 0,
-[13366] = 0,
-[8146] = 0,
-[8573] = 0,
-[8178] = 0,
-[8631] = 0,
-[8147] = 0,
-[13374] = 0,
-[8179] = 0,
-[13364] = 0,
-[10979] = 0,
-[13617] = 0,
-},
-["server"] = "EU Mythic Dungeons",
-},
-["Player-1602-0BF4C108"] = {
-["playerName"] = "Ниамэй",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 3,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 1,
-[6990] = 2,
-[40297] = 0,
-[1097] = 0,
-[6167] = 0,
-[6168] = 0,
-[40722] = 0,
-[9365] = 0,
-[16097] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 1,
-[8149] = 0,
-[40298] = 0,
-[14458] = 0,
-[8151] = 0,
-[41330] = 0,
-[8152] = 1,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[41314] = 0,
-[12118] = 0,
-[8150] = 0,
-[41313] = 0,
-[19386] = 0,
-[41329] = 0,
-[15169] = 0,
-[41311] = 0,
-[14107] = 0,
-[13365] = 6,
-[8182] = 0,
-[9279] = 0,
-[13618] = 0,
-[40295] = 0,
-[14108] = 0,
-[14109] = 2,
-[14110] = 0,
-[41327] = 0,
-[15155] = 0,
-[14138] = 7,
-[8180] = 1,
-[15152] = 0,
-[20484] = 0,
-[11958] = 0,
-[11959] = 0,
-[13373] = 6,
-[15144] = 0,
-[13619] = 0,
-[14129] = 2,
-[14130] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 6,
-[14127] = 0,
-[13366] = 5,
-[15145] = 0,
-[15146] = 3,
-[15147] = 0,
-[14128] = 0,
-[8178] = 0,
-[13372] = 6,
-[8179] = 0,
-[13374] = 5,
-[15153] = 0,
-[15154] = 0,
-[41312] = 0,
-[11957] = 0,
-[13379] = 1,
-[8181] = 0,
-[41328] = 0,
-[40296] = 0,
-[11986] = 0,
-[15171] = 0,
-[15176] = 0,
-[10980] = 0,
-[15170] = 0,
-[14404] = 7,
-[15172] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1929-0E2E5E1D"] = {
-["playerName"] = "Алтери",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 11,
-[8568] = 4,
-[8569] = 0,
-[8570] = 0,
-[8571] = 1,
-[12763] = 3,
-[8573] = 0,
-[6161] = 1,
-[6162] = 6,
-[6989] = 8,
-[6990] = 8,
-[40297] = 0,
-[1097] = 0,
-[40722] = 0,
-[9365] = 49,
-[8146] = 6,
-[8147] = 9,
-[14455] = 0,
-[19386] = 0,
-[40298] = 0,
-[14458] = 0,
-[8151] = 0,
-[8152] = 1,
-[8626] = 2,
-[8627] = 0,
-[8628] = 0,
-[8629] = 1,
-[8630] = 1,
-[8631] = 0,
-[9279] = 6,
-[40295] = 0,
-[11957] = 3,
-[11958] = 2,
-[11959] = 0,
-[10980] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13365] = 0,
-[13366] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[14404] = 0,
-[8178] = 5,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 1,
-[14138] = 0,
-[40296] = 0,
-[15176] = 0,
-[13379] = 0,
-[15144] = 0,
-[13618] = 0,
-[13373] = 0,
-[11986] = 0,
-[8182] = 0,
-[8150] = 0,
-[8181] = 0,
-[8149] = 1,
-[12118] = 5,
-[13619] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1929-0E2E5070"] = {
-["playerName"] = "Дэлери",
-["statistics"] = {
-[13365] = 0,
-[9365] = 53,
-[13618] = 1,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 16,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[8152] = 2,
-[13373] = 1,
-[9279] = 5,
-[11957] = 1,
-[11958] = 0,
-[11959] = 0,
-[6989] = 1,
-[12118] = 5,
-[13379] = 0,
-[6990] = 0,
-[8180] = 2,
-[13372] = 1,
-[13364] = 0,
-[8626] = 0,
-[13374] = 0,
-[8627] = 0,
-[14455] = 0,
-[8628] = 0,
-[13617] = 0,
-[8629] = 0,
-[8630] = 0,
-[8567] = 0,
-[14458] = 0,
-[8568] = 0,
-[10980] = 21,
-[8569] = 0,
-[8178] = 0,
-[8570] = 0,
-[6162] = 0,
-[8571] = 0,
-[6161] = 0,
-[13366] = 0,
-[8146] = 0,
-[8573] = 0,
-[12763] = 12,
-[8631] = 0,
-[8147] = 0,
-[10979] = 7,
-[8179] = 0,
-[13616] = 0,
-[14404] = 4,
-[10978] = 4,
-},
-["server"] = "Борейская тундра",
-},
-["Player-535-08E78119"] = {
-["playerName"] = "Delery",
-["statistics"] = {
-[13365] = 0,
-[9365] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[8152] = 0,
-[13373] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[6989] = 0,
-[12118] = 0,
-[13379] = 0,
-[6990] = 0,
-[8626] = 0,
-[10978] = 0,
-[8627] = 0,
-[13372] = 0,
-[8628] = 0,
-[13616] = 0,
-[8629] = 0,
-[8630] = 0,
-[8567] = 0,
-[10979] = 0,
-[8568] = 0,
-[10980] = 0,
-[8569] = 0,
-[8631] = 0,
-[8570] = 0,
-[12763] = 0,
-[8571] = 0,
-[6161] = 0,
-[13366] = 0,
-[8146] = 0,
-[8573] = 0,
-[8178] = 0,
-[6162] = 0,
-[8147] = 0,
-[8180] = 0,
-[8179] = 0,
-[13364] = 0,
-[13374] = 0,
-[13617] = 0,
-},
-["server"] = "Durotan",
-},
-["Player-1625-03A9281A"] = {
-["playerName"] = "Эстрея",
-["statistics"] = {
-[10977] = 0,
-[10978] = 0,
-[10979] = 3,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 14,
-[8573] = 0,
-[10225] = 0,
-[6161] = 1,
-[10227] = 0,
-[6162] = 1,
-[6989] = 3,
-[6990] = 3,
-[1097] = 24,
-[6167] = 1,
-[6168] = 1,
-[10252] = 1,
-[9365] = 33,
-[8146] = 0,
-[8147] = 0,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[13591] = 0,
-[13592] = 0,
-[13593] = 0,
-[13594] = 0,
-[14109] = 0,
-[9279] = 9,
-[14110] = 0,
-[14107] = 0,
-[14108] = 0,
-[13601] = 0,
-[13602] = 0,
-[13603] = 0,
-[10226] = 0,
-[8170] = 0,
-[13619] = 0,
-[8169] = 0,
-[11957] = 0,
-[11958] = 1,
-[11959] = 0,
-[8171] = 0,
-[13612] = 0,
-[8172] = 0,
-[13614] = 0,
-[13615] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[14127] = 0,
-[14128] = 0,
-[14129] = 0,
-[14130] = 0,
-[10228] = 1,
-[13371] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[13373] = 0,
-[8181] = 0,
-[13379] = 0,
-[8182] = 0,
-[12745] = 1,
-[10980] = 0,
-[13613] = 0,
-[11986] = 0,
-[13618] = 0,
-[13366] = 0,
-[13365] = 0,
-[12752] = 1,
-[12118] = 3,
-[13600] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1625-039D009A"] = {
-["playerName"] = "Зонна",
-["statistics"] = {
-[10977] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 3,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 4,
-[12763] = 2,
-[8573] = 0,
-[10225] = 1,
-[6161] = 0,
-[10227] = 0,
-[6162] = 2,
-[6989] = 7,
-[6990] = 2,
-[1097] = 0,
-[6167] = 0,
-[6168] = 1,
-[10252] = 0,
-[9365] = 42,
-[8146] = 2,
-[8147] = 3,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 3,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 2,
-[8631] = 0,
-[10226] = 0,
-[10228] = 0,
-[14108] = 0,
-[13591] = 0,
-[13592] = 0,
-[13593] = 0,
-[13594] = 0,
-[13619] = 0,
-[13613] = 0,
-[9279] = 9,
-[13618] = 0,
-[14107] = 0,
-[13600] = 0,
-[13601] = 0,
-[13602] = 0,
-[13603] = 0,
-[13365] = 0,
-[13371] = 0,
-[14135] = 0,
-[8169] = 0,
-[11957] = 0,
-[8170] = 0,
-[11959] = 0,
-[8171] = 0,
-[13612] = 0,
-[8172] = 1,
-[13614] = 0,
-[13615] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[14127] = 0,
-[14128] = 0,
-[14129] = 0,
-[14130] = 0,
-[14137] = 0,
-[13379] = 1,
-[8178] = 1,
-[13372] = 0,
-[8179] = 0,
-[14136] = 0,
-[8180] = 3,
-[14138] = 0,
-[8181] = 0,
-[13373] = 0,
-[8182] = 0,
-[12745] = 1,
-[13374] = 0,
-[13366] = 0,
-[11986] = 0,
-[11958] = 0,
-[14110] = 0,
-[14109] = 0,
-[12752] = 1,
-[12118] = 1,
-[10980] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1099-0A4E9E8A"] = {
-["playerName"] = "Estrea",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[13617] = 0,
-[10978] = 0,
-[15168] = 0,
-[13373] = 0,
-[15169] = 0,
-[9279] = 0,
-[15170] = 0,
-[13372] = 0,
-[15171] = 0,
-[13616] = 0,
-[15172] = 0,
-[10980] = 0,
-[6989] = 1,
-[12118] = 0,
-[8152] = 0,
-[13379] = 0,
-[6990] = 0,
-[15144] = 0,
-[10979] = 0,
-[15145] = 0,
-[11959] = 0,
-[15146] = 0,
-[8626] = 0,
-[15147] = 0,
-[8627] = 0,
-[14455] = 0,
-[8628] = 0,
-[8178] = 0,
-[8629] = 0,
-[8567] = 0,
-[8630] = 0,
-[14458] = 0,
-[8568] = 0,
-[11958] = 0,
-[8569] = 0,
-[6162] = 0,
-[8570] = 0,
-[8631] = 0,
-[8571] = 0,
-[6161] = 0,
-[11957] = 0,
-[8146] = 0,
-[8573] = 0,
-[12763] = 0,
-[14138] = 0,
-[8147] = 2,
-[13366] = 0,
-[8179] = 0,
-[13364] = 0,
-[13374] = 0,
-[11986] = 0,
-},
-["server"] = "Alleria",
-},
-["Player-1929-0E2E5479"] = {
-["playerName"] = "Эстрея",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 3,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[15176] = 0,
-[8573] = 0,
-[6161] = 1,
-[6162] = 1,
-[6989] = 3,
-[6990] = 3,
-[40297] = 0,
-[1097] = 24,
-[40722] = 0,
-[9365] = 35,
-[16097] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[19386] = 0,
-[40298] = 0,
-[14458] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 9,
-[40295] = 0,
-[11957] = 0,
-[11958] = 1,
-[11959] = 0,
-[13365] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13619] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[12118] = 3,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[14138] = 0,
-[40296] = 0,
-[13618] = 0,
-[13379] = 0,
-[8149] = 0,
-[8150] = 0,
-[8182] = 0,
-[11986] = 0,
-[13373] = 0,
-[10980] = 0,
-[8181] = 0,
-[12763] = 14,
-[14404] = 0,
-[13366] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1625-090E929C"] = {
-["playerName"] = "Фламиника",
-["statistics"] = {
-[10977] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 41,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 2,
-[6990] = 0,
-[1097] = 8,
-[6167] = 0,
-[6168] = 0,
-[9365] = 25,
-[8146] = 0,
-[8147] = 1,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 3,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[13591] = 0,
-[13592] = 0,
-[13593] = 0,
-[13594] = 1,
-[9279] = 1,
-[13600] = 1,
-[13601] = 1,
-[13602] = 4,
-[13603] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[13612] = 1,
-[13613] = 0,
-[13614] = 0,
-[13615] = 0,
-[13616] = 0,
-[13617] = 3,
-[13364] = 0,
-[13365] = 0,
-[13366] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 2,
-[8181] = 0,
-[13379] = 0,
-[12745] = 0,
-[11986] = 0,
-[13619] = 0,
-[13618] = 1,
-[8182] = 0,
-[10980] = 0,
-[12118] = 0,
-[13373] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-578-094D6CD0"] = {
-["playerName"] = "Flaminika",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[15170] = 0,
-[10980] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[1097] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[8149] = 0,
-[14458] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 0,
-[15172] = 0,
-[15171] = 0,
-[8150] = 0,
-[13364] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[13616] = 0,
-[15142] = 0,
-[13365] = 0,
-[13366] = 0,
-[15153] = 0,
-[15140] = 0,
-[15141] = 0,
-[13618] = 0,
-[13619] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[15155] = 0,
-[8178] = 0,
-[13372] = 0,
-[13373] = 0,
-[13374] = 0,
-[8180] = 0,
-[14138] = 0,
-[8181] = 0,
-[8182] = 0,
-[13379] = 0,
-[15154] = 0,
-[15152] = 0,
-[8179] = 0,
-[11986] = 0,
-[13617] = 0,
-[15143] = 0,
-[15169] = 0,
-[10979] = 0,
-[12118] = 0,
-[8567] = 0,
-},
-["server"] = "Durotan",
-},
-["Player-1929-0D66030E"] = {
-["playerName"] = "Эрника",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[8152] = 0,
-[13373] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[6989] = 0,
-[12118] = 0,
-[13379] = 0,
-[6990] = 0,
-[8626] = 0,
-[8627] = 0,
-[13617] = 0,
-[8628] = 0,
-[8630] = 0,
-[8629] = 0,
-[13364] = 0,
-[8567] = 0,
-[13374] = 0,
-[8568] = 0,
-[13372] = 0,
-[8569] = 0,
-[8631] = 0,
-[8570] = 0,
-[8178] = 0,
-[8571] = 0,
-[6161] = 0,
-[6162] = 0,
-[8146] = 0,
-[8573] = 0,
-[12763] = 0,
-[13366] = 0,
-[8147] = 0,
-[10979] = 0,
-[8179] = 0,
-[13616] = 0,
-[10980] = 0,
-[10978] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-3391-0AE621A4"] = {
-["playerName"] = "Flaminika",
-["statistics"] = {
-[13365] = 0,
-[9365] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[6167] = 0,
-[11986] = 0,
-[8152] = 0,
-[13373] = 0,
-[6168] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[6989] = 0,
-[12118] = 0,
-[13379] = 0,
-[6990] = 0,
-[8626] = 0,
-[13617] = 0,
-[8627] = 0,
-[10979] = 0,
-[8628] = 0,
-[13364] = 0,
-[8629] = 0,
-[8567] = 0,
-[8630] = 0,
-[8180] = 0,
-[8568] = 0,
-[13374] = 0,
-[8569] = 0,
-[8178] = 0,
-[8570] = 0,
-[6162] = 0,
-[8571] = 0,
-[6161] = 0,
-[13366] = 0,
-[8146] = 0,
-[8573] = 0,
-[12763] = 0,
-[8631] = 0,
-[8147] = 0,
-[13372] = 0,
-[8179] = 0,
-[13616] = 0,
-[10980] = 0,
-[10978] = 0,
-},
-["server"] = "Silvermoon",
-},
-["Player-1602-0EEA86DF"] = {
-["playerName"] = "Алтэри",
-["statistics"] = {
-[15168] = 0,
-[10978] = 4,
-[10979] = 7,
-[10980] = 28,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 1,
-[12763] = 12,
-[8573] = 0,
-[6161] = 1,
-[6162] = 0,
-[6989] = 1,
-[6990] = 0,
-[40297] = 0,
-[1097] = 16,
-[41329] = 0,
-[40722] = 0,
-[16097] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 1,
-[8149] = 0,
-[40298] = 0,
-[14458] = 0,
-[8151] = 0,
-[41330] = 0,
-[8152] = 2,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 1,
-[8631] = 0,
-[19386] = 0,
-[12118] = 5,
-[9279] = 5,
-[15176] = 3,
-[40295] = 0,
-[15172] = 0,
-[15171] = 0,
-[8150] = 0,
-[41327] = 0,
-[15169] = 0,
-[15155] = 0,
-[8181] = 0,
-[13365] = 1,
-[20484] = 0,
-[11958] = 0,
-[11959] = 0,
-[13379] = 1,
-[8179] = 0,
-[41312] = 0,
-[14138] = 1,
-[15153] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 1,
-[13619] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 2,
-[15147] = 8,
-[15152] = 0,
-[8178] = 0,
-[13372] = 2,
-[13373] = 2,
-[13374] = 2,
-[8180] = 2,
-[15154] = 0,
-[40296] = 0,
-[13366] = 2,
-[8182] = 0,
-[13618] = 1,
-[41328] = 0,
-[11957] = 1,
-[11986] = 0,
-[15170] = 0,
-[41311] = 0,
-[8567] = 0,
-[41313] = 0,
-[14404] = 6,
-[41314] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1602-0F6D5364"] = {
-["playerName"] = "Алоиза",
-["statistics"] = {
-[13365] = 4,
-[8180] = 3,
-[13618] = 0,
-[13619] = 0,
-[8181] = 16,
-[8182] = 4,
-[40297] = 0,
-[13617] = 0,
-[41313] = 0,
-[41311] = 0,
-[13372] = 1,
-[13364] = 2,
-[13373] = 4,
-[13374] = 0,
-[9279] = 27,
-[13366] = 0,
-[8147] = 40,
-[41327] = 0,
-[41329] = 0,
-[15146] = 0,
-[12763] = 7,
-[6989] = 84,
-[40296] = 0,
-[41330] = 0,
-[13379] = 0,
-[6990] = 53,
-[15144] = 0,
-[19386] = 0,
-[15145] = 0,
-[41312] = 0,
-[14138] = 0,
-[8626] = 11,
-[15147] = 0,
-[8627] = 2,
-[14455] = 0,
-[8628] = 1,
-[41314] = 0,
-[8629] = 0,
-[40298] = 0,
-[8567] = 5,
-[14458] = 0,
-[8631] = 0,
-[16097] = 1,
-[8569] = 3,
-[8630] = 2,
-[8570] = 0,
-[8178] = 32,
-[8571] = 3,
-[6161] = 64,
-[41328] = 0,
-[8146] = 54,
-[8573] = 0,
-[6162] = 43,
-[8568] = 12,
-[20484] = 0,
-[15176] = 0,
-[8179] = 14,
-[13616] = 0,
-[40722] = 0,
-[40295] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1929-0D6602DE"] = {
-["playerName"] = "Тиаз",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[13619] = 0,
-[8181] = 0,
-[8182] = 0,
-[13372] = 0,
-[13373] = 0,
-[9279] = 0,
-[6989] = 0,
-[13379] = 0,
-[6990] = 0,
-[15144] = 0,
-[15176] = 0,
-[15145] = 0,
-[14138] = 0,
-[8626] = 0,
-[15147] = 0,
-[8627] = 0,
-[14455] = 0,
-[8628] = 0,
-[15146] = 0,
-[8629] = 0,
-[13374] = 0,
-[8630] = 0,
-[14458] = 0,
-[8568] = 0,
-[16097] = 0,
-[8569] = 0,
-[13616] = 0,
-[8570] = 0,
-[8631] = 0,
-[8571] = 0,
-[6161] = 0,
-[12763] = 0,
-[8146] = 0,
-[8573] = 0,
-[8178] = 0,
-[6162] = 0,
-[8147] = 0,
-[13366] = 0,
-[8179] = 0,
-[13364] = 0,
-[8567] = 0,
-[13617] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-578-094F53FA"] = {
-["playerName"] = "Altery",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[1097] = 0,
-[9365] = 3,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[8149] = 0,
-[14458] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 0,
-[15171] = 0,
-[15170] = 0,
-[15169] = 0,
-[13365] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[15141] = 0,
-[13618] = 0,
-[13619] = 0,
-[13374] = 0,
-[8180] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[15143] = 0,
-[13366] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[15154] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[15152] = 0,
-[15153] = 0,
-[14138] = 0,
-[8181] = 0,
-[13379] = 0,
-[8182] = 0,
-[15155] = 0,
-[13373] = 0,
-[15144] = 0,
-[11986] = 0,
-[15142] = 0,
-[15140] = 0,
-[10980] = 0,
-[8150] = 0,
-[12118] = 0,
-[15172] = 0,
-},
-["server"] = "Durotan",
-},
-["Player-1625-0357DB16"] = {
-["playerName"] = "Алоиза",
-["statistics"] = {
-[10977] = 11,
-[10978] = 11,
-[10979] = 19,
-[8567] = 5,
-[8568] = 12,
-[8569] = 3,
-[8570] = 0,
-[8571] = 3,
-[12763] = 7,
-[8573] = 0,
-[10225] = 4,
-[10226] = 2,
-[10227] = 1,
-[10228] = 4,
-[5972] = 44,
-[5973] = 21,
-[6990] = 53,
-[1097] = 88,
-[6167] = 48,
-[6168] = 16,
-[6157] = 61,
-[6161] = 64,
-[10252] = 6,
-[6158] = 45,
-[9365] = 61,
-[6162] = 43,
-[5558] = 21,
-[10929] = 1,
-[4653] = 3,
-[8146] = 54,
-[10930] = 2,
-[8147] = 40,
-[13602] = 0,
-[13365] = 4,
-[8170] = 4,
-[8149] = 14,
-[13379] = 0,
-[8150] = 3,
-[11959] = 9,
-[8151] = 24,
-[13613] = 0,
-[8152] = 5,
-[8621] = 2,
-[8622] = 0,
-[8623] = 0,
-[8624] = 1,
-[8625] = 0,
-[8626] = 11,
-[8627] = 2,
-[8628] = 1,
-[8629] = 0,
-[8630] = 2,
-[8631] = 0,
-[13614] = 0,
-[5570] = 11,
-[4687] = 5,
-[13373] = 4,
-[13364] = 2,
-[5557] = 3,
-[13591] = 1,
-[13592] = 0,
-[13593] = 0,
-[5559] = 4,
-[10928] = 23,
-[5560] = 19,
-[9279] = 27,
-[10931] = 2,
-[14107] = 0,
-[14108] = 0,
-[14109] = 0,
-[14110] = 0,
-[13603] = 0,
-[8178] = 32,
-[8168] = 23,
-[14127] = 0,
-[8169] = 7,
-[11957] = 6,
-[11958] = 10,
-[5567] = 2,
-[8171] = 23,
-[5568] = 11,
-[8172] = 1,
-[5569] = 3,
-[13615] = 0,
-[13616] = 0,
-[13617] = 0,
-[13618] = 0,
-[13619] = 0,
-[14128] = 0,
-[14129] = 0,
-[14130] = 0,
-[5576] = 13,
-[13366] = 0,
-[13371] = 0,
-[13372] = 1,
-[8179] = 14,
-[13374] = 0,
-[8180] = 3,
-[5577] = 27,
-[8181] = 16,
-[13612] = 0,
-[8182] = 4,
-[12745] = 3,
-[13601] = 0,
-[13600] = 0,
-[11986] = 4,
-[13594] = 0,
-[8620] = 13,
-[10980] = 2,
-[12752] = 22,
-[12118] = 3,
-[6989] = 84,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1929-0D66034B"] = {
-["playerName"] = "Нирейя",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[8152] = 0,
-[13373] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[13374] = 0,
-[6989] = 0,
-[12118] = 0,
-[10978] = 0,
-[13379] = 0,
-[6990] = 0,
-[15144] = 0,
-[13616] = 0,
-[15145] = 0,
-[14138] = 0,
-[15146] = 0,
-[8626] = 0,
-[15147] = 0,
-[8627] = 0,
-[14455] = 0,
-[8628] = 0,
-[10980] = 0,
-[8629] = 0,
-[8567] = 0,
-[8630] = 0,
-[14458] = 0,
-[8568] = 0,
-[10979] = 0,
-[8569] = 0,
-[12763] = 0,
-[8570] = 0,
-[13366] = 0,
-[8571] = 0,
-[6161] = 0,
-[8631] = 0,
-[8146] = 0,
-[8573] = 0,
-[8178] = 0,
-[6162] = 0,
-[8147] = 0,
-[15168] = 0,
-[8179] = 0,
-[13364] = 0,
-[13372] = 0,
-[13617] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1625-08764551"] = {
-["playerName"] = "Элави",
-["statistics"] = {
-[10977] = 0,
-[10978] = 0,
-[10979] = 0,
-[10980] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[10225] = 0,
-[6161] = 0,
-[10227] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[1097] = 0,
-[6167] = 0,
-[6168] = 0,
-[10252] = 0,
-[9365] = 0,
-[8146] = 0,
-[8147] = 0,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 0,
-[14107] = 0,
-[14108] = 0,
-[14109] = 0,
-[14110] = 0,
-[8169] = 0,
-[11957] = 0,
-[8170] = 0,
-[11959] = 0,
-[8171] = 0,
-[8172] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13619] = 0,
-[13366] = 0,
-[14129] = 0,
-[14130] = 0,
-[14128] = 0,
-[14127] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[13365] = 0,
-[8181] = 0,
-[8182] = 0,
-[13379] = 0,
-[12745] = 0,
-[13618] = 0,
-[11958] = 0,
-[11986] = 0,
-[10226] = 0,
-[10228] = 0,
-[13373] = 0,
-[12752] = 0,
-[12118] = 0,
-[8567] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1602-0E52ACB3"] = {
-["playerName"] = "Дэлери",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 1,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[40297] = 0,
-[1097] = 0,
-[41329] = 0,
-[40722] = 0,
-[9365] = 0,
-[16097] = 1,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[8149] = 0,
-[40298] = 0,
-[14458] = 0,
-[8151] = 0,
-[41330] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[15176] = 0,
-[14404] = 0,
-[9279] = 0,
-[15170] = 0,
-[40295] = 0,
-[15171] = 0,
-[10980] = 0,
-[8150] = 0,
-[41327] = 0,
-[15169] = 0,
-[20484] = 0,
-[15155] = 0,
-[13618] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[13379] = 0,
-[13365] = 0,
-[41312] = 0,
-[15154] = 0,
-[15153] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13619] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 3,
-[15147] = 0,
-[15152] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[14138] = 0,
-[8181] = 0,
-[13373] = 0,
-[8182] = 0,
-[13366] = 0,
-[41328] = 0,
-[40296] = 0,
-[11986] = 0,
-[15172] = 0,
-[41311] = 0,
-[19386] = 0,
-[41313] = 0,
-[12118] = 0,
-[41314] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1625-087553EE"] = {
-["playerName"] = "Дэлери",
-["statistics"] = {
-[10977] = 9,
-[10978] = 3,
-[10979] = 4,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 12,
-[8573] = 0,
-[10225] = 0,
-[6161] = 0,
-[10227] = 0,
-[6162] = 0,
-[6989] = 1,
-[6990] = 0,
-[1097] = 16,
-[6167] = 0,
-[6168] = 0,
-[10252] = 10,
-[9365] = 51,
-[8146] = 0,
-[8147] = 0,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 2,
-[14091] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[14093] = 0,
-[14094] = 0,
-[10226] = 0,
-[10228] = 7,
-[14110] = 0,
-[8170] = 0,
-[13591] = 0,
-[13592] = 0,
-[13593] = 0,
-[13594] = 0,
-[8172] = 2,
-[13618] = 1,
-[9279] = 5,
-[13365] = 0,
-[14107] = 0,
-[14108] = 0,
-[14109] = 3,
-[13602] = 0,
-[13603] = 0,
-[13366] = 0,
-[8178] = 0,
-[13379] = 0,
-[8169] = 0,
-[11957] = 1,
-[11958] = 0,
-[11959] = 0,
-[8171] = 0,
-[13612] = 0,
-[13613] = 0,
-[13614] = 0,
-[13615] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13619] = 0,
-[14128] = 1,
-[14129] = 2,
-[14130] = 0,
-[13374] = 0,
-[14137] = 0,
-[13371] = 0,
-[13372] = 1,
-[8179] = 0,
-[14136] = 0,
-[8180] = 2,
-[14138] = 0,
-[8181] = 0,
-[14135] = 0,
-[8182] = 0,
-[12745] = 3,
-[13373] = 1,
-[14127] = 0,
-[11986] = 0,
-[13601] = 0,
-[13600] = 1,
-[10980] = 14,
-[12752] = 1,
-[12118] = 5,
-[14089] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1625-03966AFB"] = {
-["playerName"] = "Нирейя",
-["statistics"] = {
-[10977] = 0,
-[10978] = 0,
-[10979] = 0,
-[10980] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[10225] = 0,
-[6161] = 0,
-[10227] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[1097] = 0,
-[6167] = 0,
-[6168] = 0,
-[10252] = 0,
-[9365] = 0,
-[8146] = 0,
-[8147] = 0,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[13591] = 0,
-[13592] = 0,
-[13593] = 0,
-[13594] = 0,
-[9279] = 0,
-[8567] = 0,
-[14107] = 0,
-[13600] = 0,
-[14109] = 0,
-[13602] = 0,
-[13603] = 0,
-[14110] = 0,
-[14108] = 0,
-[10228] = 0,
-[8169] = 0,
-[11957] = 0,
-[8170] = 0,
-[11959] = 0,
-[8171] = 0,
-[13612] = 0,
-[8172] = 0,
-[13614] = 0,
-[13615] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13365] = 0,
-[14128] = 0,
-[14129] = 0,
-[14130] = 0,
-[10226] = 0,
-[13373] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[13618] = 0,
-[8181] = 0,
-[11958] = 0,
-[13379] = 0,
-[12745] = 0,
-[8182] = 0,
-[13613] = 0,
-[11986] = 0,
-[13619] = 0,
-[14127] = 0,
-[13366] = 0,
-[12752] = 0,
-[12118] = 0,
-[13601] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1929-0E2E5712"] = {
-["playerName"] = "Алоиза",
-["statistics"] = {
-[15168] = 0,
-[10978] = 11,
-[10979] = 19,
-[8567] = 5,
-[8568] = 12,
-[8569] = 3,
-[8570] = 0,
-[8571] = 3,
-[12763] = 7,
-[8573] = 0,
-[6161] = 64,
-[6162] = 43,
-[6989] = 84,
-[6990] = 53,
-[1097] = 88,
-[9365] = 62,
-[8146] = 54,
-[8147] = 40,
-[14455] = 0,
-[8149] = 14,
-[14458] = 0,
-[8151] = 24,
-[8152] = 5,
-[8626] = 11,
-[8627] = 2,
-[8628] = 1,
-[8629] = 0,
-[8630] = 2,
-[8631] = 0,
-[9279] = 27,
-[15176] = 0,
-[12118] = 3,
-[15172] = 0,
-[11957] = 6,
-[11958] = 10,
-[11959] = 9,
-[15143] = 0,
-[13618] = 0,
-[13365] = 4,
-[13373] = 4,
-[15153] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 2,
-[13619] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[15155] = 0,
-[8178] = 32,
-[13372] = 1,
-[8179] = 14,
-[13374] = 0,
-[8180] = 3,
-[15154] = 0,
-[8181] = 16,
-[8182] = 4,
-[13379] = 0,
-[10980] = 2,
-[14138] = 0,
-[15152] = 0,
-[11986] = 5,
-[13366] = 0,
-[8150] = 3,
-[15169] = 0,
-[15171] = 0,
-[14404] = 0,
-[15170] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1602-0F382183"] = {
-["playerName"] = "Эллиата",
-["statistics"] = {
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[41313] = 0,
-[41329] = 0,
-[40722] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[19386] = 0,
-[41314] = 0,
-[14458] = 0,
-[41330] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 0,
-[41311] = 0,
-[41327] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[20484] = 0,
-[40298] = 0,
-[13618] = 0,
-[40296] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13619] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[41312] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[14138] = 0,
-[8181] = 0,
-[13379] = 0,
-[8182] = 0,
-[13366] = 0,
-[41328] = 0,
-[40297] = 0,
-[11986] = 0,
-[40295] = 0,
-[13373] = 0,
-[13365] = 0,
-[10980] = 0,
-[12118] = 0,
-[15176] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1602-0F3602F7"] = {
-["playerName"] = "Шайэн",
-["statistics"] = {
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 1,
-[40297] = 0,
-[41329] = 0,
-[40722] = 0,
-[16097] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[19386] = 0,
-[40298] = 0,
-[14458] = 0,
-[41330] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 1,
-[40295] = 0,
-[41327] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[20484] = 0,
-[41313] = 0,
-[41314] = 0,
-[13619] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13365] = 0,
-[15144] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[13618] = 0,
-[8178] = 0,
-[13372] = 0,
-[13373] = 0,
-[13374] = 1,
-[8180] = 0,
-[14138] = 0,
-[40296] = 0,
-[41312] = 0,
-[13379] = 0,
-[8181] = 0,
-[41328] = 0,
-[8182] = 0,
-[11986] = 0,
-[41311] = 0,
-[8179] = 0,
-[13366] = 1,
-[10980] = 6,
-[12118] = 0,
-[15176] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1602-0BB6166D"] = {
-["playerName"] = "Эстрэя",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 0,
-[10980] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 6,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[40297] = 0,
-[1097] = 0,
-[6167] = 0,
-[6168] = 0,
-[40722] = 0,
-[9365] = 0,
-[16097] = 8,
-[8146] = 0,
-[8147] = 0,
-[8567] = 0,
-[14455] = 0,
-[8149] = 0,
-[40298] = 0,
-[8150] = 0,
-[12118] = 0,
-[8151] = 0,
-[41330] = 0,
-[8152] = 0,
-[15171] = 1,
-[14458] = 0,
-[15176] = 0,
-[15172] = 0,
-[15169] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[15155] = 0,
-[41312] = 0,
-[8180] = 0,
-[8182] = 0,
-[15152] = 0,
-[8181] = 0,
-[14138] = 0,
-[14137] = 0,
-[13374] = 0,
-[14135] = 0,
-[40295] = 0,
-[13619] = 0,
-[9279] = 0,
-[11957] = 0,
-[41311] = 0,
-[14108] = 0,
-[14109] = 0,
-[14110] = 0,
-[41327] = 0,
-[13365] = 0,
-[14130] = 0,
-[15145] = 1,
-[13366] = 0,
-[20484] = 0,
-[11958] = 0,
-[11959] = 0,
-[15143] = 0,
-[13618] = 0,
-[13617] = 0,
-[13616] = 0,
-[15142] = 0,
-[15140] = 0,
-[15141] = 0,
-[13364] = 0,
-[14127] = 0,
-[14128] = 0,
-[14129] = 0,
-[15146] = 3,
-[15147] = 8,
-[15144] = 0,
-[8178] = 0,
-[13372] = 0,
-[13373] = 0,
-[14136] = 0,
-[15153] = 0,
-[15154] = 0,
-[40296] = 0,
-[14107] = 0,
-[13379] = 0,
-[8179] = 0,
-[41328] = 0,
-[14398] = 1,
-[11986] = 0,
-[15170] = 0,
-[41329] = 0,
-[19386] = 0,
-[41313] = 0,
-[14404] = 8,
-[41314] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1625-053AD02B"] = {
-["playerName"] = "Ниоши",
-["statistics"] = {
-[10977] = 0,
-[10978] = 0,
-[10979] = 0,
-[10980] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 0,
-[8573] = 0,
-[10225] = 0,
-[6161] = 0,
-[10227] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[1097] = 0,
-[6167] = 0,
-[6168] = 0,
-[10252] = 0,
-[9365] = 0,
-[8146] = 0,
-[8147] = 0,
-[8149] = 0,
-[8150] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[13591] = 0,
-[13592] = 0,
-[13593] = 0,
-[13594] = 0,
-[9279] = 0,
-[8567] = 0,
-[14107] = 0,
-[13600] = 0,
-[13601] = 0,
-[13602] = 0,
-[13603] = 0,
-[14110] = 0,
-[14108] = 0,
-[10228] = 0,
-[8169] = 0,
-[11957] = 0,
-[8170] = 0,
-[11959] = 0,
-[8171] = 0,
-[13612] = 0,
-[8172] = 0,
-[13614] = 0,
-[13615] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13365] = 0,
-[13366] = 0,
-[14129] = 0,
-[14130] = 0,
-[10226] = 0,
-[8179] = 0,
-[8178] = 0,
-[13372] = 0,
-[13373] = 0,
-[13374] = 0,
-[8180] = 0,
-[13618] = 0,
-[8181] = 0,
-[11958] = 0,
-[13379] = 0,
-[12745] = 0,
-[8182] = 0,
-[13613] = 0,
-[11986] = 0,
-[13619] = 0,
-[14127] = 0,
-[14128] = 0,
-[12752] = 0,
-[12118] = 0,
-[14109] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1602-0BC52020"] = {
-["playerName"] = "Фламинника",
-["statistics"] = {
-[15168] = 0,
-[10978] = 2,
-[10979] = 5,
-[10980] = 13,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 1,
-[12763] = 110,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 3,
-[6990] = 2,
-[40297] = 0,
-[1097] = 8,
-[6167] = 0,
-[6168] = 0,
-[40722] = 0,
-[9365] = 36,
-[16097] = 0,
-[8146] = 0,
-[8147] = 1,
-[14455] = 0,
-[8149] = 0,
-[40298] = 0,
-[8150] = 0,
-[8151] = 0,
-[41330] = 0,
-[8152] = 3,
-[41314] = 0,
-[14404] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 1,
-[8631] = 0,
-[41313] = 0,
-[19386] = 0,
-[41329] = 0,
-[15176] = 0,
-[8567] = 0,
-[40295] = 0,
-[41312] = 0,
-[41311] = 0,
-[8182] = 0,
-[14135] = 0,
-[40296] = 0,
-[14138] = 0,
-[9279] = 1,
-[8180] = 3,
-[14107] = 0,
-[14108] = 3,
-[14109] = 7,
-[14110] = 0,
-[41327] = 0,
-[15152] = 0,
-[8179] = 0,
-[20484] = 0,
-[13619] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[13618] = 4,
-[13365] = 0,
-[15146] = 5,
-[15145] = 1,
-[14128] = 3,
-[13616] = 0,
-[13617] = 3,
-[13364] = 0,
-[14127] = 0,
-[13366] = 0,
-[14129] = 6,
-[14130] = 0,
-[15147] = 0,
-[15144] = 0,
-[8178] = 0,
-[13372] = 0,
-[13373] = 0,
-[13374] = 0,
-[15153] = 0,
-[15154] = 0,
-[8181] = 0,
-[14136] = 2,
-[13379] = 0,
-[14137] = 7,
-[41328] = 0,
-[15155] = 0,
-[11986] = 0,
-[14458] = 0,
-[15171] = 0,
-[15169] = 0,
-[15170] = 0,
-[12118] = 0,
-[15172] = 0,
-},
-["server"] = "Гордунни",
-},
-["Player-1081-08DB5B7A"] = {
-["playerName"] = "Altery",
-["statistics"] = {
-[8180] = 0,
-[8149] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[10977] = 0,
-[6167] = 0,
-[10978] = 0,
-[8152] = 0,
-[10979] = 0,
-[6168] = 0,
-[9279] = 0,
-[11957] = 0,
-[12745] = 0,
-[11958] = 0,
-[11959] = 0,
-[6989] = 0,
-[12118] = 0,
-[6990] = 0,
-[12752] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8568] = 0,
-[8569] = 0,
-[9365] = 0,
-[8570] = 0,
-[8567] = 0,
-[8571] = 0,
-[6161] = 0,
-[12763] = 0,
-[8146] = 0,
-[8573] = 0,
-[8178] = 0,
-[8631] = 0,
-[8147] = 0,
-[10252] = 0,
-[8179] = 0,
-[6162] = 0,
-[10980] = 0,
-[11986] = 0,
-},
-["server"] = "Bronzebeard",
-},
-["Player-1929-0D66036B"] = {
-["playerName"] = "Сайбил",
-["statistics"] = {
-[15168] = 0,
-[10978] = 0,
-[10979] = 0,
-[8567] = 0,
-[8568] = 0,
-[8569] = 0,
-[8570] = 0,
-[8571] = 0,
-[12763] = 1,
-[8573] = 0,
-[6161] = 0,
-[6162] = 0,
-[6989] = 0,
-[6990] = 0,
-[40297] = 0,
-[1097] = 0,
-[40722] = 0,
-[8146] = 0,
-[8147] = 0,
-[14455] = 0,
-[19386] = 0,
-[40298] = 0,
-[14458] = 0,
-[8151] = 0,
-[8152] = 0,
-[8626] = 0,
-[8627] = 0,
-[8628] = 0,
-[8629] = 0,
-[8630] = 0,
-[8631] = 0,
-[9279] = 0,
-[40295] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[15176] = 0,
-[13616] = 0,
-[13617] = 0,
-[13364] = 0,
-[13365] = 0,
-[13366] = 0,
-[15145] = 0,
-[15146] = 0,
-[15147] = 0,
-[14404] = 0,
-[8178] = 0,
-[13372] = 0,
-[8179] = 0,
-[13374] = 0,
-[8180] = 0,
-[14138] = 0,
-[40296] = 0,
-[15144] = 0,
-[13379] = 0,
-[13618] = 0,
-[10980] = 0,
-[13373] = 0,
-[11986] = 0,
-[8182] = 0,
-[8150] = 0,
-[8181] = 0,
-[8149] = 0,
-[12118] = 0,
-[13619] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1929-0E21F0D3"] = {
-["playerName"] = "Элави",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[8152] = 0,
-[13373] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[6989] = 0,
-[12118] = 0,
-[13379] = 0,
-[6990] = 0,
-[8626] = 0,
-[8627] = 0,
-[10978] = 0,
-[8628] = 0,
-[10980] = 0,
-[8629] = 0,
-[13616] = 0,
-[8567] = 0,
-[13374] = 0,
-[8568] = 0,
-[10979] = 0,
-[8569] = 0,
-[8631] = 0,
-[8570] = 0,
-[13366] = 0,
-[8571] = 0,
-[6161] = 0,
-[12763] = 0,
-[8146] = 0,
-[8573] = 0,
-[6162] = 0,
-[8178] = 0,
-[8147] = 0,
-[13372] = 0,
-[8179] = 0,
-[13364] = 0,
-[8630] = 0,
-[13617] = 0,
-},
-["server"] = "Борейская тундра",
-},
-["Player-1929-0E218FE3"] = {
-["playerName"] = "Ниоши",
-["statistics"] = {
-[13365] = 0,
-[8180] = 0,
-[13618] = 0,
-[8149] = 0,
-[13619] = 0,
-[8181] = 0,
-[8150] = 0,
-[1097] = 0,
-[8182] = 0,
-[8151] = 0,
-[11986] = 0,
-[8152] = 0,
-[13373] = 0,
-[9279] = 0,
-[11957] = 0,
-[11958] = 0,
-[11959] = 0,
-[13374] = 0,
-[6989] = 0,
-[12118] = 0,
-[13617] = 0,
-[13379] = 0,
-[6990] = 0,
-[15144] = 0,
-[13364] = 0,
-[15145] = 0,
-[14138] = 0,
-[15146] = 0,
-[8626] = 0,
-[15147] = 0,
-[8627] = 0,
-[14455] = 0,
-[8628] = 0,
-[13372] = 0,
-[8629] = 0,
-[8567] = 0,
-[8630] = 0,
-[14458] = 0,
-[8568] = 0,
-[6162] = 0,
-[8569] = 0,
-[8178] = 0,
-[8570] = 0,
-[13366] = 0,
-[8571] = 0,
-[6161] = 0,
-[8631] = 0,
-[8146] = 0,
-[8573] = 0,
-[12763] = 0,
-[10979] = 0,
-[8147] = 0,
-[15168] = 0,
-[8179] = 0,
-[13616] = 0,
-[10978] = 0,
-[10980] = 0,
-},
-["server"] = "Борейская тундра",
-},
 ["Player-1625-090DC298"] = {
 ["playerName"] = "Вейлзевулла",
 ["statistics"] = {
@@ -43855,10 +48942,10 @@ nil,
 [8627] = 0,
 [8628] = 0,
 [8629] = 0,
-[8630] = 0,
 [8567] = 0,
-[8631] = 0,
+[8630] = 0,
 [8568] = 0,
+[8631] = 0,
 [10979] = 0,
 [8569] = 0,
 [11986] = 0,
@@ -43917,9 +49004,9 @@ nil,
 [8568] = 0,
 [10980] = 0,
 [8569] = 0,
-[8178] = 0,
-[8570] = 0,
 [6162] = 0,
+[8570] = 0,
+[8178] = 0,
 [8571] = 0,
 [6161] = 0,
 [13366] = 0,
@@ -43936,68 +49023,48 @@ nil,
 },
 ["server"] = "Durotan",
 },
-["Player-1602-0F8A3993"] = {
-["playerName"] = "Рефти",
+["Player-1602-0FCA7DCF"] = {
+["playerName"] = "Нэмея",
 ["statistics"] = {
 [13365] = 0,
 [8180] = 0,
 [13618] = 0,
 [13619] = 0,
-[8181] = 1,
+[8181] = 0,
 [8182] = 0,
 [40297] = 0,
-[40722] = 0,
-[41311] = 0,
-[13372] = 0,
-[13617] = 0,
-[13373] = 0,
-[13616] = 0,
-[13374] = 0,
-[40295] = 0,
-[8178] = 1,
+[9279] = 0,
 [41327] = 0,
 [41329] = 0,
-[20484] = 0,
-[41312] = 0,
-[6989] = 1,
-[12763] = 0,
-[40296] = 0,
-[13379] = 1,
-[6990] = 0,
-[15144] = 0,
-[15176] = 0,
-[15145] = 0,
-[8146] = 0,
-[15146] = 0,
-[8626] = 13,
-[15147] = 0,
+[41662] = 0,
+[41664] = 0,
+[8626] = 0,
 [8627] = 0,
-[14455] = 0,
 [8628] = 0,
-[8631] = 0,
 [8629] = 0,
+[40296] = 0,
 [40298] = 0,
-[8567] = 3,
-[14458] = 0,
-[8568] = 0,
-[41314] = 0,
-[8569] = 0,
-[13366] = 0,
-[8570] = 0,
 [8630] = 0,
+[40295] = 0,
+[8631] = 0,
+[13616] = 0,
+[8569] = 0,
+[8568] = 0,
+[8570] = 0,
+[19386] = 0,
 [8571] = 0,
-[6161] = 0,
+[13366] = 0,
 [41328] = 0,
 [41330] = 0,
 [8573] = 0,
-[6162] = 0,
-[14138] = 0,
-[8147] = 0,
-[19386] = 0,
+[8178] = 0,
+[8567] = 0,
+[41663] = 0,
+[40722] = 0,
 [8179] = 0,
 [13364] = 0,
-[9279] = 0,
-[41313] = 0,
+[41661] = 0,
+[13617] = 0,
 },
 ["server"] = "Гордунни",
 },

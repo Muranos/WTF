@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "Combined" "134400"
+#showtooltip [exist,nodead,harm] Живой жар; Рывок вперед
+/cast [exist,nodead,harm] Живой жар; Рывок вперед
+END
+VER 3 0100000000000004 "Dispel" "134400"
+#showtooltip
+/cast [@mouseover,nodead,help] Нейтрализация; [@target, nodead, help] Нейтрализация; [@player] Нейтрализация
+END
+VER 3 0100000000000003 "Flower" "134400"
+#showtooltip
+/cast [@cursor] Изумрудный цветок
+END
+VER 3 0100000000000002 "SelfHeal" "134400"
+#showtooltip
+/cast [@player] Живой жар
+END

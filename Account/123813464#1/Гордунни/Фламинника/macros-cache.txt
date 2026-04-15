@@ -1,6 +1,6 @@
 VER 3 0100000000000005 "Avatar" "INV_MISC_QUESTIONMARK"
 #showtooltip Аватара
-/use Пузырек с оживленной кровью
+/use 13
 /cast Аватара
 END
 VER 3 0100000000000009 "CancelHots" "132221"

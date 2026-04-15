@@ -2,10 +2,6 @@
 PremadeGroupsFilterState = {
 ["version"] = 6,
 ["c6f4"] = {
-["mini"] = {
-["expression"] = "",
-["sorting"] = "",
-},
 ["role"] = {
 ["heals"] = {
 },
@@ -15,6 +11,10 @@ PremadeGroupsFilterState = {
 },
 ["members"] = {
 },
+["expression"] = "",
+},
+["mini"] = {
+["sorting"] = "",
 ["expression"] = "",
 },
 },

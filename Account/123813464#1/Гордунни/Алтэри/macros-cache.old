@@ -33,6 +33,11 @@ VER 3 010000000000000F "Leap" "134400"
 /cast Игрушечная призма
 /cast Инфернальный удар
 END
+VER 3 0100000000000010 "Meta" "134400"
+#showtooltip Метаморфоза
+/use 14
+/cast Метаморфоза
+END
 VER 3 010000000000000A "OpenCache" "134400"
 #showtooltip Желудок любопытной формы
 /use Желудок любопытной формы
@@ -52,10 +57,10 @@ VER 3 0100000000000006 "Trinkets" "INV_MISC_QUESTIONMARK"
 /use Ледяная эгида Диимы
 END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-NСос[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Алт[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Алт[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0100000000000004 "Удар Хаоса" "INV_MISC_QUESTIONMARK"
 #showtooltip Удар хаоса

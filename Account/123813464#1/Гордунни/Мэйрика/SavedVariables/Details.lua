@@ -59,7 +59,7 @@ _detalhes_database = {
 ["utility"] = false,
 },
 },
-["last_version"] = "11.1.0 13502",
+["last_version"] = "11.1.7 13642",
 ["player_stats"] = {
 ["mythicdungeoncompletedDF2"] = {
 [244] = {
@@ -91,6 +91,7 @@ _detalhes_database = {
 },
 ["last_coach_name"] = false,
 },
+["arena_data_index_selected"] = 1,
 ["local_instances_config"] = {
 {
 ["modo"] = 2,
@@ -114,9 +115,9 @@ _detalhes_database = {
 ["attribute"] = 1,
 ["pos"] = {
 ["normal"] = {
-["y"] = -450.3990020751953,
-["x"] = 542.599609375,
-["w"] = 194.8001861572266,
+["y"] = -444.7988891601563,
+["x"] = 552.9998779296875,
+["w"] = 194.800048828125,
 ["h"] = 156.4001617431641,
 },
 ["solo"] = {
@@ -150,9 +151,9 @@ _detalhes_database = {
 ["attribute"] = 2,
 ["pos"] = {
 ["normal"] = {
-["y"] = -450.3990020751953,
-["x"] = 739.399658203125,
-["w"] = 198.7999420166016,
+["y"] = -444.7988891601563,
+["x"] = 749.7998046875,
+["w"] = 198.8000793457031,
 ["h"] = 156.4001617431641,
 },
 ["solo"] = {
@@ -185,8 +186,8 @@ _detalhes_database = {
 ["attribute"] = 1,
 ["pos"] = {
 ["normal"] = {
-["y"] = -450.3990020751953,
-["x"] = 924.9998779296875,
+["y"] = -444.7988891601563,
+["x"] = 935.4000244140625,
 ["w"] = 172.4001617431641,
 ["h"] = 156.4001617431641,
 },
@@ -243,12 +244,14 @@ _detalhes_database = {
 ["dungeon_zone_id"] = 1763,
 ["previous_boss_killed_at"] = 1709217733,
 },
+["last_realversion"] = 165,
 ["benchmark_db"] = {
 ["frame"] = {
 },
 },
-["SoloTablesSaved"] = {
-["Mode"] = 1,
+["data_harvested_for_charts"] = {
+},
+["arena_data_compressed"] = {
 },
 ["combat_log"] = {
 ["merge_gemstones_1007"] = false,
@@ -261,9 +264,9 @@ _detalhes_database = {
 ["evoker_show_realtimedps"] = false,
 ["inverse_deathlog_mplus"] = false,
 },
-["announce_firsthit"] = {
-["enabled"] = true,
-["channel"] = "SELF",
+["nick_tag_cache"] = {
+["nextreset"] = 1755279078,
+["last_version"] = 16,
 },
 ["mythic_plus_log"] = {
 "29/02/24 16:42:16|Activity Time: 522.23999999993",
@@ -288,11 +291,15 @@ _detalhes_database = {
 ["enabled"] = true,
 ["channel"] = "SELF",
 },
-["combat_counter"] = 3858,
+["SoloTablesSaved"] = {
+["Mode"] = 1,
+},
+["announce_firsthit"] = {
+["enabled"] = true,
+["channel"] = "SELF",
+},
 ["ignore_nicktag"] = false,
 ["last_encounter"] = "Аргус Порабощенный",
-["data_harvested_for_charts"] = {
-},
 ["plugin_database"] = {
 ["DETAILS_PLUGIN_TINY_THREAT"] = {
 ["enabled"] = true,
@@ -383,11 +390,11 @@ _detalhes_database = {
 1,
 0.5,
 },
+["arrow_anchor_y"] = 0,
 ["main_frame_size"] = {
 314.4000244140625,
 104.0001449584961,
 },
-["arrow_anchor_y"] = 0,
 ["minimap"] = {
 ["minimapPos"] = 134.8119891003092,
 ["radius"] = 160,
@@ -395,20 +402,20 @@ _detalhes_database = {
 },
 ["main_frame_locked"] = true,
 ["arrow_anchor_x"] = 0,
-["author"] = "Terciob",
-["row_texture"] = "Details Serenity",
-["square_grow_direction"] = "right",
-["font_size"] = 10,
 ["row_color"] = {
 0.1,
 0.1,
 0.1,
 0.4,
 },
+["row_texture"] = "Details Serenity",
+["square_grow_direction"] = "right",
+["use_spark"] = true,
+["author"] = "Terciob",
 ["square_amount"] = 5,
 ["enabled"] = true,
 ["arrow_size"] = 10,
-["use_spark"] = true,
+["y"] = -102.7982177734375,
 ["row_spacement"] = 21,
 ["main_frame_color"] = {
 0,
@@ -418,6 +425,7 @@ _detalhes_database = {
 },
 ["main_frame_strata"] = "LOW",
 ["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+["font_size"] = 10,
 ["per_second"] = {
 ["enabled"] = false,
 ["point"] = "CENTER",
@@ -429,7 +437,6 @@ _detalhes_database = {
 ["update_speed"] = 0.05,
 ["size"] = 32,
 },
-["y"] = -102.7982177734375,
 ["x"] = 0,
 ["font_face"] = "Friz Quadrata TT",
 ["square_size"] = 32,
@@ -449,9 +456,9 @@ _detalhes_database = {
 ["savedStyles"] = {
 },
 ["character_data"] = {
-["logons"] = 290,
+["logons"] = 292,
 },
-["last_day"] = "03",
+["last_day"] = "01",
 ["announce_deaths"] = {
 ["enabled"] = false,
 ["last_hits"] = 1,
@@ -486,31 +493,10 @@ _detalhes_database = {
 },
 ["raid_roster"] = {
 },
-["tempo_start"] = 1685086.524,
+["tempo_start"] = 1934431.231,
 ["last_events_tables"] = {
 },
 ["alternate_power"] = {
-},
-["totals_grupo"] = {
-0,
-0,
-{
-0,
-[0] = 0,
-["alternatepower"] = 0,
-[3] = 0,
-[6] = 0,
-},
-{
-["buff_uptime"] = 0,
-["ress"] = 0,
-["debuff_uptime"] = 0,
-["cooldowns_defensive"] = 0,
-["interrupt"] = 0,
-["dispell"] = 0,
-["cc_break"] = 0,
-["dead"] = 0,
-},
 },
 ["bossTimers"] = {
 },
@@ -543,8 +529,31 @@ _detalhes_database = {
 },
 ["player_last_events"] = {
 },
+["totals_grupo"] = {
+0,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+},
 ["frags_need_refresh"] = false,
 ["aura_timeline"] = {
+},
+["compressed_charts"] = {
 },
 ["data_inicio"] = 0,
 ["amountCasts"] = {
@@ -580,37 +589,12 @@ _detalhes_database = {
 ["start_time"] = 0,
 ["TimeData"] = {
 },
-["combat_counter"] = 3857,
-},
-["nick_tag_cache"] = {
-["nextreset"] = 1745008321,
-["Даарел"] = {
-"Ловац",
-"",
-{
-0,
-1,
-0,
-1,
-},
-"",
-{
-0,
-1,
-0,
-1,
-},
-{
-1,
-1,
-1,
-},
-32,
-},
-["last_version"] = 16,
+["combat_counter"] = 3861,
 },
 ["on_death_menu"] = false,
-["last_realversion"] = 162,
+["arena_data_headers"] = {
+},
+["combat_counter"] = 3862,
 ["announce_cooldowns"] = {
 ["ignored_cooldowns"] = {
 },
@@ -625,6 +609,10 @@ _detalhes_database = {
 ["cached_roles"] = {
 },
 ["cached_specs"] = {
+["Player-1602-0F2EF8ED"] = 104,
+["Player-1602-0FA06D1C"] = 104,
+["Player-1602-0F7A93C0"] = 65,
+["Player-1602-0FB4DAD1"] = 1467,
 ["Player-1602-04F44A64"] = 258,
 },
 }

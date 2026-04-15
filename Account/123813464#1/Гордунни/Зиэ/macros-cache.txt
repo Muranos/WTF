@@ -1,0 +1,19 @@
+VER 3 0100000000000003 "HouseBolt" "134400"
+#showtooltip
+/cast [exists,nodead,harm] Испепеление; Рывок вперед
+END
+VER 3 0100000000000005 "RainOfFire" "134400"
+#showtooltip
+/cast [@cursor] Огненный ливень
+END
+VER 3 0100000000000004 "SoulStone" "134400"
+#showtooltip Камень души
+/use Эфирная победа
+/cast [@mouseover,help,nodead] Камень души;Камень души
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Элл[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Джа
+END

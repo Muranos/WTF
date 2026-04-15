@@ -14,23 +14,23 @@ RaiderIO_Config = {
 ["minimapIcon"] = {
 ["minimapPos"] = 180,
 ["showInCompartment"] = true,
-["lock"] = false,
 ["hide"] = false,
+["lock"] = false,
 },
 ["showMainsScore"] = true,
 ["enableFriendsTooltips"] = true,
 ["showDropDownCopyURL"] = true,
 ["enableLFGTooltips"] = true,
-["enableUnitTooltips"] = true,
-["alwaysExtendTooltip"] = false,
-["enableWhoMessages"] = true,
-["showSimpleScoreColors"] = false,
-["showScoreInCombat"] = true,
 ["previouslyEnabledLogging"] = false,
+["showSimpleScoreColors"] = false,
+["enableWhoMessages"] = true,
+["showScoreInCombat"] = true,
+["alwaysExtendTooltip"] = false,
+["enableUnitTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Ващеновый-gordunni"
+RaiderIO_LastCharacter = "eu-Дэлери-gordunni"
 RaiderIO_MissingCharacters = {
-["eu-Ващеновый-gordunni"] = true,
+["eu-Дэлери-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

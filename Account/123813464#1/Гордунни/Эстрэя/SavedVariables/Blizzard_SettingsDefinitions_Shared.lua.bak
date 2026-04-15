@@ -1,0 +1,7 @@
+
+NewSettingsSeen = {
+["NAMEPLATES_LABEL"] = true,
+["raidFramesDisplayClassColor"] = true,
+["cooldownViewerEnabled"] = true,
+["chatBubblesRaid"] = true,
+}

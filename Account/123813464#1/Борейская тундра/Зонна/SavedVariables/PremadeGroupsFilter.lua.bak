@@ -1,24 +1,27 @@
 
 PremadeGroupsFilterState = {
-["c1f4"] = {
-["enabled"] = false,
-["mini"] = {
-["sorting"] = "",
-["expression"] = "",
-},
-["minimized"] = false,
-},
 ["c3f5"] = {
 ["minimized"] = false,
 ["mini"] = {
-["sorting"] = "",
 ["expression"] = "",
+["sorting"] = "",
+},
+["raid"] = {
+["expression"] = "",
+["sorting"] = "",
 },
 ["enabled"] = true,
-["raid"] = {
-["sorting"] = "",
+},
+["c1f4"] = {
+["enabled"] = false,
+["mini"] = {
 ["expression"] = "",
+["sorting"] = "",
 },
+["minimized"] = false,
 },
-["version"] = 6,
+["version"] = 8,
+["c121f4"] = {
+["enabled"] = true,
+},
 }

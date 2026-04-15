@@ -1,50 +1,14 @@
 
 PremadeGroupsFilterState = {
-["version"] = 6,
-["c3f5"] = {
-["minimized"] = false,
-["mini"] = {
-["expression"] = "",
-["sorting"] = "",
-},
-["raid"] = {
-["difficulty"] = {
-},
-["tanks"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["expression"] = "",
-["members"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["heals"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["dps"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["defeated"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["sorting"] = "",
-},
+["c121f4"] = {
 ["enabled"] = true,
 },
-["c6f4"] = {
+["version"] = 8,
+["c1f4"] = {
 ["enabled"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
 ["role"] = {
 ["heals"] = {
@@ -59,13 +23,70 @@ PremadeGroupsFilterState = {
 },
 ["minimized"] = false,
 },
+["c6f4"] = {
+["enabled"] = false,
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+["minimized"] = false,
+["role"] = {
+["heals"] = {
+},
+["tanks"] = {
+},
+["dps"] = {
+},
+["members"] = {
+},
+["expression"] = "",
+},
+},
+["c3f5"] = {
+["minimized"] = false,
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+["enabled"] = true,
+["raid"] = {
+["difficulty"] = {
+},
+["tanks"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["sorting"] = "",
+["defeated"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["heals"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["dps"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["members"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["expression"] = "",
+},
+},
 ["c2f4"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
-["enabled"] = true,
 ["dungeon"] = {
 ["mprating"] = {
 ["max"] = "",
@@ -75,7 +96,7 @@ PremadeGroupsFilterState = {
 ["heals"] = {
 ["max"] = "1",
 ["min"] = "1",
-["act"] = true,
+["act"] = false,
 },
 ["dps"] = {
 ["max"] = "",
@@ -98,13 +119,6 @@ PremadeGroupsFilterState = {
 },
 ["sorting"] = "",
 },
-},
-["c1f4"] = {
-["enabled"] = false,
-["mini"] = {
-["expression"] = "",
-["sorting"] = "",
-},
-["minimized"] = false,
+["enabled"] = true,
 },
 }

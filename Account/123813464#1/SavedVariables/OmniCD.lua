@@ -1,31 +1,45 @@
 
 OmniCDDB = {
 ["profileKeys"] = {
-["Ниамэй - Гордунни"] = "Default",
+["Шайэн - Гордунни"] = "Default",
 ["Алтери - Борейская тундра"] = "Default",
-["Фламинника - Гордунни"] = "Default",
-["Altery - Durotan"] = "Default",
 ["Эстрэя - Гордунни"] = "Default",
-["Алтэри - Гордунни"] = "Default",
-["Нирейя - Борейская тундра"] = "Default",
-["Дэлери - Борейская тундра"] = "Default",
-["Эстрея - Борейская тундра"] = "Default",
-["Рефти - Гордунни"] = "Default",
-["Мэйрика - Гордунни"] = "Default",
-["Эллиата - Гордунни"] = "Default",
-["Estrea - Alleria"] = "Default",
-["Ващеновый - Гордунни"] = "Default",
-["Зонна - Борейская тундра"] = "Default",
-["Flaminika - Durotan"] = "Default",
-["Nietta - EU Mythic Dungeons"] = "Default",
-["Estrea - EU Mythic Dungeons"] = "Default",
 ["Алоиза - Борейская тундра"] = "Default",
+["Тиаз - Борейская тундра"] = "Default",
+["Литрэс - Гордунни"] = "Default",
+["Катрэта - Гордунни"] = "Default",
+["Лиерми - Гордунни"] = "Default",
+["Сайбил - Борейская тундра"] = "Default",
+["Мэйрика - Гордунни"] = "Default",
+["Estrea - EU Mythic Dungeons"] = "Default",
+["Зонна - Борейская тундра"] = "Default",
+["Nietta - EU Mythic Dungeons"] = "Default",
 ["Ниоши - Борейская тундра"] = "Default",
 ["Алоиза - Гордунни"] = "Default",
-["Сайбил - Борейская тундра"] = "Default",
+["Миттенс - Гордунни"] = "Default",
 ["Ниэтта - Гордунни"] = "Default",
-["Шайэн - Гордунни"] = "Default",
 ["Дэлери - Гордунни"] = "Default",
+["Ниамэй - Гордунни"] = "Default",
+["Фламинника - Гордунни"] = "Default",
+["Элсин - Гордунни"] = "Default",
+["Altery - Durotan"] = "Default",
+["Терцета - Гордунни"] = "Default",
+["Нирейя - Борейская тундра"] = "Default",
+["Дэлери - Борейская тундра"] = "Default",
+["Рефти - Гордунни"] = "Default",
+["Эраминта - Гордунни"] = "Default",
+["Ващеновый - Гордунни"] = "Default",
+["Алиэрена - Гордунни"] = "Default",
+["Flaminika - Durotan"] = "Default",
+["Зиэ - Гордунни"] = "Default",
+["Артэмита - Гордунни"] = "Default",
+["Алтэри - Гордунни"] = "Default",
+["Элантаис - Гордунни"] = "Default",
+["Эллиата - Гордунни"] = "Default",
+["Estrea - Alleria"] = "Default",
+["Эстрея - Борейская тундра"] = "Default",
+["Нэмея - Гордунни"] = "Default",
+["Земкатра - Гордунни"] = "Default",
 },
 ["global"] = {
 ["oodVer"] = 9272722,
@@ -33,10 +47,6 @@ OmniCDDB = {
 ["disableElvMsg"] = true,
 },
 ["namespaces"] = {
-["LibDualSpec-1.0"] = {
-},
-["BattleRes"] = {
-},
 },
 ["version"] = 4,
 ["cooldowns"] = {
@@ -44,6 +54,10 @@ OmniCDDB = {
 ["profiles"] = {
 ["Default"] = {
 ["Party"] = {
+["noneZoneSetting"] = "party",
+["groupSize"] = {
+["none"] = 5,
+},
 ["party"] = {
 ["extraBars"] = {
 ["raidBar1"] = {
@@ -101,14 +115,6 @@ OmniCDDB = {
 ["general"] = {
 ["showPlayer"] = true,
 },
-},
-["noneZoneSetting"] = "party",
-["groupSize"] = {
-["none"] = 5,
-},
-["visibility"] = {
-["scenario"] = true,
-["none"] = true,
 },
 ["scenarioZoneSetting"] = "party",
 },

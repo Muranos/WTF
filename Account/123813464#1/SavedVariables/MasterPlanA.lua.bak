@@ -47,9 +47,9 @@ MasterPlanAG = {
 },
 ["curOil"] = 1025,
 ["faction"] = "Alliance",
-["class"] = "DEMONHUNTER",
-["curRes"] = 7461,
 ["lastCacheTime"] = 1592403163,
+["curRes"] = 7461,
+["class"] = "DEMONHUNTER",
 },
 ["Нирейя"] = {
 ["class"] = "DRUID",
@@ -76,8 +76,8 @@ MasterPlanAG = {
 ["summary"] = {
 ["tt2"] = true,
 ["tt3"] = true,
-["tt1"] = 1598838794,
 ["ti1"] = 118529,
+["tt1"] = 1598838794,
 ["ti3"] = 127855,
 ["inProgress"] = {
 [473] = 1598851110,
@@ -86,8 +86,8 @@ MasterPlanAG = {
 ["ti2"] = 122486,
 },
 ["faction"] = "Alliance",
-["class"] = "DRUID",
 ["lastCacheTime"] = 1591374186,
+["class"] = "DRUID",
 ["curRes"] = 9063,
 ["curOil"] = 1135,
 },
@@ -98,16 +98,12 @@ MasterPlanAG = {
 },
 },
 ["curOil"] = 1350,
-["class"] = "ROGUE",
 ["lastCacheTime"] = 1594399625,
+["class"] = "ROGUE",
 ["curRes"] = 5773,
 ["faction"] = "Alliance",
 },
 ["Ниоши"] = {
-["faction"] = "Alliance",
-["class"] = "MAGE",
-},
-["Эрника"] = {
 ["faction"] = "Alliance",
 ["class"] = "MAGE",
 },
@@ -116,8 +112,8 @@ MasterPlanAG = {
 ["lastOilTime"] = 1599856694,
 ["tt2"] = 1597636687,
 ["tt3"] = true,
-["tt1"] = 1598229885,
 ["ti1"] = 118531,
+["tt1"] = 1598229885,
 ["ti3"] = 127855,
 ["inProgress"] = {
 [721] = 1599861303,
@@ -125,14 +121,18 @@ MasterPlanAG = {
 ["ti2"] = 122486,
 },
 ["faction"] = "Alliance",
-["lastCacheTime"] = 1591910378,
 ["class"] = "PRIEST",
+["lastCacheTime"] = 1591910378,
 ["curRes"] = 10000,
 ["curOil"] = 12840,
 },
 ["Элави"] = {
 ["class"] = "WARLOCK",
 ["faction"] = "Alliance",
+},
+["Эрника"] = {
+["faction"] = "Alliance",
+["class"] = "MAGE",
 },
 ["Зонна"] = {
 ["summary"] = {
@@ -145,8 +145,8 @@ MasterPlanAG = {
 ["ti2"] = 122486,
 },
 ["faction"] = "Alliance",
-["lastCacheTime"] = 1592577298,
 ["class"] = "MAGE",
+["lastCacheTime"] = 1592577298,
 ["curRes"] = 9590,
 ["curOil"] = 1415,
 },
@@ -169,6 +169,42 @@ MasterPlanAG = {
 },
 },
 ["Гордунни"] = {
+["Шайэн"] = {
+["faction"] = "Alliance",
+["class"] = "SHAMAN",
+},
+["Элантаис"] = {
+["faction"] = "Horde",
+["class"] = "SHAMAN",
+},
+["Литрэс"] = {
+["faction"] = "Alliance",
+["class"] = "DEATHKNIGHT",
+},
+["Мэйрика"] = {
+["faction"] = "Alliance",
+["class"] = "PRIEST",
+},
+["Земкатра"] = {
+["class"] = "WARRIOR",
+["faction"] = "Alliance",
+},
+["Эллиата"] = {
+["faction"] = "Alliance",
+["class"] = "WARLOCK",
+},
+["Терцета"] = {
+["class"] = "PRIEST",
+["faction"] = "Alliance",
+},
+["Лиерми"] = {
+["class"] = "ROGUE",
+["faction"] = "Alliance",
+},
+["Эстэро"] = {
+["faction"] = "Alliance",
+["class"] = "EVOKER",
+},
 ["Дэлери"] = {
 ["summary"] = {
 ["inProgress"] = {
@@ -181,19 +217,27 @@ MasterPlanAG = {
 ["curRes"] = 1257,
 ["class"] = "DEATHKNIGHT",
 },
-["Шайэн"] = {
-["faction"] = "Alliance",
-["class"] = "SHAMAN",
-},
 ["Ниамэй"] = {
 ["lastCacheTime"] = 1605983639,
 ["class"] = "MONK",
 ["curRes"] = 1334,
 ["faction"] = "Alliance",
 },
-["Мэйрика"] = {
+["Ващеновый"] = {
 ["faction"] = "Alliance",
-["class"] = "PRIEST",
+["class"] = "MONK",
+},
+["Артэмита"] = {
+["class"] = "HUNTER",
+["faction"] = "Horde",
+},
+["Зиэ"] = {
+["faction"] = "Horde",
+["class"] = "WARLOCK",
+},
+["Нэмея"] = {
+["faction"] = "Horde",
+["class"] = "MONK",
 },
 ["Ниэтта"] = {
 ["summary"] = {
@@ -208,6 +252,27 @@ MasterPlanAG = {
 ["curRes"] = 3342,
 ["lastCacheTime"] = 1642635541,
 },
+["Алоиза"] = {
+["summary"] = {
+["inProgress"] = {
+[372] = 1639743347,
+[230] = 1639710055,
+},
+},
+["curOil"] = 12840,
+["faction"] = "Alliance",
+["class"] = "PRIEST",
+["curRes"] = 10000,
+["lastCacheTime"] = 1640611890,
+},
+["Энастари"] = {
+["faction"] = "Alliance",
+["class"] = "EVOKER",
+},
+["Катрэта"] = {
+["class"] = "DEMONHUNTER",
+["faction"] = "Horde",
+},
 ["Фламинника"] = {
 ["summary"] = {
 ["inProgress"] = {
@@ -220,22 +285,13 @@ MasterPlanAG = {
 ["curRes"] = 9840,
 ["class"] = "WARRIOR",
 },
-["Эллиата"] = {
+["Алиэрена"] = {
 ["faction"] = "Alliance",
-["class"] = "WARLOCK",
+["class"] = "ROGUE",
 },
-["Алоиза"] = {
-["summary"] = {
-["inProgress"] = {
-[372] = 1639743347,
-[230] = 1639710055,
-},
-},
-["curOil"] = 12840,
+["Эраминта"] = {
 ["faction"] = "Alliance",
-["lastCacheTime"] = 1640611890,
-["curRes"] = 10000,
-["class"] = "PRIEST",
+["class"] = "MAGE",
 },
 ["Алтэри"] = {
 ["faction"] = "Alliance",

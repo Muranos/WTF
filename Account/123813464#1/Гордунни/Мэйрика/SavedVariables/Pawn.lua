@@ -1,8 +1,6 @@
 
 PawnOptions = {
-["LastVersion"] = 2.1011,
-["LastPlayerFullName"] = "Мэйрика-Гордунни",
-["AutoSelectScales"] = true,
+["LastVersion"] = 2.1101,
 ["ItemLevels"] = {
 {
 ["ID"] = 217202,
@@ -92,6 +90,9 @@ nil,
 ["Link"] = "|cffa335ee|Hitem:204742::::::::70:258::90:5:8902:10341:6652:1602:8767:1:28:2641:::::|h[Насыщенная курильница]|h|r",
 },
 },
+["AutoSelectScales"] = true,
+["LastPlayerFullName"] = "Мэйрика-Гордунни",
+["AutoSelectScalesEnabledOnce"] = true,
 ["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

@@ -1,7 +1,9 @@
 
 Scrap_CharSets = {
-	["ml"] = {
-	},
-	["list"] = {
-	},
+["auto"] = {
+},
+["ml"] = {
+},
+["list"] = {
+},
 }

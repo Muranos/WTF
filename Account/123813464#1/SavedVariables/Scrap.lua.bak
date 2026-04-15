@@ -2,7 +2,9 @@
 Scrap_Sets = {
 ["destroy"] = true,
 ["latest"] = {
-["cooldown"] = 1741881416,
+["id"] = "12.0.1",
+["cooldown"] = 1761155777,
+["who"] = "Алтэри-Гордунни",
 },
 ["safe"] = true,
 ["list"] = {

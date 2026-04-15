@@ -1,28 +1,31 @@
 
-OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 ["Гордунни-Эстрэя-3"] = "default",
 },
-["_OPieVersion"] = "Ånd 5a (4.133)",
+["_OPieVersion"] = "8.3.2 (4.141)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "ruRU",
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "11.1.0",
+["_TimeBand"] = 0.1796875,
 ["ProfileStorage"] = {
 ["default"] = {
 ["InteractionMode"] = 2,
+["RotationTokens"] = {
+["ABueTilOXSf"] = "ABueTilOXSr",
+["ABueToLRFZt"] = "ABueToLRFZr",
+},
+["ShowCooldowns"] = true,
 ["Bindings"] = {
 ["RaidSymbols"] = false,
-["OPieTracking"] = false,
-["Teleports"] = "F8",
 ["OPieAutoQuest"] = false,
+["Teleports"] = "F8",
+["SpecMenu"] = "F5",
 ["CommonTrades"] = false,
 ["Mounts"] = "F6",
 ["Extras"] = "F7",
-["SpecMenu"] = "F5",
+["OPieTracking"] = false,
 },
-["ShowCooldowns"] = true,
 },
 },
 ["PersistentStorage"] = {
@@ -56,110 +59,120 @@ OPie_SavedData = {
 ["name"] = "Mounts",
 ["save"] = true,
 },
+["arthstones"] = {
+{
+"toy",
+180290,
+["sliceToken"] = "ABueTilOXSe",
+},
+{
+"toy",
+212337,
+["sliceToken"] = "ABueTilOXSr",
+},
+{
+"toy",
+168907,
+["sliceToken"] = "ABueTilOXS1",
+},
+{
+"toy",
+163045,
+["sliceToken"] = "ABueTilOXSt",
+},
+{
+"toy",
+162973,
+["sliceToken"] = "ABueTilOXSy",
+},
+{
+"toy",
+172179,
+["sliceToken"] = "ABueTilOXSu",
+},
+{
+"toy",
+166747,
+["sliceToken"] = "ABueTilOXSi",
+},
+{
+"toy",
+182773,
+["sliceToken"] = "ABueTilOXS2",
+},
+{
+"toy",
+166746,
+["sliceToken"] = "ABueTilOXSo",
+},
+{
+"toy",
+228940,
+["sliceToken"] = "ABueTilOXSp",
+},
+{
+"toy",
+184353,
+["sliceToken"] = "ABueTilOXSa",
+},
+{
+"toy",
+246565,
+["sliceToken"] = "ABueTilOXSs",
+},
+{
+"toy",
+209035,
+["sliceToken"] = "ABueTilOXS3",
+},
+{
+"toy",
+188952,
+["sliceToken"] = "ABueTilOXSd",
+},
+["name"] = "Hearthstones",
+["save"] = true,
+},
 ["Teleports"] = {
 {
-["id"] = 393256,
-["sliceToken"] = "ABuevM=oX9e",
+["sliceToken"] = "ABueRlb12Aw",
+["id"] = 1237215,
 },
 {
-["id"] = 393766,
-["sliceToken"] = "ABuebwqoWwe",
+["sliceToken"] = "ABueRlb12Ae",
+["id"] = 1216786,
 },
 {
-["id"] = 131204,
-["sliceToken"] = "ABuebugryyl",
+["sliceToken"] = "ABueRlb12Ar",
+["id"] = 445414,
 },
 {
+["sliceToken"] = "ABueRlb12A1",
+["id"] = 445417,
+},
+{
+["sliceToken"] = "ABueRlb12At",
+["id"] = 445444,
+},
+{
+["sliceToken"] = "ABueRlb12Ay",
+["id"] = 367416,
+},
+{
+["sliceToken"] = "ABueRlb12Au",
+["id"] = 354465,
+},
+{
+["sliceToken"] = "ABueRlb12Ai",
 ["id"] = 393764,
-["sliceToken"] = "ABuebugryyk",
 },
 {
-["id"] = 393273,
-["sliceToken"] = "ABuebugryyj",
-["icon"] = 4640498,
+["sliceToken"] = "ABueRlb12A2",
+["id"] = 373262,
 },
 {
-["id"] = 393262,
-["sliceToken"] = "ABuebugryy4",
-["icon"] = 133161,
-},
-{
-["id"] = 393279,
-["sliceToken"] = "ABuebugryyh",
-},
-{
-["id"] = 159899,
-["sliceToken"] = "ABuebugryyg",
-},
-{
-["id"] = 410074,
-["sliceToken"] = "ABueb/Wd/8e",
-},
-{
-["id"] = 410071,
-["sliceToken"] = "ABuebBrhuFe",
-},
-{
-["id"] = 393267,
-["sliceToken"] = "ABuebBrhuFr",
-},
-{
-["id"] = 410078,
-["sliceToken"] = "ABuebBrhuF1",
-["icon"] = 132209,
-},
-{
-["id"] = 410080,
-["sliceToken"] = "ABuebNGCsge",
-},
-{
-["id"] = 393276,
-["sliceToken"] = "ABuebMJ/2qe",
-},
-{
-["id"] = 393283,
-["sliceToken"] = "ABue6wXHFce",
-},
-{
-["id"] = 393222,
-["sliceToken"] = "ABue6rKqrQe",
-["icon"] = 1030095,
-},
-{
-["id"] = 424153,
-["sliceToken"] = "ABuencNdmvw",
-},
-{
-["id"] = 159901,
-["sliceToken"] = "ABuencNdmve",
-},
-{
-["id"] = 424163,
-["sliceToken"] = "ABuencNdmvr",
-},
-{
-["id"] = 424197,
-["sliceToken"] = "ABuencNdmv1",
-},
-{
-["id"] = 424187,
-["sliceToken"] = "ABuencNdmvt",
-},
-{
-["id"] = 424142,
-["sliceToken"] = "ABuencNdmvy",
-},
-{
-["id"] = 424167,
-["sliceToken"] = "ABuencNdmvu",
-},
-{
-["id"] = 159900,
-["sliceToken"] = "ABuennbpKJw",
-},
-{
-["id"] = 373274,
-["sliceToken"] = "ABueWhk0dDw",
+["id"] = 445416,
+["sliceToken"] = "ABueRlb12Ao",
 },
 ["name"] = "Teleports",
 ["save"] = true,
@@ -179,23 +192,20 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 ["sliceToken"] = "OPCTAc",
+["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 ["vm"] = 2,
 },
 {
 "item",
 140192,
 ["sliceToken"] = "OPCTAd",
-},
-{
-"item",
-217930,
-["sliceToken"] = "OPCTAx",
+["vm"] = 2,
 },
 {
 ["id"] = 556,
 ["sliceToken"] = "OPCTAa",
+["vm"] = 2,
 },
 {
 "item",
@@ -204,9 +214,9 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCTAw",
 },
 {
-["show"] = "[level:20]",
 ["sliceToken"] = "OPCTAf",
 ["id"] = 436854,
+["show"] = "[level:20]",
 },
 {
 "item",
@@ -214,24 +224,29 @@ OPie_SavedData = {
 ["sliceToken"] = "ABue4pYtWV1",
 },
 {
-"toy",
-151016,
-["sliceToken"] = "ABue4pYtWVr",
-},
-{
 "item",
 159825,
 ["sliceToken"] = "ABue4pYtWVh",
 },
 {
-"item",
-65360,
-["sliceToken"] = "ABue43OVVje",
+"toy",
+151016,
+["sliceToken"] = "ABue4pYtWVr",
 },
 {
 "toy",
-165802,
-["sliceToken"] = "ABue4VJN6dr",
+140192,
+["sliceToken"] = "ABue6jBYzDw",
+},
+{
+"toy",
+110560,
+["sliceToken"] = "OPCTAg",
+},
+{
+"item",
+65360,
+["sliceToken"] = "ABue43OVVje",
 },
 {
 "specset",
@@ -257,52 +272,80 @@ OPie_SavedData = {
 },
 {
 "item",
-168310,
-["sliceToken"] = "ABue5P=ogl1",
+40586,
+["sliceToken"] = "ABue7vaX4Dw",
+},
+{
+"toy",
+243056,
+["sliceToken"] = "ABue78QBrGw",
+},
+{
+"toy",
+141605,
+["sliceToken"] = "ABueRp7JAPw",
+},
+{
+"macro",
+"InviteDruid",
+["sliceToken"] = "ABueRcOjzwe",
 },
 {
 "item",
-168313,
-["sliceToken"] = "ABue5P=oglr",
-},
-{
-"item",
-172044,
-["sliceToken"] = "ABue59T2w9e",
-},
-{
-"item",
-172048,
-["sliceToken"] = "ABue5F=O/c1",
+103678,
+["sliceToken"] = "ABueRv9qjBw",
 },
 {
 "toy",
-140192,
-["sliceToken"] = "ABue6jBYzDw",
+221966,
+["sliceToken"] = "ABueRbdLzJw",
 },
 {
 "toy",
-212337,
-["sliceToken"] = "ABuemhn8VJw",
+253629,
+["sliceToken"] = "ABueTuRyrIw",
 },
 {
-"toy",
-209035,
-["sliceToken"] = "ABuemYydzzw",
-},
-{
-"toy",
-110560,
-["sliceToken"] = "OPCTAg",
+"ring",
+"arthstones",
+["sliceToken"] = "ABueTilOXSf",
+["embed"] = false,
+["rotationMode"] = "random",
 },
 ["save"] = true,
-["v"] = 4,
+["v"] = 8,
 ["name"] = "Specializations and Travel",
-["vm"] = 127,
+["vm"] = 126,
 ["hotkey"] = "ALT-H",
 ["dropTokens"] = {
 ["OPCTAt"] = 1,
+["OPCTAm"] = 1,
+["OPCTAx"] = 43,
 },
+},
+["Animations"] = {
+{
+"toy",
+217726,
+["sliceToken"] = "ABueToLRFZw",
+},
+{
+"toy",
+217724,
+["sliceToken"] = "ABueToLRFZe",
+},
+{
+"toy",
+217725,
+["sliceToken"] = "ABueToLRFZr",
+},
+{
+"toy",
+217723,
+["sliceToken"] = "ABueToLRFZ1",
+},
+["name"] = "Celestial Cape Animations",
+["save"] = true,
 },
 ["Extras"] = {
 {
@@ -445,6 +488,53 @@ OPie_SavedData = {
 214561,
 ["sliceToken"] = "ABueEkoHkDw",
 },
+{
+"item",
+214597,
+["sliceToken"] = "ABueEW8Naze",
+},
+{
+"item",
+214605,
+["sliceToken"] = "ABueEW8Nazr",
+},
+{
+"item",
+247882,
+["sliceToken"] = "ABue7vaX4De",
+},
+{
+"item",
+248142,
+["sliceToken"] = "ABue7=U1MZw",
+},
+{
+"toy",
+235801,
+["sliceToken"] = "ABueRQvk9Xw",
+},
+{
+"toy",
+244470,
+["sliceToken"] = "ABueR9AlYLw",
+},
+{
+"item",
+237497,
+["sliceToken"] = "ABueTilOXSw",
+},
+{
+"ring",
+"Animations",
+["sliceToken"] = "ABueToLRFZt",
+["embed"] = false,
+["rotationMode"] = "random",
+},
+{
+"item",
+252415,
+["sliceToken"] = "ABueT4I9FDw",
+},
 ["name"] = "Extras",
 ["save"] = true,
 },
@@ -453,5 +543,5 @@ OPie_SavedData = {
 },
 },
 },
-["_TimeBand"] = 0.1796875,
+["_GameVersion"] = "12.0.1",
 }

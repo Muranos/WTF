@@ -1,9 +1,6 @@
 
 PawnOptions = {
 ["LastVersion"] = 2.1008,
-["LastPlayerFullName"] = "Эстрея-Борейская тундра",
-["AutoSelectScales"] = false,
-["UpgradeTracking"] = false,
 ["ItemLevels"] = {
 {
 ["ID"] = 207254,
@@ -86,7 +83,9 @@ nil,
 ["Link"] = "|cffa335ee|Hitem:197942::::::::70:104::90:3:10341:1602:8767:1:28:2424:::::|h[Посох клыкаррского штурмана]|h|r",
 },
 },
-["LastKeybindingsSet"] = 1,
+["AutoSelectScales"] = false,
+["UpgradeTracking"] = false,
+["LastPlayerFullName"] = "Эстрея-Борейская тундра",
 ["Artifacts"] = {
 [128860] = {
 ["Relics"] = {
@@ -106,6 +105,7 @@ nil,
 ["Name"] = "Клыки Пеплошкурой",
 },
 },
+["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 ["LastClass"] = "DRUID",

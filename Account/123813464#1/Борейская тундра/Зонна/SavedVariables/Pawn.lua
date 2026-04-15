@@ -1,11 +1,65 @@
 
 PawnOptions = {
-["LastVersion"] = 2.1011,
+["AutoSelectScales"] = true,
+["Artifacts"] = {
+[128862] = {
+["Relics"] = {
+{
+["ItemLevel"] = 23,
+["Type"] = "Frost",
+},
+{
+["ItemLevel"] = 18,
+["Type"] = "Arcane",
+},
+{
+["ItemLevel"] = 23,
+["Type"] = "Frost",
+},
+},
+["Name"] = "Полярная Ночь, великий посох Алоди",
+},
+[127857] = {
+["Relics"] = {
+{
+["ItemLevel"] = 17,
+["Type"] = "Arcane",
+},
+{
+["ItemLevel"] = 23,
+["Type"] = "Frost",
+},
+{
+["ItemLevel"] = 17,
+["Type"] = "Arcane",
+},
+},
+["Name"] = "Алунет, великий посох Магны",
+},
+[128820] = {
+["Relics"] = {
+{
+["ItemLevel"] = 18,
+["Type"] = "Fire",
+},
+{
+["ItemLevel"] = 22,
+["Type"] = "Arcane",
+},
+{
+["ItemLevel"] = 18,
+["Type"] = "Fire",
+},
+},
+["Name"] = "Фело'мелорн",
+},
+},
+["LastVersion"] = 2.13,
 ["ItemLevels"] = {
 {
-["ID"] = 191987,
-["Level"] = 454,
-["Link"] = "|cff1eff00|Hitem:191987::::::::70:64::27:5:10321:6652:10532:8902:1576:1:28:2437:::::|h[Клобук кобальтового дозорного]|h|r",
+["ID"] = 224669,
+["Level"] = 506,
+["Link"] = "|cnIQ2:|Hitem:224669::::::::74:64::133:3:10382:6652:1711:2:9:74:28:2832:::::|h[Капюшон приземления с меткой безмятежности]|h|r",
 },
 {
 ["ID"] = 210380,
@@ -67,10 +121,10 @@ nil,
 ["Link"] = "|cff1eff00|Hitem:198407::::::::70:64::28:4:10322:6652:8902:1531:1:28:2437:::::|h[Лазурный чародейский усилитель]|h|r",
 },
 {
-["ID"] = 198532,
-["Level"] = 454,
+["ID"] = 198407,
+["Level"] = 457,
 ["AlsoFitsIn"] = 13,
-["Link"] = "|cff1eff00|Hitem:198532::::::::70:64::27:3:10321:8902:1528:1:28:2437:::::|h[Штангенциркуль картографа]|h|r",
+["Link"] = "|cnIQ2:|Hitem:198407::::::::70:64::28:4:10322:6652:8902:1531:1:28:2437:::::|h[Лазурный чародейский усилитель]|h|r",
 },
 {
 ["ID"] = 210381,
@@ -83,63 +137,10 @@ nil,
 ["Link"] = "|cff1eff00|Hitem:192033::::::::70:64::27:4:10321:6652:8902:1576:1:28:2437:::::|h[Боевой штандарт Маруук]|h|r",
 },
 },
-["AutoSelectScales"] = false,
 ["UpgradeTracking"] = false,
 ["LastPlayerFullName"] = "Зонна-Борейская тундра",
+["AutoSelectScalesEnabledOnce"] = true,
 ["LastKeybindingsSet"] = 1,
-["Artifacts"] = {
-[128862] = {
-["Relics"] = {
-{
-["ItemLevel"] = 23,
-["Type"] = "Frost",
-},
-{
-["ItemLevel"] = 18,
-["Type"] = "Arcane",
-},
-{
-["ItemLevel"] = 23,
-["Type"] = "Frost",
-},
-},
-["Name"] = "Полярная Ночь, великий посох Алоди",
-},
-[128820] = {
-["Relics"] = {
-{
-["ItemLevel"] = 18,
-["Type"] = "Fire",
-},
-{
-["ItemLevel"] = 22,
-["Type"] = "Arcane",
-},
-{
-["ItemLevel"] = 18,
-["Type"] = "Fire",
-},
-},
-["Name"] = "Фело'мелорн",
-},
-[127857] = {
-["Relics"] = {
-{
-["ItemLevel"] = 17,
-["Type"] = "Arcane",
-},
-{
-["ItemLevel"] = 23,
-["Type"] = "Frost",
-},
-{
-["ItemLevel"] = 17,
-["Type"] = "Arcane",
-},
-},
-["Name"] = "Алунет, великий посох Магны",
-},
-},
 }
 PawnMrRobotScaleProviderOptions = {
 ["LastClass"] = "MAGE",

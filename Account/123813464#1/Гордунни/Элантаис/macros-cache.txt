@@ -1,0 +1,87 @@
+VER 3 0100000000000012 "Ascendance" "134400"
+#showtooltip Перерождение
+/use 13
+/cast Перерождение
+END
+VER 3 0100000000000006 "ChainLightning" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Цепное исцеление
+END
+VER 3 0100000000000008 "Earthquake" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Землетрясение
+END
+VER 3 0100000000000014 "EarthShield" "134400"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Щит земли
+END
+VER 3 0100000000000011 "EarthShock" "134400"
+#showtooltip [known: Земной шок] Земной шок; Удар духов стихий
+/cast [known: Земной шок] Земной шок; Удар духов стихий
+END
+VER 3 010000000000000F "EleCombo" "134400"
+#showtooltip
+/cast [harm,nodead] Элементаль огня; Взлет вверх
+END
+VER 3 0100000000000010 "Elemental" "134400"
+#showtooltip
+/castsequence Элементаль бури, Перерождение
+END
+VER 3 010000000000000E "Elemtrink" "134400"
+#showtooltip Первозданная волна
+/cast Стремительность предков
+/cast Первозданная волна
+END
+VER 3 010000000000000A "EyeOfTheStorm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Око шторма
+END
+VER 3 0100000000000015 "HealingWave" "134400"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Волна исцеления
+END
+VER 3 010000000000000D "Lavaburst" "134400"
+#showtooltip
+/stopcasting
+/cast Выброс лавы
+END
+VER 3 0100000000000009 "LazyShock" "INV_MISC_QUESTIONMARK"
+#showtooltip Огненный шок
+/castsequence reset=5 Огненный шок, Ледяной шок, Ледяной шок, Ледяной шок
+END
+VER 3 010000000000000C "MagmaTotem" "134400"
+#showtooltip
+/cast [@cursor] Тотем жидкой магмы
+END
+VER 3 0100000000000004 "Purify" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Очищение духа; [spec:3] Возрождение духа
+/cast [@mouseover, help, spec:1] Очищение духа; [@mouseover, help, spec:3] Возрождение духа
+END
+VER 3 0100000000000005 "Riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Быстрина
+END
+VER 3 010000000000000B "SelfBuff" "INV_MISC_QUESTIONMARK"
+#showtooltip Щит молний
+/cancelaura Искра безумия
+/castsequence reset=5 Щит молний, Оружие языка пламени, Небесная ярость
+END
+VER 3 0100000000000013 "SelfBufHeal" "134400"
+#showtooltip Водный щит
+/cancelaura Искра безумия
+/castsequence reset=5 Водный щит, Щит молний, Оружие жизни земли, Небесная ярость
+END
+VER 3 0100000000000003 "Splash" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Исцеляющий всплеск
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Шай[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "Waterwalking" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Хождение по воде
+END

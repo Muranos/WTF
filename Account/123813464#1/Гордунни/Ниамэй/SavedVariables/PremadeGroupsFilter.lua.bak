@@ -3,23 +3,25 @@ PremadeGroupsFilterState = {
 ["c3f6"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
+},
+["raid"] = {
+["sorting"] = "",
+["expression"] = "",
 },
 ["enabled"] = true,
-["raid"] = {
-["expression"] = "",
-["sorting"] = "",
 },
+["version"] = 8,
+["c121f4"] = {
+["enabled"] = true,
 },
-["version"] = 6,
 ["c3f5"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
-["enabled"] = true,
 ["raid"] = {
 ["difficulty"] = {
 },
@@ -28,8 +30,8 @@ PremadeGroupsFilterState = {
 ["min"] = "",
 ["act"] = false,
 },
-["expression"] = "",
-["members"] = {
+["sorting"] = "",
+["defeated"] = {
 ["max"] = "",
 ["min"] = "",
 ["act"] = false,
@@ -44,21 +46,21 @@ PremadeGroupsFilterState = {
 ["min"] = "",
 ["act"] = false,
 },
-["defeated"] = {
+["members"] = {
 ["max"] = "",
 ["min"] = "",
 ["act"] = false,
 },
-["sorting"] = "",
+["expression"] = "",
 },
+["enabled"] = true,
 },
-["c1f4"] = {
+["c6f4"] = {
 ["enabled"] = false,
 ["mini"] = {
-["expression"] = "ыыыыыыы",
 ["sorting"] = "",
+["expression"] = "",
 },
-["minimized"] = false,
 ["role"] = {
 ["heals"] = {
 },
@@ -70,13 +72,15 @@ PremadeGroupsFilterState = {
 },
 ["expression"] = "",
 },
+["minimized"] = false,
 },
 ["c2f4"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
+["enabled"] = true,
 ["dungeon"] = {
 ["mprating"] = {
 ["max"] = "",
@@ -109,15 +113,13 @@ PremadeGroupsFilterState = {
 },
 ["sorting"] = "",
 },
-["enabled"] = true,
 },
-["c6f4"] = {
+["c1f4"] = {
 ["enabled"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "ыыыыыыы",
 },
-["minimized"] = false,
 ["role"] = {
 ["heals"] = {
 },
@@ -129,5 +131,6 @@ PremadeGroupsFilterState = {
 },
 ["expression"] = "",
 },
+["minimized"] = false,
 },
 }

@@ -1,0 +1,22 @@
+
+MoveSpeedDB = {
+["fontSize"] = 16,
+["showFrame"] = true,
+["fontFamily"] = "FRIZQT__.TTF",
+["position"] = {
+"CENTER",
+nil,
+"CENTER",
+-336.7992248535156,
+-231.1996154785156,
+},
+["background"] = false,
+["fontFlag"] = "OUTLINE",
+["updateRate"] = 0.1,
+["textColor"] = {
+["a"] = 1,
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+}

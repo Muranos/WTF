@@ -1,0 +1,20 @@
+
+Taraezor_HE = {
+["engineVer"] = 2.02,
+["IconScale"] = 5,
+["iconSeries2"] = 16,
+["addOnVer"] = 5,
+["Daily Quests"] = false,
+["ShowAzeroth"] = true,
+["Seasonal Quests"] = false,
+["IconAlpha"] = 1,
+["iconSeries4"] = 24,
+["iconSeries1"] = 17,
+["ShowCoordinates"] = true,
+["Achievements Acct"] = false,
+["ShowPins"] = true,
+["OneTime Quests"] = false,
+["Achievements Char"] = false,
+["ShowContinents"] = true,
+["iconSeries3"] = 19,
+}

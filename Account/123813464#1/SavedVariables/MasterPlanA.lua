@@ -11,6 +11,42 @@ MasterPlanAG = {
 },
 },
 ["Гордунни"] = {
+["Шайэн"] = {
+["class"] = "SHAMAN",
+["faction"] = "Alliance",
+},
+["Элантаис"] = {
+["class"] = "SHAMAN",
+["faction"] = "Horde",
+},
+["Литрэс"] = {
+["class"] = "DEATHKNIGHT",
+["faction"] = "Alliance",
+},
+["Мэйрика"] = {
+["class"] = "PRIEST",
+["faction"] = "Alliance",
+},
+["Земкатра"] = {
+["faction"] = "Alliance",
+["class"] = "WARRIOR",
+},
+["Эллиата"] = {
+["class"] = "WARLOCK",
+["faction"] = "Alliance",
+},
+["Терцета"] = {
+["faction"] = "Alliance",
+["class"] = "PRIEST",
+},
+["Эстрэя"] = {
+["faction"] = "Alliance",
+["class"] = "DRUID",
+},
+["Эстэро"] = {
+["class"] = "EVOKER",
+["faction"] = "Alliance",
+},
 ["Дэлери"] = {
 ["summary"] = {
 ["inProgress"] = {
@@ -23,13 +59,25 @@ MasterPlanAG = {
 ["curRes"] = 1257,
 ["class"] = "DEATHKNIGHT",
 },
+["Алтэри"] = {
+["class"] = "DEMONHUNTER",
+["faction"] = "Alliance",
+},
 ["Ващеновый"] = {
 ["class"] = "MONK",
 ["faction"] = "Alliance",
 },
-["Шайэн"] = {
-["class"] = "SHAMAN",
+["Эраминта"] = {
+["class"] = "MAGE",
 ["faction"] = "Alliance",
+},
+["Зиэ"] = {
+["class"] = "WARLOCK",
+["faction"] = "Horde",
+},
+["Нэмея"] = {
+["class"] = "MONK",
+["faction"] = "Horde",
 },
 ["Ниэтта"] = {
 ["summary"] = {
@@ -44,13 +92,26 @@ MasterPlanAG = {
 ["curRes"] = 3342,
 ["lastCacheTime"] = 1642635541,
 },
-["Мэйрика"] = {
+["Алоиза"] = {
+["summary"] = {
+["inProgress"] = {
+[372] = 1639743347,
+[230] = 1639710055,
+},
+},
+["curOil"] = 12840,
+["lastCacheTime"] = 1640611890,
 ["class"] = "PRIEST",
+["curRes"] = 10000,
 ["faction"] = "Alliance",
 },
-["Алтэри"] = {
-["class"] = "DEMONHUNTER",
+["Энастари"] = {
+["class"] = "EVOKER",
 ["faction"] = "Alliance",
+},
+["Катрэта"] = {
+["faction"] = "Horde",
+["class"] = "DEMONHUNTER",
 },
 ["Фламинника"] = {
 ["summary"] = {
@@ -64,9 +125,13 @@ MasterPlanAG = {
 ["curRes"] = 9840,
 ["class"] = "WARRIOR",
 },
-["Эллиата"] = {
-["class"] = "WARLOCK",
+["Алиэрена"] = {
+["class"] = "ROGUE",
 ["faction"] = "Alliance",
+},
+["Артэмита"] = {
+["faction"] = "Horde",
+["class"] = "HUNTER",
 },
 ["Ниамэй"] = {
 ["class"] = "MONK",
@@ -74,26 +139,13 @@ MasterPlanAG = {
 ["curRes"] = 1334,
 ["faction"] = "Alliance",
 },
-["Алоиза"] = {
-["summary"] = {
-["inProgress"] = {
-[372] = 1639743347,
-[230] = 1639710055,
-},
-},
-["curOil"] = 12840,
-["class"] = "PRIEST",
-["lastCacheTime"] = 1640611890,
-["curRes"] = 10000,
-["faction"] = "Alliance",
-},
 ["Хилопятьумер"] = {
 ["faction"] = "Alliance",
 ["class"] = "PALADIN",
 },
-["Эстрэя"] = {
+["Лиерми"] = {
 ["faction"] = "Alliance",
-["class"] = "DRUID",
+["class"] = "ROGUE",
 },
 },
 ["Борейская тундра"] = {
@@ -104,8 +156,8 @@ MasterPlanAG = {
 },
 },
 ["curOil"] = 1025,
-["lastCacheTime"] = 1592403163,
 ["class"] = "DEMONHUNTER",
+["lastCacheTime"] = 1592403163,
 ["curRes"] = 7461,
 ["faction"] = "Alliance",
 },
@@ -138,16 +190,16 @@ MasterPlanAG = {
 [316] = 1598865500,
 },
 ["ti3"] = 127855,
-["tt1"] = 1598838794,
 ["ti1"] = 118529,
+["tt1"] = 1598838794,
 ["tt3"] = true,
 ["tt2"] = true,
 },
 ["faction"] = "Alliance",
 ["curOil"] = 1135,
-["class"] = "DRUID",
-["curRes"] = 9063,
 ["lastCacheTime"] = 1591374186,
+["curRes"] = 9063,
+["class"] = "DRUID",
 },
 ["Вейлзевулла"] = {
 ["class"] = "WARRIOR",
@@ -182,17 +234,9 @@ MasterPlanAG = {
 },
 ["faction"] = "Alliance",
 ["curOil"] = 1415,
-["lastCacheTime"] = 1592577298,
+["class"] = "MAGE",
 ["curRes"] = 9590,
-["class"] = "MAGE",
-},
-["Эрника"] = {
-["class"] = "MAGE",
-["faction"] = "Alliance",
-},
-["Элави"] = {
-["faction"] = "Alliance",
-["class"] = "WARLOCK",
+["lastCacheTime"] = 1592577298,
 },
 ["Алоиза"] = {
 ["summary"] = {
@@ -202,16 +246,24 @@ MasterPlanAG = {
 [721] = 1599861303,
 },
 ["ti3"] = 127855,
-["tt1"] = 1598229885,
 ["ti1"] = 118531,
+["tt1"] = 1598229885,
 ["tt3"] = true,
 ["tt2"] = 1597636687,
 },
 ["faction"] = "Alliance",
 ["curOil"] = 12840,
-["lastCacheTime"] = 1591910378,
-["curRes"] = 10000,
 ["class"] = "PRIEST",
+["curRes"] = 10000,
+["lastCacheTime"] = 1591910378,
+},
+["Эрника"] = {
+["class"] = "MAGE",
+["faction"] = "Alliance",
+},
+["Элави"] = {
+["faction"] = "Alliance",
+["class"] = "WARLOCK",
 },
 ["Алтери"] = {
 ["summary"] = {
@@ -221,9 +273,9 @@ MasterPlanAG = {
 },
 ["curOil"] = 1350,
 ["faction"] = "Alliance",
-["class"] = "ROGUE",
-["curRes"] = 5773,
 ["lastCacheTime"] = 1594399625,
+["curRes"] = 5773,
+["class"] = "ROGUE",
 },
 },
 ["Durotan"] = {
@@ -261,5 +313,7 @@ MasterPlanAG = {
 ["faction"] = "Alliance",
 ["class"] = "WARRIOR",
 },
+},
+["IgnoreRewards"] = {
 },
 }

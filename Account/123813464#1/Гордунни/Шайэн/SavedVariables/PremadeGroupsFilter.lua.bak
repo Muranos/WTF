@@ -1,13 +1,47 @@
 
 PremadeGroupsFilterState = {
-["version"] = 6,
-["c1f4"] = {
-["enabled"] = false,
-["mini"] = {
-["expression"] = "",
-["sorting"] = "",
+["c121f4"] = {
+["enabled"] = true,
 },
+["version"] = 8,
+["c3f5"] = {
 ["minimized"] = false,
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+["enabled"] = true,
+["raid"] = {
+["difficulty"] = {
+},
+["tanks"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["sorting"] = "",
+["members"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["heals"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["dps"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["defeated"] = {
+["max"] = "",
+["min"] = "",
+["act"] = false,
+},
+["expression"] = "",
+},
 },
 ["c6f4"] = {
 ["enabled"] = true,
@@ -35,52 +69,12 @@ PremadeGroupsFilterState = {
 ["expression"] = "",
 },
 },
-["c3f5"] = {
-["minimized"] = false,
-["mini"] = {
-["expression"] = "",
-["sorting"] = "",
-},
-["raid"] = {
-["difficulty"] = {
-},
-["tanks"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["expression"] = "",
-["defeated"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["heals"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["dps"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["members"] = {
-["max"] = "",
-["min"] = "",
-["act"] = false,
-},
-["sorting"] = "",
-},
-["enabled"] = true,
-},
 ["c2f4"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
-["enabled"] = true,
 ["dungeon"] = {
 ["mprating"] = {
 ["max"] = "",
@@ -105,6 +99,8 @@ PremadeGroupsFilterState = {
 ["expression"] = "",
 ["difficulty"] = {
 },
+["dungeon7"] = true,
+["dungeon3"] = true,
 ["partyfit"] = false,
 ["tanks"] = {
 ["max"] = "",
@@ -113,5 +109,25 @@ PremadeGroupsFilterState = {
 },
 ["sorting"] = "",
 },
+["enabled"] = true,
+},
+["c1f4"] = {
+["enabled"] = false,
+["mini"] = {
+["sorting"] = "",
+["expression"] = "",
+},
+["role"] = {
+["heals"] = {
+},
+["tanks"] = {
+},
+["dps"] = {
+},
+["members"] = {
+},
+["expression"] = "",
+},
+["minimized"] = false,
 },
 }

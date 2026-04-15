@@ -7,6 +7,10 @@ VER 3 0100000000000004 "Mark" "134400"
 /use Метка охотника
 /use Выстрел кобры
 END
+VER 3 0100000000000008 "Misdirection" "134400"
+#showtooltip
+/cast [@mouseover, help, nodead] [] Перенаправление
+END
 VER 3 0100000000000003 "Open" "134400"
 #showtooltip Средний бронзовый ларь
 /use Малый бронзовый ларь
@@ -23,4 +27,9 @@ P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][
 END
 VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
 N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Реф[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Нье
+END
+VER 3 0100000000000007 "Wreath" "134400"
+#showtooltip Звериный гнев
+/use 13
+/castsequence Звериный гнев
 END

@@ -2,6 +2,10 @@ VER 3 0100000000000003 "HouseBolt" "134400"
 #showtooltip
 /cast [exists,nodead,harm] Испепеление; Рывок вперед
 END
+VER 3 0100000000000005 "RainOfFire" "134400"
+#showtooltip
+/cast [@cursor] Огненный ливень
+END
 VER 3 0100000000000004 "SoulStone" "134400"
 #showtooltip
 /cast [@mouseover,help,nodead] Камень души;Камень души

@@ -1,6 +1,5 @@
 VER 3 0100000000000008 "Berzerk" "INV_MISC_QUESTIONMARK"
 #showtooltip [talent:5/3] Воплощение: Страж Урсока; Берсерк
-/use Йотунгейр Зов Судьбы
 /use 13
 /cast Берсерк
 /cast Воплощение: Страж Урсока
@@ -22,7 +21,7 @@ VER 3 010000000000000C "Cyclon" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000003 "Decurse" "INV_MISC_QUESTIONMARK"
 #showtooltip Снятие порчи
-/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Снятие порчи
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [@player ] Снятие порчи
 END
 VER 3 010000000000000B "FourthTalentRow" "INV_MISC_QUESTIONMARK"
 #showtooltip [talent:4/2] Массовое оплетение ; Мощное оглушение

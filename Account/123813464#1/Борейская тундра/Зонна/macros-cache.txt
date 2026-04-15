@@ -8,6 +8,10 @@ VER 3 0100000000000003 "Burst" "SPELL_HOLY_HOLYPROTECTION"
 /cast Стылая кровь
 /cast Мощь тайной магии
 END
+VER 3 010000000000001F "Combo" "134400"
+#showtooltip [@target,exists,harm,nodead] Ледяная стрела; Рывок вперед
+/cast [@target,exists,harm,nodead] Ледяная стрела; Рывок вперед
+END
 VER 3 0100000000000013 "DismissPet" "132208"
 #showtooltip Оберегающий дух
 /script PetDismiss()

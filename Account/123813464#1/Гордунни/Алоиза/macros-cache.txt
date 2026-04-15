@@ -3,7 +3,7 @@ VER 3 010000000000001C "DarkCovenant" "INV_MISC_QUESTIONMARK"
 /cast [@cursor] Темное сокрушение
 END
 VER 3 0100000000000007 "Desiese" "INV_Misc_QuestionMark"
-#showtooltip Очищение от болезни
+#showtooltip [known:Очищение от болезни]Очищение от болезни;Внутреннее зрение
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Очищение от болезни
 END
 VER 3 010000000000000F "DispelMagic" "INV_Misc_QuestionMark"
@@ -20,12 +20,6 @@ VER 3 010000000000000D "FlashHeal" "INV_Misc_QuestionMark"
 #showtooltip
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Быстрое исцеление
 END
-VER 3 0100000000000003 "Heal" "INV_Misc_QuestionMark"
-#showtooltip Придание сил
-/stopcasting
-/use 13
-/cast [modifier:SELFCAST, @player] [@mouseover, help]  Придание сил
-END
 VER 3 0100000000000016 "HeartOfTheAspect" "INV_MISC_QUESTIONMARK"
 #showtooltip Духовное рвение
 /cast [@mouseover,nodead,help]Духовное рвение; [harm,nodead] Темная Бездна
@@ -39,6 +33,11 @@ VER 3 010000000000001B "Levitate" "INV_MISC_QUESTIONMARK"
 #showtooltip Левитация
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Левитация
 END
+VER 3 0100000000000020 "MindControl" "134400"
+#showtooltip
+/cast Господство над разумом
+/petdismiss
+END
 VER 3 0100000000000006 "PainSupression" "INV_Misc_QuestionMark"
 #showtooltip Подавление боли
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Подавление боли
@@ -47,10 +46,28 @@ VER 3 0100000000000004 "Penance" "INV_Misc_QuestionMark"
 #showtooltip Исповедь
 /cast [@mouseover, exists, nodead, help] Исповедь; [exists, nodead, help] Исповедь; [@mouseover, exists, nodead] Исповедь; [exists, nodead] Исповедь
 END
+VER 3 0100000000000021 "PoM" "134400"
+#showtooltip Молитва восстановления
+/cast [@mouseover, exists, nodead, help] Молитва восстановления; [exists, nodead, help] Исповедь; [@mouseover, exists, nodead] Молитва восстановления; [exists, nodead] Молитва восстановления
+END
+VER 3 0100000000000003 "PowerInfusion" "134400"
+#showtooltip Придание сил
+/stopcasting
+/use 13
+/cast [modifier:SELFCAST, @player] [@mouseover, help]  Придание сил
+END
 VER 3 0100000000000005 "PowerWordShield" "INV_Misc_QuestionMark"
 #showtooltip Слово силы: Щит
 /stopcasting
 /cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Слово силы: Щит
+END
+VER 3 0100000000000022 "Renew" "134400"
+#showtooltip
+/cast [modifier:SELFCAST, @player] [@mouseover, help] [ ] Обновление
+END
+VER 3 0100000000000023 "ShiningTurboPlus" "134400"
+#showtooltip
+/castsequence [known:Подчинитель разума]Сияние, Подчинитель разума; reset=10 Сияние, Исчадие Тьмы
 END
 VER 3 010000000000000E "Silence" "INV_Misc_QuestionMark"
 #showtooltip Безмолвие
@@ -68,6 +85,11 @@ VER 3 0100000000000012 "Teresgosa" "ACHIEVEMENT_GUILD_RIDELIKETHEWIND"
 /cast [flyable,noindoors,nomounted]Гнев Дракона, вечный покой Таресгосы
 /cast [noflyable,noindoors] Повелитель воронов
 /dismount [mounted]
+END
+VER 3 010000000000001F "Trinket" "134400"
+#showtooltip Исчадие Тьмы
+/use 13
+/cast Исчадие Тьмы
 END
 VER 3 010000000000001D "VuhDoDCShieldData" "Ability_Repair"
 P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]

@@ -1,6 +1,25 @@
 
 PawnOptions = {
-["LastVersion"] = 2.1008,
+["AutoSelectScales"] = true,
+["Artifacts"] = {
+[128402] = {
+["Relics"] = {
+{
+["ItemLevel"] = 15,
+["Type"] = "Blood",
+},
+{
+["ItemLevel"] = 7,
+["Type"] = "Shadow",
+},
+{
+["Type"] = "Iron",
+},
+},
+["Name"] = "Проклятый Пожиратель",
+},
+},
+["LastVersion"] = 2.1109,
 ["ItemLevels"] = {
 {
 ["ID"] = 167322,
@@ -83,28 +102,10 @@ nil,
 ["Link"] = "|cffa335ee|Hitem:158124:6148:154127::::::120:250::28:6:4803:4802:6516:6515:1627:4786:::|h[Динобоец]|h|r",
 },
 },
-["AutoSelectScales"] = true,
 ["UpgradeTracking"] = false,
 ["LastPlayerFullName"] = "Сайбил-Борейская тундра",
+["AutoSelectScalesEnabledOnce"] = true,
 ["LastKeybindingsSet"] = 1,
-["Artifacts"] = {
-[128402] = {
-["Relics"] = {
-{
-["ItemLevel"] = 15,
-["Type"] = "Blood",
-},
-{
-["ItemLevel"] = 7,
-["Type"] = "Shadow",
-},
-{
-["Type"] = "Iron",
-},
-},
-["Name"] = "Проклятый Пожиратель",
-},
-},
 }
 PawnMrRobotScaleProviderOptions = {
 ["LastClass"] = "DEATHKNIGHT",

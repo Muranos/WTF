@@ -1,4 +1,7 @@
 
 PremadeGroupsFilterState = {
-["version"] = 6,
+["version"] = 8,
+["c121f4"] = {
+["enabled"] = true,
+},
 }
