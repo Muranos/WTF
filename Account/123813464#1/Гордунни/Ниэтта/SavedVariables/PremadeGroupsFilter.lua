@@ -16,9 +16,10 @@ PremadeGroupsFilterState = {
 ["c1f4"] = {
 ["enabled"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
+["minimized"] = false,
 ["role"] = {
 ["heals"] = {
 },
@@ -30,14 +31,14 @@ PremadeGroupsFilterState = {
 },
 ["expression"] = "",
 },
-["minimized"] = false,
 },
 ["c2f4"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
+["enabled"] = true,
 ["dungeon"] = {
 ["dungeon7"] = false,
 ["partyfit"] = true,
@@ -64,8 +65,8 @@ PremadeGroupsFilterState = {
 },
 ["dungeon5"] = false,
 ["difficulty"] = {
-["val"] = 4,
 ["act"] = true,
+["val"] = 4,
 },
 ["dungeon1"] = false,
 ["heals"] = {
@@ -80,12 +81,11 @@ PremadeGroupsFilterState = {
 },
 ["sorting"] = "",
 },
-["enabled"] = true,
 },
 ["c2f5"] = {
 ["mini"] = {
-["sorting"] = "",
 ["expression"] = "",
+["sorting"] = "",
 },
 },
 ["c3f6"] = {
@@ -103,7 +103,7 @@ PremadeGroupsFilterState = {
 ["min"] = "",
 ["act"] = false,
 },
-["members"] = {
+["defeated"] = {
 ["max"] = "",
 ["min"] = "",
 ["act"] = false,
@@ -113,7 +113,7 @@ PremadeGroupsFilterState = {
 ["min"] = "",
 ["act"] = false,
 },
-["defeated"] = {
+["members"] = {
 ["max"] = "",
 ["min"] = "",
 ["act"] = false,
@@ -125,10 +125,9 @@ PremadeGroupsFilterState = {
 ["c6f4"] = {
 ["enabled"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
-["minimized"] = false,
 ["role"] = {
 ["heals"] = {
 },
@@ -140,14 +139,17 @@ PremadeGroupsFilterState = {
 },
 ["expression"] = "",
 },
+["minimized"] = false,
+},
+["c121f4"] = {
+["enabled"] = true,
 },
 ["c3f5"] = {
 ["minimized"] = false,
 ["mini"] = {
-["expression"] = "",
 ["sorting"] = "",
+["expression"] = "",
 },
-["enabled"] = true,
 ["raid"] = {
 ["difficulty"] = {
 },
@@ -156,8 +158,8 @@ PremadeGroupsFilterState = {
 ["min"] = "",
 ["act"] = false,
 },
-["expression"] = "",
-["defeated"] = {
+["sorting"] = "",
+["members"] = {
 ["max"] = "",
 ["min"] = "",
 ["act"] = false,
@@ -172,15 +174,13 @@ PremadeGroupsFilterState = {
 ["min"] = "",
 ["act"] = false,
 },
-["members"] = {
+["defeated"] = {
 ["max"] = "",
 ["min"] = "",
 ["act"] = false,
 },
-["sorting"] = "",
+["expression"] = "",
 },
-},
-["c121f4"] = {
 ["enabled"] = true,
 },
 }

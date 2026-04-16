@@ -334,7 +334,7 @@ true,
 },
 ["global"] = {
 ["CheckNewLookAndFeel"] = true,
-["version"] = "13.0.6",
+["version"] = "13.0.7",
 },
 ["namespaces"] = {
 },
@@ -442,9 +442,11 @@ true,
 },
 },
 {
-["color"] = {
-["g"] = 0.1098039299249649,
-["b"] = 0.9411765336990356,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
 },
 ["allowMarked"] = false,
 ["icon"] = 132094,
@@ -467,17 +469,17 @@ true,
 },
 },
 ["Name"] = "Screacher",
+["color"] = {
+["g"] = 0.1098039299249649,
+["b"] = 0.9411765336990356,
+},
+},
+{
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 ["OutOfInstances"] = false,
-},
-},
-{
-["color"] = {
-["g"] = 0.1098039299249649,
-["b"] = 0.9411765336990356,
 },
 ["allowMarked"] = false,
 ["icon"] = 1033476,
@@ -500,19 +502,15 @@ true,
 },
 },
 ["Name"] = "BRH_Fear",
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
+["color"] = {
+["g"] = 0.1098039299249649,
+["b"] = 0.9411765336990356,
 },
 },
 {
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
+["color"] = {
+["g"] = 0.1098039299249649,
+["b"] = 0.9411765336990356,
 },
 ["allowMarked"] = false,
 ["icon"] = 135819,
@@ -535,15 +533,19 @@ true,
 },
 },
 ["Name"] = "NL_Flame",
-["color"] = {
-["g"] = 0.1098039299249649,
-["b"] = 0.9411765336990356,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
 },
 },
 {
-["color"] = {
-["g"] = 0.1098039299249649,
-["b"] = 0.9411765336990356,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
 },
 ["allowMarked"] = false,
 ["icon"] = 132333,
@@ -567,11 +569,9 @@ true,
 },
 },
 ["Name"] = "NK_Fear",
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
+["color"] = {
+["g"] = 0.1098039299249649,
+["b"] = 0.9411765336990356,
 },
 },
 {
@@ -584,10 +584,6 @@ true,
 ["allowMarked"] = false,
 ["icon"] = 298642,
 ["AutomaticIcon"] = 298642,
-["color"] = {
-["b"] = 0.4470588564872742,
-["r"] = 0.9843137860298157,
-},
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 408805,
@@ -601,20 +597,24 @@ true,
 },
 },
 ["Name"] = "Incorporeal",
+["color"] = {
+["b"] = 0.4470588564872742,
+["r"] = 0.9843137860298157,
+},
 },
 {
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
 },
 ["showIcon"] = false,
 ["allowMarked"] = false,
 ["icon"] = 135978,
 ["AutomaticIcon"] = 135978,
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
 },
 ["Trigger"] = {
 ["Type"] = "Aura",
@@ -632,18 +632,18 @@ true,
 ["Name"] = "VampiricTouch",
 },
 {
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
 },
 ["showIcon"] = false,
 ["allowMarked"] = false,
 ["icon"] = 135813,
 ["AutomaticIcon"] = 135813,
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
 },
 ["Trigger"] = {
 ["Type"] = "Aura",
@@ -661,18 +661,18 @@ true,
 ["Name"] = "FlameShock",
 },
 {
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
 },
 ["showIcon"] = false,
 ["allowMarked"] = false,
 ["icon"] = 135817,
 ["AutomaticIcon"] = 135817,
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
 },
 ["Trigger"] = {
 ["Type"] = "Aura",
@@ -863,9 +863,6 @@ true,
 ["full"] = true,
 ["amount"] = true,
 },
-["FocusWidget"] = {
-["theme"] = "Stripes",
-},
 ["settings"] = {
 ["elitehealthborder"] = {
 ["texture"] = "TP_EliteBorder_Thin",
@@ -899,7 +896,18 @@ true,
 },
 },
 },
+["Name"] = {
+["HealthbarMode"] = {
+["VerticalOffset"] = 15,
+},
+},
 ["AuraWidget"] = {
+["Buffs"] = {
+["CenterAuras"] = false,
+["FilterBySpell"] = {
+"Мощь претендента",
+},
+},
 ["Debuffs"] = {
 ["NameMode"] = {
 ["Anchor"] = "CENTER",
@@ -922,28 +930,11 @@ true,
 },
 ["CenterAuras"] = false,
 },
-["SwitchScaleByReaction"] = false,
 ["FlashWhenExpiring"] = true,
-["Buffs"] = {
-["CenterAuras"] = false,
-["FilterBySpell"] = {
-"Мощь претендента",
-},
-},
+["SwitchScaleByReaction"] = false,
 },
 ["uniqueSettings"] = {
 {
-["color"] = {
-["g"] = 0.5215686559677124,
-["b"] = 0.9764706492424011,
-},
-["Name"] = "TerrifyingScreech",
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 255041,
@@ -956,6 +947,17 @@ true,
 ["Input"] = "",
 },
 },
+["Name"] = "TerrifyingScreech",
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
+},
+["color"] = {
+["g"] = 0.5215686559677124,
+["b"] = 0.9764706492424011,
+},
 ["allowMarked"] = false,
 ["icon"] = 132094,
 ["AutomaticIcon"] = 132094,
@@ -963,7 +965,12 @@ true,
 {
 ["UseThreatGlow"] = true,
 ["Name"] = "Spiteful",
-["UseThreatColor"] = true,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
+},
 ["Trigger"] = {
 ["Name"] = {
 ["Input"] = "Злопамятная тень",
@@ -972,22 +979,15 @@ true,
 },
 },
 },
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
+["UseThreatColor"] = true,
 },
 {
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
+},
 ["Name"] = "VampiricTouch",
-["allowMarked"] = false,
 ["showIcon"] = false,
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-},
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -1001,18 +1001,18 @@ true,
 ["ShowOnlyMine"] = true,
 },
 },
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
 },
+},
+["allowMarked"] = false,
 ["icon"] = 135978,
 ["AutomaticIcon"] = 135978,
 },
 },
-["Name"] = {
-["HealthbarMode"] = {
-["VerticalOffset"] = 15,
-},
+["FocusWidget"] = {
+["theme"] = "Stripes",
 },
 ["BossModsWidget"] = {
 ["ON"] = false,

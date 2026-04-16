@@ -40,8 +40,6 @@ PawnOptions = {
 },
 },
 ["LastVersion"] = 2.1308,
-["LastPlayerFullName"] = "Алоиза-Гордунни",
-["UpgradeTracking"] = false,
 ["ItemLevels"] = {
 {
 ["ID"] = 237709,
@@ -130,6 +128,8 @@ nil,
 ["Link"] = "|cnIQ4:|Hitem:222566::::::::80:258::13:8:10421:9633:8902:9627:12050:8793:12053:13468:9:28:2734:29:49:30:36:38:8:40:2249:45:231756:47:222584:48:231768:51:251993:::::|h[Факел бродяги |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r",
 },
 },
+["UpgradeTracking"] = false,
+["LastPlayerFullName"] = "Алоиза-Гордунни",
 ["AutoSelectScalesEnabledOnce"] = true,
 ["LastKeybindingsSet"] = 1,
 }

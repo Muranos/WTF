@@ -395,20 +395,6 @@ PawnCommon = {
 ["UnenchantedColor"] = "bf5d07",
 ["SpecID"] = 1,
 },
-["\"MrRobot\":DEMONHUNTER3"] = {
-["IconTexturePath"] = 7455386,
-["PerCharacterOptions"] = {
-},
-["Color"] = "a330c9",
-["ClassID"] = 12,
-["LocalizedName"] = "Охотник на демонов: Пожиратель",
-["DoNotShow1HUpgrades"] = false,
-["Role"] = "DAMAGER",
-["DoNotShow2HUpgrades"] = true,
-["Provider"] = "MrRobot",
-["SpecID"] = 3,
-["UnenchantedColor"] = "7a2496",
-},
 ["\"MrRobot\":EVOKER3"] = {
 ["IconTexturePath"] = 5198700,
 ["PerCharacterOptions"] = {
@@ -422,6 +408,20 @@ PawnCommon = {
 ["Provider"] = "MrRobot",
 ["UnenchantedColor"] = "699189",
 ["SpecID"] = 3,
+},
+["\"MrRobot\":DEMONHUNTER3"] = {
+["IconTexturePath"] = 7455386,
+["PerCharacterOptions"] = {
+},
+["Color"] = "a330c9",
+["ClassID"] = 12,
+["LocalizedName"] = "Охотник на демонов: Пожиратель",
+["DoNotShow1HUpgrades"] = false,
+["Role"] = "DAMAGER",
+["DoNotShow2HUpgrades"] = true,
+["Provider"] = "MrRobot",
+["SpecID"] = 3,
+["UnenchantedColor"] = "7a2496",
 },
 ["\"MrRobot\":MAGE1"] = {
 ["IconTexturePath"] = 135932,
@@ -440,28 +440,25 @@ PawnCommon = {
 ["UnenchantedColor"] = "2f95b0",
 ["SpecID"] = 1,
 },
-["\"MrRobot\":WARRIOR1"] = {
-["IconTexturePath"] = 132355,
+["\"MrRobot\":PALADIN3"] = {
+["IconTexturePath"] = 135873,
 ["PerCharacterOptions"] = {
-["Вейлзевулла-Борейская тундра"] = {
+["Хилопятьумер-Гордунни"] = {
 ["Visible"] = true,
 },
-["Фламиника-Борейская тундра"] = {
-["Visible"] = true,
-},
-["Flaminika-Silvermoon"] = {
+["Элсин-Гордунни"] = {
 ["Visible"] = true,
 },
 },
-["Color"] = "c79c6e",
-["ClassID"] = 1,
-["LocalizedName"] = "Воин: Оружие",
+["Color"] = "f58cba",
+["ClassID"] = 2,
+["LocalizedName"] = "Паладин: Воздаяние",
 ["DoNotShow1HUpgrades"] = true,
 ["Role"] = "DAMAGER",
 ["DoNotShow2HUpgrades"] = false,
 ["Provider"] = "MrRobot",
-["UnenchantedColor"] = "957552",
-["SpecID"] = 1,
+["UnenchantedColor"] = "b7698b",
+["SpecID"] = 3,
 },
 ["\"MrRobot\":WARLOCK2"] = {
 ["IconTexturePath"] = 136172,
@@ -477,24 +474,18 @@ PawnCommon = {
 ["UnenchantedColor"] = "6566b2",
 ["SpecID"] = 2,
 },
-["\"MrRobot\":PALADIN2"] = {
-["IconTexturePath"] = 236264,
+["\"MrRobot\":DRUID2"] = {
+["IconTexturePath"] = 132115,
 ["PerCharacterOptions"] = {
-["Nietta-EU Mythic Dungeons"] = {
-["Visible"] = true,
 },
-["Ниэтта-Гордунни"] = {
-["Visible"] = true,
-},
-},
-["Color"] = "f58cba",
-["ClassID"] = 2,
-["LocalizedName"] = "Паладин: Защита",
-["DoNotShow1HUpgrades"] = false,
-["Role"] = "TANK",
-["DoNotShow2HUpgrades"] = true,
+["Color"] = "ff7d0a",
+["ClassID"] = 11,
+["LocalizedName"] = "Друид: Сила зверя",
+["DoNotShow1HUpgrades"] = true,
+["Role"] = "DAMAGER",
+["DoNotShow2HUpgrades"] = false,
 ["Provider"] = "MrRobot",
-["UnenchantedColor"] = "b7698b",
+["UnenchantedColor"] = "bf5d07",
 ["SpecID"] = 2,
 },
 ["\"MrRobot\":DEMONHUNTER2"] = {
@@ -517,18 +508,24 @@ PawnCommon = {
 ["UnenchantedColor"] = "7a2496",
 ["SpecID"] = 2,
 },
-["\"MrRobot\":DRUID2"] = {
-["IconTexturePath"] = 132115,
+["\"MrRobot\":PALADIN2"] = {
+["IconTexturePath"] = 236264,
 ["PerCharacterOptions"] = {
+["Nietta-EU Mythic Dungeons"] = {
+["Visible"] = true,
 },
-["Color"] = "ff7d0a",
-["ClassID"] = 11,
-["LocalizedName"] = "Друид: Сила зверя",
-["DoNotShow1HUpgrades"] = true,
-["Role"] = "DAMAGER",
-["DoNotShow2HUpgrades"] = false,
+["Ниэтта-Гордунни"] = {
+["Visible"] = true,
+},
+},
+["Color"] = "f58cba",
+["ClassID"] = 2,
+["LocalizedName"] = "Паладин: Защита",
+["DoNotShow1HUpgrades"] = false,
+["Role"] = "TANK",
+["DoNotShow2HUpgrades"] = true,
 ["Provider"] = "MrRobot",
-["UnenchantedColor"] = "bf5d07",
+["UnenchantedColor"] = "b7698b",
 ["SpecID"] = 2,
 },
 ["\"MrRobot\":ROGUE1"] = {
@@ -537,7 +534,7 @@ PawnCommon = {
 ["Altery-Durotan"] = {
 ["Visible"] = true,
 },
-["Лиерми-Гордунни"] = {
+["Elavi-Durotan"] = {
 ["Visible"] = true,
 },
 ["Altery-Bronzebeard"] = {
@@ -546,7 +543,7 @@ PawnCommon = {
 ["Flaminika-Durotan"] = {
 ["Visible"] = true,
 },
-["Elavi-Durotan"] = {
+["Лиерми-Гордунни"] = {
 ["Visible"] = true,
 },
 ["Алтери-Борейская тундра"] = {
@@ -673,33 +670,36 @@ PawnCommon = {
 ["UnenchantedColor"] = "0054a6",
 ["SpecID"] = 3,
 },
-["\"MrRobot\":PALADIN3"] = {
-["IconTexturePath"] = 135873,
+["\"MrRobot\":WARRIOR1"] = {
+["IconTexturePath"] = 132355,
 ["PerCharacterOptions"] = {
-["Хилопятьумер-Гордунни"] = {
+["Вейлзевулла-Борейская тундра"] = {
 ["Visible"] = true,
 },
-["Элсин-Гордунни"] = {
+["Фламиника-Борейская тундра"] = {
+["Visible"] = true,
+},
+["Flaminika-Silvermoon"] = {
 ["Visible"] = true,
 },
 },
-["Color"] = "f58cba",
-["ClassID"] = 2,
-["LocalizedName"] = "Паладин: Воздаяние",
+["Color"] = "c79c6e",
+["ClassID"] = 1,
+["LocalizedName"] = "Воин: Оружие",
 ["DoNotShow1HUpgrades"] = true,
 ["Role"] = "DAMAGER",
 ["DoNotShow2HUpgrades"] = false,
 ["Provider"] = "MrRobot",
-["UnenchantedColor"] = "b7698b",
-["SpecID"] = 3,
+["UnenchantedColor"] = "957552",
+["SpecID"] = 1,
 },
 ["\"MrRobot\":DEATHKNIGHT1"] = {
 ["IconTexturePath"] = 135770,
 ["PerCharacterOptions"] = {
-["Литрэс-Гордунни"] = {
+["Дэлери-Гордунни"] = {
 ["Visible"] = true,
 },
-["Дэлери-Гордунни"] = {
+["Литрэс-Гордунни"] = {
 ["Visible"] = true,
 },
 ["Сайбил-Борейская тундра"] = {
@@ -719,16 +719,16 @@ PawnCommon = {
 ["\"MrRobot\":DRUID3"] = {
 ["IconTexturePath"] = 132276,
 ["PerCharacterOptions"] = {
-["Эстрея-Борейская тундра"] = {
-["Visible"] = true,
-},
-["Миттенс-Гордунни"] = {
+["Estrea-EU Mythic Dungeons"] = {
 ["Visible"] = true,
 },
 ["Эстрэя-Гордунни"] = {
 ["Visible"] = true,
 },
-["Estrea-EU Mythic Dungeons"] = {
+["Миттенс-Гордунни"] = {
+["Visible"] = true,
+},
+["Эстрея-Борейская тундра"] = {
 ["Visible"] = true,
 },
 },

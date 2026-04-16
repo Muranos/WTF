@@ -22,15 +22,17 @@ RaiderIO_Config = {
 ["showDropDownCopyURL"] = true,
 ["enableLFGTooltips"] = true,
 ["previouslyEnabledLogging"] = false,
-["showSimpleScoreColors"] = false,
-["enableWhoMessages"] = true,
 ["showScoreInCombat"] = true,
+["enableWhoMessages"] = true,
+["showSimpleScoreColors"] = false,
 ["alwaysExtendTooltip"] = false,
 ["enableUnitTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Дэлери-gordunni"
+RaiderIO_LastCharacter = "eu-Ниэтта-gordunni"
 RaiderIO_MissingCharacters = {
-["eu-Дэлери-gordunni"] = true,
+["eu-Травонир-gordunni"] = true,
+["eu-Квепп-gordunni"] = true,
+["eu-Крыскич-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }

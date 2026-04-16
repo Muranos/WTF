@@ -91,8 +91,6 @@ nil,
 },
 ["AutoSelectScales"] = true,
 ["LastPlayerFullName"] = "Ниэтта-Гордунни",
-["LastKeybindingsSet"] = 1,
-["AutoSelectScalesEnabledOnce"] = true,
 ["Artifacts"] = {
 [128823] = {
 ["Relics"] = {
@@ -143,6 +141,8 @@ nil,
 ["Name"] = "Испепелитель",
 },
 },
+["AutoSelectScalesEnabledOnce"] = true,
+["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 ["LastClass"] = "PALADIN",

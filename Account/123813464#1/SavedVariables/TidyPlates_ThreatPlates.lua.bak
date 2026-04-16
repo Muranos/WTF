@@ -334,7 +334,7 @@ false,
 },
 ["global"] = {
 ["CheckNewLookAndFeel"] = true,
-["version"] = "13.0.6",
+["version"] = "13.0.7",
 },
 ["namespaces"] = {
 },
@@ -413,15 +413,88 @@ false,
 ["Target"] = 0.5,
 },
 },
+["threat"] = {
+["ThreatPercentage"] = {
+["ShowInGroups"] = false,
+["ShowWithPet"] = false,
+},
+},
+["CVarsBackup"] = {
+["nameplateMinAlpha"] = "0.6",
+["nameplateMaxAlpha"] = "1.0",
+},
+["Visibility"] = {
+["FriendlyMinus"] = {
+["Show"] = false,
+},
+},
+["StatusText"] = {
+["HealthbarMode"] = {
+["Font"] = {
+["HorizontalAlignment"] = "LEFT",
+},
+},
+},
+["text"] = {
+["percent"] = false,
+["full"] = true,
+["amount"] = true,
+},
+["HeadlineView"] = {
+["ForceHealthbarOnTarget"] = true,
+},
+["Name"] = {
+["HealthbarMode"] = {
+["Font"] = {
+["VerticalAlignment"] = "BOTTOM",
+},
+["VerticalOffset"] = 15,
+},
+},
+["AuraWidget"] = {
+["Buffs"] = {
+["CenterAuras"] = false,
+["FilterBySpell"] = {
+"Мощь претендента",
+},
+},
+["SwitchScaleByReaction"] = false,
+["Debuffs"] = {
+["NameMode"] = {
+["Anchor"] = "CENTER",
+["HorizontalOffset"] = 15,
+["VerticalOffset"] = -20,
+},
+["FilterBySpell"] = {
+"Пытка разума",
+"Приливная волна",
+"Мощь претендента",
+"Шулерские кости: Аврал!",
+"Калечащий яд",
+"Смертоносный яд",
+"Горящий шлак",
+},
+["HealthbarMode"] = {
+["Anchor"] = "CENTER",
+["HorizontalOffset"] = 15,
+["VerticalOffset"] = 25,
+},
+["CenterAuras"] = false,
+},
+["FlashWhenExpiring"] = true,
+},
 ["uniqueSettings"] = {
 {
+["Name"] = "WayOfCrane",
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 },
-["allowMarked"] = false,
-["AutomaticIcon"] = 606543,
+["color"] = {
+["b"] = 0.7803922295570374,
+["r"] = 0.3686274588108063,
+},
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -435,11 +508,8 @@ false,
 ["ShowOnlyMine"] = true,
 },
 },
-["Name"] = "WayOfCrane",
-["color"] = {
-["b"] = 0.7803922295570374,
-["r"] = 0.3686274588108063,
-},
+["allowMarked"] = false,
+["AutomaticIcon"] = 606543,
 },
 {
 ["Enable"] = {
@@ -448,9 +518,12 @@ false,
 },
 ["OutOfInstances"] = false,
 },
-["allowMarked"] = false,
-["icon"] = 132094,
-["AutomaticIcon"] = 132094,
+["Effects"] = {
+["Glow"] = {
+["Frame"] = "Healthbar",
+},
+},
+["Name"] = "Screacher",
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 255041,
@@ -463,16 +536,13 @@ false,
 ["Input"] = "",
 },
 },
-["Effects"] = {
-["Glow"] = {
-["Frame"] = "Healthbar",
-},
-},
-["Name"] = "Screacher",
 ["color"] = {
 ["g"] = 0.1098039299249649,
 ["b"] = 0.9411765336990356,
 },
+["allowMarked"] = false,
+["icon"] = 132094,
+["AutomaticIcon"] = 132094,
 },
 {
 ["Enable"] = {
@@ -481,9 +551,12 @@ false,
 },
 ["OutOfInstances"] = false,
 },
-["allowMarked"] = false,
-["icon"] = 1033476,
-["AutomaticIcon"] = 1033476,
+["Effects"] = {
+["Glow"] = {
+["Frame"] = "Healthbar",
+},
+},
+["Name"] = "BRH_Fear",
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 367500,
@@ -496,25 +569,25 @@ false,
 ["Input"] = "",
 },
 },
-["Effects"] = {
-["Glow"] = {
-["Frame"] = "Healthbar",
-},
-},
-["Name"] = "BRH_Fear",
 ["color"] = {
 ["g"] = 0.1098039299249649,
 ["b"] = 0.9411765336990356,
 },
+["allowMarked"] = false,
+["icon"] = 1033476,
+["AutomaticIcon"] = 1033476,
 },
 {
 ["color"] = {
 ["g"] = 0.1098039299249649,
 ["b"] = 0.9411765336990356,
 },
-["allowMarked"] = false,
-["icon"] = 135819,
-["AutomaticIcon"] = 135819,
+["Effects"] = {
+["Glow"] = {
+["Frame"] = "Healthbar",
+},
+},
+["Name"] = "NL_Flame",
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 378282,
@@ -527,18 +600,15 @@ false,
 ["Input"] = "",
 },
 },
-["Effects"] = {
-["Glow"] = {
-["Frame"] = "Healthbar",
-},
-},
-["Name"] = "NL_Flame",
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 ["OutOfInstances"] = false,
 },
+["allowMarked"] = false,
+["icon"] = 135819,
+["AutomaticIcon"] = 135819,
 },
 {
 ["Enable"] = {
@@ -547,9 +617,12 @@ false,
 },
 ["OutOfInstances"] = false,
 },
-["allowMarked"] = false,
-["icon"] = 132333,
-["AutomaticIcon"] = 2576097,
+["Effects"] = {
+["Glow"] = {
+["Frame"] = "Healthbar",
+},
+},
+["Name"] = "NK_Fear",
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = "384365;387411",
@@ -563,31 +636,15 @@ false,
 ["Input"] = "",
 },
 },
-["Effects"] = {
-["Glow"] = {
-["Frame"] = "Healthbar",
-},
-},
-["Name"] = "NK_Fear",
 ["color"] = {
 ["g"] = 0.1098039299249649,
 ["b"] = 0.9411765336990356,
 },
+["allowMarked"] = false,
+["icon"] = 132333,
+["AutomaticIcon"] = 2576097,
 },
 {
-["color"] = {
-["r"] = 0.9843137860298157,
-["b"] = 0.4470588564872742,
-},
-["allowMarked"] = false,
-["icon"] = 298642,
-["AutomaticIcon"] = 298642,
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 408805,
@@ -601,21 +658,22 @@ false,
 },
 },
 ["Name"] = "Incorporeal",
-},
-{
 ["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
+["r"] = 0.9843137860298157,
+["b"] = 0.4470588564872742,
 },
-["showIcon"] = false,
-["allowMarked"] = false,
-["icon"] = 135978,
-["AutomaticIcon"] = 135978,
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
+["OutOfInstances"] = false,
 },
+["allowMarked"] = false,
+["icon"] = 298642,
+["AutomaticIcon"] = 298642,
+},
+{
+["Name"] = "VampiricTouch",
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -629,22 +687,22 @@ false,
 ["ShowOnlyMine"] = true,
 },
 },
-["Name"] = "VampiricTouch",
+["showIcon"] = false,
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
 },
-{
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 },
-["showIcon"] = false,
 ["allowMarked"] = false,
-["icon"] = 135813,
-["AutomaticIcon"] = 135813,
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
+["icon"] = 135978,
+["AutomaticIcon"] = 135978,
 },
+{
+["Name"] = "FlameShock",
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -658,22 +716,22 @@ false,
 ["ShowOnlyMine"] = true,
 },
 },
-["Name"] = "FlameShock",
-},
-{
-["color"] = {
-["g"] = 0.4313725829124451,
-["r"] = 0.4745098352432251,
-},
 ["showIcon"] = false,
-["allowMarked"] = false,
-["icon"] = 135817,
-["AutomaticIcon"] = 135817,
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 },
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
+},
+["allowMarked"] = false,
+["icon"] = 135813,
+["AutomaticIcon"] = 135813,
+},
+{
+["Name"] = "Immolate",
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -687,16 +745,30 @@ false,
 ["ShowOnlyMine"] = true,
 },
 },
-["Name"] = "Immolate",
+["showIcon"] = false,
+["color"] = {
+["g"] = 0.4313725829124451,
+["r"] = 0.4745098352432251,
+},
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+},
+["allowMarked"] = false,
+["icon"] = 135817,
+["AutomaticIcon"] = 135817,
 },
 {
+["UseThreatGlow"] = true,
+["Name"] = "Spiteful",
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 ["OutOfInstances"] = false,
 },
-["UseThreatGlow"] = true,
+["allowMarked"] = false,
 ["Trigger"] = {
 ["Name"] = {
 ["Input"] = "Злопамятная тень",
@@ -705,76 +777,23 @@ false,
 },
 },
 },
-["Name"] = "Spiteful",
-["allowMarked"] = false,
 },
 },
 ["CheckForIncompatibleAddons"] = false,
-["StatusText"] = {
-["HealthbarMode"] = {
-["Font"] = {
-["HorizontalAlignment"] = "LEFT",
-},
-},
-},
-["ComboPoints"] = {
-["ON"] = true,
-},
-["CVarsBackup"] = {
-["nameplateMinAlpha"] = "0.6",
-["nameplateMaxAlpha"] = "1.0",
-},
-["text"] = {
-["full"] = true,
-["amount"] = true,
-["percent"] = false,
-},
 ["BossModsWidget"] = {
 ["ShowInHeadlineView"] = false,
 ["ON"] = false,
 },
-["AuraWidget"] = {
-["Debuffs"] = {
-["FilterBySpell"] = {
-"Пытка разума",
-"Приливная волна",
-"Мощь претендента",
-"Шулерские кости: Аврал!",
-"Калечащий яд",
-"Смертоносный яд",
-"Горящий шлак",
-},
-["NameMode"] = {
-["Anchor"] = "CENTER",
-["HorizontalOffset"] = 15,
-["VerticalOffset"] = -20,
-},
-["CenterAuras"] = false,
-["HealthbarMode"] = {
-["Anchor"] = "CENTER",
-["HorizontalOffset"] = 15,
-["VerticalOffset"] = 25,
-},
-},
-["SwitchScaleByReaction"] = false,
-["FlashWhenExpiring"] = true,
-["Buffs"] = {
-["FilterBySpell"] = {
-"Мощь претендента",
-},
-["CenterAuras"] = false,
-},
-},
 ["settings"] = {
-["eliteicon"] = {
-["x"] = -52,
-["y"] = -2,
+["spelltext"] = {
+["align"] = "CENTER",
 },
 ["elitehealthborder"] = {
 ["texture"] = "TP_EliteBorder_Thin",
 },
-["spelltext"] = {
-["align"] = "CENTER",
+["eliteicon"] = {
+["y"] = -2,
+["x"] = -52,
 },
 ["healthbar"] = {
 ["TargetUnit"] = {
@@ -786,33 +805,19 @@ false,
 },
 },
 },
-["skullicon"] = {
-["x"] = -56,
-["scale"] = 12,
-},
 ["frame"] = {
 ["heightFriend"] = 61.6817726964263,
-["widthFriend"] = 144.5,
-["height"] = 61.6817726964263,
 ["width"] = 144.5,
+["height"] = 61.6817726964263,
+["widthFriend"] = 144.5,
+},
+["skullicon"] = {
+["scale"] = 12,
+["x"] = -56,
 },
 ["raidicon"] = {
 ["scale"] = 30,
 ["x"] = 56,
-},
-},
-["targetWidget"] = {
-["theme"] = "arrow_less_than",
-},
-["HeadlineView"] = {
-["ForceHealthbarOnTarget"] = true,
-},
-["Name"] = {
-["HealthbarMode"] = {
-["VerticalOffset"] = 15,
-["Font"] = {
-["VerticalAlignment"] = "BOTTOM",
-},
 },
 },
 ["ColorByHealth"] = {
@@ -826,16 +831,11 @@ false,
 ["b"] = 0.9725490196078431,
 },
 },
-["Visibility"] = {
-["FriendlyMinus"] = {
-["Show"] = false,
+["ComboPoints"] = {
+["ON"] = true,
 },
-},
-["threat"] = {
-["ThreatPercentage"] = {
-["ShowInGroups"] = false,
-["ShowWithPet"] = false,
-},
+["targetWidget"] = {
+["theme"] = "arrow_less_than",
 },
 },
 ["Гордунни"] = {
@@ -857,64 +857,21 @@ false,
 ["OccludedUnits"] = 0.35,
 },
 },
-["threat"] = {
-["ThreatPercentage"] = {
-["ShowInGroups"] = false,
-["ShowWithPet"] = false,
-},
-["useHPColor"] = false,
-},
-["CVarsBackup"] = {
-["nameplateMinAlpha"] = "0.6",
-["nameplateMaxAlpha"] = "1.0",
-},
-["text"] = {
-["full"] = true,
-["percent"] = false,
-["amount"] = true,
-},
-["Name"] = {
-["HealthbarMode"] = {
-["VerticalOffset"] = 15,
-},
-},
-["FocusWidget"] = {
-["theme"] = "Stripes",
-},
-["AuraWidget"] = {
-["SwitchScaleByReaction"] = false,
-["Buffs"] = {
-["FilterBySpell"] = {
-"Мощь претендента",
-},
-["CenterAuras"] = false,
-},
-["FlashWhenExpiring"] = true,
-["Debuffs"] = {
-["NameMode"] = {
-["Anchor"] = "CENTER",
-["HorizontalOffset"] = 15,
-["VerticalOffset"] = -20,
-},
-["FilterBySpell"] = {
-"Пытка разума",
-"Приливная волна",
-"Мощь претендента",
-"Шулерские кости: Аврал!",
-"Калечащий яд",
-"Смертоносный яд",
-"",
-},
-["CenterAuras"] = false,
-["HealthbarMode"] = {
-["Anchor"] = "CENTER",
-["HorizontalOffset"] = 15,
-["VerticalOffset"] = 25,
-},
-},
-},
 ["uniqueSettings"] = {
 {
+["color"] = {
+["g"] = 0.5215686559677124,
+["b"] = 0.9764706492424011,
+},
+["allowMarked"] = false,
+["icon"] = 132094,
+["AutomaticIcon"] = 132094,
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+["OutOfInstances"] = false,
+},
 ["Trigger"] = {
 ["Cast"] = {
 ["Input"] = 255041,
@@ -928,30 +885,16 @@ false,
 },
 },
 ["Name"] = "TerrifyingScreech",
-["color"] = {
-["g"] = 0.5215686559677124,
-["b"] = 0.9764706492424011,
-},
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
-},
-["OutOfInstances"] = false,
-},
-["allowMarked"] = false,
-["icon"] = 132094,
-["AutomaticIcon"] = 132094,
 },
 {
-["UseThreatGlow"] = true,
-["Name"] = "Spiteful",
-["UseThreatColor"] = true,
 ["Enable"] = {
 ["UnitReaction"] = {
 ["FRIENDLY"] = false,
 },
 ["OutOfInstances"] = false,
 },
+["UseThreatGlow"] = true,
+["UseThreatColor"] = true,
 ["Trigger"] = {
 ["Name"] = {
 ["Input"] = "Злопамятная тень",
@@ -960,9 +903,18 @@ false,
 },
 },
 },
+["Name"] = "Spiteful",
 },
 {
+["Enable"] = {
+["UnitReaction"] = {
+["FRIENDLY"] = false,
+},
+},
 ["showIcon"] = false,
+["allowMarked"] = false,
+["icon"] = 135978,
+["AutomaticIcon"] = 135978,
 ["Trigger"] = {
 ["Type"] = "Aura",
 ["Name"] = {
@@ -977,30 +929,85 @@ false,
 },
 },
 ["Name"] = "VampiricTouch",
-["allowMarked"] = false,
 ["color"] = {
 ["g"] = 0.4313725829124451,
 ["r"] = 0.4745098352432251,
 },
-["Enable"] = {
-["UnitReaction"] = {
-["FRIENDLY"] = false,
 },
 },
-["icon"] = 135978,
-["AutomaticIcon"] = 135978,
+["ComboPoints"] = {
+["ON"] = true,
+},
+["CVarsBackup"] = {
+["nameplateMinAlpha"] = "0.6",
+["nameplateMaxAlpha"] = "1.0",
+},
+["text"] = {
+["full"] = true,
+["amount"] = true,
+["percent"] = false,
+},
+["FocusWidget"] = {
+["theme"] = "Stripes",
+},
+["BossModsWidget"] = {
+["ON"] = false,
+["ShowInHeadlineView"] = false,
+},
+["threat"] = {
+["ThreatPercentage"] = {
+["ShowInGroups"] = false,
+["ShowWithPet"] = false,
+},
+["useHPColor"] = false,
+},
+["CheckForIncompatibleAddons"] = false,
+["AuraWidget"] = {
+["Debuffs"] = {
+["FilterBySpell"] = {
+"Пытка разума",
+"Приливная волна",
+"Мощь претендента",
+"Шулерские кости: Аврал!",
+"Калечащий яд",
+"Смертоносный яд",
+"",
+},
+["NameMode"] = {
+["Anchor"] = "CENTER",
+["HorizontalOffset"] = 15,
+["VerticalOffset"] = -20,
+},
+["CenterAuras"] = false,
+["HealthbarMode"] = {
+["Anchor"] = "CENTER",
+["HorizontalOffset"] = 15,
+["VerticalOffset"] = 25,
+},
+},
+["SwitchScaleByReaction"] = false,
+["FlashWhenExpiring"] = true,
+["Buffs"] = {
+["FilterBySpell"] = {
+"Мощь претендента",
+},
+["CenterAuras"] = false,
 },
 },
 ["settings"] = {
+["eliteicon"] = {
+["x"] = -52,
+["y"] = -2,
+},
 ["elitehealthborder"] = {
 ["texture"] = "TP_EliteBorder_Thin",
 },
-["eliteicon"] = {
-["y"] = -2,
-["x"] = -52,
-},
 ["spelltext"] = {
 ["align"] = "CENTER",
+},
+["skullicon"] = {
+["x"] = -56,
+["scale"] = 12,
 },
 ["frame"] = {
 ["heightFriend"] = 61.6817726964263,
@@ -1008,13 +1015,8 @@ false,
 ["height"] = 61.6817726964263,
 ["width"] = 144.5,
 },
-["skullicon"] = {
-["scale"] = 12,
-["x"] = -56,
-},
 ["raidicon"] = {
 ["scale"] = 30,
-["x"] = 56,
 ["hpMarked"] = {
 ["STAR"] = {
 ["b"] = 0.2784313857555389,
@@ -1022,13 +1024,17 @@ false,
 ["r"] = 0.8431373238563538,
 },
 },
+["x"] = 56,
 },
 },
-["BossModsWidget"] = {
-["ON"] = false,
-["ShowInHeadlineView"] = false,
+["targetWidget"] = {
+["theme"] = "arrow_less_than",
 },
-["CheckForIncompatibleAddons"] = false,
+["Name"] = {
+["HealthbarMode"] = {
+["VerticalOffset"] = 15,
+},
+},
 ["ColorByHealth"] = {
 ["Low"] = {
 ["b"] = 0.6549019607843137,
@@ -1039,12 +1045,6 @@ false,
 ["g"] = 0.9058823529411765,
 ["b"] = 0.9725490196078431,
 },
-},
-["ComboPoints"] = {
-["ON"] = true,
-},
-["targetWidget"] = {
-["theme"] = "arrow_less_than",
 },
 },
 ["PRIEST"] = {

@@ -41,10 +41,10 @@ HandyNotesDB = {
 ["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
 ["Estrea - Alleria"] = "Estrea - Alleria",
-["Flaminika - Durotan"] = "Flaminika - Durotan",
+["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Delery - Durotan"] = "Delery - Durotan",
-["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Элантаис - Гордунни"] = "Элантаис - Гордунни",
 ["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 ["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -139,13 +139,13 @@ HandyNotesDB = {
 },
 ["Estrea - Alleria"] = {
 },
-["Flaminika - Durotan"] = {
+["Эрника - Борейская тундра"] = {
 },
 ["Flaminika - Silvermoon"] = {
 },
 ["Delery - Durotan"] = {
 },
-["Эрника - Борейская тундра"] = {
+["Flaminika - Durotan"] = {
 },
 ["Элантаис - Гордунни"] = {
 },
@@ -203,10 +203,10 @@ HandyNotes_HandyNotesDB = {
 ["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
 ["Estrea - Alleria"] = "Estrea - Alleria",
-["Flaminika - Durotan"] = "Flaminika - Durotan",
+["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Delery - Durotan"] = "Delery - Durotan",
-["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Элантаис - Гордунни"] = "Элантаис - Гордунни",
 ["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 ["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -493,11 +493,17 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2369] = {
-[49301688] = {
-["icon"] = 8,
-["title"] = "Vault",
+[379] = {
+[57007500] = {
+["title"] = "Хавак",
 ["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[73007700] = {
+["title"] = "Зей Изгой",
+["cont"] = false,
+["icon"] = 6,
 ["desc"] = "",
 },
 },
@@ -522,28 +528,28 @@ HandyNotes_HandyNotesDB = {
 ["icon"] = 6,
 ["desc"] = "",
 },
-[49213339] = {
-["cont"] = false,
-["icon"] = 1,
-["title"] = "Puddlehopper",
-["desc"] = "",
-},
 [42006500] = {
 ["title"] = "Karakokta",
 ["cont"] = false,
 ["icon"] = 6,
 ["desc"] = "",
 },
-[44054787] = {
-["title"] = "Cobra",
+[49213339] = {
 ["cont"] = false,
-["icon"] = 2,
+["icon"] = 1,
+["title"] = "Puddlehopper",
 ["desc"] = "",
 },
 [58045379] = {
 ["icon"] = 10,
 ["title"] = "Бартер",
 ["cont"] = false,
+["desc"] = "",
+},
+[44054787] = {
+["title"] = "Cobra",
+["cont"] = false,
+["icon"] = 2,
 ["desc"] = "",
 },
 },
@@ -653,6 +659,20 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
+[1961] = {
+[61804460] = {
+["title"] = "Rift1",
+["cont"] = false,
+["icon"] = 1,
+["desc"] = "",
+},
+[59405370] = {
+["title"] = "Rift5",
+["cont"] = false,
+["icon"] = 1,
+["desc"] = "",
+},
+},
 [2024] = {
 [14003700] = {
 ["cont"] = false,
@@ -670,20 +690,6 @@ HandyNotes_HandyNotesDB = {
 ["cont"] = false,
 ["icon"] = 28,
 ["title"] = "Лунка Мрачноклыка",
-["desc"] = "",
-},
-},
-[1961] = {
-[61804460] = {
-["title"] = "Rift1",
-["cont"] = false,
-["icon"] = 1,
-["desc"] = "",
-},
-[59405370] = {
-["title"] = "Rift5",
-["cont"] = false,
-["icon"] = 1,
 ["desc"] = "",
 },
 },
@@ -741,24 +747,24 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[650] = {
-[55843847] = {
+[713] = {
+[79528931] = {
 ["cont"] = false,
 ["icon"] = 3,
-["title"] = "Orb 7",
+["title"] = "Orb 9",
 ["desc"] = "",
 },
-[31102994] = {
+},
+[2025] = {
+[52656729] = {
+["icon"] = 19,
+["title"] = "Abandoned quest",
 ["cont"] = false,
-["icon"] = 7,
-["title"] = "Evil Taurens",
 ["desc"] = "",
 },
-},
-[52] = {
-[48002000] = {
-["icon"] = 10,
-["title"] = "Oats",
+[42688180] = {
+["icon"] = 19,
+["title"] = "Abandoned quest",
 ["cont"] = false,
 ["desc"] = "",
 },
@@ -815,70 +821,10 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[863] = {
-[25004000] = {
-["icon"] = 1,
-["title"] = "Cwa",
-["cont"] = false,
-["desc"] = "",
-},
-[44009200] = {
-["icon"] = 1,
-["title"] = "Kwa",
-["cont"] = false,
-["desc"] = "",
-},
-[24009100] = {
-["icon"] = 1,
-["title"] = "Cwa",
-["cont"] = false,
-["desc"] = "",
-},
-[52784285] = {
-["title"] = "Ква",
-["cont"] = false,
-["icon"] = 4,
-["desc"] = "",
-},
-[33436151] = {
-["title"] = "Ква",
-["cont"] = false,
-["icon"] = 4,
-["desc"] = "",
-},
-[70885645] = {
+[52] = {
+[48002000] = {
 ["icon"] = 10,
-["title"] = "Frog vendor",
-["cont"] = false,
-["desc"] = "",
-},
-[28008300] = {
-["icon"] = 1,
-["title"] = "Cwa",
-["cont"] = false,
-["desc"] = "",
-},
-[21006900] = {
-["icon"] = 1,
-["title"] = "Cwa",
-["cont"] = false,
-["desc"] = "",
-},
-[56006500] = {
-["icon"] = 1,
-["title"] = "Cwa",
-["cont"] = false,
-["desc"] = "",
-},
-[69005800] = {
-["icon"] = 1,
-["title"] = "Cwa",
-["cont"] = false,
-["desc"] = "",
-},
-[65005000] = {
-["icon"] = 1,
-["title"] = "Cwa",
+["title"] = "Oats",
 ["cont"] = false,
 ["desc"] = "",
 },
@@ -899,30 +845,42 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2214] = {
-[43321994] = {
-["cont"] = false,
-["icon"] = 10,
-["title"] = "Scraps",
-["desc"] = "",
-},
-[50354624] = {
-["icon"] = 10,
-["title"] = "Leather",
+[2151] = {
+[43035063] = {
+["icon"] = 6,
+["title"] = "Скала",
 ["cont"] = false,
 ["desc"] = "",
 },
-[56104744] = {
-["icon"] = 10,
-["title"] = "Elusive Beast",
+[31136077] = {
+["icon"] = 8,
+["title"] = "Sub",
 ["cont"] = false,
 ["desc"] = "",
 },
-[68644426] = {
-["icon"] = 4,
-["title"] = "Грибостраж (рога, шаман, монах)",
+[61642624] = {
+["icon"] = 6,
+["title"] = "Вертолёт",
 ["cont"] = false,
-["desc"] = "Древнекованая дубина",
+["desc"] = "",
+},
+[45093671] = {
+["cont"] = false,
+["icon"] = 6,
+["title"] = "Moose",
+["desc"] = "",
+},
+[55715142] = {
+["title"] = "Выдр",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[44724002] = {
+["icon"] = 23,
+["title"] = "Beast to skin",
+["cont"] = false,
+["desc"] = "",
 },
 },
 [1970] = {
@@ -1171,20 +1129,6 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2025] = {
-[52656729] = {
-["icon"] = 19,
-["title"] = "Abandoned quest",
-["cont"] = false,
-["desc"] = "",
-},
-[42688180] = {
-["icon"] = 19,
-["title"] = "Abandoned quest",
-["cont"] = false,
-["desc"] = "",
-},
-},
 [204] = {
 [45001800] = {
 ["cont"] = false,
@@ -1208,6 +1152,74 @@ HandyNotes_HandyNotesDB = {
 ["cont"] = false,
 ["icon"] = 6,
 ["title"] = "Нестабильная лилиовая чешуя",
+["desc"] = "",
+},
+},
+[863] = {
+[25004000] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
+["desc"] = "",
+},
+[44009200] = {
+["icon"] = 1,
+["title"] = "Kwa",
+["cont"] = false,
+["desc"] = "",
+},
+[24009100] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
+["desc"] = "",
+},
+[52784285] = {
+["title"] = "Ква",
+["cont"] = false,
+["icon"] = 4,
+["desc"] = "",
+},
+[33436151] = {
+["title"] = "Ква",
+["cont"] = false,
+["icon"] = 4,
+["desc"] = "",
+},
+[70885645] = {
+["icon"] = 10,
+["title"] = "Frog vendor",
+["cont"] = false,
+["desc"] = "",
+},
+[28008300] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
+["desc"] = "",
+},
+[21006900] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
+["desc"] = "",
+},
+[56006500] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
+["desc"] = "",
+},
+[69005800] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
+["desc"] = "",
+},
+[65005000] = {
+["icon"] = 1,
+["title"] = "Cwa",
+["cont"] = false,
 ["desc"] = "",
 },
 },
@@ -1267,40 +1279,28 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2151] = {
-[43035063] = {
-["icon"] = 6,
-["title"] = "Скала",
+[2214] = {
+[50354624] = {
+["icon"] = 10,
+["title"] = "Leather",
 ["cont"] = false,
 ["desc"] = "",
 },
-[31136077] = {
-["icon"] = 8,
-["title"] = "Sub",
+[43321994] = {
 ["cont"] = false,
+["icon"] = 10,
+["title"] = "Scraps",
 ["desc"] = "",
 },
-[61642624] = {
-["icon"] = 6,
-["title"] = "Вертолёт",
+[68644426] = {
+["icon"] = 4,
+["title"] = "Грибостраж (рога, шаман, монах)",
 ["cont"] = false,
-["desc"] = "",
+["desc"] = "Древнекованая дубина",
 },
-[45093671] = {
-["cont"] = false,
-["icon"] = 6,
-["title"] = "Moose",
-["desc"] = "",
-},
-[55715142] = {
-["title"] = "Выдр",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[44724002] = {
-["icon"] = 23,
-["title"] = "Beast to skin",
+[56104744] = {
+["icon"] = 10,
+["title"] = "Elusive Beast",
 ["cont"] = false,
 ["desc"] = "",
 },
@@ -1313,11 +1313,17 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[713] = {
-[79528931] = {
+[650] = {
+[55843847] = {
 ["cont"] = false,
 ["icon"] = 3,
-["title"] = "Orb 9",
+["title"] = "Orb 7",
+["desc"] = "",
+},
+[31102994] = {
+["cont"] = false,
+["icon"] = 7,
+["title"] = "Evil Taurens",
 ["desc"] = "",
 },
 },
@@ -1356,16 +1362,16 @@ HandyNotes_HandyNotesDB = {
 ["title"] = "Page 3",
 ["desc"] = "",
 },
-[37805260] = {
-["cont"] = false,
-["icon"] = 18,
-["title"] = "Book of Sonnets",
-["desc"] = "",
-},
 [40768843] = {
 ["cont"] = false,
 ["icon"] = 17,
 ["title"] = "Page 1",
+["desc"] = "",
+},
+[37805260] = {
+["cont"] = false,
+["icon"] = 18,
+["title"] = "Book of Sonnets",
 ["desc"] = "",
 },
 },
@@ -1383,17 +1389,11 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[379] = {
-[57007500] = {
-["title"] = "Хавак",
+[2369] = {
+[49301688] = {
+["icon"] = 8,
+["title"] = "Vault",
 ["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[73007700] = {
-["title"] = "Зей Изгой",
-["cont"] = false,
-["icon"] = 6,
 ["desc"] = "",
 },
 },
@@ -1479,13 +1479,13 @@ HandyNotes_HandyNotesDB = {
 },
 ["Estrea - Alleria"] = {
 },
-["Flaminika - Durotan"] = {
+["Эрника - Борейская тундра"] = {
 },
 ["Flaminika - Silvermoon"] = {
 },
 ["Delery - Durotan"] = {
 },
-["Эрника - Борейская тундра"] = {
+["Flaminika - Durotan"] = {
 },
 ["Элантаис - Гордунни"] = {
 },

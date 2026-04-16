@@ -41,10 +41,10 @@ Postal3DB = {
 ["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
 ["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
-["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Элави - Борейская тундра"] = "Элави - Борейская тундра",
-["Flaminika - Durotan"] = "Flaminika - Durotan",
+["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
 ["Элантаис - Гордунни"] = "Элантаис - Гордунни",
 ["Elavi - Durotan"] = "Elavi - Durotan",
 ["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -420,18 +420,18 @@ Postal3DB = {
 },
 ["Дэлери - Гордунни"] = {
 ["OpenAll"] = {
-["AHWon"] = false,
-["AHSuccess"] = false,
 ["Attachments"] = false,
+["AHSuccess"] = false,
+["AHWon"] = false,
 },
 ["BlackBook"] = {
 ["recent"] = {
-"Алоиза|Гордунни|Alliance",
 "Фламинника|Гордунни|Alliance",
+"Эраминта|Гордунни|Alliance",
+"Алоиза|Гордунни|Alliance",
 "Алтэри|Гордунни|Alliance",
 "Ниэтта|Гордунни|Alliance",
 "Эллиата|Гордунни|Alliance",
-"Эраминта|Гордунни|Alliance",
 "Эстрэя|Гордунни|Alliance",
 "Ниамэй|Гордунни|Alliance",
 "Шайэн|Гордунни|Alliance",
@@ -670,17 +670,11 @@ Postal3DB = {
 },
 ["Estrea - EU Mythic Dungeons"] = {
 },
-["Эрника - Борейская тундра"] = {
+["Flaminika - Durotan"] = {
 ["BlackBook"] = {
 ["recent"] = {
-"Ниэтта-Гордунни|Борейская тундра|Alliance",
-"Элави|Борейская тундра|Alliance",
-"Фламиника|Борейская тундра|Alliance",
-"Алоиза|Борейская тундра|Alliance",
-"Алтери|Борейская тундра|Alliance",
-"Дэлери|Борейская тундра|Alliance",
-"Эстрея|Борейская тундра|Alliance",
-"Зонна|Борейская тундра|Alliance",
+"Xynn|Durotan|Alliance",
+"Altery|Durotan|Alliance",
 },
 },
 },
@@ -704,11 +698,17 @@ Postal3DB = {
 },
 },
 },
-["Flaminika - Durotan"] = {
+["Эрника - Борейская тундра"] = {
 ["BlackBook"] = {
 ["recent"] = {
-"Xynn|Durotan|Alliance",
-"Altery|Durotan|Alliance",
+"Ниэтта-Гордунни|Борейская тундра|Alliance",
+"Элави|Борейская тундра|Alliance",
+"Фламиника|Борейская тундра|Alliance",
+"Алоиза|Борейская тундра|Alliance",
+"Алтери|Борейская тундра|Alliance",
+"Дэлери|Борейская тундра|Alliance",
+"Эстрея|Борейская тундра|Alliance",
+"Зонна|Борейская тундра|Alliance",
 },
 },
 },

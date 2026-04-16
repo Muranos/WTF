@@ -40,8 +40,8 @@ HandyNotesDB = {
 ["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 ["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
-["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Delery - Durotan"] = "Delery - Durotan",
 ["Estrea - Alleria"] = "Estrea - Alleria",
@@ -137,9 +137,9 @@ HandyNotesDB = {
 },
 ["Ващеновый - Гордунни"] = {
 },
-["Flaminika - Durotan"] = {
-},
 ["Эрника - Борейская тундра"] = {
+},
+["Flaminika - Durotan"] = {
 },
 ["Flaminika - Silvermoon"] = {
 },
@@ -339,11 +339,17 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2369] = {
-[49301688] = {
+[379] = {
+[57007500] = {
+["icon"] = 6,
+["title"] = "Хавак",
 ["cont"] = false,
-["icon"] = 8,
-["title"] = "Vault",
+["desc"] = "",
+},
+[73007700] = {
+["icon"] = 6,
+["title"] = "Зей Изгой",
+["cont"] = false,
 ["desc"] = "",
 },
 },
@@ -435,17 +441,11 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[379] = {
-[57007500] = {
-["icon"] = 6,
-["title"] = "Хавак",
+[2369] = {
+[49301688] = {
 ["cont"] = false,
-["desc"] = "",
-},
-[73007700] = {
-["icon"] = 6,
-["title"] = "Зей Изгой",
-["cont"] = false,
+["icon"] = 8,
+["title"] = "Vault",
 ["desc"] = "",
 },
 },
@@ -470,21 +470,15 @@ HandyNotes_HandyNotesDB = {
 ["cont"] = false,
 ["desc"] = "",
 },
-[44054787] = {
-["icon"] = 2,
-["title"] = "Cobra",
-["cont"] = false,
-["desc"] = "",
-},
 [58045379] = {
 ["cont"] = false,
 ["icon"] = 10,
 ["title"] = "Бартер",
 ["desc"] = "",
 },
-[42006500] = {
-["icon"] = 6,
-["title"] = "Karakokta",
+[44054787] = {
+["icon"] = 2,
+["title"] = "Cobra",
 ["cont"] = false,
 ["desc"] = "",
 },
@@ -492,6 +486,12 @@ HandyNotes_HandyNotesDB = {
 ["title"] = "Puddlehopper",
 ["cont"] = false,
 ["icon"] = 1,
+["desc"] = "",
+},
+[42006500] = {
+["icon"] = 6,
+["title"] = "Karakokta",
+["cont"] = false,
 ["desc"] = "",
 },
 },
@@ -522,16 +522,16 @@ HandyNotes_HandyNotesDB = {
 ["icon"] = 17,
 ["desc"] = "",
 },
-[37805260] = {
-["title"] = "Book of Sonnets",
-["cont"] = false,
-["icon"] = 18,
-["desc"] = "",
-},
 [40768843] = {
 ["title"] = "Page 1",
 ["cont"] = false,
 ["icon"] = 17,
+["desc"] = "",
+},
+[37805260] = {
+["title"] = "Book of Sonnets",
+["cont"] = false,
+["icon"] = 18,
 ["desc"] = "",
 },
 [39828048] = {
@@ -619,6 +619,34 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
+[713] = {
+[79528931] = {
+["title"] = "Orb 9",
+["cont"] = false,
+["icon"] = 3,
+["desc"] = "",
+},
+},
+[2024] = {
+[14003700] = {
+["title"] = "Gnarls",
+["cont"] = false,
+["icon"] = 1,
+["desc"] = "",
+},
+[29784630] = {
+["icon"] = 25,
+["title"] = "Лиса",
+["cont"] = false,
+["desc"] = "",
+},
+[58773479] = {
+["title"] = "Лунка Мрачноклыка",
+["cont"] = false,
+["icon"] = 28,
+["desc"] = "",
+},
+},
 [650] = {
 [55843847] = {
 ["title"] = "Orb 7",
@@ -630,28 +658,6 @@ HandyNotes_HandyNotesDB = {
 ["title"] = "Evil Taurens",
 ["cont"] = false,
 ["icon"] = 7,
-["desc"] = "",
-},
-},
-[1961] = {
-[61804460] = {
-["icon"] = 1,
-["title"] = "Rift1",
-["cont"] = false,
-["desc"] = "",
-},
-[59405370] = {
-["icon"] = 1,
-["title"] = "Rift5",
-["cont"] = false,
-["desc"] = "",
-},
-},
-[713] = {
-[79528931] = {
-["title"] = "Orb 9",
-["cont"] = false,
-["icon"] = 3,
 ["desc"] = "",
 },
 },
@@ -709,29 +715,41 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2214] = {
-[56104744] = {
+[2151] = {
+[43035063] = {
 ["cont"] = false,
-["icon"] = 10,
-["title"] = "Elusive Beast",
+["icon"] = 6,
+["title"] = "Скала",
 ["desc"] = "",
 },
-[50354624] = {
+[31136077] = {
 ["cont"] = false,
-["icon"] = 10,
-["title"] = "Leather",
+["icon"] = 8,
+["title"] = "Sub",
 ["desc"] = "",
 },
-[68644426] = {
+[61642624] = {
 ["cont"] = false,
-["icon"] = 4,
-["title"] = "Грибостраж (рога, шаман, монах)",
-["desc"] = "Древнекованая дубина",
+["icon"] = 6,
+["title"] = "Вертолёт",
+["desc"] = "",
 },
-[43321994] = {
-["title"] = "Scraps",
+[44724002] = {
 ["cont"] = false,
-["icon"] = 10,
+["icon"] = 23,
+["title"] = "Beast to skin",
+["desc"] = "",
+},
+[55715142] = {
+["icon"] = 6,
+["title"] = "Выдр",
+["cont"] = false,
+["desc"] = "",
+},
+[45093671] = {
+["title"] = "Moose",
+["cont"] = false,
+["icon"] = 6,
 ["desc"] = "",
 },
 },
@@ -784,134 +802,6 @@ HandyNotes_HandyNotesDB = {
 ["title"] = "Lantern",
 ["cont"] = false,
 ["icon"] = 6,
-["desc"] = "",
-},
-},
-[204] = {
-[45001800] = {
-["title"] = "Little Carp",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[63984184] = {
-["title"] = "Gloomy Bluefin.",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[16008200] = {
-["title"] = "The Blackfish",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[38667533] = {
-["title"] = "Нестабильная лилиовая чешуя",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-},
-[680] = {
-[41036936] = {
-["icon"] = 10,
-["title"] = "House",
-["cont"] = false,
-["desc"] = "",
-},
-[43008100] = {
-["icon"] = 1,
-["title"] = "Yellow",
-["cont"] = false,
-["desc"] = "",
-},
-},
-[201] = {
-[60145864] = {
-["title"] = "Ol’ Fishbreath",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-},
-[2151] = {
-[43035063] = {
-["cont"] = false,
-["icon"] = 6,
-["title"] = "Скала",
-["desc"] = "",
-},
-[31136077] = {
-["cont"] = false,
-["icon"] = 8,
-["title"] = "Sub",
-["desc"] = "",
-},
-[61642624] = {
-["cont"] = false,
-["icon"] = 6,
-["title"] = "Вертолёт",
-["desc"] = "",
-},
-[44724002] = {
-["cont"] = false,
-["icon"] = 23,
-["title"] = "Beast to skin",
-["desc"] = "",
-},
-[55715142] = {
-["icon"] = 6,
-["title"] = "Выдр",
-["cont"] = false,
-["desc"] = "",
-},
-[45093671] = {
-["title"] = "Moose",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-},
-[205] = {
-[69674678] = {
-["title"] = "Lil’ Whalley",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[45072044] = {
-["title"] = "Sir Finley Mrrgglton",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[53992390] = {
-["title"] = "Manta Stargazer",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-[54008800] = {
-["title"] = "Crimson Angerfish",
-["cont"] = false,
-["icon"] = 6,
-["desc"] = "",
-},
-},
-[1462] = {
-[66455889] = {
-["icon"] = 6,
-["title"] = "Едкий слизень DR-CC73",
-["cont"] = false,
-["desc"] = "",
-},
-},
-[2112] = {
-[72916625] = {
-["icon"] = 1,
-["title"] = "Driad",
-["cont"] = false,
 ["desc"] = "",
 },
 },
@@ -983,17 +873,127 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2025] = {
-[52656729] = {
+[680] = {
+[41036936] = {
+["icon"] = 10,
+["title"] = "House",
 ["cont"] = false,
-["icon"] = 19,
-["title"] = "Abandoned quest",
 ["desc"] = "",
 },
-[42688180] = {
+[43008100] = {
+["icon"] = 1,
+["title"] = "Yellow",
 ["cont"] = false,
-["icon"] = 19,
-["title"] = "Abandoned quest",
+["desc"] = "",
+},
+},
+[201] = {
+[60145864] = {
+["title"] = "Ol’ Fishbreath",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+},
+[2214] = {
+[68644426] = {
+["cont"] = false,
+["icon"] = 4,
+["title"] = "Грибостраж (рога, шаман, монах)",
+["desc"] = "Древнекованая дубина",
+},
+[43321994] = {
+["title"] = "Scraps",
+["cont"] = false,
+["icon"] = 10,
+["desc"] = "",
+},
+[56104744] = {
+["cont"] = false,
+["icon"] = 10,
+["title"] = "Elusive Beast",
+["desc"] = "",
+},
+[50354624] = {
+["cont"] = false,
+["icon"] = 10,
+["title"] = "Leather",
+["desc"] = "",
+},
+},
+[205] = {
+[69674678] = {
+["title"] = "Lil’ Whalley",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[45072044] = {
+["title"] = "Sir Finley Mrrgglton",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[53992390] = {
+["title"] = "Manta Stargazer",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[54008800] = {
+["title"] = "Crimson Angerfish",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+},
+[1462] = {
+[66455889] = {
+["icon"] = 6,
+["title"] = "Едкий слизень DR-CC73",
+["cont"] = false,
+["desc"] = "",
+},
+},
+[2112] = {
+[72916625] = {
+["icon"] = 1,
+["title"] = "Driad",
+["cont"] = false,
+["desc"] = "",
+},
+},
+[52] = {
+[48002000] = {
+["cont"] = false,
+["icon"] = 10,
+["title"] = "Oats",
+["desc"] = "",
+},
+},
+[204] = {
+[45001800] = {
+["title"] = "Little Carp",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[63984184] = {
+["title"] = "Gloomy Bluefin.",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[16008200] = {
+["title"] = "The Blackfish",
+["cont"] = false,
+["icon"] = 6,
+["desc"] = "",
+},
+[38667533] = {
+["title"] = "Нестабильная лилиовая чешуя",
+["cont"] = false,
+["icon"] = 6,
 ["desc"] = "",
 },
 },
@@ -1251,11 +1251,17 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[52] = {
-[48002000] = {
+[2025] = {
+[52656729] = {
 ["cont"] = false,
-["icon"] = 10,
-["title"] = "Oats",
+["icon"] = 19,
+["title"] = "Abandoned quest",
+["desc"] = "",
+},
+[42688180] = {
+["cont"] = false,
+["icon"] = 19,
+["title"] = "Abandoned quest",
 ["desc"] = "",
 },
 },
@@ -1267,23 +1273,17 @@ HandyNotes_HandyNotesDB = {
 ["desc"] = "",
 },
 },
-[2024] = {
-[14003700] = {
-["title"] = "Gnarls",
-["cont"] = false,
+[1961] = {
+[61804460] = {
 ["icon"] = 1,
-["desc"] = "",
-},
-[29784630] = {
-["icon"] = 25,
-["title"] = "Лиса",
+["title"] = "Rift1",
 ["cont"] = false,
 ["desc"] = "",
 },
-[58773479] = {
-["title"] = "Лунка Мрачноклыка",
+[59405370] = {
+["icon"] = 1,
+["title"] = "Rift5",
 ["cont"] = false,
-["icon"] = 28,
 ["desc"] = "",
 },
 },
@@ -1386,8 +1386,8 @@ HandyNotes_HandyNotesDB = {
 ["Вейлзевулла - Борейская тундра"] = "Вейлзевулла - Борейская тундра",
 ["Эстрея - Борейская тундра"] = "Эстрея - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
-["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Delery - Durotan"] = "Delery - Durotan",
 ["Estrea - Alleria"] = "Estrea - Alleria",
@@ -1477,9 +1477,9 @@ HandyNotes_HandyNotesDB = {
 },
 ["Ващеновый - Гордунни"] = {
 },
-["Flaminika - Durotan"] = {
-},
 ["Эрника - Борейская тундра"] = {
+},
+["Flaminika - Durotan"] = {
 },
 ["Flaminika - Silvermoon"] = {
 },

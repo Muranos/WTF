@@ -12,8 +12,8 @@ OPie_SavedData = {
 ["default"] = {
 ["InteractionMode"] = 2,
 ["RotationTokens"] = {
-["ABueTilOXSf"] = "ABueTilOXSr",
-["ABueToLRFZt"] = "ABueToLRFZr",
+["ABueTilOXSf"] = "ABueTilOXSt",
+["ABueToLRFZt"] = "ABueToLRFZ1",
 },
 ["ShowCooldowns"] = true,
 ["Bindings"] = {
@@ -192,8 +192,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCTAc",
 ["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+["sliceToken"] = "OPCTAc",
 ["vm"] = 2,
 },
 {
@@ -320,7 +320,7 @@ OPie_SavedData = {
 ["dropTokens"] = {
 ["OPCTAt"] = 1,
 ["OPCTAm"] = 1,
-["OPCTAx"] = 43,
+["OPCTAx"] = 49,
 },
 },
 ["Animations"] = {

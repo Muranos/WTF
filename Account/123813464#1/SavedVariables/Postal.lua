@@ -93,8 +93,8 @@ Postal3DB = {
 ["Elavi - Durotan"] = "Elavi - Durotan",
 ["Сайбил - Борейская тундра"] = "Сайбил - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
-["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Эрника - Борейская тундра"] = "Эрника - Борейская тундра",
+["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Элави - Борейская тундра"] = "Элави - Борейская тундра",
 ["Estrea - EU Mythic Dungeons"] = "Estrea - EU Mythic Dungeons",
@@ -366,10 +366,6 @@ Postal3DB = {
 ["Миттенс - Гордунни"] = {
 },
 ["Ниэтта - Гордунни"] = {
-["OpenAll"] = {
-["Attachments"] = false,
-["AHSuccess"] = false,
-},
 ["BlackBook"] = {
 ["recent"] = {
 "Алоиза|Гордунни|Alliance",
@@ -393,6 +389,10 @@ Postal3DB = {
 "Асташка|Гордунни|Alliance",
 "Altery-Durotan|Гордунни|Alliance",
 },
+},
+["OpenAll"] = {
+["Attachments"] = false,
+["AHSuccess"] = false,
 },
 },
 ["Фламиника - Борейская тундра"] = {
@@ -419,14 +419,19 @@ Postal3DB = {
 },
 },
 ["Дэлери - Гордунни"] = {
+["OpenAll"] = {
+["AHWon"] = false,
+["AHSuccess"] = false,
+["Attachments"] = false,
+},
 ["BlackBook"] = {
 ["recent"] = {
-"Алоиза|Гордунни|Alliance",
 "Фламинника|Гордунни|Alliance",
+"Эраминта|Гордунни|Alliance",
+"Алоиза|Гордунни|Alliance",
 "Алтэри|Гордунни|Alliance",
 "Ниэтта|Гордунни|Alliance",
 "Эллиата|Гордунни|Alliance",
-"Эраминта|Гордунни|Alliance",
 "Эстрэя|Гордунни|Alliance",
 "Ниамэй|Гордунни|Alliance",
 "Шайэн|Гордунни|Alliance",
@@ -440,11 +445,6 @@ Postal3DB = {
 "Сострадание|Гордунни|Alliance",
 "Estrea-Alleria|Гордунни|Alliance",
 },
-},
-["OpenAll"] = {
-["AHWon"] = false,
-["AHSuccess"] = false,
-["Attachments"] = false,
 },
 },
 ["Ниамэй - Гордунни"] = {
@@ -648,14 +648,6 @@ Postal3DB = {
 },
 ["Ващеновый - Гордунни"] = {
 },
-["Flaminika - Durotan"] = {
-["BlackBook"] = {
-["recent"] = {
-"Xynn|Durotan|Alliance",
-"Altery|Durotan|Alliance",
-},
-},
-},
 ["Эрника - Борейская тундра"] = {
 ["BlackBook"] = {
 ["recent"] = {
@@ -667,6 +659,14 @@ Postal3DB = {
 "Дэлери|Борейская тундра|Alliance",
 "Эстрея|Борейская тундра|Alliance",
 "Зонна|Борейская тундра|Alliance",
+},
+},
+},
+["Flaminika - Durotan"] = {
+["BlackBook"] = {
+["recent"] = {
+"Xynn|Durotan|Alliance",
+"Altery|Durotan|Alliance",
 },
 },
 },

@@ -38,8 +38,8 @@ TellMeWhenDB = {
 ["Катрэта - Гордунни"] = "Алтэри - Гордунни",
 ["Altery - Bronzebeard"] = "Altery - Bronzebeard",
 ["Алтэри - Гордунни"] = "Алтэри - Гордунни",
-["Земкатра - Гордунни"] = "Фламинника - Гордунни",
 ["Нирейя - Борейская тундра"] = "Нирейя - Борейская тундра",
+["Земкатра - Гордунни"] = "Фламинника - Гордунни",
 ["Aloize - Chants éternels"] = "Aloize - Chants éternels",
 ["Дэлери - Борейская тундра"] = "Дэлери - Борейская тундра",
 ["Энастари - Гордунни"] = "Энастари - Гордунни",
@@ -47,7 +47,7 @@ TellMeWhenDB = {
 ["Терцета - Гордунни"] = "Priest",
 ["Delery - Durotan"] = "Delery_Duraton",
 ["Рефти - Гордунни"] = "Рефти - Гордунни",
-["Эраминта - Гордунни"] = "Зонна - Борейская тундра",
+["Зиэ - Гордунни"] = "Эллиата - Гордунни",
 ["Зонна - Борейская тундра"] = "Зонна - Борейская тундра",
 ["Ващеновый - Гордунни"] = "Ващеновый - Гордунни",
 ["Ниддис - Борейская тундра"] = "Ниддис - Борейская тундра",
@@ -55,7 +55,7 @@ TellMeWhenDB = {
 ["Flaminika - Durotan"] = "Flaminika - Durotan",
 ["Flaminika - Silvermoon"] = "Flaminika - Silvermoon",
 ["Шайэн - Гордунни"] = "Шайэн - Гордунни",
-["Зиэ - Гордунни"] = "Эллиата - Гордунни",
+["Эраминта - Гордунни"] = "Зонна - Борейская тундра",
 ["Элантаис - Гордунни"] = "Шайэн - Гордунни",
 ["Эллиата - Гордунни"] = "Эллиата - Гордунни",
 ["Хилопятьумер - Гордунни"] = "Хилопятьумер - Гордунни",
@@ -2781,8 +2781,6 @@ nil,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
-["Sound"] = "Simon Chime",
-["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -2791,10 +2789,10 @@ nil,
 },
 ["n"] = 1,
 },
-},
-{
 ["Sound"] = "Simon Chime",
 ["Type"] = "Sound",
+},
+{
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -2803,6 +2801,8 @@ nil,
 },
 ["n"] = 1,
 },
+["Sound"] = "Simon Chime",
+["Type"] = "Sound",
 },
 ["n"] = 2,
 },
@@ -3906,13 +3906,13 @@ nil,
 },
 {
 ["View"] = "bar",
+["Columns"] = 1,
 ["Point"] = {
 ["y"] = -229.0933389488197,
 ["x"] = 265.4584655761719,
 ["point"] = "TOPLEFT",
 ["relativePoint"] = "TOPLEFT",
 },
-["Columns"] = 1,
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 226.3663635253906,
@@ -4651,14 +4651,14 @@ nil,
 {
 ["GUID"] = "TMW:group:1TUY_fC=0FKq",
 ["Columns"] = 1,
-["Rows"] = 6,
-["Scale"] = 1.483332514762878,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
+["Scale"] = 1.483332514762878,
+["Rows"] = 6,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -5017,11 +5017,11 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1U=FDoIsBCCW",
+["Columns"] = 1,
 ["Point"] = {
 ["y"] = 6.417999006166991,
 ["x"] = 77.98762013189241,
 },
-["Columns"] = 1,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["SpacingY"] = 3,
@@ -5029,11 +5029,6 @@ nil,
 },
 ["Scale"] = 1.699,
 ["Rows"] = 5,
-["EnabledSpecs"] = {
-[103] = false,
-[104] = false,
-[105] = false,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -5351,6 +5346,11 @@ nil,
 },
 },
 },
+},
+["EnabledSpecs"] = {
+[103] = false,
+[104] = false,
+[105] = false,
 },
 },
 {
@@ -5923,11 +5923,6 @@ nil,
 ["Role"] = 4,
 ["Columns"] = 1,
 ["Scale"] = 3.033348798751831,
-["EnabledSpecs"] = {
-[103] = false,
-[102] = false,
-[105] = false,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -6001,6 +5996,11 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[103] = false,
+[102] = false,
+[105] = false,
+},
 ["Point"] = {
 ["y"] = 27.19776778591822,
 ["x"] = -0.1647178563563407,
@@ -6009,10 +6009,7 @@ nil,
 {
 ["GUID"] = "TMW:group:1XMzG6IVmuuh",
 ["Enabled"] = false,
-["Point"] = {
-["y"] = -90.63967374286581,
-["x"] = 9.739374910638595,
-},
+["Name"] = "Eclipse_Indicator",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["SpacingX"] = 9.9,
@@ -6121,15 +6118,15 @@ nil,
 },
 },
 },
-["Name"] = "Eclipse_Indicator",
+["Point"] = {
+["y"] = -90.63967374286581,
+["x"] = 9.739374910638595,
+},
 },
 {
 ["GUID"] = "TMW:group:1XMzI2d3E=WY",
 ["Enabled"] = false,
-["Point"] = {
-["y"] = -125.1813837367286,
-["x"] = -134.7272414336164,
-},
+["Name"] = "Eclipse_Predictor",
 ["EnabledSpecs"] = {
 [103] = false,
 [104] = false,
@@ -6261,7 +6258,10 @@ nil,
 },
 },
 },
-["Name"] = "Eclipse_Predictor",
+["Point"] = {
+["y"] = -125.1813837367286,
+["x"] = -134.7272414336164,
+},
 },
 {
 ["GUID"] = "TMW:group:1XMzObGZHFCN",
@@ -7102,12 +7102,6 @@ nil,
 {
 ["GUID"] = "TMW:group:1NDQHcrltarj",
 ["Scale"] = 2.61025762557983,
-["Point"] = {
-["y"] = 326.906372070313,
-["x"] = 139.348052978516,
-["point"] = "TOPLEFT",
-["relativePoint"] = "BOTTOMLEFT",
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -7117,10 +7111,10 @@ nil,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
-["Type"] = "Sound",
 ["AnimColor"] = "80ff0000",
-["Event"] = "OnShow",
+["Type"] = "Sound",
 ["Sound"] = "Cheer",
+["Event"] = "OnShow",
 },
 ["n"] = 1,
 },
@@ -7234,6 +7228,12 @@ nil,
 },
 },
 },
+},
+["Point"] = {
+["y"] = 326.906372070313,
+["x"] = 139.348052978516,
+["point"] = "TOPLEFT",
+["relativePoint"] = "BOTTOMLEFT",
 },
 },
 {
@@ -7714,11 +7714,11 @@ nil,
 },
 {
 ["View"] = "bar",
-["Columns"] = 1,
 ["Point"] = {
 ["y"] = -86.2981235700772,
 ["x"] = -14.4446557434355,
 },
+["Columns"] = 1,
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 222.968521118164,
@@ -7823,12 +7823,6 @@ nil,
 {
 ["GUID"] = "TMW:group:1Ot5Ts0GTlyN",
 ["Scale"] = 2.63333892822266,
-["Point"] = {
-["y"] = 73.1010476645399,
-["x"] = 138.60725402832,
-["point"] = "LEFT",
-["relativePoint"] = "LEFT",
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -7923,6 +7917,12 @@ nil,
 },
 },
 },
+},
+["Point"] = {
+["y"] = 73.1010476645399,
+["x"] = 138.60725402832,
+["point"] = "LEFT",
+["relativePoint"] = "LEFT",
 },
 },
 {
@@ -9691,12 +9691,7 @@ nil,
 ["x"] = -120.5852325695686,
 },
 ["Scale"] = 1.28333330154419,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 4,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -9887,7 +9882,12 @@ nil,
 },
 },
 },
-["Rows"] = 4,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 },
 {
 ["View"] = "bar",
@@ -9973,114 +9973,6 @@ nil,
 ["Version"] = 91100,
 ["NumGroups"] = 12,
 },
-["Катрэта - Гордунни"] = {
-["Version"] = 11020801,
-["Groups"] = {
-{
-["GUID"] = "TMW:group:1fIDKJJ5UuCB",
-["Icons"] = {
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-},
-},
-},
-},
-["Литрэс - Гордунни"] = {
-["Version"] = 11020801,
-["Groups"] = {
-{
-["GUID"] = "TMW:group:1fMrHKBRDK8e",
-["Icons"] = {
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-},
-},
-},
-},
 ["Мининевра - Азурегос"] = {
 ["Locked"] = true,
 ["Version"] = 83302,
@@ -10140,31 +10032,155 @@ nil,
 },
 },
 },
-["DeathKnight"] = {
+["Алиэрена - Гордунни"] = {
+["Version"] = 12000002,
 ["Groups"] = {
 {
+["Icons"] = {
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+},
+["GUID"] = "TMW:group:1fRXEjRyTuya",
+},
+},
+},
+["Катрэта - Гордунни"] = {
+["Version"] = 11020801,
+["Groups"] = {
+{
+["GUID"] = "TMW:group:1fIDKJJ5UuCB",
+["Icons"] = {
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+},
+},
+},
+},
+["DeathKnight"] = {
+["Locked"] = true,
+["NumGroups"] = 19,
+["Version"] = 12001103,
+["Groups"] = {
+{
+["Enabled"] = false,
+["Columns"] = 6,
 ["Point"] = {
 ["y"] = 149.2505187988281,
 ["x"] = 10.69542552207068,
 ["point"] = "BOTTOM",
 ["relativePoint"] = "BOTTOM",
 },
+["Name"] = "Unholy_CDs",
 ["Scale"] = 1.34672331809998,
-["Enabled"] = false,
-["Columns"] = 6,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+{
+["Type"] = "UNITSPEC",
+["BitFlags"] = {
+[251] = true,
+},
+},
+["n"] = 2,
+},
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["Name"] = "Беспощадность зимы",
+["Type"] = "cooldown",
 ["ClockGCD"] = true,
 ["Events"] = {
 {
-["Type"] = "Animations",
 ["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
+["Type"] = "Animations",
 ["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
 },
 ["n"] = 1,
 },
@@ -10182,10 +10198,10 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["ClockGCD"] = true,
 ["Name"] = "Хватка смерти",
 ["States"] = {
@@ -10201,17 +10217,17 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["Name"] = "Ледяной столп",
+["Type"] = "cooldown",
 ["ClockGCD"] = true,
 ["Events"] = {
 {
-["Type"] = "Animations",
 ["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
+["Type"] = "Animations",
 ["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
 },
 ["n"] = 1,
 },
@@ -10229,17 +10245,17 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["Name"] = "Усиление рунического оружия",
+["Type"] = "cooldown",
 ["ClockGCD"] = true,
 ["Events"] = {
 {
-["Type"] = "Animations",
 ["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
+["Type"] = "Animations",
 ["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
 },
 ["n"] = 1,
 },
@@ -10268,10 +10284,10 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["ClockGCD"] = true,
 ["Name"] = "Антимагический панцирь",
 ["States"] = {
@@ -10287,19 +10303,6 @@ nil,
 },
 },
 },
-["Name"] = "Unholy_CDs",
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-{
-["Type"] = "UNITSPEC",
-["BitFlags"] = {
-[251] = true,
-},
-},
-["n"] = 2,
-},
 ["GUID"] = "TMW:group:1NDQHcr7FjuG",
 },
 {
@@ -10309,26 +10312,24 @@ nil,
 ["x"] = 4.64310275191604,
 },
 ["Scale"] = 1.4000016450882,
-["TextureName"] = "VuhDo - Pipe, dark",
-["Enabled"] = false,
-["Columns"] = 1,
 ["Icons"] = {
 {
+["Enabled"] = true,
 ["Type"] = "value",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["OnlyShown"] = true,
 ["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
+["OnlyShown"] = true,
 ["OnConditionConditions"] = {
 {
 ["Type"] = "RUNIC_POWER_ABS",
-["Operator"] = ">",
 ["Level"] = 39,
+["Operator"] = ">",
 },
 ["n"] = 1,
 },
+["Event"] = "WCSP",
 },
 ["n"] = 1,
 },
@@ -10341,7 +10342,6 @@ nil,
 },
 },
 ["CustomTex"] = "49998",
-["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -10386,18 +10386,21 @@ nil,
 },
 },
 },
+["TextureName"] = "VuhDo - Pipe, dark",
 ["Name"] = "Resources_RunicPower",
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 206.428268432617,
 },
 },
+["Enabled"] = false,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
+["Columns"] = 1,
 ["GUID"] = "TMW:group:1RIbdKmbAdYU",
 },
 {
@@ -10406,42 +10409,29 @@ nil,
 ["y"] = -61.74125755570871,
 ["x"] = 202.9500237672989,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingY"] = 6.1,
+},
+},
 ["Scale"] = 1.223738789558411,
-["Columns"] = 1,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
-["States"] = {
-{
-["Alpha"] = 0,
-},
-{
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
+["ShowTimer"] = true,
 ["Name"] = "Заморозка разума",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnShow",
 ["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["Event"] = "OnShow",
 },
 ["n"] = 1,
 },
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["ShowTimerText"] = true,
 ["States"] = {
 {
 ["Alpha"] = 0,
@@ -10454,13 +10444,30 @@ nil,
 {
 },
 },
+},
+{
+["ShowTimer"] = true,
+["ShowTimerText"] = true,
+["Name"] = "Асфиксия",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Name"] = "Асфиксия",
+["Type"] = "cooldown",
+["States"] = {
+{
+["Alpha"] = 0,
+},
+{
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
 },
 {
 ["States"] = {
@@ -10485,130 +10492,17 @@ nil,
 },
 },
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingY"] = 6.1,
-},
-},
+["Columns"] = 1,
 },
 {
+["Enabled"] = false,
+["Columns"] = 6,
 ["Point"] = {
 ["y"] = 146.9636331469121,
 ["x"] = 12.14716843347963,
 },
-["Scale"] = 1.35833382606506,
-["Enabled"] = false,
-["Columns"] = 6,
-["Icons"] = {
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["ShowTimer"] = true,
-["BuffOrDebuff"] = "HARMFUL",
-["Unit"] = "target",
-["Type"] = "buff",
-["Enabled"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["Name"] = "Озноб",
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "buff",
-["Enabled"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["Name"] = "Ледяной столп",
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnShow",
-["Infinite"] = true,
-},
-["n"] = 1,
-},
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "buff",
-["Enabled"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["Name"] = "Костяной щит",
-["ShowTimerText"] = true,
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["ShowTimer"] = true,
-["Type"] = "buff",
-["Enabled"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["Name"] = "Антимагический панцирь",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnShow",
-["Infinite"] = true,
-},
-["n"] = 1,
-},
-["ShowTimerText"] = true,
-},
-},
 ["Name"] = "Frost_CDs",
+["Scale"] = 1.35833382606506,
 ["Conditions"] = {
 {
 ["Type"] = "UNITSPEC",
@@ -10617,6 +10511,115 @@ nil,
 },
 },
 ["n"] = 1,
+},
+["Icons"] = {
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Озноб",
+["Unit"] = "target",
+["BuffOrDebuff"] = "HARMFUL",
+["Type"] = "buff",
+["ShowTimerText"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Ледяной столп",
+["ShowTimerText"] = true,
+["Type"] = "buff",
+["Events"] = {
+{
+["Event"] = "OnShow",
+["Type"] = "Animations",
+["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
+},
+["n"] = 1,
+},
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Костяной щит",
+["ShowTimerText"] = true,
+["Type"] = "buff",
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Антимагический панцирь",
+["ShowTimerText"] = true,
+["Type"] = "buff",
+["Events"] = {
+{
+["Type"] = "Animations",
+["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["Event"] = "OnShow",
+},
+["n"] = 1,
+},
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
 },
 ["GUID"] = "TMW:group:1RIbj_CfbAIc",
 },
@@ -10627,28 +10630,27 @@ nil,
 ["x"] = -201.8734237211741,
 },
 ["Scale"] = 1.416714072227478,
-["OnlyInCombat"] = true,
 ["Columns"] = 5,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["ShowTimerText"] = true,
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
 },
 {
 ["States"] = {
@@ -10662,9 +10664,11 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Перерождение",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -10676,13 +10680,13 @@ nil,
 {
 },
 },
-["Name"] = "Перерождение",
-["ShowTimerText"] = true,
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Смертельный союз",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -10695,13 +10699,13 @@ nil,
 {
 },
 },
-["Name"] = "Смертельный союз",
-["ShowTimerText"] = true,
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Зона антимагии",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -10713,8 +10717,6 @@ nil,
 {
 },
 },
-["Name"] = "Зона антимагии",
-["ShowTimerText"] = true,
 },
 {
 ["States"] = {
@@ -10838,16 +10840,19 @@ nil,
 },
 },
 },
+["OnlyInCombat"] = true,
 },
 {
 ["GUID"] = "TMW:group:1TtLo1kxY1eF",
-["Scale"] = 1.733333826065064,
 ["Columns"] = 1,
+["Scale"] = 1.733333826065064,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Темная власть",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["States"] = {
 {
 ["Alpha"] = 0,
@@ -10860,8 +10865,6 @@ nil,
 {
 },
 },
-["Name"] = "Темная власть",
-["ShowTimerText"] = true,
 },
 {
 ["States"] = {
@@ -10909,129 +10912,14 @@ nil,
 ["x"] = -202.4463363193576,
 },
 ["Scale"] = 1.396668195724487,
-["Columns"] = 5,
-["Icons"] = {
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["Enabled"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-["Name"] = "Кровь вампира",
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["Enabled"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-["Name"] = "Антимагический панцирь",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnAlphaInc",
-},
-["n"] = 1,
-},
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["Enabled"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-["Name"] = "Незыблемость льда",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnAlphaInc",
-},
-["n"] = 1,
-},
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["Enabled"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-["Name"] = "Надгробный камень; Войско мертвых",
-["ShowTimerText"] = true,
-},
-},
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-},
-{
-["GUID"] = "TMW:group:1TtLymAxT0yX",
-["Alpha"] = 0.98,
-["Scale"] = 1.158884286880493,
-["Columns"] = 5,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
 ["States"] = {
 {
 },
@@ -11041,35 +10929,144 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Кровь вампира",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Антимагический панцирь",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["Events"] = {
+{
+["OnlyShown"] = true,
+["Type"] = "Animations",
+["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
+},
+["n"] = 1,
+},
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Незыблемость льда",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["Events"] = {
+{
+["OnlyShown"] = true,
+["Type"] = "Animations",
+["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
+},
+["n"] = 1,
+},
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Надгробный камень; Войско мертвых",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+},
+},
+["Columns"] = 5,
+},
+{
+["GUID"] = "TMW:group:1TtLymAxT0yX",
+["Columns"] = 5,
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 2.5,
+["BorderInset"] = true,
+["BorderColor"] = "00000000",
+},
+},
+["Scale"] = 1.158884286880493,
+["Icons"] = {
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
+["Type"] = "Animations",
 ["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
 },
 {
 ["Type"] = "Sound",
 ["OnlyShown"] = true,
-["Sound"] = "Xylophone",
-["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
 ["Type"] = "BUFFDUR",
-["Operator"] = "<",
-["Name"] = "Танцующее руническое оружие",
 ["Level"] = 3,
+["Name"] = "Танцующее руническое оружие",
+["Operator"] = "<",
 },
 ["n"] = 1,
 },
+["Sound"] = "Xylophone",
+["Event"] = "OnCondition",
 },
 ["n"] = 2,
 },
-["Enabled"] = true,
-},
-{
-["ShowTimer"] = true,
 ["States"] = {
 {
 },
@@ -11079,21 +11076,21 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
+["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
 ["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
-["Infinite"] = true,
 },
 ["n"] = 1,
 },
-["Enabled"] = true,
-},
-{
-["ShowTimer"] = true,
 ["States"] = {
 {
 },
@@ -11103,20 +11100,20 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
+["Type"] = "Animations",
 ["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
 },
 ["n"] = 1,
 },
-["Enabled"] = true,
-},
-{
-["ShowTimer"] = true,
 ["States"] = {
 {
 },
@@ -11126,35 +11123,39 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
+["Type"] = "Animations",
 ["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
 },
 ["n"] = 1,
 },
-["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
 },
 {
+},
+},
+},
+{
+["Enabled"] = true,
 ["Type"] = "cooldown",
-["Enabled"] = true,
-["States"] = {
-{
-},
-nil,
-{
-["Color"] = "ffff3030d",
-},
-{
-},
-},
+["Name"] = "Удар в сердце; Внушение печали; Удар вампира",
+["RangeCheck"] = true,
 ["Conditions"] = {
 {
-["Type"] = "OVERLAYED",
 ["Name"] = "Удар в сердце",
+["Type"] = "OVERLAYED",
 },
 {
 ["Type"] = "OVERLAYED",
@@ -11168,27 +11169,29 @@ nil,
 },
 ["n"] = 3,
 },
-["Name"] = "Удар в сердце; Внушение печали; Удар вампира",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnShow",
 ["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["Event"] = "OnShow",
 },
 ["n"] = 1,
 },
-["RangeCheck"] = true,
+["States"] = {
+{
+},
+nil,
+{
+["Color"] = "ffff3030d",
+},
+{
 },
 },
-["SettingsPerView"] = {
-["icon"] = {
-["BorderInset"] = true,
-["BorderColor"] = "00000000",
-["SpacingX"] = 2.5,
 },
 },
+["Alpha"] = 0.98,
 ["Point"] = {
 ["y"] = -109.918203492981,
 ["x"] = 17.70774778343069,
@@ -11196,14 +11199,21 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1TtM0mPnuLO_",
+["Point"] = {
+["y"] = -85.094709037165,
+["x"] = 14.84902705054107,
+},
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 40.6,
+},
+},
 ["Scale"] = 1.283965229988098,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["Name"] = "Смерть и разложение",
-["ShowTimerText"] = true,
 ["ClockGCD"] = true,
+["ShowTimer"] = true,
+["Name"] = "Смерть и разложение",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11211,6 +11221,8 @@ nil,
 },
 },
 },
+["Type"] = "cooldown",
+["ShowTimerText"] = true,
 ["Enabled"] = true,
 ["States"] = {
 {
@@ -11248,17 +11260,17 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Вскипание крови",
+["Type"] = "cooldown",
+["ClockGCD"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Name"] = "Вскипание крови",
-["ClockGCD"] = true,
 ["ShowTimerText"] = true,
 ["States"] = {
 {
@@ -11273,15 +11285,6 @@ nil,
 },
 },
 },
-},
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 40.6,
-},
-},
-["Point"] = {
-["y"] = -85.094709037165,
-["x"] = 14.84902705054107,
 },
 },
 {
@@ -11290,13 +11293,42 @@ nil,
 ["y"] = -191.7779791004192,
 ["x"] = 45.2810682666296,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 2.2,
+},
+},
 ["Scale"] = 1.306722402572632,
-["Columns"] = 7,
 ["Icons"] = {
 {
+["Enabled"] = true,
 ["ShowTimer"] = true,
-["Type"] = "cooldown",
+["EnableStacks"] = true,
 ["OnlyInBags"] = true,
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Name"] = "Поглощение",
+["Type"] = "OVERLAYED",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 ["Name"] = "Пожирание; Поглощение",
 ["States"] = {
 {
@@ -11310,36 +11342,19 @@ nil,
 {
 },
 },
-["ShowTimerText"] = true,
-["Events"] = {
+},
 {
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "OVERLAYED",
-["Name"] = "Поглощение",
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["ShowTimerText"] = true,
+["Name"] = "Усиление рунического оружия; Буря костей",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["EnableStacks"] = true,
-},
-{
-["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -11352,19 +11367,20 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
-["Name"] = "Усиление рунического оружия; Буря костей",
+["Name"] = "Танцующее руническое оружие",
 ["Conditions"] = {
 {
-["Type"] = "COMBAT",
+["Name"] = "Скульптор плоти",
+["Type"] = "BUFFDUR",
 },
 ["n"] = 1,
 },
-},
-{
-["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -11377,28 +11393,19 @@ nil,
 {
 },
 },
-["ShowTimerText"] = true,
-["Name"] = "Танцующее руническое оружие",
-["Conditions"] = {
-{
-["Type"] = "BUFFDUR",
-["Name"] = "Скульптор плоти",
-},
-["n"] = 1,
-},
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Метка жнеца",
+["Type"] = "cooldown",
+["ClockGCD"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Name"] = "Метка жнеца",
-["ClockGCD"] = true,
 ["ShowTimerText"] = true,
 ["States"] = {
 {
@@ -11414,26 +11421,26 @@ nil,
 },
 },
 {
+["GCDAsUnusable"] = true,
 ["ShowTimer"] = true,
-["OnlyEquipped"] = true,
-["Type"] = "cooldown",
-["Name"] = "Воскрешение мертвых",
 ["OnlyInBags"] = true,
+["ClockGCD"] = true,
+["Enabled"] = true,
+["Name"] = "Воскрешение мертвых",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 {
 ["Type"] = "EXISTS",
-["Unit"] = "pet",
 ["Level"] = 1,
+["Unit"] = "pet",
 },
 ["n"] = 2,
 },
-["ShowTimerText"] = true,
-["ClockGCD"] = true,
-["GCDAsUnusable"] = true,
-["Enabled"] = true,
+["OnlyEquipped"] = true,
 ["States"] = {
 {
 },
@@ -11448,9 +11455,19 @@ nil,
 },
 },
 {
+["Enabled"] = true,
 ["ShowTimer"] = true,
-["Type"] = "cooldown",
+["RangeCheck"] = true,
+["ClockGCD"] = true,
 ["Name"] = "Хватка смерти",
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(1):Hide(0)]",
+},
+},
+},
+["Type"] = "cooldown",
 ["Conditions"] = {
 {
 ["Type"] = "EXISTS",
@@ -11459,16 +11476,6 @@ nil,
 ["n"] = 1,
 },
 ["ShowTimerText"] = true,
-["ClockGCD"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(1):Hide(0)]",
-},
-},
-},
-["RangeCheck"] = true,
-["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -11485,8 +11492,15 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["ShowTimerText"] = true,
+["Name"] = "Апокалипсис",
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -11499,20 +11513,9 @@ nil,
 {
 },
 },
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
-["Name"] = "Апокалипсис",
 },
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 2.2,
-},
-},
+["Columns"] = 7,
 },
 {
 ["GUID"] = "TMW:group:1TtMHG3hYjGw",
@@ -11520,13 +11523,19 @@ nil,
 ["y"] = -205.4411044263202,
 ["x"] = -103.3154297730435,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 3.8,
+},
+},
 ["Scale"] = 1.218223333358765,
-["Columns"] = 2,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["Name"] = "Блуждающий дух",
+["ShowTimerText"] = true,
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -11538,15 +11547,11 @@ nil,
 {
 },
 },
-["Name"] = "Блуждающий дух",
-["ShowTimerText"] = true,
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["ShowTimerText"] = true,
-["Name"] = "Поступь смерти",
 ["ClockGCD"] = true,
+["ShowTimer"] = true,
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11554,6 +11559,8 @@ nil,
 },
 },
 },
+["Type"] = "cooldown",
+["Name"] = "Поступь смерти",
 ["Enabled"] = true,
 ["States"] = {
 {
@@ -11591,23 +11598,43 @@ nil,
 },
 },
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 3.8,
-},
-},
+["Columns"] = 2,
 },
 {
 ["GUID"] = "TMW:group:1TtN4rpEhtK8",
-["Scale"] = 0.7245851755142212,
-["OnlyInCombat"] = true,
-["Enabled"] = false,
 ["Columns"] = 6,
+["Scale"] = 0.7245851755142212,
 ["Icons"] = {
 {
+["Enabled"] = true,
 ["ShowTimer"] = true,
-["Type"] = "runes",
+["ShowTimerText"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
+},
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "RUNES2",
+["Level"] = 2,
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["RuneSlots"] = 4064,
+["Type"] = "runes",
 ["States"] = {
 {
 },
@@ -11617,24 +11644,11 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11642,12 +11656,25 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
+["Events"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "runes",
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "RUNES2",
+["Level"] = 2,
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["RuneSlots"] = 4048,
+["Type"] = "runes",
 ["States"] = {
 {
 },
@@ -11657,24 +11684,11 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11682,12 +11696,25 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
+["Events"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "runes",
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "RUNES2",
+["Level"] = 2,
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["RuneSlots"] = 4040,
+["Type"] = "runes",
 ["States"] = {
 {
 },
@@ -11697,24 +11724,11 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11722,12 +11736,25 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
+["Events"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "runes",
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "RUNES2",
+["Level"] = 2,
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["RuneSlots"] = 4036,
+["Type"] = "runes",
 ["States"] = {
 {
 },
@@ -11737,24 +11764,11 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11762,52 +11776,25 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
+["Events"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "runes",
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "RUNES2",
+["Level"] = 2,
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["RuneSlots"] = 4034,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
-},
-},
-},
-["Enabled"] = true,
-},
-{
-["ShowTimer"] = true,
 ["Type"] = "runes",
-["RuneSlots"] = 4033,
 ["States"] = {
 {
 },
@@ -11817,24 +11804,11 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -11842,7 +11816,34 @@ nil,
 },
 },
 },
-["Enabled"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "RUNES2",
+["Level"] = 2,
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
+["RuneSlots"] = 4033,
+["Type"] = "runes",
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
 },
 },
 ["Name"] = "Resources_Runes",
@@ -11858,6 +11859,8 @@ nil,
 ["y"] = -294.9270785129356,
 ["x"] = 11.06871099653339,
 },
+["Enabled"] = false,
+["OnlyInCombat"] = true,
 },
 {
 ["GUID"] = "TMW:group:1Tu8uyTqBheG",
@@ -11865,27 +11868,24 @@ nil,
 ["y"] = 2.500985087598429,
 ["x"] = 128.3345058957576,
 },
+["Columns"] = 1,
 ["Scale"] = 1.199990510940552,
 ["Rows"] = 5,
-["OnlyInCombat"] = true,
-["Columns"] = 1,
 ["Icons"] = {
 {
-["OnlyEquipped"] = true,
-["OnlyInBags"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["OnlyShown"] = true,
 ["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
+["OnlyShown"] = true,
 ["OnConditionConditions"] = {
 {
-["Type"] = "ITEMCD",
 ["Name"] = "Осколок эгиды Аннгильды",
+["Type"] = "ITEMCD",
 },
 ["n"] = 1,
 },
+["Event"] = "WCSP",
 },
 ["n"] = 1,
 },
@@ -11897,6 +11897,8 @@ nil,
 },
 },
 },
+["OnlyInBags"] = true,
+["OnlyEquipped"] = true,
 ["States"] = {
 {
 },
@@ -11911,36 +11913,36 @@ nil,
 },
 },
 {
+["Enabled"] = true,
 ["ShowTimer"] = true,
-["OnlyEquipped"] = true,
-["Type"] = "item",
-["ShowTimerText"] = true,
 ["OnlyInBags"] = true,
+["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Name"] = "Оскверненное Яростное сердце Фиракка",
+["Type"] = "ITEMCD",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
+["Name"] = "13",
+["Type"] = "item",
 ["Conditions"] = {
 {
+["Name"] = "13",
 ["Type"] = "ITEMSPELL",
-["Name"] = "13",
 },
 ["n"] = 1,
 },
-["Name"] = "13",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "ITEMCD",
-["Name"] = "Оскверненное Яростное сердце Фиракка",
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
-["Enabled"] = true,
+["OnlyEquipped"] = true,
 ["States"] = {
 {
 },
@@ -11955,31 +11957,31 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["OnlyEquipped"] = true,
 ["Enabled"] = true,
-["OnlyInBags"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
+["OnlyInBags"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["OnlyShown"] = true,
 ["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
+["OnlyShown"] = true,
 ["OnConditionConditions"] = {
 {
-["Type"] = "ITEMCD",
 ["Name"] = "Забрызганная кровью чешуйка",
+["Type"] = "ITEMCD",
 },
 {
-["Type"] = "ITEMCD",
 ["Name"] = "Непостижимое квантовое устройство",
+["Type"] = "ITEMCD",
 },
 ["n"] = 2,
 },
+["Event"] = "WCSP",
 },
 ["n"] = 1,
 },
+["OnlyEquipped"] = true,
 ["States"] = {
 {
 },
@@ -11994,9 +11996,19 @@ nil,
 },
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["ShowTimerText"] = true,
+["Name"] = "Прикосновение смерти",
+["RangeCheck"] = true,
+["Conditions"] = {
+{
+["Type"] = "RUNES2",
+["Operator"] = ">",
+},
+["n"] = 1,
+},
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -12007,27 +12019,16 @@ nil,
 {
 },
 },
-["ShowTimerText"] = true,
-["RangeCheck"] = true,
-["Name"] = "Прикосновение смерти",
-["Conditions"] = {
-{
-["Type"] = "RUNES2",
-["Operator"] = ">",
-},
-["n"] = 1,
-},
 },
 {
-["ShowTimer"] = true,
 ["Enabled"] = true,
-["States"] = {
-{
+["ShowTimer"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["TextLayout"] = "icon2",
+["Texts"] = {
+"[Stacks:Hide(0)]",
 },
-nil,
-{
-},
-{
 },
 },
 ["Conditions"] = {
@@ -12039,30 +12040,6 @@ nil,
 },
 ["n"] = 1,
 },
-["SettingsPerView"] = {
-["icon"] = {
-["TextLayout"] = "icon2",
-["Texts"] = {
-"[Stacks:Hide(0)]",
-},
-},
-},
-},
-},
-},
-{
-["GUID"] = "TMW:group:1U0BXgLO3MCT",
-["Point"] = {
-["y"] = 12.1352802744785,
-["x"] = -138.2017928794551,
-},
-["Scale"] = 1.186670184135437,
-["Rows"] = 6,
-["OnlyInCombat"] = true,
-["Columns"] = 1,
-["Icons"] = {
-{
-["ShowTimer"] = true,
 ["States"] = {
 {
 },
@@ -12072,12 +12049,70 @@ nil,
 {
 },
 },
-["ShowTimerText"] = true,
-["Enabled"] = true,
+},
+},
+["OnlyInCombat"] = true,
 },
 {
-["Type"] = "cooldown",
+["GUID"] = "TMW:group:1U0BXgLO3MCT",
+["Point"] = {
+["y"] = 12.1352802744785,
+["x"] = -138.2017928794551,
+},
+["Columns"] = 1,
+["Scale"] = 1.186670184135437,
+["Rows"] = 6,
+["Icons"] = {
+{
 ["Enabled"] = true,
+["ShowTimer"] = true,
+["ShowTimerText"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
+["Type"] = "cooldown",
+["Name"] = "Жнец душ",
+["RangeCheck"] = true,
+["Conditions"] = {
+{
+["Type"] = "ALIVE",
+["Unit"] = "target",
+},
+{
+["Type"] = "HEALTH",
+["PrtsBefore"] = 1,
+["Level"] = 36,
+["Operator"] = "<",
+["Unit"] = "target",
+},
+{
+["Type"] = "BUFFDUR",
+["Name"] = "Пожинатель душ",
+["AndOr"] = "OR",
+["PrtsAfter"] = 1,
+["Operator"] = ">",
+},
+["n"] = 3,
+},
+["Events"] = {
+{
+["Type"] = "Animations",
+["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["Event"] = "OnShow",
+},
+["n"] = 1,
+},
 ["States"] = {
 {
 },
@@ -12088,78 +12123,28 @@ nil,
 {
 },
 },
-["Conditions"] = {
-{
-["Type"] = "ALIVE",
-["Unit"] = "target",
 },
 {
-["Type"] = "HEALTH",
-["Operator"] = "<",
-["Unit"] = "target",
-["PrtsBefore"] = 1,
-["Level"] = 36,
-},
-{
-["Type"] = "BUFFDUR",
-["PrtsAfter"] = 1,
-["Operator"] = ">",
-["Name"] = "Пожинатель душ",
-["AndOr"] = "OR",
-},
-["n"] = 3,
-},
-["Name"] = "Жнец душ",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnShow",
-["Infinite"] = true,
-},
-["n"] = 1,
-},
-["RangeCheck"] = true,
-},
-{
+["Enabled"] = true,
 ["ShowTimer"] = true,
+["Name"] = "Нечестивая порча",
+["ShowTimerText"] = true,
 ["BuffOrDebuff"] = "HARMFUL",
 ["Type"] = "cooldown",
-["Enabled"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-["Name"] = "Нечестивая порча",
 ["Events"] = {
 {
 ["Type"] = "Animations",
 ["Event"] = "WCSP",
 ["OnConditionConditions"] = {
 {
-["Type"] = "SPELLCD",
 ["Name"] = "Нечестивая порча",
+["Type"] = "SPELLCD",
 },
 ["n"] = 1,
 },
 },
 ["n"] = 1,
 },
-["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["Type"] = "cooldown",
-["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12172,15 +12157,13 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["Name"] = "Темное превращение",
 ["ShowTimerText"] = true,
-},
-{
-["ShowTimer"] = true,
-["BuffOrDebuff"] = "HARMFUL",
-["Unit"] = "target",
 ["Type"] = "cooldown",
-["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12193,8 +12176,27 @@ nil,
 {
 },
 },
+},
+{
+["Enabled"] = true,
+["ShowTimer"] = true,
 ["Name"] = "Апокалипсис",
+["Unit"] = "target",
+["BuffOrDebuff"] = "HARMFUL",
+["Type"] = "cooldown",
 ["ShowTimerText"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
 },
 {
 ["Type"] = "buff",
@@ -12209,6 +12211,7 @@ nil,
 },
 },
 },
+["OnlyInCombat"] = true,
 },
 {
 ["GUID"] = "TMW:group:1VS1z54Sd0yJ",
@@ -12216,44 +12219,16 @@ nil,
 ["y"] = -184.465439710395,
 ["x"] = 24.04563701668371,
 },
-["Scale"] = 0.8733326196670532,
-["OnlyInCombat"] = true,
+["Name"] = "Resources_BoneShield",
 ["Enabled"] = false,
+["Scale"] = 0.8733326196670532,
 ["Columns"] = 10,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["StackMinEnabled"] = true,
-["Type"] = "buff",
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
 ["StackMin"] = 1,
+["ShowTimer"] = true,
+["Enabled"] = true,
 ["Name"] = "Костяной щит",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
-["OnConditionConditions"] = {
-{
-["Type"] = "BUFFDUR",
-["Operator"] = "<",
-["Name"] = "Костяной щит",
-["Level"] = 10,
-},
-["n"] = 1,
-},
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["TextLayout"] = "icon2",
@@ -12263,11 +12238,26 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
-["StackMinEnabled"] = true,
 ["Type"] = "buff",
+["StackMinEnabled"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "BUFFDUR",
+["Level"] = 10,
+["Name"] = "Костяной щит",
+["Operator"] = "<",
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["States"] = {
 {
 },
@@ -12277,7 +12267,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 2,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12286,11 +12279,8 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12300,7 +12290,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 3,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12309,11 +12302,8 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12323,7 +12313,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 4,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12332,11 +12325,8 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12346,7 +12336,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 5,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12355,11 +12348,8 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12369,7 +12359,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 6,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12378,11 +12371,8 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12392,18 +12382,11 @@ nil,
 {
 },
 },
-["StackMin"] = 7,
-["Name"] = "Костяной щит",
-["Events"] = {
+},
 {
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnShow",
-["Infinite"] = true,
-},
-["n"] = 1,
-},
+["StackMin"] = 7,
+["Type"] = "buff",
+["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -12412,10 +12395,17 @@ nil,
 },
 },
 ["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Events"] = {
+{
+["Type"] = "Animations",
+["Infinite"] = true,
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["Event"] = "OnShow",
+},
+["n"] = 1,
+},
 ["States"] = {
 {
 },
@@ -12425,7 +12415,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 8,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12434,11 +12427,8 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -12448,7 +12438,10 @@ nil,
 {
 },
 },
+},
+{
 ["StackMin"] = 9,
+["Type"] = "buff",
 ["Name"] = "Костяной щит",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -12457,23 +12450,33 @@ nil,
 },
 },
 },
-["Enabled"] = true,
-},
-{
 ["StackMinEnabled"] = true,
-["Type"] = "buff",
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-["StackMin"] = 10,
-["Name"] = "Костяной щит",
 ["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["StackMin"] = 10,
+["Type"] = "buff",
+["Name"] = "Костяной щит",
+["StackMinEnabled"] = true,
+["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
 },
 {
 ["States"] = {
@@ -12487,7 +12490,7 @@ nil,
 },
 },
 },
-["Name"] = "Resources_BoneShield",
+["OnlyInCombat"] = true,
 },
 {
 ["GUID"] = "TMW:group:1VkYHm6Ib44c",
@@ -12495,26 +12498,30 @@ nil,
 ["y"] = 36.17630737814444,
 ["x"] = 262.0581990818042,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 5,
+},
+},
 ["Scale"] = 1.133342742919922,
-["OnlyInCombat"] = true,
 ["Columns"] = 6,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["Name"] = "Асфиксия",
 ["Events"] = {
 {
-["Type"] = "Animations",
 ["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
+["Type"] = "Animations",
 ["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
 },
 ["n"] = 1,
 },
 ["CustomTex"] = "326730",
-["Name"] = "Асфиксия",
 ["States"] = {
 {
 },
@@ -12530,8 +12537,19 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["ShowTimerText"] = true,
+["Events"] = {
+{
+["OnlyShown"] = true,
+["Type"] = "Animations",
+["Event"] = "OnAlphaInc",
+["Animation"] = "ACTVTNGLOW",
+},
+["n"] = 1,
+},
+["RangeCheck"] = true,
+["Type"] = "cooldown",
+["Name"] = "Хватка смерти",
 ["States"] = {
 {
 },
@@ -12545,41 +12563,30 @@ nil,
 {
 },
 },
-["Name"] = "Хватка смерти",
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnlyShown"] = true,
-["Animation"] = "ACTVTNGLOW",
-["Event"] = "OnAlphaInc",
-},
-["n"] = 1,
-},
-["RangeCheck"] = true,
 },
 {
-["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
+["ShowTimer"] = true,
 ["ShowTimerText"] = true,
+["Type"] = "cooldown",
+["Name"] = "Хватка Кровожада",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["OnlyShown"] = true,
 ["Animation"] = "ACTVTNGLOW",
-["Event"] = "WCSP",
+["OnlyShown"] = true,
 ["OnConditionConditions"] = {
 {
-["Type"] = "SPELLCD",
 ["Name"] = "Хватка Кровожада",
+["Type"] = "SPELLCD",
 },
 ["n"] = 1,
 },
+["Event"] = "WCSP",
 },
 ["n"] = 1,
 },
 ["CustomTex"] = "205630",
-["Name"] = "Хватка Кровожада",
 ["States"] = {
 {
 },
@@ -12595,8 +12602,9 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["Type"] = "cooldown",
 ["ShowTimerText"] = true,
+["Name"] = "Рука поганища",
+["Type"] = "cooldown",
 ["States"] = {
 {
 },
@@ -12609,7 +12617,6 @@ nil,
 {
 },
 },
-["Name"] = "Рука поганища",
 },
 {
 ["States"] = {
@@ -12645,11 +12652,7 @@ nil,
 },
 },
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 5,
-},
-},
+["OnlyInCombat"] = true,
 },
 {
 ["GUID"] = "TMW:group:1Xadj2sBVpCv",
@@ -12657,23 +12660,18 @@ nil,
 ["y"] = -107.3073874167024,
 ["x"] = 30.88713834697967,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 2.1,
+},
+},
 ["Scale"] = 1.408333778381348,
-["Columns"] = 7,
 ["Icons"] = {
 {
-["ShowTimer"] = true,
-["BuffOrDebuff"] = "HARMFUL",
-["Unit"] = "target",
 ["Enabled"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
+["ShowTimer"] = true,
+["Unit"] = "target",
+["BuffOrDebuff"] = "HARMFUL",
 ["Conditions"] = {
 {
 ["Type"] = "UNITSPEC",
@@ -12684,8 +12682,6 @@ nil,
 ["n"] = 1,
 },
 ["OnlyMine"] = true,
-},
-{
 ["States"] = {
 {
 },
@@ -12730,8 +12726,29 @@ nil,
 },
 },
 {
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["Enabled"] = true,
 ["ShowTimer"] = true,
 ["BuffOrDebuff"] = "HARMFUL",
+["Conditions"] = {
+{
+["Type"] = "UNITSPEC",
+["BitFlags"] = {
+[252] = true,
+},
+},
+["n"] = 1,
+},
 ["Unit"] = "target",
 ["States"] = {
 {
@@ -12742,16 +12759,6 @@ nil,
 {
 },
 },
-["Conditions"] = {
-{
-["Type"] = "UNITSPEC",
-["BitFlags"] = {
-[252] = true,
-},
-},
-["n"] = 1,
-},
-["Enabled"] = true,
 },
 {
 ["States"] = {
@@ -12798,21 +12805,20 @@ nil,
 },
 },
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 2.1,
-},
-},
+["Columns"] = 7,
 },
 {
 ["GUID"] = "TMW:group:1Xekmeo06i8y",
-["Rows"] = 3,
+["Columns"] = 1,
+["Point"] = {
+["y"] = 74.00021362304688,
+["x"] = 0.499908447265625,
+},
 ["EnabledSpecs"] = {
 [251] = false,
 [250] = false,
 },
-["OnlyInCombat"] = true,
-["Columns"] = 1,
+["Rows"] = 3,
 ["Icons"] = {
 {
 ["BuffOrDebuff"] = "HARMFUL",
@@ -12829,20 +12835,8 @@ nil,
 },
 },
 {
-["Type"] = "conditionicon",
 ["Enabled"] = true,
-["States"] = {
-{
-["Alpha"] = 0,
-},
-{
-["Alpha"] = 1,
-},
-{
-},
-{
-},
-},
+["Type"] = "conditionicon",
 ["Conditions"] = {
 {
 ["Type"] = "EXISTS",
@@ -12855,6 +12849,18 @@ nil,
 ["n"] = 2,
 },
 ["CustomTex"] = "46584",
+["States"] = {
+{
+["Alpha"] = 0,
+},
+{
+["Alpha"] = 1,
+},
+{
+},
+{
+},
+},
 },
 {
 ["States"] = {
@@ -12879,16 +12885,13 @@ nil,
 },
 },
 },
-["Point"] = {
-["y"] = 74.00021362304688,
-["x"] = 0.499908447265625,
-},
+["OnlyInCombat"] = true,
 },
 {
 ["GUID"] = "TMW:group:1ega1KH6H3e6",
+["Columns"] = 1,
 ["Scale"] = 1.256002187728882,
 ["Rows"] = 5,
-["Columns"] = 1,
 ["Icons"] = {
 {
 ["States"] = {
@@ -12936,6 +12939,7 @@ nil,
 },
 {
 ["ShowTimer"] = true,
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -12945,7 +12949,6 @@ nil,
 {
 },
 },
-["ShowTimerText"] = true,
 },
 },
 ["Point"] = {
@@ -12954,9 +12957,6 @@ nil,
 },
 },
 },
-["NumGroups"] = 19,
-["Version"] = 12001103,
-["Locked"] = true,
 },
 ["Лиерми - Гордунни"] = {
 ["Version"] = 11020801,
@@ -14337,7 +14337,12 @@ nil,
 {
 ["View"] = "bar",
 ["GUID"] = "TMW:group:1P3sADJSkjRT",
-["Columns"] = 1,
+["Point"] = {
+["y"] = 193.078982355493,
+["x"] = 177.6942443847656,
+["point"] = "LEFT",
+["relativePoint"] = "LEFT",
+},
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 222.310089111328,
@@ -14410,12 +14415,7 @@ nil,
 [102] = false,
 [105] = false,
 },
-["Point"] = {
-["y"] = 193.078982355493,
-["x"] = 177.6942443847656,
-["point"] = "LEFT",
-["relativePoint"] = "LEFT",
-},
+["Columns"] = 1,
 },
 {
 ["GUID"] = "TMW:group:1P3sCR8==b7N",
@@ -14626,6 +14626,10 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1P4RtyTjXPNa",
+["Point"] = {
+["y"] = -119.489209576293,
+["x"] = 11.8364772109015,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -14723,10 +14727,6 @@ nil,
 },
 },
 },
-},
-["Point"] = {
-["y"] = -119.489209576293,
-["x"] = 11.8364772109015,
 },
 ["Scale"] = 1.22500026226044,
 },
@@ -15012,12 +15012,7 @@ nil,
 ["x"] = -99.60612607038809,
 },
 ["Scale"] = 1.483332514762878,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 6,
 ["Icons"] = {
 {
 ["Type"] = "buff",
@@ -15237,7 +15232,12 @@ nil,
 },
 },
 },
-["Rows"] = 6,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 },
 {
 ["View"] = "bar",
@@ -16577,12 +16577,7 @@ nil,
 ["x"] = -120.5852325695686,
 },
 ["Scale"] = 1.28333330154419,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 4,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -16773,7 +16768,12 @@ nil,
 },
 },
 },
-["Rows"] = 4,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 },
 },
 },
@@ -16915,11 +16915,10 @@ nil,
 },
 },
 },
-["Артэмита - Гордунни"] = {
-["Version"] = 11020801,
+["Estrea - Alleria"] = {
+["Version"] = 91100,
 ["Groups"] = {
 {
-["GUID"] = "TMW:group:1fKzmZrTEHiw",
 ["Icons"] = {
 {
 ["States"] = {
@@ -16966,6 +16965,7 @@ nil,
 },
 },
 },
+["GUID"] = "TMW:group:1XHD9LIyClCx",
 },
 },
 },
@@ -17116,10 +17116,10 @@ nil,
 ["Animation"] = "SCREENFLASH",
 },
 {
-["Sound"] = "Chime",
-["Type"] = "Sound",
 ["Event"] = "OnHide",
 ["AnimColor"] = "80ff0000",
+["Sound"] = "Chime",
+["Type"] = "Sound",
 },
 ["n"] = 2,
 },
@@ -17585,7 +17585,12 @@ nil,
 {
 ["Enabled"] = false,
 ["GUID"] = "TMW:group:1REHAo5bA8rr",
-["Columns"] = 6,
+["Point"] = {
+["y"] = 166.5430145263672,
+["x"] = 163.8887176513672,
+["point"] = "BOTTOMLEFT",
+["relativePoint"] = "BOTTOMLEFT",
+},
 ["Name"] = "Frost",
 ["Scale"] = 1.62000298500061,
 ["Conditions"] = {
@@ -17771,12 +17776,7 @@ nil,
 },
 },
 },
-["Point"] = {
-["y"] = 166.5430145263672,
-["x"] = 163.8887176513672,
-["point"] = "BOTTOMLEFT",
-["relativePoint"] = "BOTTOMLEFT",
-},
+["Columns"] = 6,
 },
 {
 ["GUID"] = "TMW:group:1REJBZ0hLqZp",
@@ -18413,7 +18413,6 @@ nil,
 ["y"] = -109.1573656245522,
 ["x"] = -228.8326243373116,
 },
-["Alpha"] = 0.98,
 ["Icons"] = {
 {
 ["States"] = {
@@ -18487,6 +18486,7 @@ nil,
 },
 },
 },
+["Alpha"] = 0.98,
 },
 {
 ["GUID"] = "TMW:group:1fdv3rmFqvWk",
@@ -18807,8 +18807,8 @@ nil,
 ["RangeCheck"] = true,
 ["Enabled"] = true,
 ["ClockGCD"] = true,
-["Name"] = "Гнев карателя; 31884",
 ["ShowTimerText"] = true,
+["Name"] = "Гнев карателя; 31884",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -19157,10 +19157,6 @@ nil,
 {
 ["GUID"] = "TMW:group:1SaiverUtXJx",
 ["Scale"] = 1.19999706745148,
-["Point"] = {
-["y"] = -126.6662103975121,
-["x"] = -4.166689668859427,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -19288,6 +19284,10 @@ nil,
 },
 },
 },
+},
+["Point"] = {
+["y"] = -126.6662103975121,
+["x"] = -4.166689668859427,
 },
 },
 {
@@ -20185,6 +20185,8 @@ nil,
 ["Event"] = "OnShow",
 },
 {
+["Sound"] = "Humm",
+["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -20216,8 +20218,6 @@ nil,
 },
 ["n"] = 4,
 },
-["Sound"] = "Humm",
-["Type"] = "Sound",
 },
 ["n"] = 2,
 },
@@ -20629,6 +20629,7 @@ nil,
 ["ManaCheck"] = true,
 ["ShowTimer"] = true,
 ["Enabled"] = true,
+["ShowTimerText"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -20644,6 +20645,8 @@ nil,
 ["Animation"] = "ACTVTNGLOW",
 },
 {
+["Sound"] = "Chant Major 2nd",
+["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -20653,12 +20656,9 @@ nil,
 },
 ["n"] = 1,
 },
-["Sound"] = "Chant Major 2nd",
-["Type"] = "Sound",
 },
 ["n"] = 2,
 },
-["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -21707,6 +21707,10 @@ nil,
 ["Groups"] = {
 {
 ["GUID"] = "TMW:group:1OzJVWp097gN",
+["Point"] = {
+["y"] = -107.608217976999,
+["x"] = -54.1295785054697,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -21793,10 +21797,6 @@ nil,
 ["Type"] = "buff",
 ["Unit"] = "target",
 },
-},
-["Point"] = {
-["y"] = -107.608217976999,
-["x"] = -54.1295785054697,
 },
 ["Scale"] = 1.53333950042725,
 },
@@ -22864,6 +22864,10 @@ nil,
 },
 ["Scale"] = 1.018321514129639,
 ["Columns"] = 8,
+["EnabledSpecs"] = {
+[66] = false,
+[65] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -23047,10 +23051,6 @@ nil,
 },
 },
 },
-},
-["EnabledSpecs"] = {
-[66] = false,
-[65] = false,
 },
 },
 {
@@ -25576,6 +25576,12 @@ nil,
 {
 ["GUID"] = "TMW:group:1NDQHcrltarj",
 ["Scale"] = 2.61025762557983,
+["Point"] = {
+["y"] = 326.906372070313,
+["x"] = 139.348052978516,
+["point"] = "TOPLEFT",
+["relativePoint"] = "BOTTOMLEFT",
+},
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -25584,10 +25590,10 @@ nil,
 ["ShowTimerText"] = true,
 ["Events"] = {
 {
-["AnimColor"] = "80ff0000",
 ["Type"] = "Sound",
-["Sound"] = "Cheer",
+["AnimColor"] = "80ff0000",
 ["Event"] = "OnShow",
+["Sound"] = "Cheer",
 },
 ["n"] = 1,
 },
@@ -25699,12 +25705,6 @@ nil,
 },
 },
 },
-},
-["Point"] = {
-["y"] = 326.906372070313,
-["x"] = 139.348052978516,
-["point"] = "TOPLEFT",
-["relativePoint"] = "BOTTOMLEFT",
 },
 },
 {
@@ -25826,11 +25826,9 @@ nil,
 ["BuffOrDebuff"] = "HARMFUL",
 ["Enabled"] = true,
 ["ShowTimerText"] = true,
-["ClockGCD"] = true,
+["FakeHidden"] = true,
 ["Events"] = {
 {
-["Sound"] = "Humm",
-["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -25844,6 +25842,8 @@ nil,
 },
 ["n"] = 2,
 },
+["Sound"] = "Humm",
+["Type"] = "Sound",
 },
 ["n"] = 1,
 },
@@ -25857,7 +25857,7 @@ nil,
 },
 ["Type"] = "cooldown",
 ["RangeCheck"] = true,
-["FakeHidden"] = true,
+["ClockGCD"] = true,
 ["States"] = {
 {
 },
@@ -26195,6 +26195,12 @@ nil,
 {
 ["GUID"] = "TMW:group:1Ot5Ts0GTlyN",
 ["Scale"] = 2.63333892822266,
+["Point"] = {
+["y"] = 73.1010476645399,
+["x"] = 138.60725402832,
+["point"] = "LEFT",
+["relativePoint"] = "LEFT",
+},
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -26287,12 +26293,6 @@ nil,
 },
 },
 },
-},
-["Point"] = {
-["y"] = 73.1010476645399,
-["x"] = 138.60725402832,
-["point"] = "LEFT",
-["relativePoint"] = "LEFT",
 },
 },
 {
@@ -27921,8 +27921,8 @@ nil,
 },
 },
 ["Ниэтта - Гордунни"] = {
-["Locked"] = true,
 ["Version"] = 12001103,
+["NumGroups"] = 18,
 ["Groups"] = {
 {
 ["GUID"] = "TMW:group:1SZlEotgBZaE",
@@ -27930,36 +27930,13 @@ nil,
 ["y"] = -233.8814961790333,
 ["x"] = -4.966700397433502,
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 9.7,
-},
-},
 ["Scale"] = 1.07820725440979,
-["Conditions"] = {
-{
-["Type"] = "INPETBATTLE",
-["Level"] = 1,
-},
-["n"] = 1,
-},
+["Columns"] = 7,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
-},
-},
-},
-["Name"] = "Божественный скакун",
 ["Type"] = "meta",
-["Icons"] = {
-"TMW:icon:1e=cYHRUOtO7",
-"TMW:icon:1e=cYHRSBISH",
-},
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -27972,11 +27949,11 @@ nil,
 {
 },
 },
+["Icons"] = {
+"TMW:icon:1e=cYHRUOtO7",
+"TMW:icon:1e=cYHRSBISH",
 },
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Божественный скакун",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -27984,14 +27961,11 @@ nil,
 },
 },
 },
-["Name"] = "Правосудие Света",
-["Conditions"] = {
+},
 {
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["ShowTimer"] = true,
 ["Type"] = "cooldown",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -28001,46 +27975,13 @@ nil,
 {
 },
 },
-},
+["Conditions"] = {
 {
-["ShowTimer"] = true,
-["Icons"] = {
-"TMW:icon:1bmQY=ddoXmB",
+["Type"] = "COMBAT",
 },
-["ClockGCD"] = true,
-["Sort"] = -1,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
+["n"] = 1,
 },
-},
-},
-["Type"] = "meta",
-["Name"] = "Божественный благовест; Молот покорителя; Пепельное освящение; Благословение лета",
-["ShowTimerText"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
-["ManaCheck"] = true,
-["ShowTimer"] = true,
-["RangeCheck"] = true,
-["Icons"] = {
-"TMW:icon:1bmQY=dnQESV",
-},
-["ClockGCD"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Правосудие Света",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -28048,8 +27989,25 @@ nil,
 },
 },
 },
+["Enabled"] = true,
+},
+{
+["ShowTimer"] = true,
+["Sort"] = -1,
 ["Type"] = "meta",
-["Name"] = "Гнев карателя",
+["ShowTimerText"] = true,
+["Icons"] = {
+"TMW:icon:1bmQY=ddoXmB",
+},
+["Name"] = "Божественный благовест; Молот покорителя; Пепельное освящение; Благословение лета",
+["ClockGCD"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
+},
 ["States"] = {
 {
 },
@@ -28064,21 +28022,40 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["RangeCheck"] = true,
-["Icons"] = {
-"TMW:icon:1e_cX8sGi9WY",
-},
-["ClockGCD"] = true,
 ["Type"] = "meta",
-["Name"] = "Испепеляющий след; Молот Света; Минута славы; Вечный диск Нарана; Гнев бури",
-["SettingsPerView"] = {
-["icon"] = {
-["TextLayout"] = "icon1",
-},
+["Name"] = "Гнев карателя",
+["Icons"] = {
+"TMW:icon:1bmQY=dnQESV",
 },
 ["ShowTimerText"] = true,
+["ClockGCD"] = true,
+["ManaCheck"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
+},
+["RangeCheck"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+},
+{
+["ShowTimer"] = true,
+["Type"] = "meta",
+["Name"] = "Испепеляющий след; Молот Света; Минута славы; Вечный диск Нарана; Гнев бури",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -28093,12 +28070,17 @@ nil,
 },
 ["n"] = 2,
 },
+["Icons"] = {
+"TMW:icon:1e_cX8sGi9WY",
+},
+["ShowTimerText"] = true,
+["ClockGCD"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
 ["OnlyShown"] = true,
 ["Duration"] = 5,
+["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnAlphaInc",
 },
 {
@@ -28108,6 +28090,13 @@ nil,
 },
 ["n"] = 2,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["TextLayout"] = "icon1",
+},
+},
+["RangeCheck"] = true,
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -28123,32 +28112,32 @@ nil,
 },
 },
 {
-["ManaCheck"] = true,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
 ["Name"] = "Око Тира",
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
+["ShowTimerText"] = true,
+["ManaCheck"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnAlphaInc",
+},
+["n"] = 1,
+},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
 [2] = "[Stacks:Hide(0):Hide(1)]",
 },
 },
-},
-["Events"] = {
-{
-["OnlyShown"] = true,
-["Type"] = "Animations",
-["Event"] = "OnAlphaInc",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
 },
 ["Enabled"] = true,
 ["States"] = {
@@ -28166,23 +28155,23 @@ nil,
 },
 },
 {
-["ManaCheck"] = true,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
-},
-},
-},
 ["Name"] = "Благословенная свобода",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
+},
+["ShowTimerText"] = true,
+["ManaCheck"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
 },
 ["Enabled"] = true,
 ["States"] = {
@@ -28210,22 +28199,39 @@ nil,
 },
 },
 },
-["Columns"] = 7,
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 9.7,
+},
+},
+["Conditions"] = {
+{
+["Type"] = "INPETBATTLE",
+["Level"] = 1,
+},
+["n"] = 1,
+},
 },
 {
-["BackdropColor"] = "ff030303",
+["View"] = "bar",
 ["Point"] = {
 ["y"] = -24.1163667428214,
 ["x"] = 144.3020172119141,
 ["point"] = "TOPLEFT",
 ["relativePoint"] = "TOPLEFT",
 },
+["GUID"] = "TMW:group:1SaPprcpzGiE",
 ["Scale"] = 2.380057334899902,
+["TextureName"] = "Glaze2",
+["Enabled"] = false,
+["Columns"] = 1,
 ["BackdropColor_Enable"] = true,
 ["Icons"] = {
 {
 ["Type"] = "value",
 ["PowerType"] = -1,
+["TimerBar_CompleteColor"] = "ff45ff16",
+["TimerBar_EnableColors"] = true,
 ["SettingsPerView"] = {
 ["bar"] = {
 ["TextLayout"] = ",ZS0IeuiUr]E",
@@ -28235,8 +28241,6 @@ nil,
 },
 },
 },
-["TimerBar_CompleteColor"] = "ff45ff16",
-["TimerBar_EnableColors"] = true,
 ["CustomTex"] = "NONE",
 ["States"] = {
 {
@@ -28315,8 +28319,6 @@ nil,
 },
 },
 },
-["TextureName"] = "Glaze2",
-["GUID"] = "TMW:group:1SaPprcpzGiE",
 ["SettingsPerView"] = {
 ["bar"] = {
 ["BorderBar"] = 0.7,
@@ -28324,7 +28326,6 @@ nil,
 ["Icon"] = false,
 },
 },
-["Enabled"] = false,
 ["Conditions"] = {
 {
 ["Type"] = "INPETBATTLE",
@@ -28332,8 +28333,7 @@ nil,
 },
 ["n"] = 1,
 },
-["Columns"] = 1,
-["View"] = "bar",
+["BackdropColor"] = "ff030303",
 },
 {
 ["GUID"] = "TMW:group:1SaipAWNjDU6",
@@ -28341,23 +28341,14 @@ nil,
 ["y"] = -65.9716639507023,
 ["x"] = 184.9530715963209,
 },
-["Columns"] = 1,
 ["Scale"] = 1.373318791389465,
-["Conditions"] = {
-{
-["Type"] = "LOC_ZONE",
-["Name"] = "Убежище рассекателя Бездны",
-["Level"] = 1,
-},
-["n"] = 1,
-},
+["OnlyInCombat"] = true,
+["Columns"] = 1,
 ["Icons"] = {
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Укор",
 ["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -28369,6 +28360,8 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Name"] = "Укор",
 },
 {
 ["States"] = {
@@ -28404,7 +28397,14 @@ nil,
 },
 },
 },
-["OnlyInCombat"] = true,
+["Conditions"] = {
+{
+["Type"] = "LOC_ZONE",
+["Name"] = "Убежище рассекателя Бездны",
+["Level"] = 1,
+},
+["n"] = 1,
+},
 },
 {
 ["GUID"] = "TMW:group:1SaiverUtXJx",
@@ -28412,21 +28412,25 @@ nil,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
+["Type"] = "buff",
 ["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
+["States"] = {
+{
+},
+nil,
+{
+},
+{
 },
 },
-},
+["Name"] = "Священная война; Гнев карателя; Рыцарь-мститель; Часовой",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
 ["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
+["Infinite"] = true,
 },
 {
 ["Type"] = "Sound",
@@ -28435,22 +28439,6 @@ nil,
 },
 ["n"] = 2,
 },
-["Type"] = "buff",
-["Name"] = "Священная война; Гнев карателя; Рыцарь-мститель; Часовой",
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -28458,15 +28446,9 @@ nil,
 },
 },
 },
-["Events"] = {
+},
 {
-["Event"] = "OnShow",
-["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
+["ShowTimer"] = true,
 ["Type"] = "buff",
 ["Name"] = "Божественный щит; Эгида Аннгильды",
 ["States"] = {
@@ -28478,11 +28460,16 @@ nil,
 {
 },
 },
-},
+["ShowTimerText"] = true,
+["Events"] = {
 {
-["Enabled"] = true,
-["ShowTimer"] = true,
-["Name"] = "Ревностный защитник; 498",
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
+["Infinite"] = true,
+},
+["n"] = 1,
+},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -28490,8 +28477,12 @@ nil,
 },
 },
 },
-["ShowTimerText"] = true,
+["Enabled"] = true,
+},
+{
+["ShowTimer"] = true,
 ["Type"] = "buff",
+["Name"] = "Ревностный защитник; 498",
 ["States"] = {
 {
 },
@@ -28501,10 +28492,6 @@ nil,
 {
 },
 },
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
 ["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -28513,16 +28500,10 @@ nil,
 },
 },
 },
-["Events"] = {
+["Enabled"] = true,
+},
 {
-["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["Event"] = "OnShow",
-},
-["n"] = 1,
-},
+["ShowTimer"] = true,
 ["Type"] = "buff",
 ["Name"] = "Защитник древних королей; 31821",
 ["States"] = {
@@ -28534,6 +28515,25 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
+["Infinite"] = true,
+},
+["n"] = 1,
+},
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
+},
+["Enabled"] = true,
 },
 },
 ["Point"] = {
@@ -28549,40 +28549,12 @@ nil,
 },
 ["Scale"] = 1.19998574256897,
 ["Rows"] = 3,
+["Columns"] = 1,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Name"] = "Освящение",
-["Type"] = "SPELLCD",
-},
-{
-["Type"] = "UNITSPEC",
-["BitFlags"] = {
-[66] = true,
-},
-},
-["n"] = 2,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
 ["Type"] = "cooldown",
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
-["Name"] = "Освящение",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 ["Alpha"] = 0.5,
@@ -28595,13 +28567,52 @@ nil,
 {
 },
 },
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
+["Name"] = "Освящение",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
+{
+["Type"] = "SPELLCD",
+["Name"] = "Освящение",
 },
 {
-["Enabled"] = true,
+["Type"] = "UNITSPEC",
+["BitFlags"] = {
+[66] = true,
+},
+},
+["n"] = 2,
+},
+},
+["n"] = 1,
+},
+},
+{
 ["ShowTimer"] = true,
-["RangeCheck"] = true,
-["OnlyActvtnOverlay"] = true,
 ["Type"] = "reactive",
+["Name"] = "Молот гнева",
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+{
+["Type"] = "REACT",
+["Unit"] = "target",
+["AndOr"] = "OR",
+["Level"] = 1,
+},
+["n"] = 2,
+},
 ["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -28610,20 +28621,10 @@ nil,
 },
 },
 },
+["RangeCheck"] = true,
+["OnlyActvtnOverlay"] = true,
+["Enabled"] = true,
 ["UseActvtnOverlay"] = true,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-{
-["Type"] = "REACT",
-["AndOr"] = "OR",
-["Level"] = 1,
-["Unit"] = "target",
-},
-["n"] = 2,
-},
-["Name"] = "Молот гнева",
 ["States"] = {
 {
 },
@@ -28638,29 +28639,19 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["RangeCheck"] = true,
-["ClockGCD"] = true,
-["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
-},
-},
-},
 ["Type"] = "cooldown",
+["Name"] = "Правосудие",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 {
 ["Type"] = "REACT",
+["Unit"] = "target",
+["AndOr"] = "OR",
 ["PrtsBefore"] = 1,
 ["Level"] = 1,
-["AndOr"] = "OR",
-["Unit"] = "target",
 },
 {
 ["Type"] = "ALIVE",
@@ -28669,7 +28660,17 @@ nil,
 },
 ["n"] = 3,
 },
-["Name"] = "Правосудие",
+["ShowTimerText"] = true,
+["ClockGCD"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
+},
+["RangeCheck"] = true,
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -28696,22 +28697,21 @@ nil,
 },
 },
 },
-["Columns"] = 1,
 },
 {
 ["GUID"] = "TMW:group:1SajpcTAu6YL",
-["Columns"] = 1,
 ["Scale"] = 1.19994592666626,
+["Columns"] = 1,
 ["Icons"] = {
 {
-["ManaCheck"] = true,
 ["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Name"] = "Длань расплаты",
+["ManaCheck"] = true,
+["CustomTex"] = "2649",
 ["RangeCheck"] = true,
 ["ShowTimerText"] = true,
-["Type"] = "cooldown",
 ["Enabled"] = true,
-["Name"] = "Длань расплаты",
-["CustomTex"] = "2649",
 ["States"] = {
 {
 ["Alpha"] = 0,
@@ -28773,6 +28773,121 @@ nil,
 ["x"] = -218.116582024222,
 },
 ["Scale"] = 1.267498373985291,
+["Columns"] = 5,
+["Icons"] = {
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["ShowTimerText"] = true,
+["States"] = {
+{
+},
+{
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+["Name"] = "Ярость берсерка",
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
+{
+["Type"] = "DEBUFFDUR",
+["Unit"] = "target",
+["Operator"] = ">",
+["Name"] = "Око Тира",
+},
+["n"] = 1,
+},
+},
+["n"] = 1,
+},
+["Name"] = "Око Тира",
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+["Name"] = "Ревностный защитник; Щит возмездия; Божественная защита",
+["ShowTimerText"] = true,
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
+["Name"] = "Защитник древних королей; Владение аурами",
+["CustomTex"] = "871",
+["ShowTimerText"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+["ShowTimerText"] = true,
+["Name"] = "Божественный щит",
+},
+},
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -28784,152 +28899,25 @@ nil,
 },
 ["n"] = 2,
 },
-["Icons"] = {
-{
-["ShowTimer"] = true,
-["Name"] = "Ярость берсерка",
-["ShowTimerText"] = true,
-["Type"] = "cooldown",
-["States"] = {
-{
-},
-{
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Око Тира",
-["Type"] = "cooldown",
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Operator"] = ">",
-["Type"] = "DEBUFFDUR",
-["Name"] = "Око Тира",
-["Unit"] = "target",
-},
-["n"] = 1,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["Name"] = "Ревностный защитник; Щит возмездия; Божественная защита",
-["ShowTimerText"] = true,
-["Type"] = "cooldown",
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["Name"] = "Защитник древних королей; Владение аурами",
-["Type"] = "cooldown",
-["ShowTimerText"] = true,
-["CustomTex"] = "871",
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Божественный щит",
-["Type"] = "cooldown",
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-},
-["Columns"] = 5,
 },
 {
 ["GUID"] = "TMW:group:1ScM1Z9MnxVB",
-["Columns"] = 6,
 ["Scale"] = 1.500012755393982,
+["Columns"] = 6,
 ["Icons"] = {
 {
-["GCDAsUnusable"] = true,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["ClockGCD"] = true,
-["CooldownCheck"] = true,
-["Name"] = "Клинок справедливости; Щит мстителя",
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
-},
-},
-},
-["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 {
 ["Type"] = "REACT",
+["Unit"] = "target",
+["AndOr"] = "OR",
 ["PrtsBefore"] = 1,
 ["Level"] = 1,
-["AndOr"] = "OR",
-["Unit"] = "target",
 },
 {
 ["Type"] = "ALIVE",
@@ -28938,6 +28926,18 @@ nil,
 },
 ["n"] = 3,
 },
+["ShowTimerText"] = true,
+["Name"] = "Клинок справедливости; Щит мстителя",
+["ClockGCD"] = true,
+["CooldownCheck"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
+},
+["GCDAsUnusable"] = true,
 ["Enabled"] = true,
 ["States"] = {
 {
@@ -28953,18 +28953,18 @@ nil,
 },
 },
 {
+["ShowTimer"] = true,
 ["BuffOrDebuff"] = "HARMFUL",
-["ShowTimer"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
 ["ShowTimerText"] = true,
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
 },
 {
 ["States"] = {
@@ -29000,21 +29000,8 @@ nil,
 },
 },
 {
-["ManaCheck"] = true,
 ["ShowTimer"] = true,
-["RangeCheck"] = true,
-["GUID"] = "TMW:icon:1f8Oqjty8su1",
-["ClockGCD"] = true,
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
-},
-},
-},
-["Name"] = "Удар воина Света",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -29027,7 +29014,7 @@ nil,
 },
 ["n"] = 2,
 },
-["Enabled"] = true,
+["Name"] = "Удар воина Света",
 ["States"] = {
 {
 },
@@ -29042,6 +29029,19 @@ nil,
 ["Color"] = "ff09487fd",
 },
 },
+["ShowTimerText"] = true,
+["GUID"] = "TMW:icon:1f8Oqjty8su1",
+["ManaCheck"] = true,
+["ClockGCD"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
+},
+["RangeCheck"] = true,
+["Enabled"] = true,
 },
 },
 ["Point"] = {
@@ -29056,14 +29056,7 @@ nil,
 ["x"] = -202.901665605858,
 },
 ["Scale"] = 1.275001287460327,
-["Conditions"] = {
-{
-["Type"] = "LOC_ZONE",
-["Name"] = "Убежище рассекателя Бездны",
-["Level"] = 1,
-},
-["n"] = 1,
-},
+["OnlyInCombat"] = true,
 ["Icons"] = {
 {
 ["Type"] = "cooldown",
@@ -29079,26 +29072,8 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
 ["BuffOrDebuff"] = "HARMFUL",
-["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
-},
-},
-},
-["Events"] = {
-{
-["OnlyShown"] = true,
-["Type"] = "Animations",
-["Event"] = "OnAlphaInc",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
 ["Type"] = "cooldown",
 ["Name"] = "Жертвенное благословение",
 ["States"] = {
@@ -29113,11 +29088,16 @@ nil,
 {
 },
 },
-},
+["ShowTimerText"] = true,
+["Events"] = {
 {
-["Enabled"] = true,
-["ShowTimer"] = true,
-["Name"] = "Благословение защиты",
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnAlphaInc",
+},
+["n"] = 1,
+},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -29125,45 +29105,12 @@ nil,
 },
 },
 },
-["Events"] = {
-{
-["OnlyShown"] = true,
-["Type"] = "Animations",
-["Event"] = "OnAlphaInc",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
-["Type"] = "cooldown",
-["ShowTimerText"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
 ["Enabled"] = true,
-["ShowTimer"] = true,
-["Name"] = "Возложение рук",
-["ShowTimerText"] = true,
-["Type"] = "cooldown",
-["Events"] = {
+},
 {
-["OnlyShown"] = true,
-["Type"] = "Animations",
-["Event"] = "OnAlphaInc",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -29176,6 +29123,52 @@ nil,
 {
 },
 },
+["Name"] = "Благословение защиты",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnAlphaInc",
+},
+["n"] = 1,
+},
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
+},
+["Enabled"] = true,
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.5,
+},
+{
+},
+{
+},
+},
+["Name"] = "Возложение рук",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnAlphaInc",
+},
+["n"] = 1,
+},
+["ShowTimerText"] = true,
 },
 {
 ["States"] = {
@@ -29200,24 +29193,43 @@ nil,
 },
 },
 },
-["OnlyInCombat"] = true,
+["Conditions"] = {
+{
+["Type"] = "LOC_ZONE",
+["Name"] = "Убежище рассекателя Бездны",
+["Level"] = 1,
+},
+["n"] = 1,
+},
 },
 {
 ["GUID"] = "TMW:group:1St6ZUncht77",
-["Columns"] = 1,
 ["Scale"] = 1.69166874885559,
 ["Rows"] = 4,
+["Columns"] = 1,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
+["BuffOrDebuff"] = "HARMFUL",
+["Type"] = "buff",
 ["ShowTimerText"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+["Name"] = "Испытание сомнением",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
 ["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
+["Infinite"] = true,
 },
 {
 ["Type"] = "Sound",
@@ -29231,29 +29243,9 @@ nil,
 },
 ["n"] = 3,
 },
-["BuffOrDebuff"] = "HARMFUL",
-["Type"] = "buff",
-["Name"] = "Испытание сомнением",
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
 },
 {
 ["Type"] = "buff",
-["Name"] = "Освящение",
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
-},
-},
-},
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -29274,41 +29266,49 @@ nil,
 },
 ["n"] = 4,
 },
+["Name"] = "Освящение",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Animation"] = "ICONSHAKE",
 ["OnlyShown"] = true,
+["Animation"] = "ICONSHAKE",
+["Event"] = "WCSP",
 ["OnConditionConditions"] = {
 {
-["Name"] = "Освящение",
 ["Type"] = "SPELLCD",
+["Name"] = "Освящение",
 },
 {
 ["Type"] = "ALIVE",
 ["Unit"] = "target",
 },
 {
-["Operator"] = ">=",
-["Level"] = 70,
 ["Type"] = "LEVEL",
 ["Unit"] = "target",
+["Operator"] = ">=",
+["Level"] = 70,
 },
 {
 ["Type"] = "REACT",
-["Level"] = 1,
 ["Unit"] = "target",
+["Level"] = 1,
 },
 {
 ["Type"] = "SPELLRANGE",
-["Name"] = "Молот правосудия",
 ["Unit"] = "target",
+["Name"] = "Молот правосудия",
 },
 ["n"] = 5,
 },
-["Event"] = "WCSP",
 },
 ["n"] = 1,
+},
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
 },
 ["States"] = {
 {
@@ -29326,6 +29326,13 @@ nil,
 },
 {
 ["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 ["Name"] = "Щит праведника",
 ["SettingsPerView"] = {
 ["icon"] = {
@@ -29335,13 +29342,6 @@ nil,
 "",
 },
 },
-},
-["Type"] = "cooldown",
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
 },
 ["CustomTex"] = "NONE",
 ["States"] = {
@@ -29355,21 +29355,10 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Темная сделка",
 ["BuffOrDebuff"] = "HARMFUL",
 ["Type"] = "buff",
-["Events"] = {
-{
-["OnlyShown"] = true,
-["Type"] = "Sound",
-["Sound"] = "TMW - Ding 8",
-["Event"] = "OnShow",
-},
-["n"] = 1,
-},
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -29379,6 +29368,17 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Sound",
+["OnlyShown"] = true,
+["Sound"] = "TMW - Ding 8",
+["Event"] = "OnShow",
+},
+["n"] = 1,
+},
+["Name"] = "Темная сделка",
 },
 },
 ["Point"] = {
@@ -29387,25 +29387,17 @@ nil,
 },
 },
 {
-["GUID"] = "TMW:group:1TAnvcUH1LmH",
-["Columns"] = 1,
 ["Point"] = {
 ["y"] = 26.6233049115209,
 ["x"] = 152.0876440614538,
 },
-["Rows"] = 4,
 ["Scale"] = 1.299913287162781,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 4,
+["OnlyInCombat"] = true,
+["Columns"] = 1,
 ["Icons"] = {
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
 ["BuffOrDebuff"] = "HARMFUL",
 ["States"] = {
 {
@@ -29416,39 +29408,13 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Enabled"] = true,
 },
 {
-["Name"] = "324631",
 ["ShowTimer"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Name"] = "324631",
-["Type"] = "SPELLCD",
-},
-{
-["Name"] = "324867",
-["Type"] = "BUFFDUR",
-},
-["n"] = 2,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
-["Type"] = "cooldown",
 ["BuffOrDebuff"] = "HARMFUL",
-["Conditions"] = {
-{
-["Type"] = "COVENANT",
-["BitFlags"] = 8,
-},
-["n"] = 1,
-},
+["Type"] = "cooldown",
 ["ShowTimerText"] = true,
 ["States"] = {
 {
@@ -29463,11 +29429,58 @@ nil,
 {
 },
 },
+["Conditions"] = {
+{
+["Type"] = "COVENANT",
+["BitFlags"] = 8,
+},
+["n"] = 1,
+},
+["Name"] = "324631",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
+{
+["Type"] = "SPELLCD",
+["Name"] = "324631",
 },
 {
-["Enabled"] = true,
+["Type"] = "BUFFDUR",
+["Name"] = "324867",
+},
+["n"] = 2,
+},
+},
+["n"] = 1,
+},
+},
+{
+["OnlyEquipped"] = true,
 ["Type"] = "cooldown",
+["Enabled"] = true,
+["OnlyInBags"] = true,
+["Conditions"] = {
+{
+["Type"] = "OVERLAYED",
 ["Name"] = "Торжество",
+},
+["n"] = 1,
+},
+["Name"] = "Торжество",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
+["Infinite"] = true,
+},
+["n"] = 1,
+},
 ["States"] = {
 {
 },
@@ -29480,42 +29493,12 @@ nil,
 {
 },
 },
-["Events"] = {
-{
-["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["Event"] = "OnShow",
-},
-["n"] = 1,
-},
-["Conditions"] = {
-{
-["Name"] = "Торжество",
-["Type"] = "OVERLAYED",
-},
-["n"] = 1,
-},
-["OnlyEquipped"] = true,
-["OnlyInBags"] = true,
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ClockGCD"] = true,
-["OnlyInBags"] = true,
-["ShowTimerText"] = true,
-["Name"] = "13",
-["Type"] = "item",
-["Conditions"] = {
-{
-["Name"] = "13",
-["Type"] = "ITEMSPELL",
-},
-["n"] = 1,
-},
 ["OnlyEquipped"] = true,
+["Type"] = "item",
+["Name"] = "13",
 ["States"] = {
 {
 },
@@ -29528,6 +29511,17 @@ nil,
 {
 },
 },
+["Conditions"] = {
+{
+["Type"] = "ITEMSPELL",
+["Name"] = "13",
+},
+["n"] = 1,
+},
+["ShowTimerText"] = true,
+["ClockGCD"] = true,
+["Enabled"] = true,
+["OnlyInBags"] = true,
 },
 {
 ["States"] = {
@@ -29662,7 +29656,13 @@ nil,
 },
 },
 },
-["OnlyInCombat"] = true,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
+["GUID"] = "TMW:group:1TAnvcUH1LmH",
 },
 {
 ["GUID"] = "TMW:group:1UjNsLRYFjqX",
@@ -29670,18 +29670,31 @@ nil,
 ["y"] = 18.34801434651806,
 ["x"] = 271.103894537039,
 },
-["Columns"] = 1,
 ["Scale"] = 1.291668295860291,
 ["Rows"] = 4,
+["OnlyInCombat"] = true,
+["Columns"] = 1,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
+["BuffOrDebuff"] = "HARMFUL",
+["Type"] = "buff",
 ["Name"] = "Страшные заблуждения",
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+["ShowTimerText"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Event"] = "OnShow",
 ["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
 },
 {
 ["Type"] = "Sound",
@@ -29690,23 +29703,22 @@ nil,
 },
 ["n"] = 2,
 },
-["BuffOrDebuff"] = "HARMFUL",
-["Type"] = "buff",
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
 ["ShowTimerText"] = true,
 ["States"] = {
 {
 },
-nil,
+{
+["Alpha"] = 0.5,
+},
 {
 },
 {
 },
 },
-},
-{
-["ShowTimer"] = true,
-["Name"] = "Обезоруживание",
-["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "INSTANCE2",
@@ -29716,24 +29728,29 @@ nil,
 },
 ["n"] = 1,
 },
-["Type"] = "cooldown",
-["States"] = {
-{
+["Name"] = "Обезоруживание",
 },
 {
-["Alpha"] = 0.5,
-},
-{
-},
-{
-},
-},
-},
-{
-["ManaCheck"] = true,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
 ["Name"] = "Торжество",
+["ManaCheck"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
+{
+["Type"] = "BUFFDUR",
+["Operator"] = ">",
+["Name"] = "327510",
+},
+["n"] = 1,
+},
+},
+["n"] = 1,
+},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -29741,32 +29758,6 @@ nil,
 },
 },
 },
-["Events"] = {
-{
-["Type"] = "Animations",
-["OnConditionConditions"] = {
-{
-["Type"] = "BUFFDUR",
-["Name"] = "327510",
-["Operator"] = ">",
-},
-["n"] = 1,
-},
-["Event"] = "WCSP",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
-["Conditions"] = {
-{
-["Type"] = "UNITSPEC",
-["BitFlags"] = {
-[66] = true,
-},
-},
-["n"] = 1,
-},
-["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -29780,21 +29771,7 @@ nil,
 ["Color"] = "ffffffffd",
 },
 },
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
-["RangeCheck"] = true,
 ["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Event"] = "OnAlphaInc",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
-["Type"] = "cooldown",
 ["Conditions"] = {
 {
 ["Type"] = "UNITSPEC",
@@ -29804,7 +29781,11 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Серафим",
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -29818,20 +29799,48 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnAlphaInc",
+},
+["n"] = 1,
+},
+["RangeCheck"] = true,
+["Name"] = "Серафим",
+["Conditions"] = {
+{
+["Type"] = "UNITSPEC",
+["BitFlags"] = {
+[66] = true,
 },
 },
-["OnlyInCombat"] = true,
+["n"] = 1,
+},
+},
+},
 },
 {
 ["GUID"] = "TMW:group:1VYUvSOeLVuD",
-["Columns"] = 5,
 ["Scale"] = 1.035835146903992,
+["Columns"] = 5,
 ["Icons"] = {
 {
-["Enabled"] = true,
-["Type"] = "cast",
-["Name"] = "Жалящая мана",
 ["Unit"] = "focus; boss 1-5",
+["Type"] = "cast",
+["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+["Name"] = "Жалящая мана",
 ["Events"] = {
 {
 ["Type"] = "Sound",
@@ -29840,15 +29849,6 @@ nil,
 },
 ["n"] = 1,
 },
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
 },
 {
 ["States"] = {
@@ -29862,11 +29862,19 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Божественный замысел",
-["ShowTimerText"] = true,
 ["Type"] = "buff",
+["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+["Name"] = "Божественный замысел",
 ["Events"] = {
 {
 ["Type"] = "Sound",
@@ -29875,6 +29883,12 @@ nil,
 },
 ["n"] = 1,
 },
+["ShowTimerText"] = true,
+},
+{
+["ShowTimer"] = true,
+["Type"] = "buff",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -29884,13 +29898,7 @@ nil,
 {
 },
 },
-},
-{
-["Enabled"] = true,
-["ShowTimer"] = true,
 ["Name"] = "Клинок гнева",
-["ShowTimerText"] = true,
-["Type"] = "buff",
 ["Events"] = {
 {
 ["Type"] = "Sound",
@@ -29899,36 +29907,10 @@ nil,
 },
 ["n"] = 1,
 },
-["States"] = {
-{
-},
-nil,
-{
+["ShowTimerText"] = true,
 },
 {
-},
-},
-},
-{
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Дар титанов; Небесная мощь",
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
-},
-},
-},
-["Events"] = {
-{
-["Type"] = "Animations",
-["Duration"] = 2,
-["Event"] = "OnShow",
-["Animation"] = "ACTVTNGLOW",
-},
-["n"] = 1,
-},
 ["Type"] = "buff",
 ["ShowTimerText"] = true,
 ["States"] = {
@@ -29940,6 +29922,24 @@ nil,
 {
 },
 },
+["Name"] = "Дар титанов; Небесная мощь",
+["Events"] = {
+{
+["Type"] = "Animations",
+["Duration"] = 2,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
+},
+["n"] = 1,
+},
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
+},
+["Enabled"] = true,
 },
 {
 ["States"] = {
@@ -29959,27 +29959,19 @@ nil,
 },
 },
 {
-["GUID"] = "TMW:group:1VkaPhXExviT",
 ["Point"] = {
 ["y"] = -232.0761094644357,
 ["x"] = 166.2532598513514,
 },
-["Columns"] = 1,
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 3,
-},
-},
 ["Scale"] = 1.020674109458923,
 ["Rows"] = 4,
+["OnlyInCombat"] = true,
+["Columns"] = 1,
 ["Icons"] = {
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Молот правосудия",
-["RangeCheck"] = true,
-["ShowTimerText"] = true,
 ["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -29993,13 +29985,14 @@ nil,
 {
 },
 },
+["Name"] = "Молот правосудия",
+["RangeCheck"] = true,
+["ShowTimerText"] = true,
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Слепящий свет",
-["ShowTimerText"] = true,
 ["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -30012,15 +30005,14 @@ nil,
 {
 },
 },
+["Name"] = "Слепящий свет",
+["ShowTimerText"] = true,
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["OnlyInBags"] = true,
-["Name"] = "Воинский пояс исторгнутого страдания; Скованный кровью иссеченный ремень; Воинский пояс божественного резонанса; Оковы безумного идеала",
-["Type"] = "item",
 ["OnlyEquipped"] = true,
+["Type"] = "item",
+["OnlyInBags"] = true,
 ["States"] = {
 {
 },
@@ -30033,38 +30025,14 @@ nil,
 {
 },
 },
-},
-{
-["Name"] = "Серафим",
-["ShowTimer"] = true,
+["Name"] = "Воинский пояс исторгнутого страдания; Скованный кровью иссеченный ремень; Воинский пояс божественного резонанса; Оковы безумного идеала",
+["Enabled"] = true,
 ["ShowTimerText"] = true,
+},
+{
+["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["RangeCheck"] = true,
-["Conditions"] = {
-{
-["Type"] = "UNITSPEC",
-["BitFlags"] = {
-[66] = true,
-},
-},
-["n"] = 1,
-},
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
 ["Name"] = "Серафим",
-["Type"] = "SPELLCD",
-},
-["n"] = 1,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
 ["States"] = {
 {
 ["Alpha"] = 0,
@@ -30079,14 +30047,38 @@ nil,
 {
 },
 },
+["Conditions"] = {
+{
+["Type"] = "UNITSPEC",
+["BitFlags"] = {
+[66] = true,
+},
+},
+["n"] = 1,
+},
+["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
+{
+["Type"] = "SPELLCD",
+["Name"] = "Серафим",
+},
+["n"] = 1,
+},
+},
+["n"] = 1,
+},
+["RangeCheck"] = true,
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["RangeCheck"] = true,
-["Name"] = "Преграждающая длань",
 ["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -30100,6 +30092,9 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["RangeCheck"] = true,
+["Name"] = "Преграждающая длань",
 },
 {
 ["States"] = {
@@ -30311,29 +30306,38 @@ nil,
 },
 },
 },
-["OnlyInCombat"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 3,
+},
+},
+["GUID"] = "TMW:group:1VkaPhXExviT",
 },
 {
-["View"] = "bar",
+["GUID"] = "TMW:group:1WNDeyPHVhO=",
 ["Point"] = {
 ["y"] = -48.30575516841764,
 ["x"] = -185.4563272448749,
 },
 ["Scale"] = 1.300036072731018,
+["TextureName"] = "Details D'ictum (reverse)",
+["Columns"] = 1,
 ["Icons"] = {
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Воздержанность",
-["SettingsPerView"] = {
-["bar"] = {
-["Texts"] = {
-"[Duration(gcd=true):TMWFormatDuration]",
-"[Stacks:Hide(0):Paren]",
-},
-},
-},
 ["BuffOrDebuff"] = "HARMFUL",
+["Type"] = "buff",
+["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+["Name"] = "Воздержанность",
 ["Events"] = {
 {
 ["Type"] = "Sound",
@@ -30342,14 +30346,12 @@ nil,
 },
 ["n"] = 1,
 },
-["Type"] = "buff",
-["States"] = {
-{
+["SettingsPerView"] = {
+["bar"] = {
+["Texts"] = {
+"[Duration(gcd=true):TMWFormatDuration]",
+"[Stacks:Hide(0):Paren]",
 },
-nil,
-{
-},
-{
 },
 },
 },
@@ -30398,7 +30400,6 @@ nil,
 },
 },
 },
-["TextureName"] = "Details D'ictum (reverse)",
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 88.45867919921875,
@@ -30412,28 +30413,22 @@ nil,
 },
 ["n"] = 1,
 },
-["Columns"] = 1,
-["GUID"] = "TMW:group:1WNDeyPHVhO=",
+["View"] = "bar",
 },
 {
-["GUID"] = "TMW:group:1WaAsE3WDuC2",
-["Columns"] = 7,
 ["Point"] = {
 ["y"] = 269.1710205078125,
 ["x"] = -5.457515954088327,
 ["point"] = "BOTTOM",
 ["relativePoint"] = "BOTTOM",
 },
-["SettingsPerView"] = {
-["icon"] = {
-["SpacingX"] = 9.7,
-},
-},
 ["Scale"] = 1.018321514129639,
 ["EnabledSpecs"] = {
 [66] = false,
 [65] = false,
 },
+["OnlyInCombat"] = true,
+["Columns"] = 7,
 ["Icons"] = {
 {
 ["States"] = {
@@ -30460,25 +30455,7 @@ nil,
 },
 },
 {
-["ManaCheck"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Name"] = "Авангард из Круговерти",
-["Type"] = "SPELLCD",
-},
-["n"] = 1,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
 ["Type"] = "cooldown",
 ["Name"] = "Вечный диск Нарана; Гнев бури; Правосудие воздаятеля; Авангард из Круговерти",
 ["States"] = {
@@ -30494,13 +30471,29 @@ nil,
 ["Color"] = "ff6c2f7fd",
 },
 },
+["ShowTimerText"] = true,
+["ManaCheck"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
+{
+["Type"] = "SPELLCD",
+["Name"] = "Авангард из Круговерти",
+},
+["n"] = 1,
+},
+},
+["n"] = 1,
+},
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Последний расчет",
 ["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -30513,35 +30506,37 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Name"] = "Последний расчет",
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Смертный приговор",
 ["Type"] = "cooldown",
+["Enabled"] = true,
+["ShowTimerText"] = true,
 ["ManaCheck"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
 ["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
 ["OnConditionConditions"] = {
 {
-["Name"] = "Смертный приговор",
 ["Type"] = "SPELLCD",
+["Name"] = "Смертный приговор",
 },
 {
 ["Type"] = "HOLY_POWER",
-["Level"] = 2,
 ["Operator"] = ">",
+["Level"] = 2,
 },
 ["n"] = 2,
 },
-["Event"] = "WCSP",
 },
 ["n"] = 1,
 },
-["ShowTimerText"] = true,
+["Name"] = "Смертный приговор",
 ["States"] = {
 {
 },
@@ -30557,11 +30552,9 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Божественный молот",
 ["Type"] = "cooldown",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -30574,6 +30567,8 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
+["Name"] = "Божественный молот",
 },
 {
 ["States"] = {
@@ -30587,35 +30582,22 @@ nil,
 },
 },
 },
-["OnlyInCombat"] = true,
+["SettingsPerView"] = {
+["icon"] = {
+["SpacingX"] = 9.7,
+},
+},
+["GUID"] = "TMW:group:1WaAsE3WDuC2",
 },
 {
 ["GUID"] = "TMW:group:1XqSk8qmYYGD",
 ["Strata"] = "HIGH",
-["Columns"] = 1,
 ["Scale"] = 1.572516918182373,
 ["Rows"] = 2,
+["Columns"] = 1,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
-["RangeCheck"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Name"] = "Шок небес",
-["Type"] = "SPELLCD",
-},
-["n"] = 1,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
 ["States"] = {
 {
 },
@@ -30629,20 +30611,38 @@ nil,
 {
 },
 },
-},
+["ShowTimerText"] = true,
+["Events"] = {
 {
-["Enabled"] = true,
-["ShowTimer"] = true,
-["Name"] = "Поиск нежити",
-["Type"] = "cooldown",
-["ClockGCD"] = true,
-["Conditions"] = {
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "WCSP",
+["OnConditionConditions"] = {
 {
-["Icon"] = "TMW:icon:1f8Oqjty8su1",
-["Type"] = "ICON",
+["Type"] = "SPELLCD",
+["Name"] = "Шок небес",
 },
 ["n"] = 1,
 },
+},
+["n"] = 1,
+},
+["RangeCheck"] = true,
+},
+{
+["ShowTimer"] = true,
+["Type"] = "cooldown",
+["Enabled"] = true,
+["Conditions"] = {
+{
+["Type"] = "ICON",
+["Icon"] = "TMW:icon:1f8Oqjty8su1",
+},
+["n"] = 1,
+},
+["Name"] = "Поиск нежити",
+["ClockGCD"] = true,
 ["CustomTex"] = "none",
 ["States"] = {
 {
@@ -30725,18 +30725,13 @@ nil,
 ["point"] = "LEFT",
 ["relativePoint"] = "LEFT",
 },
-["Columns"] = 6,
 ["Rows"] = 5,
+["Columns"] = 6,
 ["Icons"] = {
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["RangeCheck"] = true,
-["FakeHidden"] = true,
-["ShowTimerText"] = true,
-["GUID"] = "TMW:icon:1bmQY=ddoXmB",
 ["Type"] = "cooldown",
-["Name"] = "Божественный благовест",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -30749,12 +30744,17 @@ nil,
 {
 },
 },
+["Name"] = "Божественный благовест",
+["ShowTimerText"] = true,
+["GUID"] = "TMW:icon:1bmQY=ddoXmB",
+["RangeCheck"] = true,
+["FakeHidden"] = true,
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Божественный резонанс",
 ["Type"] = "buff",
+["Enabled"] = true,
+["Name"] = "Божественный резонанс",
 ["GUID"] = "TMW:icon:1bmQY=dif1eE",
 ["FakeHidden"] = true,
 ["ShowTimerText"] = true,
@@ -30769,10 +30769,10 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
 ["Type"] = "cooldown",
+["Enabled"] = true,
+["ShowTimerText"] = true,
 ["GUID"] = "TMW:icon:1bmQY=dnQESV",
 ["FakeHidden"] = true,
 ["Name"] = "Часовой; Гнев карателя",
@@ -30790,11 +30790,21 @@ nil,
 },
 },
 {
-["GUID"] = "TMW:icon:1bmQY=ds2gKU",
 ["ShowTimer"] = true,
-["FakeHidden"] = true,
 ["Type"] = "buff",
 ["ShowTimerText"] = true,
+["Name"] = "Часовой; Гнев карателя",
+["GUID"] = "TMW:icon:1bmQY=ds2gKU",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
+["Infinite"] = true,
+},
+["n"] = 1,
+},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -30802,17 +30812,7 @@ nil,
 },
 },
 },
-["Name"] = "Часовой; Гнев карателя",
-["Events"] = {
-{
-["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["Event"] = "OnShow",
-},
-["n"] = 1,
-},
+["FakeHidden"] = true,
 ["Enabled"] = true,
 ["States"] = {
 {
@@ -30825,10 +30825,10 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Божественный скакун",
 ["Type"] = "cooldown",
+["Enabled"] = true,
+["Name"] = "Божественный скакун",
 ["GUID"] = "TMW:icon:1e=cYHRSBISH",
 ["FakeHidden"] = true,
 ["ShowTimerText"] = true,
@@ -30846,23 +30846,9 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["FakeHidden"] = true,
-["ShowTimerText"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["Event"] = "OnShow",
-},
-["n"] = 1,
-},
 ["Type"] = "buff",
-["Name"] = "Божественный скакун",
-["GUID"] = "TMW:icon:1e=cYHRUOtO7",
+["Enabled"] = true,
 ["States"] = {
 {
 },
@@ -30872,20 +30858,24 @@ nil,
 {
 },
 },
+["Name"] = "Божественный скакун",
+["ShowTimerText"] = true,
+["GUID"] = "TMW:icon:1e=cYHRUOtO7",
+["Events"] = {
+{
+["Type"] = "Animations",
+["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
+["Event"] = "OnShow",
+["Infinite"] = true,
+},
+["n"] = 1,
+},
+["FakeHidden"] = true,
 },
 {
-["GUID"] = "TMW:icon:1e_cX8sGi9WY",
 ["ShowTimer"] = true,
-["FakeHidden"] = true,
 ["Type"] = "cooldown",
-["Name"] = "Испепеляющий след; Молот Света; Минута славы",
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "[Stacks:Hide(0):Hide(1)]",
-},
-},
-},
 ["ShowTimerText"] = true,
 ["Conditions"] = {
 {
@@ -30893,6 +30883,16 @@ nil,
 },
 ["n"] = 1,
 },
+["Name"] = "Испепеляющий след; Молот Света; Минута славы",
+["GUID"] = "TMW:icon:1e_cX8sGi9WY",
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "[Stacks:Hide(0):Hide(1)]",
+},
+},
+},
+["FakeHidden"] = true,
 ["Enabled"] = true,
 ["States"] = {
 {
@@ -30908,32 +30908,32 @@ nil,
 },
 },
 {
-["Enabled"] = true,
 ["ShowTimer"] = true,
-["FakeHidden"] = true,
+["Type"] = "buff",
+["Enabled"] = true,
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+["ShowTimerText"] = true,
 ["Name"] = "Гнев бури",
+["GUID"] = "TMW:icon:1e_cX8sIuRe0",
 ["Events"] = {
 {
 ["Type"] = "Animations",
-["Infinite"] = true,
-["Animation"] = "ACTVTNGLOW",
 ["OnlyShown"] = true,
+["Animation"] = "ACTVTNGLOW",
 ["Event"] = "OnShow",
+["Infinite"] = true,
 },
 ["n"] = 1,
 },
-["Type"] = "buff",
-["ShowTimerText"] = true,
-["GUID"] = "TMW:icon:1e_cX8sIuRe0",
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
+["FakeHidden"] = true,
 },
 {
 ["States"] = {
@@ -31036,7 +31036,6 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -31046,6 +31045,7 @@ nil,
 {
 },
 },
+["ShowTimerText"] = true,
 },
 {
 ["States"] = {
@@ -32519,7 +32519,7 @@ nil,
 },
 },
 },
-["NumGroups"] = 18,
+["Locked"] = true,
 },
 ["Фламиника - Борейская тундра"] = {
 ["Locked"] = true,
@@ -33016,10 +33016,6 @@ nil,
 {
 ["GUID"] = "TMW:group:1SaiverUtXJx",
 ["Scale"] = 1.19999706745148,
-["Point"] = {
-["y"] = -67.4995844209496,
-["x"] = 2.50011941317182,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -33116,6 +33112,10 @@ nil,
 },
 },
 },
+["Point"] = {
+["y"] = -67.4995844209496,
+["x"] = 2.50011941317182,
+},
 },
 {
 ["GUID"] = "TMW:group:1SajoRKDvJfc",
@@ -33125,12 +33125,7 @@ nil,
 },
 ["Columns"] = 1,
 ["Scale"] = 1.19998574256897,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 3,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -33222,7 +33217,12 @@ nil,
 },
 },
 },
-["Rows"] = 3,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 },
 {
 ["GUID"] = "TMW:group:1SajpcTAu6YL",
@@ -33945,14 +33945,14 @@ nil,
 {
 ["GUID"] = "TMW:group:1TAnvcUH1LmH",
 ["Columns"] = 1,
+["Rows"] = 4,
+["Scale"] = 1.366681337356567,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Scale"] = 1.366681337356567,
-["Rows"] = 4,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -34187,13 +34187,13 @@ nil,
 ["Groups"] = {
 {
 ["GUID"] = "TMW:group:1NDQHcr7FjuG",
-["Columns"] = 6,
 ["Point"] = {
 ["y"] = 149.2505187988281,
 ["x"] = 10.69542552207068,
 ["point"] = "BOTTOM",
 ["relativePoint"] = "BOTTOM",
 },
+["Columns"] = 6,
 ["Name"] = "Unholy_CDs",
 ["Scale"] = 1.34672331809998,
 ["Conditions"] = {
@@ -34534,11 +34534,11 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1RIbj_CfbAIc",
-["Columns"] = 6,
 ["Point"] = {
 ["y"] = 146.9636331469121,
 ["x"] = 12.14716843347963,
 },
+["Columns"] = 6,
 ["Name"] = "Frost_CDs",
 ["Scale"] = 1.35833382606506,
 ["Conditions"] = {
@@ -34679,10 +34679,10 @@ nil,
 {
 ["OnConditionConditions"] = {
 {
-["Level"] = 20,
 ["Type"] = "BUFFSTACKS",
-["Checked"] = true,
+["Level"] = 20,
 ["Name"] = "Холодное сердце",
+["Checked"] = true,
 },
 ["n"] = 1,
 },
@@ -38117,7 +38117,6 @@ nil,
 ["Name"] = "Детоксикация",
 ["Events"] = {
 {
-["Type"] = "Sound",
 ["OnConditionConditions"] = {
 {
 ["Name"] = "Детоксикация",
@@ -38125,8 +38124,9 @@ nil,
 },
 ["n"] = 1,
 },
-["Event"] = "OnCondition",
+["Type"] = "Sound",
 ["Sound"] = "Humm",
+["Event"] = "OnCondition",
 },
 ["n"] = 1,
 },
@@ -39180,13 +39180,13 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1ZVEtIR_xSeK",
-["Columns"] = 1,
 ["Point"] = {
 ["y"] = -115.2051003862341,
 ["x"] = 187.7299957275391,
 ["point"] = "LEFT",
 ["relativePoint"] = "LEFT",
 },
+["Columns"] = 1,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -39268,13 +39268,13 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1bGSFVel7bq2",
-["Columns"] = 6,
 ["Point"] = {
 ["y"] = 197.3226470947266,
 ["x"] = 235.7417907714844,
 ["point"] = "BOTTOMLEFT",
 ["relativePoint"] = "BOTTOMLEFT",
 },
+["Columns"] = 6,
 ["Name"] = "BrewMain",
 ["Scale"] = 1.377777338027954,
 ["Conditions"] = {
@@ -40211,8 +40211,8 @@ nil,
 "TMW:icon:1bmHFpUzSEqH",
 },
 ["Enabled"] = true,
-["Name"] = "Хранитель бурь",
 ["Sort"] = -1,
+["Name"] = "Хранитель бурь",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -42174,13 +42174,13 @@ nil,
 },
 {
 ["View"] = "bar",
-["Columns"] = 1,
 ["Point"] = {
 ["y"] = -49.16564230769461,
 ["x"] = 170.8347473144531,
 ["point"] = "LEFT",
 ["relativePoint"] = "LEFT",
 },
+["Columns"] = 1,
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 72.49471282958984,
@@ -42258,17 +42258,7 @@ nil,
 },
 ["Columns"] = 1,
 ["Scale"] = 1.586665391921997,
-["Conditions"] = {
-{
-["Type"] = "MOUNTED",
-["Level"] = 1,
-},
-{
-["Type"] = "OVERRBAR",
-["Level"] = 1,
-},
-["n"] = 2,
-},
+["Rows"] = 3,
 ["Icons"] = {
 {
 ["States"] = {
@@ -42329,8 +42319,8 @@ nil,
 [17] = true,
 [15] = true,
 [18] = true,
-[16] = true,
 [23] = true,
+[16] = true,
 [24] = true,
 },
 },
@@ -42361,7 +42351,17 @@ nil,
 },
 },
 },
-["Rows"] = 3,
+["Conditions"] = {
+{
+["Type"] = "MOUNTED",
+["Level"] = 1,
+},
+{
+["Type"] = "OVERRBAR",
+["Level"] = 1,
+},
+["n"] = 2,
+},
 },
 {
 ["GUID"] = "TMW:group:1bmHFpUpqqu7",
@@ -42384,8 +42384,8 @@ nil,
 },
 ["Type"] = "cooldown",
 ["FakeHidden"] = true,
-["Name"] = "Хранитель бурь",
 ["Sort"] = -1,
+["Name"] = "Хранитель бурь",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -43420,6 +43420,10 @@ nil,
 {
 ["GUID"] = "TMW:group:1SaiverUtXJx",
 ["Scale"] = 1.19999706745148,
+["Point"] = {
+["y"] = -126.6662409150902,
+["x"] = -4.166628633703177,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -43507,10 +43511,6 @@ nil,
 },
 },
 },
-},
-["Point"] = {
-["y"] = -126.6662409150902,
-["x"] = -4.166628633703177,
 },
 },
 {
@@ -44176,7 +44176,12 @@ nil,
 },
 ["Columns"] = 1,
 ["Scale"] = 1.31668221950531,
-["Rows"] = 4,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -44190,8 +44195,6 @@ nil,
 ["Event"] = "OnShow",
 },
 {
-["Sound"] = "Humm",
-["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -44223,6 +44226,8 @@ nil,
 },
 ["n"] = 4,
 },
+["Sound"] = "Humm",
+["Type"] = "Sound",
 },
 ["n"] = 2,
 },
@@ -44442,12 +44447,7 @@ nil,
 },
 },
 },
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 4,
 },
 {
 ["GUID"] = "TMW:group:1UjNsLRYFjqX",
@@ -44976,120 +44976,6 @@ nil,
 },
 },
 },
-["Терцета - Гордунни"] = {
-["Version"] = 11020801,
-["Groups"] = {
-{
-["Icons"] = {
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-},
-["GUID"] = "TMW:group:1f3=86pGKqWw",
-},
-},
-},
-["Altery - Bronzebeard"] = {
-["Locked"] = true,
-["Version"] = 85702,
-["Groups"] = {
-{
-["GUID"] = "TMW:group:1SExmD2H4J3f",
-["Scale"] = 1.53334188461304,
-["Icons"] = {
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-{
-["States"] = {
-{
-},
-nil,
-{
-},
-{
-},
-},
-},
-},
-["Point"] = {
-["y"] = -71.7386451284504,
-["x"] = -177.390338970789,
-},
-},
-},
-},
 ["Алтэри - Гордунни"] = {
 ["Locked"] = true,
 ["Version"] = 12001103,
@@ -45513,16 +45399,6 @@ nil,
 {
 ["GUID"] = "TMW:group:1QTz2ibANSxP",
 ["Columns"] = 5,
-["EnabledSpecs"] = {
-[581] = false,
-},
-["Scale"] = 1.23334181308746,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -45671,6 +45547,16 @@ nil,
 },
 },
 },
+["Scale"] = 1.23334181308746,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
+["EnabledSpecs"] = {
+[581] = false,
+},
 ["Point"] = {
 ["y"] = -102.5665384561695,
 ["x"] = -221.3494847950451,
@@ -45678,11 +45564,11 @@ nil,
 },
 {
 ["Enabled"] = false,
+["Columns"] = 8,
 ["Point"] = {
 ["y"] = -194.3059107286232,
 ["x"] = 2.563172966732339,
 },
-["Columns"] = 8,
 ["Name"] = "Vengeance_old",
 ["Scale"] = 1.32177078723907,
 ["Conditions"] = {
@@ -46280,13 +46166,13 @@ nil,
 },
 {
 ["Enabled"] = false,
+["Columns"] = 7,
 ["Point"] = {
 ["y"] = -193.4807076468617,
 ["x"] = 250.4433746337891,
 ["point"] = "LEFT",
 ["relativePoint"] = "LEFT",
 },
-["Columns"] = 7,
 ["Name"] = "Vengeance_outdated",
 ["Scale"] = 1.31666660308838,
 ["Conditions"] = {
@@ -46771,6 +46657,10 @@ nil,
 {
 ["GUID"] = "TMW:group:1TMpQ4TiNsaE",
 ["Scale"] = 1.533336758613586,
+["Point"] = {
+["y"] = 166.3047631465433,
+["x"] = 17.34753008035112,
+},
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -46855,10 +46745,6 @@ nil,
 },
 },
 },
-},
-["Point"] = {
-["y"] = 166.3047631465433,
-["x"] = 17.34753008035112,
 },
 },
 {
@@ -47437,11 +47323,11 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1WBO518A48aH",
+["Columns"] = 6,
 ["Point"] = {
 ["y"] = -134.5796964070187,
 ["x"] = 20.0337652332573,
 },
-["Columns"] = 6,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["SpacingX"] = 7.1,
@@ -47454,9 +47340,6 @@ nil,
 ["Type"] = "BUFFDUR",
 },
 ["n"] = 1,
-},
-["EnabledSpecs"] = {
-[577] = false,
 },
 ["Icons"] = {
 {
@@ -47628,7 +47511,6 @@ nil,
 "TMW:icon:1bp1h5iUZzCu",
 },
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
 ["Events"] = {
 {
 ["OnlyShown"] = true,
@@ -47644,6 +47526,7 @@ nil,
 },
 ["n"] = 1,
 },
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -47676,7 +47559,6 @@ nil,
 ["ManaCheck"] = true,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
-["Name"] = "Опустошение Скверной",
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -47698,6 +47580,7 @@ nil,
 },
 ["n"] = 1,
 },
+["Name"] = "Опустошение Скверной",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -47728,14 +47611,17 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[577] = false,
+},
 },
 {
 ["GUID"] = "TMW:group:1WBOIBfm3UO_",
+["Columns"] = 7,
 ["Point"] = {
 ["y"] = -105.1867933977131,
 ["x"] = -252.2888157533681,
 },
-["Columns"] = 7,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["SpacingX"] = 1,
@@ -47748,9 +47634,6 @@ nil,
 ["Type"] = "BUFFDUR",
 },
 ["n"] = 1,
-},
-["EnabledSpecs"] = {
-[577] = false,
 },
 ["Icons"] = {
 {
@@ -47980,17 +47863,17 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[577] = false,
+},
 },
 {
 ["GUID"] = "TMW:group:1WBOMMn6e4uo",
-["Conditions"] = {
-{
-["Name"] = "Гонка",
-["Type"] = "BUFFDUR",
+["Rows"] = 4,
+["Point"] = {
+["y"] = -164.2484840502393,
+["x"] = 165.9356173858876,
 },
-["n"] = 1,
-},
-["Columns"] = 1,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -48127,14 +48010,17 @@ nil,
 },
 },
 ["Scale"] = 1.066675186157227,
-["Rows"] = 4,
+["Conditions"] = {
+{
+["Name"] = "Гонка",
+["Type"] = "BUFFDUR",
+},
+["n"] = 1,
+},
 ["EnabledSpecs"] = {
 [577] = false,
 },
-["Point"] = {
-["y"] = -164.2484840502393,
-["x"] = 165.9356173858876,
-},
+["Columns"] = 1,
 },
 {
 ["GUID"] = "TMW:group:1WYEr=pJ2fWX",
@@ -48488,8 +48374,8 @@ nil,
 ["ShowTimer"] = true,
 ["ManaCheck"] = true,
 ["FakeHidden"] = true,
-["ShowTimerText"] = true,
 ["Name"] = "Демонические шипы",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -48576,16 +48462,6 @@ nil,
 ["Enabled"] = true,
 ["FakeHidden"] = true,
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
-},
-},
-},
-["Name"] = "Обжигающий жар",
-["GUID"] = "TMW:icon:1bpMN=L67NuX",
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -48605,6 +48481,16 @@ nil,
 },
 ["n"] = 1,
 },
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
+},
+["Name"] = "Обжигающий жар",
+["GUID"] = "TMW:icon:1bpMN=L67NuX",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -49728,6 +49614,120 @@ nil,
 },
 ["NumGroups"] = 23,
 },
+["Altery - Bronzebeard"] = {
+["Locked"] = true,
+["Version"] = 85702,
+["Groups"] = {
+{
+["GUID"] = "TMW:group:1SExmD2H4J3f",
+["Scale"] = 1.53334188461304,
+["Point"] = {
+["y"] = -71.7386451284504,
+["x"] = -177.390338970789,
+},
+["Icons"] = {
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+},
+},
+},
+},
+["Терцета - Гордунни"] = {
+["Version"] = 11020801,
+["Groups"] = {
+{
+["Icons"] = {
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+{
+["States"] = {
+{
+},
+nil,
+{
+},
+{
+},
+},
+},
+},
+["GUID"] = "TMW:group:1f3=86pGKqWw",
+},
+},
+},
 ["Земкатра - Гордунни"] = {
 ["Version"] = 11020801,
 ["Groups"] = {
@@ -50272,9 +50272,6 @@ nil,
 },
 ["n"] = 1,
 },
-["EnabledSpecs"] = {
-[581] = false,
-},
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -50423,6 +50420,9 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[581] = false,
+},
 },
 {
 ["GUID"] = "TMW:group:1QU9pibL8h=c",
@@ -50431,9 +50431,6 @@ nil,
 ["Point"] = {
 ["y"] = -95.52326183869091,
 ["x"] = -249.7964183449114,
-},
-["EnabledSpecs"] = {
-[577] = false,
 },
 ["Icons"] = {
 {
@@ -50586,14 +50583,17 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[577] = false,
+},
 },
 {
 ["GUID"] = "TMW:group:1QYl1m2Idcno",
-["Columns"] = 8,
 ["Point"] = {
 ["y"] = -194.3059107286232,
 ["x"] = 2.563172966732339,
 },
+["Columns"] = 8,
 ["Name"] = "Vengeance_old",
 ["Scale"] = 1.32177078723907,
 ["Conditions"] = {
@@ -51094,13 +51094,13 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1QwAexgZUwh7",
-["Columns"] = 7,
 ["Point"] = {
 ["y"] = -193.4807076468617,
 ["x"] = 250.4433746337891,
 ["point"] = "LEFT",
 ["relativePoint"] = "LEFT",
 },
+["Columns"] = 7,
 ["Name"] = "Vengeance_outdated",
 ["Scale"] = 1.31666660308838,
 ["Conditions"] = {
@@ -51581,10 +51581,6 @@ nil,
 },
 {
 ["GUID"] = "TMW:group:1TMpQ4TiNsaE",
-["Point"] = {
-["y"] = -55.4343272337182,
-["x"] = 13.6955518045015,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -51673,6 +51669,10 @@ nil,
 },
 },
 },
+},
+["Point"] = {
+["y"] = -55.4343272337182,
+["x"] = 13.6955518045015,
 },
 ["Scale"] = 1.533336758613586,
 },
@@ -52126,9 +52126,6 @@ nil,
 ["y"] = -151.2162586400587,
 ["x"] = 17.02752658342758,
 },
-["EnabledSpecs"] = {
-[577] = false,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -52375,6 +52372,9 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[577] = false,
+},
 },
 {
 ["GUID"] = "TMW:group:1WBOIBfm3UO_",
@@ -52388,9 +52388,6 @@ nil,
 ["Point"] = {
 ["y"] = -128.4861285747305,
 ["x"] = -283.2232020299954,
-},
-["EnabledSpecs"] = {
-[577] = false,
 },
 ["Icons"] = {
 {
@@ -52523,6 +52520,9 @@ nil,
 },
 },
 },
+["EnabledSpecs"] = {
+[577] = false,
+},
 },
 {
 ["GUID"] = "TMW:group:1WBOMMn6e4uo",
@@ -52623,6 +52623,7 @@ nil,
 ["ShowTimer"] = true,
 ["RangeCheck"] = true,
 ["Type"] = "cooldown",
+["Name"] = "Дезинтеграция",
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -52639,7 +52640,6 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Дезинтеграция",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -53248,11 +53248,11 @@ nil,
 },
 {
 ["View"] = "bar",
+["Columns"] = 1,
 ["Point"] = {
 ["y"] = -111.4266708833913,
 ["x"] = 2.50015841597854,
 },
-["Columns"] = 1,
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 206.428268432617,
@@ -53562,10 +53562,10 @@ nil,
 {
 ["OnConditionConditions"] = {
 {
-["Level"] = 20,
 ["Type"] = "BUFFSTACKS",
-["Checked"] = true,
+["Level"] = 20,
 ["Name"] = "Холодное сердце",
+["Checked"] = true,
 },
 ["n"] = 1,
 },
@@ -55391,6 +55391,8 @@ nil,
 ["Name"] = "Снятие порчи; Remove Corruption",
 ["Events"] = {
 {
+["Sound"] = "Simon Chime",
+["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -55399,10 +55401,10 @@ nil,
 },
 ["n"] = 1,
 },
-["Sound"] = "Simon Chime",
-["Type"] = "Sound",
 },
 {
+["Sound"] = "Simon Chime",
+["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -55411,8 +55413,6 @@ nil,
 },
 ["n"] = 1,
 },
-["Sound"] = "Simon Chime",
-["Type"] = "Sound",
 },
 ["n"] = 2,
 },
@@ -56519,12 +56519,7 @@ nil,
 {
 ["View"] = "bar",
 ["GUID"] = "TMW:group:1P3sADJSkjRT",
-["Point"] = {
-["y"] = -117.2742471519447,
-["x"] = 256.3671569824219,
-["point"] = "TOPLEFT",
-["relativePoint"] = "TOPLEFT",
-},
+["Columns"] = 1,
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 226.3663635253906,
@@ -56614,7 +56609,12 @@ nil,
 [102] = false,
 [105] = false,
 },
-["Columns"] = 1,
+["Point"] = {
+["y"] = -117.2742471519447,
+["x"] = 256.3671569824219,
+["point"] = "TOPLEFT",
+["relativePoint"] = "TOPLEFT",
+},
 },
 {
 ["GUID"] = "TMW:group:1P3sCR8==b7N",
@@ -57248,14 +57248,14 @@ nil,
 {
 ["GUID"] = "TMW:group:1TUY_fC=0FKq",
 ["Columns"] = 1,
+["Rows"] = 6,
+["Scale"] = 1.483332514762878,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Scale"] = 1.483332514762878,
-["Rows"] = 6,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -57286,6 +57286,8 @@ nil,
 ["Animation"] = "ACTVTNGLOW",
 },
 {
+["Sound"] = "Air Horn",
+["Type"] = "Sound",
 ["Event"] = "OnCondition",
 ["OnConditionConditions"] = {
 {
@@ -57295,8 +57297,6 @@ nil,
 },
 ["n"] = 1,
 },
-["Sound"] = "Air Horn",
-["Type"] = "Sound",
 },
 ["n"] = 2,
 },
@@ -58444,6 +58444,11 @@ nil,
 ["GUID"] = "TMW:group:1XHth=SSUUKU",
 ["Columns"] = 6,
 ["Scale"] = 1.800023436546326,
+["EnabledSpecs"] = {
+[103] = false,
+[104] = false,
+[105] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -58542,11 +58547,6 @@ nil,
 },
 },
 },
-["EnabledSpecs"] = {
-[103] = false,
-[104] = false,
-[105] = false,
-},
 ["Point"] = {
 ["y"] = -77.22095259097969,
 ["x"] = 7.945812413308457,
@@ -58633,6 +58633,11 @@ nil,
 ["Role"] = 1,
 ["Columns"] = 2,
 ["Scale"] = 0.8833366632461548,
+["EnabledSpecs"] = {
+[103] = false,
+[104] = false,
+[105] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -58756,11 +58761,6 @@ nil,
 },
 },
 },
-},
-["EnabledSpecs"] = {
-[103] = false,
-[104] = false,
-[105] = false,
 },
 ["Point"] = {
 ["y"] = -107.8289485654146,
@@ -59197,7 +59197,10 @@ nil,
 {
 ["Enabled"] = false,
 ["GUID"] = "TMW:group:1QYl1m2Idcno",
-["Columns"] = 8,
+["Point"] = {
+["y"] = -194.3059107286232,
+["x"] = 2.563172966732339,
+},
 ["Name"] = "Vengeance_old",
 ["Scale"] = 1.32177078723907,
 ["Conditions"] = {
@@ -59367,10 +59370,7 @@ nil,
 },
 },
 },
-["Point"] = {
-["y"] = -194.3059107286232,
-["x"] = 2.563172966732339,
-},
+["Columns"] = 8,
 },
 {
 ["GUID"] = "TMW:group:1QYlANGPIChB",
@@ -59382,8 +59382,8 @@ nil,
 ["ShowTimer"] = true,
 ["RangeCheck"] = true,
 ["Enabled"] = true,
-["ShowTimerText"] = true,
 ["Name"] = "Убийственный выстрел",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -59793,7 +59793,12 @@ nil,
 {
 ["Enabled"] = false,
 ["GUID"] = "TMW:group:1QwAexgZUwh7",
-["Columns"] = 7,
+["Point"] = {
+["y"] = -193.4807076468617,
+["x"] = 250.4433746337891,
+["point"] = "LEFT",
+["relativePoint"] = "LEFT",
+},
 ["Name"] = "Vengeance_outdated",
 ["Scale"] = 1.31666660308838,
 ["Conditions"] = {
@@ -59993,12 +59998,7 @@ nil,
 },
 },
 },
-["Point"] = {
-["y"] = -193.4807076468617,
-["x"] = 250.4433746337891,
-["point"] = "LEFT",
-["relativePoint"] = "LEFT",
-},
+["Columns"] = 7,
 },
 {
 ["GUID"] = "TMW:group:1R42CyPrqohR",
@@ -60177,6 +60177,9 @@ nil,
 },
 ["Scale"] = 1.033346176147461,
 ["Rows"] = 4,
+["EnabledSpecs"] = {
+[581] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -60334,9 +60337,6 @@ nil,
 },
 },
 },
-},
-["EnabledSpecs"] = {
-[581] = false,
 },
 },
 {
@@ -60540,9 +60540,6 @@ nil,
 },
 },
 ["Scale"] = 1.206692814826965,
-["EnabledSpecs"] = {
-[577] = false,
-},
 ["Icons"] = {
 {
 ["ManaCheck"] = true,
@@ -60554,23 +60551,7 @@ nil,
 },
 ["Type"] = "cooldown",
 ["Enabled"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Type"] = "SPELLCHARGES",
 ["Name"] = "Команда \"Взять!\"",
-["Level"] = 2,
-},
-["n"] = 1,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -60597,7 +60578,23 @@ nil,
 },
 ["n"] = 3,
 },
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Type"] = "SPELLCHARGES",
 ["Name"] = "Команда \"Взять!\"",
+["Level"] = 2,
+},
+["n"] = 1,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["States"] = {
 {
 },
@@ -60684,6 +60681,9 @@ nil,
 },
 },
 },
+},
+["EnabledSpecs"] = {
+[577] = false,
 },
 ["Columns"] = 6,
 },
@@ -61309,7 +61309,7 @@ nil,
 ["ManaCheck"] = true,
 ["FakeHidden"] = true,
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
+["Name"] = "Демонические шипы",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -61342,7 +61342,7 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Демонические шипы",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -64509,7 +64509,10 @@ nil,
 {
 ["View"] = "bar",
 ["GUID"] = "TMW:group:1QTaIA7pzlTa",
-["Columns"] = 1,
+["Point"] = {
+["y"] = -103.042113963871,
+["x"] = -6.9566300174583,
+},
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 250.432403564453,
@@ -64601,10 +64604,7 @@ nil,
 },
 },
 },
-["Point"] = {
-["y"] = -103.042113963871,
-["x"] = -6.9566300174583,
-},
+["Columns"] = 1,
 },
 {
 ["GUID"] = "TMW:group:1QTz2ibANSxP",
@@ -65903,6 +65903,10 @@ nil,
 {
 ["GUID"] = "TMW:group:1TMpQ4TiNsaE",
 ["Scale"] = 1.149999976158142,
+["Point"] = {
+["y"] = -77.60849442920085,
+["x"] = 3.478148893957064,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -65978,10 +65982,6 @@ nil,
 },
 },
 },
-},
-["Point"] = {
-["y"] = -77.60849442920085,
-["x"] = 3.478148893957064,
 },
 },
 {
@@ -67437,12 +67437,7 @@ nil,
 ["x"] = -120.5852325695686,
 },
 ["Scale"] = 1.28333330154419,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 4,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -67633,7 +67628,12 @@ nil,
 },
 },
 },
-["Rows"] = 4,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 },
 },
 ["NumGroups"] = 11,
@@ -68133,10 +68133,6 @@ nil,
 {
 ["Scale"] = 1.19999706745148,
 ["GUID"] = "TMW:group:1SaiverUtXJx",
-["Point"] = {
-["y"] = -126.6662409150902,
-["x"] = -4.166628633703177,
-},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -68233,18 +68229,22 @@ nil,
 },
 },
 },
+["Point"] = {
+["y"] = -126.6662409150902,
+["x"] = -4.166628633703177,
+},
 },
 {
 ["GUID"] = "TMW:group:1SajoRKDvJfc",
 ["Columns"] = 1,
+["Rows"] = 3,
+["Scale"] = 1.19998574256897,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Scale"] = 1.19998574256897,
-["Rows"] = 3,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -69068,14 +69068,14 @@ nil,
 {
 ["GUID"] = "TMW:group:1TAnvcUH1LmH",
 ["Columns"] = 1,
+["Rows"] = 4,
+["Scale"] = 1.31668221950531,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
 },
 ["n"] = 1,
 },
-["Scale"] = 1.31668221950531,
-["Rows"] = 4,
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -69403,11 +69403,6 @@ nil,
 },
 },
 {
-["OnlyMine"] = true,
-["ShowTimer"] = true,
-["Name"] = "Солнечный огонь",
-["ShowTimerText"] = true,
-["BuffOrDebuff"] = "HARMFUL",
 ["States"] = {
 {
 },
@@ -69417,6 +69412,11 @@ nil,
 {
 },
 },
+["OnlyMine"] = true,
+["Name"] = "Солнечный огонь",
+["ShowTimerText"] = true,
+["BuffOrDebuff"] = "HARMFUL",
+["ShowTimer"] = true,
 ["Type"] = "buff",
 ["Unit"] = "target",
 },
@@ -70221,7 +70221,7 @@ nil,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
 ["Enabled"] = true,
-["Name"] = "Восстановление",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -70246,7 +70246,7 @@ nil,
 },
 ["n"] = 1,
 },
-["ShowTimerText"] = true,
+["Name"] = "Восстановление",
 ["States"] = {
 {
 },
@@ -71088,10 +71088,7 @@ nil,
 {
 ["Enabled"] = false,
 ["GUID"] = "TMW:group:1XMzG6IVmuuh",
-["Point"] = {
-["y"] = -90.63967374286581,
-["x"] = 9.739374910638595,
-},
+["Columns"] = 5,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["SpacingX"] = 9.9,
@@ -71200,15 +71197,18 @@ nil,
 },
 },
 },
-["Columns"] = 5,
+["Point"] = {
+["y"] = -90.63967374286581,
+["x"] = 9.739374910638595,
+},
 },
 {
 ["GUID"] = "TMW:group:1XMzI2d3E=WY",
-["Name"] = "Eclipse_Predictor",
 ["Point"] = {
 ["y"] = -125.1813837367286,
 ["x"] = -134.7272414336164,
 },
+["Name"] = "Eclipse_Predictor",
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -71628,8 +71628,8 @@ nil,
 },
 },
 ["Locked"] = true,
-["SoundChannel"] = "Master",
 ["NumGroups"] = 15,
+["SoundChannel"] = "Master",
 ["Version"] = 12001103,
 },
 ["Элантаис - Гордунни"] = {
@@ -71979,7 +71979,6 @@ nil,
 ["Type"] = "cooldown",
 ["Events"] = {
 {
-["Type"] = "Sound",
 ["OnConditionConditions"] = {
 {
 ["Name"] = "Снятие порчи",
@@ -71987,11 +71986,11 @@ nil,
 },
 ["n"] = 1,
 },
-["Event"] = "OnCondition",
+["Type"] = "Sound",
 ["Sound"] = "Simon Chime",
+["Event"] = "OnCondition",
 },
 {
-["Type"] = "Sound",
 ["OnConditionConditions"] = {
 {
 ["Name"] = "Умиротворение",
@@ -71999,8 +71998,9 @@ nil,
 },
 ["n"] = 1,
 },
-["Event"] = "OnCondition",
+["Type"] = "Sound",
 ["Sound"] = "Simon Chime",
+["Event"] = "OnCondition",
 },
 ["n"] = 2,
 },
@@ -73163,7 +73163,12 @@ nil,
 {
 ["View"] = "bar",
 ["GUID"] = "TMW:group:1P3sADJSkjRT",
-["Columns"] = 1,
+["Point"] = {
+["y"] = -229.0933389488197,
+["x"] = 265.4584655761719,
+["point"] = "TOPLEFT",
+["relativePoint"] = "TOPLEFT",
+},
 ["SettingsPerView"] = {
 ["bar"] = {
 ["SizeX"] = 226.3663635253906,
@@ -73253,12 +73258,7 @@ nil,
 [102] = false,
 [105] = false,
 },
-["Point"] = {
-["y"] = -229.0933389488197,
-["x"] = 265.4584655761719,
-["point"] = "TOPLEFT",
-["relativePoint"] = "TOPLEFT",
-},
+["Columns"] = 1,
 },
 {
 ["GUID"] = "TMW:group:1P3sCR8==b7N",
@@ -73903,12 +73903,7 @@ nil,
 ["x"] = -99.60612607038809,
 },
 ["Scale"] = 1.483332514762878,
-["Conditions"] = {
-{
-["Type"] = "COMBAT",
-},
-["n"] = 1,
-},
+["Rows"] = 6,
 ["Icons"] = {
 {
 ["ShowTimer"] = true,
@@ -73938,7 +73933,6 @@ nil,
 ["Animation"] = "ACTVTNGLOW",
 },
 {
-["Type"] = "Sound",
 ["OnConditionConditions"] = {
 {
 ["Type"] = "DEBUFFSTACKS",
@@ -73947,8 +73941,9 @@ nil,
 },
 ["n"] = 1,
 },
-["Event"] = "OnCondition",
+["Type"] = "Sound",
 ["Sound"] = "Air Horn",
+["Event"] = "OnCondition",
 },
 ["n"] = 2,
 },
@@ -74215,7 +74210,12 @@ nil,
 },
 },
 },
-["Rows"] = 6,
+["Conditions"] = {
+{
+["Type"] = "COMBAT",
+},
+["n"] = 1,
+},
 },
 {
 ["View"] = "bar",
@@ -75104,6 +75104,11 @@ nil,
 ["y"] = 27.19776778591822,
 ["x"] = -0.1647178563563407,
 },
+["EnabledSpecs"] = {
+[103] = false,
+[102] = false,
+[105] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -75176,11 +75181,6 @@ nil,
 },
 },
 },
-},
-["EnabledSpecs"] = {
-[103] = false,
-[102] = false,
-[105] = false,
 },
 },
 {
@@ -75306,6 +75306,11 @@ nil,
 ["y"] = -125.1813837367286,
 ["x"] = -134.7272414336164,
 },
+["EnabledSpecs"] = {
+[103] = false,
+[104] = false,
+[105] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -75429,11 +75434,6 @@ nil,
 },
 },
 },
-},
-["EnabledSpecs"] = {
-[103] = false,
-[104] = false,
-[105] = false,
 },
 },
 {
@@ -75711,6 +75711,18 @@ nil,
 ["Enabled"] = true,
 ["ShowTimer"] = true,
 ["BuffOrDebuff"] = "HARMFUL",
+["ShowTimerText"] = true,
+["Unit"] = "target",
+["InvertTimer"] = true,
+["OnlyMine"] = true,
+["Name"] = "Извержение Бездны; Исповедь",
+["SettingsPerView"] = {
+["icon"] = {
+["Texts"] = {
+[2] = "",
+},
+},
+},
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -75748,18 +75760,6 @@ nil,
 },
 ["n"] = 1,
 },
-["Unit"] = "target",
-["InvertTimer"] = true,
-["OnlyMine"] = true,
-["Name"] = "Извержение Бездны; Исповедь",
-["SettingsPerView"] = {
-["icon"] = {
-["Texts"] = {
-[2] = "",
-},
-},
-},
-["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -75828,7 +75828,7 @@ nil,
 ["BuffOrDebuff"] = "HARMFUL",
 ["Unit"] = "target",
 ["ClockGCD"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Всепожирающая чума",
 ["Type"] = "buff",
 ["Conditions"] = {
 {
@@ -75836,7 +75836,7 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Всепожирающая чума",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -75868,10 +75868,10 @@ nil,
 ["Type"] = "COMBAT",
 },
 {
-["Operator"] = "<",
 ["Level"] = 20,
 ["Type"] = "HEALTH",
 ["Unit"] = "target",
+["Operator"] = "<",
 },
 ["n"] = 2,
 },
@@ -75900,7 +75900,7 @@ nil,
 {
 ["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Слово силы: Утешение",
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -75909,7 +75909,7 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Слово силы: Утешение",
+["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -76168,9 +76168,6 @@ nil,
 {
 ["ShowTimer"] = true,
 ["ClockGCD"] = true,
-["ShowTimerText"] = true,
-["Name"] = "Манифест безумия",
-["Type"] = "item",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -76181,6 +76178,9 @@ nil,
 },
 ["n"] = 2,
 },
+["Name"] = "Манифест безумия",
+["ShowTimerText"] = true,
+["Type"] = "item",
 ["DurationMin"] = 1,
 ["Events"] = {
 {
@@ -76246,8 +76246,8 @@ nil,
 {
 ["ClockGCD"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Исчадие Тьмы",
 ["ShowTimerText"] = true,
+["Name"] = "Исчадие Тьмы",
 ["Type"] = "cooldown",
 ["States"] = {
 {
@@ -76264,8 +76264,8 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
 ["Name"] = "Игры разума",
+["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -76322,7 +76322,7 @@ nil,
 {
 ["Enabled"] = true,
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Божественное перышко",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -76338,7 +76338,7 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Божественное перышко",
+["ShowTimerText"] = true,
 ["Type"] = "buff",
 ["States"] = {
 {
@@ -76356,7 +76356,7 @@ nil,
 ["Type"] = "cooldown",
 ["ShowTTText"] = true,
 ["Enabled"] = true,
-["Name"] = "Ментальный крик",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -76386,7 +76386,7 @@ nil,
 },
 ["n"] = 1,
 },
-["ShowTimerText"] = true,
+["Name"] = "Ментальный крик",
 ["States"] = {
 {
 },
@@ -76407,7 +76407,7 @@ nil,
 ["BuffOrDebuff"] = "HARMFUL",
 ["ClockGCD"] = true,
 ["Enabled"] = true,
-["Name"] = "Уход в тень",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -76416,7 +76416,7 @@ nil,
 },
 },
 ["RangeCheck"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Уход в тень",
 ["Type"] = "cooldown",
 ["States"] = {
 {
@@ -76438,25 +76438,7 @@ nil,
 ["ShowTimer"] = true,
 ["Type"] = "cooldown",
 ["Enabled"] = true,
-["Events"] = {
-{
-["Type"] = "Animations",
-["Animation"] = "ACTVTNGLOW",
-["OnlyShown"] = true,
-["OnConditionConditions"] = {
-{
-["Name"] = "Массовое рассеивание",
-["Type"] = "SPELLCD",
-},
-{
-["Type"] = "COMBAT",
-},
-["n"] = 2,
-},
-["Event"] = "WCSP",
-},
-["n"] = 1,
-},
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -76477,7 +76459,25 @@ nil,
 },
 ["n"] = 2,
 },
-["ShowTimerText"] = true,
+["Events"] = {
+{
+["Type"] = "Animations",
+["Animation"] = "ACTVTNGLOW",
+["OnlyShown"] = true,
+["OnConditionConditions"] = {
+{
+["Name"] = "Массовое рассеивание",
+["Type"] = "SPELLCD",
+},
+{
+["Type"] = "COMBAT",
+},
+["n"] = 2,
+},
+["Event"] = "WCSP",
+},
+["n"] = 1,
+},
 ["States"] = {
 {
 },
@@ -76496,7 +76496,7 @@ nil,
 ["ManaCheck"] = true,
 ["ShowTimer"] = true,
 ["OnlyInBags"] = true,
-["Name"] = "Поток Бездны",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -76505,7 +76505,7 @@ nil,
 },
 },
 ["Type"] = "cooldown",
-["ShowTimerText"] = true,
+["Name"] = "Поток Бездны",
 ["OnlyEquipped"] = true,
 ["States"] = {
 {
@@ -76703,7 +76703,7 @@ nil,
 ["ShowTimer"] = true,
 ["Unit"] = "Xynnmage-Alleria",
 ["FakeHidden"] = true,
-["Name"] = "Поток Бездны",
+["ShowTimerText"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -76724,7 +76724,7 @@ nil,
 ["n"] = 1,
 },
 ["GUID"] = "TMW:icon:1emOSmXjPeWU",
-["ShowTimerText"] = true,
+["Name"] = "Поток Бездны",
 ["Type"] = "cooldown",
 ["States"] = {
 {
@@ -76844,9 +76844,9 @@ nil,
 ["Enabled"] = true,
 ["ShowTimer"] = true,
 ["FakeHidden"] = true,
-["ShowTimerText"] = true,
-["GUID"] = "TMW:icon:1eo4fSEt9viC",
 ["Name"] = "Сияние",
+["GUID"] = "TMW:icon:1eo4fSEt9viC",
+["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -76871,7 +76871,7 @@ nil,
 ["Enabled"] = true,
 ["ShowTimer"] = true,
 ["FakeHidden"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Выброс энергии",
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -76883,7 +76883,7 @@ nil,
 ["n"] = 1,
 },
 ["GUID"] = "TMW:icon:1eo4fSEuynGw",
-["Name"] = "Выброс энергии",
+["ShowTimerText"] = true,
 ["Type"] = "buff",
 ["States"] = {
 {
@@ -77233,9 +77233,9 @@ nil,
 ["BuffOrDebuff"] = "HARMFUL",
 ["Unit"] = "target",
 ["OnlyMine"] = true,
-["Name"] = "Слово Тьмы: Боль; Очищение зла",
-["Type"] = "buff",
 ["ShowTimerText"] = true,
+["Type"] = "buff",
+["Name"] = "Слово Тьмы: Боль; Очищение зла",
 ["States"] = {
 {
 },
@@ -77325,7 +77325,7 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["Name"] = "Пожиратель разума",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -77333,7 +77333,7 @@ nil,
 },
 },
 },
-["ShowTimerText"] = true,
+["Name"] = "Пожиратель разума",
 ["Type"] = "buff",
 ["States"] = {
 {
@@ -77347,8 +77347,8 @@ nil,
 },
 {
 ["ShowTimer"] = true,
-["ShowTimerText"] = true,
 ["Name"] = "13",
+["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -77701,7 +77701,7 @@ nil,
 "TMW:icon:1eo4fSEuynGw",
 "TMW:icon:1eo4fSEt9viC",
 },
-["ShowTimerText"] = true,
+["Name"] = "Сияние",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -77709,7 +77709,7 @@ nil,
 },
 },
 },
-["Name"] = "Сияние",
+["ShowTimerText"] = true,
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -77757,19 +77757,7 @@ nil,
 ["Enabled"] = true,
 ["ShowTimer"] = true,
 ["RangeCheck"] = true,
-["States"] = {
-{
-},
-{
-["Color"] = "ffffffffd",
-["Alpha"] = 0.51,
-},
-{
-["Color"] = "ff7f0808",
-},
-{
-},
-},
+["OnlyInBags"] = true,
 ["Events"] = {
 {
 ["Type"] = "Animations",
@@ -77804,7 +77792,7 @@ nil,
 },
 ["n"] = 2,
 },
-["Name"] = "Взрыв разума",
+["ShowTimerText"] = true,
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -77812,10 +77800,22 @@ nil,
 },
 },
 },
-["ShowTimerText"] = true,
+["Name"] = "Взрыв разума",
 ["Type"] = "cooldown",
 ["OnlyEquipped"] = true,
-["OnlyInBags"] = true,
+["States"] = {
+{
+},
+{
+["Color"] = "ffffffffd",
+["Alpha"] = 0.51,
+},
+{
+["Color"] = "ff7f0808",
+},
+{
+},
+},
 },
 {
 ["Enabled"] = true,
@@ -77823,7 +77823,7 @@ nil,
 ["RangeCheck"] = true,
 ["OnlyActvtnOverlay"] = true,
 ["CooldownCheck"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Темное вознесение; Облик Бездны",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -77832,7 +77832,7 @@ nil,
 },
 },
 ["Type"] = "cooldown",
-["Name"] = "Темное вознесение; Облик Бездны",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -77872,8 +77872,8 @@ nil,
 {
 ["Enabled"] = true,
 ["ShowTimer"] = true,
-["Name"] = "Исповедь; Авангард из Круговерти; Вечный диск Нарана",
 ["ShowTimerText"] = true,
+["Name"] = "Исповедь; Авангард из Круговерти; Вечный диск Нарана",
 ["Conditions"] = {
 {
 ["Type"] = "COMBAT",
@@ -77903,6 +77903,7 @@ nil,
 "TMW:icon:1er=Ois=Zrub",
 },
 ["Name"] = "Поток Бездны",
+["ShowTimerText"] = true,
 ["States"] = {
 {
 },
@@ -77915,7 +77916,6 @@ nil,
 {
 },
 },
-["ShowTimerText"] = true,
 ["Type"] = "cooldown",
 ["OnlyEquipped"] = true,
 ["OnlyInBags"] = true,
@@ -77962,7 +77962,7 @@ nil,
 ["Enabled"] = true,
 ["ShowTimer"] = true,
 ["RangeCheck"] = true,
-["ShowTimerText"] = true,
+["Name"] = "Глубинный ужас",
 ["SettingsPerView"] = {
 ["icon"] = {
 ["Texts"] = {
@@ -77986,7 +77986,7 @@ nil,
 },
 ["n"] = 1,
 },
-["Name"] = "Глубинный ужас",
+["ShowTimerText"] = true,
 ["Type"] = "cooldown",
 ["States"] = {
 {
@@ -78294,10 +78294,10 @@ nil,
 ["Unit"] = "target",
 },
 {
-["Operator"] = "<",
 ["Level"] = 20,
 ["Type"] = "HEALTH",
 ["Unit"] = "target",
+["Operator"] = "<",
 },
 ["n"] = 3,
 },
@@ -78435,6 +78435,10 @@ nil,
 ["y"] = 80.12560712433527,
 ["x"] = -2.035189318418958,
 },
+["EnabledSpecs"] = {
+[256] = false,
+[257] = false,
+},
 ["Icons"] = {
 {
 ["Enabled"] = true,
@@ -78539,10 +78543,6 @@ nil,
 },
 },
 },
-["EnabledSpecs"] = {
-[256] = false,
-[257] = false,
-},
 },
 {
 ["Icons"] = {
@@ -78630,8 +78630,8 @@ nil,
 },
 },
 },
-["NumGroups"] = 12,
 ["Version"] = 12001103,
+["NumGroups"] = 12,
 },
 ["Нэмея - Гордунни"] = {
 ["Version"] = 11020801,
@@ -78687,10 +78687,11 @@ nil,
 },
 },
 },
-["Estrea - Alleria"] = {
-["Version"] = 91100,
+["Артэмита - Гордунни"] = {
+["Version"] = 11020801,
 ["Groups"] = {
 {
+["GUID"] = "TMW:group:1fKzmZrTEHiw",
 ["Icons"] = {
 {
 ["States"] = {
@@ -78737,14 +78738,14 @@ nil,
 },
 },
 },
-["GUID"] = "TMW:group:1XHD9LIyClCx",
 },
 },
 },
-["Алиэрена - Гордунни"] = {
-["Version"] = 12000002,
+["Литрэс - Гордунни"] = {
+["Version"] = 11020801,
 ["Groups"] = {
 {
+["GUID"] = "TMW:group:1fMrHKBRDK8e",
 ["Icons"] = {
 {
 ["States"] = {
@@ -78791,7 +78792,6 @@ nil,
 },
 },
 },
-["GUID"] = "TMW:group:1fRXEjRyTuya",
 },
 },
 },

@@ -24,30 +24,16 @@ RaiderIO_Config = {
 ["enableUnitTooltips"] = true,
 ["alwaysExtendTooltip"] = false,
 ["enableWhoMessages"] = true,
-["showScoreInCombat"] = true,
 ["showSimpleScoreColors"] = false,
+["showScoreInCombat"] = true,
 ["previouslyEnabledLogging"] = false,
 }
-RaiderIO_LastCharacter = "eu-Эстрэя-gordunni"
+RaiderIO_LastCharacter = "eu-Алоиза-gordunni"
 RaiderIO_MissingCharacters = {
-["eu-Axxiona-kazzak"] = true,
-["eu-Чит-gordunni"] = true,
-["eu-Эстрэя-gordunni"] = true,
-["eu-Skullchaos-blackhand"] = true,
-["eu-Thrashing-kazzak"] = true,
-["eu-Уэлок-gordunni"] = true,
-["eu-Leafylight-anachronos"] = true,
-["eu-Zuljunko-chogall"] = true,
-["eu-Grokal-blackhand"] = true,
-["eu-Ibrother-blackmoore"] = true,
-["eu-Гидропония-gordunni"] = true,
-["eu-Giocow-sanguino"] = true,
-["eu-Алиссандра-gordunni"] = true,
-["eu-Лиззлетт-howling-fjord"] = true,
-["eu-Sellavina-blackhand"] = true,
-["eu-Lìllyfeé-thrall"] = true,
-["eu-Tutraam-elune"] = true,
-["eu-party5-gordunni"] = true,
+["eu-Алоиза-gordunni"] = true,
+["eu-Эврелия-gordunni"] = true,
+["eu-Молоткузница-gordunni"] = true,
+["eu-Фаелий-gordunni"] = true,
 }
 RaiderIO_MissingServers = {
 }
